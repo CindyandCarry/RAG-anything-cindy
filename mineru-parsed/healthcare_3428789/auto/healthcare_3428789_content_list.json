@@ -1,0 +1,1139 @@
+[
+  {
+    "type": "text",
+    "text": "ORIGINAL ARTICLE ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      113,
+      394,
+      139
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Effects of a low-energy diet on sexual function and lower urinary tract symptoms in obese men ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      160,
+      895,
+      218
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "J Khoo1 , C Piantadosi2 , S Worthley3 and GA Wittert2 ",
+    "bbox": [
+      92,
+      234,
+      549,
+      253
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 Department of Medicine, Changi General Hospital, Singapore, Singapore; 2 Discipline of Medicine, University of Adelaide, Adelaide, South Australia, Australia and 3 Department of Cardiology, University of Adelaide and Royal Adelaide Hospital, Adelaide, South Australia, Australia ",
+    "bbox": [
+      92,
+      269,
+      939,
+      310
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Objective: Abdominal obesity and type 2 diabetes mellitus are associated with erectile and urinary dysfunction in men. ",
+    "bbox": [
+      100,
+      326,
+      904,
+      340
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Subjects: We compared the effects of 8 weeks of a low-calorie diet using meal replacements (Kicstart) on insulin sensitivity, plasma testosterone levels, erectile function (measured by the five-item version of the International Index of Erectile Function, IIEF-5), sexual desire (measured by the Sexual Desire Inventory, SDI) and LUTS (measured by the International Prostate Symptom Score, IPSS), in abdominally obese (body mass index $\\geqslant 3 0 \\mathsf { k g } \\mathsf { m } ^ { - 2 } .$ , waist circumference ( $N { \\mathsf { C } } ) \\geqslant 1 0 2 { \\mathsf { c m } } ,$ ) men (mean age 49.7 years) with uncomplicated diet or oral hypoglycemic-treated type 2 diabetes mellitus $( n = 1 9 )$ or without type 2 diabetes mellitus $( n = 2 5 )$ , with a control group of nondiabetic men $( n = 2 6 )$ with similar body mass index and WC. ",
+    "bbox": [
+      92,
+      350,
+      939,
+      432
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Results: Weight loss of $\\sim 1 0 \\%$ was significantly associated with increased insulin sensitivity, plasma testosterone levels, IIEF-5 and SDI scores, as well as reduced WC and IPSS scores, in diabetic as well as nondiabetic men. The degree of weight loss was significantly associated with improvements in plasma testosterone levels $\\prime r = - 0 . 3 4 )$ , erectile function $( r = - 0 . 2 6 )$ and LUTS $( r = 0 . 6 5 )$ . Reduction in LUTS was significantly associated with increased plasma testosterone $( r = - 0 . 3 5 )$ ), erectile function $( r = - 0 . 4 2 )$ and sexual desire $( r = - 0 . 4 0 )$ . ",
+    "bbox": [
+      92,
+      433,
+      939,
+      499
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Conclusions: Diet-induced weight loss significantly and rapidly improves sexual function, and reduces LUTS, in obese middleaged men with or without diabetes. ",
+    "bbox": [
+      87,
+      499,
+      934,
+      524
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity (2010) 34, 1396–1403; doi:10.1038/ijo.2010.76; published online 20 April 2010 ",
+    "bbox": [
+      89,
+      525,
+      857,
+      539
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: weight loss; sexual function; urinary tract symptoms; male; diabetes ",
+    "bbox": [
+      95,
+      557,
+      630,
+      569
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      619,
+      191,
+      634
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abdominal obesity is directly associated with sexual dysfunction in several cross-sectional and prospective observational studies.1–3 In addition to impaired sexual performance, obesity has also been associated with decreased sexual desire and reduced enjoyment of sexual activity.4 A decrease in plasma testosterone and sex-hormone binding globulin (SHBG) levels associated with obesity and insulin resistance may have a role in both reduced sexual desire and erectile dysfunction (ED).5 ",
+    "bbox": [
+      92,
+      650,
+      495,
+      775
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ED in men with abdominal obesity is largely considered to be the consequence of endothelial dysfunction and defective vasodilator production (secondary to chronic inflammation6 and insulin resistance7 ). The issue of obesity-related ED is of broader significance than its consequences for sexual activity; ED has been recognized as a predictor of coronary heart disease in insulin-resistant men.8 Moreover, men with ED are more likely to be depressed and to have lower quality of life.4 ",
+    "bbox": [
+      92,
+      778,
+      495,
+      803
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      534,
+      621,
+      937,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Metabolic syndrome9 and abdominal obesity10 are also associated with a higher prevalence of frequency and urgency of urination, incomplete bladder emptying and other irritative and obstructive lower urinary tract symptoms (LUTSs). In addition, there are strong associations between ED and LUTS, which are independent of age, weight, cardiovascular risk factors and androgen levels. The severity of urinary symptoms is correlated with the degree of erectile impairment.11,12 Moreover, pharmacological treatment of LUTS has been shown to decrease the severity of ED, and vice versa. 13 Therefore, it is highly likely that cardiovascular disease, insulin resistance, ED and LUTS share common pathogenetic pathways in obese men, and will, accordingly, respond to a common intervention. ",
+    "bbox": [
+      534,
+      720,
+      937,
+      887
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Correspondence: Professor GA Wittert, Department of Medicine, University of Adelaide, Level 6 Eleanor Harrald Bldg, Royal Adelaide Hospital, Frome Road, Adelaide, South Australia 5005, Australia. E-mail: gary.wittert@adelaide.edu.au Received 24 July 2009; revised 26 January 2010; accepted 12 March 2010; published online 20 April 2010 ",
+    "bbox": [
+      92,
+      820,
+      495,
+      889
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity (2010) 34, 1396–1403 $\\circledcirc$ 2010 Macmillan Publishers Limited All rights reserved 0307-0565/10 ",
+    "bbox": [
+      159,
+      55,
+      497,
+      78
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      42,
+      56,
+      68,
+      76
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "www.nature.com/ijo ",
+    "bbox": [
+      403,
+      81,
+      495,
+      93
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      98,
+      462,
+      126
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Bariatric surgery significantly improves erectile function and sexual desire in morbidly obese men.14 The effects of rapid diet-induced weight are less clear: in one study, a third of obese men with ED reported improvement in erectile function and increased sexual desire with low-calorie diets (LCDs) and physical activity,15 but another group demonstrated increased testosterone levels without improvement in sexual function scores in obese men with and without ED.16 Moreover, there are little data on the effect of weight loss in ameliorating LUTSs in obese men with ED. Therefore, our study investigated the effects of rapid weight loss induced by a modified LCD, on ED, sexual desire, androgen levels and LUTS, and the relationships between improvements in weight, abdominal adiposity and metabolic parameters, with changes in sexual function and LUTS. ",
+    "bbox": [
+      60,
+      127,
+      463,
+      337
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "control group. All subjects in both groups were nonsmokers. The diabetic patients all had satisfactory glycemic control $( \\mathrm { G H b } { \\leqslant } 7 \\% )$ on diet or metformin. None of the nondiabetic subjects were on antihypertensive medication, whereas three diabetics were on atenolol and four were on angiotensinconverting enzyme inhibitor or angiotensin-receptor blocker therapy. None of the subjects had ever sought medical advice for LUTSs or erectile problems, and none had a history of treatment with, or were currently on, phosphodiesterase-5 inhibitors. Exclusion criteria included impaired renal function (estimated glomerular filtration rate $< 6 0 \\mathrm { m l } \\mathrm { m i n } ^ { - 1 }$ ), microalbuminuria, pelvic trauma, prostate disease, peripheral or autonomic neuropathy, hypertension (blood pressure $> 1 4 0 / 9 0 \\mathrm { m m } \\mathrm { H g }$ ), symptomatic or previously diagnosed cardiovascular disease, psychiatric problems, use of recreational drugs (such as marijuana, cocaine, amphetamines, heroin) or alcohol intake exceeding $5 0 0 { \\mathrm { g } }$ per week in the previous 12 months. The study was approved by the Human Research Ethics Committee of the Royal Adelaide Hospital. Informed consent was obtained at a screening visit. One week later, subjects visited the clinic after an overnight 12-h fast. Height (using a wall-mounted stadiometer) and weight (using the Nuweigh JAC 929-300 platform scale (Nuweigh, Adelaide, Australia; maximum $3 0 0 \\mathrm { k g } ,$ minimum $0 . 4 \\mathrm { k g }$ , error $= 0 . 0 2 \\mathrm { k g } )$ ) were measured unshod. The mean of the three measurements of waist circumference (WC) (at mid-axillary level, midway between the lower costal border and at the top of the iliac crest) was used in the analyses. A venous blood sample was obtained for biochemistry and hormone levels, and questionnaires were administered to each subject to assess their erectile function, sexual desire, as well as the presence and severity of LUTSs. ",
+    "bbox": [
+      502,
+      99,
+      905,
+      549
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Materials and methods ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      368,
+      243,
+      382
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Subjects ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      397,
+      112,
+      409
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Obese (body mass index ${ \\geqslant } 3 0 \\mathrm { k g } \\mathrm { m } ^ { - 2 } .$ ) men, with or without type 2 diabetes mellitus, were recruited by advertisement from the community in Adelaide, South Australia, to be enrolled into a weight loss program using at least two meal replacements (Kicstart, Pharmacy Health Solutions Pty Ltd, Sydney, Australia) daily (Figure 1). This intervention group comprised 26 diabetic and 25 nondiabetic obese men. In all, 26 other obese nondiabetic men, who had been matched for age and body mass index with the nondiabetic intervention subjects, were also recruited by advertisements to form the ",
+    "bbox": [
+      60,
+      411,
+      463,
+      552
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_3428789/auto/images/11e808dc01e5c6f03bc788af9470c755fdc04f5829e89b0d059f19a50d544342.jpg",
+    "image_caption": [
+      "Figure 1 Trial protocol flow chart. $\\mathsf { L C D = }$ modified low-calorie diet. \\*All subjects (one control, seven diabetics) who dropped out of the study had declined furthe participation because of the inconvenience of returning for 2-weekly follow-up visits. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      215,
+      578,
+      747,
+      858
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      805,
+      902,
+      956,
+      914
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      929,
+      56,
+      956,
+      76
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      85,
+      956,
+      95
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      502,
+      56,
+      781,
+      78
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Questionnaires ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      99,
+      186,
+      110
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The abridged five-item version of the International Index of Erectile Function (IIEF-5) was used to assess erectile function.17 Each question is marked on a 5-point scale $1 =$ lowest, $5 =$ highest) and the sum of points was the IIEF-5 score (maximum 25 points). ED was defined as a score of $\\leqslant 2 1$ . ",
+    "bbox": [
+      92,
+      113,
+      494,
+      195
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The Sexual Desire Inventory (SDI) measures the degree of interest in engaging in sexual activity, with 14 questions marked on 7- or 8-point scales (maximum total score 109 points18)Fhigher scores indicate higher levels of sexual desire. The International Prostate Symptom Scale (IPSS) is a series of questions used to assess the severity of irritative (frequency, urgency, nocturia) and obstructive LUTSs (incomplete emptying, intermittency, weak stream, straining), attributable to bladder outlet obstruction caused by prostatic enlargement.19 Symptoms are classified as mild (score 0–7), moderate (8–19) or severe (20–35). ",
+    "bbox": [
+      92,
+      197,
+      495,
+      351
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Modified LCD ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      382,
+      184,
+      394
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Subjects in the intervention group were asked to consume 2–3 sachets daily (one at breakfast and lunch and/or dinner) of Kicstart, providing a maximum of $4 5 0 \\mathrm { k c a l }$ of energy, $0 . 8 \\mathrm { g k g ^ { - 1 } }$ ideal body weight of high-quality protein, as well as the recommended daily allowances of minerals, vitamins, trace elements, omega-3 and omega -6 essential fatty acids. One small meal at either lunch or dinner was permitted, consisting of ‘noncarbohydrate’ vegetables and a small piece of meat, fish or chicken, to achieve a total energy intake of approximately $8 5 0 { - } 9 0 0 \\mathrm { k c a l }$ per day. Each subject was given the same meal plan with details of specific allowable foods and portions, and was able to contact the dietician in between follow-up visits to answer queries about the diet. This regime continued for 8 weeks. We previously used a similar LCD to minimize the dropout rate and the time required to achieve a $1 0 { - } 1 2 \\%$ weight loss.20 The subjects in the control group ate their usual diet during the study period. A research dietician assisted the patients to implement the diets, and monitor their progress at 2-weekly intervals. All participants were asked to maintain their usual daily activity patterns. Subjects maintained diaries that detailed the timing and portions of specific foods and beverages for the evaluation of compliance. These diaries were evaluated by the dietician. ",
+    "bbox": [
+      92,
+      397,
+      495,
+      733
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Plasma biochemistry ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      762,
+      226,
+      776
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "At baseline and completion of the weight loss phase, venous blood was collected after a $^ { 1 2 \\mathrm { - h } }$ overnight fast. Plasma glucose concentration $\\mathrm { ( m m o l l ^ { - 1 } ) }$ was measured on the automated Olympus 5400 analyser (Olympus, Tokyo, Japan) using a glucose hexokinase enzymatic kit, with intra-assay coefficient of variation (CV) of $2 . 0 4 \\%$ at $3 . 4 \\mathrm { m m o l } 1 ^ { - 1 }$ . Serum insulin concentration $( \\mu \\mathrm { U } \\mathrm { m l } ^ { - 1 } ) ,$ ) was measured on the Roche E170 (Roche, Indianapolis, IN, USA). The intra-assay CV was ",
+    "bbox": [
+      92,
+      778,
+      495,
+      889
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$3 \\%$ at $6 2 \\mu \\mathrm { U } \\mathrm { m l } ^ { - 1 }$ . Serum total cholesterol concentration was measured on the automated Olympus 5400 analyser (intra-assay CV of $1 . 8 \\%$ at $5 . 4 \\mathrm { m m o l l } ^ { - 1 }$ ). Insulin sensitivity was calculated from fasting glucose and insulin using the QUICKI (Quantitative Insulin Sensitivity Check Index) $) = 1 / ( \\log _ { 1 0 } \\mathrm { i n s u l i n + \\log _ { 1 0 } g l u c o s e ) } _ { i }$ , where insulin is expressed in $\\mu \\mathrm { U } \\mathrm { m l } ^ { - 1 }$ and glucose in mg per $1 0 0 \\mathrm { m l }$ $( \\sim \\mathrm { m m o l l ^ { - 1 } } \\times 1 8 )$ , which has a good correlation $( r = 0 . 7 8 )$ with insulin sensitivity obtained from clamp studies, with QUICKI values below 0.36 (the lower limit of $9 5 \\%$ confidence limits in healthy adults) indicating insulin resistance.21 Serum triglyceride concentration was measured on the automated Olympus 5400 analyser (intra-assay CV of $1 . 8 \\%$ at $1 . 0 4 \\mathrm { m m o l l } ^ { - 1 }$ . Serum high-density lipoprotein cholesterol concentration $\\mathrm { ( m m o l l ^ { - 1 } }$ ) was measured after precipitation of the low-density and very-low-density lipoproteins with polyethylene glycol 6000 solution (intra-assay CV of $3 . 2 \\%$ at $1 . 7 \\mathrm { m m o l l } ^ { - 1 }$ ). Serum low-density lipoprotein cholesterol concentration $\\mathrm { ( m m o l l ^ { - 1 } } ,$ ) was calculated using the modified Friedwald equation. ",
+    "bbox": [
+      534,
+      98,
+      937,
+      379
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Total testosterone was determined by chemiluminescent immunoassay using Elecsys (Roche, intra-assay CV of $1 0 . 4 \\%$ at $1 2 . 5 \\mathrm { n m o l l ^ { - 1 } }$ ). SHBG was determined in subject serum diluted to a ratio of 1:21, using a solid-phase, two-site chemiluminescent, immunometric assay (CV $4 \\%$ at $3 2 . 3 \\mathrm { n m o l l } ^ { - 1 }$ ) on DPC IMMULITE 2000 SHBG (Diagnostic Products Corporation, Los Angeles, CA, USA). The free testosterone concentration was obtained from measurements of plasma total testosterone and SHBG, using an online calculator (http://www.issam.ch/freetesto.htm) developed by ISSAM (International Society for the Study of the Aging Male). ",
+    "bbox": [
+      534,
+      382,
+      937,
+      549
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Follow-up ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      580,
+      598,
+      592
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "At subsequent visits every 2 weeks, the data in the diary were reviewed, progress was evaluated, weight and WC were measured and caloric intake adjusted if necessary to ensure a weight loss of $1 { - } 1 . 5 \\mathrm { k g }$ per week. At week 10, the investigations conducted in week 2 were repeated, and each subject’s erectile function (based on the IIEF-5 score), sexual desire (SDI score) and LUTS (IPSS score) were reevaluated. ",
+    "bbox": [
+      534,
+      593,
+      937,
+      691
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Statistical analysis ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      721,
+      653,
+      733
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Statistical analysis was performed using SPSS 16.0 (SPSS Inc., Chicago, ${ \\mathrm { I L } } ,$ USA). All results are expressed as mean values±s.d. Differences in baseline measurements between the controls as well as the nondiabetic and diabetic intervention groups, were evaluated with one-way ANOVA (analysis of variance) using Bonferroni’s correction. A 3-by-2 repeated measures ANOVA was used to assess differences between pre- and post-weight loss parameters in the three groups. The relationships between changes in measures of sexual function, LUTSs, sex hormones and metabolic parameters after 8 weeks were determined using Pearson’s correlations. Multivariate regression analysis was performed to test the independent association and contributions of changes in weight, WC, testosterone and insulin sensitivity, with changes in erectile function or LUTS. A value of $P { < } 0 . 0 5$ was considered significant. ",
+    "bbox": [
+      534,
+      735,
+      937,
+      889
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      42,
+      902,
+      193,
+      914
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      42,
+      85,
+      67,
+      95
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      215,
+      56,
+      495,
+      78
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      42,
+      56,
+      68,
+      76
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      98,
+      463,
+      167
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      210,
+      115,
+      224
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The 8-week study was completed without incidence by 68 subjects: 24 nondiabetic controls and 44 in the intervention group of whom 19 were diabetic (Figure 1). Eight other subjects (seven diabetics and one control) withdrew after 1 week, citing inconvenience in traveling to the study center for follow-up as the main reason in all cases. Four diabetic subjects experienced constipation in the first week which resolved with metamucil, and they were able to complete the study. No adverse effects were noted in the other participants. ",
+    "bbox": [
+      60,
+      240,
+      463,
+      382
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "At baseline, nondiabetic subjects in the LCD group had significantly higher mean SDI and IPSS scores, and total and free testosterone levels, than did controls and diabetic men (Table 1). In comparison with the controls and nondiabetic intervention subjects, the diabetic men were significantly older, and had significantly higher insulin levels with correspondingly lower insulin sensitivity, as well as lower IIEF-5 score and total testosterone levels. ",
+    "bbox": [
+      60,
+      383,
+      463,
+      494
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "After 8 weeks, significantly greater weight loss occurred in both diabetic $( 9 . 5 \\pm 4 . 8 \\mathrm { k g } ,$ $P { < } 0 . 0 1$ ) and nondiabetic $\\mathopen { } \\mathclose \\bgroup \\left. 1 2 . 3 \\pm 3 . 8 \\mathrm { k g } ,\\aftergroup \\egroup \\right.$ , $\\textstyle P < 0 . 0 1 { \\mathrm { , } }$ ) subjects, than in the controls $( - 2 . 9 \\pm 2 . 5 \\mathrm { k g } )$ . The reduction in WC was also significantly greater in the nondiabetic $( 1 2 . 1 \\pm 6 . 1 \\mathrm { c m }$ , $P { < } 0 . 0 1 $ ) and diabetic $( 1 2 . 1 \\pm 4 . 8 \\mathrm { c m }$ , $P { < } 0 . 0 1$ ) men than in the control group $( - 1 . 6 \\pm 1 . 6 \\mathrm { c m } )$ . The change in fasting glucose was not significantly different between the control and intervention groups, but there was significant improvement in insulin sensitivity (percentage change in QUICKI) in both diabetic $( 9 . 0 \\pm 9 . 1 \\%$ , $P { < } 0 . 0 1$ ) and nondiabetic $( 1 3 . 3 \\pm 9 . 6 \\%$ , $P { < } 0 . 0 1$ ) subjects in response to the LCD (Table 2). There were no significant changes in fasting lipid levels in either the control or intervention group. ",
+    "bbox": [
+      60,
+      495,
+      463,
+      523
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      502,
+      98,
+      905,
+      267
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Androgen levels, erectile function, sexual desire and LUTS Baseline plasma total testosterone levels were higher in the nondiabetic and lower in the diabetic men, compared with control subjects (Table 1). Plasma total testosterone level of nondiabetic intervention subjects increased significantly more $( 3 . 0 \\pm 7 . 7 \\mathrm { n m o l } 1 ^ { - 1 }$ , $P { < } 0 . 0 1 )$ than in controls $( - 2 . 6 \\pm 3 . 8 \\mathrm { n m o l l } ^ { - 1 } )$ ). The mean calculated plasma-free testosterone levels decreased in the controls and nondiabetic intervention subjects, but increased in the diabetic men (Table 2). Overall, the increase in total testosterone correlated significantly with the reduction in weight $( r = - 0 . 3 4 _ { . }$ , $P { < } 0 . 0 1 )$ ), WC $( r = - 0 . 2 8 $ , $P { = } 0 . 0 3$ ) and IPSS score $( r = - 0 . 3 5$ , $P { < } 0 . 0 1 $ ), but was not significantly associated with change in the IIEF-5 or SDI score. ",
+    "bbox": [
+      502,
+      297,
+      905,
+      494
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Significantly greater increases in the mean IIEF-5 score were seen in nondiabetic $( 2 . 2 \\pm 1 . 1$ , $P { < } 0 . 0 1$ ) and diabetic $( 2 . 1 \\pm 3 . 0 $ , $P { < } 0 . 0 1$ ) subjects in response to weight loss induced by the LCD, compared with control $( - 0 . 1 \\pm 1 . 0 ) $ subjects. Improvements in erectile function were seen in more subjects in the intervention group (Figure 2a), and were significantly correlated with reduction in weight $( r = - 0 . 2 6$ , $P { = } 0 . 0 3$ ) and WC $( r = - 0 . 3 4 $ , $P { < } 0 . 0 1$ ), and with increase in the SDI score $\\mathbf { \\tilde { r } } { = } 0 . 3 3$ , $P { < } 0 . 0 1$ ). The increase in the IIEF-5 score remained significantly correlated with the increase in the SDI score $( P { = } 0 . 0 4 )$ in a multivariate regression analysis with baseline IIEF-5 score, and changes in weight, WC, testosterone level and SDI score as the independent variables. In diabetic men, the absolute increase in the IIEF-5 score was similar to that of the nondiabetic intervention subjects, but represented a proportionally greater improvement from baseline. The average SDI scores also increased significantly in the nondiabetic $( 9 . 1 \\pm 3 . 5 $ , $P { < } 0 . 0 1$ ) and diabetic $( 1 0 . 4 \\pm 9 . 4 $ , $P { < } 0 . 0 1$ ) intervention subjects, compared with the controls $( 0 . 8 \\pm 1 . 8 ) $ . ",
+    "bbox": [
+      500,
+      496,
+      905,
+      523
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_3428789/auto/images/e641ed03bdeb85ac58b88458f6b25aafd97a558434cb87c088c9b43073651191.jpg",
+    "table_caption": [
+      "Table 1 Baseline parameters of subjects on LCD, compared with the control group "
+    ],
+    "table_footnote": [
+      "Abbreviations: HDL, high-density lipoprotein; IIEF, International Index of Erectile Function; IPSS, International Prostate Symptom Score; LCD, low-calorie diet; LDL, low-density lipoprotein; QUICKI, Quantitative Insulin Sensitivity Check Index; SDI, Sexual Desire Inventory; SHBG, sex-hormone binding globulin; TG, triglyceride. All values are given as mean $\\pm \\ : s . 0$ . \\*Significantly $( P { < } 0 . 0 1 )$ ) different from control and nondiabetic intervention groups. \\*\\*Significantly $( P { < } 0 . 0 1 $ ) different from control and diabetic intervention groups. "
+    ],
+    "table_body": "<table><tr><td>Baseline parameters</td><td>Controls (n = 24)</td><td>LCD (nondiabetic) (n = 25)</td><td>LCD (diabetic) (n= 19)</td></tr><tr><td>Age (years)</td><td>48.4±9.3</td><td>44.5±9.3</td><td>58.1±11.4*</td></tr><tr><td>Weight (kg)</td><td>108.8±12.6</td><td>110.5±8.4</td><td>112.7 ± 19.2</td></tr><tr><td>Body mass index (kg m-2)</td><td>33.1 ± 3.2</td><td>35.7±3.2</td><td>35.1 ±5.3</td></tr><tr><td>Waist circumference (cm)</td><td>117.1 ± 8.2</td><td>119.3±9.9</td><td>124.6 ± 12.7</td></tr><tr><td>Sexual function and lower urinary tract symptoms</td><td></td><td></td><td></td></tr><tr><td>IIEF score</td><td>15.2± 7.9</td><td>17.8±1.2</td><td>8.1±6.2*</td></tr><tr><td>SDI score</td><td>57.0±20.9</td><td>71.2±4.0**</td><td>44.1 ± 23.6</td></tr><tr><td>IPSS score</td><td>5.3±5.2**</td><td>18.8±1.3**</td><td>5.8±5.1</td></tr><tr><td>Sex hormones</td><td></td><td></td><td></td></tr><tr><td>Plasma total testosterone (nM)</td><td>13.8±3.5</td><td>28.2±10.1**</td><td>9.8±2.7*</td></tr><tr><td>Plasma SHBG (nM)</td><td>23.6±11.4</td><td>21.9±8.3</td><td>22.5±9.3</td></tr><tr><td>Calculated free testosterone (pM)</td><td>339±95</td><td>810±339**</td><td>285±69</td></tr><tr><td>Metabolic profile</td><td></td><td></td><td></td></tr><tr><td>Plasma glucose (mM)</td><td>5.9±3.0</td><td>5.9±2.2</td><td>7.4± 2.4</td></tr><tr><td>Plasma insulin (uUml-1)</td><td>12.1±6.0</td><td>13.8±7.9</td><td>21.4±9.6*</td></tr><tr><td>Insulin sensitivity (QUICKI)</td><td>0.33±0.02</td><td>0.33±0.03</td><td>0.30±0.02*</td></tr><tr><td>Plasma TG (mM)</td><td>2.2±1.2</td><td>1.8±1.0</td><td>2.1±0.9</td></tr><tr><td>Plasma HDL (mM)</td><td>1.2±0.3</td><td>1.1±0.2</td><td>1.2±0.2</td></tr><tr><td>Plasma LDL (mM)</td><td>3.6±0.8</td><td>3.2±1.0</td><td>2.6± 1.0*</td></tr></table>",
+    "bbox": [
+      55,
+      557,
+      912,
+      841
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      805,
+      902,
+      956,
+      914
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      929,
+      56,
+      956,
+      76
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      85,
+      956,
+      95
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      502,
+      55,
+      781,
+      78
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_3428789/auto/images/2508c9ad659f963f13cd3ed934e1a1c43ebdb91546bff92ba6c50c2132854515.jpg",
+    "table_caption": [
+      "Table 2 Changes in anthropometry, metabolic parameters and sex hormones in subjects on LCD after 8 weeks, compared with control group "
+    ],
+    "table_footnote": [
+      "Abbreviations: HDL, high-density lipoprotein; IIEF, International Index of Erectile Function; IPSS, International Prostate Symptom Score; LCD, low-calorie diet; $\\mathsf { L D L } ,$ low-density lipoprotein; QUICKI, Quantitative Insulin Sensitivity Check Index; SDI, Sexual Desire Inventory; SHBG, sex-hormone binding globulin; TG, triglyceride. All values are given as mean±s.d. \\*Significantly $( P { < } 0 . 0 1 )$ ) different from controls. \\*\\*Significantly $( P < 0 . 0 1 )$ ) different from diabetic intervention group. "
+    ],
+    "table_body": "<table><tr><td>Changes in parameters</td><td>Controls (n = 24)</td><td>LCD (nondiabetic) (n = 25)</td><td>LCD (diabetic) (n = 19)</td></tr><tr><td>Weight (kg)</td><td>-2.9±2.5</td><td>-12.3±3.8*</td><td>-9.5±4.8*</td></tr><tr><td>BMI (kgm-2)</td><td>-0.7±0.7</td><td>-3.9±1.2*</td><td>-3.0±1.6*</td></tr><tr><td>Waist circumference (cm)</td><td>-1.6±1.6</td><td>-12.1 ±6.1*</td><td>-12.1 ±4.8*</td></tr><tr><td colspan=\"4\">Sexual function and urinary tract symptoms</td></tr><tr><td>IIEF-5 score</td><td>-0.1±1.0</td><td>2.2±1.1*</td><td>2.1± 3.0*</td></tr><tr><td>SDI score</td><td>0.8±1.8</td><td>9.1±3.5*</td><td>10.4±9.4*</td></tr><tr><td> IPSS score</td><td>0.5±0.7</td><td>-6.4±1.5***</td><td>-2.1±2.3*</td></tr><tr><td colspan=\"4\">Sex hormones</td></tr><tr><td>Plasma total testosterone (nM)</td><td>-2.6± 3.8</td><td>3.0 ± 7.7*</td><td>1.2±2.6</td></tr><tr><td>Plasma SHBG (nM)</td><td>2.3±5.1</td><td>8.3±6.8*</td><td>8.7±10.5*</td></tr><tr><td>Calculated free testosterone (pM)</td><td>-83±101</td><td>-23±230</td><td>50±268</td></tr><tr><td colspan=\"4\">Metabolic profile</td></tr><tr><td>Plasma glucose (mM)</td><td>-1.1 ± 3.2</td><td>-0.8±1.8</td><td>-0.9±0.9</td></tr><tr><td>Plasma insulin (μU ml-1)</td><td>0.6±5.9</td><td>-6.8±6.0</td><td>-3.7±18.2</td></tr><tr><td>% Change in QUICKI</td><td>1.2± 6.3</td><td>13.3±9.6*</td><td>9.0±9.1*</td></tr><tr><td>Plasma TG (mM)</td><td>-0.5±0.7</td><td>-0.6±1.0</td><td>-0.6±0.9</td></tr><tr><td>Plasma HDL (mM)</td><td>-0.1±0.1</td><td>0.0±0.2</td><td>-0.1±0.1</td></tr><tr><td>Plasma LDL (mM)</td><td>-0.4±0.5</td><td>-0.5±1.0</td><td>-0.4±0.5</td></tr></table>",
+    "bbox": [
+      87,
+      113,
+      939,
+      385
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      452,
+      495,
+      704
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Significant reductions in mean IPSS scores were seen in nondiabetic $( - 6 . 4 \\pm 1 . 5$ , $P { < } 0 . 0 1 )$ and diabetic $( - 2 . 1 \\pm 2 . 3 ,$ , $P { < } 0 . 0 1 $ ) intervention subjects, in comparison with controls $( 0 . 5 \\pm 0 . 7 ) $ (Table 2). Nondiabetic men had a significantly $( P { < } 0 . 0 1 )$ greater reduction in the IPSS score than did diabetic men. Most subjects in the intervention group showed improvement in LUTS (Figure 2b), which remained highly significant after correction for differences in the initial IPSS score, baseline testosterone level and insulin sensitivity. The reduction in the IPSS score was strongly and significantly $( P { < } 0 . 0 1 )$ associated with weight loss $( r = 0 . 6 5 )$ and decreased WC $( r = 0 . 5 7 )$ ), as well as with improvements in the IIEF-5 score $\\displaystyle r = - 0 . 4 2 )$ , SDI score $( r = - 0 . 4 0 )$ and total testosterone levels $( r = - 0 . 3 5 )$ . Reduction in WC was an independent predictor of the decrease in IPSS score in a multivariate regression analysis with changes in weight, WC, insulin sensitivity and total testosterone, and baseline IPSS score, as the independent variables. ",
+    "bbox": [
+      92,
+      707,
+      495,
+      889
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      534,
+      451,
+      937,
+      522
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      563,
+      616,
+      577
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This study shows that in obese men who had not sought previous help for ED or LUTS, rapid weight loss induced by caloric restriction improved insulin sensitivity and androgen levels, together with a significant improvement in both sexual and lower urinary tract functions. The weight loss of $\\sim 1 0 \\%$ was accompanied by a commensurate reduction in WC and insulin resistance. This, together with the absence of any significant adverse events or dropouts, confirms the acceptability and effectiveness of this intervention. Lowenergy (800–1000 kcal per day) diets are safe and effective in improving insulin resistance and other cardiovascular risk factors in obese patients, with22 or without23 diabetes. At baseline, the mean plasma glucose and lipid levels in the nondiabetic men were within the normal range, and accordingly, it is not surprising that no significant changes occurred in response to weight loss. Metformin was continued without occurrence of hypoglycemia or change in dosage. ",
+    "bbox": [
+      534,
+      592,
+      937,
+      847
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The age-standardized prevalence of ED in Australia in men aged $\\geqslant 4 0$ years is $\\sim 2 0 \\% , ^ { 2 4 }$ suggesting that a significant proportion of men with ED remain undiagnosed. Obesity is a well-known risk factor for ED: up to $8 0 \\%$ of men reporting symptoms of ED are overweight or obese1 , and obese males have a $3 0 \\%$ higher risk of sexual dysfunction than do men with normal body mass index.25 Morbidly obese men with impaired sexual drive and erectile function as measured by the BSFI (Brief Male Sexual Inventory) demonstrated significant increases in BSFI scores after gastric bypass surgery producing an average $6 7 \\%$ excess weight loss.14 In contrast, we have shown that diet-induced weight loss of $\\sim 1 0 \\%$ , improves ED and sexual desire in obese men with and without type 2 diabetes mellitus. Moreover, although diabetic men had lower baseline IIEF-5 and SDI scores, they derived proportionally greater benefits from intervention than did nondiabetic men (increased mean IIEF-5 score by $\\sim 2 5 \\%$ and SDI score by $2 4 \\%$ from baseline, compared with $\\sim 1 2$ and $\\sim 1 3 \\%$ , respectively). This study also shows benefits in 8 weeks, in contrast to the 2-year outcome data showing benefit for erectile function, in response to $1 0 { - } 1 5 \\%$ weight loss induced in obese men by a Mediterranean-style diet and increased physical activity.15,26 ",
+    "bbox": [
+      532,
+      848,
+      937,
+      889
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      42,
+      902,
+      193,
+      914
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      215,
+      55,
+      495,
+      78
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1400 ",
+    "bbox": [
+      42,
+      85,
+      68,
+      95
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      42,
+      56,
+      68,
+      76
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_3428789/auto/images/0f7f58044c38283ae57d552ae0d55fd7a4a75af003be10e16b9f162227bd7ea2.jpg",
+    "image_caption": [
+      "Figure 2 (a) Comparison of changes in erectile function of control and intervention groups. The heavy lines represent the change in mean IIEF-5 score in each group after 8 weeks of dietary intervention. (b) Comparison of changes in LUTS of control and intervention groups. The heavy lines represent the change in mean IPSS score in each group after 8 weeks of dietary intervention. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      176,
+      97,
+      788,
+      561
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      636,
+      463,
+      889
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      636,
+      904,
+      663
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The improvements in sexual desire in our study are consistent with the previous observation that a loss of approximately $1 2 { - } 1 8 \\%$ of baseline weight by 2 years of lifestyle modification improved sexual quality of life in obese middle-aged men.27 In contrast to these data, an LCDinduced decrease in mean body mass index from 39.3 to $3 3 . 8 \\mathrm { k g } \\mathrm { m } ^ { - 2 }$ over 10 weeks failed to improve erectile function or sexual desire in middle-aged men with no history of ED.16 Our study also showed strong associations between the increases in IIEF-5 and SDI scores with each other, and with the magnitude of reduction in weight and WC. Abdominal obesity is a marker of insulin resistance, and has strong epidemiological links with ED. In addition, amelioration of ED may increase confidence and desire for sexual activity, in association with better self-image and/or alleviation of preexisting anxiety and depression. ",
+    "bbox": [
+      502,
+      664,
+      907,
+      889
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      805,
+      902,
+      956,
+      914
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      927,
+      56,
+      956,
+      76
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      502,
+      56,
+      781,
+      76
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      85,
+      954,
+      95
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Poorer erectile and sexual function in our diabetic subjects (who were older, on average, than the nondiabetic men) is consistent with effects of both the disease state28 and aging.5 Weight loss was associated with a decrease in fasting insulin levels, increased mean plasma SHBG and total testosterone levels in both diabetic and nondiabetic intervention subjects, and free testosterone only in the diabetic men. This finding is concordant with that of other studies, which demonstrated improvements in total,29 bioavailable16 and free29 testosterone levels after caloric restriction. For example, in a mixed group of diabetic and nondiabetic obese men, SHBG, total and free testosterone levels increased in response to a mean weight loss of $2 1 \\mathrm { k g }$ after 10 weeks of LCD.16 Furthermore, in obese middle-aged men with the metabolic syndrome $( \\sim 2 5 \\%$ of whom were diabetic), weight loss of $\\sim 1 4 \\%$ induced by 9 weeks of LCD $8 0 0 \\mathrm { k c a l }$ per day) increased total and free testosterone and SHBG levels.29 In our study, the increase in total testosterone was correlated with the magnitude of weight loss and reduction in WC, possibly because of reduced insulin resistance;5,30 moreover, aromatase activity in adipose tissue results in increased estradiol production, decreased pituitary gonadotropin production and reduction in testicular synthesis of testosterone.31 ",
+    "bbox": [
+      92,
+      99,
+      495,
+      435
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In obese women, urinary symptoms and incontinence are improved by weight loss,32 but there is a paucity of similar data in men. To our knowledge, these are the first data to show that diet-induced weight loss ameliorates LUTS in obese men with undiagnosed urinary tract dysfunction. The age-standardized prevalence of moderate-to-severe LUTS in Australian men aged $\\geqslant 4 0$ years is $\\sim 1 6 \\% , ^ { 2 4 }$ suggesting that, as with ED, a significant number of men do not seek medical attention for urinary symptoms. The higher IPSS scores in our nondiabetic intervention subjects (compared with diabetic men) could not be accounted for by the presence of obstructive sleep apnea. Nevertheless, the improvements in both groups were proportionally similar $( \\sim 3 0 \\% )$ . Abdominal obesity is associated with $\\sim 1 . 5$ -fold increase in LUTS;9,10 accordingly, the decrease in the IPSS score was strongly correlated with loss of weight and abdominal adiposity. As the improvements in LUTS and erectile function were also significantly associated with each other, it is likely that LUTS, such as ED and hypoandrogenism, is a feature of abdominal obesity and the metabolic syndrome, due to defective pelvic blood flow from atherosclerosis, endothelial dysfunction and autonomic system overactivity.33 ",
+    "bbox": [
+      92,
+      438,
+      495,
+      747
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The main limitations of our study were nonrandomization of subjects, and the short duration of intervention and follow-up. Our primary objective was to demonstrate that diet-induced weight loss would be beneficial in diabetic, as well as nondiabetic men, rather than a direct comparison of these groups. Lack of randomization may account for the differences in baseline parameters between the diabetic and nondiabetic men. In the community, a comparable magnitude of weight loss with modified LCD may not be sustainable, as this degree of diet supervision is unavailable outside a research setting. Moreover, this dietary approach is not suitable in the elderly, and is recommended for shortterm use.22,23 However, improvements in sexual and urinary function with diet intervention alone are significant, and rapid weight loss has been shown to facilitate compliance with lifestyle-modification programs and improve engagement of obese men with health-care providers.34 ",
+    "bbox": [
+      92,
+      749,
+      495,
+      889
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      534,
+      98,
+      937,
+      196
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Recognition of sexual dysfunction may be a powerful motivator for lifestyle change in middle-aged and older men. Moreover, both $\\mathrm { \\dot { E } D } ^ { 3 5 }$ and LUTS36 are associated with increased cardiovascular risk, adversely affect quality of life and mood and interfere with interpersonal relationships, often necessitating medication or surgery. In contrast, we have shown that a simple lifestyle intervention is effective in improving sexual and urinary dysfunction in obese men. ",
+    "bbox": [
+      534,
+      197,
+      937,
+      308
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Conflict of interest ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      337,
+      684,
+      353
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The authors declare no conflict of interest. ",
+    "bbox": [
+      537,
+      369,
+      821,
+      382
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      411,
+      689,
+      426
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Funding for this study was provided by the National Heart Foundation and the Medical Benefits Foundation of Australia. Kicstart was supplied by Pharmacy Health Solutions Pty Ltd, who had no role in the design, implementation or analysis of the study. None of the authors have financial interests in Pharmacy Health Solutions. ",
+    "bbox": [
+      534,
+      442,
+      937,
+      524
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      534,
+      554,
+      620,
+      568
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1 Feldman HA, Johannes CB, Derby CA, Kleinman KP, Mohr BA, Araujo AB et al. Erectile dysfunction and coronary risk factors: prospective results from the Massachusetts Male Aging Study. Prev Med 2000; 30: 328–338.   \n2 Fung MM, Bettencourt R, Barrett-Connor E. Heart disease risk factors predict erectile dysfunction 25 years later: the Rancho Bernardo Study. J Am Coll Cardiol 2004; 43: 1405–1411.   \n3 Esposito K, Giugliano F, Martedi E, Feola G, Marfella R, D’Armiento M. High proportions of erectile dysfunction in men with the metabolic syndrome. Diabetes Care 2005; 28: 1201–1203.   \n4 Kolotkin RL, Binks M, Crosby RD, Ostbye T, Fress RE, Adams TD. Obesity and sexual quality of life. Obesity 2006; 14: 472–479.   \n5 Derby CA, Zilber S, Brambilla D, Morales KH, McKinlay JB. Body mass index, waist circumference and waist to hip ratio and change in sex steroid hormones: the Massachusetts Male Ageing Study. Clin Endocrinol (Oxf) 2006; 65: 125–131.   \n6 Giugliano F, Esposito K, Di Palo C, Ciotola M, Giugliano G, Marfella R et al. Erectile dysfunction associates with endothelial dysfunction and raised proinflammatory cytokine levels in obese men. J Endocrinol Invest 2004; 27: 665–669.   \n7 Trussell JC, Legro RS. Erectile dysfunction: does insulin resistance play a part? Fert Steril 2008; 88: 771–778.   \n8 Ma RC-W, So WY, Yang X. Erectile dysfunction predicts coronary heart disease in type 2 diabetes. J Am Coll Cardiol 2008; 51: 2045–2050.   \n9 Rohrmann S, Smit E, Giovannuci E, Platz EA. Association between markers of the metabolic syndrome and lower urinary tract symptoms in the Third National Health and Nutrition Examination Survey (NHANES III). Int J Obes 2005; 29: 310–316.   \n10 Rohrmann S, Smit E, Giovannuci E, Platz EA. Associations of obesity with lower urinary tract symptoms and noncancer prostate surgery in the Third National Health and Nutrition Examination Survey (NHANES III). Am J Epidemiol 2004; 159: 390–397.   \n11 Boyle P, Robertson C, Mazetta C, Keech M, Hobbs FD, Fourcade R et al. The association between lower urinary tract symptoms and erectile dysfunction in four centres: the UrEpik study. BJU Int 2003; 92: 719–725.   \n12 Rosen R, Altwein J, Boyle P, Kirby RS, Lukacs B, Meuleman E et al. Lower urinary tract symptoms and male sexual dysfunction: the Multinational Survey of the Aging Male (MSAM-7). Eur Urol 2003; 44: 637–649.   \n13 Carson CC. Combination of phosphodiesterase-5 inhibitors and alpha-blockers in patients with benign prostatic hyperplasia: treatments of lower urinary tract symptoms, erectile dysfunction, or both? BJU Int 2006; 97 (Suppl 2): 39–43.   \n14 Dallal RM, Chernoff A, O’Leary MP, Smith JA, Braverman JD, Quebbemann BB. Sexual dysfunction is common in the morbidly obese male and improves after gastric bypass surgery. J Am Coll Surg 2008; 207: 859–865.   \n15 Esposito $\\mathrm { K } ,$ Giugliano F, Di Palo C, Giugliano G, Marfella ${ \\mathrm { R } } ,$ D’Andrea F et al. Effect of lifestyle changes on erectile dysfunction in obese men: a randomized controlled trial. JAMA 2004; 291: 2978–2984.   \n16 Kaukua J, Pekkarinen T, Sane T, Mustajoki P. Sex hormones and sexual function in obese men losing weight. Obes Res 2003; 11: 689–694.   \n17 Rhoden EL, Teloken C, Sogari PR, Vargas Souto CA. The use of the simplified International Index of Erectile Function (IIEF-5) as a diagnostic tool to study the prevalence of erectile dysfunction. Int J Impot Res 2002; 14: 245–250.   \n18 Spector IP, Carey MP, Steinberg L. The Sexual Desire Inventory: development, factor structure, and evidence of reliability. J Sex Marital Ther 1996; 22: 175–190.   \n19 el Din KE, de Wildt MJ, Kiemeney LA, Debruyne FM, de la Rosette JJ. Reliability of the International Prostate Symptom Score in the assessment of patients with lower urinary tract symptoms and/or benign prostatic hyperplasia. J Urol 1996; 155: 1959–1964.   \n20 Luscombe ND, Tsopelas C, Bellon M, Clifton PM, Kirkwood I, Wittert GA. Use of [14C]-sodium bicarbonate/urea to measure total energy expenditure in overweight men and women before and after low calorie diet induced weight loss. Asia Pac J Clin Nutr 2006; 15: 307–316.   \n21 Hrbicek J, Janout V, Malincikova J, Horakova D, Cizek L. Detection of insulin resistance by Simple Quantitative Insulin Sensitivity Check Index (QUICKI) for Epidemiological Assessment and Prevention. J Clin Endocrinol Metab 2002; 87: 144–147.   \n22 Capstick F, Brooks BA, Burns CM. Very low calorie diet (LCD): a useful alternative in the treatment of the obese NIDDM patient. Diab Res Clin Pract 1997; 36: 105–111.   \n23 Moreno O, Meoro A, Martinez A, Rodriguez C, Pardo C, Aznar S et al. Comparison of two low-calorie diets: a prospective study of effectiveness and safety. J Endocrinol Invest 2006; 29: 633–640.   \n24 Holden CA, Mclachlan RI, Pitts M, Cumming R, Wittert G, Agius PA et al. Men in Australia Telephone Survey (MATeS): a national survey of the reproductive health and concerns of middle- aged and older Australian men. Lancet 2005; 366: 218–224.   \n25 Bacon CG, Mittleman MA, Kawachi I, Giovannucci E, Glasser DB, Rimm EB. Sexual function in men older than 50 years of age: results from the Health Professionals follow-up study. Ann Intern Med 2003; 139: 161–168.   \n26 Esposito $\\mathrm { K } ,$ Ciotola M, Giugliano F, Maiorino MI, Autorino R, De Sio M et al. Effects of intensive lifestyle changes on erectile dysfunction in men. J Sex Med 2009; 6: 243–250.   \n27 Kolotkin RL, Binks M, Crosby RD, Ostbye T, Mitchell JE, Hartley G. Improvements in sexual quality of life after moderate weight loss. Int J Impot Res 2008; 20: 487–492.   \n28 Fairbrun C, McCulloch D, Wu F. The effects of diabetes on male sexual function. Clin Endocrinol Metab 1982; 11: 749–762.   \n29 Niskanen L, Laaksonen DE, Punnonen K, Mustajoki P, Kaukua J, Rissanen A. Changes in sex hormone-binding globulin and testosterone during weight loss and weight maintenance in abdominally obese men with the metabolic syndrome. Diab Obes Metab 2004; 6: 208–215.   \n30 Abate N, Haffner SM, Garg A, Peshock RM, Grundy SM. Sex steroid hormones, upper body obesity, and insulin resistance. J Clin Endocrinol Metab 2002; 87: 4522–4527.   \n31 Vermeulen A, Kaufman JM, Giagulli VA. Influence of some biological indexes on sex hormone-binding gobulin and androgen levels in aging or obese males. J Clin Endocrinol Metab 1996; 81: 1821–1826.   \n32 Subak LL, Wing R, West DS, Franklin F, Vittinghoff E, Creasman JM et al. Weight loss to treat urinary incontinence in overweight and obese women. N Engl J Med 2009; 360: 481–490.   \n33 McVary KT. Erectile dysfunction and lower urinary tract symptoms secondary to BPH. Eur Urol 2005; 47: 838–845.   \n34 Wyld B, Wilson C, Noakes M. Barriers and facilitators to success of weight loss in overweight men. Obes Rev 2006; 7 (suppl 2): 93.   \n35 Litwin MS, Nied RJ, Dhanani N. Health-related quality of life in men with erectile dysfunction. J Gen Intern Med 1998; 13: 159–166.   \n36 Wong SY, Chan D, Hong A, Leung PC, Woo J. Depression and lower urinary tract symptoms: two important correlates of erectile dysfunction in middle-aged men in Hong Kong, China. Int J Urol 2006; 13: 1304–1310. ",
+    "bbox": [
+      539,
+      582,
+      937,
+      889
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      42,
+      902,
+      193,
+      914
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      42,
+      85,
+      67,
+      95
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      215,
+      55,
+      495,
+      78
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      42,
+      56,
+      68,
+      76
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      100,
+      463,
+      670
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      99,
+      905,
+      667
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Obesity ",
+    "bbox": [
+      805,
+      902,
+      956,
+      914
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "npg ",
+    "bbox": [
+      927,
+      56,
+      956,
+      76
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      85,
+      956,
+      95
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Weight loss improves male sexual and urinary dysfunction J Khoo et al ",
+    "bbox": [
+      500,
+      55,
+      781,
+      78
+    ],
+    "page_idx": 7
+  }
+]

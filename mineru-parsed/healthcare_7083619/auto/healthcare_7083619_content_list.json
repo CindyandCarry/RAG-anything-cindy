@@ -1,0 +1,654 @@
+[
+  {
+    "type": "text",
+    "text": "IWK Oncology/Hematology service clinical guidance on COVID-19 vaccines for children with cancer (both hematologic and solid tumors) at any stage of treatment and/or who have undergone hematopoietic stem cell transplant or CAR-T cell therapy in the past 6 months AND children with immunosuppression not related to a cancer diagnosis. ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      138,
+      915,
+      227
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This guidance is based on a review of the safety and efficacy data of three of the current Health Canada approved vaccines for the prevention of COVID-19 disease caused by the SARS-CoV-2 virus: Pfizer-BioNTech and Moderna, two mRNA vaccines, as well as AstraZeneca/COVISHIELD which is a replication-defective adenoviral vector vaccine. Only the Pfizer-BioNTech mRNA vaccine is authorized for youth aged 12 and above. Clinical trials are currently ongoing with children 6 months and older to determine the safety and efficacy of the COVID-19 vaccine(s) in this age group. As information becomes available this will inform this guidance document. ",
+    "bbox": [
+      84,
+      246,
+      941,
+      348
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For the currently available vaccines, the interval between doses observed in Nova Scotia is up to 120 days for all individuals, including for those with underlying conditions or who are immunocompromised due to disease or treatment. ",
+    "bbox": [
+      84,
+      366,
+      910,
+      415
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Patients with cancer were generally excluded from the COVID-19 vaccine trials if they were immunosuppressed by disease or treatment. Therefore, there are uncertainties as to whether COVID-19 vaccines are efficacious and safe in patients with blood cancer or post-HSCT or CAR-T cell therapy, as well as to the optimal timing of vaccination in relation to their cancer treatments. ",
+    "bbox": [
+      84,
+      433,
+      937,
+      501
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The National Advisory Committee on Immunization (NACI) recommends that immunosuppressed individuals be offered the vaccine if the benefits of vaccines outweigh the potential risks. ",
+    "bbox": [
+      89,
+      518,
+      905,
+      551
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "There are currently no known factors that would predispose children with cancer to adverse events associated with the vaccines. At the time of authorization, there are no known serious warnings or precautions related to the vaccines in patients with cancer. ",
+    "bbox": [
+      84,
+      569,
+      931,
+      619
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Immunocompromised patient populations are diverse, and the relative degree of immunodeficiency will depend on the underlying condition, the progression of the disease, and the type and timing of treatment received. Therefore, the balance of potential benefit and risk associated with COVID-19 vaccination should be assessed on an individual basis (Table 1). ",
+    "bbox": [
+      86,
+      641,
+      933,
+      709
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      406,
+      138
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Page 1 of 6 ",
+    "bbox": [
+      857,
+      876,
+      941,
+      891
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Are there any specific contraindications or exceptions for those within cancer, HSCT and/or CAR-T recipient patient populations? ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      138,
+      883,
+      179
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Blood counts ",
+    "bbox": [
+      86,
+      181,
+      187,
+      195
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patients with cancer and HSCT or CAR-T recipients may experience low blood counts, either due to their disease or treatment, which could impact individual decision-making around receipt of COVID-19 vaccinations and timing of vaccinations relative to their treatments. COVID-19 vaccination should be deferred in patients unwell with neutropenia until well but may be considered in well patients with disease-related chronic neutropenia where neutrophil recovery is not expected. ",
+    "bbox": [
+      84,
+      198,
+      926,
+      281
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Allergy ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      294,
+      142,
+      309
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The above noted COVID-19 vaccines are contraindicated in individuals with a history of severe allergic reaction to any component of the vaccines, including non-medicinal ingredients such as polyethylene glycol (PEG) or polysorbate-80, or a history of anaphylaxis after administration of a previous dose of COVID-19 vaccine. ",
+    "bbox": [
+      86,
+      311,
+      919,
+      361
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Other vaccines ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      380,
+      202,
+      395
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "There is no data on co-administration of COVID-19 vaccines with other vaccines. Separation of other vaccines is recommended to avoid incorrectly attributing adverse effects or potentially attenuating response to either vaccine. Thus, other vaccines ideally should not be administered for 14 days prior to COVID-19 vaccination and for 14 days after a COVID-19 vaccine dose. ",
+    "bbox": [
+      84,
+      397,
+      929,
+      463
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Are there specific recommendations or considerations for safe and/or most effective administration? ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      482,
+      897,
+      521
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Blood counts ",
+    "bbox": [
+      86,
+      525,
+      207,
+      541
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patients with cancer and HSCT or CAR-T recipients may have lowered blood counts related to the underlying disease or therapy. If blood counts (platelet count and neutrophil count) are low due to therapy and timing of recovery can be anticipated, e.g. 1 week prior to the next cyclical chemotherapy or maintenance cycle, the timing of vaccination should be scheduled accordingly (please see Table 1). However, where the timing of blood count recovery is unclear or not anticipated, e.g. marrow failure syndromes, then vaccination should not be delayed solely for this reason. There is no consensus on an adequate platelet count for IM injections. Still, practical suggestions include using a platelet threshold of greater than $2 0 \\times 1 0 ^ { 9 } / \\mathsf { L }$ , administering the vaccine after platelet transfusion if receiving regular transfusions, and applying firm pressure at the injection site for at least 5 minutes. ",
+    "bbox": [
+      84,
+      542,
+      937,
+      678
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Anti-coagulant therapy ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      696,
+      282,
+      712
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "As per Thrombosis Canada recommendations, anti-coagulation should not be a barrier for administering COVID-19 vaccination to patients on warfarin (INR monitoring not required prior to vaccination), novel oral anticoagulants (apixaban, dabigatran, rivaroxaban) or antiplatelet agents (aspirin, clopidogrel, ticagrelor). Patients on therapeutic dose low-molecular weight heparin (dalteparin, tinzaparin, enoxaparin) or fondaparinux may consider delaying their anti-coagulant dose on the day of vaccination until after the IM injection. For patients on any of the above, applying pressure to the injection site for 3 to 5 minutes post vaccination is recommended to reduce bruising. ",
+    "bbox": [
+      84,
+      714,
+      936,
+      814
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Page 2 of 6 ",
+    "bbox": [
+      859,
+      876,
+      941,
+      891
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      406,
+      138
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3. Special considerations for immunotherapy ",
+    "bbox": [
+      89,
+      154,
+      429,
+      170
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "a. Therapies targeting B-cells including anti-CD20 (e.g. rituximab), CD19 (i.e. blinatumomab), CD22 (i.e. inotuzumab) targeting antibodies, BiTEs (e.g. blinatumomab) or CAR-T cell therapy: Patients receiving these agents may have a reduced immune response to vaccines in general that can extend to up to 6-9 months following treatment completion. It is recommended that the B-cell function and IgG levels reach the age-related minimum if possible, prior to vaccination. ",
+    "bbox": [
+      84,
+      171,
+      944,
+      255
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "b. Checkpoint inhibitors: ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      273,
+      271,
+      289
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Previous studies have not signaled an increased risk of complications of COVID-19 for patients on checkpoint inhibitors such as CTLA-4 inhibitors (e.g., ipilimumab), PD-1 inhibitors (e.g., nivolumab, pembrolizumab) and PD-L1 inhibitors (e.g., atezolizumab, durvalumab). There have been theoretical concerns of an enhanced immune reaction, particularly with CTLA-4 inhibitors. However, given the seriousness of COVID-19 infection, vaccination is still recommended in this group. ",
+    "bbox": [
+      84,
+      290,
+      939,
+      373
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "4. Timing of COVID-19 vaccines in relation to therapy ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      392,
+      493,
+      407
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "There are no known studies regarding the timing of COVID-19 vaccination in relation to therapy for blood cancer. The Pfizer-BioNTech, Moderna and AstraZeneca/COVISHIELD vaccines are given as two injections with optimal protection assumed after the second dose for the general population. The efficacy and duration of immunity after one dose are continuously being evaluated and recommendations are evolving rapidly. Therefore, patients should follow current provincial public health guidance for the recommended number of and interval between COVID-19 vaccine doses. ",
+    "bbox": [
+      84,
+      410,
+      923,
+      510
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In general, it is preferred that patients complete their two dose COVID-19 vaccination series ideally 14 days prior to starting immunosuppressive therapy. ",
+    "bbox": [
+      93,
+      511,
+      928,
+      544
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "\\*However, life-saving or prolonging therapy should not be delayed solely to complete vaccination. ",
+    "bbox": [
+      89,
+      545,
+      830,
+      561
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Recommendations for timing of COVID-19 vaccination for patients with hematologic malignancies (either completed, starting or already receiving treatment) and patients who have undergone HSCT or CAR-T cell therapy in the past 6 months are described in Table 1 below. ",
+    "bbox": [
+      84,
+      579,
+      937,
+      628
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Any other timing should involve a case-by-case assessment based on: ",
+    "bbox": [
+      88,
+      631,
+      598,
+      645
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "a. Risk of morbidity related to COVID-19 infection (including local incidence of the pandemic, cancer type, comorbidities that confer higher risk categories in general population, etc.), ",
+    "bbox": [
+      86,
+      647,
+      862,
+      680
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "b. Cancer-related morbidity due to delay of active treatment, and c. Suboptimal immunity due to insufficient time window between vaccination and immunosuppressive therapy. ",
+    "bbox": [
+      86,
+      684,
+      568,
+      700
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      88,
+      705,
+      905,
+      722
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page 3 of 6 ",
+    "bbox": [
+      857,
+      876,
+      942,
+      891
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ABK IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      408,
+      140
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_7083619/auto/images/3f94dcd9b1b33ac555bb59388d7b11918862361f9089e452f25afd13037587c4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\" rowspan=\"1\">Table 1. Suggested timing of COViD-19 vaccination in patients with hematologic malignancies</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Therapy</td><td colspan=\"1\" rowspan=\"1\">Suggested timing of COvID-19 vaccine</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Cyclical chemotherapy- prior to starting (includinghypomethylating agents)</td><td colspan=\"1\" rowspan=\"1\">1） Ideally complete vaccination at least 2 weeksprior to starting if this is not possible aminimum of 1 week is acceptable.*2) Ideally complete first dose of vaccinationprior as starting chemotherapy as above andsecond dose between cycles.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Cyclical chemotherapy-between cycles (includinghypomethylating agents).</td><td colspan=\"1\" rowspan=\"1\">Give vaccine dose(s) between cycles:： Upon count recovery (if anticipated to recover)**about 1 week prior to starting subsequent cycleand an ANC approaching 0.75 x 109/L and plateletcount greater than 20 x 109/L.Note: Avoid on same day as treatment as it has been shown with other inactivated vaccines that response tovaccine diminished if given on same day as chemotherapy</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Single agent small molecule inhibitors (e.g. kinase inhibitors or continuous oral chemotherapy, BTKinhibitors, BRAF inhibitors includes trametinib anddabrafenib***)</td><td colspan=\"1\" rowspan=\"1\">No specific timing</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Proteasome inhibitors (e.g.bortezomib)</td><td colspan=\"1\" rowspan=\"1\">Avoid on same day as treatment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Check point inhibitors (e.g. Nivolumab)</td><td colspan=\"1\" rowspan=\"1\">Avoid on same day as treatment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">CD19, CD20, CD22 targeted therapy (e.g. monoclonalantibodies, CAR-T cell therapy)</td><td colspan=\"1\" rowspan=\"1\">Upon signs of B-cell recoverys</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Othermonoclonal antibodies</td><td colspan=\"1\" rowspan=\"1\">No specific timing</td></tr><tr><td colspan=\"1\" rowspan=\"1\">CDK4/6 inhibitors (e.g. abemaciclib, ribociclib,palbociclib)</td><td colspan=\"1\" rowspan=\"1\">Avoid on same day as treatment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Systemic Corticosteroids</td><td colspan=\"1\" rowspan=\"1\">Cyclical corticosteroids as part of chemotherapy regimens- ideally vaccinate 7 days before or after the pulse or ifthis not possible on days when not receivingcorticosteroidsContinuous corticosteroids -no specific timing*****</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Autologous HSCT%&amp;</td><td colspan=\"1\" rowspan=\"1\">Pre-HSCT: ≥2 weeks prior to starting conditioningchemotherapyPost-HSCT: &gt;3 months post-HSCT</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Allogenic HSCT%&amp;</td><td colspan=\"1\" rowspan=\"1\">Pre-HSCT: &gt; 2 weeks prior to starting conditioningchemotherapyPost-HSCT: &gt; 3 months post-HSCT$</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Aplastic Anemia</td><td colspan=\"1\" rowspan=\"1\">Not on therapy or completed therapy with ANCapproaching 0.75 x 109/L and platelet count greater than 20 x 109/L: No specific timing required.Post-therapy: &gt; 3 months post-initiation ofcyclosporine/ATG$</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Intravenous immunoglobulin (IVIG)- Not COVID-19specific</td><td colspan=\"1\" rowspan=\"1\">Not within 2 days post IViG to avoid confusion withpotential adverse effects</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Not scheduled for therapy OR completed plannedtherapy</td><td colspan=\"1\" rowspan=\"1\">No specific timing</td></tr></table>",
+    "bbox": [
+      83,
+      146,
+      946,
+      804
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "nBK IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      408,
+      138
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page 4 of 6 ",
+    "bbox": [
+      857,
+      876,
+      941,
+      891
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      83,
+      136,
+      946,
+      445
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\* In general, it is preferable to complete vaccination before starting immunosuppressive therapy if possible (based on timing of therapy and vaccine availability). However, life-saving or prolonging therapy should not be delayed solely to complete vaccination. Some immunity may be achieved following the first dose of the vaccine. ",
+    "bbox": [
+      84,
+      448,
+      933,
+      497
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\*\\* Some patients may not have adequate counts either prior to or between cycles of therapy. The benefit of vaccine likely outweighs the risk, and these patients should proceed to vaccination regardless of neutrophil count and with platelet transfusion support if required. ",
+    "bbox": [
+      83,
+      500,
+      937,
+      547
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\*\\*\\*If patient receiving off-label use drug (e.g. trametinib, dabrafenib, everolimus discuss with patient/family the risk vs benefit of the COVID-19 vaccine due to lack of available data and document this discussion as per Novartis requirements. ",
+    "bbox": [
+      84,
+      549,
+      937,
+      598
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\*\\*\\*\\* Ideally high dose systemic corticosteroids $( > 0 . 5 \\mathrm { m g } / \\mathrm { k g } / \\mathrm { d a y }$ prednisone or equivalent) should be avoided or completed 28 days prior to vaccination; if this is not possible, proceed with vaccination. ",
+    "bbox": [
+      91,
+      599,
+      911,
+      633
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\$ Due to likelihood of impaired immune response to vaccination within 6 months of receiving B-cell directed monoclonal antibodies and 3 months of receiving CAR-T cell therapy and ATG, consider delaying to 3-6 months posttherapy. However, if time does not safely permit full B-cell recovery it is current consensus to space the COVID-19 vaccine and a dose of rituximab by 4-8 weeks. ",
+    "bbox": [
+      86,
+      635,
+      936,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "% Rationale for consideration of delaying COVID-19 vaccination in HSCT recipients includes: ",
+    "bbox": [
+      91,
+      702,
+      750,
+      718
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Vaccine response is expected to be sub-optimal Antibody testing cannot be evaluated as standard of practice. • Currently, revaccination after therapy completion is not recommended or expected (unlike annual influenza vaccinations) and therefore optimized timing should be considered. ",
+    "bbox": [
+      114,
+      719,
+      937,
+      789
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      408,
+      137
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page 5 of 6 ",
+    "bbox": [
+      857,
+      876,
+      941,
+      891
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "& If local COVID-19 transmission rates are high, consider prioritization of COVID-19 vaccination and defer initiation of routine post-HSCT vaccinations until at least 14 days after completion of a COVID-19 vaccine dose. ",
+    "bbox": [
+      89,
+      137,
+      934,
+      170
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "References: ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      188,
+      174,
+      203
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This document was adapted from: ",
+    "bbox": [
+      88,
+      205,
+      338,
+      220
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1) The British Columbia Ministry of Health document http://www.bccdc.ca/Health-Info-Site/Documents/COVID-19_vaccine/Heme_Malignancies_Clinical_Guidance.pdf.   \n2) The UK Chemotherapy Board https://b-s-h.org.uk/media/19241/clinician-faqs-and-guidance-on-covid19- vaccine-for-patients-receiving-sa_.pdf.   \n3) The American Cancer Society https://www.cancer.org/treatment/treatments-and-side-effects/physical-sideeffects/low-blood-counts/infections/covid-19-vaccines-in-people-with-cancer.html.   \n4) National Advisory Committee on Immunization https://www.canada.ca/en/publichealth/services/immunization/national-advisory-committee-on-immunization-naci.html   \n5) Thrombosis Canada Guidance on COVID-19 Vaccines and Anticoagulation https://www.canada.ca/en/publichealth/services/immunization/national-advisory-committee-on-immunization-naci.html.   \n6) Nova Scotia Health Cancer Care Program https://novascotia.ca/dhw/cdpc/info-for-professionals.asp   \n7) Novartis Pharmaceutical Canada Inc. Personal communication.   \n8) British Society of Rheumatology http://arma.uk.net/covid-19-vaccination-and-msk/ ",
+    "bbox": [
+      111,
+      238,
+      942,
+      458
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This document was developed by Dr.Tamara MacDonald PharmD (Oncology Clinical Pharmacy Specialist at the IWK) and endorsed by the IWK hematology/Oncology/Immunology Service. Please direct any question to tamara.macdonald@iwk.nshealth.ca ",
+    "bbox": [
+      86,
+      502,
+      936,
+      553
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Page 6 of 6 ",
+    "bbox": [
+      857,
+      876,
+      941,
+      891
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "IWK Health Centre ",
+    "bbox": [
+      86,
+      34,
+      406,
+      137
+    ],
+    "page_idx": 5
+  }
+]

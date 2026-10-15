@@ -1,0 +1,1109 @@
+[
+  {
+    "type": "text",
+    "text": "To: AEMC   \nReference: EPR0073   \nSubmitted via website to www.aemc.gov.au ",
+    "bbox": [
+      206,
+      282,
+      568,
+      333
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Infigen Energy Limited ",
+    "bbox": [
+      35,
+      324,
+      179,
+      337
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Level 17,56 Pitt Street Sydney NSW 2000 Australia T +61 28031 9900 F +61 29247 6086   \nwww.infigenenergy.com ",
+    "bbox": [
+      33,
+      343,
+      179,
+      413
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Re: Response to COGATI Proposed Access Model – Discussion Paper ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      347,
+      816,
+      364
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Infigen Energy (Infigen) welcomes the opportunity to make a submission. Infigen owns portfolio of wind and firming capacity across New South Wales, South Australia, Victoria and Western Australia. Our renewable portfolio includes 670 MW of vertically integrated wind plus c90 MW of contracted capacity in Victoria. Infigen also owns and operates a portfolio of dispatchable firming capacity including a 123 MW open cycle gas turbine in NSW, a 25 MW / 52 MWh battery in SA (commissioning October 2019) and will soon take ownership of 120 MW of dual fuel peaking capacity in SA. Infigen has also bought Power Purchase Agreements (PPAs) from wind farms, and is seeking additional wind and solar PPAs. Our development pipeline has projects at differing stages of development covering wind, solar and dispatchable firming capacity. ",
+    "bbox": [
+      206,
+      381,
+      894,
+      570
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. OVERVIEW ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      591,
+      359,
+      606
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Infigen does not support the AEMC’s proposed Rule Change. ",
+    "bbox": [
+      208,
+      616,
+      710,
+      633
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Infigen agrees with the AEMC that ensuring investment certainty in the NEM is important. However, in our view the NEM’s fundamental design remains strong with significant investment being made even in the absence of clear energy policy. In response to changing market dynamics, Infigen has made significant investment commitments in Variable Renewable Energy (VRE) capacity and dispatchable firming and fast response capacity, including: ",
+    "bbox": [
+      206,
+      647,
+      894,
+      750
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Developing the 25MW / 52MWh Lake Bonney Battery Energy Storage System in SA;   \nPurchasing the 123MW Smithfield Gas Turbine plant in NSW;   \nCommitting to a long-term lease of four SA Gas Turbines (120MW) from the South Australian Government, and preparing to move the GTs to a new site and convert to dual fuel;   \nDeveloping the 113MW Bodangora Wind Farm in New South Wales; Selling the 57MW Cherry Tree Wind Farm project and entering into a longterm PPA as the off-taker of its energy. ",
+    "bbox": [
+      236,
+      766,
+      892,
+      925
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "infigen ",
+    "bbox": [
+      40,
+      41,
+      176,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABN 39 105 051 616 ",
+    "bbox": [
+      72,
+      959,
+      198,
+      970
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "8 NOVEMBER 2019 ",
+    "bbox": [
+      206,
+      188,
+      378,
+      203
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Accordingly, Infigen considers the NEM remains highly investable for the right assets, with the right business models. ",
+    "bbox": [
+      208,
+      116,
+      845,
+      149
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We consider that there has been disproportionate attention given to the reductions in Marginal Loss Factors (MLFs) observed by a small number of projects that sited in weak areas of the grid and have been subsequently affected by the rapid uptake of new entrants in that area. MLFs accurately reflect the physics of the grid and are a risk that market participants are best positioned to manage, including sharing risks through market contracts. Introducing a complex new scheme is not necessary for continued investment in the market (and will likely make investment for challenging, at least in the short-term). ",
+    "bbox": [
+      206,
+      165,
+      904,
+      302
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Indeed, since 2016, 12,000 MW of large-scale renewable energy capacity has been developed1, as investment caught up after a period of policy instability during 2012- 2015 (see Figure 1 below). During a cyclical investment boom, it is inevitable that “investment mistakes in retrospect” are made – participants seeking to capture first mover advantage can mean there is insufficient time for updated information on MLFs and congestion to be published before the next investment decisions is made. This is a feature of most commodity markets and does not necessarily point to a failure the underlying market design – particularly as the risk and consequences of investment error are allocated to those best able to manage them, and have (if anything) resulted in additional capacity, not less. We note that recent enhancements to the ISP should provide new generation proponents with richer information allowing them to make better decisions in terms of capacity (if not also location) of optimal projects. ",
+    "bbox": [
+      206,
+      318,
+      895,
+      542
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The proposed changes represent a very material step-change in the operation of the NEM that is likely to cause a non-trivial pause in investment, and raises risks (and therefore equity and bank debt/re-financing risk premiums) during a design phase and in the immediate post-reform market environment – which collectively is unlikely to be less than 5 years in duration. This is not intended to be an argument against market reform per se, but pending detailed modelling from the AEMC, we do not consider that the benefits outweigh predictable costs at this time once the impact on the whole investment cycle is included. ",
+    "bbox": [
+      206,
+      557,
+      900,
+      693
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Most critically, while we acknowledge that dynamic regional pricing would sharpen short-term spot market signals, it increases complexity around the contract market (which is of equal importance to the spot market in terms of an efficient NEM operation). Infigen has already observed a slow-down in transactions as investors consider how to manage new and emerging risks associated with government interventions and other market reviews. Infigen suggests more detailed consideration should be given to the impact of the proposed changes on the liquidity of forward markets as well as the lessening of competition in an increased nodal model. ",
+    "bbox": [
+      206,
+      709,
+      905,
+      846
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      830,
+      42,
+      919,
+      104
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Clean Energy Regulator, Large-scale generation certificate market update - October 2019 ",
+    "bbox": [
+      201,
+      903,
+      889,
+      919
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      958
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1.1 Limited benefits from dynamic regional pricing ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      116,
+      695,
+      133
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The most critical question is the size of the problem to be addressed. The AEMC has identified disorderly bidding as the primary driver for implementing the proposed reforms, as well as seeking to strengthen locational signals for generation investment – due to a (perceived) under-signalling of constraints, and uncertainty over MLFs. However, disorderly bidding was part of the motivation for Five Minute Settlement, and any remaining inefficiencies is unclear. ",
+    "bbox": [
+      206,
+      141,
+      905,
+      244
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Similarly, generators already see strong locational signals through marginal loss factors (MLFs) and observed congestion (a volume risk). This is an important part of generator locational decisions – but must be weighed against other key parameters including fuel resource, site availability, planning approvals, convenience to infrastructure, etc. In the longer-term, some level of congestion is likely to be economically rational (cf oversizing DC to AC solar arrays). Additionally, a small number of poorly located VRE investments have, in our opinion, attracted a disproportionate amount of attention vis-à-vis MLFs. Most incumbent participants are well aware of locational factors and screen the market carefully prior to investment commitment – and do no need any further signalling. Greater transparency around network constraints by networks and AEMO should of course be encouraged and formalised; we support additional data on congestion and losses being published as part of AEMO’s ISP. ",
+    "bbox": [
+      206,
+      258,
+      900,
+      482
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We acknowledge that FTRs have the potential to provide new tools to manage congestion risk, and shift volume risk into price risk. However: ",
+    "bbox": [
+      210,
+      497,
+      850,
+      532
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In our opinion, short-term (up to 4 years) FTRs able to be secured in a number of auction tranches will do little to improve the bankability of new projects. Investment decisions are typically made \\~24 months out and so the longer-term uncertainty will remain material.   \n• Conversely, while sufficiently-firm long-term FTRs could increase revenue certainty for individual projects, this may be countered by the challenges of fairly allocating long-term transmission rights on the shared network, dealing with queuing for access to rights, and uncertain pricing at the time of investment decision. We also query whether this is in the long-term interest of consumers. Further quantitative analysis by the AEMC on the cost of providing firm hedges is required.   \n• While dynamic regional pricing provides sharper price signals for constrained generators, disorderly bidding has no short-run cost implications for consumers, and any long-term inefficiencies appear to be small and may not outweigh the additional complexity. o A possible exception is battery storage that could receive signals to site behind a constraint (and thereby charge at lower cost times); this should be the subject of further analysis as to how material the problem is. We do not expect that visibility of the price of FTRs will deliver additional transmission investment signals above what should already be available to AEMO and TNSPs. AEMO is already able to calculate the marginal value of ",
+    "bbox": [
+      236,
+      551,
+      905,
+      931
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      830,
+      42,
+      919,
+      104
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      959
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "constraints, and has information on upcoming projects, which they will feed into the ISP. ",
+    "bbox": [
+      265,
+      116,
+      885,
+      149
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Introducing another component to the overall value chain for delivery of energy to end users increases the complexity and risk of providing services. This will almost certainly translate into increased price. In contrast, the gas market is actively moving to an ‘open access’ model as transportation rights have proven to be inefficient, it seems illogical that a better outcome is expected in the electricity market. ",
+    "bbox": [
+      238,
+      152,
+      890,
+      254
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The AEMC has proposed that FTRs could be allocated by time blocks, which recognises different technologies may use the network at different times. However, this ignores the increasing complementarity nature of technologies. For example, it may be efficient for wind farms and GTs or batteries to share the same constraints, acknowledging that GTs will run more often when wind is low. However, while under status quo a barely binding constraint scarcely impacts revenue, under dynamic regional pricing, a barely binding constraint could have a material impact on the LMP – effectively requiring every generator to have FTRs in order to have revenue certainty, which is not physically realisable. ",
+    "bbox": [
+      206,
+      269,
+      902,
+      425
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1.2 Risk of market disruption ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      448,
+      505,
+      465
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Fundamental market changes will be a major disruption to investment in the NEM, especially an institutional change extending over several years. The freezing up of market investments is well documented in other areas. Apart from the UK experience in the mid-2010s, Australia’s $20 \\%$ RET reviews in 2012 and 2014 had impressing effects on the flow of investment, as Figure $4 ^ { 2 }$ clearly illustrates. ",
+    "bbox": [
+      206,
+      473,
+      905,
+      559
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 For full details see Simshauser, (2019), Missing money, missing policy and Resource Adequacy in Australia’s National Electricity Market”, Utilities Policy, 60(2019): 100936. ",
+    "bbox": [
+      200,
+      895,
+      868,
+      918
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      831,
+      42,
+      917,
+      104
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      895,
+      948,
+      905,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_3629103/auto/images/16d63ea719f79bbb9aa16de90f92d959093951f4fcb1f76e5900eb3eef561641.jpg",
+    "image_caption": [
+      "Figure 1 VRE Investment Commitment vs RET Policy Reviews in 2012 & 2014 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      240,
+      138,
+      855,
+      461
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A credible outcome is that, at least in the near-term, banks will require new projects to hold FTRs equal to their nameplate capacity. While this might increase the barrier to new entrants, it could also affect projects seeking to refinance maturing bullet and semi-permanent debt facilities. If projects cannot secure FTRs, they may not be able to access financing on terms they may have reasonably expected (i.e. lenders don’t want to roll over debt on expected terms until they understand the new market operations from experience). Therefore, an institutional change may not only affect future investment, but can be expected to adversely affect the value and operations of existing assets. ",
+    "bbox": [
+      206,
+      505,
+      900,
+      660
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 2 and Figure 3 demonstrate that this is far more than a theoretical possibility. Figure 2 shows Project Finance / Debt Issuance associated with new NEM VRE asset financings over the period 2016 - 2019YTD. Debt issuance totals $\\$ 9.01$ billion across 92 projects with 11,767 MW of nameplate capacity. ",
+    "bbox": [
+      206,
+      675,
+      895,
+      744
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      831,
+      42,
+      919,
+      103
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      959
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_3629103/auto/images/268bd30bcc3086e09e2aa01d3aab44c0f225268d558251631989a7162aea2a83.jpg",
+    "image_caption": [
+      "Figure 2 NEM VRE Project Debt Issuance (2016 - 2019YTD) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      138,
+      835,
+      418
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "More important is the tenor of facilities across the sector and the debt refinancing task facing the sector, illustrated in Figure 3. Note that $8 2 . 8 \\%$ of all facilities outstanding, representing more than $\\$ 7.756n$ of project debt, needs to be refinanced between now and 2025. Non-VRE power project debt then needs to be added to this amount (several $\\$ 9$ billions more). This is clearly a crucial variable that must to be considered with respect to any market changes. ",
+    "bbox": [
+      205,
+      431,
+      904,
+      535
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_3629103/auto/images/64c48881edd8db424bd4df3499cb9b27e6b36238ef36a1f5e8b2fcc0bb5453a7.jpg",
+    "image_caption": [
+      "Figure 3 NEM VRE Project Debt Refinancing Task 2019-2030 ",
+      "Sources: Bloomberg, Company Websites, Media Releases, RenewEconomy. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      273,
+      571,
+      826,
+      820
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      959
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      831,
+      42,
+      919,
+      103
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1.3 Additional complexity ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      116,
+      475,
+      133
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We recognise that, in the long-term, market participants and investors will usually adapt to new market conditions if a sufficiently long period of stability is allowed. However, it is not clear to us whether the long-term market will be fundamentally more efficient once contracting and hedging strategies are taken into account, and whether this will outweigh the short-term slowdown. ",
+    "bbox": [
+      206,
+      141,
+      885,
+      226
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In our opinion, while the risk of congestion or competition from a future new entrant remains a source of uncertainty for generators, it is a well understood one. Participants currently undertake forecasts of the regional price, project loss factor and connection point congestion, with appropriate sensitivity scenarios. While these are not trivial forecasts, the potential variability and ranges are well known and understood (although participants must still allow for “black swan” events). ",
+    "bbox": [
+      206,
+      242,
+      894,
+      344
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In contrast, under the AEMC’s proposed framework, participants building an investment case will be required to: ",
+    "bbox": [
+      208,
+      359,
+      830,
+      393
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "With a high degree of detail, model and forecast the local marginal price for the project; • Model and forecast the likely fair-value of FTRs and the price for FTRs at auction; Model and forecast the likely availability and firmness (and the degree of nonfirmness) of those FTRs, requiring an understanding of overall market dynamics; Consider additional market power compliance risks and/or caps being placed on offers; and Model and forecast local marginal prices for every node in order to determine a regional load weighted price; Model and forecast MLFs for every dispatch interval and/or forecast future MLF hedge prices. ",
+    "bbox": [
+      236,
+      409,
+      904,
+      637
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "This increases the total sources of uncertainty for a project and, at least during the transition, will create uncertainty that banks and finance providers must respond to – and will surely price accordingly in the period leading up to reform, and in the immediate post-reform market environment – which as noted early is unlikely to be less than 5 years in total. ",
+    "bbox": [
+      206,
+      653,
+      900,
+      738
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We further note that after declining since 2010, liquidity in the NEM’s forward markets are finally increasing again (Figure 4). These forward markets (i.e. with tenors of 1 Quarter to 3 Years in the futures market, and nominally 1 day to 15 years in the OTC markets) remain the primary source of hedging for market participants. The additional complexity and disconnection between physical production and access to the regional price significantly risks further reductions in liquidity. ",
+    "bbox": [
+      206,
+      754,
+      902,
+      856
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      830,
+      42,
+      919,
+      104
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_3629103/auto/images/0968ec4b5b7e74751e24f32a3114799cb5a019f5d7d8fcb0c19714335ee22894.jpg",
+    "image_caption": [
+      "Figure 4 OTC & ASX Forward Electricity Market Liquidity 1999-20193 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      136,
+      907,
+      460
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2. SPECIFIC ISSUES ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      479,
+      418,
+      496
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Redefining the regional reference price ",
+    "bbox": [
+      211,
+      510,
+      531,
+      526
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Existing contracts typically make reference to the regional reference price or the price at the reference node. The AEMC’s proposed plan will remove the regional reference price (RRP), and introduce two new quantities: the regional VWAP and the local marginal price. In some instances, this change could be considered a market disruption event and potentially require reopening aspects of existing contracts. This will be expensive and – as noted above – increase refinancing risks. ",
+    "bbox": [
+      206,
+      529,
+      904,
+      631
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Market power behind congestion ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      647,
+      478,
+      662
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Under Optional Firm Access, AEMC was able to demonstrate that (price-taker) participants behind a binding constraint generally had no incentive to bid above SRMC. This was due residues being returned to participants pro-rata with capacity. However, under dynamic regional pricing, if residues instead are placed in a pool, participants without FTRs have a strong incentive to shadow-bid the regional price (thereby driving up the nodal price) or, alternatively, to withdraw capacity to unbind the constraint. While this disorderly bidding does not directly impact on consumer surplus, neither does the existing types of disorderly bidding. It will, however, increase operational complexity for generators – particularly VRE generators that typically offer capacity at their short-run operating costs. ",
+    "bbox": [
+      206,
+      666,
+      890,
+      786
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      831,
+      42,
+      917,
+      103
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Nelson, Pascoe, Calais, Mitchell & McNeill (2019), “Efficient integration of climate and energy policy in Australia’s National Electricity Market”, Economic Analysis & Policy, 64(2019): 178-193. ",
+    "bbox": [
+      200,
+      868,
+      884,
+      890
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      959
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3 Sources: Simshauser, Tian, Whish-Wilson (2015), “Vertical integration in energy-only electricity markets”, Economic Analysis & Policy, 48(2015): 35-56. ",
+    "bbox": [
+      205,
+      830,
+      843,
+      853
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      208,
+      117,
+      873,
+      167
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Competition for FTRs ",
+    "text_level": 1,
+    "bbox": [
+      210,
+      184,
+      388,
+      199
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Further analysis is required on the potential strategies for incumbents and new entrants in purchasing FTRs. For example, incumbents may be able to justify higher FTR prices on a short-run basis, while new entrants may need to factor in a new cost of acquiring firm transmission. Conversely, as the cost for renewables fall over time, new entrants may be able to undercut existing generators and their associated investment (including refinancing) business cases. ",
+    "bbox": [
+      206,
+      201,
+      905,
+      304
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Doesn’t place risk with parties best placed to manage it. ",
+    "bbox": [
+      208,
+      320,
+      665,
+      336
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Many renewable projects sell output through PPAs, swapping an uncertain RRP for a certain PPA strike price. However, if generators are exposed to the LMP while retailers are exposed to the VWAP, then either: ",
+    "bbox": [
+      208,
+      339,
+      892,
+      388
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "PPAs are referenced to the LMP, exposing retailers to VWAP risk – however, this would require off-takers to be able to purchase FTRs without owning/operating (relevant) physical assets in the network; or PPAs are referenced to the VWAP, exposing generators to LMP basis risk – in which case, generators will be required to manage an efficient purchase of FTRs. It is not clear that potentially unsophisticated generators are best placed to manage this complex risk. ",
+    "bbox": [
+      236,
+      406,
+      902,
+      526
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "MLF incorporated into the LMP ",
+    "bbox": [
+      208,
+      542,
+      465,
+      558
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "While a generator may be indifferent to whether the MLF is incorporated into the price or applied as a separate step, many PPAs are bought as hedges against energy sales at the reference node. If the relevant generator MLF was not available for each period, this would require restructuring of contracts and potentially synthesising a proxy MLF (e.g., based on the different between LMP and the VWAP). ",
+    "bbox": [
+      206,
+      561,
+      894,
+      663
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Real-time MLFs ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      679,
+      342,
+      694
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Infigen’s submission to the Transmission Loss Factors rule change4 noted that while real-time loss factors are more accurate in the short-run, they may be problematic for both operational and investment decisions, increasing uncertainty over forward contracts. ",
+    "bbox": [
+      208,
+      698,
+      904,
+      766
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Interaction between MLFs, FTRs, and grandfathering Infigen considers that some level of grandfathering would be necessary to manage the transition, particularly if residues are returned to consumers rather than being distributed back to generators (as was the case under OFA). However, while participants could reasonably assume some level of no-cost firm access, it is not appropriate for grandfathering to remove MLF risk from participants. Any grandfathered MLF component would also require negotiating a “fair” long-term MLF. It is not appropriate to grant incumbents rights that did not exist at the time of investment decision, and therefore simply hedging (for example) MLF to historical levels is not appropriate. ",
+    "bbox": [
+      201,
+      781,
+      889,
+      833
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "4 https://www.aemc.gov.au/sites/default/files/2019- 07/Rule%20Change%20SubmissionERC0251%20-%20Infigen%20Energy%20- %2020190718.PDF ",
+    "bbox": [
+      205,
+      877,
+      803,
+      918
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      830,
+      42,
+      919,
+      104
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      894,
+      948,
+      905,
+      958
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      116,
+      904,
+      236
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We also consider more analysis is required to understand how FTRs that hedge against MLF would be priced and the likely payout on such hedges – clearly, a price floor of zero would not be appropriate. ",
+    "bbox": [
+      206,
+      252,
+      897,
+      302
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This suggests that a separate right might be needed if the AEMC were to allow participants to hedge MLF risks, creating further complexity. ",
+    "bbox": [
+      208,
+      318,
+      855,
+      351
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "FTRs including both congestion and MLF risk ",
+    "bbox": [
+      208,
+      366,
+      584,
+      382
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "While an “all-in” FTR that removes risk of both congestion and losses is appealing, we are concerned that the full implications have not been considered. In particular, it is unclear how this would interact with grandfathering of rights. While incumbents may currently have some reasonable expectation of some level of firm access to the network, this is not true for MLFs. A grandfathered, all-in FTR would need to include an assumption about the project MLF over that timeframe, and it is not appropriate to grant incumbents rights that did not exist at the time of investment decision. ",
+    "bbox": [
+      206,
+      385,
+      905,
+      504
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Wholesale price uncertainty ",
+    "text_level": 1,
+    "bbox": [
+      210,
+      521,
+      440,
+      536
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "It is currently unclear what impact the move to a VWAP methodology would have on regional prices. This is causing uncertainty for both retail and PPA negotiations. Quantitative modelling is required to address this. ",
+    "bbox": [
+      208,
+      541,
+      897,
+      590
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3. RECOMMENDATIONS ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      612,
+      452,
+      629
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The AEMC should defer further progress on COGATI and make this   \nannouncement as soon as possible. In our experience, COGATI is already having an adverse impact on both i) investment decision-making and ii) the complexity, cost and certainty to structure and clauses in new contracts iii) the liquidity of future electricity hedging contracts.   \nIt should consider it in light of the ESB’s post-2025 process.to understand more fully the interaction between this mechanism and others under   \nconsideration as part of that package of regulatory reform.   \nThe AEMC should undertake further modelling to identify costs and benefits of the proposed change across the whole project development and operation chain, including financing risks. While full time sequential modelling may not be valuable, more sophisticated case studies (including of real-world grid locations) would be helpful.   \nThe AEMC should pursue the publication of additional information: for example, AEMO could publish nodal prices or provide greater visibility on congestion. Infigen made a similar recommendation in our submission to the ",
+    "bbox": [
+      233,
+      637,
+      899,
+      918
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      948,
+      905,
+      958
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      830,
+      42,
+      919,
+      104
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Transmission Loss Factors rule change5, whereby AEMO would publish MLF sensitivities to increase visibility to new market participants of potential risks in various areas. ",
+    "bbox": [
+      267,
+      116,
+      899,
+      167
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4. CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      188,
+      384,
+      206
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We do not consider that the evidence to date supports the introduction of dynamic regional pricing at this time and, in fact, may defer investment at a time when a significant low-emissions transformation is required. ",
+    "bbox": [
+      208,
+      214,
+      880,
+      264
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We look forward to the opportunity to continue to engage with the AEMC. If you would like to discuss this submission, please contact Dr Joel Gilmore (Regulator Affairs Manager) on joel.gilmore@infigenenergy.com or 0411 267 044. ",
+    "bbox": [
+      208,
+      280,
+      867,
+      331
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Yours sincerely ",
+    "bbox": [
+      208,
+      377,
+      336,
+      394
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Ross Rolfe Managing Director ",
+    "bbox": [
+      206,
+      461,
+      363,
+      495
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5 https://www.aemc.gov.au/sites/default/files/2019- 07/Rule%20Change%20SubmissionERC0251%20-%20Infigen%20Energy%20- %2020190718.PDF ",
+    "bbox": [
+      205,
+      877,
+      801,
+      918
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Infigen ",
+    "bbox": [
+      831,
+      42,
+      917,
+      103
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      887,
+      948,
+      904,
+      958
+    ],
+    "page_idx": 10
+  }
+]

@@ -1,0 +1,1300 @@
+[
+  {
+    "type": "text",
+    "text": "Value Stream Mapping (VSM) applied to a company of the metal-mechanic in 4.0 industry context ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      154,
+      909,
+      195
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Kyrillos, S.L. 1; Nascimento, R.J. 2; Souza, J.B. 3; Sacomano, J.B. 4; Ollitta Jr.; U. 5 ",
+    "bbox": [
+      95,
+      204,
+      905,
+      225
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1-Universidade Paulista (Unip) – sergiolalupe@greco.com.br; 2-Instituto Federal de São Paulo (IFSP) – ridnal@uol.com.br; 3- Instituto Federal do Espírito Santo (IFES) – josebarrozo@gmail.com; 4-Universidade Paulista (Unip) – jbsacomano@gmail.com; 5- Universidade Paulista (Unip) – engumberto@gmail.com ",
+    "bbox": [
+      115,
+      234,
+      885,
+      300
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract: This research presents the data obtained in a metalurgical company, from the implementation of VSM - Value Stream Mapping tool - in agreement with the Lean Manufacturing - LM system. Through a quali-quantitative approach, and the research-action method was used as a research strategy. The starting point was based on a bibliographical survey, it was sought to identify concepts to develop and implement VSM in a manufacturing unit located in the industrial district of Guarulhos (Brazil). The participation of employees and researchers, we test the hypothesis that with the VSM method implementation is possible to obtain a productivity gain without investment in assets. The results demonstrated an improvement in productivity, increasing the man, hour, machine (hhm) ratio by $2 6 . 7 4 \\%$ , a $2 1 \\%$ reduction in processing time (PT) and $3 1 . 5 \\%$ in Lead Time (LT). Was concluded that with the application of the VSM tool an improvement of the planning, programming and production control (PPCP) management is obtained, resulting in actions that lead to the productivity gain. This study contributes to demonstrate that managing the production based on real data structured in mathematical tools is as relevant as the improvement of the productive infrastructure of the factory; leading to the effective reduction of waste, to improving productivity and increasing the competitiveness. ",
+    "bbox": [
+      87,
+      309,
+      910,
+      574
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Value Stream Mapping - VSM; Lean Manufacturing; Action research; Lead Time; Production Management ",
+    "bbox": [
+      92,
+      583,
+      889,
+      599
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Resumen: Esta investigación presenta los datos obtenidos en una empresa metalúrgica, a partir de la implementación de la herramienta VSM - Value Stream Mapping - de acuerdo con el sistema Lean Manufacturing - LM. A través de un enfoque cualitativo y cuantitativo, el método de investigación de acción se utilizó como estrategia de investigación. El punto de partida se basó en una búsqueda de literatura, buscando identificar conceptos para desarrollar e implementar VSM en una fábrica ubicada en el distrito industrial de Guarulhos (Brasil). Con la participación de empleados e investigadores, probamos la hipótesis de que, con la implementación del método VSM, es posible obtener una ganancia de productividad sin invertir en activos. Los resultados mostraron una mejora en la productividad, aumentando la proporción de hombre, hora, máquina (hhm) en un $2 6 . 7 4 \\%$ , una reducción del $2 1 \\%$ en el tiempo de procesamiento (TP) y $3 1 . 5 \\%$ en el tiempo de entrega (LT) . Se concluyó que, con la aplicación de la herramienta VSM, se obtiene una mejora en la planificación de la producción, la programación y la gestión de control (PPCP), lo que resulta en acciones que conducen a ganancias de productividad. Este estudio contribuye a demostrar que la gestión de la producción basada en datos reales estructurados en herramientas matemáticas es tan relevante como la mejora de la infraestructura productiva de la fábrica; lo que conduce a una reducción efectiva de residuos, mejora la productividad y aumenta la competitividad. ",
+    "bbox": [
+      87,
+      607,
+      910,
+      870
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Palabras clave: Mapeo de flujo de valor; Fabricación; Investigación de acción; Tiempo de cruce; Gerencia de producción ",
+    "bbox": [
+      89,
+      879,
+      905,
+      913
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "NETLOG 2020 International Conference on Network Enterprises & Logistics Management ",
+    "bbox": [
+      247,
+      39,
+      756,
+      129
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "São Paulo, 7 – 10 junho de 2020 ",
+    "bbox": [
+      645,
+      927,
+      909,
+      941
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Resumo: Esta pesquisa apresenta os dados obtidos em uma empresa metalúrgica, a partir da implementação da ferramenta VSM – Mapeamento de fluxo de valor - em concordância com o sistema Lean Manufacturing - LM. Por meio de uma abordagem quali-quantitativa, o método de pesquisa-ação foi utilizado como estratégia de pesquisa. O ponto de partida foi baseado em uma pesquisa bibliográfica, buscou-se identificar conceitos para desenvolver e implementar o VSM em uma unidade fabril localizada no distrito industrial de Guarulhos (Brasil). Com a participação de funcionários e pesquisadores, testamos a hipótese de que, com a implementação do método VSM, é possível obter ganhos de produtividade sem investimento em ativos. Os resultados demonstraram melhorias de produtividade, aumentando a proporção homem, hora, máquina (hhm) em $2 6 , 7 4 \\%$ , redução de $2 1 \\%$ no tempo de processamento (TP) e $3 1 { , } 5 \\%$ no lead time (LT). Concluiu-se que, com a aplicação da ferramenta VSM, é obtida uma melhoria no gerenciamento do planejamento, programação e controle de produção (PPCP), resultando em ações que levam ao ganho de produtividade. Este estudo contribui para demonstrar que o gerenciamento da produção com base em dados reais estruturados em ferramentas matemáticas é tão relevante quanto a melhoria da infraestrutura produtiva da fábrica; levando à redução efetiva de resíduos, melhorando a produtividade e aumentando a competitividade. ",
+    "bbox": [
+      87,
+      85,
+      910,
+      331
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Palavras-chave: Mapeamento do Fluxo de Valor; Manufatura; Pesquisa-ação; Tempo de atravessamento; Gerenciamento de Produção ",
+    "bbox": [
+      90,
+      341,
+      904,
+      373
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      387,
+      236,
+      404
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Currently Brazilian market is characterized by the predominance of companies that coexist in an environment with fierce competition. These organizations seek insertion into a globalized market where there are customers and consumers’ high demand for products with adequate quality and lower costs and suppliers’ need to be agile and adaptable to meet the tight delivery deadlines. ",
+    "bbox": [
+      89,
+      419,
+      909,
+      485
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In this way, companies have been striving to consolidate themselves in the current highly competitive market scenario, where managing productive activities requires a combination of skills and processes. The necessary skills are: entrepreneurial vision, intellectual boldness and competence regarding the use of resources needed in production. In relation to process, so that the management of productive activities becomes feasible, it is necessary to have programming, planning, mapping and operational control, which require reliable flow of information. ",
+    "bbox": [
+      89,
+      495,
+      910,
+      593
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "According to Tubino (2007) it is necessary that the companies comprehend, within their limits, what are their abilities and strengths when effecting the necessary relationship with the environment; creating competitive advantages that bring them gains from the market situations. This vision, at the strategic level, will enable the tactical and operational levels to take correct actions to make productive units effective through operations performed with a high level of efficiency. ",
+    "bbox": [
+      89,
+      602,
+      910,
+      686
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Corporate sustainability is seen not only by the bias of the tripartite relationship among company, clientele and investors, but also includes the consolidation of attitudes considered ethical - in the sense of observation and respect for the standards and for the set of laws and regulations needed to be compliant with the guidelines and policies of the enterprise – face to local legal devices. ",
+    "bbox": [
+      89,
+      695,
+      909,
+      760
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within this concept, the corporate sustainability will present consistency from the effective action permeated by transparent dialogues, consistent flow of information and, fundamentally, the practices that make possible the valorization of the brand, customer loyalty, commitment and the establishment of alliances with partners. This effective action consolidates the strengthening of both the company, from the institutional point of view, and the network that supports it. ",
+    "bbox": [
+      89,
+      770,
+      910,
+      852
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "By maintaining these practices, it meets the interests of the organization or the business unit (BU), the stakeholders’ expectations, as well as the return and the necessary maximization of profit margins, allowing the creation of a favorable scenario to the existence and the strengthening of an organism capable of establishing vigorous social bonds and providing the longevity of the BU, the enterprise or the company. ",
+    "bbox": [
+      89,
+      862,
+      909,
+      910
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      928,
+      909,
+      939
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      89,
+      85,
+      907,
+      118
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "According to Marinardes, Alves, Raposo and Domingues (2011), this classification presents simplicity and coherence, differing from the classification proposed in the Stakeholder Salience model presented by Mitchell, Agle and Wood (1997), which establishes three factors - power, legitimacy and urgency - to classify by importance the stakeholders of the BU. ",
+    "bbox": [
+      87,
+      127,
+      910,
+      192
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "An operational definition for efficiency can be established by the relation between expected consumption of resources and actual consumption of resources. Brito and Mariotto (2013) emphasizes the importance of managers seeking efficiency and effectiveness in their productive processes; but highlights the danger of the company in pursuing efficiency alone. ",
+    "bbox": [
+      87,
+      203,
+      910,
+      272
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The development of this work included a bibliographic research on cost management, production function, productive systems, Lean Manufacturing (LM) and Value Stream Mapping (VSM). It should be noted that the current research, due to its exploratory bias and its goal of generating knowledge for practical application, is classified as being of an applied nature; the approach is qualitative-quantitative, according to Gil’s concepts (2008). In relation to the method, it can be classified as action research, which according to Thiollent (2011) is the one which implies action on the part of people or groups involved in the observed issue, in the case of this research, to identify, develop and implement VSM based on the current state map and the principles of LM. This article was structured in the following way: the first session presents the introduction of the research, the definition of the problem and the methodological approach; in the second one, the theoretical referential is described; in the third one, the application of the action research is presented and finally the conclusion of the research is described in the fourth session. ",
+    "bbox": [
+      87,
+      284,
+      912,
+      493
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 Theoretical Framework ",
+    "text_level": 1,
+    "bbox": [
+      149,
+      505,
+      371,
+      521
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In order to set up the theoretical methodological framework of this research, a bibliographical research was carried out on: Research Methodology, Production Planning and Control, Lean Manufacturing, and Value Stream Mapping (VSM). According to Torres (2014), the relevance of bibliographic research \"Is in the fact, among others, that the theory makes possible in every way the reading and interpretation of different texts with which we discover new texts, or not, in search of new senses. In addition, above all, to its unity with the practice that allows us to see the object from the concrete reality, since, for the accomplishment of a research work, there is to be made several articulations between theory and practice, respecting their autonomy and dependence on the foundation of the object and field investigated\" (p. 43). ",
+    "bbox": [
+      87,
+      532,
+      910,
+      680
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In this way, the present research articulates the theory and the practice to answer whether it is possible to obtain a productivity gain without any investment in assets, only with the implementation of the VSM tool. ",
+    "bbox": [
+      89,
+      688,
+      909,
+      737
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.1 Managing costs: the production function and the production systems. ",
+    "bbox": [
+      90,
+      751,
+      675,
+      768
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Seeking to control and reduce as well as ensure and maintain the profit margins of productive activities, managing costs is fundamental for the company to remain sustainable and competitive; even more facing the globalized market. Traditional cost apportionment systems that involve direct (DC) and indirect (IC) costs synergistically linked to fixed (FC) and variable (VC) costs require special attention. The indirect costs are particularly pernicious, since their growth is vertiginous, especially in the case of the demand to be suppressed. The direct costs, however, require a proper mapping of direct labor that must have adequate productivity. On the other hand, productive systems, involving the production of goods and services, are dependent on a well-structured PPCP sector. The Taylorist-",
+    "bbox": [
+      87,
+      782,
+      910,
+      914
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      928,
+      909,
+      939
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Fordist paradigm, has the concept of a reorder point and minimum lot which aim to push the production, always looking at inventories and linking purchase orders to production orders, as shown in Figure 1. ",
+    "bbox": [
+      87,
+      85,
+      910,
+      134
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/19bc425a2c480d6a5f3a7864fdd21cd6f15ebba5a2d44866bb7e28b9c2de3a0f.jpg",
+    "image_caption": [
+      "Figure 1 - PPCP under the conventional view. Source: Authors "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      143,
+      670,
+      175
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Linke, Chaves, Espinha, Tsukuda, and Narciso (2013) argue that the PPCP is the sector responsible for both the coordination and the adequate application of productive resources so that the plans previously established by the company are efficiently met. The PPCP sector is structured to simplify activities and to eliminate unnecessary time and activities.Planning presupposes designing and formalizing future activities and aspirations, therefore keeping control and adopting eventual corrections are essential so that the plans can be concretized and confirmed. Thus, the operations carried out must be profitable and depend on the efficient management of production systems; in such a way that the number of units produced (as a function of the installed operational capacity - IOC) is able to surpass the equilibrium point required by the production unit, as shown in Figure 2. They should add value at each stage. ",
+    "bbox": [
+      87,
+      212,
+      910,
+      378
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The segment $\\mathrm { ~ O ~ } \\Rightarrow \\mathrm { ~ B ~ }$ translates the behavior of the total revenues obtained from the sales prospects to be carried out by the company. The segment A ➔ C represents the way in which the company's expenses are incurred, considering the production costs involved as a function of the number of units produced and which has in the segment A $\\Rightarrow$ A the reference to identify the level of fixed costs (FC). ",
+    "bbox": [
+      87,
+      392,
+      910,
+      473
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As the segment O ➔ B exceeds the segment $\\mathrm { ~ A ~ } \\xrightarrow { } \\mathrm { ~ C ~ }$ profit will be obtained; the opposite condition will lead to loss and, if total revenue covers total expenditure, we will achieve stability of the system through the break-even point. As for costs, one must understand the business as a whole and in a detailed and formal way. The VSM tool presents a challenge for the company regarding the understanding of the entire production process and of which phase of the process is able to deliver value to the customer without impacting costs. ",
+    "bbox": [
+      87,
+      474,
+      912,
+      573
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/38ec9767b4355d57c2b2686b0016e58c24b2f245f0119c6743a74a06a89d7d4c.jpg",
+    "image_caption": [
+      "Figure 2 - The profitability of operations. Revenues, expenses and units produced. Source: Authors "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      294,
+      579,
+      692,
+      734
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As shown in figure 3, currently, the production function account resources (labor, capital, energy, raw materials, other inputs) through innumerable entry ports, making the production unit dependent on social demands (goods and services) arising from the external environment. Therefore, this function seeks to consolidate itself in the face of a market subject to high amplitude oscillations and it should behave in accordance with the profit zone shown in the figure 2. ",
+    "bbox": [
+      87,
+      791,
+      910,
+      875
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      897,
+      928,
+      910,
+      939
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/04753231bac9a96f667ee743235ea1f3009851374458c296c48d1603548b12f1.jpg",
+    "image_caption": [
+      "Figure 3 - The production function with the necessary efficiency: to add value and eliminate costs. Source: Authors "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      171,
+      84,
+      826,
+      210
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.2 Lean Manufacturing ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      266,
+      285,
+      281
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "By constantly seeking to eliminate waste and excluding what does not add value, in addition to providing speed to the company, the foundations of the Lean Manufacturing concept are at the heart of the discussions. Werkema (2006) defends the idea that Lean can be applied to all kinds of work a more appropriate denomination is Lean Operations or Lean Enterprise. The origins of Lean Manufacturing go back to the Toyota Production System (also known as Lean Manufacturing or Just in Time Production - JIT). Taichi Ohno in Japan, as well as Orlich in the US, have shifted paradigms from pushed to pulled production whose main element, JIT, shows that inventory is one of the wastes within companies. Ohno contemplates some elements, which until then was not seen in manufacturing, such as the cell lay out, the multifunctional worker, the quick tool change, and especially the total quality throughout the company and the Kanban information control system. He also considers the elimination of the seven wastes (Muda): ",
+    "bbox": [
+      87,
+      297,
+      910,
+      476
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "I. Production of products with defects;   \nII. existence of overproduction not required by the clientele;   \nIII. maintenance of stocks awaiting processing;   \nIV. remanufacturing and / or reprocessing;   \nV. unnecessary movement of employees and inadequate jobs;   \nVI. unnecessary transportation and handling of goods; ",
+    "bbox": [
+      146,
+      487,
+      647,
+      586
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "VII. long set-up, process and / or machine with discontinuities waiting to complete processing, employees with interrupted functions and / or waiting to return to work. ",
+    "bbox": [
+      92,
+      586,
+      904,
+      618
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The approach adopted for what is generally understood as manufacturing, as described by Monden (2012), is that lean production can’t, nor should be considered a change of the Scientific Administration, but an evolution of this. Lean production means doing more with less, affirming the concept that over-activity is unnecessary and costly, reducing long lead times, applying the just-intime principle on production lines, reducing overall costs, improving the relationship between customers and suppliers and implementing an efficient quality management system as well. According to Rajenthirakumar and Shankar (2011) \"the main contribution of lean production is that these practices can function synergistically to create a simplified, high quality system that produces finished products at the pace of customer demand with little or no waste.\" However, it should be emphasized that the success of implementing any specific management practices often depends on the organizational characteristics, so the same set of practices can’t be implemented in all organizations at random. (Galbraith (1977), Pepper & Spedding (2010), Shah & Ward (2002)). Companies, which are increasingly integrated today, depend on actions that add value to them, eliminating wastes; thus, according De Souza et al. (2015), lean production may also be considered as an extended JIT mechanism that includes the participation of all parties involved in the supply chain, intra and inter companies. ",
+    "bbox": [
+      87,
+      618,
+      912,
+      879
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.3 Value Stream Mapping ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      895,
+      309,
+      912
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      897,
+      928,
+      909,
+      939
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Value Stream Mapping (VSM) seeks to systematize the flow of information and materials in productive organizations. The stage of mapping the current state of the VSM is essential to identify wastes so that one can strategically take the necessary attitudes for the implementation of the value map of the future state. A value map is the representation of flows from the moment of receipt of the production order to the delivery of the final product. Womack and Jones (1998) argue that in the value stream mapping those steps considered as non-adding value are correctly specified and timely eliminated. They also state that the value in the processing walks throughout the entire system in a continuous and constant manner, under the proper management of three managerial tasks, namely: ",
+    "bbox": [
+      87,
+      84,
+      910,
+      216
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "- Information management;   \n- physical transformation;   \n- troubleshooting. ",
+    "bbox": [
+      147,
+      217,
+      373,
+      265
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Rother and Shook (2003) understand that value stream flow is all the actions currently required to bring a product through the main flows essential to every product. ",
+    "bbox": [
+      92,
+      267,
+      904,
+      298
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Sullivan, Mcdonald & Van Akem (2002) highlight that VSM, by providing a common basis for the production process, creates conditions for more elaborate decision making in order to improve the flow of value. In this way it can be inferred that VSM is applied as a way to move towards lean manufacturing and as a formula to lead improvement activities. (Sullivan et al., 2002), Sahoo, Singh, Shankar & Tiwari (2008)). With respect to competitiveness, Rother and Shook (2003) state that VSM provides companies with a competitive gain, avoiding dispersion in punctual improvements, which in most cases provide little end result and little support over time. The main focus of mapping the value chain is to demonstrate the material and information flows in the various phases of production, providing the necessary subsidies to choose Lean tools. In the present study, the concept of value is understood as the acceptance index that product (or process) presents against the expectation demonstrated by the client. Thus, as the value of one product (or process) is higher than that of another, the greater the chance that the product (or process) will exceed that offered by its competitor. As shown in Figure 4, for the application of the VSM tool, four steps must be accomplished before the plan is implemented: Product family selection, Current-state drawing, Future-state drawing and Planning and implementation of the Action plan (Rother & Shook, 2003). ",
+    "bbox": [
+      87,
+      300,
+      912,
+      544
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/273727a403dd6798664749a4947cb1865f74a0c28f8f49641469715b14346704.jpg",
+    "image_caption": [
+      "Figure 4 - Steps for deploying the value stream mapping. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      265,
+      554,
+      731,
+      837
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Source: Adapted from Rother, M. and Shook, J.: Learning to See: Mapping the Value Stream to Add Value and Eliminate Waste. São Paulo: Lean Institute of Brazil, 2003. ",
+    "bbox": [
+      90,
+      878,
+      902,
+      912
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      897,
+      928,
+      910,
+      940
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "According to the authors, the \"most important point of the future state implementation plan is not to think of it as the introduction of a series of techniques, but to regard it as a process of building a series of connected flows for a product family\" (Rother & Shook, 2003, p. 86). It is observed that in figure 4 the arrows between the present and the future states have a double direction, indicating that the development of the present and future states are overlapping efforts. The first step in the construction of VSM is to choose a product family, \"composed of a group of products that pass through similar processing steps and over common equipment in your downstream processes\"; selected the product family the next step is to map (draw) the current state \"by gathering information on the shop floor. This provides the information you need to develop a future state\". The construction of the third stage - drawing the future state - begins with the ideas that are usually raised in the mapping of the current state. Likewise, when drawing the future state important information about the current state will be pointed out, which often went unnoticed. The fourth step – Action Plan - should describe how to plan this transition from the current state to the future state; and its implementation should take place as soon as possible. Then as soon as the future state comes true, the mapping process repeats itself. That is nothing more than applying the concept of continuous improvement at the value flow level. (Roth & Shook, 2003), Guimarães, Medeiros, SANTANA, & Pereira (2015)). Bercaw (2012) states that the technique employed in the VSM tool allows those involved (led by a manager) to identify and analyze both the processes and the infrastructure for decision making to improve them and reduce waste throughout the flow. Thus, an action plan for the future state can / should add value to the production system. The following diagram (Figure 5) shows the symbology used in this work to draw the current-state and the future-state flow maps for the implementation. ",
+    "bbox": [
+      87,
+      86,
+      912,
+      430
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/56d90d8e18910465bf3289587c0e65c2ee8cfa6a8bc9bb5049ea2443d7445dfb.jpg",
+    "image_caption": [
+      "Figure 5 - Symbols used for VS "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      173,
+      442,
+      820,
+      788
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Source: Adapted from Rother, M. and Shook, J.: Learning to See: Mapping Value Flow to Add Value and Eliminate Waste (2003). ",
+    "bbox": [
+      85,
+      827,
+      862,
+      859
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3. The Study ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      869,
+      200,
+      885
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.1 Research Methodology ",
+    "bbox": [
+      89,
+      896,
+      309,
+      912
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      897,
+      927,
+      910,
+      939
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In order to lay the foundations for this research, to develop the study and to validate it, we sought support in the Action Research method (AR), according to Thiollent’s concepts (2011). Among the aspects highlighted by this author, there is the statement that a systemic perspective is presented in AR, dealing with the whole and the parts, improving the approximation with complexity, factors that have proved important to this research. ",
+    "bbox": [
+      87,
+      85,
+      910,
+      167
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Through AR, researchers take positions and make decisions about transformative actions. In this scenario, the actors have the role of becoming articulators and facilitators of the researchers involved, allowing information sharing, feedback to stakeholders and implementation with concrete initiatives. The planning of the research was carried out considering the demands of the production unit due to the need to obtain greater productivity, to reduce waste and to effectively introduce a quality standard. Thus, having defined the family of product and the necessary data collection, it was proposed the elaboration of the activities for the construction of the VSM according to Figure 5, already presented. This is applied exploratory research and a qualitative and quantitative character. ",
+    "bbox": [
+      87,
+      175,
+      910,
+      306
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.2 The company and the product ",
+    "text_level": 1,
+    "bbox": [
+      90,
+      316,
+      361,
+      332
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "For the development of the research some field activities were carried out in a transformation factory that operates in the metal-mechanical industry, located in the industrial park of Guarulhos / SP. One of the seven products, made on a large scale, was chosen. The chosen item is seen as a family item, as it has twelve color options and three packaging formats. According to Slack, Chambers and Johnston (2009), the production system is characterized as Make to Stock (MTS); high volume and low variety (high standardization). The activities for the development of the present study are described below, in accordance with the steps presented in Figures 6 and 7. ",
+    "bbox": [
+      87,
+      341,
+      907,
+      456
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Customer’s profile and requirements: ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      466,
+      477,
+      482
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "• Network $= 2 1$ stores.   \n• Demand $= 8 6 { , } 4 0 0$ pieces / month Requirement $= 2 1 { , } 6 0 0$ pieces / week in 3 or 4 shipments per week delivered to the distribution center (DC) (\\*) a reel equal to 2,057 pieces   \n¹ Cycle time (CT) is the time required to execute a production activity. CT is understood as the time elapsed between the repetition of the operation, from start to finish. CT is the beat time.   \n² Up time (UT) is understood in this article as the availability of the equipment on the machine in view of its necessary effectiveness against the production requirements.   \n3 Written stock refers to inventory observed prior to daily supply. ",
+    "bbox": [
+      176,
+      493,
+      909,
+      561
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/6770ecce71187ae494df8b6a95e727c55b8c96183b348e55c0775929f07a06dc.jpg",
+    "table_caption": [
+      "Table1: Operating manufacturing process "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=6>INFORMATION COLLECTED REGARDING TO THE PRODUCTION PROCESS</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>LAMINATION</td><td rowspan=1 colspan=1>STAMPING</td><td rowspan=1 colspan=1>INJECTION</td><td rowspan=1 colspan=1>ASSEMBLY</td><td rowspan=1 colspan=1>PACKING</td></tr><tr><td rowspan=1 colspan=1>Process</td><td rowspan=1 colspan=1>Semi-automatic</td><td rowspan=1 colspan=1>Semi-automatic</td><td rowspan=1 colspan=1>Automaticprocess</td><td rowspan=1 colspan=1>Semi-automatic</td><td rowspan=1 colspan=1>Semi-automatic</td></tr><tr><td rowspan=1 colspan=1>Quantity ofoperators</td><td rowspan=1 colspan=1>02</td><td rowspan=1 colspan=1>01</td><td rowspan=1 colspan=1>01</td><td rowspan=1 colspan=1>01</td><td rowspan=1 colspan=1>02</td></tr><tr><td rowspan=1 colspan=1>CT1Cycle Time(seconds)</td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>1.33 (80gpm)</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>0.21</td></tr><tr><td rowspan=1 colspan=1>OT (OperatingTime) (seconds)</td><td rowspan=1 colspan=1>480 sec / reel</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50 (computed forboxes with 240pieces)</td></tr><tr><td rowspan=1 colspan=1>UT²(UpTime)</td><td rowspan=1 colspan=1>79%</td><td rowspan=1 colspan=1>41%</td><td rowspan=1 colspan=1>53%</td><td rowspan=1 colspan=1>71%</td><td rowspan=1 colspan=1>68%</td></tr><tr><td rowspan=1 colspan=1>written stock 3(pieces)</td><td rowspan=1 colspan=1>12 reels (*)~24,684 pieces.3.5 days</td><td rowspan=1 colspan=1>2.300</td><td rowspan=1 colspan=1>48.000</td><td rowspan=1 colspan=1>19,470</td><td rowspan=1 colspan=1>6,190</td></tr></table>",
+    "bbox": [
+      99,
+      587,
+      878,
+      865
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      897,
+      927,
+      910,
+      940
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      87,
+      84,
+      909,
+      160
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Company PPCP Activities: 1) Receive the monthly forecast. 2) Feed the production system (MRP). 3) Acquire the inputs through orders for steel and plasticizer. 4) Weekly Schedule each of the processes of the production function, namely: lamination, stamping, injection, assembly and packaging. ",
+    "bbox": [
+      85,
+      172,
+      907,
+      239
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Working time data of the manufacturing company: ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      248,
+      621,
+      265
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The current operational availability is: ",
+    "bbox": [
+      196,
+      274,
+      519,
+      291
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• 20 days / month;   \n• 8h / day;   \n• 2 work shifts;   \n• 2 intervals / day. ",
+    "bbox": [
+      238,
+      292,
+      406,
+      361
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/90e3b76baf9b001d61be7e8c13b8682d9fa14c4efb416320d9377b1c6280b4c0.jpg",
+    "image_caption": [
+      "Figure 6: Value Stream Mapping (VSM) - hhm Current State. Sources: Authors "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      139,
+      380,
+      853,
+      791
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Calculation of current state productivity $\\Rightarrow$ hhm: considering 7 operators ➔ [(3,600/4.74)/7] $= 1 0 8 . 5 0 $ (man hour machine worked). ",
+    "bbox": [
+      144,
+      847,
+      905,
+      882
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      895,
+      927,
+      910,
+      940
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "➢ ",
+    "bbox": [
+      179,
+      275,
+      194,
+      286
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0999705/auto/images/cf1b128a81afc047b14ba989d288512311c8864ef565f298a9c37ddcd47ea825.jpg",
+    "image_caption": [
+      "Figure 7 – Value Stream Mapping - VSM – Future State. Sources: Authors "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      141,
+      90,
+      845,
+      546
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To perform the calculations, referring to the case on screen, we used the following equations from Tubino (2015) and Rother & Shook (2003): ",
+    "bbox": [
+      92,
+      595,
+      907,
+      629
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "TAKT TIME $\\mathbf { ( T K T ) = }$ Effective time of operation of a process (per shift) Quantity of the pieces required by customer (per shift) ",
+    "bbox": [
+      146,
+      652,
+      798,
+      687
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Equation 1: Calculating Takt Time (1) ",
+    "bbox": [
+      373,
+      694,
+      685,
+      712
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The takt time is a function related to the effective production time considering the number of parts ordered. ",
+    "bbox": [
+      114,
+      727,
+      904,
+      760
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "$\\mathrm { T K T } = 5 5 , 2 0 0 / 5 , 4 0 0 = 1 0 . 2 2$ sec /piece.   \nDemand (D) ➔ 21,600 in 4 shipments $= 5 { , } 4 0 0$ / shipment. ",
+    "bbox": [
+      115,
+      777,
+      616,
+      810
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4. Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      826,
+      265,
+      844
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The work presented the development of some articulated techniques to effect the VSM and, in this way, make it possible to extend the production planning and control of the unit. Managing based on real data structured in mathematical tools is as relevant as the improvement of the factory’s productive infrastructure; leading to the effective reduction of waste, improving productivity and increasing the competitiveness of the company. Another fact worth mentioning has been the consolidation of a base for the implementation of the Lean philosophy that requires commitment, discipline and assertive direction. These facts were able to guide the organizational culture so that the concept, in the operational scope, could allow due alignment of the processes in the sense of adding value. As a result, Process Time (P) was reduced by $2 1 \\%$ and Lead Time (LT) by $3 1 . 5 \\%$ . The Up Time (UT) of machines and equipment was increased in several phases of the process, as it is verified by the maps of VSM (current and future). It was verified an improvement in productivity raising the MHM (Man, hour, Machine) ratio by $2 6 . 7 4 \\%$ . In addition to the aforementioned, a dialectic was established between the actors of the productive organization and the researchers; so that, through the mapping of the material flow and the effective coordination of the information, it was possible to increase the visibility that allowed greater clarity regarding the production process, improvement of the cleaning, the environment as well as the layout, which also helps to eliminate waste. ",
+    "bbox": [
+      89,
+      859,
+      910,
+      909
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      928,
+      910,
+      939
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      87,
+      85,
+      912,
+      298
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "As far as transport is concerned, it has become necessary to carry out an additional delivery to the network of stores, which at first may seem cost increase. However, this fact did not cause losses, because the company always has vehicles in the region; since there are daily deliveries to the metropolitan area of São Paulo city that concentrates other customers of the company. As for the method used to carry out this study, it is possible to conclude that through the use of Action Research (AR), there was a conversion of scientific facts into practical actions, allowing intense interaction between the actors who acted proactively intra-organizationally and also between the company partners. With the study, it was possible to apply VSM concepts, to enable those involved to learn to identify and solve problems collectively, with observation and due action on the problems pointed out. ",
+    "bbox": [
+      87,
+      299,
+      910,
+      445
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "With regard to literature, titles where consulted that instrumented the actors with tools capable of meeting the demands of the company and the researchers in order to give reliability to the process. At the same time, benefits have been incorporated to maintain the price-term-quality trinomial making the production function more efficient, contributing to the effectiveness of the organization. Finally, considering the descriptive nature of this research, since facts and phenomena occurred in an environment where data extraction was systematic and practical, it is feasible to classify the study as being of an applied nature. The approach is understood as qualitative and quantitative. The researchers are grateful for the welcome given by the companies involved, which allowed us to lay the foundations for this study, as well as to the evaluation members of the editorial staff of this well-known journal. ",
+    "bbox": [
+      87,
+      447,
+      910,
+      594
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      611,
+      243,
+      626
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Bercaw, R. (2012): Taking Improvement from Assembly Line to Healthcare - The application of Lean within the healthcare industry. New York: Taylor e Francis Group. ISBN:978-4398-6239-1(Paperback). ",
+    "bbox": [
+      90,
+      643,
+      895,
+      674
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Bhamu, J., & Singh Sangwan, K. (2014). Lean manufacturing: literature review and research issues. International Journal of Operations & Production Management, 34(7), 876-940. Recuperado de: http://www.emeraldinsight.com/doi/abs/10.1108/IJOPM-08-2012-0315. doi: 10.1108/IJOPM-08-2012-0315. ",
+    "bbox": [
+      89,
+      681,
+      900,
+      728
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Brito, E. P. Z. & Mariotto, G. (2013). Benefícios da cooperação entre compradores e fornecedores: Um estudo no setor de tecnologia de informação e comunicação. Revista Brasileira de Gestão e Negócios, 15(47), 241-261. Recuperado de: http://www.redalyc.org/html/947/94727919005/. doi: 10.7819/rbgn.v15i47.1354. ",
+    "bbox": [
+      89,
+      737,
+      905,
+      783
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "De Souza, J.B.; Sacomano, J. B. & Kyrillos, S.L (2015).: Lean Maintenance: Perspectiva de Manufatura Competitiva e Sustentável. Anais: Cleaner production towards a sustainable transition, São Paulo – Brazil. ",
+    "bbox": [
+      87,
+      791,
+      878,
+      822
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Galbraith, J.R. (1977). Organization Design. Addison-Wesley, Philippines. ISBN: 0201025582, 9780201025583. ",
+    "bbox": [
+      90,
+      831,
+      803,
+      862
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Gil, A. C. (2008). Como elaborar projetos de pesquisa. São Paulo: Atlas. ISBN 85-224-3169-8. ",
+    "bbox": [
+      87,
+      870,
+      798,
+      888
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      889,
+      927,
+      909,
+      940
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Guimarães, L.S.; Medeiros, H.S.; Santana, A.F.B.& Pereira, M.S. (2015, jan-mar): Redução de processo produtivo com a utilização do ABC e Ferramentas Lean: estudo de caso em uma indústria de componentes de refrigeração. GEPROS. Gestão da Produção, Operações e Sistemas, Bauru, SP, Brasil, Ano 10, $\\mathbf { n ^ { o } } \\ 1$ , p. 157- 175. ",
+    "bbox": [
+      87,
+      84,
+      907,
+      145
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Linke, P. P., Chaves, C. J. A., Espinha, P. G., Tsukuda, F., & Narciso, V. L. S. (2013). A importância do planejamento e controle de produção para as indústrias de confecções da cidade de Maringá-PR: A perspectiva dos gestores de produção. Revista Gestão Industrial, 9(2). DOI: 10.3895/S1808- 04482013000200002. ",
+    "bbox": [
+      87,
+      153,
+      872,
+      215
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Mitchell, R.; Agle, B. & Wood, D. (1997). Toward a theory of stakeholder identification and salience: defining the principle of who and what really counts, Academy of Management Review, 22(4), p. 853-858. DOI: 10.5465/AMR.1997.9711022105. ",
+    "bbox": [
+      87,
+      224,
+      885,
+      269
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Mcdonald, T., Van Aken, E.M. & Rentes, A.F. (2002). Utilizing simulation to enhance value stream mapping: a manufacturing case application. International Journal of Logistics: Research and Applications ${ \\bar { 5 } } ( 2 )$ , p. 213– 232. DOI:10.1080/13675560210148696. ",
+    "bbox": [
+      87,
+      278,
+      904,
+      324
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Monden, Y. (2012): Toyota production system: an integrated approach to just-in-time. (4th ed.). Boca Raton: CRC Press. ISBN-13: 978-1-4665-0451-6(eBook – PDF) ",
+    "bbox": [
+      85,
+      332,
+      904,
+      365
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Pepper, M. P., & Spedding, T. A. (2010). The evolution of lean Six Sigma. International Journal of Quality & Reliability Management, 27(2), 138-155. DOI:10.1108/02656711011014276. ",
+    "bbox": [
+      87,
+      372,
+      902,
+      404
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Rajenthirakumar, D., & Shankar, R. G. (2011). Analyzing of the benefits: a consumer durables manufacturing company case study. International Journal of engineering. Annals of Faculty Engineering Hunedoara. London, Tome IX, Fascicule 3. pp. 335-339, 2011 ",
+    "bbox": [
+      89,
+      411,
+      907,
+      458
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Rother, M. & Shook, J. (2003): Aprendendo a enxergar: mapeando o fluxo de valor para acrescentar valor e eliminar o desperdício. São Paulo: Lean Institute do Brasil. ISBN: 8588874024 ",
+    "bbox": [
+      87,
+      467,
+      904,
+      499
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Sahoo, A. K., Singh, N. K., Shankar, R., & Tiwari, M. K. (2008). Lean philosophy: implementation in a forging company. The International Journal of Advanced Manufacturing Technology, 36(5-6), 451-462. DOI: 10.1007/s00170-006-0870-2. ",
+    "bbox": [
+      87,
+      506,
+      904,
+      552
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Shah, R., & Ward, P. T. (2003). Lean manufacturing: context, practice bundles, and performance. Journal of operations management, 21(2), 129-149. DOI:10.1016/S0272-6963(02)00108-0. ",
+    "bbox": [
+      89,
+      561,
+      905,
+      593
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Slack, N.; Chambers, S. & Johnston, R.(2009): Administração da Produção (3a. ed.). São Paulo: Atlas. ISBN: 978-85-224-5353-5 ",
+    "bbox": [
+      87,
+      600,
+      904,
+      632
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Sullivan, W. G., McDonald, T. N., & Van Aken, E. M. (2002). Equipment replacement decisions and lean manufacturing. Robotics and Computer-Integrated Manufacturing, 18(3-4), 255-265. DOI: 255-265. 10.1016/S0736-5845(02)00016-9. ",
+    "bbox": [
+      89,
+      639,
+      884,
+      687
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Torres, A. R. (2014). A pedagogia universitária e suas relações com as políticas institucionais para a formação de professores da educação superior. 2014, 294f (Doctoral dissertation, Tese (Doutorado em Educação)–Programa de Pós-Graduação em Educação, Universidade de São Paulo). ",
+    "bbox": [
+      87,
+      695,
+      862,
+      741
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Tubino, D.F. (2007). O Planejamento e controle da produção: Teoria e prática. São Paulo: Atlas. ",
+    "bbox": [
+      90,
+      750,
+      821,
+      766
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(2015). Manufatura enxuta como estratégia de produção: A chave para a produtividade industrial. São Paulo: Atlas. ",
+    "bbox": [
+      89,
+      774,
+      857,
+      806
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Thiollent, M. (2011). Metodologia da pesquisa-ação. (18a ed.). São Paulo: Cortez. ISBN: 978-85-249-1716-5 ",
+    "bbox": [
+      90,
+      814,
+      902,
+      831
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Werkema, M. C. C. (2006): Lean Seis Sigma - Introdução às Ferramentas do Lean Manufacturing. 120p. - (Seis Sigma; v.4). Belo Horizonte. Werkema Editora. ISBN 85-98582-04-2 ",
+    "bbox": [
+      89,
+      838,
+      894,
+      870
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Womack, J.P.; Jones, D.T. (1998). A Mentalidade Enxuta nas Empresas (4a ed.). Rio de Janeiro: Campus. ISBN-10: 853525384X, ISBN-13: 978-8535253849 ",
+    "bbox": [
+      85,
+      878,
+      877,
+      909
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      889,
+      927,
+      910,
+      940
+    ],
+    "page_idx": 11
+  }
+]

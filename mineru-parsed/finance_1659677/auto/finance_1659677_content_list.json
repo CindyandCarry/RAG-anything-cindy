@@ -1,0 +1,906 @@
+[
+  {
+    "type": "text",
+    "text": "FUNDAMENTALS ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      47,
+      549,
+      99
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1659677/auto/images/5562ff3534b5d093f4f58faa26cf8ddfb45b12354804921952933b431e47dc20.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      39,
+      165,
+      285,
+      338
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "John West, CFA ",
+    "bbox": [
+      173,
+      345,
+      284,
+      361
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Debalancing can be conscious or unconscious. “ ",
+    "bbox": [
+      68,
+      392,
+      264,
+      468
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "KEY POINTS ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      521,
+      223,
+      537
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Debalancing—buying winners and selling losers—can unintentionally shift risk profiles away from portfolio targets. ",
+    "bbox": [
+      52,
+      549,
+      269,
+      594
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2. Unconscious debalancing, such as firing a “bad manager” and hiring a “good manager,” is an insidious returns-chasing trade that ups the ante that the resulting portfolio will be less diversified and incorporate unintended risk. ",
+    "bbox": [
+      53,
+      606,
+      269,
+      685
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "3. Rebalancing fine tunes the risk posture of a portfolio toward the desired target, whereas debalancing shifts the risk profile of a portfolio away from the desired target. ",
+    "bbox": [
+      52,
+      696,
+      269,
+      755
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "4. The most popular asset allocation fund managers, who are taking big U.S. equity bets, are likely to be holding those exposures when long-horizon mean reversion— Research Affiliates’ core investment belief—grips the market. ",
+    "bbox": [
+      53,
+      765,
+      269,
+      845
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Danger in “Debalancing” ",
+    "text_level": 1,
+    "bbox": [
+      326,
+      164,
+      852,
+      199
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "John West, CFA, Brandon Kunz, and Amie Ko, CFA ",
+    "bbox": [
+      325,
+      204,
+      735,
+      220
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Eat a balanced diet. Drilled into our brains since preschool, this advice falls squarely in the “duh, everybody knows that” camp. But it’s not just kids who need reminding. Parents and grandparents, as role models and dietary enforcers, do too. Common sense alone tells us this universally applicable dictum is the right way to eat. Different foods have different nutritional and caloric values. If we eat a wide variety of food groups, or as a five-year-old child is taught, “Eat a rainbow,” good nutrition is likely to take care of itself.1 ",
+    "bbox": [
+      325,
+      241,
+      630,
+      458
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The hardest part of coloring in the rainbow for most eaters is adding the greens, yellows, and oranges that represent fresh fruits and vegetables. Everyone has an excuse: the taste, the texture, the expense. We try our best to make fruits and veggies more appealing to ourselves and to our children. One seemingly easy option is to eat prepackaged dried fruit or veggie chips. Both can be quickly packed for school or work lunches, and many prefer the taste. Yeah! Balance achieved. Or is it? ",
+    "bbox": [
+      325,
+      479,
+      630,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "have many more calories than their fresh counterpart, while adding salt and fat and subtracting vitamins. Our well-intentioned effort to maintain or improve dietary balance actually backfires. Our imbalances are only exacerbated through poor substitution! ",
+    "bbox": [
+      656,
+      241,
+      957,
+      348
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Likewise, investors intuitively understand that they should broadly diversify the portfolio of assets that they hold. In other words, their asset allocation should “look like a rainbow.” But maintaining the optimal level of diversification is hard. As our colleague Jason Hsu says, “Diversification is the strategy of maximum regret because some part of the investor’s portfolio is always underperforming its benchmark!” For most investors, staying diversified is like trying to get a five-year-old preschooler to eat broccoli—it’s just plain “yucky” despite all the well-meaning, repeated pleadings of advisors and parents, respectively. ",
+    "bbox": [
+      658,
+      368,
+      957,
+      641
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Our Investment Beliefs in Action: Rebalancing ",
+    "text_level": 1,
+    "bbox": [
+      658,
+      656,
+      954,
+      695
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Indeed, closer examination finds that the drying and packaging processes can significantly diminish the health benefits of fruits and vegetables. The drying process concentrates the sugars in the fruit so if we eat the same amount of dried as we do of fresh, the amount of sugar we’re consuming skyrockets. And for some fruits, such as cranberries, sugar is even added to counteract natural tartness. As for veggie chips, they ",
+    "bbox": [
+      325,
+      699,
+      630,
+      880
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Last fall, in concert with the release of Research Affiliates’ interactive Asset Allocation site,2 we published our investment beliefs. These beliefs share a central philosophy: the largest and most persistent active investment opportunity is long-horizon mean reversion.3 The one investment activity that flows from this central assertion is rebalancing, a contrarian exercise that forces the investor to sell recent winners and buy recent losers. ",
+    "bbox": [
+      658,
+      699,
+      957,
+      878
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SEEK. SOLVE. CREATE. ",
+    "text_level": 1,
+    "bbox": [
+      330,
+      931,
+      665,
+      960
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Media Contact ",
+    "text_level": 1,
+    "bbox": [
+      769,
+      919,
+      854,
+      930
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Hewes Communications $+ ~ 1$ (212) 207-9450 hewesteam@hewescomm.com ",
+    "bbox": [
+      769,
+      935,
+      942,
+      970
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "B research affiliates ",
+    "bbox": [
+      55,
+      922,
+      209,
+      965
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "m researchs May 2015 ",
+    "bbox": [
+      645,
+      53,
+      916,
+      92
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "There are two key reasons to undertake this inherently uncomfortable trade: ",
+    "bbox": [
+      50,
+      80,
+      323,
+      112
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Excess Return. Although each instance of rebalancing is not perfectly timed to produce a massive windfall, or even to make money, over the course of a portfolio’s life as the mean-reversion cycle plays out and the investor repeatedly sells recent winners and buys recent losers, excess return should be generated. Rebalancing, when practiced consistently over time, has been demonstrated to produce long-term excess return in a broadly diversified portfolio.4 Rebalancing also allows investors to potentially realize a higher dollar-weighted return because of an increased exposure to a security or sector after its recent poor results and before a subsequent performance uptick, and vice versa. Not surprisingly, this activity is hardwired in nearly all of Research Affiliates’ investment solutions, from our RAFI™ strategies to our work in GTAA. ",
+    "bbox": [
+      66,
+      131,
+      323,
+      546
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Targeted Risk. Rebalancing keeps a portfolio’s risk posture at the desired level; for example, rebalancing back to a 60/40 equity/bond allocation maintains the portfolio’s volatility at approximately $10 \\%$ . After a period in which stocks have outperformed, the equity allocation will likely rise above $6 0 \\%$ , causing the portfolio to have a higher risk profile than desired. Conversely, when bonds have outperformed, the bond allocation will be larger than desired, causing the portfolio’s risk profile to fall below the targeted $10 \\%$ . ",
+    "bbox": [
+      58,
+      564,
+      323,
+      814
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "So whereas rebalancing may not achieve excess return in every instance, its ability to fine tune the risk posture of a portfolio is more or less a constant, if underappreciated, benefit of the practice. ",
+    "bbox": [
+      50,
+      833,
+      325,
+      931
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Debalancing: Conscious vs. Unconscious ",
+    "text_level": 1,
+    "bbox": [
+      367,
+      79,
+      630,
+      116
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We call the opposite side of a rebalancing trade “debalancing,” an admittedly provocative label. But let us explain. If, through rebalancing, investors can achieve excess return and maintain portfolio risk at the desired level, the contrary approach (i.e., selling recent losers and buying recent winners) should be expected to produce the opposite results, or poor performance. The underperformance occurs because the higher allocation to recent winners, exactly the securities most penalized by a reversion in market sentiment, creates a huge drag on return. At the same time, portfolio risk drifts higher than the target level as the investor chases the winners and consequently increases the equity allocation of the portfolio. ",
+    "bbox": [
+      367,
+      119,
+      640,
+      446
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Are well-intentioned “ attempts to diversify out of nonperforming assets actually hurting diversification? “ ",
+    "bbox": [
+      356,
+      472,
+      648,
+      579
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The act of debalancing can be conscious or unconscious. We have no quarrel with investors who consciously debalance, and they do so for a number of reasons. Investors tend to have a time-varying risk aversion; their attitudes toward risk change as the economy and the markets ebb and flow. Some investors choose to sell recent losers. Two good examples of this are when certain investors sold equities in 2002 and 2008 in favor of plain old cash, and when they dumped bonds or small-cap value stocks in favor of the NASDAQ around 1999. These debalancers know they are abandoning diversification and deliberately changing their risk posture, but because they are uncomfortable taking a contrarian position or being labeled imprudent they proceed. It is bad behavior, but at least it’s done consciously with full awareness. ",
+    "bbox": [
+      367,
+      603,
+      640,
+      929
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      681,
+      79,
+      955,
+      111
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The more insidious trade is when investors unconsciously debalance. All too often this is done under the guise of switching from a “bad manager” to a “good manager.” You know the routine. One manager hasn’t performed well, so the decision is made to hire a new one, which is an inherently returns-chasing exercise. What investor fires a bottom-quartile manager to hire another one with bad performance? They don’t. This returnsdriven manager selection process ups the ante that the new manager will move the portfolio away from the previous strategy or sector allocation that has been underperforming. The result is less diversification in the portfolio. ",
+    "bbox": [
+      681,
+      130,
+      955,
+      417
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Let’s rewind to the late 1990s when many investors were selling value stocks as technology stocks were advancing. Some—no doubt counseled by their disciplined advisors and consultants— kept a value equity allocation despite brutal relative results. To keep the allocation intact, however, they fired deep-value managers to buy relativevalue managers, a new breed that would express a negative view on Microsoft by underweighting it rather than by not owning it. Investors believed their exposure to value was still in place, because they had simply replaced a poor value manager with a better one. In fact, this was unconscious debalancing in action. Finally, when a value strategy redeemed itself, a relative-value strategy with a $20 \\%$ allocation to technology stocks compared to the market allocation of $3 0 \\%$ , failed to provide the requisite value exposure just when investors needed it most. (This was John’s first exposure to unconscious debalancing, and it hurt.) ",
+    "bbox": [
+      679,
+      438,
+      955,
+      878
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The same pattern has been repeated in many asset classes over our collective industry experience.5 In 2007, for example, “bad” bond managers (those who were light in high yield) were let go in the late innings of a credit cycle in favor of “good” managers who had a decidedly pro-credit bet. Duration, the countercyclical part of a bond’s return that provides necessary diversification away from equities, was chopped shorter in the process. As the 2008 financial crisis approached and reached maximum velocity, investors who had made the switch, seeking extra return within the fixed income sector, realized just how exacting the toll was on their portfolio. Their unconscious debalancing into the popular bond managers of the day had destabilized their portfolios and destroyed a significant amount of wealth. ",
+    "bbox": [
+      681,
+      897,
+      955,
+      929
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "620 Newport Center Drive, Suite 900 | Newport Beach, CA 92660 $1 + 1$ (949) 325 - 8700 | www.researchaffiliates.com ",
+    "bbox": [
+      222,
+      960,
+      803,
+      972
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Page 2 ",
+    "bbox": [
+      905,
+      960,
+      946,
+      972
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FUNDAMENTALS M refilatchs May 2015 ",
+    "bbox": [
+      16,
+      11,
+      991,
+      64
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "B research affiliates ",
+    "bbox": [
+      34,
+      953,
+      120,
+      977
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      45,
+      85,
+      320,
+      446
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In both cases, the slice of the portfolio allocated to the respective asset class (equity value and fixed income, respectively) remained the same, but the risk composition of the slice changed. This experience can be likened to swapping out fresh broccoli for nutrientlight fried veggie sticks. The investor and the aspiring healthy eater aren’t quite as diversified in their portfolio or as balanced in their nutrition, respectively, as they think they are. ",
+    "bbox": [
+      45,
+      469,
+      318,
+      685
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Debalancing Today ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      702,
+      264,
+      723
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "So let’s apply unconscious debalancing to today’s investment landscape, namely, to asset allocation funds. In the past 10 years, “outcome-oriented” investment products have experienced rapid growth. The mandate of these products allows the manager to decide the “what and when” of investing within a wide range of asset class exposures. Certainly, the aim of greater diversification is the combination of a better return and a ",
+    "bbox": [
+      45,
+      727,
+      320,
+      924
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Grit your teeth… and stick with your recently underperforming, diversifying strategies. “ reduction in risk, and we would expect this to be the case in adding an asset allocation fund to a portfolio. Risk reduction could intuitively be presumed to come from the tactical flexibility inherent in the global mandate, as well as from the greater diversification likely (although hardly guaranteed) in the wide opportunity set of out-ofmainstream markets. ",
+    "bbox": [
+      372,
+      84,
+      635,
+      185
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      367,
+      209,
+      633,
+      387
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To examine the possibility of debalancing in the asset allocation funds, we begin by surveying all the funds in Morningstar’s World Allocation and Tactical Allocation categories that have at least a three-year track record. We divide the resulting 117 funds, which compose our sample, into two groups: the “popular” funds (defined as those with net inflows in 2014) and the “unpopular” funds (defined as those with net outflows in 2014). The popular funds outperformed the unpopular funds in 2014, $3 . 4 \\%$ versus $1 . 8 \\%$ on an equal-weighted basis. Comparing average flow-weighted returns,6 the disparity is unmistakable: the popular funds’ return in 2014 was over 12 times greater than the return of the unpopular funds. This outcome is hardly surprising. Investors chase performance. ",
+    "bbox": [
+      369,
+      407,
+      635,
+      584
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      684,
+      84,
+      950,
+      280
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The popular asset allocation funds— the ones investors are pouring money into—have dramatically different risk profiles than the funds investors are exiting. The popular fund, on average, has far more exposure to U.S. equities than its unpopular counterpart, as measured by its trailing three-year beta to the S&P 500 Index over the risk-free rate. When comparing the two categories of asset allocation funds based on an average flow-weighted beta, the difference in exposures is quite stark, as Figure 1 shows. For example, the average flow-weighted beta of U.S. equity for the popular fund is 1.37 ",
+    "bbox": [
+      684,
+      300,
+      950,
+      585
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1659677/auto/images/92fc73409cf40437ddd36757acbee2a39674da83aa768fbb851d1252d9d51a4c.jpg",
+    "image_caption": [
+      "Figure 1. Percentage Difference of Average Flow-Weighted Trailing Three-Year Betas of “Popular” vs. “Unpopular” Funds, as of December 31, 2014 ",
+      "Source: Research Affiliates, based on data from Bloomberg and Morningstar. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      383,
+      679,
+      944,
+      897
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "620 Newport Center Drive, Suite 900 | Newport Beach, CA 92660 $1 + 1$ (949) 325 - 8700 | www.researchaffiliates.com ",
+    "bbox": [
+      220,
+      960,
+      803,
+      972
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page 3 ",
+    "bbox": [
+      903,
+      960,
+      946,
+      973
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "FUNDAMENTALS m refiliarchs May 2015 ",
+    "bbox": [
+      13,
+      10,
+      990,
+      64
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "B research affiliates ",
+    "bbox": [
+      34,
+      953,
+      120,
+      977
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "FUNDAMENTALS ",
+    "text_level": 1,
+    "bbox": [
+      39,
+      25,
+      269,
+      51
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "times compared to 0.60 times for the unpopular fund, a difference of $12 8 \\%$ . In the diversifying asset classes, such as emerging market equities, the opposite is true: the popular fund’s average flowweighted beta is 0.03 times, over $80 \\%$ lower than the unpopular fund’s 0.20 times. ",
+    "bbox": [
+      44,
+      85,
+      313,
+      238
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Investors are presumably relying on these global and tactical allocation funds to provide some degree of diversification and risk reduction to their portfolios, but the popular strategies may in fact be unconsciously boosting exposure to an expensive asset class with highly unattractive return prospects. By abandoning the unpopular strategies for the popular ones, investors are unconsciously shifting their risk posture, concentrating their portfolios in the sectors and securities that have recently outperformed. These securities will inevitably feel the gravitational pull of mean reversion as their valuations stretch further away from center. ",
+    "bbox": [
+      45,
+      262,
+      313,
+      592
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Yes, but these are flexible strategies, right? Yesterday’s positions may not be tomorrow’s. Actually, for the majority, that’s not the case. If we consider the entire universe of Morningstar’s World Allocation and Tactical Allocation funds, we can trace the exposures of funds with a 10-year or longer track record. From 2007 to 2014, the average trailing three-year beta, compared to that of large U.S. equities, hovered between 0.60 and 0.70 times. The average swings in exposures to other asset classes, such as EAFE, emerging markets equity, TIPS, and so on, were also similarly constrained, as illustrated in Figure 2. On average, these strategies don’t seem dynamic at all! That’s not to say there aren’t funds that are tactical and flexible in these categories. There are.7 But, investors shouldn’t expect all of them to be. Our analysis suggests that the popular asset allocation managers, taking big U.S. equity bets, are more likely than not to still be holding those exposures when long-horizon mean reversion, our central belief, grips the market. ",
+    "bbox": [
+      45,
+      614,
+      313,
+      924
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      364,
+      85,
+      640,
+      314
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      367,
+      333,
+      493,
+      353
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Even well-intentioned substitutions— dried fruit for fresh, for example— can have unintended, non-optimal consequences. Nowhere is this truer than in the investment industry. Many investors choose to buy the most popular funds and strategies and to sell the unpopular, underperforming funds, securities, or sectors that they currently hold. We call this debalancing, and it is a recipe for disaster. Our simple analysis showed just how much investors may be unintentionally shifting their risk profiles away from their portfolio targets. It’s a valuable exercise to reflect on whether our well-intentioned attempts to diversify out of nonperforming assets is actually hurting diversification. The seemingly tastier substitutions, be they veggie chips or recently winning investment funds, may not be the best option to achieve a balanced diet or an adequately diversified portfolio. Sadly, the best choice may be the least palatable. So ready, set, go—grit your teeth, gulp down the fresh broccoli, and stick with your recently underperforming, diversifying strategies. Your physical and financial well-being may depend on it. ",
+    "bbox": [
+      366,
+      358,
+      640,
+      511
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      687,
+      87,
+      965,
+      508
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1659677/auto/images/417b8c3103ff3c775124cd70e42686458032ed9080c3e39c99529807b26c7e5d.jpg",
+    "image_caption": [
+      "Figure 2. Average Trailing Three-Year Betas of GTAA Funds, Quarterly 2007—2014 ",
+      "Source: Research Affiliates, based on data from Bloomberg and Morningstar. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      385,
+      628,
+      952,
+      895
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "620 Newport Center Drive, Suite 900 | Newport Beach, CA 92660 $1 + 1$ (949) 325 - 8700 | www.researchaffiliates.com ",
+    "bbox": [
+      220,
+      960,
+      803,
+      972
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Mrefiiatch May 2015 ",
+    "bbox": [
+      727,
+      21,
+      919,
+      50
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page 4 ",
+    "bbox": [
+      903,
+      960,
+      946,
+      972
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "B research affiliates ",
+    "bbox": [
+      34,
+      953,
+      120,
+      977
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Endnotes ",
+    "text_level": 1,
+    "bbox": [
+      50,
+      90,
+      117,
+      104
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1. http://www.todayiatearainbow.com/   \n2. http://www.researchaffiliates.com/AssetAllocation/Pages/Core-Overview.aspx   \n3. Supporting this main tenet are three beliefs: investor preferences are broader than risk and return; prices vary around fair value; and a lack of conviction prevents investors from exploiting long-term value. See “Our Investment Beliefs” Fundamentals (October 2014)   \n4. “Rebalancing: Boring and Dull? Not!” FQ Perspective (April 2001)   \n5. Over the course of our collective careers, the three of us have worked for two different consulting firms, two hedge funds of funds, and one $\\$ 100$ billion asset owner. ",
+    "bbox": [
+      49,
+      108,
+      473,
+      256
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "6. The average flow-weighted return is a simple weighted-average return with the weights being the net flows in 2014. The funds with higher (lower) net inflows receive a proportionally greater (smaller) weight in the average flow-weighted return of the popular group. The same is true for the unpopular group. ",
+    "bbox": [
+      524,
+      90,
+      946,
+      151
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "7. Of course, not all of these funds exhibit relatively static exposures; averages mask the truly tactical managers. Digging a little deeper reveals the managers who are willing to bear some maverick risk and allow their exposures to deviate from those of their peers. When ranking the funds by their volatility in beta terms, those in the top $20 \\%$ (i.e., the most tactical managers) swung their equity exposure by a range more than double that of the typical fund. Over the seven-year horizon, this most dynamic group wasn’t shy about shifting their equity betas, with some reaching a low of 0.0 times and others approaching a high of 1.1 times. ",
+    "bbox": [
+      524,
+      152,
+      946,
+      262
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Disclosures ",
+    "text_level": 1,
+    "bbox": [
+      50,
+      630,
+      133,
+      643
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The material contained in this document is for general information purposes only. It is not intended as an offer or a solicitation for the purchase and/or sale of any security, derivative, commodity, or financial instrument, nor is it advice or a recommendation to enter into any transaction. Research results relate only to a hypothetical model of past performance (i.e., a simulation) and not to an asset management product. No allowance has been made for trading costs or management fees, which would reduce investment performance. Actual results may differ. Index returns represent back-tested performance based on rules used in the creation of the index, are not a guarantee of future performance, and are not indicative of any specific investment. Indexes are not managed investment products and cannot be invested in directly. This material is based on information that is considered to be reliable, but Research Affiliates® and its related entities (collectively “Research Affiliates”) make this information available on an “as is” basis without a duty to update, make warranties, express or implied, regarding the accuracy of the information contained herein. Research Affiliates is not responsible for any errors or omissions or for results obtained from the use of this information. Nothing contained in this material is intended to constitute legal, tax, securities, financial or investment advice, nor an opinion regarding the appropriateness of any investment. The information contained in this material should not be acted upon without obtaining advice from a licensed professional. Research Affiliates, LLC, is an investment adviser registered under the Investment Advisors Act of 1940 with the U.S. Securities and Exchange Commission (SEC). Our registration as an investment adviser does not imply a certain level of skill or training. ",
+    "bbox": [
+      49,
+      648,
+      947,
+      763
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Investors should be aware of the risks associated with data sources and quantitative processes used in our investment management process. Errors may exist in data acquired from third party vendors, the construction of model portfolios, and in coding related to the index and portfolio construction process. While Research Affiliates takes steps to identify data and process errors so as to minimize the potential impact of such errors on index and portfolio performance, we cannot guarantee that such errors will not occur. ",
+    "bbox": [
+      52,
+      768,
+      941,
+      803
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The trademarks Fundamental Index™, RAFI™, Research Affiliates Equity™ and the Research Affiliates™ trademark and corporate name and all related logos are the exclusive intellectual property of Research Affiliates, LLC and in some cases are registered trademarks in the U.S. and other countries. Various features of the Fundamental Index™ methodology, including an accounting data-based non-capitalization data processing system and method for creating and weighting an index of securities, are protected by various patents, and patent-pending intellectual property of Research Affiliates, LLC. (See all applicable US Patents, Patent Publications, Patent Pending intellectual property and protected trademarks located at http:// www.researchaffiliates.com/Pages/ legal.aspx#d, which are fully incorporated herein.) Any use of these trademarks, logos, patented or patent pending methodologies without the prior written permission of Research Affiliates, LLC, is expressly prohibited. Research Affiliates, LLC, reserves the right to take any and all necessary action to preserve all of its rights, title, and interest in and to these marks, patents or pending patents. ",
+    "bbox": [
+      49,
+      808,
+      947,
+      888
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The views and opinions expressed are those of the author and not necessarily those of Research Affiliates, LLC. The opinions are subject to change without notice. ",
+    "bbox": [
+      50,
+      892,
+      848,
+      906
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "620 Newport Center Drive, Suite 900 | Newport Beach, CA 92660 $1 + 1$ (949) 325 - 8700 | www.researchaffiliates.com ",
+    "bbox": [
+      222,
+      960,
+      803,
+      972
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page 5 ",
+    "bbox": [
+      905,
+      960,
+      946,
+      972
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2015 Research Affiliates, LLC. All rights reserved. ",
+    "bbox": [
+      53,
+      910,
+      316,
+      921
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "FUNDAMENTALS m research May 2015 ",
+    "bbox": [
+      17,
+      11,
+      988,
+      64
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "research affiliates ",
+    "bbox": [
+      34,
+      953,
+      120,
+      977
+    ],
+    "page_idx": 4
+  }
+]

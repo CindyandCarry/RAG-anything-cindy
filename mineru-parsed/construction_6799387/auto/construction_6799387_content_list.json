@@ -1,0 +1,1496 @@
+[
+  {
+    "type": "text",
+    "text": "Title: ",
+    "bbox": [
+      53,
+      172,
+      95,
+      188
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A Study on the Satisfaction with Work Space in High-rise Office Building ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      171,
+      926,
+      190
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Authors: ",
+    "bbox": [
+      53,
+      205,
+      124,
+      222
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sung-Moon Jung, Professor, Kyungwoon University Si-Hwa Bae, Senior Architect, Samoo Architects & Engineers ",
+    "bbox": [
+      278,
+      205,
+      791,
+      242
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Subject: ",
+    "bbox": [
+      53,
+      258,
+      122,
+      275
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: ",
+    "bbox": [
+      53,
+      292,
+      144,
+      308
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Human Comfort Office ",
+    "bbox": [
+      280,
+      292,
+      411,
+      327
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Publication Date: ",
+    "bbox": [
+      53,
+      345,
+      194,
+      362
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2004 ",
+    "bbox": [
+      278,
+      345,
+      324,
+      361
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Original Publication: ",
+    "bbox": [
+      53,
+      378,
+      218,
+      395
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CTBUH 2004 Seoul Conference ",
+    "bbox": [
+      280,
+      377,
+      544,
+      395
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Paper Type: ",
+    "bbox": [
+      53,
+      412,
+      159,
+      429
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Book chapter/Part chapter   \n2. Journal paper   \n3. Conference proceeding   \n4. Unpublished conference paper   \n5. Magazine article   \n6. Unpublished ",
+    "bbox": [
+      273,
+      412,
+      556,
+      528
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ Council on Tall Buildings and Urban Habitat / Sung-Moon Jung; Si-Hwa Bae ",
+    "bbox": [
+      50,
+      551,
+      694,
+      568
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ctbuh.org/papers ",
+    "bbox": [
+      783,
+      96,
+      942,
+      112
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Council CTBUH Research Paper ",
+    "bbox": [
+      52,
+      30,
+      529,
+      117
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A Study on the Satisfaction with Work Space in High-rise Office Building ",
+    "text_level": 1,
+    "bbox": [
+      226,
+      83,
+      773,
+      124
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Si-Hwa Bae1 , Sung-Moon Jung2 ",
+    "bbox": [
+      373,
+      146,
+      625,
+      163
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Professor, Division of Interior, Kyungwon College   \n2 Senior Architect, Samoo Architects & Engineers ",
+    "bbox": [
+      342,
+      185,
+      655,
+      213
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      239,
+      163,
+      251
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Today's office space is being emphasized of its roles as a source of information society to create and exchange the knowledge and as a pleasant space for workers. So this study aims at finding the direction for improving the office space through the research on the working features and satisfaction of the workers by focusing on the inner environment rather than the outer appearance of high-rise office building. The subject of this study is the high-rise office building built in recently Korea. The results of research are as follows. 1) The satisfaction to the physical factors such as window, ceiling and finishing material is quite high above average. But the satisfaction to the spacing factors such as workstation, office layout is relatively low. 2) The satisfaction on the conference and resting spaces is commonly low in each office building. So it should be planned to secure appropriate area for the conference and resting spaces and to increase the efficiency of use 3) In the office space planning, working style is carefully considered. In this study, the satisfaction of professionals was lower than the administrators and sales persons. The layout of workstation is not simple desk arrangement in the given building space. The office space planning reflected of the organizational structure and the working style should be established from the beginning stage of design ",
+    "bbox": [
+      92,
+      254,
+      904,
+      446
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Work space; High-rise Office Building; Satisfaction; Working Style ",
+    "bbox": [
+      92,
+      460,
+      576,
+      472
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      500,
+      223,
+      514
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The office building in modern information society should provide with the circumstances to accomplish total works to produce, store and maintain enormous volume of knowledge and information rather than the place to simply perform the works. Therefore, today's office space is being emphasized of its roles as a source of information society to create and exchange the knowledge and information and as a pleasant space to accommodate the creative ideas and activities of the workers. ",
+    "bbox": [
+      92,
+      515,
+      484,
+      653
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In Korea, since the construction of high-rise office buildings became to boom with completion of Samil building (31 stories) in 1971, Samsung headquarters building (26 stories), Korea Exchange Bank head office building (24 stories), etc. were built with economic growth in the 1970's. In the 1980's, the number of high-rise office buildings increased considerably due to hosting of big international events including Olympic and implementation of downtown redevelopment project. Daehan Life Insurance 63 building (60 stories), Korea Trade Center building (54 stories), etc. are the representative high-rise buildings constructed at that time. In the 1990's, many high-rise buildings of above 30 stories were built, of which Glass tower (32 stories), Techno Mart 21 (39 stories), LG Gangnam Tower (38 stories), SK building (36 stories), etc., are the representative buildings. In the 2000's, ASEM Tower (41 stories), Star Tower (45 stories), etc. were built with the trend of size enlargement to above 40 stories ",
+    "bbox": [
+      92,
+      655,
+      484,
+      781
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      501,
+      904,
+      654
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "According thereto, the studies on the high-rise office building1 are being activated and the technological achievements being made. However, they are mainly focused on the engineering area including the structure and construction, and the studies in the architectural planning area are on the shape and appearance of building, there is lack of systematic studies on the working environment in the standpoint of workers in the office building. ",
+    "bbox": [
+      512,
+      655,
+      904,
+      781
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "From the viewpoint of urban design, the outer appearance of high-rise office building gives a big visual effect to the people, so that it is considered as a critical planning factor in the mass planning. However, from the standpoint of the workers spending most of their routine time in the office, the inner working environment in the office building should be considered as much more important planning factor than any others. This is why the pleasant office space works as the factor giving a big effect to the intellectual productivity, so that may cause the creativity among the workers and maximize the individual capability. ",
+    "bbox": [
+      510,
+      781,
+      904,
+      823
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "\\* This research was financially supported by the Ministry of Construction $\\&$ Transportation of South Korea and Korea Institute of Construction and Transportation Technology Evaluatio and Planning , and the authors are grateful to the authorities for their support. 1) It has not been defined from how many stories would be applicable to the high-rise office building, but the targets of this study are the office buildings above 30 stories ",
+    "bbox": [
+      510,
+      837,
+      900,
+      914
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": ": Si-Hwa Bae, Professor, Division of Interior, Kyungwon College, Bokjung-Dong, SuJung-gu, Sungnam, GyungGi, Korea, 461-702, Tel: +8231-750-8811, Fax: +8231-750-8819, E-mail: shbae@kwc.ac.kr : Sung-Moon Jung, Senior Architect, Samoo Architects & Engineers, Apple Tower 175, Jamsilbon-Dong, Songpa-Gu, Seoul, Korea, 138-861 Tel: +822-3400-3164 Fax: +822-3400-3984 E-mail $\\boldsymbol { : }$ smjung@samoo.co.kr ",
+    "bbox": [
+      92,
+      802,
+      482,
+      915
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "398 CTBUH 2004 October 10\\~13, Seoul, Korea ",
+    "bbox": [
+      92,
+      945,
+      418,
+      958
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      484,
+      223
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Therefore, this study aims at finding the direction for improving the office space through the research on the working features and satisfaction of the workers by focusing on the inner environment rather than the outer appearance of high-rise office building. The study has been proceed through the following steps: ",
+    "bbox": [
+      92,
+      224,
+      484,
+      307
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "First, the high-rise office buildings having good working environment were selected through survey. The targets were the high-rise office buildings of above 30 stories which were built within the recent 5 years, and, at last 3 buildings were selected.2 ",
+    "bbox": [
+      92,
+      308,
+      485,
+      377
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Second, the work and satisfaction of the workers in each of those buildings were researched. The questionnaires were made and analyzed by using the Check List for Office Space of High-rise Office Building (Table 1) and the Workers' Satisfaction Evaluation Model (Table 2) for the high-rise office building. ",
+    "bbox": [
+      92,
+      378,
+      485,
+      476
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Third, the workers' satisfaction from each building were compared and analyzed, then were finally made of integrated analysis, so to find the common matters to be improved. The preference of the workers was measured to find the demands of the workers, and its results were analyzed. ",
+    "bbox": [
+      92,
+      477,
+      485,
+      559
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The research by questionnaires was conducted from Jan. through Mar., 2003. 291 copies of the questionnaires were collected out of total 300 copies distributed of which 287 copies were processed statistically by removing 4 copies with unworthy responses. For study proceeding, the statistical skills such as satisfaction average, items analysis, correlation analysis were used, with the statistical processing method of SAS 8.1. ",
+    "bbox": [
+      92,
+      560,
+      484,
+      686
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2. Satisfaction Research Model for Workers in High-rise Office Buildings ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      699,
+      472,
+      728
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The study on the satisfaction is for the purpose of finding the designing direction to enhance the quality of environment by measuring the satisfaction level of users on their environment and evaluating the quality of environment, of which the result is utilized as a major tool to evaluate the physical environment and to find the direction for improvement thereof. For successful evaluation on the building, the frame of systematic analysis should be set up first. ",
+    "bbox": [
+      92,
+      729,
+      485,
+      855
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In this research, the factors to be checked in the working environment of office building were totally analyzed, prior to the research on the satisfaction on the office space of the high-rise office building, through which the questionnaires to check the demands of workers were prepared. ",
+    "bbox": [
+      109,
+      855,
+      482,
+      868
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      83,
+      904,
+      153
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/be830351de3e0b05898f8c7ebc0ba871467ad5e826912d54134842cbee785abd.jpg",
+    "table_caption": [
+      "Table 1. Check List for Office Space of High-rise Office Building "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Classifications</td><td rowspan=1 colspan=1>Description</td></tr><tr><td rowspan=1 colspan=1>GeneralFactors</td><td rowspan=1 colspan=1>Sex,Age,Position</td></tr><tr><td rowspan=1 colspan=1>WorkingFactors</td><td rowspan=1 colspan=1>Dailyaverageworkinghours，Dailyaveragesittinghours,Workingstyle,Working processing method and tool,OA equipment usinghours，Averagenumber of working team members</td></tr><tr><td rowspan=1 colspan=1>SatisfactionFactors</td><td rowspan=1 colspan=1>Size of office space，Layout of officespace,Workstation,Conferencespace,Resting space,Window of office space,View,Ceilingof office space，Finishmaterial of office space.</td></tr><tr><td rowspan=1 colspan=1>PreferenceFactors</td><td rowspan=1 colspan=1>Workstation style,Arrangement style</td></tr></table>",
+    "bbox": [
+      510,
+      199,
+      902,
+      414
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Check List for Office Space of High-rise Office Building (Table 1) consists of 4 parts; those are general factors to check the individual features of the respondent, working factors for analyzing the working style and features, satisfaction checking factors and preference checking factors. ",
+    "bbox": [
+      512,
+      427,
+      904,
+      511
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Workers' Satisfaction Evaluation Model (Table 2) is categorized into 6 parts: Size of office space, layout, workstation, conference and resting space, window and ceiling of office space, and finish material of office space. ",
+    "bbox": [
+      512,
+      513,
+      904,
+      581
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For the size of office space, total depth of the office(distance from the outer wall to the inner wall, lease span) and the ceiling height are the checking factors, and total size of the office floor comparing with the number of workers was checked for evaluating the satisfaction on the office density. For the layout of office space, the satisfaction on the arrangement of department including the desk layout of office floor and on the aisle width of public space was checked. Workstation as the personal space which is most important part in the office space is the planning area to give direct effect to total satisfaction. Therefore, satisfaction on the chairs, storage space and partition which form the workstation was checked, along with the basic factors including the area of office space, the size of personal desk, etc., and personal domain such as privacy of office space, expression of individuality, etc. was included in the planning factors. For the conference space being emphasized of its importance due to the recent change of works, satisfaction on the location and the number was checked, together with satisfaction check on the resting space as essential factor in creating the pleasant working environ- ment. In addition, the type and size of window, lighting on the ceiling and finish material of office were included in the satisfaction evaluation model as the planning factors forming the working environment. ",
+    "bbox": [
+      512,
+      583,
+      904,
+      903
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2) There are 16 high-rise office building above 30 stories in Korea, of which 7 buildings were built since 1999. ",
+    "bbox": [
+      92,
+      893,
+      482,
+      914
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "CTBUH 2004 October 10\\~13, Seoul, Korea 399 ",
+    "bbox": [
+      583,
+      945,
+      904,
+      958
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      485,
+      153
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/f5fbc70acd9b0436125d3acd480ccd3132a12f631d9d6f7564cba1958ca20774.jpg",
+    "table_caption": [
+      "Table 2. Workers' Satisfaction Evaluation Model "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Planning Areaof Office Space</td><td rowspan=1 colspan=1>Planning Factors of Office Space</td></tr><tr><td rowspan=3 colspan=1>Size ofOffice Space</td><td rowspan=1 colspan=1>Size of office floor</td></tr><tr><td rowspan=1 colspan=1>Depth of office floor</td></tr><tr><td rowspan=1 colspan=1>Ceiling height of office</td></tr><tr><td rowspan=3 colspan=1>Layout ofOffice Space</td><td rowspan=1 colspan=1>Total desk arrangement of office</td></tr><tr><td rowspan=1 colspan=1>Department layout</td></tr><tr><td rowspan=1 colspan=1>Aisle width in the office</td></tr><tr><td rowspan=8 colspan=1>PersonalWork Space(Workstation)</td><td rowspan=1 colspan=1>Area of personal working space</td></tr><tr><td rowspan=1 colspan=1>Size of personal desk</td></tr><tr><td rowspan=1 colspan=1>Arrangementofdesks</td></tr><tr><td rowspan=1 colspan=1>Comfort of chair</td></tr><tr><td rowspan=1 colspan=1>Function of storage space</td></tr><tr><td rowspan=1 colspan=1>Height of partition</td></tr><tr><td rowspan=1 colspan=1>Privacy of working space</td></tr><tr><td rowspan=1 colspan=1>Expression of position or individualtyin the personal working space</td></tr><tr><td rowspan=4 colspan=1>Conference/Resting Space</td><td rowspan=1 colspan=1>Location of conference space</td></tr><tr><td rowspan=1 colspan=1>Number of conference spaces</td></tr><tr><td rowspan=1 colspan=1>Method of communication</td></tr><tr><td rowspan=1 colspan=1>Resting space in the office</td></tr><tr><td rowspan=3 colspan=1>Window/CeilingofOffice Space</td><td rowspan=1 colspan=1>Type and size of window</td></tr><tr><td rowspan=1 colspan=1>View from the inside of building</td></tr><tr><td rowspan=1 colspan=1>Lighting layout pattern on the ceiling</td></tr><tr><td rowspan=3 colspan=1>FinishMaterial ofOffice Space</td><td rowspan=1 colspan=1>Flooring material in the office</td></tr><tr><td rowspan=1 colspan=1>Wall finish material in the office</td></tr><tr><td rowspan=1 colspan=1>Ceiling finish material in the office</td></tr></table>",
+    "bbox": [
+      90,
+      180,
+      484,
+      568
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3. Research on Characteristics of Workers in High-rise Office Building ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      580,
+      482,
+      610
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3.1 General Features of Respondents ",
+    "text_level": 1,
+    "bbox": [
+      90,
+      610,
+      371,
+      623
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Questionnaire research was done on the characteristics of working environment and the workers in 3 selected high-rise office buildings, in which total respondents were 287; 98, 99 and 89 respectively from each building. They were composed of 197 male respondents $( 6 8 . 7 \\% )$ and 85 female respondents $( 2 9 . 6 \\% )$ , of whom 94 persons are in 20s $( 3 2 . 8 \\% )$ , 133 in 30s $( 4 6 . 4 \\% )$ , 52 in 40s $( 1 8 . 1 \\% )$ and 7 in 50s or above $( 2 4 . 4 \\% )$ . In terms of their job position, 136 persons were of the clerk level $( 4 7 . 4 \\% )$ , 53 of the supervisor level $( 1 8 . 5 \\% )$ , 59 of the section manager level $( 2 0 . 6 \\% )$ , 38 of department manager or deputy manager level $( 1 3 . 2 \\% )$ and 1 of the director level $( 0 . 3 \\% )$ . ",
+    "bbox": [
+      92,
+      624,
+      485,
+      819
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3.2 Characteristics by Working style of Respondents ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      834,
+      391,
+      861
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The job categories of respondents was classified into 3 types; professional, administration and sales. In the questionnaires, the professional job was subdivided into 4 areas of planning & P.R., R&D, design and designing technology; the administration job into 3 areas of general affairs & personnel management, accounting, production & production control; and the sales job into 2 areas of sales & marketing and material procurement. According to the ratios of job categories in Table 4 below, the administration job is relatively higher than the professional and sales. ",
+    "bbox": [
+      92,
+      862,
+      484,
+      903
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/b6c2361ab52d3d8beaae49f498af9df69b9c2fd607796ad8d0b596ad5e029217.jpg",
+    "table_caption": [
+      "Table 3. General Features of Respondents "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>Classific-ation</td><td rowspan=2 colspan=1>Description</td><td rowspan=1 colspan=2>Building A</td><td rowspan=1 colspan=2>Building B</td><td rowspan=1 colspan=2>Building C</td></tr><tr><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%)</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%)</td></tr><tr><td rowspan=3 colspan=1>Sex</td><td rowspan=1 colspan=1>Male</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1>82.8</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>58.6</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>64.0</td></tr><tr><td rowspan=1 colspan=1>Female</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>17.2</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>37.4</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>34.8</td></tr><tr><td rowspan=1 colspan=1>Not known</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4.0</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=5 colspan=1>Age</td><td rowspan=1 colspan=1>20s</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>20.2</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>44.4</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>33.7</td></tr><tr><td rowspan=1 colspan=1>30s</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>37.4</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>46.5</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>56.2</td></tr><tr><td rowspan=1 colspan=1>40s</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>36.4</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>8.1</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>9.0</td></tr><tr><td rowspan=1 colspan=1>50s or above</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>5.0</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1.1</td></tr><tr><td rowspan=1 colspan=1>Not known</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=5 colspan=1>JobPosition</td><td rowspan=1 colspan=1>Clerk</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>26.3</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>64.7</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>51.7</td></tr><tr><td rowspan=1 colspan=1>Supervisor</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12.1</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>19.2</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>24.7</td></tr><tr><td rowspan=1 colspan=1>SectionManager</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>31.3</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>14.1</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>15.7</td></tr><tr><td rowspan=1 colspan=1>Dept.Manager</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>29.3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>7.9</td></tr><tr><td rowspan=1 colspan=1>Director</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=2>Total</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>100</td></tr></table>",
+    "bbox": [
+      510,
+      96,
+      904,
+      334
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      345,
+      904,
+      458
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To find the characteristics by job categories of the respondents, 5 items were checked, including the daily average working hours, daily average sitting hours, pattern for work performance, using hours of OA equipment and number of team members. ",
+    "bbox": [
+      512,
+      459,
+      904,
+      529
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/4ec05b22067e7e18ad8a68bfd405a46c6e62c5fea89b6b7c8109505fa69678cb.jpg",
+    "table_caption": [
+      "Table 4. Job Categories of Respondents "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>Classification</td><td rowspan=2 colspan=1>Description</td><td rowspan=1 colspan=2>BuildingA</td><td rowspan=1 colspan=2>BuildingB</td><td rowspan=1 colspan=2>BuildingC</td><td rowspan=1 colspan=1>To</td><td rowspan=2 colspan=1>Ratio(%)</td></tr><tr><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%)</td><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Ratio(%)</td><td rowspan=1 colspan=1>tal</td></tr><tr><td rowspan=4 colspan=1>Professional</td><td rowspan=1 colspan=1>Planning/P.R.</td><td rowspan=4 colspan=1>39</td><td rowspan=4 colspan=1>39.4</td><td rowspan=4 colspan=1>9</td><td rowspan=4 colspan=1>9.1</td><td rowspan=4 colspan=1>28</td><td rowspan=4 colspan=1>31.5</td><td rowspan=4 colspan=1>76</td><td rowspan=4 colspan=1>26.5</td></tr><tr><td rowspan=1 colspan=1>R&amp;D</td></tr><tr><td rowspan=1 colspan=1>Design</td></tr><tr><td rowspan=1 colspan=1>Designing Tech.</td></tr><tr><td rowspan=2 colspan=1>Administration</td><td rowspan=1 colspan=1>General affairs</td><td rowspan=2 colspan=1>15</td><td rowspan=2 colspan=1>15.2</td><td rowspan=2 colspan=1>70</td><td rowspan=2 colspan=1>70.7</td><td rowspan=2 colspan=1>39</td><td rowspan=2 colspan=1>43.8124</td><td rowspan=2 colspan=1>124</td><td rowspan=2 colspan=1>43.2</td></tr><tr><td rowspan=1 colspan=1>AccountingProductionControl</td></tr><tr><td rowspan=2 colspan=1>Sales</td><td rowspan=1 colspan=1>Sales/Marketing</td><td rowspan=2 colspan=1>22</td><td rowspan=2 colspan=1>22.2</td><td rowspan=2 colspan=1>13</td><td rowspan=2 colspan=1>13.1</td><td rowspan=2 colspan=1>7</td><td rowspan=2 colspan=1>7.9</td><td rowspan=2 colspan=1>42</td><td rowspan=2 colspan=1>14.6</td></tr><tr><td rowspan=1 colspan=1>MaterialProcurement</td></tr><tr><td rowspan=2 colspan=1>Others</td><td rowspan=1 colspan=1>Other Job</td><td rowspan=2 colspan=1>23</td><td rowspan=2 colspan=1>23.2</td><td rowspan=2 colspan=1>7</td><td rowspan=2 colspan=1>7.1</td><td rowspan=2 colspan=1>15</td><td rowspan=2 colspan=1>16.8</td><td rowspan=2 colspan=1>45</td><td rowspan=2 colspan=1>15.7</td></tr><tr><td rowspan=1 colspan=1>Not known</td></tr><tr><td rowspan=1 colspan=2>Total</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>100</td></tr></table>",
+    "bbox": [
+      510,
+      555,
+      904,
+      786
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In the daily average working hours, all of 3 job groups showed under 8-10 hours accounting for $56 \\%$ but there were many long time workers for above 10 hours accounting for $3 9 \\%$ . In the daily average sitting hours, under 6-8 hours accounted for the biggest portion of $43 \\%$ , and under 8-10 hours accounted for considerable portion of $3 6 \\%$ also. To analyze the daily average sitting hours by job categories, the hours are getting longer in the order of sales, administration and professional. ",
+    "bbox": [
+      512,
+      798,
+      904,
+      912
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "400 CTBUH 2004 October 10\\~13, Seoul, Korea ",
+    "bbox": [
+      92,
+      946,
+      418,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      485,
+      111
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The pattern of work performance was also researched, of which the result showed that the work with personal computer was at the top, followed by documentation, consulting and drawing in that order. In the pattern, professionals use PC mainly for their work, the administrators work with PC and documentation in almost same ratio, and sales people are involved more in communication by telephone and consultation. ",
+    "bbox": [
+      92,
+      112,
+      485,
+      237
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/e46778e4b912a41eb54d25ff7e88a2485dad5ebcb8573de25b05e28b2a110935.jpg",
+    "table_caption": [
+      "Table 5. Method of Work Performance by Job Categories "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Classification</td><td rowspan=1 colspan=1>ional</td><td rowspan=1 colspan=1>Profess-Adminis-tration</td><td rowspan=1 colspan=1>Sales</td><td rowspan=1 colspan=1>Others</td><td rowspan=1 colspan=1>Total</td></tr><tr><td rowspan=1 colspan=1>Documents</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>94</td></tr><tr><td rowspan=1 colspan=1>Drawing</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>Telephone/Consultation</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>PC Document/Drawing</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>154</td></tr><tr><td rowspan=1 colspan=1>Others</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>Total</td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1>141</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>326</td></tr></table>",
+    "bbox": [
+      90,
+      263,
+      485,
+      390
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the number of working team members who gives the biggest influence to the layout of office space, team of 2-4 persons accounts for the biggest portion of $44 \\%$ , team of 5-7 persons for $1 8 \\%$ , team of one person for $1 5 \\%$ and large team of above 11 persons for $12 \\%$ , respectively. ",
+    "bbox": [
+      92,
+      403,
+      485,
+      488
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/7a1987cd517b5a23837ff47d70217f49186b3d6de10a10643b08a51e2505a20c.jpg",
+    "table_caption": [
+      "Table 6. Number of Working Team Members "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>No.ofMembers</td><td rowspan=1 colspan=1>Profess-ional</td><td rowspan=1 colspan=1>Adminis-tration</td><td rowspan=1 colspan=1>Sales</td><td rowspan=1 colspan=1>Others</td><td rowspan=1 colspan=1>Total</td><td rowspan=1 colspan=1>Ratio(%)</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>2-4</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=1>44</td></tr><tr><td rowspan=1 colspan=1>5-7</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>18</td></tr><tr><td rowspan=1 colspan=1>8-10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>32</td><td rowspan=2 colspan=1>1112</td></tr><tr><td rowspan=1 colspan=1>11 or above</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>34</td></tr><tr><td rowspan=1 colspan=1>Total</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>124</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>100</td></tr></table>",
+    "bbox": [
+      90,
+      514,
+      485,
+      631
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4. Analysis on Satisfaction of Workers in High-rise Office Building ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      644,
+      475,
+      673
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.1 Items Analysis ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      674,
+      230,
+      687
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "From the questionnaires, the Cronbachα value 3 of the planning area items and the $\\alpha$ value of the planning factor items were obtained as the following Table 7. In this table, the $\\alpha$ value of each item is not higher than the Cronbach $\\alpha$ value for each factor, showing that the answers from the respondents on each item are reliable. ",
+    "bbox": [
+      92,
+      687,
+      485,
+      785
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.2 Correlation Analysis ",
+    "text_level": 1,
+    "bbox": [
+      110,
+      799,
+      295,
+      813
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The correlation analysis was done to analyze the relationship influencing the satisfaction index among the planning factors for office space. ",
+    "bbox": [
+      92,
+      814,
+      484,
+      856
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/1c15f8a323259145360e30e4e7c755d9354bd0b37710ae81739b31619d241220.jpg",
+    "table_caption": [
+      "Table 7. Analysis of Questionnaire Items "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Planning Area ofOffice Space</td><td rowspan=1 colspan=1>Cronbachα Value</td><td rowspan=1 colspan=1>Cronbachα Value ofEach Item</td></tr><tr><td rowspan=1 colspan=1>Size of Office Space</td><td rowspan=1 colspan=1>0.729</td><td rowspan=1 colspan=1>0.506~0.681</td></tr><tr><td rowspan=1 colspan=1>Layout of Office Space</td><td rowspan=1 colspan=1>0.777</td><td rowspan=1 colspan=1>0.636~0.801</td></tr><tr><td rowspan=1 colspan=1>Workstation</td><td rowspan=1 colspan=1>0.858</td><td rowspan=1 colspan=1>0.834~0.858</td></tr><tr><td rowspan=1 colspan=1>Conference/Resting Space</td><td rowspan=1 colspan=1>0.777</td><td rowspan=1 colspan=1>0.697~0.734</td></tr><tr><td rowspan=1 colspan=1>Window/Ceiling</td><td rowspan=1 colspan=1>0.657</td><td rowspan=1 colspan=1>0.411~0.539</td></tr><tr><td rowspan=1 colspan=1>Finish Material</td><td rowspan=1 colspan=1>0.853</td><td rowspan=1 colspan=1>0.630~0.732</td></tr></table>",
+    "bbox": [
+      510,
+      95,
+      902,
+      224
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/242d75af0badd652314f078244b38599750ec8564d451612c1486ca85a3fc9d3.jpg",
+    "table_caption": [
+      "Table 8. Correlation Analysis of Planning Factors for Office Space "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Planning Factorsfor Evaluation</td><td rowspan=1 colspan=1>Coefficient ofCorrelation</td><td rowspan=1 colspan=1>PlanningFactorsfor Evaluation</td></tr><tr><td rowspan=1 colspan=1>Location ofConference Space</td><td rowspan=1 colspan=1>0.7913</td><td rowspan=1 colspan=1>No.  of  ConferenceSpaces</td></tr><tr><td rowspan=1 colspan=1>Wall Finish Material</td><td rowspan=1 colspan=1>0.7872</td><td rowspan=1 colspan=1>Ceiling Finish Material</td></tr><tr><td rowspan=1 colspan=1>AreaofPersonalWorkstation</td><td rowspan=1 colspan=1>0.7692</td><td rowspan=1 colspan=1>Size of Personal Desk</td></tr><tr><td rowspan=1 colspan=1>Privacy ofWorkstation</td><td rowspan=1 colspan=1>0.6851</td><td rowspan=1 colspan=1>Expression of PositionOr Individuality</td></tr><tr><td rowspan=1 colspan=1>Department Layout</td><td rowspan=1 colspan=1>0.6695</td><td rowspan=1 colspan=1>Aisle Width in the Office</td></tr><tr><td rowspan=1 colspan=1>Size ofPersonal Desk</td><td rowspan=1 colspan=1>0.6459</td><td rowspan=1 colspan=1>DeskLayout Pattern</td></tr><tr><td rowspan=1 colspan=1>Desk Layoutof Office</td><td rowspan=1 colspan=1>0.6309</td><td rowspan=1 colspan=1>Desk Layout Pattern</td></tr><tr><td rowspan=1 colspan=1>Size of Office</td><td rowspan=1 colspan=1>0.6125</td><td rowspan=1 colspan=1>Area ofPersonal Workstation</td></tr><tr><td rowspan=1 colspan=1>Ceiling FinishMaterial</td><td rowspan=1 colspan=1>0.6075</td><td rowspan=1 colspan=1>Lighting ArrangementPattern on the Ceiling</td></tr><tr><td rowspan=1 colspan=1>Flooring Material</td><td rowspan=1 colspan=1>0.5972</td><td rowspan=1 colspan=1>Ceiling FinishMaterial</td></tr><tr><td rowspan=1 colspan=1>Flooring Material</td><td rowspan=1 colspan=1>0.5947</td><td rowspan=1 colspan=1>WallFinishMaterial</td></tr><tr><td rowspan=1 colspan=1>Area of PersonalWorkstation</td><td rowspan=1 colspan=1>0.5946</td><td rowspan=1 colspan=1>Desk Layout Pattern</td></tr></table>",
+    "bbox": [
+      509,
+      260,
+      904,
+      524
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "As shown in the result of correlation analysis, there's close relationship among the area of personal workstation, size of personal desk and desk layout pattern which are the planning factors of personal workstation, and, in particular, the area of personal workstation has high coefficient of correlation with total size of office. ",
+    "bbox": [
+      510,
+      538,
+      904,
+      636
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The location and number of conference spaces give strong effect each other, and there's very close relationship between the privacy of workstation and the expression of position or individuality in the office space also. In addition, the satisfaction on the flooring material in the office which is the physical factor in the office space give an influence on the satisfaction of ceiling finish and wall finish materials in the office. ",
+    "bbox": [
+      512,
+      636,
+      904,
+      762
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.3 Analysis on Satisfaction by Planning Areas4 ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      776,
+      870,
+      790
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The office buildings under this analysis are the intelligent buildings used by the owning companies which have been constructed recently. The satisfaction on their physical conditions including the interior finish materials, etc. are high, above average. However, the satisfaction on the layout of office space and on the workstation which shows the working characteristics of department and the organizational relationship was relatively low. Especially in Building A having smaller area of workstation per person showed lower satisfaction than other buildings. ",
+    "bbox": [
+      510,
+      792,
+      904,
+      846
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4) The satisfaction index of workers on the concerned building was researched by Ricaurte measuring method, including 5 steps (Very Unsatisfactory(!)-Unsatisfactory(2)-Acceptable(3)-Satisfactory(4)- Very Satisfactory(5) ",
+    "bbox": [
+      510,
+      870,
+      900,
+      915
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3) The reliability is the item to evaluate how stable the measured values are in various conditions in the result of statistical analysis, and the error from the measured value is measured by the Cronbach α . ",
+    "bbox": [
+      92,
+      880,
+      480,
+      914
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CTBUH 2004 October 10\\~13, Seoul, Korea 401 ",
+    "bbox": [
+      581,
+      945,
+      902,
+      958
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      485,
+      195
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/64e154f0e645ad16be6db434cb7b6b1cdd35294ff5199fc447f57be0cf0d5ca3.jpg",
+    "image_caption": [
+      "Fig. 1. Satisfaction Index by Planning Areas for Office Space "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      94,
+      219,
+      485,
+      408
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Common characteristic from the analysis on total satisfaction is that the satisfaction on the conference and resting space is under average. This is due to lack of such space in the concerned buildings, but another reason is that the people feel some burden to access to the common conference room located on other floor separate from the working space because all the concerned buildings are high-rise above 30 stories. It shows simply that the needs of conference and resting spaces for the office workers are increasing in the information society. ",
+    "bbox": [
+      92,
+      438,
+      485,
+      591
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.4 Analysis of Satisfaction by Planning Factors ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      605,
+      458,
+      619
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(1) Size and Layout of Office Space ",
+    "bbox": [
+      109,
+      621,
+      378,
+      633
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the size of office space, the satisfaction on the size of physical structure forming the office space including office depth, ceiling height, etc. was researched, and most of workers are satisfactory with the present width and ceiling height. ",
+    "bbox": [
+      92,
+      634,
+      485,
+      703
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the layout of office space, most of the concerned office space adopt the back-facing type, so that may not have difference in the desk arrangement, the workers in the Building A having smaller area of workstation showed lower satisfaction than others. ",
+    "bbox": [
+      92,
+      704,
+      485,
+      773
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "To compare the satisfaction of workers on each office space, the satisfaction on the aisle width was lower than on the department layout pattern and total desk layout, being under average. ",
+    "bbox": [
+      92,
+      774,
+      485,
+      830
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(2) Workstation, Conference and Resting Space The satisfaction on the personal workstation, conference space for communications, and resting space were researched and analyzed. ",
+    "bbox": [
+      92,
+      844,
+      485,
+      900
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/d71b8fb687f016c343c4308480088cef5874424fb3e2b3b0d48b3acf7fc704b6.jpg",
+    "table_caption": [
+      "Table 9. Satisfaction on Size and Layout of Office Space "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>Planning</td><td rowspan=2 colspan=1>Planning</td><td rowspan=1 colspan=3>Building A</td><td rowspan=1 colspan=3>Building B</td><td rowspan=1 colspan=2>Building C</td></tr><tr><td rowspan=1 colspan=1>Satisfaction</td><td rowspan=1 colspan=2>Avenrage</td><td rowspan=1 colspan=1>Satis-faction</td><td rowspan=1 colspan=2>Average</td><td rowspan=1 colspan=1>Satis-faction</td><td rowspan=1 colspan=1>Average</td></tr><tr><td rowspan=3 colspan=1>Size of</td><td rowspan=1 colspan=1>Size of Office</td><td rowspan=1 colspan=1>2.59</td><td rowspan=1 colspan=2>3.07</td><td rowspan=1 colspan=1>3.35</td><td rowspan=1 colspan=2>3.50</td><td rowspan=1 colspan=1>3.27</td><td rowspan=1 colspan=1>3.31</td></tr><tr><td rowspan=1 colspan=1>Depth of office</td><td rowspan=1 colspan=1>3.09</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3.56</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3.23</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Ceiling heightof office</td><td rowspan=1 colspan=1>3.54</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>3.58</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>3.43</td></tr><tr><td rowspan=3 colspan=1>Layout</td><td rowspan=1 colspan=1>desk layout</td><td rowspan=1 colspan=1>2.78</td><td rowspan=2 colspan=2>2.79</td><td rowspan=1 colspan=1>3.27</td><td rowspan=2 colspan=2>3.27</td><td rowspan=1 colspan=1>3.21</td><td rowspan=3 colspan=1>3.10</td></tr><tr><td rowspan=1 colspan=1>DepartmentLayout type</td><td rowspan=1 colspan=1>2.92</td><td rowspan=1 colspan=1>3.38</td><td rowspan=1 colspan=1>3.12</td></tr><tr><td rowspan=1 colspan=1>Aisle width inthe office</td><td rowspan=1 colspan=1>2.68</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>3.18</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>2.97</td></tr></table>",
+    "bbox": [
+      510,
+      95,
+      904,
+      245
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/2316191851ac3da694c0424460814e25edf0907922d80aab3a2c1b228eca9af1.jpg",
+    "table_caption": [
+      "Table10. Satisfaction on Workstation, Conference and Resting Space "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>PlanningAreas</td><td rowspan=2 colspan=1>PlanningFactors</td><td rowspan=1 colspan=4>Building A</td><td rowspan=1 colspan=4>Building B</td><td rowspan=1 colspan=1>Building C</td></tr><tr><td rowspan=1 colspan=1>Satis-faction</td><td rowspan=1 colspan=3>Ave-rage</td><td rowspan=1 colspan=1>Satis-factionrage</td><td rowspan=1 colspan=3>Ave-</td><td rowspan=1 colspan=1>Average</td></tr><tr><td rowspan=14 colspan=1>Work-station</td><td rowspan=1 colspan=1>Area ofpersonalworking space</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.25</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.30</td></tr><tr><td rowspan=2 colspan=1>Size ofpersonal desk</td><td rowspan=2 colspan=1>2.90</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>3.41</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=2 colspan=1>Desk layouttype</td><td rowspan=2 colspan=1>2.96</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>3.24</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=2 colspan=1>Comfort ofchair</td><td rowspan=2 colspan=1>3.17</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>2.95</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=2>2.81</td><td rowspan=1 colspan=2>3.10</td></tr><tr><td rowspan=2 colspan=1>Function ofstorage space</td><td rowspan=2 colspan=1>2.60</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2>2.01</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>2.97</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=2 colspan=1>Height ofpartition</td><td rowspan=2 colspan=1>3.15</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>3.28</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=2 colspan=1>Privacy ofworkstation</td><td rowspan=2 colspan=1>2.51</td><td rowspan=2 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=3>2.70</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=2 colspan=3></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>Expressionof position orindividuality</td><td rowspan=1 colspan=1>2.59</td><td rowspan=1 colspan=1>2.93</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>2.83</td></tr><tr><td rowspan=5 colspan=1>Confer-ence/RestingSpace</td><td rowspan=1 colspan=1>Location ofconferencespace</td><td rowspan=1 colspan=1>2.19</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>2.81</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>2.53</td></tr><tr><td rowspan=1 colspan=1>No.ofconferencespace</td><td rowspan=1 colspan=1>2.16</td><td rowspan=2 colspan=3>2.24</td><td rowspan=1 colspan=1>2.58</td><td rowspan=2 colspan=3>2.74</td><td rowspan=1 colspan=1>2.29</td></tr><tr><td rowspan=2 colspan=1>Method ofcommunication</td><td rowspan=2 colspan=1>2.82</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>3.27</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>3.14</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=2 colspan=3></td></tr><tr><td rowspan=1 colspan=1>Resting spacein the office</td><td rowspan=1 colspan=1>1.82</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.07</td></tr></table>",
+    "bbox": [
+      510,
+      285,
+      904,
+      668
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Comparing with Buildings B and C, the average satisfaction of Building A on the workstation was lowest due to smaller area of workstation per person. In the workstation of Building B, the satisfaction on the chair and storage space was low, rather than on the desk. Also in the workstation of Buildings A and C, the satisfaction on the storage space was lower than on the layout type and size of the desks. It shows that the storage space is more important than the size of desk in the workstation. ",
+    "bbox": [
+      512,
+      682,
+      904,
+      823
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "For the height of partition, it is $1 3 0 \\mathrm { c m }$ and $1 6 7 \\mathrm { c m }$ in Building A, 115cm and 153cm in Building B, and $1 1 0 \\mathrm { c m }$ and $1 3 0 \\mathrm { c m }$ in Building C, on which the satisfaction was relatively high, in the range of 3.15 to 3.18. However, the satisfaction on the privacy in the workstation was very low, being 2.51 to 2.70, and the index on the expression of personal position and individuality in the workstation was under the average, being 2.59 to 2.93. ",
+    "bbox": [
+      512,
+      824,
+      905,
+      908
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "402 CTBUH 2004 October 10\\~13, Seoul, Korea ",
+    "bbox": [
+      92,
+      945,
+      418,
+      958
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      485,
+      125
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Conference and resting space showed the lowest satisfaction in the concerned buildings. Unsatisfaction on the number of conference space was higher than on the location, and the resting space in the office showed the lowest satisfaction among the planning factors. Such high unsatisfaction is partially due to shortage of their areas, but the main reason is inconvenient access to the resting space or convenient facilities located on the lower floor because they are high-rise buildings. ",
+    "bbox": [
+      92,
+      125,
+      485,
+      267
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "(3) Window, Ceiling and Finish Materials of Office Space ",
+    "bbox": [
+      107,
+      279,
+      485,
+      307
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "For the window, ceiling and finish materials of the office space which are the physical planning factors, the satisfaction as all high in 3 office buildings. ",
+    "bbox": [
+      92,
+      308,
+      485,
+      350
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/81c365b651152c55ef778be8e8c5316102848a9722a0c62bd3a8011427798464.jpg",
+    "table_caption": [
+      "Table 11. Satisfaction on Window, Ceiling and Finish Materials "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=3 colspan=1>PlanningAreas</td><td rowspan=3 colspan=1>PlanningFactors</td><td rowspan=1 colspan=4>Building A</td><td rowspan=1 colspan=4>Building B</td><td rowspan=1 colspan=1>Building C</td></tr><tr><td rowspan=2 colspan=1>Satisfa-ction</td><td rowspan=2 colspan=3>Average</td><td rowspan=2 colspan=1>Satisfa-ction</td><td rowspan=1 colspan=3>Aver</td><td rowspan=2 colspan=1>Average</td></tr><tr><td rowspan=1 colspan=3>age</td><td rowspan=1 colspan=1>-ction</td></tr><tr><td rowspan=4 colspan=1>Window&amp;Ceiling</td><td rowspan=1 colspan=1>Type &amp; sizeof window</td><td rowspan=1 colspan=1>3.52</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.39</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.28</td></tr><tr><td rowspan=2 colspan=1>View fromthe inside</td><td rowspan=2 colspan=1>3.79</td><td rowspan=2 colspan=2>3.59</td><td rowspan=1 colspan=2>3.59</td><td rowspan=2 colspan=1>9</td><td rowspan=2 colspan=3>3.64</td><td rowspan=2 colspan=1>3.52</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>5.52</td></tr><tr><td rowspan=1 colspan=1>Lightinglayout pattern</td><td rowspan=1 colspan=1>3.47</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.53</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.20</td></tr><tr><td rowspan=4 colspan=1>FinishMaterial</td><td rowspan=1 colspan=1>Flooringmaterial</td><td rowspan=1 colspan=1>3.29</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.51</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>3.31</td></tr><tr><td rowspan=2 colspan=1>Wall finishmaterial</td><td rowspan=2 colspan=1>3.58</td><td rowspan=2 colspan=2>3.48</td><td rowspan=1 colspan=2>3.48</td><td rowspan=2 colspan=1>8</td><td rowspan=2 colspan=3>3.60</td><td rowspan=2 colspan=1>3.57</td></tr><tr><td rowspan=2 colspan=3></td><td rowspan=2 colspan=3></td></tr><tr><td rowspan=1 colspan=1>Ceiling finishmaterial</td><td rowspan=1 colspan=1>3.60</td><td rowspan=1 colspan=1>3.60</td><td rowspan=1 colspan=1>3.52</td></tr></table>",
+    "bbox": [
+      92,
+      387,
+      484,
+      576
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "It is notable that the satisfaction on the view showed the highest index of 3.79 in the workstation of Building A of which whole window area is made of transparent glass curtain wall. ",
+    "bbox": [
+      92,
+      587,
+      487,
+      643
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.5 Research on Total Satisfaction ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      657,
+      363,
+      671
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Total satisfaction on total desk layout, area of personal workstation, desk layout pattern, conference space and resting space of 3 office buildings was researched by the characteristics of respondents including working style and position. ",
+    "bbox": [
+      92,
+      673,
+      485,
+      742
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As the result of analysis, the professionals showed lower satisfaction on the area of personal workstation and desk layout pattern, than the administrators and sales persons (See Figure 2). This was a common phenomenon in the concerned office buildings, because their working style is more various and complicated as proved in the analysis of method of work performance by job categories in Table 5. In the satisfaction by positions, the section managers and department managers showed lower index than the clerks, meaning that the people in higher position wants bigger working space. ",
+    "bbox": [
+      92,
+      743,
+      485,
+      909
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/9c56f4a0b474c745adeb747013e170d45ddff8271250ab447a5d586e9c2cfa10.jpg",
+    "image_caption": [
+      "Fig. 2. Satisfaction on Area of Personal Workstation by Job Categories "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      510,
+      85,
+      904,
+      285
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/b074d079cf7394286e8bdde3fc5ba125ed2979e1f24176454b06f2f59ffda816.jpg",
+    "image_caption": [
+      "Fig. 3. Satisfaction on Desk Layout Pattern by Job Categories "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      325,
+      902,
+      526
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "On the desk layout pattern, satisfaction was generally high, but it is noted in the analysis by job categories that the professionals showed lower satisfaction than administrators and sales persons (See Figure 3). Any characteristic difference was not found in the analysis by positions, but the clerks working in Building C showed high satisfaction on their workstation layout, but low on total desk layout in the office. ",
+    "bbox": [
+      512,
+      560,
+      904,
+      686
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In the analysis on the conference space and resting space by job categories and positions, the satisfaction of the professionals was lower than other job categories (see Figure 4). It is considered that this factor is closely related to the number of team members for work performance and the professionals perform lots of works on the team basis. It is said that the frequency of teamworks by 8 members or above is highest for the professionals $( 3 2 \\% )$ , followed by sales persons $( 2 1 \\% )$ and administrators $( 1 9 \\% )$ . ",
+    "bbox": [
+      512,
+      686,
+      904,
+      826
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The satisfaction on the resting space was lowest among all the planning factors. To analyze the result by job categories, the satisfaction of the professionals and administrators having longer daily average sitting hours was lower than the sales persons having shorter sitting hours. ",
+    "bbox": [
+      512,
+      827,
+      904,
+      910
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "CTBUH 2004 October 10\\~13, Seoul, Korea 403 ",
+    "bbox": [
+      583,
+      945,
+      904,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/1e56bda34408cd0a5d1594bc5373fcda0bb2c01b6981e8df9c3bc60c98426a7c.jpg",
+    "image_caption": [
+      "Fig. 4. Satisfaction on the No. of Conference Spaces by Job Categories "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      96,
+      463,
+      300
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5. Research and Analysis on Preference for High-rise Office Building ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      346,
+      475,
+      376
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In the research of the preference for the workstation type and layout pattern, L type was absolutely high. For the layout pattern, the traditional oriented type was still preferred, and stag type of strong independence and privacy in the workstation was preferred also. ",
+    "bbox": [
+      92,
+      376,
+      484,
+      459
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/b3ed5d865bf8e3810667cb86c45319ef69754ee219de7b8b819204da9eab476c.jpg",
+    "table_caption": [
+      "Table 12. Layout Pattern of Workstation "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Line-up type</td><td rowspan=1 colspan=1>Facing type</td><td rowspan=1 colspan=1>Back-facing type</td></tr><tr><td rowspan=1 colspan=1>Φ5</td><td rowspan=1 colspan=1>9D</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Stag type</td><td rowspan=1 colspan=1>X type</td><td rowspan=1 colspan=1>Cluster type</td></tr><tr><td rowspan=1 colspan=1>会</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "bbox": [
+      90,
+      484,
+      484,
+      636
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_6799387/auto/images/30f488abc5d3a1b863278d8a22163bac043ed29ccb6ede4365302cfb28c05917.jpg",
+    "image_caption": [
+      "Fig. 5. Preference for Layout Pattern of Workstation by Job Categories "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      85,
+      661,
+      462,
+      836
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To analyze the preference by job categories for each workstation (see Figure 5), it is noted that the professionals prefers the stag type. ",
+    "bbox": [
+      92,
+      880,
+      485,
+      907
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      84,
+      757,
+      97
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "It is considered that the workers have psychological desire to have the privacy and individual domain, against the open workstation in the large office buildings. The desk layouts of $\\mathrm { X }$ type and cluster type are also preferred by the administrators and professionals. ",
+    "bbox": [
+      512,
+      98,
+      904,
+      181
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6. Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      195,
+      640,
+      209
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "With the increasing needs for pleasantness of working environment in the information society of the 21st century, the architectural technology for high-rise office building is being developed. Such architectural technology should be applied to meet the needs of office workers. In this background, the research and analysis were conducted on the satisfaction of the workers in the high-rise office buildings of above 30 stories which were built recently in Korea, and we reached to the conclusion as follows. ",
+    "bbox": [
+      512,
+      210,
+      905,
+      349
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "First, common characteristic in every item of research on the satisfaction is that it is high above the average in the physical working environment including the size of office space, window, ceiling pattern and interior finish material, but low in the basic unit space including the workstation and layout. In the analysis on the daily average sitting hours by job categories, there were many office workers having long sitting hours of 8 or more hours. This means that many people spends most of routine hours in the office like a dwelling space. In such working style, the personal basic workstation should be considered as critical space. ",
+    "bbox": [
+      512,
+      350,
+      904,
+      530
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Second, the satisfaction on the conference and resting spaces was commonly low in the concerned office buildings, therefore, it should be planned to secure appropriate area for the conference and resting spaces and to increase the efficiency of use for each using pleasant high-rise office building, and it also needs to expand the concept of traditional workstation to the conference and resting spaces. With development of information industry and movement to the intellectual society, the needs for resting and conference spaces in the office buildings will increase. ",
+    "bbox": [
+      512,
+      533,
+      904,
+      686
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Finally, in planning the office space, the architectural planning subdivided by job categories and positions is needed. In this study, the jobs were roughly categorized into professionals, administrations and sales, but job categories will be expanded and diversified with development of information society. In particular, the satisfaction of professionals was lower than the administrators and sales persons, so it needs to consider the characteristics of each job in planning the office space. Detailed architectural plan to accept the structure and working styles of the organization is needed in the office layout and desk layout. The layout of workstation is not simple desk arrangement in the given building space. The plan how does the office space reflects the organizational structure should be established from the beginning stage of design. Under this presupposition, the desk layout for department and individuals and the workstation plan should be made in detail. ",
+    "bbox": [
+      512,
+      687,
+      904,
+      909
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "404 CTBUH 2004 October 10\\~13, Seoul, Korea ",
+    "bbox": [
+      92,
+      946,
+      418,
+      958
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      83,
+      485,
+      125
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      141,
+      176,
+      152
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1) CTBUH (1995) Architecture of Tall Buildings, Mcgraw-Hill Inc.   \n2) Duffy, Francise(1997) The New Office, Coran Octopus   \n3) George Baird(1996) Building Evaluation Techniques   \n4) Harrison A. Loe, E & Read, J. (1998) Intelligent Buildings in   \nSouth East Asis, Routledge   \n5) Jacqueline C. Vischer(1989) Environmental Quality in Office   \n6) Marmot, Alexi Joanna Eley(2000) Office Space   \nPlanning: Designs for Tomorrow's Workplace, McGraw-Hill   \n7) Matsushita Electric Works and CRSS(1988),   \nOFFICing, LibroPort Co., Ltd.   \n8) Preiser, W.F.E., Rabinowitz, H.A., & White,   \nE.T.(1988) Post-Occupancy Evaluation, Van Nostrand Reinhold   \nCompany: New York   \n9) Samoo & KICT(2004) Design and Development of   \nEssential Technique for Intelligent Workspace, KICT   \n10) Yee, Roger(2001) Corporate Interior No. 4, Visual   \nReference Publications Inc. ",
+    "bbox": [
+      90,
+      153,
+      485,
+      285
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      81,
+      907,
+      274
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CTBUH 2004 October 10\\~13, Seoul, Korea 405 ",
+    "bbox": [
+      583,
+      945,
+      904,
+      958
+    ],
+    "page_idx": 8
+  }
+]

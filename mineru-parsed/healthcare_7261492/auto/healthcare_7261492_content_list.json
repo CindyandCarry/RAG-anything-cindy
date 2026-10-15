@@ -1,0 +1,1407 @@
+[
+  {
+    "type": "text",
+    "text": "Role of Esterase gp70 and Its Influence on Growth and Development of Dictyostelium discoideum ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      291,
+      750,
+      345
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Aidong Yuan University of Nebraska-Lincoln ",
+    "bbox": [
+      116,
+      363,
+      343,
+      395
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Catherine P. Chia University of Nebraska-Lincoln, cchia1@unl.edu ",
+    "bbox": [
+      114,
+      410,
+      464,
+      443
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Yuan, Aidong and Chia, Catherine P., \"Role of Esterase gp70 and Its Influence on Growth and Development of Dictyostelium discoideum\" (2000). Papers in Microbiology. 77. https://digitalcommons.unl.edu/bioscimicro/77 ",
+    "bbox": [
+      116,
+      780,
+      882,
+      830
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "University of Nebraska - Lincoln DigitalCommons@University of Nebraska - Lincoln ",
+    "bbox": [
+      117,
+      132,
+      704,
+      178
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "January 2000 ",
+    "bbox": [
+      116,
+      256,
+      230,
+      273
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Papers in Microbiology ",
+    "bbox": [
+      116,
+      209,
+      302,
+      227
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Papers in the Biological Sciences ",
+    "bbox": [
+      616,
+      209,
+      882,
+      226
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This Article is brought to you for free and open access by the Papers in the Biological Sciences at DigitalCommons@University of Nebraska - Lincoln. It has been accepted for inclusion in Papers in Microbiology by an authorized administrator of DigitalCommons@University of Nebraska - Lincoln. ",
+    "bbox": [
+      116,
+      863,
+      883,
+      905
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      116,
+      728,
+      137,
+      747
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Follow this and additional works at: https://digitalcommons.unl.edu/bioscimicro ",
+    "bbox": [
+      114,
+      708,
+      699,
+      723
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      142,
+      734,
+      398,
+      748
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted June 1, 2000; revised September 6, 2000 ",
+    "bbox": [
+      338,
+      99,
+      679,
+      114
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Role of Esterase gp70 and Its Influence on Growth and Development of Dictyostelium discoideum ",
+    "text_level": 1,
+    "bbox": [
+      191,
+      138,
+      828,
+      191
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Aidong Yuan\\* and Catherine P. Chia ",
+    "bbox": [
+      366,
+      207,
+      653,
+      223
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "School of Biological Sciences, University of Nebraska-Lincoln, Lincoln, Nebraska 68588-0118 ",
+    "bbox": [
+      192,
+      238,
+      820,
+      253
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "\\* Corresponding author: A. Yuan, School of Biological Sciences, 348 Manter Hall, University of Nebraska-Lincoln, Lincoln, NE 68588-0118. Fax: (402) 472-2083. Email: dyuan@unlserve.unl.edu ",
+    "bbox": [
+      178,
+      268,
+      843,
+      296
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      321,
+      142,
+      333
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$\\mathrm { G p } 7 0$ is an esterase originally called crystal protein because of its presence in crystalline structures in aggregation-competent Dictyostelium discoideum cells. Although postulated to break down spore coats, the function of $\\mathrm { g p } 7 0$ in vivo was incompletely investi­gated. Our immunolocalization and biochemical stud­ies of vegetative $D$ . discoideum amoebae show that $\\mathrm { g p } 7 0$ was recruited to phagosomes and found in lysosomes. Purified $\\mathrm { g p } 7 0$ was effective at hydrolyzing naphthyl substrates with acyl chains typical of lipids and lipopolysaccharides, indicating that the $\\mathrm { g p } 7 0$ was involved in digesting endocytosed molecules. The ac­tivity of purified $\\mathrm { g p } 7 0$ was inhibited by reductants that retarded its electrophoretic mobility and verified the presence of intramolecular disulfide bonds pre­dicted by its amino acid sequence. Compared to wild-type cells, cells overexpressing $\\mathrm { g p } 7 0$ were more phagocytically active, had shorter generation times, and produced more fruiting bodies per unit area, while cells lacking $\\mathrm { g p } 7 0$ were phagocytically less active with longer doubling times, developed more slowly, and had significantly fewer fruiting bodies per unit area. Consistent with the phenotype of a disrupted metabo­lism, one-third of the $\\mathrm { g p } 7 0$ -minus cells were large and multinucleated. Together, these results indicated that despite its crystalline appearance, $\\mathrm { g p } 7 0$ was an active esterase involved in both the growth and the develop­ment of $D$ . discoideum. ",
+    "bbox": [
+      86,
+      335,
+      495,
+      638
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: esterase, endocytosis, lysosome, phagocytosis, lipopolysaccharide ",
+    "bbox": [
+      86,
+      648,
+      493,
+      675
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abbreviations: BSA, bovine serum albumin; Con A, con-canavalin A; DAPI, 4,6-diamino-2-phenylindole; DTT, dithiothreitol; FITC, fluorescein isothiocyanate; GT, generation time; IgG, immunoglobulin G; LPS, lipopolysaccharide; KA, Klebsiella aerogenes; mAb, monoclonal antibody; Mes, 2-W-morpholino)ethanesu lfonic acid; Mops, 3-(2V-morpholino)propanesulfonic acid (sodium salt); PVDF, polyvinylidene difluoride; Sorensen’s buffer, $1 4 . 6 ~ \\mathrm { m M }$ ${ \\mathrm { K H z P O } } _ { 4 } ,$ 2 mM ${ \\mathrm { N a } } _ { 2 } { \\mathrm { H P O } } _ { 4 }$ , $\\mathrm { p H } 6 . 1$ ; SDS-PAGE, sodium dodecyl sulfate-polyacrylamide gel electrophoresis; TRITC, tetramethylrhodamine isothiocyanate ",
+    "bbox": [
+      86,
+      683,
+      493,
+      821
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      837,
+      356,
+      851
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "By electron microscopy, crystalline bodies are ob­served in amoebae of the cellular slime mold Dictyoste­lium discoideum [1, 2]. The crystal structures become more numerous between the growth and aggregation stages, are present in mature spores, and disappear only after spore germination [2–5]. The crystals con­tain mainly two proteins, D2 and a 69-kDa species, which due to its abundance, was named crystal protein [6]. Because the deduced amino acid sequences of crys­tal protein and D2 have a high degree of sequence similarity to esterases, the vesicles were called esterosomes. Since the crystals disappear during spore ger­mination, crystal protein was postulated to be required for spore wall degradation [6]. The exact function of crystal protein, however, has not been established. ",
+    "bbox": [
+      84,
+      867,
+      495,
+      911
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      321,
+      931,
+      472
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Recently, we identified in axenically grown $D$ . dis­coideum cells a $7 0 \\mathrm { - k D a }$ glycoprotein, $\\mathrm { g p } 7 0$ , associated with detergentinsoluble cytoskeletons [7]. Amino acid analyses and antibody cross-reactivity established that $\\mathrm { g p } 7 0$ is the same as crystal protein, and comparative biochemical studies of strains overexpressing or lack­ing $\\mathrm { g p } 7 0$ showed that it has esterase activity. The apparent high levels of $\\mathrm { g p } 7 0$ in log-phase, axenically grown cells indicated a function other than spore coat degradation. The goal of this work was to establish the role of $\\mathrm { g p } 7 0$ in $D$ . discoideum growth and development. Based on in vivo and in vitro analyses of $\\mathrm { g p } 7 0$ overexpressor and $\\mathrm { g p } 7 0$ -minus strains, we propose that the esterase $\\mathrm { g p } 7 0$ is involved in the digestion of endocy­tosed nutrients and its presence is important for nor­mal growth and development of $D$ . discoideum. ",
+    "bbox": [
+      522,
+      473,
+      931,
+      683
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Portions of this work were presented at the “1999 Dictyostelium International Meeting,” Bar Harbor, Maine [8]. ",
+    "bbox": [
+      522,
+      685,
+      929,
+      713
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "MATERIALS AND METHODS ",
+    "text_level": 1,
+    "bbox": [
+      614,
+      729,
+      838,
+      744
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Growth and development of $D$ . discoideum. D. discoideum cells (AX2) were shaken at $1 9 0 ~ \\mathrm { r p m }$ in HL5 [9] at $2 0 ^ { \\circ } \\mathrm { C }$ and typically harvested at $5 \\times 1 0 ^ { 6 }$ cells/ml. Two transformed cell lines derived from this strain, $\\mathrm { A T - K _ { n e g } }$ which lacks $\\mathrm { g p } 7 0$ (crystal protein) and AT-K2, which overexpresses $\\mathrm { \\dot { \\ g p } } 7 0$ [7, 10], were grown in HL5 con­taining $1 0 ~ \\mathrm { \\mu g / m l }$ G418 (ICN Biomedicals, Inc., Aurora, OH). For axenic growth, logphase cells were diluted to $5 \\times 1 0 ^ { 5 } / \\mathrm { m l }$ in fresh HL5 and counted every $2 4 ~ \\mathrm { h }$ . Culture densities were monitored using a hemocytometer. Growth rates on bacteria were measured following published procedures [11]. Colony growth on bacterial lawns was accomplished by inoculating $D$ . discoideum cells with a toothpick onto a lawn of Klebsiella aerogenes (KA)2 cultivated on nutrient agar [12] and then monitoring the plaque size over time. Fruiting bodies were counted after 5 to 7 days. NC4 (provided by Dr. M. Clarke, Oklahoma Medical Research Foundation) was grown in suspensions of KA [13]. Newly geminated cells in HL5 were obtained from spores of fruiting bodies produced from axenically grown cells starved for over $2 4 \\mathrm { ~ h ~ }$ . ",
+    "bbox": [
+      522,
+      761,
+      931,
+      917
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      496,
+      930,
+      519,
+      940
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Published in Experimental Cell Research 261 (2000), pp. 336–347; doi: 10.1006/excr.2000.5055 Online at http://www.idealibrary.com Copyright $©$ 2000 by Academic Press. Used by permission. ",
+    "bbox": [
+      215,
+      64,
+      797,
+      92
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      80,
+      475,
+      145
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For development studies, axenically grown log-phase cells were washed once with Sorensen’s buffer $( 1 4 . 6 \\mathrm { m M } \\mathrm { K H _ { 2 } P O _ { 4 } } , 2 \\mathrm { m M } \\mathrm { N a _ { 2 } H P O _ { 4 } }$ $\\mathrm { p H } 6 . 1$ ) and resuspended to $1 0 ^ { 8 }$ cells/ml. Then, $1 0 ^ { 6 }$ cells were pipetted onto the center of $2 \\%$ nonnutrient agar plates ( $1 0 0 \\times 2 0 ~ \\mathrm { m m }$ ) and development was monitored over time. ",
+    "bbox": [
+      66,
+      147,
+      473,
+      212
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Microscopy. For electron microscopy, log-phase AX2 cells in HL5 were allowed to settle for $1 5 \\mathrm { { m i n } }$ in a $3 5 \\times 1 0 { - } \\mathrm { m m }$ Contur dish (Lux Scientific Corp., Newbury Park, CA) before fixation at room temper­ature for $^ { 1 \\mathrm { h } }$ in $3 \\%$ glutaraldehyde in $1 0 0 \\mathrm { m M }$ phosphate buffer $\\mathrm { ( p H 6 . 8 ) }$ . After rinsing with the same buffer, cells were postfixed with phosphate-buffered $1 \\%$ osmium tetroxide for $^ { 1 \\mathrm { ~ h ~ } }$ . After dehydration through an ethanol series (25, 50, 75, 95, and $100 \\%$ ), samples were embedded in Epon 812. Thin sections were stained with uranyl acetate and lead citrate and observed with a Philips 201 (FEI Co., Hillsboro, OR) transmission electron microscope operated at $6 0 \\mathrm { k e V . }$ ",
+    "bbox": [
+      66,
+      212,
+      475,
+      344
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For immunofluorescence microscopy, spores, newly geminated cells, or log-phase cells were washed three times with Sorensen’s buffer. After resuspending to $5 \\times 1 0 ^ { 5 }$ cells $/ \\mathrm { m l }$ , $1 0 0 ~ \\mu \\mathrm { l }$ of cells was allowed to settle onto glass coverslips ( $3 0 ~ \\mathrm { { m i n } }$ for cells or $^ \\textrm { \\scriptsize 4 h }$ for spores). In some experiments, $5 \\times 1 0 ^ { 6 }$ beads ${ 4 . 3 2 9 \\mu \\mathrm { m } }$ diameter; Polysciences, Inc., Warrington, PA) were added and removed after $1 0 ~ \\mathrm { m i n }$ by two washes of Sorensen’s buffer. Cells were fixed with $3 . 7 \\%$ formaldehyde in $1 7 ~ \\mathrm { m M }$ sodium phosphate buffer, $\\mathrm { p H } 6 . 8$ , for $1 5 ~ \\mathrm { m i n }$ and permeabilized for $5 ~ \\mathrm { { m i n } }$ with chilled methanol $( - 2 0 ^ { \\circ } \\mathrm { C } )$ contain­ing $1 \\%$ formaldehyde [14]. Nonspecific binding was blocked with $1 \\%$ bovine serum albumin (BSA) in phosphate-buffered saline (PBS; $1 5 0 \\ \\mathrm { m M \\ N a C l }$ , $1 0 ~ \\mathrm { m M }$ sodium phosphate, $\\mathrm { p H } ~ 7 . 4$ ) for a minimum of $1 5 \\ \\mathrm { m i n }$ . Cells were incubated with monoclonal antibody (mAb) 80 (130-80-2) or mAb 202 (129-202-6) hybridoma supernatants [6] for 1 h at room temperature, washed three times with PBS containing $0 . 0 5 \\%$ Tween 20, and then stained for 1 h with fluorescein isothiocyanate (FITC)-conjugated goat anti-mouse IgG (Pierce Chemical Co., Rockford, IL) adsorbed against glutaraldehyde-fixed AX2 [13]. Samples incubated with secondary antibody when primary antibody was omitted had no significant fluorescent signals. To identify nuclei, cells were fixed with methanol and stained with $0 . 5 ~ \\mathrm { \\mu g / m l }$ 4,6-diamino-2-phenylindole (DAPI; Sigma Chemical Co., St. Louis, MO) [15]. Nuclei from a total of 996 AX2 and $1 5 3 4 ~ \\mathrm { A T - K _ { n e g } }$ cells were counted. Coverslips were mounted in buffered Gelvatol containing $5 0 \\ \\mathrm { m g / m l } \\ 1 , 4 \\cdot$ diazobicyclo-(2,2,2)-octane (Aldrich Chemical Co., Mil­waukee, WI) [14, 16]. Cells were viewed with a Nikon Labophot microscope (Melville, NY) equipped with bright-field $4 0 \\times$ and $6 0 \\times$ objectives and a $6 0 \\times$ plan Apochromat oil objective (NA 1.4) for epifluorescence. Images were acquired with a three-chip color CCD camera (DC-330, DAGE-MTI, Inc., Michigan City, IN) and a Scion CG-7 RGB color frame grabber (Scion Corp., Frederick, MD) using Scion Image 1.62 and imported into Photoshop 5.0. ",
+    "bbox": [
+      66,
+      345,
+      475,
+      756
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Preparation of cell fractions and purification of gp70. Cell lysates were prepared by sonication of $1 0 ^ { 7 }$ cells/ml in $2 \\%$ sodium dodecyl sulfate (SDS), $0 . 5 ~ \\mathrm { m M }$ dithiothreitol (DTT), $2 \\ \\mathrm { m M }$ ethylene glycol bis(2- aminoethyl ether)- $\\cdot N , N , N ^ { \\prime } , N ^ { \\prime }$ -tetraacetic acid (EGTA), $2 0 ~ \\mathrm { m M }$ sodium fluoride, $0 . 5 ~ \\mathrm { m M }$ phenylmethylsulfonyl fluoride, $1 \\mathrm { m M }$ benzamidine hydrochloride, and $1 0 ~ \\mathrm { m M }$ Tris, $\\mathrm { p H } 7 . 4$ . To test the esterase activity of cell lysates, $2 \\times 1 0 ^ { 7 }$ cells (AX2 or AT- $\\mathrm { \\cdot K _ { n e g . } }$ ) from axenic cultures were washed and solubilized overnight at $4 ^ { \\circ } \\mathrm { C }$ in $\\widetilde { 2 } ~ \\mathrm { m l }$ buffer containing $2 0 ~ \\mathrm { m M }$ 2-(Nmorpholino)ethanesulfonic acid (sodium salt; Mes), $\\mathrm { p H } ~ 6 . 0$ , $5 0 0 ~ \\mathrm { m M }$ NaCl, $1 \\ \\mathrm { m M } \\ \\mathrm { C a C l } ^ { 2 }$ , $\\mathrm { 1 \\ m M \\ M g C l _ { 2 } }$ , and $2 . 5 \\%$ Triton X-100 [7]. Lysosomes and phagosomes were prepared as de­scribed [17, 18]. ",
+    "bbox": [
+      66,
+      757,
+      475,
+      901
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cytoskeletons were prepared by extracting midlog AT-K2 cells with ",
+    "bbox": [
+      84,
+      902,
+      475,
+      915
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$1 \\%$ Triton, $1 0 \\mathrm { m M K C l }$ , $1 0 ~ \\mathrm { m M }$ EGTA, $2 \\mathrm { m M }$ sodium azide, $1 0 ~ \\mathrm { m M }$ imidazole, $\\mathrm { p H } ~ 7 . 0$ [19], in the presence of $5 \\ \\mathrm { m M }$ benzamidine hydrochloride, $1 \\mathrm { m M }$ phenylmethylsulfonyl fluoride, and $1 \\mathrm { m g / m l }$ leupeptin. Cytoskeletons were solubilized overnight at $4 ^ { \\circ } \\mathrm { C }$ in $2 0 ~ \\mathrm { m M }$ Mes, pH 6.0, 500 $\\mathrm { m M N a C l }$ , 1 mM $\\mathrm { C a C l } _ { 2 }$ , 1 mM $\\mathrm { M g C l } _ { 2 } .$ , and $2 . 5 \\%$ Triton X-100 [7]. The solubilized sample was centrifuged at $1 3 { , } 0 0 0 g$ for $^ { 1 \\mathrm { h } }$ at $4 ^ { \\circ } \\mathrm { C }$ to pellet actin filaments and actin-associated proteins, leaving solubilized $\\mathrm { g p } 7 0$ and two minor species (see Figure 5). The solubilized $\\mathrm { g p } 7 0$ was further purified either by concanavalin A (Con A) chromatography [7] or immunoaffinity chromatography using mAb 80 covalently coupled to protein G beads using dimethylpime-limidate (Sigma [20, 21]). Purified $\\mathrm { g p } 7 0$ was quantified by densitometry of Coomassie blue-stained gels using BSA as a standard. ",
+    "bbox": [
+      503,
+      80,
+      911,
+      251
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Protein concentrations were determined either with a filter paper dyebinding assay [22] or with the bicinchoninic acid reagent (Pierce). SDS gel electrophoresis [23] and immunoblotting [24] fol­lowed standard procedures. Hybridoma cells producing mAb 80 and mAb 202 specific for $\\mathrm { g p } 7 0$ [6] were grown as previously described [7]. Antibodies were purified from hybridoma supernatants using ammo­nium sulfate precipitation [21] and protein G chromatography [25]. Hybridoma N2 culture supernatant to the $1 0 0 \\mathrm { - k D a }$ subunit of the $D .$ . discoideum vacuolar $\\mathrm { H } ^ { + }$ -ATPase was obtained from Dr. A. Fok (Uni­versity of Hawaii [26]). Gels and immunoblots were scanned with an Epson ES-1200C scanner and ScanTastic software. Relative amounts of protein were quantified by reflectance densitometry. ",
+    "bbox": [
+      503,
+      253,
+      911,
+      411
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Phagocytosis and pinocytosis assays. Phagocytosis of tetramethylrhodamine isothiocyanate (TRITC)-labeled yeast was measured according to published procedures [27]. Trypan blue (Merck, Darm­stadt, Germany; $2 ~ \\mathrm { m g / m l }$ in $1 5 0 \\ \\mathrm { m M \\ N a C l }$ , $2 0 ~ \\mathrm { m M }$ sodium citrate, $\\mathrm { p H } 4 . 4$ [28]) was used to quench the fluorescence of noningested yeast [27, 29]. Sample fluorescence was measured (Perkin–Elmer LS-5B luminescence spectrometer; Norwalk, CT) at excitation and emission wavelengths of 544 and $5 7 4 \\mathrm { n m }$ , respectively. Fluid-phase endocytosis (pinocytosis) was measured using FITC-dextran (Sigma) accord­ing to the method of Vogel [30] as described [7] at excitation and emission wavelengths of 470 and $5 2 0 \\mathrm { n m }$ , respectively. ",
+    "bbox": [
+      503,
+      411,
+      911,
+      556
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "After axenic growth, and for an equivalent number of cells, the average protein content and cell volume of AT- $\\mathrm { \\cdot K _ { n e g } }$ cells were 1.7- and 1.88- fold higher, respectively, than those of AX2 cells. The vol­ume of packed cells was measured by centrifugation of cells into a graded tube. When transferred to bacterial suspensions, the larger axenically grown AT- $\\mathrm { \\cdot K _ { n e g } }$ cells apparently split into smaller cells, yielding a corresponding increase in cell number. Thus, after growth in bacterial suspension, the average protein content and cell volume of $\\mathrm { A T - K _ { n e g } }$ cells were 1.17- and 1.12- fold, respectively, of AX2 cells. These differences were factored into the phagocytosis and pinocyto­sis data, to normalize AT- $\\mathrm { \\cdot K _ { n e g } }$ to AX2 on the basis of equal volume [27]. ",
+    "bbox": [
+      503,
+      558,
+      911,
+      702
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Esterase assay. Con A-purified $\\mathrm { g p } 7 0$ were tested for esterase activity using a modified method of Gu and Zera [31]. Sample $4 \\mu \\mathrm { g } ; 0 . 2 \\mu \\mathrm { g } /$ ml) or buffer $( 2 0 ~ \\mu \\mathrm { l } )$ was added to $1 9 8 0 ~ \\mu \\mathrm { l }$ of $5 0 ~ \\mathrm { m M }$ 3-( $N -$ -morpholin o)propanesulfonic acid, $\\mathrm { p H } ~ 7 . 5$ (Mops buffer), containing $0 . 2 5 \\mathrm { ~ m M ~ } \\alpha$ - naphthyl acetate (initially dissolved in ethanol; Sigma). After incubation at $3 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\ \\mathrm { m i n }$ , reactions were stopped with $3 0 0 ~ \\mu \\mathrm { l }$ of $0 . 3 \\%$ Fast Blue RR Salt (Sigma) and $3 . 5 \\%$ SDS, and their absorbance was read at $6 0 5 ~ \\mathrm { { n m } }$ (Cary 50; Varian Instruments, Sugarland, TX). Esterase activity was expressed as micromoles of $\\mathfrak { a }$ -naphthol produced per minute per microgram of protein. To exam­ine the pH dependence of the esterase activity of gp70, $5 0 ~ \\mathrm { m M }$ sodium citrate $\\mathrm { ( p H } ~ 3 $ ), $5 0 ~ \\mathrm { m M }$ sodium acetate $\\mathrm { \\ p H } 4$ or 5), $0 . 1 \\mathrm { { M } }$ Mes (pH 6), 0.1 M Tris $\\mathrm { ( p H 9 ) }$ ), and $2 5 ~ \\mathrm { m M }$ carbonate-bicarbonate $\\mathrm { ( p H 1 0 ) }$ buffers [32] were used instead of Mops in the assay (Table 2). Standard curves using the same buffers were prepared in parallel. To test the effect of DTT, $1 5 ~ \\mu \\mathrm { l }$ of $\\mathrm { g p } 7 0$ $0 . 2 \\ \\mu \\mathrm { g / \\mu l } )$ was incubated with 5 $\\mu \\mathrm { l }$ of DTT (0.2 to $1 \\textbf { M }$ ) and incubated for $3 0 ~ \\mathrm { { m i n } }$ at $4 ^ { \\circ } \\mathrm { C }$ before addition of the sample to the Mops buffer. The activity of purified $\\mathrm { g p } 7 0$ also was tested in Mops buffer using naphthyl substrates with different acyl chains including $\\mathfrak { a }$ -naphthyl valerate (5-carbon), nonanoate (9-carbon), laurate (12-carbon), palmitate (16-carbon), and $\\beta \\mathrm { \\cdot }$ -naphthyl myristate (14-carbon): Solubilized $\\mathrm { g p } 7 0$ also was active with sub­strates $\\beta \\cdot$ -naphthyl acetate and $p$ -nitrophenyl acetate (data not shown). In some experiments, Triton X-100 (final concentration $1 \\%$ ) was added to the Mops buffer to increase the solubility of the naph­thyl substrates with long acyl chains. However, $1 \\%$ Triton X-100 also inhibited by $5 7 \\%$ the esterase activity of $\\mathrm { g p } 7 0$ with $\\mathfrak { a }$ -naphthyl ace­tate as the substrate (average of three experiments). This percentage of inhibition was factored into the calculations of esterase activity when using the naphthyl substrates with acyl chains of 12 or more carbons (Table 1). ",
+    "bbox": [
+      503,
+      704,
+      911,
+      914
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      68,
+      50,
+      575,
+      63
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "337 ",
+    "bbox": [
+      887,
+      50,
+      911,
+      61
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/6d81f2943fcfa314080980dcd7879b87aaedc398358d2788d86a2e7129eeee90.jpg",
+    "image_caption": [
+      "Figure 1. Crystalline structures were seen in log-phase, axenically grown D. discoideum AX2 cells. Magnification $^ \\mathrm { 8 1 , 0 0 0 \\times }$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      210,
+      80,
+      802,
+      377
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      478,
+      493,
+      650
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "No significant amidase (using the three substrates l-leucme $p$ -nitroanilide, l-phenylalanine $p$ -nitroanilide, and glycine $p$ -nitroamlide [33]), acid, or alkaline phosphatase activity (using the substrate $p$ -nitrophenyl phosphate) was detected. Statistical analyses were performed with the program InStat (version 2.02A; GraphPad Soft­ware, Inc., San Diego, CA). ",
+    "bbox": [
+      86,
+      651,
+      495,
+      729
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "RESULTS ",
+    "text_level": 1,
+    "bbox": [
+      253,
+      758,
+      326,
+      772
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Localization of gp70 ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      789,
+      223,
+      804
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Crystalline bodies in the cytoplasm of growth-phase AX2 cells were observed by electron microscopy (Figure 1). To our knowledge, this was the first image of a crystal body shown in vegetative cells. These struc­tures had an interlattice space of $1 2 ~ \\mathrm { n m }$ , edge dimen­sions that ranged from 0.1 to $0 . 4 ~ { \\mu \\mathrm { m } }$ , and corresponded to the crystals or esterosomes observed in developing cells [1–3, 5, 6] and spores [4]. Esterosomes were shown to contain mainly two proteins, crystal protein and D2. Consistent with several previously published studies of developing cells [1–3] and spores [4], the crystals we observed in vegetative cells were without obvious membranes (Figure 1), while other studies of aggregating cells showed crystalline bodies with mem­branes [5, 6]. This difference may have been a conse­quence of the different protocols used for preparing the samples for microscopy. An alternative explanation is that the crystals were released from esterosomes into cytoplasm during different developmental stages. We recently established that a $7 0 \\mathrm { - k D a }$ glycoprotein, $\\mathrm { g p } 7 0$ , has esterase activity and is the same as crystal protein ",
+    "bbox": [
+      86,
+      811,
+      495,
+      917
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      479,
+      931,
+      660
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In studies of phagosome maturation in $D$ . discoi­deum, we made the observation that $\\mathrm { g p } 7 0$ is recruited to the vesicles as they were processed [18]. This finding implied an interaction between esterosomes and phagosomes that was verified first by indirect immunofluorescence microscopy of cells fed latex beads (Figures 2A and 2B). Esterosomes, containing concentrated $\\mathrm { g p } 7 0$ , collected around phagocytosed beads. Similar aggregates of esterosomes surrounding ingested beads were seen also after longer chase times (up to $3 0 0 ~ \\mathrm { { m i n } }$ ) and around internalized yeast (data not shown). Addi­tional support for an active role of $\\mathrm { g p } 7 0$ in the process­ing of phagosome contents was its localization in NC4 cells in vesicles containing bacteria (Figures 2F and 2H). Food vacuoles that presumably arose from the fusion of small phagosomes were recognized by mAb 202, indi­cating that they contained $\\mathrm { g p } 7 0$ . Concurrently re­cruited with $\\mathrm { g p } 7 0$ to maturing phagosomes was the vacuolar $\\mathrm { H ^ { + } }$ -ATPase (Figure 3A), whereas actin was removed, as observed previously [18] and plotted for ref­erence (Figure 3B). The acidification of the phagosomes by the $\\mathrm { H ^ { + } } .$ -ATPase [34] likely favored the activity of en­zymes (possibly from lysosomes) including gp70, an esterase, that digest food particles. ",
+    "bbox": [
+      522,
+      660,
+      931,
+      916
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Yuan & Chia in Experimental Cell Research 261 (2000) ",
+    "bbox": [
+      544,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      109,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/ea79856fe09a6d485f52bf509f836b6cbf4f13b5b465f0488b99912d68b92211.jpg",
+    "image_caption": [
+      "Figure 2. Gp70 in esterosomes accumulated around a bead phagocytosed by an AX2 cell and colocalized with bacteria in phagosomes of NC4 cells. (A–D) AX2 cells, fed latex beads ( $4 \\mu \\mathrm { m }$ in diameter) for $1 0 ~ \\mathrm { m i n }$ and chased for $3 0 ~ \\mathrm { { m i n } }$ , were fixed and labeled with mAb 202 followed by FITC-goat anti-mouse IgG (A, B) or with the secondary antibody only (C, D). A and C, bright-field images of B and D, respectively. Arrows in A and C, phagocytosed beads; arrow in B, the phagocytosed bead surrounded by six esterosomes. (E–H) Log-phase NC4 cells were fixed and stained similarly. E and G, bright-field images of F and H, respectively. Arrows in F and H, the vesicle containing bacteria and $\\mathrm { g p } 7 0$ . Bar $= 5 \\mu \\mathrm { m }$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      223,
+      82,
+      746,
+      702
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      814,
+      475,
+      875
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "An examination of enriched lysosome preparations demonstrated the presence of $\\mathrm { g p } 7 0$ in lysosomes (Figure 4). Our ",
+    "bbox": [
+      66,
+      876,
+      475,
+      905
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Coomassie blue-stained SDS gel protein profile of enriched lysosomes was similar to that of endosomes, which are closely related to these structures [35]. Although there was no obvious difference in the intensity of the Coomassie blue-stained species at $6 7 \\ \\mathrm { k D a }$ (the position of $\\mathrm { g p } 7 0$ on $10 \\%$ polyacrylamide-SDS gels) between Figure 4, lanes 1 and 2, densitometric analyses of immunoblots revealed a 1.8- to 2.5-fold enrich­ment of $\\mathrm { g p } 7 0$ in lysosomal preparations over lysates from axenic vegetative AX2 (Figure 4; $n = 3$ ). Further analysis of the $6 7 \\mathrm { - k D a }$ species on two-dimensional gels showed that other proteins contributed to the Coomassie blue-stained species at this position on SDS gels of cell homogenates (data not shown). The lysosome prep­arations containing $\\mathrm { g p } 7 0$ had an esterase activity of $0 . 0 1 5 ~ \\mathrm { \\mu m o l / m i n / \\mu g }$ protein $( n = 4 )$ ) at $\\mathrm { p H } 7 . 5$ using $\\mathfrak { a }$ -naphthyl acetate. ",
+    "bbox": [
+      503,
+      814,
+      911,
+      905
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      66,
+      51,
+      575,
+      63
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "339 ",
+    "bbox": [
+      887,
+      50,
+      911,
+      61
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/5a9e1a431b09de220289abdb7445316925fc58335eea553ef51a6ac48f4380e6.jpg",
+    "image_caption": [
+      "Figure 3. The vacuolar $\\mathrm { H } ^ { + }$ -ATPase and $\\mathrm { g p } 7 0$ were recruited to phagosomes. (A) Section of blot containing bead-containing phagosomes isolated after 0- (lane 1), 10- (lane 2), 60- (lane 3), and 300-(lane 4) min chase periods, probed with antibody reactive to the $1 0 0 \\mathrm { - k D a }$ subunit of the vacuolar $\\mathrm { H ^ { + } } .$ -ATPase. Lanes were loaded on an equal protein basis. (B) Densitometric measurements of blot signals showed the concurrent increase in levels of the $1 0 0 \\mathrm { - k D a }$ subunit of the vacuolar $\\mathrm { H ^ { + } } .$ -ATPase (diamonds; mean $\\pm \\mathrm { S E M }$ ; $\\mathtt { n } = 4$ ) and $\\mathrm { g p } 7 0$ (squares; representative experiment) during phagosome maturation, while actin levels (circles; mean $\\pm$ SEM; $n = 3$ ) dimin­ished. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      138,
+      82,
+      393,
+      311
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      458,
+      495,
+      594
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/5b72f4fc5bb33523d3a38f1bdda90ebb7b299418e463d7b2df9abff34509c7fb.jpg",
+    "image_caption": [
+      "Figure 4. Gp70 was in lysosomes. Coomassie blue-stained $7 . 5 \\%$ polyacrylamide-SDS gel (lanes 1 and 2) and corresponding blot (lanes 3 and 4) probed with $\\mathrm { m A b } \\ 2 0 2$ of cell lysate (lanes 1 and 3) and enriched lysosomal fraction (lanes 2 and 4) prepared from midlog, axenically grown AX2. Equal amounts of protein were loaded. Sizes (in kDa) of prestained molecular markers are shown to the left. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      166,
+      621,
+      383,
+      806
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In Vitro Esterase Activity of gp70 ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      80,
+      743,
+      94
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The esterase activity of both solubilized and Con A-purified $\\mathrm { g p } 7 0$ was tested with ${ \\mathfrak { a } } -$ or $\\beta$ -naphthyl sub­strates with different acyl chain lengths (Table 1). Gp70 was active with all the substrates, having the highest activity with $\\mathfrak { a }$ -naphthyl nonanoate. However, the activity of $\\mathrm { g p } 7 0$ became less efficient with increas­ing length of the acyl chain, with a sixfold difference in activity between the $\\mathfrak { a }$ -naphthyl acetate and $\\scriptstyle { \\mathfrak { a } } \\cdot$ - naphthyl stearate substrates. ",
+    "bbox": [
+      522,
+      102,
+      931,
+      223
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The $\\mathrm { p H }$ dependence of the esterase activity of $\\mathrm { g p } 7 0$ was tested with the substrate $\\mathfrak { a }$ -naphthyl acetate. Sol­ubilized $\\mathrm { g p } 7 0$ had an activity of $0 . 7 2 \\pm 0 . 0 3 ~ \\mu \\mathrm { m o l / m i n / \\mu g }$ protein (mean $\\pm$ SD; $n = 9$ ) at $\\mathrm { p H } 7 . 5$ . Its activity increased $1 6 . 7 \\%$ to $0 . 8 4 \\pm$ $0 . 0 5 ~ \\mathrm { \\mu m o l / m i n / \\mu g }$ protein (mean ± SD; $n = 3$ ) at $\\mathrm { p H } ~ 6$ . The esterase activity of $\\mathrm { g p } 7 0$ decreased at very acidic $\\mathrm { ( p H ~ } 3 \\mathrm { ) }$ ) or basic $\\mathrm { ( p H ~ 1 0 ) ~ p H }$ , with optimal activity around $\\mathrm { p H } ~ 6$ (Table 2). This weak pH dependence of enzyme activity would allow $\\mathrm { g p } 7 0$ to remain active in the various endocytic compartments of $D$ . discoideum [36–39]. ",
+    "bbox": [
+      522,
+      224,
+      931,
+      375
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "DTT retarded the mobility of $\\mathrm { g p } 7 0$ on SDS gels (Figure 5), which supports the hypothesis that native $\\mathrm { g p } 7 0$ has one to two internal disulfide bonds [6]. In the presence of DTT, Con A- or immunoaffinity-purified $\\mathrm { g p } 7 0$ (Figures 5A and 5B) migrated to $6 7 \\mathrm { k D a }$ , slightly faster than the BSA of the molecular standards. In the absence of DTT, $\\mathrm { g p } 7 0$ migrated to $5 9 \\ \\mathrm { k D a }$ (on a $10 \\%$ polyacrylamide gel), equal to its calculated molecular mass based on the deduced amino acid sequence [6]. Species a and b (Figure 5A, lane 3) were bound by mAb 202, indicating that they were either breakdown products of $\\mathrm { g p } 7 0$ or incompletely reduced molecules since they had faster mobilities like that of $\\mathrm { g p } 7 0$ in the absence of DTT (Figure 5A, lane 4). Intramolecular disulfide bonds stabi­lize a more compact conformation of a protein, which usually results in a faster migration in a polyacrylamide gel than its reduced form [40]. Both the disulfide bonds and the glycosylation of $\\mathrm { g p } 7 0$ [7] likely contrib uted to the difference between the expected 59-kDa mass calculated from the amino acid sequence and the larger relative mass of $6 7 \\mathrm { k D a }$ measured from the SDS gels. A reductant-dependent shift in the mobility of $\\mathrm { g p } 7 0$ was undetected in an earlier study [7]. ",
+    "bbox": [
+      522,
+      376,
+      931,
+      693
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/ef9732bb78c700d0d8f9d43c64b191be0b099f953b719f76f0caccc5a96bc10e.jpg",
+    "table_caption": [
+      "Table 1 Esterase Activity of Solubilized gp70 with Naphthyl Substrates Having Different Length Acyl Chains "
+    ],
+    "table_footnote": [
+      "a $\\mu \\mathrm { m o l / m i n / \\mu g }$ protein; mean $\\pm$ SD, $n = 3 { \\cdot } 9$ . b Number of carbons. "
+    ],
+    "table_body": "<table><tr><td>Substrate</td><td>Activitya</td></tr><tr><td>α-Naphthyl acetate (2)b</td><td>0.72 ± 0.03</td></tr><tr><td>α-Naphthyl valerate (5)</td><td>0.73 ± 0.03</td></tr><tr><td>α-Naphthyl nonanoate (9)</td><td>1.72 ± 0.02</td></tr><tr><td>α-Naphthyl laurate (12)</td><td>0.51 ± 0.01</td></tr><tr><td>α-Naphthyl myristate (14)</td><td>0.41± 0.03</td></tr><tr><td>α-Naphthyl palmitate (16)</td><td>0.21± 0.02</td></tr><tr><td>α-Naphthyl stearate (18)</td><td>0.12 ± 0.01</td></tr></table>",
+    "bbox": [
+      522,
+      756,
+      933,
+      883
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      111,
+      60
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Yuan & Chia in Experimental Cell Research 261 (2000) ",
+    "bbox": [
+      544,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/9d60deabd819595bd7c62eed09f0af5e7c6ea875011fd3c3cf8d44dbf3667407.jpg",
+    "table_caption": [
+      "Table 2 pH Dependence of Esterase Activity of gp70 Using α-Naphthyl Acetate "
+    ],
+    "table_footnote": [
+      "$\\mathrm { { ' } \\mu m o l / m i n / \\mu g }$ protein; mean $\\pm$ SD, $n = 3 { - } 5$ . "
+    ],
+    "table_body": "<table><tr><td>pH</td><td>Activitya</td></tr><tr><td>3</td><td>0.10± 0.01</td></tr><tr><td>4</td><td>0.22 ± 0.06</td></tr><tr><td>5</td><td>0.57 ± 0.05</td></tr><tr><td>6</td><td>0.84± 0.05</td></tr><tr><td>7.5</td><td>0.72 ± 0.05</td></tr><tr><td>9</td><td>0.30± 0.05</td></tr><tr><td>10</td><td>0.12 ± 0.05</td></tr></table>",
+    "bbox": [
+      65,
+      126,
+      475,
+      255
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The gel mobilities of species d $( 1 2 8 ~ \\mathrm { k D a } )$ and e $2 8 \\ \\mathrm { k D a } )$ in the solubilized $\\mathrm { g p } 7 0$ preparation were unaf­fected by the presence or absence of DTT (Figure 5A, lanes 3 and 4). These polypeptides remained in the unbound fraction after Con A chromatography of the solubilized $\\mathrm { g p } 7 0$ preparation (Figure 5A, lanes 2 and 5) and were inactive in the esterase assay, whereas Con A-purified $\\mathrm { g p } 7 0$ had esterase activity. No other polypeptides were detected in the solubilized $\\mathrm { g p } 7 0$ preparation, as judged by Coomassie blue staining of $1 5 \\%$ polyacrylamide-SDS gels (data not shown). Pre­dictably, DTT (and $\\beta$ -mercaptoethanol; data not shown) inhibited the esterase activity of $\\mathrm { g p } 7 0$ in a dose-dependent manner (Figure 5C), indicating that the integrity of its intramolecular disulfide bond(s) was needed for enzyme activity. Since disulfide-bonded dimers of $\\mathrm { g p } 7 0$ were not observed on SDS gels or immunoblots, the reductants were breaking intramolec­ular disulfide bonds in the protein that were responsi­ble for its altered SDS gel mobility. We conclude from the activity assays and SDS-PAGE analyses that monomeric $\\mathrm { g p } 7 0$ was an esterase. ",
+    "bbox": [
+      66,
+      301,
+      475,
+      588
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Growth and Development Improved by Overexpressed gp70 but Retarded in Its Absence ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      599,
+      459,
+      626
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Before comparing growth and development parame­ters of strains $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ (gp70-minus) and AT-K2 $\\mathrm { \\ g p 7 0 }$ overexpressor) to AX2, we examined the levels of $\\mathrm { g p } 7 0$ in their cells and spores and assayed for secreted $\\mathrm { g p } 7 0$ . Indirect immunofluorescence microscopy of axenically grown, vegetative cells revealed what appeared to be a preferential distribution of esterosomes at the periph­ery of AX2 and AT-K2 (Figures 6B and 6D). There was an average of close to seven esterosomes $( 6 . 6 5 \\pm 3 . 8 1 $ , mean $\\pm \\nobreakspace \\mathrm { S D }$ , $n = 4 0$ ) per optical section from axenic cultures grown to $5 \\times 1 0 ^ { 6 }$ cells/ml in AX2 cells. This increased to nearly 30 esterosomes $( 2 9 . 0 2 \\pm 1 3 . 5 2 $ , mean $\\pm$ SD, $n = 4 0$ ) per optical section in similarly grown AT-K2 cultures (Figure 6D). Esterosomes were not observed in AT- $\\mathrm { \\cdot K _ { n e g } }$ cells (Figure 6F). The observations of stained cells were confirmed and quantified by immunoblotting (Figure 6G). Using immunoaffinity-purified $\\mathrm { g p } 7 0$ as a standard, AT-K2 cells had 4.5-fold more $\\mathrm { g p } 7 0$ than AX2 cells. This was close to the 6.5- fold difference in esterase activity seen in preparations of cytoskel-etons from these strains [7]. The $\\mathrm { g p } 7 0$ content of axenically grown, midlog AX2 cells was estimated to be $0 . 0 6 \\pm$ $0 . 0 1 \\%$ (mean $\\pm$ SD; $n = 4$ ) of the total SDS-extractable protein. Although $\\mathrm { g p } 7 0$ was absent (Figures 6F and 6G), lysates of axenically grown $\\mathrm { A T - K _ { n e g } }$ had $73 \\%$ of the esterase activity (using the substrate $\\alpha$ -naphthyl acetate) measured in AX2 lysates. ",
+    "bbox": [
+      66,
+      633,
+      475,
+      906
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      503,
+      80,
+      911,
+      185
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/273d4dbabcad188e45b76ef0ea71dae2489ecb94c581fa13875a6f70cbb7bd6c.jpg",
+    "image_caption": [
+      "Figure 5. DTT altered the electrophoretic mobility of $\\mathrm { g p } 7 0$ and inhibited its esterase activity. (A) Coomassie blue-stained $10 \\%$ poly­acrylamide-SDS gel of fractions, from Con A chromatography of solubilized $\\mathrm { g p } 7 0$ , in the presence (lanes 1–3) and absence (lanes 4–6) of $4 0 ~ \\mathrm { m M }$ DTT. Lanes 1 and 6, $\\mathfrak { a }$ -methyl mannoside-eluted fraction containing $\\mathrm { g p } 7 0$ (c, subunit of Con A); lanes 2 and 5, unbound fraction (d and e, non-Con A-binding species); lanes 3 and 4, solubi­lized $\\mathrm { g p 7 0 ( g , g p 7 0 ) }$ before exposure to Con A matrix. Species a and b, evident in the solubilized $\\mathrm { g p } 7 0$ fraction, were separated from $\\mathrm { g p } 7 0$ only in the presence of DTT (lane 3). Equal volumes of fractions were loaded. M, prestained molecular markers. (B) Immunoaffinity-puri­fied $\\mathrm { g p } 7 0$ $( 0 . 2 ~ \\mu \\mathrm { g } )$ in the presence (lanes 1 and 2) or absence (lanes 3 and 4) of DTT. Lanes 1 and 3, Coomassie blue-stained $1 5 \\%$ polyac­rylamide-SDS gel lanes; lanes 2 and 4, corresponding lanes from PVDF blot probed with mAb 202. Sizes (in kDa) of prestained mo­lecular markers are shown to the left. (C) The esterase activity (using the substrate $\\mathfrak { a }$ -naphthyl acetate) of solubilized $\\mathrm { g p } 7 0$ was inhibited by DTT (mean $\\pm \\mathrm { { \\ S E M } }$ , $n = 4$ ). The $\\mathbf { X }$ -axis indicates the amount of DTT present in the standard esterase assay using $\\mathfrak { a }$ -naphthyl ace­tate. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      503,
+      229,
+      915,
+      671
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      65,
+      50,
+      575,
+      63
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      887,
+      51,
+      910,
+      60
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/8dd2f3417a693d6b9d106a121b5131673af8258dc19e2116b2bd3e0e4e707078.jpg",
+    "image_caption": [
+      "Figure 6. Immunolocalization of $\\mathrm { g p } 7 0$ in discrete structures found usually at the cell periphery. Cells were labeled with mAb 80 fol­lowed by FITC-goat anti-mouse IgG. (A, B) AX2, (C, D) AT-K2, and (E, F) AT- $\\mathrm { \\cdot K _ { n e g } }$ . A, C, and E, bright-field images of B, D, and F, respectively. $\\mathrm { B a r } = 5 ~ { \\mu \\mathrm { m } }$ . Immunoblots using mAb 202 confirmed $\\mathrm { g p } 7 0$ levels in AX2 and AT-K2 and its absence in AT-$\\mathrm { K _ { n e g } }$ cells (G; equal amounts of protein were loaded) and spores (H; $2 \\times 1 0 ^ { 6 }$ spores per lane). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      88,
+      83,
+      500,
+      625
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The levels of $\\mathrm { g p } 7 0$ in spores of both AX2 and AT-K2 were comparable to the levels in their respective cells (Figure 6H). $\\mathrm { G p } 7 0$ in spores appeared to be concentrated in structures like those seen in vegetative cells (Figure 7A). As with their cells, $\\mathrm { g p } 7 0$ was absent from AT- $\\mathrm { \\mathrm { \\mathrm { K } } } _ { \\mathrm { n e g } }$ spores (Figure 6H). Some recently germinated AX2 cells in axenic culture were also observed to contain esterosomes (Figure 7C). In agreement with previous studies [6, 7], insignificant amounts of $\\mathrm { g p } 7 0$ were secreted from axenically or bacterially grown AX2 and NC4 cultures at densities of $5 \\times 1 0 ^ { 6 } \\mathrm { c e l l s / m l }$ (data not shown). ",
+    "bbox": [
+      86,
+      775,
+      495,
+      897
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      79,
+      931,
+      109
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Comparison by microscopy of axenically grown cells revealed differences in the size of AT- $\\mathrm { \\cdot K _ { n e g } }$ cells com­pared to AX2 (and AT-K2) cells (Figure 8). AT- $\\mathrm { K } _ { \\mathrm { n e g } } ^ { \\mathrm { - } }$ cells in log-phase growth were heterogeneous in size with an average cell volume 1.88-fold greater than AX2 cells. Staining with DAPI showed that the larger $\\mathrm { A T - K _ { n e g } }$ cells also usually contained more nuclei compared to AX2 (Figures 8B and 8D). A small but consistent shift in roughly $3 5 \\%$ of the population toward multinucleated cells was evident when the nuclei of AT- $\\mathrm { \\cdot K _ { n e g } }$ cells were counted, whereas less than $5 \\%$ of AX2 cells were multinucleated (Figure 8E). The large, multinucleated AT- $\\mathrm { \\cdot K _ { n e g } }$ cells were found throughout log-phase growth, which supported the idea that cytokinesis was affected by the absence of $\\mathrm { g p } 7 0$ rather than the nutritional state of the cells. A similar shift of cell populations toward larger numbers of nuclei also has been reported in profilin I/II-minus mutants [41]. Another observed abnormality of axenically grown $\\mathrm { A T - K _ { n e g } }$ cells was the frequency of large cells containing giant vacuoles. In established log-phase cultures, up to $5 \\%$ of the total cells contained the large vesicles while in wild-type AX2 cultures under the same conditions giant vacuoles are rare (1 in $1 0 ^ { 6 } – 1 0 ^ { 8 }$ cells) [42]. ",
+    "bbox": [
+      522,
+      111,
+      933,
+      443
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cultures of AX2, AT-K2, and AT- $\\mathrm { \\Delta K _ { n e g } }$ in liquid media were monitored to determine if the absence and overexpression of $\\mathrm { g p } 7 0$ affected axenic growth (Figure 9A). AT-K2 grew faster, with a generation time (GT) of $1 0 . 8 \\pm 1$ h $( n = 4 )$ ), than AX2 $( \\mathrm { G T } = 1 2 . 2 \\pm 0 . 7 \\ : \\mathrm { h } ; $ $n = 4$ ), and reached a maximum density of approximately $1 . 5 \\times 1 0 ^ { 7 } \\mathrm { c e l l s / m l }$ . AT- $\\mathrm { K _ { n e g } }$ cells, however, under the same conditions and after the same period of time, had a much longer GT of $1 7 \\pm 1 . 3 \\mathrm { h }$ $( n = 4$ , $P = 0 . 0 0 0 7$ , Student’s $t$ test) and reached a maximum density only of approximately $6 \\times 1 0 ^ { 6 } \\mathrm { c e l l s / m l }$ before cell death. ",
+    "bbox": [
+      522,
+      444,
+      931,
+      593
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To determine if the reduced density of $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ was a consequence of impaired pinocytosis, the fluid-phase uptake rates of the three strains were tested using the marker FITC-dextran (Figure 9B). Pinocytosis of $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ cells during a 60- min period was $20 \\%$ less than that of AX2 and AT-K2, which had similar rates. AT- $\\mathrm { K } _ { \\mathrm { n e g } }$ cells that had reached their maximum density $( 6 \\times 1 0 ^ { 6 } \\mathrm { c e l l s / m l } )$ had little to no pinocytosis activity (data not shown), which was likely why these cultures reached stationary phase at a lower density than cultures of AX2 and AT-K2. ",
+    "bbox": [
+      522,
+      594,
+      931,
+      746
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Growth of the strains in bacterial suspensions also was monitored (Figure 10A). AT-K2 grew the fastest, and AT-$\\mathrm { K _ { n e g } }$ doubled more slowly than AX2. After growth in KA suspensions, the average volume of $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ cells was 1.12-fold greater than that of AX2 cells. This was a significant reduction from the 1.88-fold volume dif­ference during axenic growth. Phagocytosis assays of axenically grown AX2, AT-K2, and $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ led that A had only was the a $22 \\%$ more active than AX2, y of AX2 (Figure 10B; $\\mathrm { \\Delta K _ { n e g } }$ $44 \\%$ mean $\\pm \\mathrm { S D }$ , $\\overset { \\smile } { n } = 7 - 8$ ). ",
+    "bbox": [
+      522,
+      747,
+      931,
+      897
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Yuan & Chia in Experimental Cell Research 261 (2000) ",
+    "bbox": [
+      544,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "342 ",
+    "bbox": [
+      86,
+      50,
+      111,
+      61
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/9ae0953eab1cc8d6a368c52d31c0f2c03844fd2eef0586d3b73abe2df788eda7.jpg",
+    "image_caption": [
+      "Figure $7 . { \\mathrm { G p } } 7 0 $ was present in spores and newly geminated AX2 cells. Spores (A, B) and cells (C, D) were labeled with (A, C) or without (B, D) mAb 202 followed by FITC-goat anti-mouse IgG. Bar $= 5 \\mu \\mathrm { m }$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      223,
+      84,
+      751,
+      436
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Growth of colonies of AX2, AT-K2, and AT- $\\mathrm { \\Delta K _ { n e g } }$ on bacterial lawns followed the pattern of suspension cul­tures (Figure 10C). For the first week, the three cell lines had similar expansion rates. By day 8, the lines began to show differences. AX-K2 colonies expanded more quickly than AX2 and AT- $\\mathrm { \\cdot K _ { n e g } }$ lagged behind AX2. ",
+    "bbox": [
+      66,
+      549,
+      475,
+      640
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "AX2, AT-K2, and $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ exhibited differences in their rates of development once aggregates were formed (Table 3). All three strains took roughly $^ { \\textrm { \\scriptsize 8 h } }$ to aggregate. AX2 and AT-K2 both produced mature fruiting bodies by $2 4 \\ \\mathrm { h }$ . However, it took over $3 6 \\mathrm { ~ h ~ }$ for $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ to reach this stage. (Student’s $t$ test, $P = 0 . 0 0 0 1$ ). Another difference that reflected altered de­velopment was the number of fruiting bodies formed per square centimeter at the core of the expanding colony on bacterial lawns. The numbers for AX2, AT-K2, and AT- $\\cdot \\mathrm { K _ { n e g } }$ were $3 4 \\pm 1 1$ , $4 3 \\pm 1 2$ , and $5 \\pm 3$ fruits $/ \\mathrm { c m } ^ { 2 }$ , respectively $\\tilde { ( n \\mathrm { ~ = ~ } 7 ) }$ ). The number of fruiting bodies formed by AT-K2 was moderately higher than that of AX2 (Student’s $t$ test, $\\mathrm { P } = 0 . 1 8 1 8$ ), while this number in $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ cells was significantly lower than that of AX2 (Mann-Whitney test, $P = 0 . 0 0 0 6$ ). In addition to the delayed formation of fruits, starved AT- $\\mathrm { K } _ { \\mathrm { n e g } }$ cells typically formed larger slugs, compared to those of $\\mathrm { \\ A X 2 }$ and AT-K2 (data not shown). ",
+    "bbox": [
+      66,
+      640,
+      475,
+      897
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "DISCUSSION ",
+    "text_level": 1,
+    "bbox": [
+      656,
+      549,
+      756,
+      563
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Function of gp70 during Vegetative Growth ",
+    "text_level": 1,
+    "bbox": [
+      504,
+      584,
+      789,
+      599
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The recruitment of $\\mathrm { g p } 7 0$ to phagosomes (Figures 2 and 3), presence in lysosomes (Figure 4), and esterase activity support a role for $\\mathrm { g p } 7 0$ in the metabolism of endocytosed molecules in growth phase cells. The close prox­imity of esterosomes to the cell membrane (Figures 6B and 6D) may facilitate the fusion of esterosomes with newly formed phagosomes or endosomes or the secre­tion of $\\mathrm { g p } 7 0$ , if it is used for spore coat degradation as suggested [6]. Electron microscopy studies led to the conclusion that crystals (presumably esterosomes) dis­appear after spore germination [4]. However, our anti­bodies detected the presence of $\\mathrm { g p } 7 0$ in spores, newly germinated AX2 cells (Figures 6H and 7), and growth-phase cells (Figures 1, 6B, and 6G), indicating that $\\mathrm { g p } 7 0$ plays a role in axenic cell growth. Also, we detected only very low amounts of $\\mathrm { g p } 7 0$ in culture media of log-phase cells, which argues for an intracellular rather than extracellular role for the enzyme during vegetative growth. ",
+    "bbox": [
+      503,
+      608,
+      911,
+      864
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The assays of solubilized $\\mathrm { g p } 7 0$ and Con A-purified $\\mathrm { g p } 7 0$ established unequivocally the esterase activity ascribed to $\\mathrm { g p } 7 0$ in a previous study [7], and further quantified its substrate range and $\\mathrm { p H }$ dependence in vitro (Tables 1 and 2). $\\mathrm { G p } 7 0$ was active in a pH range from $\\mathrm { p H } ~ 5$ to $\\mathrm { p H } 7 . 5$ , which would permit it to function in both acidic lysosomes [36–38] and neutral postlysosomal compartments [39]. Its catalytic activity, like other lysosomal enzymes in $D$ . discoideum [43], was enhanced at $\\mathrm { p H } 6$ , close to the measured $\\mathrm { p H }$ of $D$ . discoideum lysosomes [36, 38]. Since both phagosomes and pinosomes are acidified by the vacuolar $\\mathrm { H } ^ { + }$ -ATPase (Figure 3) [34, 37, 44–46], the more effective activity of $\\mathrm { g p } 7 0$ at lower pH is consistent with our suggested role of $\\mathrm { g p } 7 0$ in the hydrolysis of endocytosed nutrients. Possibly the lower $\\mathrm { p H }$ also plays a role in the transition of $\\mathrm { g p } 7 0$ from a crystalline state (Figure 1; esterosomes) to a soluble enzyme when fused with phagosomes and pinosomes. ",
+    "bbox": [
+      503,
+      866,
+      911,
+      893
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      66,
+      50,
+      575,
+      63
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "343 ",
+    "bbox": [
+      887,
+      51,
+      911,
+      61
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      80,
+      495,
+      306
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/303b5d83b471dcd3e8a5cab2355f3860523269d68b8b2726d89295bd23065e7f.jpg",
+    "image_caption": [
+      "Figure 8. Absence of $\\mathrm { g p } 7 0$ hindered cytokinesis in axenically grown AT- $\\cdot \\mathrm { K } _ { \\mathrm { n e g } }$ cells. Bright-field images (A, C) and DAPI staining (B, D) showed that AT-$\\mathrm { K } _ { \\mathrm { n e g } }$ cells (C, D) were larger in size and multinucleated than those of AX2 (A, B). Ba ${ \\mathfrak { u } } = 2 0 \\ { \\mu \\mathrm { m } }$ . (E) Number of nuclei per cell of axenically grown AX2 (stippled) and AT- $\\mathrm { \\mathrm { K } } _ { \\mathrm { n e g } }$ (solid). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      325,
+      493,
+      820
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/340adb4829a9636ab71041320ec069a6a51caa066763a139ac17cabdac8c1578.jpg",
+    "image_caption": [
+      "Figure 9. Axenic growth and fluid-phase endocytosis of $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ were reduced compared to AX2 and AT-K2. (A) Cell densities of axenically grown cultures of AX2 (diamonds), AT-K2 (circles), and $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ (squares) were monitored (mean $1 \\pm \\mathrm { S D }$ , $n = 4$ ). (B) Pinocytosis was measured using the fluidphase marker FITC–dextran (mean $\\pm \\mathrm { S D }$ , $n = 5 \\mathrm { - } 7$ ). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      584,
+      87,
+      843,
+      460
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Nonspecific esterase activities have been reported in $D$ . discoideum [47], as were esterase activities that specifically cleave long chain (lauric, myristic, and palmitic) fatty acids from the bioactive, hydrophobic lipid A moiety of lipopolysaccharides (LPS) [48, 49]. Cleavage of another acyl chain, the amide-linked hy-droxymyristic acid of lipid A, requires amidase activity [50, 51], which was not detected with solubilized $\\mathrm { g p } 7 0$ . Extracts from other organisms (the slime mold Physarum polycephalum [52] and protozoan Acanthamoeba [53]) that consume bacteria presumably contain esterases because they are able to deacylate LPS. To our knowledge, except for an acyloxyacyl hydrolase from human neutrophils that deacylates LPS [54], enzymes responsible for metabolizing LPS, particularly the lipid A portion, have not been identified and examined. Be­cause of the interest in how animals respond to and neutralize gram-negative bacteria, future studies will test if LPS is a substrate for $\\mathrm { g p } 7 0$ . However, since the absence of $\\mathrm { g p } 7 0$ had a modest effect on $D$ . discoideum growth on bacteria (Figure 10), other esterases, including the related D2 protein, must be involved in the deacylation LPS in this organism. ",
+    "bbox": [
+      522,
+      579,
+      931,
+      897
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      111,
+      60
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Yuan & Chia in Experimental Cell Research 261 (2000) ",
+    "bbox": [
+      544,
+      51,
+      931,
+      63
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/87d69b4c32d722dec6fe79075ace894af1a534687ffa620577398f2d3587ac93.jpg",
+    "image_caption": [
+      "Figure 10. Bacterial growth and phagocytosis of AT- $\\mathrm { \\cdot K _ { n e g } }$ were re­duced compared to AX2 and AT-K2. (A) Densities of AX2 (diamonds), AT-K2 (circles), and AT- $\\mathrm { \\cdot K _ { n e g } }$ (squares) cultures grown in bacterial suspensions (mean $\\pm \\mathrm { \\ S D }$ , $n$ $= 4$ . (B) Phagocytosis was measured using TRITC-yeast (mean $\\pm \\mathrm { \\ S D }$ , $n = 7 -$ 8). (C) Diameters of colonies grown on KA lawns (mean $\\pm \\mathrm { S D }$ , $n = 4$ ). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      127,
+      88,
+      421,
+      726
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Although AT- $\\mathrm { K } _ { \\mathrm { n e g } }$ $\\mathrm { g p } 7 0$ -minus) cells had measurable esterase activity, $\\mathrm { g p } 7 0$ was important for growth be­cause its absence disrupted cytokinesis, producing large cells (Figure 8), and reduced phagocytic activity, leading to slower growth on bacteria (Figure 10). In con­trast, overexpression of $\\mathrm { g p } 7 0$ in ",
+    "bbox": [
+      66,
+      825,
+      475,
+      900
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "AT-K2 led to modestly superior growth and phagocytic activity (Figures 9 and 10) and may have been due to the presence of low levels of $\\mathrm { g p } 7 0$ acting to deacylate lipid molecules. These types of benign consequences are observed frequently with other overexpression mutants of $D$ . discoideum [55– 57]. Assuming that $\\mathrm { g p } 7 0$ was an active esterase in axenically grown cells, we postulate that its absence delayed the digestion of pinocytosed nutrients or caused harmful compounds to accrue. Consequently, the endosomal network was mildly disrupted, leading to impaired cell division. We attribute the longer dou­bling time of AT- $\\mathrm { \\mathrm { K } } _ { \\mathrm { n e g } }$ cells and their low culture densities (Figure 9A) to irregularities in the endosomal mem­brane network and reduced pinocytosis (Figure 9B). ",
+    "bbox": [
+      503,
+      80,
+      911,
+      276
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Role of gp70 in Development ",
+    "text_level": 1,
+    "bbox": [
+      504,
+      287,
+      694,
+      303
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The absence of $\\mathrm { g p } 7 0$ was expected to affect develop­ment (Table 3), since $\\mathrm { g p } 7 0$ is developmentally regu­lated [6]. The slower development and smaller number of fruiting bodies from $\\mathrm { A T - K } _ { \\mathrm { n e g } }$ on bacterial lawns ex­plain the slower expansion of these colonies, compared to AT-K2 and AX2, that became more pronounced with time (Figure 10C). Also developmentally regulated is the protein D2, presumed to be an esterase, which is found in esterosomes with $\\mathrm { g p } 7 0$ and related to it by $52 \\%$ amino acid sequence identity [6, 58]. When starved, axenically grown antisense mutants of D2 are delayed in streaming and aggregate formation [58]. Since both $\\mathrm { g p } 7 0$ and D2 are expressed during development, the ability of AT- $\\mathrm { \\cdot K _ { n e g } }$ cells to form eventually fruiting bod­ies may be due to the substitute activity of D2. It would be interesting to test if a double knockout of the $\\mathrm { g p } 7 0$ and D2 genes has an additive effect on inhibiting de­velopment. Alternatively, other esterases [47] may compensate for $\\mathrm { g p } 7 0$ , particularly during growth on bacteria when its absence had minimal effects. The idea that there are redundant lysosomal enzymes is supported by the recent report that the absence of the $D$ . discoideum cathepsin D protease has the sole effect of slightly delaying development while other cell activ­ities are normal [59]. ",
+    "bbox": [
+      503,
+      310,
+      911,
+      642
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In conclusion, $\\mathrm { g p } 7 0$ was an active esterase present in digestive/endocytic vesicles of vegetative $D$ . discoideum amoebae. Immunolocalization and biochemical analyses supported a role for $\\mathrm { g p } 7 0$ in the deacylation of fatty acids from lipids such as bacterial LPS. Compar­ative physiology studies of strains that either overexpress or lack $\\mathrm { g p } 7 0$ provided evidence that the enzy­matic activity of $\\mathrm { g p } 7 0$ was needed for normal growth and development. Future studies will examine the mechanism of recruitment of $\\mathrm { g p } 7 0$ to endosomes and regulation of its enzymatic activity. ",
+    "bbox": [
+      503,
+      645,
+      911,
+      734
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_7261492/auto/images/c6456591a8759017d0feebd606093773f71f970962d787556221982d631fd154.jpg",
+    "table_caption": [
+      "Table 3 Time Elapsed for Developmenta "
+    ],
+    "table_footnote": [
+      "a Hours; mean $\\pm$ SD, $n = 7 { - } 1 1$ "
+    ],
+    "table_body": "<table><tr><td></td><td>Aggregates</td><td>Fruiting bodies</td></tr><tr><td>AX2</td><td>7.5 ± 0.5</td><td>23.3 ± 1.5</td></tr><tr><td>AT-K2</td><td>7.9 ± 0.7</td><td>23.7± 1.3</td></tr><tr><td>AT-Kneg</td><td>7.9 ± 0.9</td><td>36.9 ± 2.4</td></tr></table>",
+    "bbox": [
+      501,
+      813,
+      913,
+      886
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      66,
+      51,
+      575,
+      63
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "345 ",
+    "bbox": [
+      887,
+      51,
+      911,
+      61
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      80,
+      495,
+      140
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "We are grateful to Dr. G. Gerisch for the hybridoma cells producing mAb 80 and mAb 202 specific for $\\mathrm { g p } 7 0$ and thank K. W. Lee (School of Biological Sciences, University of Nebraska–Lincoln) for the trans­mission electron microscopy. We also thank Dr. A. Zera for assis­tance with protocols to assay esterase activity and Dr. T. Eithon for assistance with tissue culture protocols. This study was supported by equipment funds from the Research Council, the Center for Biotech­nology, University of Nebraska, and NSF Grant MCB-95133628 to C.P.C. ",
+    "bbox": [
+      86,
+      174,
+      495,
+      273
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      251,
+      300,
+      328,
+      314
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1. Gezelius, K. (1959). The ultrastructure of cells and cellulose membranes in Acrasiae. Exp. Cell Res. 18, 425–453.   \n2. Gezelius, K. (1961). Further studies in the ultrastructure of Acrasiae. Exp. Cell Res. 23, 300–310.   \n3. Maeda, Y., and Takeuchi, I. (1969). Cell differentiation and fine structures in the development of the cellular slime molds. Dev. Growth Differ. (Nagoya) 11, 232–245.   \n4. Cotter, D. A., Miura-Santo, L. Y., and Hohl, H. R. (1969). Ultrastructural changes during germination of Dictyostelium discoideum spores. J. Bacteriol. 100, 1020–1026.   \n5. George, R. P., Hohl, H. R., and Raper, K. B. (1972). Ultrastructural development of stalk-producing cells in Dictyostelium discoideum, a cellular slime mould. J. Gen. Microbiol. 70, 477–489.   \n6. Bomblies, L., Biegelmann, E., Doring, V., Gerisch, G., Krafft-Czepa, H., Noegel, A. A., Schleicher, M., and Humbel, B. M. (1990). Membrane-enclosed crystals in Dictyostelium discoideum cells, consisting of developmentally regulated proteins with sequence similarities to known esterases. J. Cell Biol. 110, 669–679.   \n7. Chia, C. P., Bomblies, L., and Taylor, K. K. (1998). Cytoskeletal association of an esterase in Dictyostelium discoideum. Exp. Cell Res. 244, 340–348.   \n8. Yuan, A., and Chia, C. P. (1999). An esterase from Dictyoste­lium discoideum involved in phagosome processing. In 1999 Dictyostelium International Meeting, College of the Atlantic, Bar Harbor, ME, p. 126.   \n9. Watts, D. J., and Ashworth, J. M. (1970). Growth of myxameobae of the cellular slime mould Dictyostelium discoideum in axenic culture. Biochem. J. 119, 171–174.   \n10. Bomblies, L. (1989). Molekularbiologische charakterisierung eines entwicklungsregulierten. In Den Zeilen Kristallisierenden Proteins von Dictyostelium discoideum, Universität Regensburg, Regensburg, Germany.   \n11. Cox, D., Wessels, D., Soll, D. R., Hartwig, J., and Condeelis, J. (1996). Re-expression of ABP-120 rescues cytoskeletal, motility, and phagocytosis defects of ABP-120-Dictyostelium mutants. Mol. Biol. Cell. 7, 803–823.   \n12. Sussman, M. (1966). Biochemical and genetic methods in the study of cellular slime mold development. Methods Cell Physiol. 2, 397–410.   \n13. Clarke, M., Kayman, S. C., and Riley, K. (1987). Density-dependent induction of discoidin-I synthesis in exponentially growing cells of Dictyostelium discoideum. Differentiation 34, 79–87.   \n14. Fukui, Y., Yumura, S., and Yumura, T. K. (1987). Agar-overlay immunofluorescence: High-resolution studies of cytoskeletal components and their changes during chemotaxis. Methods Cell Biol. 28, 347–356.   \n15. de Hostos, E. L., Rehfuess, C., Bradtke, B., Waddell, D. R., Albrecht, R., Murphy, J., and Gerisch, G. (1993). Dictyostelium mutants lacking the cytoskeletal protein coronin are defective in cytokinesis and cell motility. J. Cell Biol. 120, 163–173.   \n16. Johnson, G. D., Davidson, R. S., McNamee, K. C., Russell, G., Goodwin, D., and Holborow, E. J. (1982). Fading of immunofluorescence during microscopy: A study of the phenomenon and its remedy. J. Immunol. Methods 55, 231–242.   \n17. Cardelli, J. A., Golumbeski, G. S., Woychik, N. A., Ebert, D. L., Mierendorf, R. C., and Dimond, R. L. (1987). Defining the intracellular localization pathways followed by lysosomal en­zymes in Dictyostelium discoideum. Methods Cell Biol. 28, 139–155.   \n18. Yuan, A., and Chia, C. P. (1999). Co-loss of profilin I, II and cofilin with actin from maturing phagosomes in Dictyostelium discoideum. Protoplasma 209, 214–225.   \n19. McRobbie, S. J., and Newell, P. C. (1983). Changes in actin associated with the cytoskeleton following chemotactic stimu­lation of dictyostelium discoideum. Biochem. Biophys. Res. Commun. 115, 351–359.   \n20. Gersten, D. M., and Marchalonis, J. J. (1978). A rapid, novel method for the solid-phase derivatization of IgG antibodies for immune-affinity chromatography. J. Immunol. Methods 24, 305–309.   \n21. Harlow, E., and Lane, D. (1988). “Antibodies: A Laboratory Manual,” Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.   \n22. Minamide, L. S., and Bamburg, J. R. (1990). A filter paper dyebinding assay for quantitative determination of protein without interference from reducing agents or detergents. Anal. Biochem. 190, 66–70.   \n23. Laemmli, U. K. (1970). Cleavage of structural proteins during the assembly of the head of bacteriophage T4. Nature 227, 680–685.   \n24. Towbin, H., Staehelin, T., and Gordon, J. (1979). Electrophoretic transfer of proteins from polyacrylamide gels to nitro­cellulose sheets: Procedure and some applications. Proc. Natl. Acad. Sci. USA 76, 4350–4354.   \n25. Smith, T. J. (1993). Purification of mouse antibodies and Fab fragments. Methods Cell Biol. 37, 75–93.   \n26. Fok, A. K., Clarke, M., Ma, L., and Allen, R. D. (1993). Vacuolar $\\mathrm { H } ( + )$ -ATPase of Dictyostelium discoideum: A monoclonal anti­body study. J. Cell Sci. 106, 1103–1113.   \n27. Maniak, M., Rauchenberger, R., Albrecht, R., Murphy, J., and Gerisch, G. (1995). Coronin involved in phagocytosis: Dynamics of particle-induced relocalization visualized by a green fluorescent protein Tag. Cell 83, 915–924.   \n28. Hed, J. (1986). Methods for distinguishing ingested from adhering particles. Methods Enzymol. 132, 198–204.   \n29. Peracino, B., Borleis, J., Jin, T., Westphal, M., Schwartz, J. M., Wu, L., Bracco, E., Gerisch, G., Devreotes, P., and Bozzaro, S. (1998). G protein beta subunit-null mutants are impaired in phagocytosis and chemotaxis due to inappropriate regulation of the actin cytoskeleton. J. Cell Biol. 141, 1529–1537.   \n30. Vogel, G. (1987). Endocytosis and recognition mechanisms in Dictyostelium discoideum. Methods Cell Biol. 28, 129–137.   \n31. Gu, X., and Zera, A. J. (1994). Developmental profiles and characteristics of hemolymph juvenile hormone esterase, gernal esterase and juvenile hormone binding in the cricket, Gryllus assimilis. Comp. Biochem. Physiol. B 107B, 553–560.   \n32. Blanchard, J. S. (1984). Buffers for enzymes. Methods Enzymol. 104, 404–414.   \n33. Sarath, G., De La Motte, R., and Wagner, F. W. (1990). Protease assay methods. In Proteolytic Enzymes: A Practical Approach (R. J. Beynon and J. S. Bond, Eds.), pp. 25–55, IRL Press, Oxford.   \n34. Rezabek, B. L., Rodriguez-Paris, J. M., Cardelli, J. A., and Chia, C. P. (1997). Phagosomal proteins of Dictyostelium discoideum. J. Eukaryot. Microbiol. 44, 284–292.   \n35. Adessi, C., Chapel, A., Vincon, M., Rabilloud, T., Klein, G., Satre, M., and Garin, J. (1995). Identification of major proteins associated with Dictyostelium discoideum endocytic vesicles. J. Cell Sci. 108, 3331–3337.   \n36. Aubry, L., Klein, G., and Satre, M. (1993). Endolysosomal acidification in Dictyostelium discoideum amoebae: Effects of two endocytosis inhibitors, caffeine and cycloheximide. Eur. J. Cell Biol. 61, 225–228.   \n37. Padh, H., Lavasa, M., and Stock, T. L. (1991). Endosomes are acidified by association with discrete proton-pumping vacuoles in Dictyostelium. J. Biol. Chem. 266, 5514–5520.   \n38. Padh, H., Ha, J., Lavasa, M., and Steck, T. L. (1993). A postlysosomal compartment in Dictyostelium discoideum. J. Biol. Chem. 268, 6742–6747.   \n39. Jenne, N., Rauchenberger, R., Hacker, U., Kast, T., and Maniak, M. (1998). Targeted gene disruption reveals a role for vacuolin B in the late endocytic pathway and exocytosis. J. Cell Sci. 111, 61–70.   \n40. Creighton, T. E. (1993). Proteins: Structures and Molecular Properties, Freeman, New York.   \n41. Haugwitz, M., Noegel, A. A., Karakesisoglou, J., and Schleicher, M. (1994). Dictyostelium amoebae that lack G-actin-sequestering profilins show defects in F-actin content, cytokinesis, and development. Cell 79, 303–314.   \n42. Yuan, A., and Chia, C. P. (2000). Giant vacuoles observed in Dictyostelium discoideum. Cell Biol. Int., in press.   \n43. Cardelli, J. A. (1993). Regulation of lysosomal trafficking and function during growth and development of Dictyostelium discoideum. In Endosomes and Lysosomes: A Dynamic Relationship (B. Storrie and R. F. Murphy, Eds.), Vol. 1, pp. 341–390. JAI Press, Greenwich, CT.   \n44. Temesvari, L. A., Rodriguez-Paris, J. M., Bush, J. M., Zhang, L., and Cardelli, J. A. (1996). Involvement of the vacuolar protontranslocating ATPase in multiple steps of the endolysosomal system and in the contractile vacuole system of Dictyostelium discoideum. J. Cell Sci. 109, 1479–1495.   \n45. Nolta, K. V., Rodriguez-Paris, J. M., and Steck, T. L. (1994). Analysis of successive endocytic compartments isolated from Dictyostelium discoideum by magnetic fractionation. Biochim. Biophys. Acta 1224, 237–246.   \n46. Padh, H., Lavasa, M., and Steck, T. L. (1989). Prelysosomal acidic vacuoles in Dictyostelium discoideum. J. Cell Biol. 108, 865–874.   \n47. Solomon, E. P., Johnson, E. M., and Gregg, J. H. (1964). Multiple forms of enzymes in a cellular slime mold during morphogenesis. Dev. Biol. 9, 314–326.   \n48. Malchow, D., Luderitz, O., Kickhofen, B., Westphal, O., and Gerisch, G. (1969). Polysaccharides in vegetative and aggregation-competent amoebae of Dictyostelium discoideum. 2. Purification and characterization of amoeba-degraded bacterial polysaccharides. Eur. J. Biochem. 7, 239–246.   \n49. Nigam, V. N., Malchow, D., Rietschel, E. T., Luderitz, O., and Westphal, O. (1970). Enzymatic liberation of long-chain fatty acids from bacterial lipopolysaccharides with the aid of extracts from amoebae of Dictyostelium discoideum. Hoppe Seylers Z Physiol. Chem. 351, 1123–1132.   \n50. Rosner, M. R., Verret, R. C., and Khorana, H. G. (1979). The structure of lipopolysaccharide from an Escherichia coli heptose-less mutant. III. Two fatty acyl amidases from Dictyoste­lium discoideum and their action on lipopolysaccharide deriv­atives. J. Biol. Chem. 254, 5926–5933.   \n51. Verret, C. R., Rosner, M. R., and Khorana, H. G. (1982). Fatty acyl amidases from Dictyostelium discoideum that act on lipopolysaccharide and derivatives. I. Partial purification and properties. J. Biol. Chem. 257, 10222–10227.   \n52. Saddler, J. N., Coote, J. G., and Wardlaw, A. C. (1979). Degra dation of bacterial lipopolysaccharide by the slime mould Physarum polycephalum. Can. J. Microbiol. 25, 124–129.   \n53. Drozanski, W., Galanos, C., Schlecht, S., and Luderitz, O. (1986). In vitro deacylation of lipopolysaccharide of Salmonella minnesota by Acanthamoeba castellanii enzymes. Eur. J. Bio­chem. 155, 433–437.   \n54. Hall, C. L., and Munford, R. S. (1983). Enzymatic deacylation of the lipid A moiety of Salmonella typhimurium lipopolysaccharides by human neutrophils. Proc. Natl. Acad. Sci. USA 80, 6671–6675.   \n55. Sellam, O., Veron, M., and Hildebrandt, M. (1995). Overexpression of wild-type and mutant NDP kinase in Dictyostelium discoideum. Mol. Microbiol. 16, 79–85.   \n56. Stoeckelhuber, M., Noegel, A. A., Eckerskorn, C., Kohler, J., Rieger, D., and Schleicher, M. (1996). Structure/function stud­ies on the pH-dependent actin-binding protein hisactophilin in Dictyostelium mutants. J. Cell Sci. 109, 1825–1835.   \n57. Hellstem, S., Dammann, H., Husain, Q., and Mutzel, R. (1997). Overexpression, purification and characterization of Dictyostelium calcineurin A. Res. Microbiol. 148, 335–343.   \n58. Rubino, S., Mann, S. K., Hori, R. T., Pinko, C., and Firtel, R. A. (1989). Molecular analysis of a developmentally regulated gene required for Dictyostelium aggregation. Dev. Biol. 131, 27–36.   \n59. Journet, A., Chapel, A., Jehan, S., Adessi, C., Freeze, H., Klein, G., and Garin, J. (1999). Characterization of Dictyostelium discoideum cathepsin D. J. Cell Sci. 112, 3833–3843. ",
+    "bbox": [
+      84,
+      316,
+      496,
+      922
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      73,
+      931,
+      924
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      111,
+      61
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Yuan & Chia in Experimental Cell Research 261 (2000) ",
+    "bbox": [
+      544,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      65,
+      59,
+      478,
+      909
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      501,
+      68,
+      913,
+      886
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Este rase gp70 and Growth and De ve lopme nt of Dictyostelium d iscoid eum ",
+    "bbox": [
+      66,
+      50,
+      575,
+      63
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "347 ",
+    "bbox": [
+      887,
+      50,
+      911,
+      61
+    ],
+    "page_idx": 12
+  }
+]

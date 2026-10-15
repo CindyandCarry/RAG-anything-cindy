@@ -1,0 +1,1374 @@
+[
+  {
+    "type": "text",
+    "text": "DEPARTMENT OF INFORMATION AND COMMUNICATION TECHNOLOGY",
+    "text_level": 1,
+    "bbox": [
+      258,
+      193,
+      910,
+      210
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "38050 Povo – Trento (Italy), Via Sommarive 14 http://www.dit.unitn.it ",
+    "bbox": [
+      258,
+      224,
+      687,
+      256
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Applying the Tropos Methodology for Analysing Web Services Requirements and Reasoning about Qualities of Services ",
+    "text_level": 1,
+    "bbox": [
+      260,
+      469,
+      818,
+      504
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Marco Aiello and Paolo Giorgini ",
+    "bbox": [
+      262,
+      558,
+      547,
+      574
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "May 2004 ",
+    "bbox": [
+      260,
+      663,
+      352,
+      681
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Technical Report # DIT-04-034 ",
+    "bbox": [
+      262,
+      698,
+      542,
+      717
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "米H",
+    "bbox": [
+      80,
+      74,
+      252,
+      194
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "UNIVERSITY OF TRENTO ",
+    "bbox": [
+      258,
+      130,
+      465,
+      182
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Applying the Tropos Methodology for Analysing Web Services Requirements and Reasoning about Qualities of Services ",
+    "text_level": 1,
+    "bbox": [
+      225,
+      191,
+      800,
+      266
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Marco Aiello and Paolo Giorgini Department of Information and Communication Technology University of Trento - Italy {aiellom,paolo.giorgini}@dit.unitn.it ",
+    "bbox": [
+      252,
+      282,
+      771,
+      349
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "May 7, 2004 ",
+    "bbox": [
+      458,
+      359,
+      564,
+      376
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      403,
+      546,
+      415
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The shift in software engineering from the design, implementation and management of isolated software elements towards a network of autonomous interoperable service is calling for a shift in the way software is designed. We propose the use of the agent-oriented methodology Tropos for the analysis of web service requirements. We shown how the Tropos methodology adapts to the case of web services and in particular how it can be used to model quality of service requirements. We base the investigation on a representative case study in the retailing industry. ",
+    "bbox": [
+      263,
+      420,
+      761,
+      523
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      543,
+      413,
+      562
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The opportunities offered by the growth of the Internet in terms of networking infrastructure, open standards, and reach of users, are focusing research and industrial interests on application areas such as electronic commerce, enterprise resource planning, supply-chain management, and peer-to-peer computing, to name the most prominent ones. This is deeply and irreversibly changing our views on software and, in particular, software engineering. Interoperability and scalability play a fundamental role in the development and management of software as nowadays a piece of software cannot be thought in isolation, but rather, as an element of a network of interacting software elements. Continuous evolution to meet changing and new requirements is becoming an essential feature of software. Software must also operate on different platforms, without recompilation, and with minimal assumptions about its operating environment and its users. As well, software must be robust and autonomous, capable of serving end users with a minimum of overhead and interference. ",
+    "bbox": [
+      221,
+      574,
+      803,
+      771
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Software is thus becoming more and more a service offered to a human user or to another software element rather than an isolated application running on a specific machine for a specific predefined requirement. This is the view of software as a ‘service’ well conceptualized by the service-oriented computing paradigm [18]. The most prominent example of the service-oriented computing paradigm is to be found on the Internet, where the set of standard interfaces for the interaction of software elements is well-known as web services. Web services are a set of standardized interfaces for the description, discovery, invocation, composition, orchestration of independent loosely-coupled software elements residing on the Internet. ",
+    "bbox": [
+      221,
+      774,
+      801,
+      801
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      507,
+      824,
+      515,
+      834
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      148,
+      803,
+      261
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As software is changing, one of the challenges is to find appropriate concepts, tools and technique to design, engineer and manage software. Traditional software engineering methods may prove to be cumbersome or to not capture the full potential of the service-oriented paradigm. Differences between objects and services are, for instance, presented in [1]. In [8], UML is used to design business processes that manage the execution and interaction with various independent web services. Aspect-oriented programming is investigated in [12] for designing web service based electronic utilizes, i.e., distributed applications. But all these approaches lack fundamental features of web services, that is, the autonomy of services, the need to model services at a high level of abstraction in terms of what a web services goal is rather than all its atomic functionalities, and the need for run-time support for changing execution environments. ",
+    "bbox": [
+      221,
+      262,
+      803,
+      432
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Agent-oriented software development methodologies are gaining popularity over traditional software development approaches [13, 9]. After all, agent-based architectures do provide for an open, evolving architecture that can change at run-time to exploit the services of new agents, or replace under-performing ones. In addition, software agents can, in principle, cope with unforeseen circumstances because their architecture includes goals along with a planning capability for meeting them. ",
+    "bbox": [
+      221,
+      433,
+      803,
+      530
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Most often software is thought in terms of its functional behavior, i.e., what the software does. But this does not completely describe the software’s behavior. Non-functional properties, such as for instance the average execution time, are important elements to determine the usability and utility of a software product. With the term Quality of Service ( $\\it Q o S$ , for short), we refer to the non-functional properties of a software service. In the context of web services, QoS is a critical task for a number of reasons: first, autonomous services depend one another for their functioning and they need to be aware of the QoS of the collaborating services; second, services may compete one another and a service requester may decide for a service based on its QoS properties; third, a service provider may offer the same function with differentiated QoS, for instance at different prices, and must therefore publicize the difference qualities of the same function. ",
+    "bbox": [
+      221,
+      532,
+      803,
+      701
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "There is no consensus on what are the qualities that fall in the QoS of a web service. The traditional view inherited from the networking community places only performance and availability in the set of QoS, but other properties are also relevant such as accessibility, integrity, reliability, regulatory, security [16]. Some authors assume that any custom parameter that can be modeled as nonfunctional property of a service may be considered as an element of the QoS [20, 21, 17]. In this paper, we consider a wide spectrum of QoS properties, such as performance, cost, reliability, security, and we introduce a framework that is flexible and open to any user-defined quality as QoS. ",
+    "bbox": [
+      221,
+      703,
+      803,
+      801
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      507,
+      824,
+      517,
+      834
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      149,
+      803,
+      176
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We propose the use of the agent-oriented methodology Tropos [4, 2] for the analysis of web service requirements. We show how this methodology is particularly well suited to reason about quality of service requirements for web services. We present a representative case study and show that a wide range of non-functional properties can be captured by the proposed framework. ",
+    "bbox": [
+      221,
+      178,
+      803,
+      248
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Tropos is based on two key features. First, the notion of agent and related mentalistic notions are used in all software development phases, from the early requirements analysis down to the actual implementation. Second, the methodology emphasizes early requirements analysis, the phase that precedes the prescriptive requirements specification. In this respect, Tropos is quite different from other agent- and object-oriented software development methodologies. ",
+    "bbox": [
+      221,
+      249,
+      801,
+      332
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Paying attention to the activities that precede the specification of prescriptive requirements for the system-to-be [6, 24] means that developers can capture and analyze the goals of stakeholders. These goals play a crucial role in defining the requirements for the new system. Put another way, prescriptive requirements capture the what and the how for the system-to-be. Early requirements, on the other hand, capture the reasons why a software system is developed. This new perspective, in turn, supports a more refined analysis of system dependencies and a more uniform treatment of functional and non-functional requirements. ",
+    "bbox": [
+      221,
+      333,
+      803,
+      460
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The paper is structured as follows. Section 2 introduces the Tropos methodology, where concepts, modeling and analysis techniques are presented trough a representative case study. In Section 3 we propose a goal analysis framework for qualitative and quantitative reasoning about QoS. Section 4 discusses how the framework relates to existing web service standards. Concluding remarks are summarized in Section 5. ",
+    "bbox": [
+      221,
+      460,
+      803,
+      545
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2 Requirements Analysis with Tropos ",
+    "text_level": 1,
+    "bbox": [
+      221,
+      566,
+      690,
+      586
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Tropos rests on the idea of using requirements modeling concepts to build a model of the system-to-be within its operational environment. This model is incrementally refined and extended, providing a common interface to the various software development activities. The model also serves as a basis for documentation and evolution of the software system. ",
+    "bbox": [
+      221,
+      596,
+      803,
+      667
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Requirement analysis represents the initial phase in most software engineering methodologies. Requirements analysis in Tropos consists of two phases: Early Requirements and Late Requirements analysis. Early requirements is concerned with understanding the organizational context within which the systemto-be will eventually function. Late requirements analysis, on the other hand, is concerned with a definition of the functional and non-functional requirements of the system-to-be. ",
+    "bbox": [
+      221,
+      668,
+      803,
+      767
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Tropos adopts the $i ^ { * }$ [24] modeling framework for analyzing requirements. In $i ^ { * }$ (which stands for “distributed intentionality”), stakeholders are represented as (social) actors who depend on each other for goals to be achieved, tasks to be performed, and resources to be furnished. The $i ^ { * }$ framework includes the strategic dependency model (actor diagram in Tropos) for describing the network of inter-dependencies among actors, as well as the strategic rationale model (rationale diagram in Tropos) for describing and supporting the reasoning that each actor goes through concerning its relationships with other actors. These models have been formalized using intentional concepts from Artificial Intelligence, such as goal, belief, ability, and commitment (e.g., [5]). The framework has been presented in detail in [24] and has been related to different application areas, including requirements engineering [22], software processes [23], and business process reengineering [25]. ",
+    "bbox": [
+      221,
+      767,
+      801,
+      795
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      505,
+      825,
+      517,
+      834
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      148,
+      803,
+      305
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "During early requirements analysis, the requirements engineer identifies the domain stakeholders and models them as social actors, who depend on one another for goals to be fulfilled, tasks to be performed, and resources to be furnished. Through these dependencies, one can answer why questions, besides what and how, regarding system functionality. Answers to why questions ultimately link system functionality to stakeholder needs, preferences and objectives. Actor diagrams and rationale diagrams are used in this phase. ",
+    "bbox": [
+      221,
+      306,
+      803,
+      403
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "An actor diagram is a graph involving actors who have strategic dependencies among each other. A dependency represents an “agreement” (called dependum) between two actors: the depender and the dependee. The depender depends on the dependee, to deliver on the dependum. The dependum can be a goal to be fulfilled, a task to be performed, or a resource to be delivered. In addition, the depender may depend on the dependee for a softgoal to be fulfilled. Softgoals represent vaguely defined goals, with no clear-cut criteria for their fulfillment. Graphically, actors are represented as circles; dependums – goals, softgoals, tasks and resources – are respectively represented as ovals, clouds, hexagons and rectangles; and dependencies have the form $d e p e n d e r  d e p e n d u m  d e p e n d e e$ . ",
+    "bbox": [
+      221,
+      404,
+      803,
+      546
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Figure 1 shows the actor diagram for an online retail store example. This example is an extended and revised version of the example introduced in [14]. The diagrams presents the principal stakeholders and their interests. The Customer actor has the goal to buy products and the softgoal to buy at lowest prices. It depends on the Retailer actor for having good services and on the Bank for use bank services. The Retailer actor has the softgoal of maximizing profit and depends on the Bank for the bank services (some of these services can be totally different from those of used by the customer), on the Credit Authority to validate the customers’ ability to pay, and on the Direct Supply Vendor to ship products to the customers. The Direct Supply Vendor depends on the Retailer for products offering and on the Transport Center to ship goods. ",
+    "bbox": [
+      221,
+      547,
+      803,
+      701
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Actor diagrams are extended during early requirements analysis by incrementally adding more specific actor dependencies which come out from a meansends analysis of each goal. This analysis is specified using rationale diagrams. ",
+    "bbox": [
+      221,
+      703,
+      801,
+      744
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A rationale diagram appears as a balloon within which goals of a specific actor are analyzed and dependencies with other actors are established. Goals are decomposed into subgoals and positive/negative contributions of subgoals to goals are specified. ",
+    "bbox": [
+      221,
+      745,
+      801,
+      801
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      507,
+      825,
+      517,
+      834
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/dcf086408a14f92441a0e1f4fd4b159c4fd9bf8aa32e157881af5f35fc3360fe.jpg",
+    "image_caption": [
+      "Figure 1: Actor diagram for the online retail store example "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      317,
+      144,
+      702,
+      393
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Figure 2 shows part of the rationale diagram for Retailer actor. The diagram analyzes to main goal for the retailer: increase return on investment, mainly related to the softgoal maximize profits, and sell products. The goal increase return on investment is AND-decomposed in increase sales volume and increase profit per sale, which are further OR-decomposed. In particular, increase sales volume is decomposed in increase customer appeal and expand market, whereas increase profit per sale is decomposed in increase sale price, lower fix costs, and increase high margin profits. The goal sell products is OR-decomposed in three subgoals which identify three different selling modalities: self serve, auction, and salesperson. Each of these subgoals are further AND-decomposed in subgoals. So for instance, the auction goal is decomposed in cataloging, handle order, and handle request from bidder. In turn these subgoals are further analyzed and decomposed. The diagram shows also contribution links (positive and negative) between goals. For instance, the adoption of the auction selling modality gives a positive contribution to the satisfaction of the goals increase sale price and lower sale price, whereas the modality salesperson gives a negative contribution to lower sale price and a positive contribution to the goal increase customer appeal. ",
+    "bbox": [
+      221,
+      458,
+      803,
+      698
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "During late requirements analysis, the conceptual model developed during early requirements is extended to include the system-to-be as a new actor, along with dependencies between this actor and others in its environment. These dependencies define functional and non-functional requirements for the systemto-be. Actor diagrams and rationale diagrams are used also in this phase. ",
+    "bbox": [
+      221,
+      699,
+      803,
+      769
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Figure 3 shows part of the rationale diagram for the retailer actor. In particular, the diagram focus on the dependencies between the retailer and retailer system actors. Retailer depends on the Retailer System to sell products guaranteeing security, reliability, and performances. ",
+    "bbox": [
+      221,
+      770,
+      800,
+      798
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      505,
+      825,
+      517,
+      834
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/e26438f1f1e7326263a1a2fb1289d7c4c0495a547fb8b407497b05e4e831f946.jpg",
+    "image_caption": [
+      "Figure 2: Rationale diagram for the Retailer actor "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      221,
+      146,
+      836,
+      391
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      456,
+      800,
+      484
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/34dc05483ac1894ed28e4f0689bca068579c74a8138031172493f8eed443350c.jpg",
+    "image_caption": [
+      "Figure 3: Part of the actor diagram focusing on the functional a non-functional requirements the Retailer actor delegates to the Retailer System "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      366,
+      496,
+      655,
+      617
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In Figure 4 shows part of the rationale diagram for the retailer system. Basically, this analysis extends the goal analysis done for Retailer actor. The extension includes the analysis of the services (hexagons) that can be adopted in order to satisfy the Retailer System’s goals and how such services impact on the qualities of the system, namely the softgoals security, reliability, and performances. For sake of simplicity, the diagram reports only some of the possible contribution links between services and qualities. ",
+    "bbox": [
+      221,
+      685,
+      803,
+      785
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      505,
+      825,
+      517,
+      834
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/c1cfd2f2edfb6df1a4b98ed771bfd6de38fd9fa20692c7c3e4b0ad7be06dcdb9.jpg",
+    "image_caption": [
+      "Figure 4: Part of the rationale diagram for the Retailer System. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      225,
+      237,
+      796,
+      668
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      505,
+      824,
+      517,
+      834
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3 Reasoning about Qualities ",
+    "text_level": 1,
+    "bbox": [
+      221,
+      144,
+      576,
+      163
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The adoption of specific web services can have different consequences on the qualities of the software system. In order to reason about these effects, we propose to adapt and use the Tropos goal analysis techniques presented in [10, 19]. ",
+    "bbox": [
+      221,
+      174,
+      803,
+      231
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The analysis starts from the goal models developed in the late requirements phase, and in particular focuses on the models developed for the system we want to develop (the Retailer System in our example). The goal model consists of a set of nodes (goals and services/tasks) and relations over them, including the n-ary relations AND, OR and the binary relations (contribution links) $+ \\mathrm { { a n d } - }$ . These relations have been presented in [10]; here we briefly recall the intuitive meaning. ",
+    "bbox": [
+      221,
+      231,
+      803,
+      330
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "$G _ { 2 } \\ \\longmapsto \\ G _ { 1 }$ [resp. $G _ { 2 } \\stackrel { + + s } { \\longmapsto } G _ { 1 } ]$ means that if $G _ { 2 }$ is satisfied, then there is some [resp. a full] evidence that $G _ { 1 }$ is satisfied, but if $G _ { 2 }$ is denied, then nothing is said about the denial of $G _ { 1 }$ ; $G _ { 2 } \\longmapsto G _ { 1 }$ [resp. $G _ { 2 } \\stackrel { - - s } { \\longmapsto } G _ { 1 } ]$ means that if $G _ { 2 }$ is satisfied, then there is some [resp. a full] evidence that $G _ { 1 }$ is denied, but if $G _ { 2 }$ is denied, then nothing is said about the satisfaction of $G _ { 1 }$ . The meaning of $+ \\ v { D }$ , $- \\boldsymbol { D }$ , $+ + D$ , $-- D$ is dual w.r.t. $+ \\boldsymbol { s }$ , $- \\boldsymbol { S }$ , $+ + s$ , $-- s$ respectively. (By “dual” we mean that we invert satisfiability with deniability.) The relations $^ +$ , $- , + +$ , $--$ are such that each $G _ { 2 } \\longmapsto G _ { 1 }$ is a shorthand for the combination of the two corresponding relationships $G _ { 2 } \\longmapsto G _ { 1 }$ and $G _ { 2 } \\longmapsto G _ { 1 }$ . We call the first kind of relations symmetric and the latter two asymmetric. ",
+    "bbox": [
+      221,
+      331,
+      803,
+      478
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Figure 5 presents part of the goal model for the Retailer actor extended with the analysis concerning the adoption of the adopted services and their impact on the qualities of the system. For sake of simplicity, we have used only symmetric binary relations and we have reported only the analysis regarding privacy quality. The contribution links between services and privacy quality are both qualitative and quantitative, next we present the difference between the two. ",
+    "bbox": [
+      221,
+      480,
+      803,
+      578
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3.1 Qualitative reasoning ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      596,
+      487,
+      612
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Let $G _ { 1 } , G _ { 2 } , . . .$ denote goal labels. We introduce four distinct predicates over goals, $F S ( G )$ , $F D ( G )$ and $P S ( G )$ , $P D ( G )$ , meaning respectively that there is (at least) full evidence that goal $G$ is satisfied and that $G$ is denied, and that there is at least partial evidence that $G$ is satisfied and that $G$ is denied. We also use the proposition $\\top$ to represent the (trivially true) statement that there is at least null evidence that the goal $G$ is satisfied (or denied). Notice that the predicates state that there is at least a given level of evidence, because in a goal graph there may be multiple sources of evidence for the satisfaction/denial of a goal. We introduce a total order $F S ( G ) \\geq P S ( G ) \\geq \\intercal$ and $F D ( G ) \\geq$ $P D ( G ) \\geq \\ T$ , with the intended meaning that $x \\geq y$ if and only if $x  y$ . We call $F S$ , $P S$ , $F D$ and $P D$ the possible values for a goal. ",
+    "bbox": [
+      221,
+      619,
+      803,
+      775
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We want to allow the deduction of positive ground assertions of type $F S ( G )$ ",
+    "bbox": [
+      243,
+      776,
+      800,
+      790
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      505,
+      825,
+      517,
+      834
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/0e745143fdc49485747c61d1d0b1aedf701a3cc8b02253a93ada4c920b493441.jpg",
+    "image_caption": [
+      "Figure 5: Partial goal model used for the reasoning about qualities "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      220,
+      290,
+      845,
+      616
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      505,
+      824,
+      517,
+      834
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$F D ( G )$ , $P S ( G )$ and $P D ( G )$ over the goal constants of a goal graph. We refer to externally provided assertions as initial conditions. To formalize the propagation of satisfiability and deniability evidence through a goal graph, we introduce the axioms described in Figure 6. ",
+    "bbox": [
+      221,
+      148,
+      803,
+      204
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(1) states that full satisfiability and deniability imply partial satisfiability and deniability respectively. For an AND relation, (2–3) show that the full and partial satisfiability of the target node require respectively the full and partial satisfiability of all the source nodes; for a “ $+ s$ ” relation, (4–7) show that only the partial satisfiability (but not the full satisfiability) propagates through a “ $+ s$ ” relation. Thus, an AND relation propagates the minimum satisfiability value (and the maximum deniability one), while a “ $+ s$ ” relation propagates at most a partial satisfiability value. ",
+    "bbox": [
+      221,
+      205,
+      803,
+      318
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "We say that an atomic proposition of the form $F S ( G )$ , $F D ( G )$ , $P S ( G )$ and $P D ( G )$ holds if either it is an initial condition or it can be deduced via modus ponens from the initial conditions and the ground axioms of Figure 6. Notice that all the formulas in our framework are propositional Horn clauses, so that deciding if a ground assertion holds not only is decidable, but also it can be decided in polynomial time. ",
+    "bbox": [
+      221,
+      319,
+      803,
+      403
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Goal ",
+    "text_level": 1,
+    "bbox": [
+      388,
+      429,
+      421,
+      439
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Invariant Axioms ",
+    "text_level": 1,
+    "bbox": [
+      465,
+      429,
+      583,
+      439
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/457f4b474345f4cc3a0aa111b1820783639c42d6f81a506537d8d6a64eb84edc.jpg",
+    "text": "$$\n\\begin{array} { c c } { { { \\bf \\Xi } } } & { { { \\bf \\Xi } } } \\\\ { { { \\bf \\Xi } } } & { { { \\bf G o a l \\ i t i o n } \\qquad { \\bf \\Xi } } } \\\\ { { ( G _ { 1 } , . . . , G _ { i } , . . . G _ { n } ) \\overset { \\mathrm { o n d \\ i f i } } { \\ = } } } & { { \\quad ( \\bigwedge } r S ( G _ { i } ) ) \\to P S ( G ) , \\quad ( \\bigwedge } P S ( G _ { i } ) ) \\to P S ( G )  \\\\ { { \\mathrm { } } } & { { \\quad i \\ } } \\\\ { { \\mathrm { } } } & { { \\quad \\bigwedge } } \\\\ { { \\mathrm { } } } & { { \\quad \\bigwedge } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { G _ { 1 } : \\qquad \\quad } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { G _ { 1 } : \\qquad } } & { { P S ( G _ { 2 } ) \\to P S ( G _ { 1 } ) } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { \\quad  } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { G _ { 1 } : \\qquad } } & { { P S ( G _ { 2 } ) \\to P D ( G _ { 1 } ) } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { \\quad  } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { G _ { 1 } : \\qquad } } & { { F S ( G _ { 2 } ) \\to F S ( G _ { 1 } ) , \\ P S ( G _ { 2 } ) \\to P S ( G _ { 1 } ) } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { \\quad  } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { G _ { 1 } : \\qquad } } & { { F S ( G _ { 2 } ) \\to F D ( G _ { 1 } ) , \\ P S ( G _ { 2 } ) \\to P D ( G _ { 1 } ) } } \\\\ { { G _ { 2 } \\ \\stackrel { \\left. } { \\right. } } } & { { \\quad  } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      265,
+      438,
+      757,
+      589
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Forward propagation. The algorithm and its implementation for this kind of reasoning has been presented in [10]. Given a goal graph, the user assigns some initial values to some goals (typically leaf goals), then these values are forward propagated to all other goals according to the rules above described. As the goal graph may be cyclic, the process stops when a fixpoint is reached. The user then can look the final values of the goals of interest (typically root goals), and reveal possible conflicts. The whole algorithm is linear in time as it requires no form of search. ",
+    "bbox": [
+      221,
+      673,
+      803,
+      787
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For the example in Figure 5, we could, for instance, be interested in finding the effects of adopting a set of services over the top goals (i.e., increase return on investment and sell products) as well as over the privacy softgoal (i.e., Security). So for instance, suppose we decide to use the following services (i.e., assigning FS label to them): eShop service, day definite (by DHL), and PayPall. With this configuration we obtain that Privacy is partially satisfied (PS), sell products is fully satisfied (FS), and increase return on investment is partially denied (PD). Note that we have not said anything about the satisfaction of the subgoals of the goal increase return on investment. Of course, we could suppose that expand the markets and then increase return on investment will be also partially satisfied. However, in this case we will have a conflict, that is, we have evidence both for the satisfaction and the denial of the goal. ",
+    "bbox": [
+      243,
+      787,
+      801,
+      801
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      148,
+      803,
+      305
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Goal satisfiability. The implementation of this type of reasoning has been presented in [19]. In particular, the implemented tool solves the following two problems: (1) find an initial assignment of labels to leaf goals which satisfies a desired final status of root goals by upward value propagation, while respecting some given constraints; and (2) find a minimum cost assignment of labels to leaf goals which satisfies root goals. ",
+    "bbox": [
+      221,
+      312,
+      803,
+      396
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "For our example, we might be interested in finding a set of services (at the minimum cost) that satisfy our top goal sell products and Privacy softgoals. So for instance, suppose we want to fully satisfy sell products and at least partially satisfy Privacy softgoal. The software gives no solution for the fully satisfaction of softgoal Privacy, but it produces several solutions for its partial satisfaction. Fixing the same cost for all services, one of this solution consists of the following services: same day (by DHL), PayPall, and internal email service. ",
+    "bbox": [
+      221,
+      397,
+      803,
+      496
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3.2 Quantitative reasoning ",
+    "text_level": 1,
+    "bbox": [
+      221,
+      514,
+      500,
+      530
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The qualitative approach allows for setting and propagating partial evidence about the satisfiability and deniability of goals and the discovery of conflicts. ",
+    "bbox": [
+      223,
+      538,
+      803,
+      565
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We may want to provide a more fine-grained evaluation of such partial evidence. For instance, when we have $G _ { 2 } \\stackrel { + s } { \\longmapsto } G _ { 1 }$ , from $P S ( G _ { 2 } )$ we can deduce $P S ( G _ { 1 } )$ , whilst one may argue that the satisfiability of $G _ { 1 }$ is in some way less evident than that of $G _ { 2 }$ . For example, in the goal model of Figure 5, the use of the service PayPall may not necessarily imply satisfaction of Privacy softgoal, so it may be reasonable to assume ”less evidence” for the satisfaction of the latter compared to the former. Moreover, the different relations which mean partial support – i.e., $+ s$ , $- \\boldsymbol { S }$ , $+ p$ , $- \\boldsymbol { D }$ – may have different strengths. For instance, in our example the sonic air service may have a bigger impact on Privacy than eShop service. ",
+    "bbox": [
+      221,
+      566,
+      803,
+      709
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To cope with these facts, we need a way for representing different numerical values of partial evidence for satisfiability/deniability and for attributing different weights to the $+ s$ , $- \\boldsymbol { S }$ , $+ \\ v { D }$ , $- \\boldsymbol { D }$ relations. the formal framework to reason with such quantitative information has been presented in [10, 7]. We recall in the following briefly the main features. ",
+    "bbox": [
+      221,
+      711,
+      803,
+      781
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We introduce two real constants $i n f$ and $s u p$ such that $0 \\leq i n f < s u p$ . For each node $G \\in { \\mathfrak { g } }$ we introduce two real variables $S a t ( G ) , D e n ( G )$ ranging in the interval $\\mathcal { D } = _ { d e f } \\ [ i n f , s u p ]$ , representing the current evidence of satisfiability and deniability of the goal $G$ . The intended meaning is that $i n f$ represents no evidence, $s w p$ represents full evidence, and different values in $] i n f , s u p [$ [ represent different levels of partial evidence. ",
+    "bbox": [
+      243,
+      781,
+      801,
+      795
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      502,
+      824,
+      519,
+      834
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      148,
+      803,
+      219
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "To handle the goal relations we introduce two operators $\\otimes , \\oplus : \\mathcal { D } \\times \\mathcal { D } \\longmapsto \\mathcal { D }$ representing respectively the evidence of satisfiability of the conjunction and that of the disjunction [deniability of the disjunction and that of the conjunction] of two goals. $\\otimes$ and $\\bigoplus$ are associative, commutative and monotonic, and such that $x \\otimes y \\leq x , y \\leq x \\oplus y$ ; there is also an implicit unary operator $i n v ( )$ , representing negation, such that $i n f = i n v ( s u p )$ , $s u p = i n v ( i n f )$ , $i n v ( x \\oplus y ) =$ $i n v ( x ) \\otimes i n v ( y )$ and $i n v ( x \\otimes y ) = i n v ( x ) \\oplus i n v ( y )$ . ",
+    "bbox": [
+      221,
+      220,
+      803,
+      319
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "We also attribute to each goal relation $+ s$ , $- \\boldsymbol { S }$ , $+ \\ v { D }$ , $- \\boldsymbol { D }$ a weight $w \\in$ $] i n f , s u p [$ [ stating the strength by which the satisfiability/deniability of the source goal influences the satisfiability/deniability of the target goal. As in the qualitative approach, we use the symmetric relation —such as, $G _ { 2 } \\stackrel { w + } { \\longmapsto } G _ { 1 }$ — as a shorthand for the combination of the two corresponding asymmetric relationships sharing the same weight $w$ —e.g., $G _ { 2 } \\stackrel { w + s } { \\longmapsto } G _ { 1 }$ and $G _ { 2 } \\stackrel { w + p } { \\longmapsto } G _ { 1 }$ . ",
+    "bbox": [
+      221,
+      320,
+      803,
+      409
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "There are a few possible models following the schema described above. In particular, here we adopt a probabilistic model, where the evidence of satisfiability $S a t ( G )$ [resp. deniability $D e n ( G ) ]$ of $G$ is represented as the probability that $G$ is satisfied (respectively denied). As usual, we adopt the simplifying hypothesis that the different sources of evidence are independent. Thus, we fix $i n f = 0$ , $s u p = 1$ , and we define $\\otimes , \\oplus , i n v ( )$ as: ",
+    "bbox": [
+      221,
+      409,
+      803,
+      495
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/995a747dc8b54f60a6815bc19ac7ff754d201c3e03514dc0e6b58066d4dbd18e.jpg",
+    "text": "$$\np _ { 1 } \\otimes p _ { 2 } = _ { d e f } p _ { 1 } \\cdot p _ { 2 } , \\quad p _ { 1 } \\oplus p _ { 2 } = _ { d e f } p _ { 1 } + p _ { 2 } - p _ { 1 } \\cdot p _ { 2 } , \\quad i n v ( p _ { 1 } ) = 1 - p _ { 1 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      250,
+      508,
+      774,
+      521
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "that is, respectively the probability of the conjunction and disjunction of two independent events of probability $p _ { 1 }$ and $p _ { 2 }$ , and that of the negation of the first event. To this end, the propagation rules are those of a Bayesian network, where, e.g., in $G _ { 2 } \\stackrel { w + s } { \\longmapsto } G _ { 1 } \\ w$ has to be interpreted as the conditional probability $P [ G _ { 1 }$ is satisf ied $\\mid G _ { 2 }$ is satisf ied]. ",
+    "bbox": [
+      221,
+      532,
+      803,
+      605
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "As with the qualitative case, we call a value statement an expression of the form ( $v \\geq c$ ), $v \\in \\{ S a t ( G _ { i } ) , D e n ( G _ { i } ) \\}$ for some $G _ { i }$ and $c \\in [ 0 , 1 ]$ , with the intuitive meaning “there is at least evidence $c$ of $v ^ { \\flat }$ . We want to allow the user to state and deduce non-negated value statements of the kind ( $S a t ( G ) \\geq c$ ) and ( $D e n ( G ) \\geq c ,$ over the goal constants of the graph. As before, we call externally provided assertions about the satisfaction/denial of goals initial conditions. ",
+    "bbox": [
+      221,
+      606,
+      803,
+      691
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "To formalize the propagation of satisfiability and deniability evidence values through a goal graph, for every goal and goal relation, we introduce the axioms (8)-(15) in Figure 7. Unlike those of Figure 6, the relation axioms in Figure 7 are not ground Horn clauses —thus, propositional—but rather first-order closed Horn formulas, so that they require a first-order deduction engine. ",
+    "bbox": [
+      221,
+      692,
+      803,
+      762
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "We say that a statement ( $v \\geq c$ ) holds if either it is an initial condition or it can be deduced from the initial conditions and the axioms of Figure 7. ",
+    "bbox": [
+      221,
+      762,
+      801,
+      790
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Axioms ",
+    "text_level": 1,
+    "bbox": [
+      428,
+      161,
+      478,
+      171
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/commerce_manufacturing_0820977/auto/images/6ae118d3f8ea2d10626a16681473e85050ec11c904bfae3a13e97b9f5f7907cc.jpg",
+    "text": "$$\n\\begin{array} { r l } & { \\langle S a u ( G ) \\rangle \\geq x \\wedge S a u ( G ) \\leq y \\rangle - S a u ( G ) \\mathbb { 1 } \\geq \\langle \\alpha \\otimes \\varphi \\mathbb { S } \\rangle } \\\\ & { \\langle D o u ( G ) \\rangle \\geq x \\wedge D o v ( G ) \\mathbb { 1 } \\geq \\varnothing \\gamma - D v ( G ) \\mathbb { 1 } \\geq \\varnothing \\varnothing } \\\\ & { \\langle S a u ( G ) \\geq \\pi \\wedge S a u ( G ) \\xi \\rangle - S a u ( G ) \\mathbb { 1 } \\geq \\varnothing \\varphi \\mathbb { 1 } \\leq \\varnothing \\varphi \\mathbb { 1 } } \\\\ & { \\langle D o u ( G ) \\rangle \\geq x \\wedge D o v ( G ) \\mathbb { 1 } \\leq \\varnothing \\gamma - D v ( G ) \\mathbb { 1 } \\geq \\varnothing \\varnothing } \\\\ & { \\langle S a v ( G ) \\rangle \\geq x - S a v ( G ) \\mathbb { 1 } \\geq \\langle v \\otimes \\varphi \\mathbb { S } \\rangle } \\\\ & { \\langle S a u ( G ) \\rangle \\geq x - D v \\mathbb { 1 } \\langle G \\rangle \\leq \\langle \\alpha \\otimes \\varphi \\rangle } \\\\ & { \\mathcal { S } a v ( G ) \\geq \\pi \\wedge - S a u ( G ) \\mathbb { 1 } \\geq \\varnothing } \\\\ & { \\mathcal { S } a v ( G ) \\geq x - D v \\mathbb { 1 } \\langle G \\rangle \\geq x } \\\\ & { \\mathcal { S } a v ( G ) \\geq x - D e v ( G _ { 1 } ) \\geq x } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq \\varnothing } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq \\langle \\alpha \\otimes \\varphi \\rangle } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq x } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq x } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq x } \\\\ & { D e \\mathfrak { i } ( G _ { 2 } ) \\geq x - S a v ( G _ { 1 } ) \\geq x . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      383,
+      174,
+      749,
+      375
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "We implicitly assume that ( $S a t ( G _ { i } ) ~ \\geq ~ 0 ~ .$ ) and ( $D e n ( G _ { i } ) ~ \\geq ~ 0$ ) hold for every $G _ { i }$ , and that the deduction engine —either human or machine— can semantically evaluate $\\otimes$ and $\\oplus$ and perform deductions deriving from the values of the evaluated terms and the semantics of $\\geq$ . For instance, we assume that, if $( G _ { 2 } , G _ { 3 } ) \\stackrel { a n d } { \\longmapsto } G _ { 1 }$ is in $\\mathcal { R }$ , then $( S a t ( G _ { 1 } ) ~ \\ge ~ 0 . 1 )$ ) can be deduced from $( S a t ( G _ { 2 } ) ~ \\ge ~ 0 . 5 )$ ), $( S a t ( G _ { 3 } ) ~ \\ge ~ 0 . 4 )$ ), as from (8) it is deduced $( S a t ( G _ { 1 } ) \\ge 0 . 5 \\otimes 0 . 4 )$ ), which is evaluated into $S a t ( G _ { 1 } ) \\ge 0 . 2 $ , from which it can be deduced $( S a t ( G _ { 1 } ) \\ge 0 . 1$ ). ",
+    "bbox": [
+      221,
+      445,
+      803,
+      562
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Forward reasoning. As for the qualitative reasoning here the problem is the same with only difference that now we use probability values as initial assignment. The algorithm and its implementation has been presented in [10]. ",
+    "bbox": [
+      221,
+      570,
+      801,
+      611
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Suppose in our example, we want to use the services eShop service, day definite (by DHL), and PayPall (i.e., we assign them 1.0 as initial satisfaction value). As consequence we obtain that Privacy assumes $\\mathrm { S } { = } 0 . 4$ and $\\mathrm { D } { = } 0 . 5$ and sell products $\\mathrm { S } { = } 1 . 0$ , that is we can satisfy our top goal but we cannot say much about Privacy. Note that we have not considered the effects produced by the adopted services on the increase return on investment goal. ",
+    "bbox": [
+      221,
+      612,
+      803,
+      697
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Goal satisfiability. The solution and the tool for the quantitative goal satisfiability problem has been presented in [7]. The tool is based on a commercial optimization tool, Lingo 8.0 1 and is integrated with our goal analysis framework. ",
+    "bbox": [
+      221,
+      704,
+      801,
+      760
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Analogously to the qualitative case, in our example, we might be interested in finding the minimal cost set of services that satisfy totally the top goal sell products (S=1.0) and partially the Privacy softgoals, let’s say for example $\\mathrm { { S } } \\mathrm { { = } } 0 . 7$ . The software produces a set of solutions that satisfy such a request, i.e., a set of services that, if adopted, produce the desiderata results over sell products and Privacy. ",
+    "bbox": [
+      242,
+      762,
+      801,
+      776
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1http://www.lindo.com ",
+    "bbox": [
+      242,
+      785,
+      388,
+      795
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      221,
+      148,
+      803,
+      219
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "4 Quality aware web services ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      241,
+      584,
+      258
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The qualities of the retailer system we have presented so far are performance, reliability and security. These are custom QoS measure for software and, in particular, for services, but are not the only possible ones. Availability, integrity, regulatory conformance are other QoS that may need to be modeled, furthermore, other parameters specific to the application at hand may need modeling. The framework proposed does not commit to any specific quality, but rather gives freedom of choice to the designer. ",
+    "bbox": [
+      221,
+      270,
+      803,
+      369
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "This freedom must be reflected at the service level, in other words, services must be able to describe their qualities and have shared vocabulary of service qualities. Standard service description languages such as WSDL lack the necessary constructs to address this issue. Two approaches are possible: on the one hand, one can extend WSDL with ports for the description of quality properties of the services (such as in [11]); on the other hand, one could complement WSDL interfaces with ancillary documentation for the description of quality of service characteristics of the service. ",
+    "bbox": [
+      221,
+      370,
+      803,
+      483
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "In [17] a symmetric model based on constraint satisfaction techniques is used to verify QoS desires coming from the requester. In [21], a XML based language used for negotiating QoS values among service requester and provider is presented. A semantic web approach in which services are searched based on quality of service attributes semantically tagged is presented in [20]. A predictive QoS model for workflows involving QoS properties is proposed in [3]. In addition, the industry has proposed a number of standards to this end: IBM Web Service Level Agreement (WSLA) and HP’s Web Service Management Language (WSML) are examples of languages used to describe quality metrics of services, [15]. What is missing is a framework to design composition and orchestrations of services with desired global QoS requirements and, dually, to analyze global QoS properties of web service compositions. ",
+    "bbox": [
+      221,
+      484,
+      803,
+      653
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The framework we propose is independent from the choice made on whether one extends WSDL or one uses an extra document for the description of service qualities such as WS-Policy. The only requirement is, naturally, that all the services implement the same infrastructure for service quality description and use a negotiated and agreed ontology for describing the qualities. Let us consider the Privacy quality of the Retailer System example by adapting WS-Policy to our framework. Suppose the PayPall service publishes the following policy: ",
+    "bbox": [
+      221,
+      654,
+      803,
+      744
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "01<wsp:Policy xmlns:wsse=\"...\" xmlns:wsp=\"...\"> 02 <wsp:ExactlyOne> 03 <wsse:SecurityToken wsp:Usage=\"wsp:Required\" wsp:Preference=\"80\"> ",
+    "bbox": [
+      218,
+      755,
+      798,
+      793
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      825,
+      521,
+      834
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "04   \n<wsse:TokenType>wsse:SecureSocketLayerVersion3.1</wsse:TokenType>   \n05 </wsse:SecurityToken>   \n06 <wsse:SecurityToken wsp:Usage $=$ \"wsp:Required\" wsp:Preference \"60\">   \n07   \n<wsse:TokenType>wsse:SecureSocketLayerVersion3.0</wsse:TokenType>   \n08 </wsse:SecurityToken>   \n09 <wsse:SecurityToken wsp:Usage=\"wsp:Required\" wsp:Preference \"10\">   \n10   \n<wsse:TokenType>wsse:SecureSocketLayerVersion2.0</wsse:TokenType>   \n11 </wsse:SecurityToken>   \n12 </wsp:ExactlyOne>   \n13</wsp:Policy> ",
+    "bbox": [
+      220,
+      149,
+      803,
+      318
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "In our framework, this policy would be interpreted as the fact that the PayPall is providing its services with three different qualities, the three SecurityTokens. At least one of these needs to be chosen, line 02. The different quality of service of these is represented by the wsp:Preference attribute on lines 03, 06, 09. This is interpreted as the fact that the first choice (line 04) gives a contribution to Privacy of 0.8, while the second (line 07) of 0.6 and the third (line 10) of 0.1. ",
+    "bbox": [
+      221,
+      327,
+      803,
+      413
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5 Concluding remarks ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      434,
+      502,
+      453
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The shift in software engineering from the design, implementation and management of isolated software elements towards a network of autonomous interoperable service is motivating the investigation of new modeling and design techniques. We have proposed the use of the agent-oriented methodology Tropos for the analysis of web service requirements. We have shown how the Tropos methodology adapts to the case of web services and in particular how it can be used to model quality of service requirements. ",
+    "bbox": [
+      221,
+      464,
+      803,
+      564
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Forward reasoning and goal satisfiability have be proposed to design an architecture meeting given QoS requirements, but also to understand which QoS properties will a system have and how the various services influence the QoS parameters. We have based our investigation on a representative case study and have shown that a wide range of non-functional properties can be captured by the framework we propose. Finally, we have shown how one can adapt existing web service technologies to be included in the proposed framework. ",
+    "bbox": [
+      221,
+      564,
+      803,
+      662
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "A limitation of the proposed approach is that the contribution of the single service to a given element of the quality of service set is independent from those of the other services, that is, the combined effect of different services to the same quality is not captured. Future investigation will be devoted to solving this issue by considering global interaction of quality features. ",
+    "bbox": [
+      221,
+      663,
+      803,
+      733
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgments We would like to thank John Mylopoulos, Mike Papazoglou, and Roberto Sebastiani for useful comments, discussions and feedback. ",
+    "bbox": [
+      221,
+      750,
+      800,
+      779
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      221,
+      144,
+      349,
+      162
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "[1] V. D. Andrea and M. Aiello. Services and objects: Open issues. In G. Piccinelli and S. Weerawarana, editors, European workshop on OO and Web Service, pages 23–29, 2003. IBM Research Report. IBM. Computer Science, (RA 220).   \n[2] P. Bresciani, P. Giorgini, F. Giunchiglia, J. Mylopoulos, and A. Perini. Tropos: An Agent-Oriented Software Development Methodology. Journal of Autonomous Agents and Multi-Agent Systems, 8(3):203–236, May 2004.   \n[3] J. Cardoso, A. Sheth, J. Miller, J. Arnold, and K. Kochut. Quality of service for workflows and web service processes. Journal of Web Semantics, 2004. To appear.   \n[4] J. Castro, M. Kolp, and J. Mylopoulos. Towards Requirements-Driven Information Systems Engineering: The Tropos Project. Information Systems. Elsevier, Amsterdam, the Netherlands, (to appear).   \n[5] P. Cohen and H. Levesque. Intention is choice with commitment. Artificial Intelligence, 32(3):213–261, 1990.   \n[6] A. Dardenne, A. van Lamsweerde, and S. Fickas. Goal-directed requirements acquisition. Science of Computer Programming, 20(1–2):3–50, 1993.   \n[7] S. Fante. Goal-Oriented Requirements Engineering: tecniche Numeriche di Analisi Top-down and Bottom-up. Master’s thesis, Department of Information and communication Technology - University of Trento, 2004.   \n[8] T. Gardner. UML modelling of automated business processes with a mapping to BPEL4WS. In G. Piccinelli and S. Weerawarana, editors, European workshop on OO and Web Service, 2003. IBM Research Report. IBM. Computer Science, (RA 220).   \n[9] P. Giorgini, J. M¨uller, and J. Odell, editors. Agent-Oriented Software Engineering. LNCS 2935. Springer, 2003.   \n[10] P. Giorgini, J. Mylopoulos, E. Nicchiarelli, and R. Sebastiani. Formal reasoning techniques for goal models. Journal on Data Semantics, Springer, 2004.   \n[11] D. Gouscos, M. Kalikakis, and P. Georgiadis. An approach to modeling web service qos and provision price. In 1st Web Services Quality Workshop (WQW2003) at WISE, 2003.   \n[12] B. Hailpern and P. Tarr. Software engineering for web services: A focus on separation of concerns. Technical report, IBM Research Reports, 2001. RC22184 (W0109-054).   \n[13] N. R. Jennings. On agent-based software engineering. Artificial Intelligence, 117(2), 2000.   \n[14] D. Lau and J. Mylopoulos. Designing Web Services with Tropos. In Proceedings of the 2004 IEEE International Conference on Web Services, San Diego, California, USA, July 6-9 2004.   \n[15] H. Ludwig. Web services qos: External slas and internal policies or: How do we deliver what we promise? In 1st Web Services Quality Workshop (WQW2003) at WISE, 2003.   \n[16] A. Mani and A. Nagarajan. Understanding quality of service for web services, 2002. http://www-106.ibm.com/developerworks/library/ ws-quality.html.   \n[17] O. Martn-Daz, A. R. Corts, A. Durn, D. Benavides, and M. Toro. Automating the procurement of web services. In Service-Oriented Computing (ICSOC), pages 91–103. LNCS 2910, Springer, 2003.   \n[18] M. P. Papazoglou and D. Georgakopoulos. Service oriented computing. Communications of the ACM, 46(10), 2003.   \n[19] R. Sebastiani, P. Giorgini, and J. Mylopoulos. Simple and minimum-cost satisfiability for goal models. In Proceedings of the 16th Conference On Advanced Information Systems Engineering (CAiSE\\*04). LNCS, Springer, 2004.   \n[20] M. P. Singh and A. S. Bilgin. A DAML-based repository for qos-aware semantic web service selection. In IEEE International Conference on Web Services (ICWS 2004), 2004.   \n[21] M. Tian, A. Gramm, T. Naumowicz, H. Ritter, and J. Schiller. A concept for qos integration in web services. In 1st Web Services Quality Workshop (WQW2003) at WISE, 2003.   \n[22] E. Yu. Modeling organizations for information systems requirements engineering. In Proc. of the 1st Int. Symposium on Requirements Engineering, RE’93, pages 34–41, San Jose, USA, Jan. 1993.   \n[23] E. Yu. Understanding ’why’ in software process modeling, analysis and design. In Proc. of the 16th Int. Conf. on Software Engineering, ICSE’94, pages 159–168, Sorrento, Italy, May 1994.   \n[24] E. Yu. Modelling Strategic Relationships for Process Reengineering. PhD thesis, University of Toronto, Department of Computer Science, 1995.   \n[25] E. Yu and J. Mylopoulos. Using goals, rules, and methods to support reasoning in business process reengineering. International Journal of Intelligent Systems in Accounting, Finance and Management, 5(1):1–13, 1996. ",
+    "bbox": [
+      228,
+      173,
+      805,
+      804
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "16 ",
+    "bbox": [
+      502,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      220,
+      148,
+      805,
+      751
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "17 ",
+    "bbox": [
+      502,
+      824,
+      521,
+      834
+    ],
+    "page_idx": 18
+  }
+]

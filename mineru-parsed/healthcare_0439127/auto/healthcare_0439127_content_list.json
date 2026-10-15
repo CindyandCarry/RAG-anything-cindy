@@ -1,0 +1,1319 @@
+[
+  {
+    "type": "text",
+    "text": "Using Ontologies to Access Complex Data: Applications on Bio-Imaging ",
+    "text_level": 1,
+    "bbox": [
+      124,
+      266,
+      927,
+      316
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cong Pham, Nada Matta, Alexandre Durupt, Benoit Eynard, Marianne Allanic, Guillaume Ducellier, Marc Joliot, Philippe Boutinaud ",
+    "bbox": [
+      151,
+      321,
+      902,
+      367
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "To cite this version: ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      425,
+      378,
+      444
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cong Pham, Nada Matta, Alexandre Durupt, Benoit Eynard, Marianne Allanic, et al.. Using Ontologies to Access Complex Data: Applications on Bio-Imaging. 4th IFIP International Workshop on Artificial Intelligence for Knowledge Management (AI4KM), Jul 2016, New York, NY, United States. pp.19-35, ff10.1007/978-3-319-92928-6_2ff. ffhal-01950005ff ",
+    "bbox": [
+      129,
+      456,
+      942,
+      520
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL Id: hal-01950005 ",
+    "text_level": 1,
+    "bbox": [
+      364,
+      671,
+      633,
+      690
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://hal.inria.fr/hal-01950005 ",
+    "bbox": [
+      302,
+      697,
+      695,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted on 10 Dec 2018 ",
+    "bbox": [
+      393,
+      727,
+      606,
+      741
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. ",
+    "bbox": [
+      92,
+      802,
+      492,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. ",
+    "bbox": [
+      507,
+      802,
+      907,
+      897
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      457,
+      900,
+      541,
+      931
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Distributed under a Creative Commons Attribution| 4.0 International License ",
+    "bbox": [
+      142,
+      934,
+      840,
+      948
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "? ",
+    "bbox": [
+      117,
+      429,
+      132,
+      441
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL archives-ouvertes.fr ",
+    "bbox": [
+      416,
+      48,
+      630,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Using Ontologies to access complex Data : Applications on Bio-Imaging ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      171,
+      778,
+      204
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Cong Cuong Pham\\*, Nada Matta\\*\\*, Alexandre Durupt\\*, Benoit Eynard\\*, Marianne Allanic\\*\\*\\*\\*, Guillaume Ducellier\\*\\*, Marc Joliot\\*\\*\\*, Philippe Boutinaud\\*\\*\\*\\* ",
+    "bbox": [
+      216,
+      214,
+      781,
+      241
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "\\*Sorbonne University, University of Technology of Compiegne, Department of Mechanical Systems Engineering, UMR CNRS 7337 Roberval, CS 60319, 60203 Compiegne Cedex, France (e-mail: {phamcong, alexandre.durupt, benoit.eynard}@utc.fr). $^ { * * }$ University of Technology of Troyes, 12 Rue Marie Curie, 10010 Troyes, France (e-mail: {nada.matta, guillaume.ducellier}@utt.fr).   \n\\*\\*\\*GIN UMR 5296, CNRS, CEA, Bordeaux University, Case 71,146 rue Léo-Saignat, 33076 Bordeaux Cedex, France (e-mail: marc.joliot@u-bordeaux2.fr). \\*\\*\\*\\*Cadesis, 37 rue Adam Ledoux, 92400 Courbevoie, France (e-mail: {pboutinaud, mallanic}@cadesis.com) ",
+    "bbox": [
+      215,
+      253,
+      784,
+      370
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract: Information Systems, used to share information, lead to the growth of heterogeneous data and then the dependencies between them. Thus, the links and dependencies among heterogeneous and distributed data are more and more complex during daily activities of users (researchers, engineers, etc.). Our contribution is to propose a methodology to facilitate the exploitation (interrogation and sharing) of complex data in an organization. The system, we propose, tends to mix semantic approach with data management. ",
+    "bbox": [
+      255,
+      407,
+      744,
+      498
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Knowledge sharing, Data Management, Bio-Imaging, PLM ",
+    "bbox": [
+      255,
+      533,
+      687,
+      546
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      569,
+      366,
+      586
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Information Systems, used to share information, lead to the growth of heterogeneous data and then the dependencies between them. Thus, the links and dependencies among heterogeneous and distributed data are more and more complex during daily activities of users (researchers, engineers, etc.). The data exploitation (interrogation and sharing) has to be adapted to the context of large data and complex dependencies. To overcome this current inconvenience, more and more research works have investigated and studied the Semantic Web (SW) concepts and techniques to give a cognitive access to information and data. Our contribution is to propose a methodology to facilitate the exploitation (interrogation and sharing) of data in an organization. Techniques to handle heterogeneous and complex data structuring are defined in order to support the dynamic evolution of this type of data. A request system using ontology and semantic mechanism is also developed in order to offer a user friendly data management system. This work is defined for Bio-Imaging domain. ",
+    "bbox": [
+      208,
+      600,
+      791,
+      770
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "adfa, p. 1, 2011. $©$ Springer-Verlag Berlin Heidelberg 2011 ",
+    "bbox": [
+      206,
+      839,
+      440,
+      863
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Related Work ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      175,
+      378,
+      192
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Data access or querying data is the data search process of users to answer a specific question. It is an important function of any information system. From very first development of database technologies, querying data has been a function often dedicated to Information and Technology (IT) experts. Providing non-IT people like end-users with an efficient way to query database, semantic query for instance, was always a challenged topic. In current BMI data management system, some methodologies have been proposed to enable the data access of end-users. ",
+    "bbox": [
+      208,
+      205,
+      791,
+      298
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Riazanov et al, [17] proposed a semantic querying of relational data for clinical intelligence. For the authors, “self-service ad-hoc querying of clinical is problematic as it requires specialized technical skills and the knowledge of particular data schemas”. A semantic querying allows end-users (clinical researchers, surveillance practitioners, health care managers…) to formulate queries in terms of domain ontologies which are more understandable than data schemas. User queries are then transformed to the one on the data sources by using a mapping between ontologies’ terms and data sources. ",
+    "bbox": [
+      208,
+      310,
+      789,
+      416
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "LORIS [3] is a web-based data management system for multi-center studies from data acquisition to processing and dissemination. The main querying function of LORIS is Data Querying Gui (DQG). By using a web-based interface, DQG “allows researchers to design, execute, and save queries in a simple and intuitive manner, without having to write complex SQL queries”. Ping et al. [15] also developed a web-based dataquerying tool using ontology-driven methodology and flowchart-based model. The former was used to formulate the query task through a Protégé plugin, the later executes queries and presents the result through a visual and graphical interface. ",
+    "bbox": [
+      208,
+      429,
+      791,
+      533
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the BIRN [11], BIRN Mediator helps users make easily a query to a collection of data sources (such as relational or XML databases, or web services) by provide them with a single consistent virtual schema while the actual data resides in remote sources under their original schemas. “The mediator maps the sources schemas to the common domain schema, using declarative logical formulas, transparently to the user. The mediator provides the most recent data available, since the user queries are translated into source queries and executed at the sources in real-time”. ",
+    "bbox": [
+      208,
+      546,
+      791,
+      638
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "All these proposed methodologies have been based on the well-known approach called Ontology-Based Data Access (OBDA). This approach uses ontology, the pivot component of the Semantic Web (https://www.w3.org/standards/semanticweb/) to enable the semantic data access of end-users by provide them with a semantic representation of data. In this chapter, we propose to use this techniques in order to support knowledge sharing in Bio-Imaging at Gin Lab. ",
+    "bbox": [
+      206,
+      650,
+      791,
+      730
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3.Knowledge sharing in Bio-Imaging ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      752,
+      557,
+      770
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Several researchers in Bio-Imaging need to share their results and data they use. They manipulate heterogeneous data: human information, brain images, diseases descriptions files. They produce more images, statistics data, diseases and brain descriptions. Information grown very quickly and they need a support that handle data evolving than classic database cannot tackle. ",
+    "bbox": [
+      206,
+      782,
+      789,
+      822
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      208,
+      173,
+      791,
+      199
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Bio-Imaging researchers in GIN lab has been interviewed in order to identify their real needs and their difficulties to share and use information using existing information system during daily activities. Most of scientists have difficulties in data querying and they almost cannot accomplish this task without helps of database technicians. In fact, their data base in very complex; there is a lot of links between data and it is not very easy for them to discover the data base structure in order to understand where a data can be inserted. Otherwise, the data names in the database do not reflect their use. So, when they want to obtain information from data base, they describe their needs, and a technician try to answer them. The problem is on the interaction with database. They need to use incremental requests in order to discover existing data and apply some process on it. Sometimes, they repeat process techniques already done by other researcher; they need to discover their colleague results and use them. Finally, technician cannot update the Database because of its complexity. ",
+    "bbox": [
+      208,
+      214,
+      791,
+      384
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Currently, they extract a copy from data base in Excel files (example Fig 1) and each researcher deal with his excel file. The problem is each one, use specific name of the same data. Results are not shared and used. There is a duplication of the database and its structure. As conclusion, there is no information sharing between researchers due of the complexity and the dynamic updating of database. ",
+    "bbox": [
+      206,
+      397,
+      793,
+      462
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/54bda990101d83a6d22517ddd7eb7cb23bc90d87fbe0bce50ade890f95fc6872.jpg",
+    "image_caption": [
+      "Fig 1. Example of data Excel File "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      476,
+      806,
+      627
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To answer these problems, we propose: ",
+    "bbox": [
+      208,
+      674,
+      473,
+      687
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• To organize data in incremental way, basing on the main object. In the Bio-imaging case, it is the studied person (named as subject). So data identified and produced concerns this subject. ",
+    "bbox": [
+      206,
+      708,
+      791,
+      749
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• To use a database management system that enable easily to manage and update this type of data organization. For instance, in our application, we use Product Life Cycle Management Tool (PLM) in order to handle this type of organization. In fact, structure of data in PLM is organized as the evolution of the product from the idea to the concept and product characteristics. Adding of that, several forms of data can be supported : data, images, text files, etc. We know that different data management systems exists (SQL, NoSQL, etc.) and data organizations (object, relational, etc.) [16]. The PLM system, we used is based on relational data base. We prefer to use a PLM system in which the organization of data correspond to the need of Gin lab bioimaging researchers; keeping data as an evolution of studies around a subject. ",
+    "bbox": [
+      206,
+      760,
+      793,
+      814
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      225,
+      173,
+      791,
+      253
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• To develop a request interface as a support of domain vocabulary and links to database. So, a domain ontology has been defined and a request system has been developed in order to handle knowledge sharing between bio-imaging researchers at Gin-lab. ",
+    "bbox": [
+      208,
+      265,
+      791,
+      317
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/197d778024d31ffc59912b965a800d7b31c184969d0d987e2c980a585fa3bfd8.jpg",
+    "image_caption": [
+      "Fig 2 illustrates the needs of knowledge sharing at Gin-Lab ",
+      "Fig 2. Needs of Bio-Imaging researchers "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      367,
+      781,
+      604
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4. Structuring data ",
+    "text_level": 1,
+    "bbox": [
+      236,
+      650,
+      406,
+      667
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "As mentioned above, complex data will be structured as relations of a main object. In Bio-imaging studies, the subject (person who follows a medical protocol) is central. So data are structured as to subject as follows: ",
+    "bbox": [
+      206,
+      680,
+      791,
+      719
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• subject: number, name, birthdate • exam: investigator, type, tool, protocole, results • process: investigator, type, tool, results, references ",
+    "bbox": [
+      208,
+      728,
+      569,
+      769
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "To support the dynamic evolution of data, PLM TeamCenter tool are used. ",
+    "bbox": [
+      206,
+      790,
+      710,
+      804
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.1. Product Lifecycle Management ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      174,
+      494,
+      187
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Product Lifecycle Management (PLM) systems integrate constantly all the information produced throughout all phases of a product’s lifecycle to everyone in an organization at every level (managerial, technical…) [19]. This type of tools are developed to help product designers and to provide a traceability support of the evolution of n artefact from the requirements to the product use and even recycling (Fig 3). ",
+    "bbox": [
+      208,
+      196,
+      791,
+      274
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We can figure some key advantages of PLM systems [10]: ",
+    "bbox": [
+      206,
+      275,
+      603,
+      288
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "• Establishing an effective PLM system reduces the enormous data resources to a coherent data flow, avoids redundancies and heterogeneities. PLM enables the collaboration through distributed and virtual/extended enterprises (workflow and process management, communication and notifications, secure data exchange...) PLM permits the product structure and its evolution management during different steps and track-performed modifications tracking. PLM is a mature solution to tackle the heterogeneity, growth and complexity of the data and its processing methods as well as some of the traceability and confidentiality issues. ",
+    "bbox": [
+      206,
+      297,
+      793,
+      429
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/2ce18f47424808ab288de504c4aadb3ad149320bca501346a3bdb7a1f86ba73a.jpg",
+    "image_caption": [
+      "Fig 3. PLM Functions. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      272,
+      439,
+      724,
+      687
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "So, PLM system brings together: Products, service, activities, processes, people, skills, data, knowledge, procedures and standards. It provides an efficient solution to handle the complex and heterogeneous data resources and a mature method to track the evolution and modification of these data. ",
+    "bbox": [
+      206,
+      740,
+      791,
+      793
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "However, along with these advantages, it also exists some issues: ",
+    "bbox": [
+      210,
+      794,
+      643,
+      807
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "• Lack of strong stakeholders, ICT tools as well as a common standard between PLM systems causes data integrity problems and limits the access to and sharing of product information and knowledge distributed, Another issue of PLM community is the increasing of need for product lifecycle knowledge capitalization and reuse in order to reduce time and cost.   \n• Database exploitation requires a good understanding of database structure as well as data model especially in the context where the data is heterogeneous and the links and dependencies among data are complex. ",
+    "bbox": [
+      205,
+      173,
+      793,
+      280
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.2. Data Representation in TeamCenter ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      300,
+      529,
+      313
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Fig 4 presents the BMI-LM (Bio Medical Imaging Life cycle Management) data model used in the PLM “TeamCenter 9.1” [1]. By adopting PLM solutions in the context of Bio-Imaging, this PLM-oriented data model covered the whole stages of a BMI study from specifications to publications and enabled the flexibility in data management. ",
+    "bbox": [
+      206,
+      322,
+      791,
+      375
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/451f8efb3973ea331df09a68a285ae1cebe872fd55ef0f435d337dab4b49e5f8.jpg",
+    "image_caption": [
+      "Fig 4. BMI-LM data model implemented in Teamcenter 9.1 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      210,
+      386,
+      788,
+      602
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "BMI-LM contains three types of objects: Result objects (Exam, Acquisition, Data Unit, Processing), Definition objects (Exam, Acquisition, Data Unit, Processing) and Reference objects (Bibliographical, Data). “Definition” concepts have been used in order to enable the reuse of data. For example, all the Processing results computed by using the same Acquisition device and the Processing parameter can be attached to the same corresponding Processing definition. ",
+    "bbox": [
+      206,
+      639,
+      791,
+      719
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The classification (Fig 5) has been built based on the data model. From that, BMI data have been classified into branch, classes and subclasses. The classification allows a specific class to be added to a generic item (object in the data model). In comparing with the data model, the classification and its attributes are easier to modify for user than objects attributes, it is good to fit the model flexibility requirement and also for the appropriation of the database by user [1]. ",
+    "bbox": [
+      206,
+      719,
+      791,
+      799
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/6f7f141037dc51dbdac1629cc9ffad09d32ffeaf5b07194cf64faf732afd6fba.jpg",
+    "image_caption": [
+      "Fig 5. Classification in corresponding with the BMI-LM data model "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      211,
+      174,
+      816,
+      481
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this classification, the nature of data is repeated. In fact, we have images classes as results and as entry data. It is the same for processes, descriptions, etc. The low-level expression of UML schema and the complex relations among classes in the classification also brings difficulties for users in querying the database. To overcome this issue, we build an ontology, which bases on both of data model and classification. This ontology shows logic representation of information in Bio-Imaging and it provides an overview of concepts in the data model and the relationship among them but now represented in a natural language, and therefore it allows end-users to create a query close to his reasoning. ",
+    "bbox": [
+      208,
+      516,
+      791,
+      633
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5. Data access using ontology ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      656,
+      485,
+      673
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The concept « ontology » has been used a long time ago in different communities. In the area of computer sciences, “an ontology is a special kind of information object or computational artifact” [9]. In 1993, Gruber [8] defined an ontology as an “explicit specification of a conceptualization” while four years later Borst [2] defined it as a “formal specification of a shared conceptualization”. This definition implied that the conceptualization should be readable by machine (formal format) and should be expressed a shared view between several parties, that means a consensus rather than an individual view. Merging Gruber’s and Borst’s definitions, Studer [21] stated that: “An ontology as a formal explicit specification of a shared conceptualization” (Erreur ! ",
+    "bbox": [
+      208,
+      687,
+      791,
+      804
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Nous n’avons pas trouvé la source du renvoi.). The use of ontology brings some benefits: ",
+    "bbox": [
+      206,
+      173,
+      793,
+      200
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Support communication and cooperation among systems: Ontology enables interoperability, and integration of heterogeneous data sources. Enable the knowledge sharing and knowledge reuse. Enable content-based access and provide automated services based on machine (the key component of the Semantic Web). ",
+    "bbox": [
+      208,
+      210,
+      791,
+      275
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/d9548f8852d969ff44552d45e50cf4178ab648ec668f2e5553f78bc0db7dbe46.jpg",
+    "image_caption": [
+      "Fig 6. Definition of ontology [21]. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      296,
+      715,
+      413
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Data access using ontology or Ontology-based data access (OBDA) is a new paradigm for data integration and accessing data sources with complex structure [13] It aims to provide end-users with a semantic access to databases by using a three-level architecture [14] containing: ",
+    "bbox": [
+      206,
+      474,
+      791,
+      527
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Conceptual layer (ontology layer),   \n• The data sources,   \n• The mapping between the ontology and the data source. ",
+    "bbox": [
+      206,
+      537,
+      605,
+      577
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The ontology acts as a mediator between user and the data source. Its aims to provide user with a semantic representation of data sources by using a set of concepts in the domain of interest and all relations among them. The data sources are the repositories of data stocked in a relational or non-relational databases. The mapping layer maps the domain concepts to the data sources. ",
+    "bbox": [
+      206,
+      586,
+      791,
+      651
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The queries formulated by users using concepts of ontology are translated to the one on the data sources by using this explicit mapping (Fig 7). ",
+    "bbox": [
+      206,
+      664,
+      791,
+      692
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/d7fec8ce0a53bb41fabc9b3e99d96de683b8e4c2d65c5ba3545f79c1c3ee4f6d.jpg",
+    "image_caption": [
+      "Fig 7. Architecture of OBDA systems "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      248,
+      177,
+      754,
+      293
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This principle are used to define an Ontology Based System in order to support data acces in Bio-Imaging at Gin lab. Before describing the architecture of this system, letus define the used ontology. ",
+    "bbox": [
+      206,
+      340,
+      789,
+      380
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "5.1. Bio-Imaging Ontology definition ",
+    "text_level": 1,
+    "bbox": [
+      236,
+      401,
+      507,
+      416
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "There is a lot of ontology defined in medicine, for instance, in oncology, neurology [6]. But, little work study bio-imaging representation. Gibaud et al, [7] define concepts used in Bio-imaging like: Dataset, Processing, Investigators, Medical Image files, Equipment, subjects, etc. (Fig 8). ",
+    "bbox": [
+      206,
+      423,
+      791,
+      478
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/0c88e6bf368463821a73efed362435aa6373515a3ce399af743a031048d502c3.jpg",
+    "image_caption": [
+      "Fig 8. ontology for Bio-Imaging. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      210,
+      489,
+      803,
+      725
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We adapt this ontology corresponding of the logic use of information in database.   \nInformation belongs to three major categories: Tools, Data, and Process (Fig 9). ",
+    "bbox": [
+      206,
+      760,
+      791,
+      788
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Several relations exist between these concepts like Use, Follow and Provide (Fig 10). ",
+    "bbox": [
+      206,
+      800,
+      788,
+      814
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/40fb3cf83906704d510c4903535f38ea9ab823fe41ab01e66388641be4e25c2c.jpg",
+    "image_caption": [
+      "Fig 9. Conceptual tree of GIN lab ontology "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      218,
+      199,
+      768,
+      400
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/944695f234972f3156293ad41ef33ffac279bdd8f2c081860132b8b271073f22.jpg",
+    "image_caption": [
+      "Fig 10. Conceptual graph of GIN lab ontology "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      230,
+      445,
+      766,
+      657
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5.2. Ontology - Data link ",
+    "text_level": 1,
+    "bbox": [
+      236,
+      703,
+      420,
+      718
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Ontologies’ low-level concepts have to be linked to data in database, or unless respect the variable name of these data. An inference engine can help to build a data request and generate links using the propagation of relations between concepts (Fig 11). ",
+    "bbox": [
+      206,
+      726,
+      793,
+      766
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To generate request on database, relations between concepts and data types are defined. For each concept, several data types are linked. For instance, acquisition protocol is related to different protocols in magnetic-resonance-imaging acquisition process. ",
+    "bbox": [
+      206,
+      778,
+      791,
+      819
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "These links are integrated in XML file as interface between Inference engine and database management tool (the TeamCenter in GIN lab). ",
+    "bbox": [
+      206,
+      173,
+      791,
+      199
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A request system is then developed in order to provide a user friendly data request system. ",
+    "bbox": [
+      208,
+      200,
+      791,
+      227
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/d6636752a5dcabcf9a1ab63b68e4e13cc0f866e83b769edd439ebf665ce1a3b6.jpg",
+    "image_caption": [
+      "Fig 11. Architecture of Knowledge sharing in PLM "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      270,
+      241,
+      744,
+      478
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Links between Ontology and database model. ",
+    "bbox": [
+      208,
+      531,
+      515,
+      544
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5.3. Ontology and classification mapping. ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      579,
+      534,
+      593
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A table of mapping between ontology concepts and classes is required since only classes of the classification of data are connected to data. Using this table of mapping, the query formulated by users with vocabularies of ontology will be translated to the one that is understandable and executable by a Query Processor. ",
+    "bbox": [
+      208,
+      601,
+      791,
+      653
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "One concept can be connected with many classes and vice versa. To simple the mapping, firstly we used some visual and interactive tools (Free-mind - http://freemind.sourceforge.net for instance) to map classes to concepts. The mapping was then transformed into XML and integrated in the query system. F i g 1 2 illustrates the mapping between concept “image-acquisition-protocol” of imaging ontology (Fig 12Erreur ! Nous n’avons pas trouvé la source du renvoi.) and all leaf classes in branch “AcquisitionDefinition-Branch/ Imaging” of the classification of data. ",
+    "bbox": [
+      208,
+      667,
+      789,
+      758
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/5027c51fe6e0c3e70a1c3ec607a8a62578f0dda95887a390452e2f5079c5ac81.jpg",
+    "image_caption": [
+      "Fig 12. Ontology concepts tree and the classification of data mapping. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      211,
+      177,
+      803,
+      592
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "5.4. Ontology based query system ",
+    "text_level": 1,
+    "bbox": [
+      236,
+      649,
+      480,
+      663
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "By using ontology tree and ontology graph, ontology-based graph query interface helps users to make a query more easily. Using the ontology tree and ontology graph, users can understand the relationships among concepts and directly choose query parameters. Users also can choose a query in query history to re-execute, modify or complete it. When a user completes his query, our system does as following: ",
+    "bbox": [
+      208,
+      671,
+      791,
+      737
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1. Identifying nodes links, following relations in ontologies.   \n2. Generating an output query in a format understandable and executable by   \nQuery Processor, XQuery Engine for example.   \n3. Executing the output query on PLM data file (.xml or. json format).   \n4. Results are then visualized as a graph and data in the Interface query. ",
+    "bbox": [
+      236,
+      738,
+      791,
+      809
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "With the support of these graph, user understand relationships among data in the database, he/ she defines the conditions of query according to their purpose. We take here an example of query frequently used by scientists at GIN lab: ",
+    "bbox": [
+      206,
+      173,
+      791,
+      214
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "“Querying about Brain image results from Retin Treatment using Dash protocol corresponding to men less than 45 years old, left handled and passed exam before January 2013” ",
+    "bbox": [
+      206,
+      229,
+      789,
+      268
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "If a researcher tries to define a SQL query using PLM related to this question, without using ontology. He/she has to know relations between Study Subject, Exam results, Processing definition and Processing Results data in PLM Database. First, the name of objects in data base are more computer driven called and he has to follow all links in order to identify the ones corresponding to his query which can then be: ",
+    "bbox": [
+      206,
+      277,
+      791,
+      343
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Select Image Results from Processing Results Where Processing Protoc $o l = \\mathrm { ~ } ^ { \\prime \\prime } D a s h ^ { \\prime \\prime }$ and Processing Treatment $=$ “Retin” and from Acquisition Result where Acquisition Date $<$ “January 2013”and from Study Subject where Study Subject Gender $\\cdot = \\ \" m e n \\ \"$ , Study Subject Handless $\\mathbf { \\Sigma } = \\mathbf { \\Sigma } ^ { \\cdots } L$ eft handled” Study Subject $A g e < \" 4 5 \"$ . ",
+    "bbox": [
+      206,
+      359,
+      791,
+      413
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Using Ontology Interface (Fig 13), she/he can select start by select the concept “Subject”, as for concept parameters, selects “gender” and “Age”, writes her/his choice (Men and ${ < } 4 5$ years old). Then she/he selects the concept “Protocol”, writes the choice $\\left( = \\right.$ “Dash”), selects the concept “Treatment Process”, choice $\\left[ = \\right.$ “Retin”), and “Treatment results” $( \\mathrm { F i l e } ~ = ~ \\mathrm { ^ { \\sc ~ ( \\cdot } I m a g e ^ { \\circ ^ { \\prime \\prime } } } )$ , she/he selects concept “Acquisition result” (Acquisition psychology laterality handless $=$ “Left handled”) and (Date of Acquisition $<$ “January 2015). ",
+    "bbox": [
+      206,
+      419,
+      791,
+      512
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/dd9189b7ccd5c80b76769739b3703409b5dae0c07ff73392e160c850f8efecd4.jpg",
+    "image_caption": [
+      "Fig 13. Ontology-based graph query interface "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      533,
+      778,
+      743
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The inference engine identifies relations between Subject, Acquisition and Process: ",
+    "bbox": [
+      208,
+      782,
+      768,
+      796
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "• Acquisition “Use” Source • Protocol “Use” Acquisition • Treatment “Follow” Protocol • Treatment “generate” Treatment Result ",
+    "bbox": [
+      208,
+      806,
+      403,
+      819
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      173,
+      495,
+      215
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "By subsuming, relations are inherited so, the result of the inference engine will be: ",
+    "bbox": [
+      206,
+      222,
+      763,
+      236
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Treatment-Result-Type $\\left( = \\right.$ Image) “Follows” Protocol-Name $^ { \\prime } =$ Dash) and Protocol-Treatment $\\ell =$ Retin) “Uses” Acquisition-Laterality-Handless-result $\\mathit { \\check { \\Psi } } = \\mathit { \\Psi }$ Left handled) “Uses” Subject-Gender ( $\\mathit { \\check { \\Psi } } = \\mathit { \\Psi }$ Men) and “Uses” Subject-Age (<45). ",
+    "bbox": [
+      208,
+      239,
+      791,
+      279
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "This result query description is then transformed on a TCquery that considers PLM database as a XML file, the output query is transformed to xQuery in order to extract data from that file: ",
+    "bbox": [
+      208,
+      286,
+      791,
+      325
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "declare function local:getQueryObject(){ let \\$query : $=$ <query query_name $^ { \\prime = }$ 'Item... 7 <param name $=$ 'Type' value $^ { \\prime = }$ 'ProcessRes'/> </query> return Teamcenter:Query(\\$teamcenter, \\$query)   \n};   \nlet \\$processingResults : $\\cdot =$ local:getQueryObject()   \nfor \\$processingResult in \\$processingResults   \nreturn if(fn:count(\\$processingResult[(@protocol = \"Dash\") and (@treatment $=$   \n\"Retin\")]/F_GIN4_rel_Acquisition/GIN4 _Acquisition[@laterality_handless $=$ “Left   \nhandled” ]/B_ GIN4_rel_ExamenRes/GIN4_ExamRes[@examDate $< = ~ \" 0 I$ January   \n2013\"]/B_GIN4_rel_ExamRes/GIN4_StudySub [(@ gin4_sex $=$ \"M\") and   \n(@gin4_databirth $> = \" { I 9 7 0 \" ) } { \\jmath } ) > 0 )$   \nthen (processingResult)   \nelse () ",
+    "bbox": [
+      205,
+      337,
+      794,
+      544
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The results of the query will be then returned and represented in a graph or a table in the same query interface. Users can visualize data to understand the relationships among them or to find hidden information and inferred knowledge. Fig 14 presents an extract of results represented in a graph. ",
+    "bbox": [
+      206,
+      557,
+      791,
+      609
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0439127/auto/images/d03dc51694125528731bea1fdf30f48d73f1213bc0fbc19767d045119be0369e.jpg",
+    "image_caption": [
+      "Fig 14. Graphical representation of results. Click on a node to highlight all related nodes. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      172,
+      779,
+      508
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "6.CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      236,
+      564,
+      393,
+      581
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "In this complex and heterogeneous data management problem is studied; How to search data without knowing the data structure, how to discover data defined by actors in an organization, how to share knowledge and data in friendly way. A general approach for ontological model construction and an ontology-base query interface is presented as a solution to tackle the difficulties in querying complex database. Data will be organized around objects. For that, specific data organization systems can be used as PLM. PLM help to organize data as the evolution description of product parts. an architecture and request system are developed in order to build links between data management and semantic system. A use case in Bio-Imaging domain has been also used to illustrate the abilities of our proposed interface. ",
+    "bbox": [
+      208,
+      595,
+      791,
+      726
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "As future work we will focus on the test of proposed query interface with various queries sets (in Bio-Imaging domain) and engineering design (in PLM). The ontology tree and ontology graph must be also developed to cover all concepts in Bio-Imaging domain. Ontology will be implemented in semantic web language (RDF, SPARQL) in order to use inference engine for information search. We propose to generate an alert system when new data are added with semantic annotation of these data in order to show the reason of their creation. ",
+    "bbox": [
+      206,
+      739,
+      789,
+      804
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      173,
+      791,
+      200
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgments. The work presented in the paper is conducted within the ANR (Agence Nationale de la Recherche) founded project BIOMIST. ",
+    "bbox": [
+      206,
+      214,
+      789,
+      240
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "7.REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      238,
+      262,
+      393,
+      279
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "1. Allanic, M., Durupt, A., Joliot, M., Eynard, B., Boutinaud, P.: Application of PLM for Bio-Medical Imaging in Neuroscience. Product Lifecycle Management for Society. pp. 520–529. Springer (2013).   \n2. Borst, Willem Nico. 1997. “Construction of Engineering Ontologies for Knowledge Sharing and Reuse.” Universiteit Twente. http://doc.utwente.nl/17864/.   \n3. Das, Samir, Alex P. Zijdenbos, Dario Vins, Jonathan Harlap, and Alan C. Evans. 2012. “LORIS: A Web-Based Data Management System for Multi-Center Studies.” Frontiers in Neuroinformatics 5: 37. doi:10.3389/fninf.2011.00037.   \n4. Davies, J., Duke, A., Technologies, B., Park, A., Ip, I.: OntoShare ntoShareaahahake, A., Technologies, B., Pa13.   \n5. Fensel D., van Harmelen F., HorrocksI., McGuinness D.L., Patel-Schneider P.F., OIL: An ontology infrastructure for the semantic web. IEEE Intelligent Systems, 16 (2):38-45, 2001   \n6. Gibaud B., Forestier G., Benoit-Cattin H., Cervenansky F., Clarysse P., Friboulet D., Gaignard A., Hugonnard P., Lartizien C., Liebgott H., Montagnat J., Tabary J., Glatard T.: OntoVIP: An ontology for the annotation of object models used for medical image simulation, Journal of Biomedical Informatics (JBI), Elsevier, 2014, eISSN 1532-0480.   \n7. Gibaud, B., Kassel, G., Dojat, M., Batrancourt, B., Michel, F., Gaignard, A., & Montagnat, J.). NeuroLOG: sharing neuroimaging data using an ontologybased federated approach. In AMIA Annual Symposium Proceedings of American Medical Informatics Association (Vol. 2011, p. 472)., 2011.   \n8. Gruber, Thomas R. 1993. “A Translation Approach to Portable Ontology Specifications.” Knowledge Acquisition - Special Issue: Current Issues in Knowledge Modeling 5 (2): 199–220. doi:10.1006/knac.1993.1008.   \n9. Guarino, Nicola, Daniel Oberle, and Steffen Staab. 2009. “What Is an Ontology?” In Handbook on Ontologies, edited by Steffen Staab and Rudi Studer, 1–17. International Handbooks on Information Systems. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-92673- 3_0.   \n10.Eynard, B., Gallet, T., Nowak, P., & Roucoules, L. (2004). UML based specifications of PDM product structure and workflow. Computers in Industry, 55(3), 301–316. 11.Helmer, Karl G., Jose Luis Ambite, Joseph Ames, Rachana Ananthakrishnan, Gully Burns, Ann L. Chervenak, Ian Foster, et al. 2011. “Enabling Collaborative Research Using the Biomedical Informatics Research Network (BIRN).” Journal of the American Medical Informatics Association 18 (4): 416–22. doi:10.1136/amiajnl-2010-000032.   \n12.Hendriks, P. (1999). Why share knowledge? The influence of ICT on the motivation for knowledge sharing. Knowledge and Process Management, 6(2), 91–100.   \n13.Khamis, Khamis Abdul-latif, Zhong Luo, and H. Z. Song. 2014. “Modified Query-Roles Based Access Control Model (Q-RBAC) for Interactive Access of Ontology Data.” Journal of Information Engineering and Applications 4 (7): 82–91.   \n14.Lenzerini, Maurizio. 2011. “Ontology-Based Data Management.” In Proceedings of the 20th ACM International Conference on Information and Knowledge Management, 5–6. CIKM ’11. New York, NY, USA: ACM. doi:10.1145/2063576.2063582.   \n15.Ping, Xiao-Ou, Yufang Chung, Yi-Ju Tseng, Ja-Der Liang, Pei-Ming Yang, Guan-Tarn Huang, and Feipei Lai. 2013. “A Web-Based Data-Querying Tool Based on Ontology-Driven Methodology and Flowchart-Based Model.” JMIR Medical Informatics 1 (1): e2. doi:10.2196/medinform.2519.   \n16.Ramakrishnan, R., & Gehrke, J. (2000). Database management systems. Osborne/McGraw-Hill.   \n17.Riazanov, Alexandre, Artjom Klein, Arash Shaban-Nejad, Gregory W Rose, Alan J Forster, David L Buckeridge, and Christopher JO Baker. 2013. “Semantic Querying of Relational Data for Clinical Intelligence: A Semantic Web Services-Based Approach.” Journal of Biomedical Semantics 4 (March): 9. doi:10.1186/2041-1480-4-9.   \n18.Sato, H., Otomo, K., & Masuo, T. (2002). A knowledge sharing system using XML Linking Language and peer-to-peer technology. IEEE Xplore, 26– 27.   \n19.Sudarsan, R., Fenves, S. J., Sriram, R. D., & Wang, F. (2005). A product information modeling framework for product lifecycle management. Computer-Aided Design, 37(13), 1399–1411.   \n20.Small, C.T., Sage, A.P.: Knowledge management and knowledge sharing: A review. Inf. Knowl. Syst. Manag. 5, 153–169 (2006).   \n21.Studer, Rudi, V.Richard Benjamins, and Dieter Fensel. 1998. “Knowledge Engineering: Principles and Methods.” Data & Knowledge Engineering 25 (1– 2): 161–197. doi:10.1016/S0169-023X(97)00056-6.   \n22.Yoo, D., & No, S. (2014). Ontology-based economics knowledge sharing system. Expert Systems with Applications, 41(4), 1331–1341.   \n23.Zhang, J., Liu, Y., & Xiao, Y. (2008). Internet Knowledge-Sharing System Based on Object-Oriented. IEEE Xplore, 1, 239–243. ",
+    "bbox": [
+      205,
+      290,
+      793,
+      822
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      205,
+      171,
+      791,
+      808
+    ],
+    "page_idx": 17
+  }
+]

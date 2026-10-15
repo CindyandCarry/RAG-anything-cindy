@@ -1,0 +1,1297 @@
+[
+  {
+    "type": "text",
+    "text": "Real-World Market ",
+    "text_level": 1,
+    "bbox": [
+      241,
+      60,
+      766,
+      222
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Representation with Agents ",
+    "bbox": [
+      150,
+      232,
+      848,
+      400
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Modeling the Electricity Market as a Complex Adaptive System with an Agent-Based Approach ",
+    "text_level": 1,
+    "bbox": [
+      168,
+      700,
+      828,
+      763
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "© CORBIS CORP. ",
+    "bbox": [
+      813,
+      768,
+      883,
+      780
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "by Vladimir S. Koritarov ",
+    "text_level": 1,
+    "bbox": [
+      111,
+      806,
+      316,
+      857
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "THE ELECTRIC POWER INDUSTRY AROUND THE WORLD IS undergoing an extensive restructuring process. In many countries the traditional vertically integrated power utilities are being unbundled and replaced with a number of separate business entities dealing with the generation, transmission, and distribution of electric power. One of the most significant features of the restructuring process is the introduction of electricity markets, aimed at providing competitive electricity service to consumers. As power markets are relatively new and still continue to evolve, there is a growing need for advanced modeling approaches that simulate the behavior of electricity markets over time and how market participants may act and react to the changing economic, financial, and regulatory environments in which they operate. A new and rather promising approach is to model the electricity market as a complex adaptive system using an agent-based modeling and simulation approach. ",
+    "bbox": [
+      418,
+      803,
+      885,
+      926
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "IEEE power & energy magazine 39 ",
+    "bbox": [
+      694,
+      939,
+      964,
+      958
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1540-7977/04/\\$20.00©2004 IEEE ",
+    "bbox": [
+      351,
+      943,
+      537,
+      954
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      111,
+      943,
+      207,
+      957
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/91d658f3da35afd6cdef690c1ec2cee7119ae915bc1019765ab6fa1029d34765.jpg",
+    "image_caption": [
+      "figure 1. Electricity market agents. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      93,
+      584,
+      337
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      382,
+      488,
+      488
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Agent-Based Modeling and Simulation ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      501,
+      454,
+      518
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The complex interactions and interdependencies among participants in today’s competitive, decentralized electricity markets are similar to those studied in game theory. However, the nature of the power market is too complex (e.g., repeated auctions, fluctuating supply and demand, non-storability of electricity, etc.) to be conveniently modeled by standard game theory techniques. In particular, the ability of market participants to repeatedly probe markets and adapt their strategies adds complexity that is difficult to represent with conventional techniques. Computational social science offers appealing extensions to traditional game theory. ",
+    "bbox": [
+      112,
+      520,
+      488,
+      684
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/ee1c96495aedd0816a9bfc3425e8d87a13b9a13fdd3c36acf2eb9dd36913ddfa.jpg",
+    "image_caption": [
+      "figure 2. Agent learning process. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      694,
+      524,
+      906
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "One technique of computational social science involves the use of agent-based modeling and simulation (ABMS) to study complex social systems. ABMS consists of a set of agents and a framework for simulating their decisions and interactions. ABMS is related to a variety of other simulation techniques, including discrete event simulation and distributed artificial intelligence or multiagent systems. Although many traits are shared, ABMS is differentiated from these approaches by its focus on finding the set of basic decision rules and behavioral interactions that can produce the complex results experienced in the real world. ABMS tools are designed to simulate the interactions of individuals and study the macro-scale consequences of these interactions. Each entity in the system under investigation is represented by an agent in the model. An agent is thus a software representation of a decision-making unit. Agents are self-directed objects with specific traits. They typically exhibit bounded rationality; that is, they make decisions by using internal decision rules that depend on imperfect local information. In practice, each agent has only partial knowledge of other agents and each agent makes its own decisions based on the partial knowledge of the system. ",
+    "bbox": [
+      604,
+      94,
+      883,
+      381
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      506,
+      382,
+      883,
+      502
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The purpose of an ABMS model is not necessarily to predict the outcome of a system, rather it is to reveal and understand the complex and aggregate system behaviors that emerge from the interactions of the heterogeneous individual entities. Emergent behavior is a key feature of ABMS and is not easily inferred from the simple sum of the behavior of its components. ",
+    "bbox": [
+      508,
+      503,
+      883,
+      593
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "EMCAS Approach ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      608,
+      665,
+      625
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The ability of ABMS to capture the independent decisionmaking behavior and interactions of individual agents in a common framework provides a very good platform for the modeling and simulation of electricity markets. Unlike conventional electric systems analysis tools, the Electricity Market Complex Adaptive System (EMCAS) model, developed by Argonne National Laboratory, does not postulate a single decision maker with a single objective for the entire system. Rather, agents in the simulation are allowed to establish their own objectives and apply their own decision rules. This approach allows agents to learn from their previous experiences and change their behavior as future opportunities arise. That is, as the simulation progresses, agents can adapt their strategies on the basis of the success or failure of previous efforts. This approach is especially suited to analyze electricity markets with many participants, each with their own objectives. It allows testing of regulatory structures before they are applied to real systems. ",
+    "bbox": [
+      506,
+      626,
+      883,
+      684
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      540,
+      685,
+      883,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "40 IEEE power & energy magazine ",
+    "bbox": [
+      32,
+      938,
+      299,
+      958
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      789,
+      944,
+      882,
+      955
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The modeling framework can be described in terms of three main components: agents, interaction layers, and planning periods. ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      98,
+      849,
+      150
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The modeling framework can be described in terms of three main components: agents, interaction layers, and planning periods. The agents represent the participants in the electricity market. The interaction layers signify the environment in which the agents reside and interact with each other. The planning periods correspond to the different time horizons for which the agents make decisions regarding their participation in the market. ",
+    "bbox": [
+      112,
+      246,
+      488,
+      366
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Agents ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      381,
+      174,
+      397
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the simulation, different agents are used to capture the heterogeneity of restructured markets (Figure 1), including generation companies (GenCos), demand companies (DemCos), transmission companies (TransCos), distribution companies (DistCos), independent system operators (ISOs), consumers, and regulators. The agents are specialized and perform diverse tasks using their own decision rules. A special feature of the agents is that they can learn and adapt based on past performance and changing conditons. Agents learn about the market and the actions of other agents using two forms of learning: observation-based learning and exploration-based learning. The observation-based learning (Figure 2) goes through a structured process that includes a ",
+    "bbox": [
+      112,
+      398,
+      488,
+      593
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "look back—an evaluation of past performance   \n$\\boldsymbol { v }$ look ahead—a projection of the future state of the electricity market   \nlook sideways—a determination of what others have done. ",
+    "bbox": [
+      120,
+      594,
+      488,
+      667
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As a result of these evaluations, an agent can choose to 1) maintain the current strategy, 2) adjust the current strategy, or 3) switch to a new strategy. ",
+    "bbox": [
+      111,
+      670,
+      490,
+      714
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Using exploration-based learning, agents explore entirely new market strategies and observe the results of their actions. Once a strategy is found that performs well, it is exercised and fine-tuned as subtle changes occur in the marketplace. When more dramatic market changes take place and a strategy begins to fail, an agent may more frequently explore new strategies in an attempt to adapt to the dynamic and evolving supply and demand forces in the marketplace. Even when a strategy continues to perform well, agents periodically explore and evaluate other strategies in their search for one that performs better. Through this process, agents engage in a price discovery process and learn how they may potentially influence the market through their own actions to improve their own utility. ",
+    "bbox": [
+      112,
+      717,
+      490,
+      925
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Generation Companies ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      244,
+      687,
+      261
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The GenCo agents represent the business units that own generators. GenCos may own a single unit and operate like an independent power producer. They may also own multiple plants (Figure 3) and be part of a larger corporate parent that provides other products in the electricity market. Decisions on how and when to operate its generation equipment and what prices to charge for its output are made separately by each GenCo agent based on the agent’s business strategy. This business strategy, however, does not have to remain static. Rather, GenCo agents may change strategies as learning and adaptation occurs. Some GenCos may strive to exploit the physical limitations of the power system and the market rules under which they operate as a means to increase profit. For example, if a GenCo learns that under certain conditions it can exercise market power, then it may decide to increase its bid prices. However, this higher bid price will increase the risk that it will be rejected in the market. A company that has learned that it has little influence over the market or is riskaverse may decide not to increase bid prices. ",
+    "bbox": [
+      506,
+      261,
+      883,
+      546
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The business profile of a GenCo is described using multiattribute utility theory. The business profile consists of objectives, risk preference, and a utility function. The business objectives are the parameters that the company uses to determine the desirability of the various options it has available. The most commonly used business objective is profit. Other objectives, such as market share, can be included. The GenCo’s risk preference is determined by a parameter that characterizes the company as risk neutral, risk prone, or risk averse. The objectives and risk preference are combined to form a company utility function. Each GenCo seeks to maximize its expected utility throughout the simulation and each GenCo can have a different business profile in order to test the effects of different company business styles. The utility function represents the primary measure of how well the GenCo agent is performing. In the terminology of agentbased modeling, it is the “fitness function” that determines if the agent should continue in its current course of action or should seek to adapt. ",
+    "bbox": [
+      508,
+      549,
+      883,
+      684
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/218ef5f32e8577600e92cde4471afee789b9d5a7bfe78024b3d52bb411b075a5.jpg",
+    "image_caption": [
+      "figure 3. Generation company agents. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      508,
+      704,
+      882,
+      907
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "IEEE power & energy magazine 41 ",
+    "bbox": [
+      694,
+      938,
+      964,
+      958
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      111,
+      944,
+      205,
+      955
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/22feb45904fce346d969352362427925e91fc5fba07fee48d9ffee985cc5350c.jpg",
+    "image_caption": [
+      "figure 4. Interaction layers. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      125,
+      95,
+      614,
+      429
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      473,
+      488,
+      623
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Demand Companies ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      638,
+      272,
+      654
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Demand company (DemCo) agents represent the business units that sell electricity to consumers. In some markets they are referred to as “load-serving entities.” DemCos purchase this electricity either by entering into bilateral contracts with GenCos or by buying electricity from the pool market. A DemCo does not need to have a specific service territory and may serve consumers from anywhere in the study area. DemCos make decisions on how much electricity to buy, what price they are willing to pay, and what to charge their consumers. ",
+    "bbox": [
+      112,
+      656,
+      488,
+      804
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A DemCo’s business profile is described in the same manner as that of a GenCo. That is, the profile consists of objectives, risk preferences, and a utility function. The objectives and risk preferences can be different for each DemCo. Throughout a simulation, each DemCo seeks to maximize its own utility. Learning and adaptation by DemCo agents occurs in a manner analogous to what is experienced by GenCos. ",
+    "bbox": [
+      112,
+      806,
+      488,
+      926
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Transmission Companies ",
+    "text_level": 1,
+    "bbox": [
+      689,
+      93,
+      794,
+      125
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The physical transmission system is represented by a set of nodes and links that represent buses and lines, respectively. The operation of the transmission system is governed by decisions made by the ISO agent and the transmission company (TransCo) that owns the facilities. TransCos earn revenue by collecting a transmission use charge in addition to an implicit transmission congestion charge. This congestion charge is calculated based on the differences in locational marginal prices (LMPs). ",
+    "bbox": [
+      689,
+      126,
+      883,
+      396
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Distribution Companies ",
+    "text_level": 1,
+    "bbox": [
+      691,
+      411,
+      879,
+      426
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Distribution companies (Dist-Cos) own and operate the lower voltage distribution system. They provide distribution services to GenCos and Dem-Cos but do not engage in strategic business practices. Multiple DistCos can be included in the simulation, each with a specific service territory. DistCos apply a distribution services fee structure. The fee may vary by DistCo and, for a given DistCo, may vary by network node and consumer type. The distribution fee is paid by consumers and is accounted for as revenue to the DistCo. ",
+    "bbox": [
+      689,
+      429,
+      883,
+      472
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      506,
+      473,
+      883,
+      592
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Consumers ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      609,
+      596,
+      622
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A simulation may include residential, commercial, industrial, and other electricity consumers. In theory, the simulation may be done for individual consumers (e.g., a single household or a single industrial facility). In practice, the number of consumers included in a simulation is limited by available data and by computational constraints. Consumer agents exhibit learning and adaptation by responding to the price of electricity. The consumer agent has two basic choices to respond to prices: 1) reduce electricity consumption and 2) switch electricity supplier if retail choice is an option in the market. Since most consumers do not have access to hourly or daily electricity price information, their response to price changes lags behind. For most consumers, the response of reducing consumption occurs at the time of receipt of monthly electricity bills. The response of switching suppliers usually occurs on approximately an annual basis, depending on the terms and conditions of supply contracts. ",
+    "bbox": [
+      506,
+      626,
+      883,
+      881
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      506,
+      897,
+      539,
+      910
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This agent represents an independent system operator (ISO), ",
+    "bbox": [
+      508,
+      912,
+      883,
+      926
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "42 IEEE power & energy magazine ",
+    "bbox": [
+      32,
+      938,
+      299,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      789,
+      944,
+      882,
+      955
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A special feature of the agents is that they can learn and adapt based on past performance and changing conditions. ",
+    "text_level": 1,
+    "bbox": [
+      140,
+      95,
+      784,
+      147
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "regional transmission organization, or independent transmission provider, depending on what organizational structure is in place. The ISO exercises several functions in a simulation including the following: ",
+    "bbox": [
+      111,
+      229,
+      490,
+      290
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "operation of the forward market for energy   \n$\\boldsymbol { v }$ operation of the forward market for ancillary services   \ndispatch of the physical system   \ncomputation of settlement payments to market participants. ",
+    "bbox": [
+      127,
+      291,
+      406,
+      381
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The ISO does not engage in any strategic behavior but seeks to operate the power system in the most efficient, lowest-cost manner given the information it receives from the market participants and the physical characteristics of the system. The ISO sets system reliability parameters that will be used for system operation, such as various reserve margins. It also sets the procedures used to operate the forward market as well as bilateral contract treatment. ",
+    "bbox": [
+      112,
+      383,
+      344,
+      577
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "market. Typically, the distribution system is not modeled in detail to keep the analysis and computing requirements within reasonable limits. ",
+    "bbox": [
+      504,
+      231,
+      883,
+      275
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the physical layer, the ISO exercises its dispatch function to operate the system to match generation and load and to adjust to changes in load, generator or transmission outages, ",
+    "bbox": [
+      504,
+      276,
+      883,
+      320
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Regulator ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      593,
+      191,
+      608
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/2ee5f5946480ded0d4e21f3251ab54ea5b10b88d01dd1d316498ba965d93c19e.jpg",
+    "image_caption": [
+      "figure 5. Planning periods. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      367,
+      367,
+      870,
+      604
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The regulator agent sets the market rules. Parameters that can be specified include 1) the type of allowable markets, that is, bilateral contracts, pool energy, and ancillary services markets; 2) pricing and settlement rules, including uniform versus discriminatory auction as well as price caps; and 3) taxes and end user tariffs. ",
+    "bbox": [
+      112,
+      611,
+      346,
+      654
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      656,
+      488,
+      715
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Interaction Layers ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      729,
+      272,
+      744
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The interaction layers provide the environment in which the agents operate. This environment, illustrated in Figure 4, is typically multidimensional; that is, agents operate within several interconnected layers, including a physical layer, several business layers, and a regulatory layer. ",
+    "bbox": [
+      112,
+      747,
+      488,
+      820
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Physical Layer ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      835,
+      222,
+      852
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The physical layer at the bottom of the figure represents the system elements that are involved in the physical generation, transmission, distribution, and consumption of electricity. Consumer loads, generators, and transmission nodes and links together make up the physical part of the electricity and other unplanned events. The ISO uses a transmission-constrained optimal power flow (OPF) methodology to dispatch generators to meet the load. This part of the simulation relies on conventional power flow methods to ensure that the physical limitations of the system are observed. ",
+    "bbox": [
+      112,
+      853,
+      488,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      506,
+      655,
+      883,
+      729
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Business Layer—Bilateral Contracts Market ",
+    "text_level": 1,
+    "bbox": [
+      506,
+      744,
+      838,
+      761
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the bilateral contracts market, GenCos and DemCos can negotiate private contracts for the purchase and sale of electricity. In the simulation, bilateral contracts begin with a series of requests for proposals (RFPs) that are initiated by DemCos. A DemCo formulates an RFP for capacity and energy on the basis of the anticipated needs of its customers and its risk tolerance for exposure to pool market price volatility. This process is performed independently by each DemCo and is subject to uncertainty. If a DemCo chooses to participate in the bilateral market, one or more RFPs are sent to select Gen-Cos. RFPs can be issued for energy deliveries that are constant over all hours of the contract term or vary over time. GenCos analyze RFPs, formulate bid responses, and send these to DemCos. The response includes prices for all or some portion of the requested capacity and energy. DemCos evaluate the responses that they receive and either accept or reject the offers. On the basis of the bilateral agreements forged among market players and lessons learned from previous bid rounds, both DemCos and GenCos revise their marketing strategies for the next round of RFPs. ",
+    "bbox": [
+      506,
+      762,
+      883,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "IEEE power & energy magazine 43 ",
+    "bbox": [
+      694,
+      939,
+      964,
+      958
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      111,
+      944,
+      205,
+      955
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      111,
+      94,
+      490,
+      154
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      506,
+      94,
+      883,
+      169
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5731992/auto/images/d5b58c8776006154987e8e2bef4419620afc036e6560bc15d8f633fd75c2a94b.jpg",
+    "image_caption": [
+      "figure 6. Results of GenCo price probing strategies. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      183,
+      584,
+      909
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Business Layer—Pool Markets ",
+    "text_level": 1,
+    "bbox": [
+      617,
+      184,
+      849,
+      199
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Pool markets (or spot markets) for energy and ancillary services serve as central clearing points for buyers and sellers and are operated by the ISO. Pool markets are typically conducted at the day-ahead and hourahead time scales. The ISO is responsible for posting public information that is available to all agents, including unit outage data, historical pool clearing prices and system-level loads, and load projections. Each agent in the market submits bids independently, without any information regarding the bids placed by its competitors. The simulation has two pool market options. The first is the locational marginal price option in which all GenCos get paid the marginal bid to serve loads at a specific location. The LMP is paid to all GenCos that sell power at a specific location regardless of the agent’s bid price. The second pool market option is referred to as “pay-as-bid” in which each GenCo that is accepted gets paid the price that it bids. ",
+    "bbox": [
+      617,
+      202,
+      883,
+      546
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the day-ahead pool energy market, GenCos’ hourly offers are based on bidding strategies that are formulated for the entire day. The offer prices may vary as a function of time of day. GenCos use public information as well as private information to formulate their bidding strategies. A unit commitment algorithm is employed by GenCos to determine if units can be profitably operated at projected prices. DemCos also prepare bids into the pool energy market. They specify how much energy they are willing to purchase at a given price. In effect, their bids represent a demand curve. On the basis of bid prices, transmission constraints, and energy security considerations, the ISO accepts or rejects the bids it receives and establishes the dispatch schedule for the next day. ",
+    "bbox": [
+      617,
+      550,
+      883,
+      835
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In addition to the pool energy market, the simulation includes several ancillary services markets after the pool market closes. These are markets for regulation, spinning, non-spinning, and replacement reserve. The amount of these services that ",
+    "bbox": [
+      617,
+      838,
+      883,
+      926
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "44 IEEE power & energy magazine ",
+    "bbox": [
+      32,
+      938,
+      299,
+      958
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      789,
+      944,
+      882,
+      955
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The ABMS modeling system provides the ability to capture and investigate the complex interactions between the physical infrastructures and the economic behavior of market participants. ",
+    "text_level": 1,
+    "bbox": [
+      140,
+      89,
+      854,
+      165
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "is purchased by the ISO is a function of system reliability and security parameters. Since ancillary services markets are cleared last, in the simulation GenCos must anticipate the costs, benefits, and risks associated with these markets in their overall marketing strategy. If all of a GenCo’s resources are committed in other markets, then the opportunity to participate in ancillary services markets is lost. On the other hand, if generating capabilities are reserved for these markets and ancillary services bids are not accepted, potential profits that could have been made in other markets are lost. ",
+    "bbox": [
+      112,
+      244,
+      488,
+      396
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Business Layer—T&D Companies ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      411,
+      367,
+      426
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The transmission and distribution company layer is designed to account for the ownership of the transmission and distribution systems and for the fees charged by these companies for the use of their facilities. The TransCos and DistCos may be part of a single corporate parent, along with a GenCo and DemCo as well. This corporate connection can be considered while maintaining a separate accounting of each business unit. ",
+    "bbox": [
+      112,
+      429,
+      488,
+      532
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Regulatory Layer ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      547,
+      243,
+      563
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The regulatory layer represents the regulatory side of the electricity market that establishes market rules and monitors market performance. In the simulation, the user provides input as the regulator. ",
+    "bbox": [
+      112,
+      565,
+      488,
+      623
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Planning Periods ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      637,
+      266,
+      655
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The underlying structure of the simulation is a time continuum ranging from hours to decades. Modeling over this range of time scales is necessary to understand the complex operation of electricity marketplaces. Six distinct time scales or decision levels are important, including hourly dispatch, and day-ahead, week-ahead, month-ahead, year-ahead, and multi-year planning (Figure 5). At each decision level agents make decisions regarding their next activities in the market. For example, at the longterm planning level, GenCos commit to capacity expansion. At the year-ahead level, they set planned maintenance schedules. At month ahead they determine intermediate term bidding strategy. At day ahead, they bid into selected markets. Each agent has a different set of decisions to make at each planning level. Decisions made at the longer time periods ripple down to affect decisions at shorter time horizons. ",
+    "bbox": [
+      112,
+      656,
+      488,
+      880
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Treatment of Uncertainties ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      895,
+      349,
+      911
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The uncertainties of system operation and randomness of forced outages of generating units and transmission lines are modeled through a so-called “special event generator.” The special event generator provides the ability to inject events into the simulation that force the system to deviate from the procedures developed in the planning levels. The special event generator can be used to inject unplanned incidents, including unexpected variations in load, generator outages, and transmission outages. ",
+    "bbox": [
+      112,
+      912,
+      490,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      508,
+      246,
+      883,
+      366
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Analysis Capabilities ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      381,
+      689,
+      397
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Despite the rapid changes and turmoil recently experienced in the power industry around the world, what remains unchanged is the need to fully understand, accurately model, and analyze in detail today’s evolving power markets. Simulating the operation of the newly evolving power markets needs to take into account a host of technical and engineering variables and basic market fundamentals that increasingly drive the operation of the underlying physical system. This is true regardless of the market structure in the region or country under investigation; that is, from heavily regulated systems to fully or partially deregulated markets, or even newly reregulated systems. ",
+    "bbox": [
+      508,
+      398,
+      883,
+      578
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "With its unique combination of various novel approaches, the ABMS modeling system provides the ability to capture and investigate the complex interactions between the physical infrastructures (generation, transmission, and distribution) and the economic behavior of market participants that are a trademark of the newly emerging markets. ",
+    "bbox": [
+      506,
+      579,
+      883,
+      669
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "An illustration of the results that can be obtained with an ABMS-based model is provided in Figure 6. A relatively large test system, consisting of approximately 2,000 buses arranged within nine price zones, was modeled assuming different GenCo bidding strategies over a three-month analysis period. The first scenario represents a base case in which all GenCos are submitting strictly production cost-based bids for all of their capacity blocks. For a given electricity demand pattern, this base case scenario establishes a reference case for the assessment of LMPs resulting from different bidding strategies. For this case, no price elasticity or demand response were assumed on the part of electricity consumers. ",
+    "bbox": [
+      508,
+      670,
+      883,
+      851
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The second scenario was modeled with the assumption that all GenCos are applying a fixed-increment price probing strategy in which they increase their bid prices by, for example, $5 \\%$ for all capacity blocks that were accepted in the previous day’s market. Similarly, GenCos decrease their bid prices by the same amount $( 5 \\% )$ for all capacity blocks that were not accepted in the previous day’s market. The results obtained for this relatively simple bidding strategy show a clear trend of increasing LMPs during the peak hours. However, the off-peak prices tend to quickly stabilize and remain more or less constant at a level that is somewhat higher than the pure production cost level. ",
+    "bbox": [
+      508,
+      852,
+      883,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "IEEE power & energy magazine 45 ",
+    "bbox": [
+      694,
+      939,
+      964,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      112,
+      944,
+      205,
+      955
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      94,
+      488,
+      199
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The third scenario assumed that some GenCos still apply the same fixed-increment price probing strategy as in the second scenario, while most of the larger GenCos revert to production cost-based bidding. The results obtained for this scenario show LMPs that are mostly higher than in the reference case, but without the continuously increasing trend during peak hours as obtained in the second scenario. Obviously, in the third scenario, the amount of generating capacity offered by large GenCos at production cost prices was sufficient to keep the market prices in check and relatively stable. Although rather simple, these three scenarios show that different adaptation and learning strategies of market participants may result in very different market behaviors even when the same physical system is analyzed. ",
+    "bbox": [
+      112,
+      200,
+      488,
+      411
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In summary, the ABMS approach is well positioned to address the strategic issues of interest to different market participants and stakeholders, such as: ",
+    "bbox": [
+      112,
+      412,
+      488,
+      457
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "√ short (daily) and long-term (multiple years) price forecasting of hourly LMPs (by bus/node/zone/hub—by hour or averaged over various time periods)   \nresource forecasting and asset valuation including unitlevel hourly, daily, monthly, and annual operation, costs, revenues, and profits   \nportfolio valuation to determine the market value of company portfolios consisting of a mix of contracts and generating resources   \n$\\boldsymbol { v }$ long-term system expansion and merchant plant evaluation   \n$\\boldsymbol { v }$ volatility and risk analysis   \n$\\boldsymbol { v }$ market design and development   \n$\\boldsymbol { v }$ transmission congestion   \n✔ market monitoring and market power, etc. ",
+    "bbox": [
+      120,
+      458,
+      488,
+      667
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Given the unique characteristics of electricity, power markets are subject to levels of volatility not typically seen in other commodity markets. Identifying and understanding the fundamental drivers of this volatility and quantifying the extent of volatility is key to limiting risk exposure for many market participants. Government and regulatory agencies as well as market operators need to understand the potential for volatility and price spikes in their jurisdiction or service territory. Price spikes may be a legitimate result of supply shortages and/or transmission bottlenecks, or they may occur because market participants are able to game the market; that is, they find ways to exploit certain market rules and engage in noncompetitive behavior to drive up prices. While the regulatory perspective may be concerned with limiting or eliminating the exposure of consumers to potentially substantial price spikes, the business perspective of other market participants demands that they identify and manage their risk exposure. By relying on both established engineering modeling techniques as well as advanced quantitative economic market principles, the ABMS approach is uniquely suited to addressing the strategic issues of interest to different market participants as well as those of market monitors and regulators. ",
+    "bbox": [
+      112,
+      670,
+      488,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      508,
+      94,
+      883,
+      184
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgments ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      199,
+      669,
+      215
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The work on the modeling of electricity markets as complex adaptive systems using ABMS approach involves a multi-disciplinary team of Argonne National Laboratory researchers. Besides the author, the research team also includes Gale Boyd, Richard Cirillo, Guenter Conzelmann, Charles Macal, Michael North, Prakash Thimmapuram, and Thomas Veselka. ",
+    "bbox": [
+      508,
+      217,
+      883,
+      305
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "This article has been created by the University of Chicago as operator of Argonne National Laboratory (“Argonne”) under Contract No. W-31-109-ENG-38 with the U.S. Department of Energy. ",
+    "bbox": [
+      506,
+      306,
+      883,
+      366
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "For Further Reading ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      381,
+      686,
+      397
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "R. Axtel, “Why agents? On the varied motivations for agent computing in the social sciences,” Center on Social and Economic Dynamics, Working Paper No. 17, Brookings Institution, Washington, DC, Nov. 2000.   \nM.J. North, “Towards strength and stability: Agent-based modeling of infrastructure markets,” Social Science Computer Rev., pp. 307–323., Fall 2001.   \nT. Veselka, G. Boyd, G. Conzelmann, V. Koritarov, C. Macal, M. North, B. Schoepfle, and P. Thimmapuram, “Simulating the behavior of electricity markets with an agentbased methodology: The electric market complex adaptive system (EMCAS) model,” in Proc. 2002 USAEE Conf., Vancouver, Canada, Oct. 6–7, 2002.   \nD.L. Sallach and C.M. Macal, “The simulation of social agents: An introduction,” Social Science Computer Rev., Fall 2001. ",
+    "bbox": [
+      504,
+      397,
+      883,
+      637
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Biography ",
+    "text_level": 1,
+    "bbox": [
+      506,
+      654,
+      599,
+      670
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Vladimir S. Koritarov joined Argonne National Laboratory, U.S.A., in October 1991. He is presently an energy systems engineer in the Center for Energy, Economic & Environmental Systems Analysis. He has 21 years of experience in the analysis and modeling of electric and energy systems in domestic and international applications. He specializes in the analysis of power system development options, modeling of hydroelectric and irrigation systems, hydro-thermal coordination, reliability and production cost analysis, marginal cost calculation, risk analysis, and electric sector deregulation and privatization issues. Before joining Argonne National Laboratory, Vladimir worked as senior power system planner in the Union of Yugoslav Electric Power Industry. He is a graduate of the School of Electrical Engineering, University of Belgrade, Yugoslavia. Vladimir is a member of the IEEE Power Engineering Society. He can be reached at Koritarov $@$ ANL.gov. ",
+    "bbox": [
+      506,
+      671,
+      883,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "46 IEEE power & energy magazine ",
+    "bbox": [
+      32,
+      938,
+      300,
+      958
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "july/august 2004 ",
+    "bbox": [
+      789,
+      944,
+      882,
+      955
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "p&e ",
+    "bbox": [
+      859,
+      911,
+      882,
+      928
+    ],
+    "page_idx": 7
+  }
+]

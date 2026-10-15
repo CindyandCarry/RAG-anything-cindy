@@ -1,0 +1,5154 @@
+[
+  {
+    "type": "text",
+    "text": "Please do not return unit to retailer.   \nPor favor, no devuelva el aparato al lugar de compra.   \nVeuillez ne pas retourner l’outil au détaillant. 1--800--554--6723 www.poulan.com ",
+    "bbox": [
+      124,
+      117,
+      596,
+      196
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Instruction Manual Manual de Instrucciones Manuel d’Instructions ",
+    "bbox": [
+      265,
+      211,
+      627,
+      286
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "P3314 / P3314WS / P3314WSA P3416 / P3516PR / P4018WM P4018WT / P3818AV P4018AV / P4018AV BH ",
+    "bbox": [
+      261,
+      308,
+      629,
+      386
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For Occasional Use Only ",
+    "text_level": 1,
+    "bbox": [
+      100,
+      412,
+      397,
+      433
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "WARNING: ",
+    "text_level": 1,
+    "bbox": [
+      100,
+      449,
+      215,
+      465
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Read and follow all Safety Rules and Operating Instructions before using this product. Failure to do so can result in serious injury. ",
+    "bbox": [
+      102,
+      467,
+      641,
+      495
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ADVERTENCIA: ",
+    "text_level": 1,
+    "bbox": [
+      100,
+      506,
+      263,
+      521
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Lea el manual de instrucciones y siga todas las advertencias e enstrucciones de seguridad. El no hacerlo puede resultar en lesiones graves. ",
+    "bbox": [
+      100,
+      524,
+      643,
+      563
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "AVERTISSEMENT: ",
+    "text_level": 1,
+    "bbox": [
+      102,
+      574,
+      288,
+      589
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Lire le manuel d’instructions et bien respecter tous les avertissements et toutes les instructions de sécurité. Tout défaut de le faire pourrait entraîner des blessures graves. ",
+    "bbox": [
+      100,
+      592,
+      643,
+      632
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ENGLISH ",
+    "bbox": [
+      662,
+      26,
+      711,
+      141
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "FRANÇAIS ",
+    "bbox": [
+      662,
+      626,
+      711,
+      743
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ESPAÑOL ",
+    "bbox": [
+      662,
+      326,
+      713,
+      441
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "545186804 Rev. 2 3/15/09 BRW ",
+    "bbox": [
+      325,
+      727,
+      653,
+      743
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A ",
+    "bbox": [
+      32,
+      448,
+      89,
+      488
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Poulan ",
+    "bbox": [
+      54,
+      28,
+      517,
+      106
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Poulan 850 Matheson Blvd. West Mississauga, Ontario L5V 0B4 ",
+    "bbox": [
+      420,
+      636,
+      643,
+      674
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "？",
+    "bbox": [
+      81,
+      120,
+      124,
+      170
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Poulan 1030 Stevens Creek Road Augusta, GA 30907 ",
+    "bbox": [
+      100,
+      637,
+      288,
+      673
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "IDENTIFICATION OF SYMBOLS ",
+    "text_level": 1,
+    "bbox": [
+      193,
+      37,
+      519,
+      54
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/6fc4aca3e0b81629e030f7b7a8a420b1ca3306819c0ec0e543d8550ae7a9b161.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      71,
+      63,
+      145,
+      117
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "WARNING! This chain saw can be dangerous! Careless or improper use can cause serious or even fatal injury. ",
+    "bbox": [
+      153,
+      65,
+      339,
+      113
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/687581b2774cdb4a840ecdae560dd6971d0cb4d585243cc9488feb9488c10145.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      368,
+      63,
+      449,
+      117
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Read and understand the instruction manual before using the chain saw. ",
+    "bbox": [
+      453,
+      67,
+      625,
+      101
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/70352c3e560add8924ec1a7296d43be6e908bdc9bd2d58fbe4a4a39f3051b27d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      69,
+      124,
+      147,
+      179
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Always wear appropriate ear protection, eye protection and head protection. ",
+    "bbox": [
+      153,
+      146,
+      616,
+      159
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/79261e86562788f619d373cd1c4e75a751bb8cf225acfb779f7a4d0f6a1d2a3d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      183,
+      236,
+      241
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Always use two hands when operating the chain saw. ",
+    "bbox": [
+      248,
+      207,
+      583,
+      219
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/c0f9d6ace62c9b5f2ff2fc71c4cc6f68e705cba86c96c24476e04fbd388628ca.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      242,
+      236,
+      303
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "WARNING! Contacting the guide bar tip with any object should be avoided; tip contact may cause the guide bar to move suddenly upward and backward, which may cause serious injury. ",
+    "bbox": [
+      244,
+      251,
+      614,
+      294
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/6a73b3aa7f1204ae479723fa74cc10551e948a52cc2666db05a8fc85eec4fb1c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      307,
+      149,
+      362
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Measured maximum kickback value without chain brake for the bar and chain combination on the label. ",
+    "bbox": [
+      158,
+      322,
+      569,
+      344
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Starting Reminder ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      378,
+      209,
+      390
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/076584133d3f1cd13862071475844533dcd55bb913c27ac964e616afa1430076.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      395,
+      141,
+      449
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Move ON/STOP switch to the ON position. ",
+    "bbox": [
+      155,
+      404,
+      321,
+      426
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/e0777319888f50e409395382c400ac942a1a8177a43b6097257f16376a64e681.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      348,
+      393,
+      430,
+      448
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Pull the starter rope sharply 5 times with your right hand. ",
+    "bbox": [
+      445,
+      404,
+      606,
+      436
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/78c71f639c401a412afa96782b45e314d399fa110aea380c64945c758c7bd391.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      456,
+      141,
+      507
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Slowly press primer bulb 6 times. ",
+    "bbox": [
+      155,
+      466,
+      313,
+      486
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/6dba9f38069edf5f1e4cd67f1b13261512686c62b9587c15157a8f8355287398.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      350,
+      452,
+      428,
+      507
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Push the choke/fast idle lever in to the HALF CHOKE position. ",
+    "bbox": [
+      441,
+      465,
+      596,
+      496
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/22e588bdbe727f27523611b60d0635a9653d95aac28d054f5f532db3f081af65.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      511,
+      139,
+      567
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Pull choke/fast idle lever out to the full extent (to the FULL CHOKE position). ",
+    "bbox": [
+      156,
+      525,
+      312,
+      567
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/b7ad4794be499eebc8cb5a883af441db7f790f9a74eda9d15b56f5e0a7b8bb0c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      350,
+      513,
+      430,
+      567
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Pull the starter rope sharply with your right hand until the engine starts. ",
+    "bbox": [
+      441,
+      526,
+      610,
+      558
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SAFETY RULES ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      592,
+      439,
+      609
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "WARNING: ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      624,
+      182,
+      640
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Always disconnect spark plug wire and place wire where it cannot contact spark plug to prevent accidental starting when setting up, transporting, adjusting or making repairs except carburetor adjustments. ",
+    "bbox": [
+      62,
+      629,
+      335,
+      692
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Because a chain saw is a high-speed woodcutting tool, special safety precautions must be observed to reduce the risk of accidents. Careless or improper use of this tool can cause serious injury. ",
+    "bbox": [
+      62,
+      692,
+      335,
+      743
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "PLAN AHEAD ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      618,
+      484,
+      631
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "S Read this manual carefully until you completely understand and can follow all safety rules, precautions, and operating instructions before attempting to use the unit. Restrict the use of your saw to adult users who understand and can follow safety rules, precautions, and operating instructions found in this manual. Wear protective gear. Always use steeltoed safety footwear with non-slip soles; snug-fitting clothing; safety chaps; heavyduty, non-slip gloves; eye protection such as non-fogging, vented goggles or face screen; an approved safety hard hat; and sound barriers (ear plugs or mufflers) to protect your hearing. Regular users should have hearing checked regularly as chain saw noise can damage hearing. Secure hair above shoulder length. ",
+    "bbox": [
+      375,
+      631,
+      649,
+      744
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      368,
+      757
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      75,
+      26,
+      335,
+      108
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/1c3194ff4b34dd54b8212ff066f30737f35c51a6be3803bdba1191f5e468b244.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      71,
+      123,
+      315,
+      275
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "S With the engine stopped, hand carry the chain saw with the muffler away from your body, and the guide bar and chain to the rear, preferably covered with a scabbard. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      67
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "MAINTAIN YOUR SAW IN GOOD WORKING ORDER ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      68,
+      647,
+      91
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "S Have all chain saw service performed by a qualified service dealer with the exception of the items listed in the maintenance section of this manual. For example, if improper tools are used to remove or hold the flywheel when servicing the clutch, structural damage to the flywheel can occur and cause the flywheel to burst.   \nMake certain the saw chain stops moving when the throttle trigger is released. For correction, refer to CARBURETOR AD-JUSTMENT.   \nNever modify your saw in any way.   \nKeep the handles dry, clean, and free of oil or fuel mixture. Keep fuel and oil caps, screws, and fas  \nteners securely tightened.   \nUse only Poulan accessories and replacement parts as recommended. ",
+    "bbox": [
+      375,
+      93,
+      649,
+      285
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "S Keep all parts of your body away from the chain when the engine is running. S Keep children, bystanders, and animals a minimum of 30 feet (10 meters) away from the work area. Do not allow other people or animals to be near the chain saw when starting or operating the chain saw. Do not handle or operate a chain saw when you are fatigued, ill, or upset, or if you have taken alcohol, drugs, or medication. You must be in good physical condition andmentally alert. Chain saw work is strenuous. If you have any condition that might be aggravated by strenuous work, check with your doctor before operating a chain saw. Carefully plan your sawing operation in advance. Do not start cutting until you have a clear work area, secure footing, and, if you are felling trees, a planned retreat path. ",
+    "bbox": [
+      62,
+      289,
+      335,
+      482
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "OPERATE YOUR SAW SAFELY",
+    "text_level": 1,
+    "bbox": [
+      63,
+      486,
+      300,
+      497
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Do not operate a chain saw with one hand. Serious injury to the operator, helpers, bystanders or any combination of these persons may result from one-handed operation. A chain saw is intended for two-handed use.   \nOperate the chain saw only in a well-ventilated outdoor area.   \nDo not operate saw from a ladder or in atree. Make sure the chain will not make contact with any object while starting the engine. Never try to start the saw when the guide bar is in a cut.   \nDo not put pressure on the saw at the end of the cut. Applying pressure can cause you to lose control when the cut is completed.   \nStop the engine before setting the saw down.   \nDo not operate a chain saw that is damaged, improperly adjusted, or not completely and securely assembled. Always replace bar, chain, hand guard, or chain brake immediately if it becomes damaged, broken or is otherwise removed. ",
+    "bbox": [
+      62,
+      500,
+      335,
+      743
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "HANDLE FUEL WITH CAUTION ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      288,
+      614,
+      299
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Do not smoke while handling fuel or while operating the saw.   \nEliminate all sources of sparks or flame in the areas where fuel is mixed or poured. There should be no smoking, openflames, or work that could cause sparks. Allow engine to cool before refueling.   \nAlways have fire extinguishing tools available if you should need them.   \nMix and pour fuel in an outdoor area on bare ground; store fuel in a cool, dry, well ventilated place; and use an approved, marked container for all fuel purposes. Wipe up all fuel spills before starting saw. Move at least 10 feet (3 meters) from fueling site before starting engine.   \nTurn the engine off and let saw cool in a non-combustible area, not on dry leaves, straw, paper, etc. Slowly remove fuel cap and refuel unit.   \nStorethe unit and fuel in an area where fuel vapors cannot reach sparks or open flames from water heaters, electric motors or switches, furnaces, etc. ",
+    "bbox": [
+      375,
+      300,
+      649,
+      543
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "KICKBACK ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      545,
+      465,
+      556
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Avoid kickback which can result in serious injury. Kickback is the backward, upward or sudden forwardmotion of the guide bar occurring when the saw chain near the upper tip of the guide bar contacts any object such as a log or branch, or when the wood closes in and pinches the saw chain in the cut. Contacting a foreign object in the wood can also result in loss of chain saw control. ",
+    "bbox": [
+      375,
+      566,
+      649,
+      669
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "S Rotational Kickback can occur when the moving chain contacts an object at the upper tip of the guide bar. This contact can cause the chain to dig into the object, which stops the chain for an instant. The result is a lightning fast, reverse reaction which kicks the guide bar up and back toward the operator. ",
+    "bbox": [
+      375,
+      670,
+      649,
+      743
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      368,
+      755
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "S Pinch-Kickback can occur when the the wood closes in and pinches the moving saw chain in the cut along the top of the guide bar and the saw chain is suddenly stopped. This sudden stopping of the chain results in a reversal of the chain force used to cut wood and causes the saw to move in the opposite direction of the chain rotation. The saw is driven straight back toward the operator. Pull-In can occur when the moving chain contacts a foreign object in the wood in the cut along the bottom of the guide bar and the saw chain is suddenly stopped. This sudden stopping pulls the saw forward and away from the operator and could easily cause the operator to lose control of the saw. ",
+    "bbox": [
+      62,
+      27,
+      337,
+      201
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Avoid Pinch--Kickback: ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      201,
+      222,
+      212
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "S Be extremely aware of situations or obstructions that can cause material to pinch the top of or otherwise stop the chain. Do not cut more than one log at a time. S Do not twist the saw as the bar is withdrawn from an undercut when bucking. ",
+    "bbox": [
+      62,
+      213,
+      335,
+      275
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Avoid Pull--In: ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      281,
+      156,
+      292
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "S Always begin cutting with the engine at full speed and the saw housing against wood. S Use wedges made of plastic or wood. Never use metal to hold the cut open. ",
+    "bbox": [
+      62,
+      293,
+      335,
+      336
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/1af20ec53a856db07f005735edc6b3eab6feac97b6fb453ac819e8f413aa4edc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      342,
+      319,
+      481
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "REDUCE THE CHANCE OF KICKBACK ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      495,
+      269,
+      518
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "S Recognize that kickback can happen. With a basic understanding of kickback, you can reduce the element of surprise which contributes to accidents. Never let the moving chain contact any object at the tip of the guide bar. Keep the working area free from obstructions such as other trees, branches, rocks, fences, stumps, etc. Eliminate or avoid any obstruction that your saw chain could hit while you are cutting. When cutting a branch, do not let the guide bar contact branch or other objects around it. Keep your saw chain sharp and properly tensioned. A loose or dull chain can increase the chance of kickback occurring. Follow manufacturer’s chain sharpening and maintenance instructions. Check tension at regular intervals with the engine stopped, never with the engine running. Make sure the bar nuts are securely tightened after tensioning the chain. ",
+    "bbox": [
+      62,
+      519,
+      335,
+      743
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "S Begin and continue cutting at full speed. If the chain is moving at a slower speed, there is greater chance of kickback occurring. Cut one log at a time. Use extreme caution when re-entering a previous cut. Do not attempt cuts starting with the tip of the bar (plunge cuts). Watch for shifting logs or other forces that could close a cut and pinch or fall into chain. Use the Reduced--Kickback Guide Bar and Low--Kickback Chain specified for your saw. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      170
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "MAINTAIN CONTROL ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      172,
+      538,
+      185
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/ba19e3b06f74a27e00555f3b5ef62021ff3d50bb860c2e399a4c1b0be54b66c4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      381,
+      192,
+      645,
+      315
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/041101d2df8c73effc8a1b07b16d8d8707334ea087a74c66779556b3a324e407.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      383,
+      333,
+      612,
+      467
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "S Keep a good, firm grip on the saw with both hands when the engine is running and don’t let go. A firm grip will help you reduce kickback and maintain control of the saw. Keep the fingers of your left hand encircling and your left thumb under the front handlebar. Keep your right hand completely around the rear handle whether your are right handed or left handed. Keep your left arm straight with the elbow locked. Position your left hand on the front handlebar so it is in a straight line with your right hand on the rear handle when making bucking cuts. Never reverse right and left hand positions for any type of cutting. Stand with your weight evenly balanced on both feet. Stand slightly to the left side of the saw to keep your body from being in a direct line with the cutting chain. Do not overreach. You could be drawn or thrown off balance and lose control of the saw. Do not cut above shoulder height. It is difficult to maintain control of saw above shoulder height. ",
+    "bbox": [
+      375,
+      477,
+      649,
+      743
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      747,
+      368,
+      755
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "KICKBACK SAFETY FEATURES ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      26,
+      310,
+      48
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "WARNING: The following features are included on your saw to help reduce the hazard of kickback; however, such features will not totally eliminate this danger. As a chain saw user, do not rely only on safety devices. You must follow all safety precautions, instructions, and maintenance in this manual to help avoid kickback and other forces which can result in serious injury. ",
+    "bbox": [
+      62,
+      46,
+      335,
+      139
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "S Reduced--Kickback Guide Bar, designed with a small radius tip which reduces the size of the kickback danger zone on the bar tip. A Reduced--Kickback Guide Bar has been demonstrated to significantly reduce the number and seriousness of kickbacks when tested in accordance with safety requirements for gasoline powered chain saws as set by ANSI B175.1. ",
+    "bbox": [
+      63,
+      141,
+      335,
+      231
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Reduced Kickback Symmetrical Guide Bar ",
+    "bbox": [
+      63,
+      231,
+      286,
+      240
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/233c18baa185f7316791f93138e4c7c6e6235a99c42cf50263766b6076a7b1b4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      241,
+      230,
+      296
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Small Radius Tip ",
+    "bbox": [
+      207,
+      285,
+      292,
+      294
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/2f51af9e38c7962b0f1489b4bff460ea54f70add9996a298e22838d7eeb7c3f0.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      73,
+      310,
+      261,
+      364
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Large Radius Tip ",
+    "bbox": [
+      232,
+      364,
+      317,
+      373
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "S Low--Kickback Chain, designed with a contoured depth gauge and guard link which deflect kickback force and allow wood to gradually ride into the cutter. Low-- Kickback Chain has met kickback performance requirements when tested on a representative sample of chain saws below 3.8 cubic inch displacement specified in ANSI B175.1. ",
+    "bbox": [
+      62,
+      374,
+      335,
+      465
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/ad2efaec80e040eae0687827966fcc0a391021213d37282c2735b8fceb2fc5ea.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      71,
+      465,
+      319,
+      577
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Not a Low---Kickback Chain S Front Hand Guard, designed to reduce the chance of your left hand contacting the chain if your hand slips off the front handlebar. Position of front and rear handlebars, designed with distance between handles and “in-line” with each other. The spread and “inline” position of the hands provided by this design work together to give balance and resistance in controlling the pivot of the saw back toward the operator if kickback occurs. ",
+    "bbox": [
+      62,
+      580,
+      335,
+      688
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CHAIN BRAKE AND CKA ANGLE ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      689,
+      317,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "S Chain Brake, designed to stop the chain in the event of kickback. ",
+    "bbox": [
+      63,
+      702,
+      335,
+      722
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "WARNING: WE DO NOT REP-RESENT AND YOU SHOULD NOT AS-SUME THAT THE CHAIN BRAKE WILL PROTECT YOU IN THE EVENT OF A KICK-BACK. Kickback is a lightning fast action which throws the bar and rotating chain back and up toward the operator. Kickback can be caused by allowing contact of the bar tip in the danger zone with any hard object. Kickback can also be caused by pinching the saw chain along the top of the guide bar. This action may push the guide bar rapidly back toward the operator. Either of these events may cause you to lose control of the saw which could result in serious injury or even death. DO NOT RELY UPON ANY OF THE DEVICES BUILT INTO YOUR SAW. YOU SHOULD USE THE SAW PROPERLY AND CAREFULLY TO AVOID KICKBACK. Reduced--kickback guide bars and low--kickback saw chains reduce the chance and magnitude of kickback and are recommended. Your saw has a low kickback chain and bar as original equipment. Repairs on a chain brake should be made by an authorized servicing dealer. Take your unit to the place of purchase if purchased from a servicing dealer, or to the nearest authorized master service dealer. ",
+    "bbox": [
+      375,
+      30,
+      649,
+      322
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "S Tip contact in some cases may cause a lightning fast reverse REACTION, kicking guide bar up and back toward operator. S Pinching the saw chain along the top of the guide bar may push the guide bar rapidly back toward the operator. Either of these reactions may cause you to lose control of the saw which could result in serious injury. Do not rely exclusively upon devices built into your saw. ",
+    "bbox": [
+      375,
+      323,
+      649,
+      425
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Computed kickback angle (CKA) listed on your saw and listed in the CKA table below represents angle of kickback your bar and chain combinations will have when tested in accordance with CSA (Canadian Standards Association) and ANSI standards. When purchasing replacement bar and chain, considerations should be given to the lower CKA values. Lower CKA values represent safer angles to the user, higher values indicate more angle and higher kick energies. Computed angles represented indicate total energy and angle associated without activation of the chain brake during kickback. Activated angle represents chain stopping time relative to activation angle of chain break and resulting kick angle of saw. In all cases lower CKA values represent a safer operating environment for the user. ",
+    "bbox": [
+      375,
+      434,
+      649,
+      628
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The following guide bar and chain combinations meet kickback requirements of CSA Standards Z62.1, Z62.3, & ANSI B175.1 when used on saws listed in this manual. Use of bar and chain combinations other than those listed is not recommended and may not meet the CKA requirements per standard. ",
+    "bbox": [
+      375,
+      629,
+      649,
+      710
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      356,
+      746,
+      368,
+      757
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      427,
+      397,
+      444
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Computed kickback angle (CKA) Table ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      26,
+      397,
+      41
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/ec15971583bd914509957a899ccaa0cde6543c9823d32d2657af051df91344d0.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>MODEL</td><td rowspan=1 colspan=2>BAR</td><td rowspan=2 colspan=1>CHAIN P/N</td><td rowspan=2 colspan=1>CKA without chain brake</td></tr><tr><td rowspan=1 colspan=1>P/N</td><td rowspan=1 colspan=1>Length</td></tr><tr><td rowspan=1 colspan=1>P3314/P3314WSP3314WSA</td><td rowspan=1 colspan=1>952044368</td><td rowspan=1 colspan=1>14&quot;</td><td rowspan=1 colspan=1>952051209</td><td rowspan=1 colspan=1>33°</td></tr><tr><td rowspan=1 colspan=1>P3416/P3516PR</td><td rowspan=1 colspan=1>952044370</td><td rowspan=1 colspan=1>16”</td><td rowspan=1 colspan=1>952051211</td><td rowspan=1 colspan=1>33°</td></tr><tr><td rowspan=1 colspan=1>P4018WM/P4018WTP3818AV/P4018AVP4018AVBH</td><td rowspan=1 colspan=1>952044418</td><td rowspan=1 colspan=1>18″</td><td rowspan=1 colspan=1>952051338</td><td rowspan=1 colspan=1>33°</td></tr></table>",
+    "bbox": [
+      63,
+      42,
+      647,
+      142
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "NOTE: If this saw is to be used for commercial logging, a chain brake is required and shall not be removed or otherwise disabled to comply with Federal OSHA Regulations for Commercial Logging. ",
+    "bbox": [
+      62,
+      148,
+      335,
+      201
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "WARNING: The engine exhaust from this product contains chemicals known to the State of California to cause cancer, birth defects or other reproductive harm. ",
+    "bbox": [
+      62,
+      208,
+      335,
+      252
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "SAFETY NOTICE: Exposure to vibrations through prolonged use of gasoline powered hand tools could cause blood vessel or nerve damage in the fingers, hands, and joints of people prone to circulation disorders or abnormal swellings. Prolonged use in cold weather has been linked to blood vessel damage in otherwise healthy people. If symptoms occur such as numbness, pain, loss of strength, change in skin color or texture, or loss of feeling in the fingers, hands, or joints, discontinue the use of this tool and seek medical attention. An anti-vibration system does not guarantee the avoidance of these problems. Users who operate power tools on a continual and regular basis must monitor closely their physical condition and the condition of this tool. ",
+    "bbox": [
+      62,
+      253,
+      335,
+      437
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "SPECIAL NOTICE: Your saw is equipped with a temperature limiting muffler and spark arresting screen which meets the requirements of California Codes 4442 and 4443. All U.S. forest land and the states of California, Idaho, Maine, Minnesota, New Jersey, Oregon, and Washington require by law that many internal combustion engines to be equipped with a spark arresting screen. If you operate a chain saw in a state or locale where such regulations exist, you are legally responsible for maintaining the operating condition of these parts. Failure to do so is a violation of the law. Refer to the SERVICE section for maintenance of the spark arresting screen. ",
+    "bbox": [
+      375,
+      148,
+      649,
+      312
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Failure to follow all Safety Rules and Precautions can result in serious injury. If situations occur which are not covered in this manual, usecare andgood judgement. If you need assistance, contact your authorized service dealer or call 1-800--554--6723. ",
+    "bbox": [
+      375,
+      312,
+      649,
+      374
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "STANDARDS: This saw is listed by Underwriter’s Laboratories, Inc., in accordance with: ANSI B175.1--2000 American National Standards for Gasoline--Powered Chain Saws -- Safety Requirements   \nCSA Z62.1--03 Chain Saws -- Occupational Health and Safety   \nCSA Z62.3--96 Chain Saw Kickback Occupational Health and Safety ",
+    "bbox": [
+      374,
+      377,
+      649,
+      471
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Protective gloves (not provided) should be worn during assembly. ",
+    "bbox": [
+      63,
+      513,
+      335,
+      533
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ATTACHING THE BAR & CHAIN (If not already attached) ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      534,
+      335,
+      559
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "WARNING: If received assembled, repeat all steps to ensure your saw is properly assembled and all fasteners are secure. Always wear gloves when handling the chain. The chain is sharp and can cut you even when it is not moving! ",
+    "bbox": [
+      62,
+      567,
+      335,
+      631
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1. Loosen and remove the bar nuts and the clutch cover from the saw.   \n2. Remove the plastic shipping spacer (if present). ",
+    "bbox": [
+      62,
+      631,
+      337,
+      673
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/029add98e770e7631e59f38ea8b6a05887f0448a2939c05daf9437dc6303e87b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      383,
+      511,
+      645,
+      681
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3. An adjusting pin and screw is used to adjust the tension of the chain. It is very important when assembling the bar, that the pin located on the adjusting screw aligns into a hole in the bar. Turning the screw will move the adjustment pin up and down the screw. Locate this adjustment before you begin mounting the bar onto the saw. See following illustration. ",
+    "bbox": [
+      375,
+      691,
+      649,
+      743
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      356,
+      746,
+      370,
+      757
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ASSEMBLY ",
+    "bbox": [
+      62,
+      474,
+      645,
+      507
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      63,
+      562,
+      83,
+      577
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      63,
+      204,
+      83,
+      219
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      87,
+      26,
+      337,
+      68
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/bc89a81fb8e163ddab9411adf8ec8503cf4fe2c3d92496a0347890909828f2ad.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      87,
+      69,
+      315,
+      142
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Adjustment located on clutch cover ",
+    "bbox": [
+      67,
+      144,
+      292,
+      155
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4. Turn the adjusting screw by hand counterclockwise until the adjusting pin just touches the stop. This should allow the pin to be near the correct position.   \n5. Slide guide bar on bar bolts until guide bar stops against clutch drum sprocket. ",
+    "bbox": [
+      62,
+      156,
+      337,
+      219
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/013c8d50bda316a0a5e414118b79356bef4d21b58892cc33f1b5ebe7865ca7fd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      96,
+      219,
+      302,
+      341
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6. Carefully remove the chain from the package. Hold chain with the drive links as shown. ",
+    "bbox": [
+      62,
+      355,
+      335,
+      385
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/975a16db8349171f0867a1ca68cb289375967766a71a83c951a2e8eb6ff7607f.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      386,
+      335,
+      587
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/155dc2400b5474983c8159978f7f02754bb300128e660be8c5972be1a7d5a0e7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      375,
+      26,
+      651,
+      208
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "12. Install bar nuts and finger tighten only. Once the chain is tensioned, you will need to tighten bar nuts. ",
+    "bbox": [
+      375,
+      212,
+      649,
+      244
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7. Place chain over and behind clutch retainer, fitting the drive links in the clutch drum sprocket.   \n8. Fit bottom of drive links between the teeth in the sprocket in the nose of the guide bar.   \n9. Fit chain drive links into bar groove.   \n10. Pull guide bar forward until chain is snug in guide bar groove. Ensure all drive links are in the bar groove.   \n11. Now, install clutch cover making sure the adjusting pin is positioned in the lower hole in the guide bar. Remember this pin moves the bar forward and backward as the screw is turned. ",
+    "bbox": [
+      62,
+      589,
+      337,
+      743
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "CHAIN TENSION ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      245,
+      503,
+      256
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "(Including units with chain already installed) ",
+    "bbox": [
+      377,
+      257,
+      649,
+      267
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Wear protective gloves when handling chain. The chain is sharp and can cut you even when it is not moving. ",
+    "bbox": [
+      375,
+      275,
+      649,
+      310
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NOTE: When adjusting chain tension, make sure the bar nuts are finger tight only. Attempting to tension the chain when the bar nuts are tight can cause damage. ",
+    "bbox": [
+      375,
+      311,
+      649,
+      353
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Checking the tension: ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      356,
+      546,
+      367
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Use the screwdriver end of the chain adjustment tool (bar tool) to move chain around guide bar. If the chain does not rotate, it is too tight. If the chain is too loose, it will sag below the bar. ",
+    "bbox": [
+      375,
+      367,
+      649,
+      418
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/bbb1098935dce1548d3370c31806844323d8872c079c02356e91bbc70c98df4c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      372,
+      422,
+      651,
+      534
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Adjusting the tension: ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      541,
+      546,
+      554
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Chain tension is very important. Chains stretch during use. This is especially true during the first few times you use your saw. Always check chain tension each time before you start the chain saw. ",
+    "bbox": [
+      375,
+      554,
+      649,
+      604
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1. Loosen bar nuts until they are finger tight against the clutch cover.   \n2. Turn adjusting screw clockwise until chain solidly contacts bottom of guide bar rail. ",
+    "bbox": [
+      375,
+      604,
+      649,
+      647
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/f31f59b0c6463a0ca4cd7f1e7a013e9bcb72665d559b9bcafbef09baee42c19c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      372,
+      650,
+      645,
+      740
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      368,
+      755
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3. Using bar tool, roll chain around guide bar to ensure all links are in bar groove. ",
+    "bbox": [
+      62,
+      26,
+      335,
+      46
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "4. Lift up tip of guide bar to check for sag. Release tip of guide bar, then turn adjusting screw $\\mathbb { 1 } _ { / _ { 4 } } ^ { \\smile }$ turn clockwise. Repeat until sag does not exist. ",
+    "bbox": [
+      62,
+      48,
+      335,
+      87
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/70cfd7e7bb0efe7386be3aadfb22510e0781d312d0b4bd6be1c092fc6ed9d8c5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      120,
+      91,
+      290,
+      138
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5. While lifting tip of guide bar, tighten bar nuts securely with the bar tool. ",
+    "bbox": [
+      62,
+      141,
+      333,
+      164
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/3be989bf511e6d3e763578f8e7bce4688b77159e160b79397531c4529a49860e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      58,
+      170,
+      337,
+      259
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6. Use the screwdriver end of the bar tool to move chain around guide bar.   \n7. If chain does not rotate, it is too tight. Slightly loosen bar nuts and loosen chain by turning the adjusting screw $^ 1 / _ { 4 }$ turn counterclockwise. Retighten bar nuts.   \n8. If chain is too loose, it will sag below the guide bar. DO NOT operate the saw if the chain is loose. ",
+    "bbox": [
+      374,
+      26,
+      649,
+      127
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "NOTE: The chain is tensioned correctly when the weight of the chain does not cause it to sag below the guide bar (with the chain saw sitting in an upright position), but the chain still moves freely around the guide bar. ",
+    "bbox": [
+      375,
+      128,
+      649,
+      182
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "WARNING: ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      190,
+      496,
+      203
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "If the saw is operated with a loose chain, the chain could jump off the guide bar and result in serious injury to the operator and/or damage the chain making it unusable. If the chain jumps off the guide bar, inspect each drive link for damage. Damaged chain must be repaired or replaced. ",
+    "bbox": [
+      375,
+      196,
+      649,
+      266
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "OPERATION",
+    "text_level": 1,
+    "bbox": [
+      288,
+      275,
+      420,
+      292
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "KNOW YOUR CHAIN SAW ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      301,
+      263,
+      312
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "READ THIS INSTRUCTION MANUAL AND SAFETY RULES BEFORE OPERATING YOUR CHAIN SAW. Compare the illustrations with your unit to familiarize yourself with the location of the various controls and adjustments. Save this manual for future reference. ",
+    "bbox": [
+      63,
+      312,
+      647,
+      347
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/835e98eeec1e0f1e3f388d6ded1304c6a0e9fc070733de03ddcec9b06d57ddc9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      349,
+      641,
+      700
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ON/STOP SWITCH ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      710,
+      199,
+      721
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The ON/STOP SWITCH is used to stop the engine. ",
+    "bbox": [
+      63,
+      722,
+      335,
+      743
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "THROTTLE TRIGGER ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      710,
+      536,
+      721
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The THROTTLE TRIGGER controls engine speed. ",
+    "bbox": [
+      375,
+      722,
+      647,
+      743
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      356,
+      746,
+      368,
+      757
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      185,
+      399,
+      201
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "THROTTLE LOCK--OUT",
+    "text_level": 1,
+    "bbox": [
+      63,
+      26,
+      238,
+      37
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The THROTTLE LOCK--OUT must be pressed before you can squeeze the throttle trigger. This feature prevents you from accidentally squeezing the trigger. ",
+    "bbox": [
+      63,
+      38,
+      335,
+      82
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CHOKE/FAST IDLE LEVER ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      83,
+      261,
+      94
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The choke and fast idle are set by pulling the CHOKE/FAST IDLE LEVER out to the full extent for cold starting or after refueling. The choke provides additional fuel to the engine during cold starting. ",
+    "bbox": [
+      63,
+      96,
+      335,
+      146
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "PRIMER BULB ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      149,
+      172,
+      160
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The PRIMER BULB circulates fuel to the carburetor to provide quicker starting. ",
+    "bbox": [
+      63,
+      161,
+      333,
+      182
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CHAIN BRAKE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      185,
+      172,
+      196
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The chain brake is a device designed to stop the chain if kickback occurs. The chain brake ",
+    "bbox": [
+      63,
+      197,
+      333,
+      218
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "BEFORE STARTING ENGINE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      231,
+      282,
+      244
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Muffler is very hot during and after use. Do not touch the muffler or allow combustible material such as dry grass or fuel to do so. ",
+    "bbox": [
+      62,
+      253,
+      335,
+      296
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Be sure to read the fuel handling information in the safety rules section of this manual before you begin. If you do not understand the fuel handling information do not attempt to fuel your unit. Seek help from someone that does understand the information or call the customer assistance help line at 1-800-554-6723. ",
+    "bbox": [
+      62,
+      304,
+      335,
+      388
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "FUELING ENGINE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      389,
+      201,
+      401
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Remove fuel cap slowly when refueling. ",
+    "bbox": [
+      62,
+      410,
+      333,
+      433
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "HELPFUL TIP ",
+    "text_level": 1,
+    "bbox": [
+      180,
+      437,
+      302,
+      448
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/d76b7c6194340cd8984a90966027945b9d4d716f794a317ed53d523641cd4d4c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      437,
+      145,
+      492
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To obtain the correct oil mix ratio, pour 3.2 ounces of 2--cycle synthetic oil into one gallon of fresh gas. ",
+    "bbox": [
+      151,
+      451,
+      323,
+      492
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This engine is certified to operate on unleaded gasoline. Before operation, gasoline must be mixed with a good quality synthetic 2-cycle aircooled engine oil designed to be mixed at a ratio of 40:1. Poulan/WEED EATER brand synthetic oil is recommended. A 40:1 ratio is obtained by mixing 3.2 fluid ounces (95 ml) of oil with 1 gallon (4 liters) of unleaded gasoline. Included with this saw is a 3.2 ounce (95 ml) container of Poulan/WEED EATER brand synthetic oil. Pour the entire contents of this container into 1 gallon (4 liters) of gasoline to achieve the proper fuel mixture. DO NOT USE automotive or marine oil. These oils will cause engine damage. When mixing fuel follow the instructions printed on the container. Always read and follow the safety rules listed under HANDLE FUEL WITH CAUTION. ",
+    "bbox": [
+      62,
+      495,
+      335,
+      676
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CAUTION: Never use straight gasoline in your unit. This will cause permanent engine damage and void the limited warranty. ",
+    "bbox": [
+      63,
+      679,
+      335,
+      710
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "FUEL REQUIREMENTS ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      711,
+      240,
+      722
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This engine requires the use of minimum 87 octane $[ R + M ] / 2$ clean gasoline. ",
+    "bbox": [
+      63,
+      722,
+      335,
+      743
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "activates automatically in the event of kickback. The chain brake activates manually if the front hand guard is pushed forward. The chain brake is disengaged by pulling the front hand guard back toward the front handle as far as possible. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      87
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CHAIN TENSION ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      93,
+      500,
+      102
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "It is normal for a new chain to stretch during the first 15 minutes of operation. You should check your chain tension each time before you start the chain saw. See CHAIN TENSION under the ASSEMBLY section. ",
+    "bbox": [
+      375,
+      105,
+      649,
+      156
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WARNING: If the saw is operated with a loose chain, the chain could jump off the guide bar and result in serious injury to the operator and/or damage the chain making it unusable. ",
+    "bbox": [
+      375,
+      164,
+      649,
+      218
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      233,
+      470,
+      244
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Use of alcohol blended fuels (called gasohol or using ethanol or methanol) can cause major engine performance and durability problems. ",
+    "bbox": [
+      375,
+      245,
+      649,
+      275
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      377,
+      285,
+      496,
+      296
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Alternative fuels (not gasoline) such as E--15 $1 5 \\%$ alcohol), E--20 $2 0 \\%$ alcohol), E--85 $8 5 \\%$ alcohol) are NOT classified as gasoline and are NOT approved for use in 2--stroke gasoline engines. Use of alternative fuels will cause problems such as: improper clutch engagements, overheating, vapor lock, power loss, lubrication deficiency, deterioration of fuel lines, gaskets and internal carburetor components, etc. Alternative fuels cause high moisture absorption into the fuel/oil mixture leading to oil and fuel separation. ",
+    "bbox": [
+      375,
+      288,
+      647,
+      408
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "BAR AND CHAIN LUBRICATION ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      410,
+      622,
+      421
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The bar and chain require continuous lubrication. Lubrication is provided by the automatic oiler system when the oil tank is kept filled. Lack of oil will quickly ruin the bar and chain. Too little oil will cause overheating shown by smoke coming from the chain and/ or discoloration of the bar. ",
+    "bbox": [
+      375,
+      422,
+      649,
+      493
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In freezing weather oil will thicken, making it necessary to thin bar and chain oil with a small amount (5 to $10 \\%$ ) of #1 Diesel Fuel or kerosene. Bar and chain oil must be free flowing for the oil system to pump enough oil for adequate lubrication. ",
+    "bbox": [
+      375,
+      495,
+      649,
+      555
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Genuine Poulan bar and chain oil is recommended to protect your unit against excessive wear from heat and friction. Poulan oil resists high temperature thinning. ",
+    "bbox": [
+      375,
+      556,
+      649,
+      598
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "If Poulan bar and chain oil is not available, use a good grade SAE 30 oil. ",
+    "bbox": [
+      375,
+      598,
+      649,
+      618
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "S Never use waste oil for bar and chain lubrication.   \nS Always stop the engine before removing the oil cap. ",
+    "bbox": [
+      375,
+      620,
+      649,
+      659
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CHAIN BRAKE ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      662,
+      488,
+      673
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Ensure chain brake is disengaged by pulling the front hand guard back toward the front handle as far as possible. The chain brake must be disengaged before cutting with the saw. ",
+    "bbox": [
+      375,
+      673,
+      649,
+      714
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      368,
+      757
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      278,
+      397,
+      294
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      157,
+      397,
+      175
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      63,
+      300,
+      83,
+      315
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      63,
+      404,
+      83,
+      419
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      63,
+      30,
+      182,
+      48
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "WARNING: The chain must not move when the engine runs at idle speed. If the chain moves at idle speed refer to CAR-BURETOR ADJUSTMENT within this manual. Avoid contact with the muffler. A hot muffler can cause serious burns. ",
+    "bbox": [
+      62,
+      34,
+      335,
+      98
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To stop the engine move the ON/STOP switch to the STOP position. ",
+    "bbox": [
+      62,
+      98,
+      335,
+      119
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To start the engine hold the saw firmly on the ground as illustrated. Make sure the chain is free to turn without contacting any object. ",
+    "bbox": [
+      62,
+      122,
+      335,
+      153
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Use only $1 5 \" - 1 8 \"$ (40 -- 45 cm) of rope per pull. ",
+    "bbox": [
+      71,
+      174,
+      290,
+      196
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Hold saw firmly while pulling starter rope. ",
+    "bbox": [
+      71,
+      197,
+      327,
+      209
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      83,
+      212,
+      215,
+      223
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/2782edcc1a386cd686fa088dc8f7a1770e281e073613b8f28e13b3c397ce393d.jpg",
+    "image_caption": [
+      "Right Foot Through Rear Handle "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      215,
+      335,
+      336
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Do not attempt to throw or drop--start the chain saw. Doing so will put the operator at risk of serious injury due to loss of control of the chain saw. ",
+    "bbox": [
+      62,
+      375,
+      335,
+      419
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT POINTS TO REMEMBER When pulling the starter rope, do not use the full extent of the rope as this can cause the rope to break. Do not let starter rope snap back. Hold the handle and let the rope rewind slowly. ",
+    "bbox": [
+      62,
+      423,
+      335,
+      488
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For cold weather starting, start the unit at FULL CHOKE; allow the engine to warm up before squeezing the throttle trigger. ",
+    "bbox": [
+      62,
+      489,
+      335,
+      521
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "NOTE: Do not attempt to cut material with the choke/fast idle lever in the FULL CHOKE position. ",
+    "bbox": [
+      62,
+      526,
+      335,
+      558
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "HELPFUL TIP ",
+    "text_level": 1,
+    "bbox": [
+      184,
+      576,
+      304,
+      588
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/a8fd93741c93007db5403593ff01ab84bb6089f843e9e377f8e92831603ac868.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      574,
+      149,
+      631
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "If your engine still does not start after following these instructions, please call 1--800--554--6723. ",
+    "bbox": [
+      151,
+      591,
+      323,
+      631
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "STARTING A COLD ENGINE (or warm engine after running out of fuel) ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      661,
+      335,
+      685
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "NOTE: In the following steps, when the choke/fast idle lever is pulled out to the full extent, the correct throttle setting for starting is set automatically. ",
+    "bbox": [
+      62,
+      687,
+      335,
+      729
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/fe322eda20975184d13e6d23fcad1b44759cc961e838ee7fbcdd4b378ceb8797.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      375,
+      28,
+      645,
+      167
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1. Move ON/STOP switch to the ON position.   \n2. Slowly press primer bulb 6 times.   \n3. Pull choke/fast idle lever out to the full extent (to the FULL CHOKE position).   \n4. Pull the starter rope sharply 5 times with your right hand. Then, proceed to the next step. ",
+    "bbox": [
+      375,
+      168,
+      649,
+      251
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "NOTE: If the engine sounds as if it is trying to start before the 5th pull, stop pulling and immediately proceed to the next step. ",
+    "bbox": [
+      375,
+      253,
+      649,
+      283
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "5. Push the choke/fast idle lever in to the HALF CHOKE position. ",
+    "bbox": [
+      375,
+      283,
+      649,
+      304
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/2d0aaf8d2b54e87db95296e9641b1fd1ab7aae1ef25e2398db7ef0a8e0cf5a39.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      406,
+      305,
+      627,
+      436
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "6. Pull the starter rope sharply with your right hand until the engine starts.   \n7. Allow the engine to run for approximately 30 seconds. Then, squeeze and release the throttle trigger to allow engine to return to idle speed. ",
+    "bbox": [
+      375,
+      438,
+      649,
+      499
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "STARTING A WARM ENGINE ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      500,
+      596,
+      511
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1. Move ON/STOP switch to the ON position.   \n2. Slowly press primer bulb 6 times.   \n3. To set the fast idle, pull the choke/fast idle lever out to the full extent (to the full choke position); then push the lever back in to the HALF CHOKE position.   \n4. Pull the starter rope sharply with your right hand until the engine starts.   \n5. Squeeze and release throttle trigger to allow engine to return to idle speed. ",
+    "bbox": [
+      375,
+      513,
+      649,
+      624
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "DIFFICULT STARTING (or starting a flooded engine) ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      624,
+      647,
+      647
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The engine may be flooded with too much fuel if it has not started after 10 pulls. Flooded engines can be cleared of excess fuel by pushing the choke/fast idle lever in completely (to the OFF CHOKE position) and then following the warm engine starting procedure listed above. Ensure the ON/STOP switch is in the ON position. ",
+    "bbox": [
+      375,
+      648,
+      649,
+      729
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Starting could require pulling the starter rope handle many times depending on how badly the unit is flooded. If engine fails to start, refer to the TROUBLESHOOTING TABLE or call 1-800-554-6723. ",
+    "bbox": [
+      62,
+      26,
+      335,
+      76
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CHAIN BRAKE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      80,
+      176,
+      91
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "WARNING: If the brake band is worn too thin it may break when the chain brake is triggered. With a broken brake band, the chain brake will not stop the chain. The chain brake should be replaced by an authorized service dealer if any part is worn to less than $0 . 0 2 0 ^ { \\prime \\prime }$ $( 0 . 5 ~ \\mathsf { m m } )$ ) thick. Repairs on a chain brake should be made by an authorized service dealer. Take your unit to the place of purchase if purchased from a servicing dealer, or to the nearest authorized master service dealer. ",
+    "bbox": [
+      62,
+      101,
+      335,
+      224
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "S This saw is equipped with a chain brake. The brake is designed to stop the chain if kickback occurs.   \nS The inertia--activated chain brake is activated if the front hand guard is pushed forward, either manually (by hand) or automatically (by sudden movement). If the brake is already activated, it is disengaged by pulling the front hand guard back toward the front handle as far as possible. When cutting with the saw, the chain brake must be disengaged. ",
+    "bbox": [
+      62,
+      226,
+      335,
+      359
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/3cd73eb8f466b86cecfd9252becdb37ed6fb80eec8e13890ec9e681e08547ba7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      360,
+      329,
+      441
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Braking function control ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      447,
+      251,
+      459
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CAUTION: The chain brake must be checked several times daily. The engine must be running when performing this procedure. This is the only instance when the saw should be placed on the ground with the engine running. ",
+    "bbox": [
+      62,
+      459,
+      335,
+      522
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Place the saw on firm ground. Grip the rear handle with your right hand andthe front handle with your left hand. Apply full throttle by fully depressing the throttle trigger. Activate the chain brake by turning your left wrist against the hand guard without releasing your grip around the front handle. The chain should stop immediately. ",
+    "bbox": [
+      62,
+      522,
+      335,
+      604
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Inertia activating function control A ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      607,
+      319,
+      629
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "WARNING: When performing the following procedure, the engine must be turned off. ",
+    "bbox": [
+      62,
+      631,
+      335,
+      661
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Grip the rear handle with your right hand and the front handle with your left hand. Hold the chain saw approximately $1 4 ^ { \\prime \\prime }$ (35 cm) above a stump or other wooden surface. Release your grip on the front handle and use the weight of the saw to let the tip of the guide bar fall forward and contact the stump. When the tip of the bar hits the stump, the brake should activate. ",
+    "bbox": [
+      62,
+      662,
+      335,
+      743
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "OPERATING TIPS",
+    "text_level": 1,
+    "bbox": [
+      375,
+      26,
+      511,
+      37
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "S Check chain tension before first use, after 1 minute of operation, and each time before you start the chain saw. See CHAIN TENSION in the ASSEMBLY section.   \nCut wood only. Do not cut metal, plastics, masonry, non-wood building materials, etc.   \nStop the saw if the chain strikes a foreign object. Inspect the saw and repair or replace parts as necessary. If the chain jumps off the guide bar, inspect the chain for damaged drive links before reinstalling. Burrs on drive links, which prevent them from entering the groove of the guide bar, can be removed with a flat file.   \nKeep the chain out of dirt and sand. Even a small amount of dirt will dull a chain, increase the possibility of kickback, and require chain sharpening or replacement. Practice cutting a few small logs using the following techniques to get the “feel” of using your saw before you begin a major sawing operation. S Squeeze the throttle trigger and allow the engine to reach full speed before cutting. Begin cutting with the saw frame against the log. Keep the engine at full speed the entire time you are cutting. Allow the chain to cut for you. Exert only light downward pressure. If you force the cut, damage to the bar, chain, or engine can result. Release the throttle trigger as soon as the cut is completed, allowing the engine to idle. If you run the saw at full throttle without a cutting load, unnecessary wear can occur to the chain, bar, and engine. It is recommended that the engine not be operated for longer than 30 seconds at full throttle. To avoid losing control when cut is complete, do not put pressure on saw at end of cut.   \nS Stop the engine before setting the saw down after cutting. ",
+    "bbox": [
+      375,
+      39,
+      649,
+      495
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "TREE FELLING TECHNIQUES",
+    "text_level": 1,
+    "bbox": [
+      375,
+      496,
+      606,
+      507
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "WARNING: ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      515,
+      496,
+      528
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Check for broken or dead branches which can fall while cutting causing serious injury. Do not cut near buildings or electrical wires if you do not know the direction of tree fall, nor cut at night since you will not be ale to see well, nor during bad weather such as rain, snow, or strong winds, etc. If the tree makes contact with any utility line, the utility company should be notified immediately. ",
+    "bbox": [
+      375,
+      521,
+      649,
+      620
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "S Carefully plan your sawing operation in advance. Clear the work area. You need a clear area all around the tree so you can have secure footing. The chain saw operator should keep on the uphill side of the terrain as the tree is likely to roll or slide downhill after it is felled.   \nS Study the natural conditions that can cause the tree to fall in a particular direction. ",
+    "bbox": [
+      375,
+      621,
+      649,
+      722
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Natural conditions that can cause a tree to fall in a particular direction include: ",
+    "bbox": [
+      375,
+      722,
+      647,
+      743
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      375,
+      757
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      510,
+      397,
+      528
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "S The wind direction and speed. S The lean of the tree. The lean of a tree might not be apparent due to uneven or sloping terrain. Use a plumb or level to determine the direction of tree lean. S Weight and branches on one side. S Surrounding trees and obstacles. ",
+    "bbox": [
+      62,
+      26,
+      335,
+      98
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Look for decay and rot. If the trunk is rotted, it can snap and fall toward the operator. Check for broken or dead branches which can fall on you while cutting. Make sure there is enough room for the tree to fall. Maintain a distance of $_ { 2 - 1 / 2 }$ tree lengths from the nearest person or other objects. Engine noise can drown out a warning call. Remove dirt, stones, loose bark, nails, staples, and wire from the tree where cuts are to be made. Plan a clear retreat path to therear and diagonal to the line of fall. ",
+    "bbox": [
+      62,
+      97,
+      335,
+      222
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/146018d2b53f21ea3ee4f6261b9c94766bdcb0a5818c51b0845e2572275f4c14.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      226,
+      327,
+      323
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "FELLING LARGE TREES ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      327,
+      253,
+      338
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "(6 inches (15 cm) in diameter or larger) The notch method is used to fell large trees. A notch is cut on the side of the tree in the desired direction of fall. After a felling cut is made on the opposite side of tree, the tree will tend to fall into the notch. ",
+    "bbox": [
+      62,
+      341,
+      335,
+      401
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "NOTE: If the tree has large buttress roots, remove them before making the notch. If using saw to remove buttress roots, keep saw chain from contacting ground to prevent dulling of the chain. ",
+    "bbox": [
+      62,
+      404,
+      335,
+      456
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "NOTCH CUT AND FELLING THE TREE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      459,
+      310,
+      482
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "S Make notch cut by cutting the top of the notch first. Cut through $1 / 3$ of the diameter of the tree. Next complete the notch by cutting the bottom of the notch. See illustration. Once the notch is cut remove the notch of wood from the tree. ",
+    "bbox": [
+      62,
+      482,
+      335,
+      544
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Final (felling) cut here, 2 inches (5 cm) above center of notch. ",
+    "bbox": [
+      114,
+      545,
+      313,
+      566
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/2f03d3751ae75bcb3f1ca2660963a732927bc98c2085c25238616d26f946c1d6.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      567,
+      333,
+      699
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "S After removing the wood from the notch, make the felling cut on the opposite side of the notch. This is done by making a cut about two inches (5 cm) higher than the center of the notch. This will leave enough uncut wood between the felling cut and the notch to form a hinge. This hinge will help prevent the tree from falling in the wrong direction. ",
+    "bbox": [
+      62,
+      700,
+      335,
+      744
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      387,
+      26,
+      649,
+      68
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Hinge holds tree on stump and helps control fall ",
+    "text_level": 1,
+    "bbox": [
+      385,
+      69,
+      637,
+      90
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/b85a99201471ea49090434535a8f2c5030d985e455b3d523d4c8c682c0471f39.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      403,
+      90,
+      612,
+      204
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "NOTE: Before felling cut is complete, use wedges to open the cut if necessary to control the direction of fall. To avoid kickback and chain damage, use wood or plastic wedges, but never steel or iron wedges. ",
+    "bbox": [
+      375,
+      205,
+      649,
+      257
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "S Be alert to signs that the tree is ready to   \nfall: cracking sounds, widening of the fell  \ning cut, or movement in the upper branches.   \nAs tree starts to fall, stop saw, put it down,   \nand get away quickly on your planned retreat path.   \nDO NOT cut down a partially fallen tree with your saw. Be extremely cautious with partially fallen trees that may be poorly   \nsupported. When a tree doesn’t fall completely, set the saw aside and pull down the   \ntree with a cable winch, block and tackle, or tractor. ",
+    "bbox": [
+      375,
+      257,
+      649,
+      399
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CUTTING A FALLEN TREE(BUCKING)",
+    "text_level": 1,
+    "bbox": [
+      375,
+      401,
+      579,
+      423
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Bucking is the term used for cutting a fallen tree to the desired log size. ",
+    "bbox": [
+      377,
+      425,
+      647,
+      445
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Do not stand on the log being cut. Any portion can roll causing loss of footing and control. Do not stand downhill of the log being cut. ",
+    "bbox": [
+      375,
+      455,
+      649,
+      497
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT POINTS ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      497,
+      536,
+      508
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "S Cut only one log at a time.   \nS Cut shattered wood very carefully; sharp pieces of wood could be flung toward operator. Use a sawhorse to cut small logs. Never allow another person to hold the log while cutting and never hold the log with your leg or foot. Do not cut in an area where logs, limbs, and roots are tangled such as in a blown down area. Drag the logs into a clear area before cutting by pulling out exposed and cleared logs first. ",
+    "bbox": [
+      375,
+      510,
+      649,
+      643
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "TYPES OF CUTTING USED FOR BUCKING ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      646,
+      622,
+      670
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "WARNING: ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      673,
+      496,
+      691
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "If saw becomes pinched or hung in a log, don’t try to force it out. You can lose control of the saw resulting in injury and/or damage to the saw. Stop the saw, drive a wedge of plastic or wood into the cut until the saw can be removed easily. Restart the saw and carefully reenter the cut. To avoid kickback and chain damage, do not use a metal wedge. Do not attempt to restart your saw when it is pinched or hung in a log. ",
+    "bbox": [
+      375,
+      679,
+      649,
+      743
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      448,
+      397,
+      466
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      26,
+      337,
+      68
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Use a wedge to remove pinched saw ",
+    "bbox": [
+      67,
+      71,
+      317,
+      82
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/f88196c5bf483df8681a27932e2eef5da4415fb37cf7276dbde209a4de95b33e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      82,
+      282,
+      123
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Turn saw OFF and use a plastic or wooden wedge to force cut open. ",
+    "bbox": [
+      93,
+      123,
+      310,
+      144
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Overcutting begins on the top side of the log with the bottom of the saw against the log. When overcutting use light downward pressure. ",
+    "bbox": [
+      62,
+      145,
+      335,
+      186
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/438a2a4a12d79d698cf797e5c5f9a03be6149d89b926352f3732e439830c47b5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      58,
+      192,
+      313,
+      248
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Undercutting involves cutting on the underside of the log with top of saw against the log. When undercutting use light upward pressure. Hold saw firmly and maintain control. The saw will tend to push back toward you. ",
+    "bbox": [
+      62,
+      256,
+      335,
+      308
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Never turn saw upside down to undercut. The saw cannot be controlled in this position. ",
+    "bbox": [
+      62,
+      315,
+      335,
+      349
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Always make your first cut on the compression side of the log. The compression side of the log is where the pressure of the log’s weight is concentrated. ",
+    "bbox": [
+      62,
+      351,
+      335,
+      390
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "First cut on compression side of log ",
+    "bbox": [
+      73,
+      392,
+      304,
+      403
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/e4243abf8873d91d53556671d5039a3adf8440f7cb1fdfea7666c3d1f8cc6525.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      395,
+      323,
+      534
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "First cut on compression side of log BUCKING WITHOUT A SUPPORT ",
+    "bbox": [
+      60,
+      537,
+      319,
+      563
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "S Overcut through $^ { 1 / 3 }$ of the diameter of the log. Roll the log over and finish with a second overcut. Watch for logs with a compression side to prevent the saw from pinching. See illustrations for cutting logs with a compression side. ",
+    "bbox": [
+      62,
+      565,
+      335,
+      644
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "BUCKING USING A LOG OR SUPPORT STAND ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      647,
+      279,
+      670
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "S Remember your first cut is always on the compression side of the log. (Refer to the illustrations below for your first and second cut)   \nS Your first cut should extend $^ { 1 / 3 }$ of the diameter of the log.   \nS Finish with your second cut. ",
+    "bbox": [
+      62,
+      672,
+      337,
+      743
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2 Using a log for support nd Cut ",
+    "bbox": [
+      387,
+      26,
+      616,
+      38
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/92ebbb6d5c710332e0874135c650e45581cc54efec94e8d985b57bd9b5dbc456.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      387,
+      35,
+      647,
+      422
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "LIMBING AND PRUNING ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      427,
+      563,
+      451
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Be alert for and guard against kickback. Do not allow the moving chain to contact any other branches or objects at the nose of the guide bar when limbing or pruning. Allowing such contact can result in serious injury. ",
+    "bbox": [
+      375,
+      449,
+      649,
+      514
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Never climb into a tree to limb or prune. Do not stand on ladders, platforms, a log, or in any position which can cause you to lose your balance or control of the saw. ",
+    "bbox": [
+      375,
+      521,
+      649,
+      565
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT POINTS ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      569,
+      536,
+      580
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "S Work slowly, keeping both hands firmly gripped on the saw. Maintain secure footing and balance.   \nS Watch out for springpoles. Springpoles are small size limbs which can catch the saw chain and whip toward you or pull you off bal  \nance. Use extreme caution when cutting small size limbs or slender material. Be alert for springback. Watch out for branches that are bent or under pressure. Avoid being struck by the branch or the saw when the tension in the wood fibers is released.   \nKeep a clear work area. Frequently clear   \nbranches out of the way to avoid tripping over them. ",
+    "bbox": [
+      375,
+      581,
+      649,
+      742
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      515,
+      399,
+      532
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      63,
+      311,
+      85,
+      327
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "LIMBING ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      26,
+      127,
+      37
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "S Always limb a tree after it is cut down. Only   \nthen can limbing be done safely and properly.   \nLeave the larger limbs underneath the felled tree to support the tree as you work.   \nStart at the base of the felled tree and work toward the top, cutting branches and limbs. Remove small limbs with one cut.   \nKeep the tree between you and the chain. Cut from the side of the tree opposite the branch you are cutting.   \nRemove larger, supporting branches with the cutting techniques described in BUCK-ING WITHOUT A SUPPORT.   \nS Always use an overcut to cut small and freely hanging limbs. Undercutting could cause limbs to fall and pinch the saw. ",
+    "bbox": [
+      62,
+      38,
+      335,
+      211
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "PRUNING ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      26,
+      449,
+      38
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Limit pruning to limbs shoulder height or below. Do not cut if branches are higher than your shoulder. Get a professional to do the job. ",
+    "bbox": [
+      375,
+      46,
+      649,
+      89
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "S Make your first cut $1 / 3$ of the way through the bottom of the limb.   \nS Next make a 2nd cut all the way through the limb. Then cut a third overcut leaving a 1 to 2 inch (2.5 to 5 cm) collar from the truck of the tree. ",
+    "bbox": [
+      375,
+      90,
+      649,
+      150
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/19152e28b45caddabd5dd1692a33c33bbe4d7c832d20888dd9481e168f4104c1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      408,
+      150,
+      645,
+      282
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Disconnect the spark plug before performing maintenance except for carburetor adjustments. ",
+    "bbox": [
+      62,
+      340,
+      335,
+      373
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "We recommend all service and adjustments not listed in this manual be performed by an authorized or Master Service Dealer. ",
+    "bbox": [
+      62,
+      373,
+      335,
+      404
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "HELPFUL TIP ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      410,
+      298,
+      422
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/2ff009c4160a167e29ab7a984dac8a8a745cfc0da113226656d94fd5705d6232.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      69,
+      427,
+      145,
+      482
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT: Have all repairs other than the recommended maintenance described in the instruction manual performed by an authorized service dealer. ",
+    "bbox": [
+      151,
+      423,
+      321,
+      486
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "If any dealer other than an authorized service dealer performs work on the product, Poulan may not pay for repairs under warranty. It is your responsibility to maintain and perform general maintenance. ",
+    "bbox": [
+      71,
+      486,
+      319,
+      548
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "MAINTENANCE SCHEDULE ",
+    "text_level": 1,
+    "bbox": [
+      381,
+      331,
+      575,
+      342
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Check: ",
+    "text_level": 1,
+    "bbox": [
+      383,
+      345,
+      432,
+      355
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Fuel mixture level Before each use Bar lubrication . Before each use Chain tension Before each use Chain sharpness . . Before each use For damaged parts . Before each use For loose caps Before each use For loose fasteners Before each use . . . For loose parts Before each use Inspect and Clean:   \nBar . Before each use Complete saw After each use Air filter . Every 5 hours\\* Chain brake Every 5 hours\\* Spark arresting screen   \nand muffler . Every 25 hours\\* Replace spark plug . Yearly   \nReplace fuel filter . . . Yearly   \n\\* Hours of Operation --   \nEach hour of operation is approximately 2 tanks of fuel. ",
+    "bbox": [
+      379,
+      355,
+      641,
+      561
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "GENERAL RECOMMENDATIONS ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      563,
+      627,
+      576
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The warranty on this unit does not cover items that have been subjected to operator abuse or negligence. To receive full value from the warranty, the operator must maintain unit as instructed in this manual. Various adjustments will need to be made periodically to properly maintain your unit. ",
+    "bbox": [
+      375,
+      577,
+      649,
+      647
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "S Once a year, replace the spark plug, air filter, and check guide bar and chain for wear. A new spark plug and air filter assures proper air-fuel mixture and helps your engine run better and last longer. ",
+    "bbox": [
+      375,
+      648,
+      649,
+      698
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "CHECK FOR DAMAGED OR WORN PARTS ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      699,
+      591,
+      722
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Contact an authorized service dealer for replacement of damaged or worn parts. ",
+    "bbox": [
+      375,
+      722,
+      647,
+      743
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      755
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "SERVICE ",
+    "bbox": [
+      63,
+      290,
+      645,
+      323
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NOTE: It is normal for a small amount of oil to appear under the saw after engine stops. Do not confuse this with a leaking oil tank. ",
+    "bbox": [
+      62,
+      26,
+      335,
+      58
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S ON/STOP Switch -- Ensure ON/STOP switch functions properly by moving the switch to the STOP position. Make sure engine stops; then restart engine and continue. Fuel Tank -- Do not use saw if fuel tank shows signs of damage or leaks. Oil Tank -- Do not use saw if oil tank shows signs of damage or leaks. ",
+    "bbox": [
+      62,
+      58,
+      335,
+      139
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CHECK FOR LOOSE FASTENERS AND PARTS ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      139,
+      259,
+      163
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S Bar Nuts   \nS Chain   \nS Muffler   \nS Cylinder Shield   \nS Air Filter   \nS Handle Screws   \nS Vibration Mounts   \nS Starter Housing   \nS Front Hand Guard ",
+    "bbox": [
+      62,
+      164,
+      191,
+      255
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CHECK CHAIN SHARPNESS ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      256,
+      281,
+      267
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "A sharp chain makes wood chips. A dull chain makes a sawdust powder and cuts slowly. See CHAIN SHARPENING. ",
+    "bbox": [
+      62,
+      268,
+      335,
+      297
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CHECK GUIDE BAR ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      299,
+      215,
+      310
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Conditions which require guide bar maintenance: ",
+    "bbox": [
+      63,
+      311,
+      333,
+      330
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S Saw cuts to one side or at an angle.   \nS Saw has to be forced through the cut.   \nS Inadequate supply of oil to bar/chain. ",
+    "bbox": [
+      63,
+      331,
+      306,
+      362
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Check the condition of guide bar each time chain is sharpened. A worn guide bar will damage the chain and make cutting difficult. After each use, ensure ON/STOP switch is in the STOP position, then clean all sawdust from the guide bar and sprocket hole. ",
+    "bbox": [
+      62,
+      362,
+      335,
+      426
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "To maintain guide bar: ",
+    "bbox": [
+      63,
+      423,
+      199,
+      433
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S Move ON/STOP switch to STOP. S Loosen and remove bar nuts and clutch cover. Remove bar and chain from saw. Clean the oil holes and bar groove after each 5 hours of operation. ",
+    "bbox": [
+      62,
+      433,
+      335,
+      484
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/5453c18c65bb9bd6c0bb2222e1baf6202a2d801a75e85042a625772f06a711b7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      62,
+      485,
+      335,
+      569
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S Burring of guide bar rails is a normal process of rail wear. Remove these burrs with a flat file. S When rail top is uneven, use a flat file to restore square edges and sides. ",
+    "bbox": [
+      62,
+      570,
+      335,
+      621
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/033390556817116f65263051867ba0bc68e8694463a0fbfe508cb1bcd1a26849.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      629,
+      319,
+      688
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Replace guide bar when the groove is worn, the guide bar is bent or cracked, or when excess heating or burring of the rails occurs. If replacement is necessary, use only the guide bar specified for your saw in the repair parts list or on the decal located on the chain saw. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      87
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CHECK FUEL MIXTURE LEVEL ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      90,
+      614,
+      101
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S See FUELING ENGINE under the OP-ERATION section. ",
+    "bbox": [
+      375,
+      101,
+      647,
+      122
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "LUBRICATION ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      123,
+      488,
+      135
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/41a3545ca717593ebd7d1e993078342cd2d06b4bf105af8cd20aac5f62e900a9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      393,
+      137,
+      651,
+      238
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S See GUIDE BAR AND CHAIN OIL under the OPERATION section. ",
+    "bbox": [
+      377,
+      241,
+      649,
+      262
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "INSPECT AND CLEAN UNIT AND DECALS ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      263,
+      627,
+      285
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "S After each use, inspect complete unit for loose or damaged parts. Clean the unit and decals using a damp cloth with a mild detergent. S Wipe off unit with a clean dry cloth. ",
+    "bbox": [
+      375,
+      286,
+      649,
+      337
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CHECK CHAIN BRAKE ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      338,
+      552,
+      349
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "See CHAIN BRAKE in the OPERATION section. ",
+    "bbox": [
+      377,
+      349,
+      647,
+      371
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CLEAN AIR FILTER ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      373,
+      525,
+      385
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CAUTION: Do not clean filter in gasoline or other flammable solvent to avoid creating a fire hazard or producing harmful evaporative emissions. ",
+    "bbox": [
+      375,
+      385,
+      649,
+      426
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Cleaning the air filter: ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      427,
+      523,
+      438
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "A dirty air filter decreases the life and performance of the engine and increases fuel consumption and harmful emissions. Always clean your air filter after 10 tanks of fuel or 5 hours of operation, whichever comes first. Clean more frequently in dusty conditions. A used air filter can never be completely cleaned. It is advisable to replace your air filter with a new one after every 50 hours of operation, or annually, whichever comes first. ",
+    "bbox": [
+      375,
+      438,
+      649,
+      540
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1. Loosen 3 screws on cylinder cover.   \n2.3. Remove cylinder cover. Remove air filter cover and air filter.   \n4. Clean the air filter using hot soapy water. Rinse with clean cool water. Air dry completely before reinstalling.   \n5. Reinstall air filter and air filter cover.   \n6. Reinstall cylinder cover and 3 screws. Tighten securely. ",
+    "bbox": [
+      375,
+      541,
+      649,
+      633
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/8e7940ebaf5d90fc59fabd00ac2b3d2814680397e40b41998e333686fb3f4b56.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      27,
+      327,
+      211
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "INSPECT MUFFLER AND SPARK ARRESTING SCREEN ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      212,
+      335,
+      235
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "As the unit is used, carbon deposits build up on the muffler and spark arresting screen, and must be removed to avoid creating a fire hazard or affecting engine performance. Replace the spark arresting screen if breaks occur. ",
+    "bbox": [
+      62,
+      237,
+      335,
+      299
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/edf42e60f96886ac51430faced04b89c6d4ecc2ecc12562e687d8b3bdb5630c7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      300,
+      329,
+      426
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "CLEANING THE SPARK ARREST-ING SCREEN ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      429,
+      333,
+      452
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Cleaning is required every 25 hours of operation or annually, whichever comes first. ",
+    "bbox": [
+      63,
+      452,
+      333,
+      473
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1. Loosen and remove the nut from the exhaust outlet cover.   \n2. Remove the exhaust oulet cover.   \n3. Remove spark arresting screen. Handle screen carefully to prevent damage.   \n4. Clean the spark arresting screen gently with a wire brush. Replace screen if breaks are found.   \n5. Replace any broken or cracked muffler parts.   \n6. Reinstall spark arresting screen, exhaust outlet cover, and nut. Tighten nut securely. ",
+    "bbox": [
+      62,
+      474,
+      335,
+      596
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "REPLACE SPARK PLUG ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      598,
+      250,
+      609
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The spark plug should be replaced each year to ensure the engine starts easier and runs better. Ignition timing is fixed and nonadjustable. ",
+    "bbox": [
+      62,
+      610,
+      335,
+      650
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1. Loosen 3 screws on cylinder cover.   \n2.3. Remove the cylinder cover. Pull off the spark plug boot.   \n4. Remove spark plug from cylinder and discard.   \n5. Replace with Champion RCJ--7Y spark plug and tighten securely with a ${ ^ 3 } / _ { 4 }$ inch (19 mm) socket wrench. Spark plug gap should be 0.025 inch $( 0 , 6 \\mathrm { { \\dot { m } m } ) }$ . ",
+    "bbox": [
+      62,
+      651,
+      335,
+      743
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "6. Reinstall the spark plug boot. 7. Reinstall the cylinder cover and 3 screws. Tighten securely. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      57
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/737bb5d56fd1b214555b083750f23b230f50f7e318bc4473985f9fcdc35447b1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      383,
+      61,
+      639,
+      255
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "REPLACE FUEL FILTER ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      262,
+      562,
+      272
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "To replace fuel filter, drain your unit by running it dry of fuel. Remove fuel cap and its connected retainer from tank. Pull filter from tank and remove from line. Replace and reassemble. ",
+    "bbox": [
+      375,
+      274,
+      649,
+      323
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "CHAIN ADJUSTMENT ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      325,
+      542,
+      337
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "See CHAIN TENSION in ASSEMBLY section. ",
+    "bbox": [
+      377,
+      337,
+      649,
+      349
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "CHAIN SHARPENING ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      352,
+      540,
+      364
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Improper chain sharpening techniques and/or depth gauge maintenance will increase the chance of kickback which can result in serious injury. ",
+    "bbox": [
+      375,
+      371,
+      649,
+      417
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Wear protective gloves when handling chain. The chain is sharp and can cut you even when it is not moving. ",
+    "bbox": [
+      375,
+      425,
+      649,
+      458
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Conditions which indicate the need for chain sharpening: ",
+    "bbox": [
+      377,
+      458,
+      647,
+      478
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "S Reduction in size of wood chips. The size of the wood chip will decrease as the chain gets duller until it becomes more like a powder than a chip. Note that dead or rotted wood will not produce a good chip. S Saw cuts to one side or at an angle. S Saw has to be forced through the cut. ",
+    "bbox": [
+      375,
+      478,
+      649,
+      551
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Tools required: ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      554,
+      492,
+      565
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "S 5/32 inch $( 4 \\ : \\mathsf { m m } )$ diameter round file and file holder   \nS Flat file   \nS Depth gauge tool ",
+    "bbox": [
+      375,
+      565,
+      649,
+      606
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "TO SHARPEN CHAIN: ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      607,
+      542,
+      618
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1. Move ON/STOP switch to the STOP position.   \n2. Check chain for proper tension. Adjust chain tension if necessary. See CHAIN TENSION section.   \n3. Sharpen cutters. To sharpen the cutters, position the file holder level $( 9 0 ^ { \\circ } )$ so that it rests on the top edges of the cutter and depth gauge. NOTE: The chain has both left and right hand cutters. ",
+    "bbox": [
+      374,
+      620,
+      649,
+      743
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      379,
+      757
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      419,
+      397,
+      436
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/e0b41dfba14a8f5af25ffeaf0019517ab20308b7c39ba15e523ba2d03b860cc7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      30,
+      337,
+      96
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Align the $3 0 ^ { \\circ }$ file holder marks parallel with the bar and to the center of the chain. ",
+    "bbox": [
+      87,
+      100,
+      335,
+      131
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/3c81d913529b693e842f3c25e2d2c52c2666f7bf94682e86bfb67728e4b3e7b3.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      62,
+      134,
+      337,
+      204
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      67,
+      196,
+      168,
+      207
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Sharpen cutters on one side of the chain first. File from the inside of each cutter to the outside. Then, turn the chain saw around and repeat the process for the other side of the chain. File on the forward stroke only. Use 2 or 3 strokes per cutting edge. Keep all cutters the same length when filing. File enough to remove any damage to cutting edges (side plate and top plate of cutter). ",
+    "bbox": [
+      87,
+      211,
+      337,
+      334
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/3d612d6cfea6a9a84e71f88d24f089547fd716e1823392f0d893664d68d72186.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      334,
+      335,
+      408
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "File chain to meet the specifications as shown. ",
+    "bbox": [
+      89,
+      411,
+      335,
+      433
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/9d3beb34e029cec002ff06fb113abe4b96fc1bafb982f52886241b76be762acc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      437,
+      335,
+      662
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Maintain the proper hook angle according to the manufacturer’s specifications for the chain you are using. Improper hook angle will increase the chance of kickback which can result in serious injury. ",
+    "bbox": [
+      62,
+      672,
+      335,
+      729
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4. Check and lower depth gauges. ",
+    "bbox": [
+      62,
+      729,
+      290,
+      740
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/40baeff228324fe2fe1b3144eec0501d2c0da6f608ca0f2405f708a4fe825eef.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      375,
+      28,
+      645,
+      91
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Place gauge tool on cutter. S If the depth gauge is higher than the depth gauge tool, file it level to the top of the depth gauge tool. Maintain rounded front corner of depth gauge with a flat file. ",
+    "bbox": [
+      401,
+      94,
+      649,
+      157
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "NOTE: The very top of the depth gauge should be flat with the front half rounded off with a flat file. ",
+    "bbox": [
+      420,
+      157,
+      649,
+      189
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "If you require further assistance or are unsure about performing this procedure, contact your authorized service dealer or call our customer assistance help line at 1--800--554--6723. ",
+    "bbox": [
+      375,
+      189,
+      649,
+      229
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "CARBURETOR ADJUSTMENT ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      230,
+      606,
+      242
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "WARNING: The chain will be moving during most of this procedure. Wear your protective equipment and observe all safety precautions. The chain must not move at idle speed. ",
+    "bbox": [
+      375,
+      252,
+      649,
+      304
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The carburetor has been carefully set at the factory. Adjustments may be necessary if you notice any of the following conditions: ",
+    "bbox": [
+      375,
+      304,
+      649,
+      336
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Chain moves at idle. See IDLE SPEED--T adjusting procedure.   \nS Saw will not idle. See IDLE SPEED--T adjusting procedure. ",
+    "bbox": [
+      375,
+      336,
+      649,
+      377
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Idle Speed--T",
+    "text_level": 1,
+    "bbox": [
+      375,
+      378,
+      474,
+      389
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Allow engine to idle. If the chain moves, idle is too fast. If the engine stalls, idle is too slow. Adjust speed until engine runs without chain movement (idle too fast) or stalling (idle too slow). The idle speed screw is located in the area above the primer bulb and is labeled T. ",
+    "bbox": [
+      375,
+      390,
+      649,
+      451
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Turn idle screw (T) clockwise to increase engine speed.   \nS Turn idle screw (T) counterclockwise to decrease engine speed. ",
+    "bbox": [
+      375,
+      452,
+      649,
+      493
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "If you require further assistance or are unsure about performing this procedure, contact your authorized service dealer or call our customer assistance help line at 1--800--554--6723. ",
+    "bbox": [
+      375,
+      495,
+      649,
+      534
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "COOLING SYSTEM ",
+    "text_level": 1,
+    "bbox": [
+      377,
+      537,
+      525,
+      548
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "To keep the working temperature as low as possible the machine is equipped with a cooling system. ",
+    "bbox": [
+      375,
+      550,
+      649,
+      580
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The cooling system consists of: ",
+    "bbox": [
+      377,
+      581,
+      575,
+      591
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "S Air intake on the starter   \nS Air guide plate   \nS Fins on the flywheel   \nS Cooling fins on the cylinder   \nS Cylinder cover (directs cold air over the cylinder) ",
+    "bbox": [
+      375,
+      587,
+      649,
+      651
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Clean the cooling system with a brush after each use, more often in demanding conditions. A dirty or blocked cooling system results in the machine overheating which causes damage to the piston and cylinder. ",
+    "bbox": [
+      375,
+      651,
+      649,
+      703
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "WARNING: Perform the following steps after each use: ",
+    "bbox": [
+      62,
+      71,
+      335,
+      96
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "S Allow the engine to cool, and secure the unit before storing or transporting. S Store chain saw and fuel in a well ventilated area where fuel vapors cannot reach sparks or open flames from water heaters, electric motors or switches, furnaces, etc. Store chain saw with all guards in place and position chain saw so that any sharp object cannot accidentally cause injury. Store chain saw well out of the reach of children. ",
+    "bbox": [
+      62,
+      96,
+      335,
+      205
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "SEASONAL STORAGE ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      212,
+      238,
+      223
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Prepare your unit for storage at the end of the season or if it will not be used for 30 days or more. ",
+    "bbox": [
+      62,
+      224,
+      335,
+      255
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "If your chain saw is to be stored for a period of time: ",
+    "bbox": [
+      63,
+      256,
+      333,
+      277
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "S Clean saw thoroughly before storage.   \nS Store in a clean dry area.   \nS Lightly oil external metal surfaces and guide bar.   \nS Oil the chain and wrap it in heavy paper or cloth. ",
+    "bbox": [
+      62,
+      279,
+      335,
+      341
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "FUEL SYSTEM ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      345,
+      178,
+      356
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Under FUELING ENGINE in the OPERA-TION section of this manual, see message labeled IMPORTANT regarding the use of gasohol in your chain saw. ",
+    "bbox": [
+      62,
+      358,
+      335,
+      399
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Fuel stabilizer is an acceptable alternative in minimizing the formation of fuel gum deposits during storage. Add stabilizer to the gasoline in the fuel tank or fuel storage container. ",
+    "bbox": [
+      62,
+      400,
+      335,
+      441
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Follow the mix instructions found on stabilizer containers. Run engine at least 5 minutes after adding stabilizer.   \nPoulan/WEED EATER 40:1, 2-cycle engine oil (air cooled) is blended with fuel stabilizer. If you do not use this oil, you can add a fuel stabilizer to your fuel tank. ",
+    "bbox": [
+      374,
+      63,
+      649,
+      135
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "HELPFUL TIP ",
+    "text_level": 1,
+    "bbox": [
+      492,
+      141,
+      610,
+      153
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/87ebb468b074649dd01f9751d5ab1ca4f27f03c09e440e587ed5c68330af1407.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      379,
+      157,
+      455,
+      212
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "During storage of your gas/ oil mixture, the oil will separate from the gas. We recommend that you shake the gas can weekly to insure proper blending of the gas and oil. ",
+    "bbox": [
+      459,
+      155,
+      629,
+      227
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "ENGINE ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      233,
+      439,
+      244
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "S Remove spark plug and pour 1 teaspoon of 40:1, 2-cycle engine oil (air cooled) through the spark plug opening. Slowly pull the starter rope 8 to 10 times to distribute oil. Replace spark plug with new one of recommended type and heat range. Clean air filter.   \nCheck entire unit for loose screws, nuts, and bolts. Replace any damaged, broken, or worn parts.   \nAt the beginning of the next season, use   \nonly fresh fuel having the proper gasoline   \nto oil ratio. ",
+    "bbox": [
+      375,
+      245,
+      649,
+      386
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      377,
+      389,
+      434,
+      399
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "S Do not store gasoline from one season to another.   \nS Replace your gasoline can if it starts to rust. ",
+    "bbox": [
+      375,
+      400,
+      649,
+      441
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "STORAGE ",
+    "bbox": [
+      62,
+      26,
+      647,
+      58
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "TROUBLESHOOTING TABLE",
+    "text_level": 1,
+    "bbox": [
+      69,
+      24,
+      288,
+      37
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/b1688ea464e317c74de77fe2fd31afed5bbf81cb767fc2efdf53da8b24f9c6d4.jpg",
+    "table_caption": [
+      "WARNING: Always stop unit and disconnect spark plug before performing all of the recommended remedies below except remedies that require operation of the unit. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>TROUBLE</td><td rowspan=1 colspan=1>CAUSE</td><td rowspan=1 colspan=1>REMEDY</td></tr><tr><td rowspan=1 colspan=1>Engine will notstart or will runonly a fewsecondsafterstarting.</td><td rowspan=1 colspan=1>1. Ignition switch off.2.Engine flooded.3.Fuel tank empty.4. Spark plug not firing.5.Fuel not reachingcarburetor.</td><td rowspan=1 colspan=1>1. Move ignition switch to ON.2.See “Difficult Starting&quot; inOperation Section.3.Fill tank with correct fuel mixture.4. Install new spark plug.5.Check for dirty fuel filter; replace.Check for kinked or split fuel line;repairorreplace.</td></tr><tr><td rowspan=1 colspan=1>Engine willnot idleproperly.</td><td rowspan=1 colspan=1>1.Idle speed requiresadjustment.2.Carburetor requiresadjustment.</td><td rowspan=1 colspan=1>1.See “Carburetor Adjustment&quot;in theService and Adjustments Section.2. Contact an authorized service dealer.</td></tr><tr><td rowspan=1 colspan=1>Engine will notaccelerate,lacks power,or dies undera load.</td><td rowspan=1 colspan=1>1. Air filter dirty.2. Spark plug fouled.3.Chain brake engaged.4.Carburetor requiresadjustment.</td><td rowspan=1 colspan=1>1. Clean or replace air filter.2.Clean or replace plug and regap.3.Disengage chain brake.4.Contact an authorized service dealer.</td></tr><tr><td rowspan=1 colspan=1>Enginesmokesexcessively.</td><td rowspan=1 colspan=1>1. Too much oil mixed withgasoline.</td><td rowspan=1 colspan=1>1.Empty fuel tank and refill withcorrect fuel mixture.</td></tr><tr><td rowspan=1 colspan=1>Chain movesat idle speed.</td><td rowspan=1 colspan=1>1. Idle speed requiresadjustment.2.Clutch requires repair.</td><td rowspan=1 colspan=1>1.See“Carburetor Adjustment&quot;in theService and Adjustments Section.2. Contact an authorized service dealer.</td></tr></table>",
+    "bbox": [
+      63,
+      64,
+      647,
+      355
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      358,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Poulan, a division of Husqvarna Consumer Outdoor Products N.A., Inc., warrants to the original consumer purchaser that each new Poulan brand gasoline chain saw is free from defects in material and workmanship and agrees to repair or replace under this warranty any defective gasoline chain saw as follows from the original date of purchase. ",
+    "bbox": [
+      62,
+      63,
+      335,
+      145
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "1 YEAR -- Parts and Labor, when used for household purposes. ",
+    "bbox": [
+      63,
+      145,
+      333,
+      165
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "60 DAYS -- Parts and Labor, when used for commercial, professional, or income producing purposes. ",
+    "bbox": [
+      63,
+      167,
+      335,
+      197
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "30 DAYS -- Parts and Labor, if used for rental purposes. ",
+    "bbox": [
+      63,
+      198,
+      333,
+      218
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "This warranty is not transferable and does not cover damage or liability caused by improper handling, improper maintenance or alteration, or the use of accessories and/or attachments not specifically recommended by Poulan for this chain saw. This warranty does not cover tune--up, spark plugs, filters, starter ropes, chain sharpening, bars, chains, and other parts which wear and require replacement with reasonable use during the warranty period. This warranty does not cover predelivery setup, installation of guide bar and chain, and normal adjustments explained in the instruction manual such as chain tension adjustments. This warranty does not cover transportation costs. In the event you have a claim under this warranty, you must return the product to an authorized service dealer. ",
+    "bbox": [
+      62,
+      219,
+      335,
+      401
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Should you have any unanswered questions concerning this warranty, please contact: ",
+    "bbox": [
+      63,
+      404,
+      333,
+      425
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Poulan, a division of Husqvarna   \nConsumer Outdoor Products N.A., Inc.   \n1030 Stevens Creek Road   \nAugusta, GA 30907   \n1--800--554--6723   \nIn Canada, contact:   \nPoulan   \n850 Matheson Blvd. West   \nMississauga, Ontario L5V 0B4   \nGiving the model number, serial number and date of purchase of your product and the name and address of the authorized dealer from whom it was purchased.   \nTHIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.   \nNO CLAIMS FOR CONSEQUENTIAL OR OTHER DAMAGES WILL BE ALLOWED, AND THERE ARE NO OTHER EXPRESS WARRANTIES EXCEPT THOSE EX-PRESSLY STIPULATED HEREIN.   \nSOME STATES DO NOT ALLOW LIMITA-TIONS ON HOW LONG AN IMPLIEDWAR-RANTY LASTS OR THE EXCLUSION OR LIMITATIONS OF INCIDENTAL OR CON-SEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSION MAY NOT APPLY TO YOU.   \nThis is a limited warranty within the meaning of that term as defined in the Magnuson-- Moss Act of 1975.   \nThe policy of Poulan is to continuously improve its products. Therefore, Poulan reserves the right to change, modify, or discontinue models, designs, specifications, and accessories of all products at any time without notice or obligation to any purchaser. ",
+    "bbox": [
+      375,
+      63,
+      649,
+      454
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "U.S. EPA/CALIFORNIA/ENVIRONMENT CANADA EMISSION CONTROL WARRANTY STATEMENT ",
+    "text_level": 1,
+    "bbox": [
+      118,
+      459,
+      614,
+      493
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "YOUR WARRANTY RIGHTS AND OB-LIGATIONS: The U.S. Environmental Protection Agency, California Air Resources Board, Environment Canada and Poulan are pleased to explain the emissions control system warranty on your year 2009 and later small off--road engine. In California, all small off--road engines must be designed, built, and equipped to meet the State’s stringent anti--smog standards. Poulan must warrant the emission control system on your small off--road engine for the periods of time listed below provided there has been no abuse, neglect, or improper maintenance of your small off--road engine. Your emission control system includes parts such as the carburetor, the ignition system and the fuel tank. Where a warrantable condition exists, Poulan will repair your small off--road engine at no cost to you. Expenses covered under warranty include diagnosis, parts andlabor. MANUFACTURER’S WAR-RANTY COVERAGE: If any emissions related part on your engine (as listed under Emissions Control Warranty Parts List) is defective or a defect in the materials or workmanship of the engine causes the failure of such an emission related part, the part will be repaired or replaced by Poulan. OWNER’S WAR-RANTY RESPONSIBILITIES: As the small off--road engine owner, you are responsible for the performance of the required maintenance listed in your instruction manual. Poulan recommends that you retain all receipts covering maintenance on your small off-- road engine, but Poulan cannot deny warranty solely for the lack of receipts or for your failure to ensure the performance of all scheduled maintenance. As the small off-- road engine owner, you should be awarethat Poulan may deny you warranty coverage if your small off--road engine or a part of it has failed due to abuse, neglect, improper maintenance, unapproved modifications, or the use of parts not made or approved by the original equipment manufacturer. You are responsible for presenting your small off--road engine to an Poulan authorized repair center as soon as a problem exists. Warranty repairs should be completed in a reasonable amount of time, not to exceed 30 days. If you have any questions regarding your warranty rights and responsibilities, you should contact your nearest authorized service center, call Poulan at 1--800--554--6723, or send e-mail correspondence to emission.warranty@HCOP-- emission.com. WARRANTY COMMENCE-MENT DATE: The warranty period begins on the date the small off--road engine is purchased. LENGTH OF COVERAGE: This warranty shall be for a period of two years from the initial date of purchase. WHAT IS COVERED: REPAIR OR REPLACEMENT OF PARTS. Repair or replacement of any warranted part will be performed at no charge to the owner at an approved Poulan servicing center. If you have any questions regarding your warranty rights and responsibilities, you should contact your nearest authorized service center, call Poulan at 1--800--554--6723, or send e-mail correspondence to emission.warranty@ HCOP-- emission.com. WARRANTY PERIOD: Any warranted part which is not scheduled for replacement as required maintenance, or which is scheduled only for regular inspection to the effect of “repair or replace as necessary” shall be warranted for 2 years. Any warranted part which is scheduled for replacement as required maintenance shall be warranted for the period of time up to the first scheduled replacement point for that part. DIAGNOSIS: The owner shall not be charged for diagnostic labor which leads to the determination that a warranted part is defective if the diagnostic work is performed at an approved Poulan servicing center. ",
+    "bbox": [
+      62,
+      497,
+      335,
+      743
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      375,
+      497,
+      649,
+      743
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      377,
+      757
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "LIMITED WARRANTY ",
+    "bbox": [
+      62,
+      26,
+      647,
+      58
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      26,
+      335,
+      371
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      362,
+      335,
+      412
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "CONSEQUENTIAL DAMAGES: Poulan ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      412,
+      335,
+      423
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "may be liable for damages to other engine components caused by the failure of a warranted part still under warranty. WHAT IS NOT COVERED: All failures caused by abuse, neglect, or improper maintenance are not covered. ADD--ON OR MODIFIED PARTS: The use of add--on or modified parts can be grounds for disallowing a warranty claim. Poulan is not liable to cover failures of warranted parts caused by the use of add-- on or modified parts. HOW TO FILE A CLAIM: If you have any questions regarding your warranty rights and responsibilities, you should contact your nearest authorized service center, call Poulan at 1--800--554--6723, or send e-mail correspondence to emission.warranty@HCOP-- emission.com. WHERE TO GET WARRAN-TY SERVICE: Warranty services or repairs shall be provided at all Poulan service centers. Call: 1--800--554--6723 or send e-mail correspondence to emission.warranty@ HCOP-- emission.com. MAINTENANCE, REPLACE-MENT AND REPAIR OF EMISSION RELATED PARTS: Any Poulan approved replacement part used in the performance of any warranty maintenance or repair onemission related parts will be provided without charge to the owner if the part is under warranty. EMISSION CONTROL WARRANTY PARTS LIST: Carburetor, air filter (covered up to maintenance schedule), ignition system: spark plug (covered up to maintenance schedule), ignition module, muffler including catalyst (if equipped), fuel tank. MAINTENANCE STATEMENT: The owner is responsible for the performance of all required maintenance as defined in the instruction manual. ",
+    "bbox": [
+      375,
+      26,
+      649,
+      414
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4481874/auto/images/317fc9f02d7dd0b3030b46052a1976197fe3ac096d77c512af36ea01e56b9aa7.jpg",
+    "image_caption": [
+      "The information on the product label indicates which standard your engine is certified. Example: (Year) EPA and/or CALIFORNIA. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      211,
+      451,
+      494,
+      621
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "This engine is certified to be emissions compliant for the following use: ",
+    "bbox": [
+      69,
+      631,
+      503,
+      643
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      356,
+      746,
+      375,
+      757
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Moderate (50 hours) Intermediate (125 hours) Extended (300 hours) ",
+    "bbox": [
+      67,
+      648,
+      250,
+      702
+    ],
+    "page_idx": 20
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "type": "text",
+    "text": "Control Co-design of Horizontal Floating Offshore Wind Turbines Using A Simplified Low-Order Model ",
+    "text_level": 1,
+    "bbox": [
+      122,
+      103,
+      868,
+      200
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Saeid Bayat, Yong Hoon Lee, James Allison ",
+    "bbox": [
+      122,
+      216,
+      712,
+      239
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      311,
+      224,
+      324
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Floating offshore wind turbine (FOWT) design involves many physics disciplines, including structural dynamics, aerodynamics, mooring system dynamics, hydrodynamics, and controls. In traditional engineering design practices, control design is generally left for a later stage of the design process, while plant design decisions, including geometrical shapes and sizes, are made with simple control assumptions. However, when there is a strong design coupling between plant and control designs, this sequential approach may not produce system-optimal solutions. To account for the couplings that exist between plant and control designs, a control co-design (CCD) approach can be utilized. Using the CCD approach, both design disciplines are optimized in the integrated way, resulting better design solutions that account for the synergy coming from the design coupling between physics disciplines. ",
+    "bbox": [
+      145,
+      328,
+      877,
+      512
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In this study, we present progresses for the ongoing development of a nested CCD methodology (Herber and Allison, 2019) with a simplified low-order model of a spar-type horizontal-axis FOWT system (Al-Solihat, 2018; Jonkman, et al., 2009). The simplified low-order model is developed to serve as a prototype of a fully-detailed wind turbine model for use in the development of the CCD methodology. While more advanced models provide enhanced accuracy with respect to real system behavior, reduced computational expense is desirable for CCD studies, while maintaining sufficient accuracy from a design standpoint. The simplified low-order model introduced in this study is useful as a tool for developing FOWT-specific CCD methods. This model retains approximations of physical phenomena that are central to design coupling and design decisions, while exhibiting low computational cost. These properties accelerate the overall CCD method development process. After CCD optimization methods are constructed using this simplified model, these methods will be linked with higher-fidelity models to support direct design decisions for FOWT system design processes. ",
+    "bbox": [
+      145,
+      515,
+      877,
+      750
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Here we discuss a nested CCD method for the FOWT design, and compare results from sequential and nested design approaches to explore possible existence of nontrivial design couplings. The simplified low order model consists of subsystems with full dynamic and control components, including spar floating platform hydrodynamics, slack mooring lines, tower rigid-body dynamics, and rotor dynamics. Plant parameters for these subsystems are optimized in the outer-loop of the nested CCD formulation. These subsystems interact with each other, and are influenced by external wind load and control trajectories. The blade pitch and generator torque control trajectories are optimized in the inner-loop of the nested CCD formulation using an open-loop optimal control (OLOC) method, numerically solved using the pseudospectral method (Patterson and Rao, 2014). ",
+    "bbox": [
+      145,
+      751,
+      877,
+      919
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "page 1 of 3 ",
+    "bbox": [
+      120,
+      939,
+      206,
+      952
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Results indicate that accounting for plant-control design coupling via CCD methods has a significant impact on system performance. ",
+    "bbox": [
+      120,
+      112,
+      854,
+      146
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Control co-design (CCD); Horizontal-axis wind turbine (HAWT); Floating offshore wind turbine (FOWT); Pseudospectral method ",
+    "bbox": [
+      120,
+      158,
+      851,
+      191
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      120,
+      205,
+      219,
+      220
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Al-Solihat, M.K. (2018) Dynamics modeling, simulation and analysis of a floating offshore wind turbine, PhD dissertation, McGill University, Montreal.   \nHerber, D.R. and Allison, J.T. (2019) ’Nested and simultaneous solution strategies for general combined plant and control design problems’, Journal of Mechanical Design, 141(1), p.011402. DOI 10.1115/1.4040705   \nJonkman, J., et al. (2009) Definition of a 5-MW reference wind turbine for offshore system development. NREL/TP-500-38060, National Renewable Energy Laboratory, Golden. Patterson, M.A. and Rao, A.V. (2014) ’GPOPS-II: A MATLAB software for solving multiple-phase optimal control problems using hp-adaptive Gaussian quadrature collocation methods and sparse nonlinear programming’, ACM Transactions on Mathematical Software, 41(1), pp.1:1-37. DOI 10.1145/2558904 ",
+    "bbox": [
+      115,
+      225,
+      856,
+      421
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      97,
+      60,
+      111,
+      72
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2497225/auto/images/95e96dfe2ba4b1359730d6a37867833828a50a5644e9a30879d5dee4a4401b42.jpg",
+    "image_caption": [
+      "FIGURE 1. System Components "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      300,
+      743,
+      692
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      891,
+      57,
+      907,
+      69
+    ],
+    "page_idx": 2
+  }
+]

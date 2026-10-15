@@ -1,0 +1,1225 @@
+[
+  {
+    "type": "text",
+    "text": "Written Testimony of Alexis Goldstein Director of Financial Policy, Open Markets Institute ",
+    "bbox": [
+      290,
+      141,
+      705,
+      179
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "U.S. House of Representatives Committee on Financial Services Subcommittee on Oversight and Investigations ",
+    "bbox": [
+      243,
+      202,
+      753,
+      239
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "America on “FIRE”: Will the Crypto Frenzy Lead to Financial Independence and Early Retirement or Financial Ruin? ",
+    "bbox": [
+      155,
+      261,
+      843,
+      299
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "June 30, 2021, 10:00 a.m. ",
+    "bbox": [
+      397,
+      320,
+      599,
+      338
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Chairman Green, Ranking Member Emmer, and Members of the Subcommittee: ",
+    "bbox": [
+      116,
+      361,
+      746,
+      378
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Thank you for inviting me to testify at this hearing. I am Director of Financial Policy at the Open Markets Institute, where my work focuses on financial regulation and consumer protection. Previously, I worked as a programmer at Morgan Stanley in electronic trading, and as a business analyst at Merrill Lynch and Deutsche Bank focused on equity derivatives. There, I worked primarily as a product manager for the trading and risk management software used by the global equity options flow trading desks. ",
+    "bbox": [
+      114,
+      401,
+      879,
+      520
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "I want to start by thanking Chairwoman Green for holding today’s hearing, and by thanking Chairwoman Waters for launching the Digital Assets Working Group.1 I would like to highlight several areas that the Subcommittee may wish to examine further, including concerns around systemic risk, consumer and investor protections, and the potential for shadow banking. ",
+    "bbox": [
+      114,
+      541,
+      874,
+      619
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Lack of Transparency into Private Funds’ Footprint in Cryptocurrency Markets Raises Systemic Risk Concerns ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      637,
+      833,
+      675
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Earlier this year, the blowup of a single family fund, Archegos Capital, led to $\\$ 10$ billion in bank losses after the firm’s bets on a dozen Total Return Swaps imploded. Apart from long options, no derivatives are required to be reported on the Securities and Exchange Commission's (“SEC”) Form 13F, which meant that banks and regulators alike were in the dark about Archegos’ positions until its implosion. Chairwoman Maxine Waters, to her credit, introduced discussion ",
+    "bbox": [
+      114,
+      693,
+      883,
+      791
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "OPEN MARKETS LIBERTY \\* DEMOCRACY \\* PROSPERITY ",
+    "bbox": [
+      727,
+      45,
+      882,
+      123
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "655 15th St NW, Suite 800 Washington, DC 20005 | info@openmarketsinstitute.org ",
+    "bbox": [
+      205,
+      909,
+      759,
+      924
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408014. ",
+    "bbox": [
+      111,
+      877,
+      745,
+      893
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      478,
+      941,
+      490,
+      952
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "drafts to ensure that family funds must file 13Fs,2 and that the form includes reporting on the kinds of derivatives Archegos was trading.3 ",
+    "bbox": [
+      116,
+      89,
+      848,
+      127
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The Federal Reserve’s May 2021 Financial Stability report noted that both the Archegos and GameStop volatility “highlighted the opacity of risky exposures and the need for greater transparency at hedge funds and other leveraged financial entities that can transmit stress to the financial system”.4 The extent of hedge fund involvement in cryptocurrencies are a similar blind spot for regulators and banks acting as prime brokers to these funds. ",
+    "bbox": [
+      114,
+      145,
+      877,
+      243
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Should a substantial portion of the hedge fund market move into cryptocurrency, extreme volatility in crypto could spread to other financial markets. The lack of reporting by private funds on their cryptocurrency positions will make it difficult for regulators to determine if this market creates systemic risk concerns. There are private services that analyze blockchain transactions for information, including attempting to label the cryptocurrency addresses of larger crypto trading funds,5 analysis happening informally by market participants,6 as well as services to try and avoid this sort of analysis by obscuring transactions.7 There are also so-called “blockchain surveillance” firms which provide services to financial institutions and law enforcement.8 But this isn’t a substitute for formalized reporting by hedge funds, which would give regulators a consistent, standardized view into the footprint of private funds in cryptocurrency. ",
+    "bbox": [
+      114,
+      261,
+      880,
+      459
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Signs indicate the presence of hedge funds in cryptocurrency is growing. An Intervest survey of hedge funds managing an average of 7.2 billion showed that North American funds expect to have a $1 0 . 6 \\%$ average exposure to cryptocurrency by 2026.9 While the failure of Archegos didn’t crash the banking system, it was enough to cause tremendous losses and highlighted the failure of the Federal Reserve in its stress testing process.10 If, as the survey suggests, the majority of hedge funds with billions in assets under management hold ten percent or more of their positions in cryptocurrency then it may produce dire risks to the financial system such as future crises, as sharp swings in the volatility cryptocurrency markets could lead to forced liquidations of other assets. ",
+    "bbox": [
+      114,
+      477,
+      880,
+      575
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 https://democrats-financialservices.house.gov/UploadedFiles/5.06.2021_BILLS-117pih-Fo01_1940.pdf 3 The Capital Markets Engagement and Transparency Act of 2021.\"https://democratsfinancialservices.house.gov/UploadedFiles/5.06.2021_BILLS-117pih-disclosures.pdf 4 https://www.federalreserve.gov/publications/files/financial-stability-report-20210506.pdf 5 https://www.nansen.ai/ (“Nansen is an analytics platform for Ethereum, which combines on-chain data with a massive and constantly growing database containing millions of wallet labels.”); https://defiprime.com/product/nansen(“Nansen tracks exchanges, token teams, and funds, which means you can see exactly which entities are accumulating - or selling off - a specific token.”) 6 https://twitter.com/frankresearcher/status/1361321945594265602?s=21 (Analysis of transactions by the cryptocurrency trading firm Wintermute) 7 https://decrypt.co/8299/private-transactions-are-now-available-on-ethereum-in-a-way 8 https://nomics.com/guides/blockchain-surveillance-companies 9 https://www.ft.com/content/4f8044bf-8f0f-46b4-9fb7-6d0eba723017 10 Alexis Goldstein, “These Invisible Whales Could Sink the Economy.” NYTimes, May 18, 2021, https://www.nytimes.com/2021/05/18/opinion/archegos-bill-hwang-gary-gensler.html. (“One way the Fed monitors for such risks is through annual bank stress tests. In 2019, Credit Suisse failed part of its stress test because the Fed feared it couldn’t accurately project major trading losses. Instead of forcing substantial changes, it seems the Fed let it off the hook too easily: After Credit Suisse’s staggering $\\$ 5.4$ billion Archegos loss, it scrambled to raise $\\$ 2$ billion in new capital. The Fed needs to recognize its own regulatory failures and take action, not minimize the significance of the fallout.”) ",
+    "bbox": [
+      112,
+      604,
+      877,
+      910
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      938,
+      504,
+      949
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      90,
+      879,
+      167
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cryptocurrency exchanges and “decentralized finance” (“DeFi”) platforms alike are also trying to attract institutional business. Cryptocurrency exchange FTX has created a new section of their (non-US) site to show on each day the percentage of institutional vs retail traders on the platform,11 and has hired a former executive from Citadel Securities to \"massively scale\" its cryptocurrency trading.12 The London-based Aave, which offers lending and borrowing of cryptocurrency,13 is creating a private pool to allow large institutions to try out their platform.14 Their efforts appear to be working: Point72, a hedge fund which managed $\\$ 22$ billion as of April 1, was exploring getting into both long and short cryptocurrency strategies.15 The $\\$ 40$ billion hedge fund Millennium Management has gotten exposure to cryptocurrency through Grayscale's Bitcoin Trust.16 In May, Ray Dalio, founder of the world’s largest hedge fund Bridgewater, told a cryptocurrency conference that he had a position in Bitcoin.17 ",
+    "bbox": [
+      114,
+      185,
+      879,
+      404
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Should an Archegos-like implosion happen in the cryptocurrency markets, we may not be as lucky. Regulators and lawmakers should not delay in examining the footprint of private funds in cryptocurrency markets. ",
+    "bbox": [
+      116,
+      421,
+      874,
+      479
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Concentration and Centralization Concerns ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      496,
+      485,
+      515
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "While the lack of regulatory reporting on cryptocurrency makes assessment of issues in concentration difficult, it’s clear that in addition to hedge funds, large Too Big To Fail banks are also a growing presence in the crypto currency market. Goldman Sachs plans to open a cryptocurrency trading desk,18 BNY Mellon allows its clients to hold Bitcoin as of February19, Wells Fargo will offer professionally managed cryptocurrency funds for qualified investors.20 Morgan Stanley’s Europe Opportunity Fund reported owning 28,298 shares of the Grayscale ",
+    "bbox": [
+      114,
+      531,
+      872,
+      651
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "11 https://ftx.com/exchange-stats 12 https://www.theblockcrypto.com/linked/104870/ftx-us-former-citadel-securities-brett-harrison-cryptoexchange 13 https://www.kraken.com/en-us/learn/what-is-aave-lend; and https://docs.aave.com/faq/ 14 https://cryptobriefing.com/aave-has-private-pool-institutions-testing-defi/ 15 https://www.theblockcrypto.com/post/104522/steve-cohen-point72-crypto-market 16 https://www.thestreet.com/crypto/bitcoin/hedge-fund-millennium-traded-gbtc 17 https://www.coindesk.com/consensus-ray-dalio-i-have-some-bitcoin 18 https://www.cnbc.com/2021/05/07/goldman-sachs-unveils-new-cryptocurrency-trading-team-inemployee-memo.html 19 https://www.cnbc.com/2021/02/11/bny-mellon-to-offer-bitcoin-services-a-validation-of-crypto-from-akey-bank-in-the-financial-system.html 20 https://www.bbc.com/news/business-57147386 ",
+    "bbox": [
+      114,
+      705,
+      861,
+      910
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      938,
+      504,
+      950
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Bitcoin Trust,21 according to a June 28 filing.22 Venture Capital firms have already invested $\\$ 17$ billion this year into cryptocurrency firms so far in 2021, more than three times what they invested in all of 2020.23 ",
+    "bbox": [
+      116,
+      89,
+      872,
+      147
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In addition, the concentration of particular cryptocurrency assets into a small handful of addresses raise concerns about power concentrations. To take one example, there are several very large “whales'' in the Dogecoin cryptocurrency, including a single address that holds over 36.7 billion DOGE (or some $2 8 \\%$ of total Dogecoin24) worth more than $\\$ 8$ billion. As of February, the top 20 largest Dogecoin addresses held half of the cryptocurrency’s entire supply.25 ",
+    "bbox": [
+      114,
+      165,
+      879,
+      263
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Broad Investor and Consumer Protection Concerns ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      281,
+      549,
+      299
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Dispute Resolution and Restoration of Funds ",
+    "bbox": [
+      116,
+      316,
+      472,
+      333
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In traditional financial markets, consumers and investors have a place to go if they are scammed or misled, such as the Consumer Financial Protection Bureau’s complaint database, the Securities and Exchange Commission, and the Federal Trade Commission. When investing with a stock brokerage, the Securities Investor Protection Corporation will restore investors’ cash and securities should their brokerage firm fail. ",
+    "bbox": [
+      114,
+      352,
+      875,
+      449
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In cryptocurrency markets, it is unclear what recourse participants have if they are subject to a scam, to misleading or inaccurate Annual Percentage Rates (APRs), or if their funds are lost due to coding errors or poor design, as recently happened with the collapse of the cryptocurrency Titan, which fell from $\\$ 60$ to zero in a matter of days.26 Users must self-manage a host of risks, including counterparty risk and the risk of hacks and scams. ",
+    "bbox": [
+      116,
+      467,
+      875,
+      564
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Honeypots and Rug Pulls ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      582,
+      316,
+      599
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "There are certain basic assumptions in traditional financial markets, including that, barring a serious liquidity crisis, you will be able to sell back a product that you buy. On DeFi platforms like Uniswap, Sushi Swap, and MochiSwap anyone can create a new cryptocurrency token and add a “liquidity pool” for it -- including malicious actors who design tokens that can be bought, but not sold. These so-called “honeypot” tokens27 are prevalent enough that dome DeFi providers include an explicit warning on their website should you attempt to import a custom token. For example, MochiSwap displays the following warning when you import a custom token28: ",
+    "bbox": [
+      114,
+      617,
+      880,
+      715
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "21 https://decrypt.co/resources/gbtc-everything-you-need-to-know-about-the-grayscale-bitcoin-trust 22 https://cointelegraph.com/news/morgan-stanley-equity-fund-owns-28-2k-shares-of-grayscale-bitcointrust-per-sec 23 https://www.bloomberg.com/news/articles/2021-06-18/venture-capital-makes-a-record-17-billion-beton-crypto-world?sref=f7rH2jWS 24 As of June 28, Coin Market Cap stated that Dogecoin’s circulating supply was 130,214,617,895 https://coinmarketcap.com/currencies/dogecoin/. 25 https://beincrypto.com/top-20-dogecoin-addresses-hold-over-50-of-doge-supply/ 26 https://www.theregister.com/2021/06/17/iron_cryptocoin_titan/ 27 https://techcrunch.com/2018/02/16/clever-ethereum-honeypot-lets-coins-come-in-but-wont-let-themback-out/ ",
+    "bbox": [
+      114,
+      738,
+      864,
+      910
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      938,
+      504,
+      949
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      89,
+      857,
+      128
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3702513/auto/images/01fe04ef9eeacb6884d5d7568e6a43cf3295646bca1b59c03ec598d5675eadf8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      328,
+      151,
+      666,
+      372
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Warnings like this are there for a reason. Bobby Ong, co-founder of cryptocurrency data provider Coin Gecko tweeted, “Crypto is a very dangerous and adversarial place”29 as a part of a long thread on Twitter that highlighted a series of security concerns in crypto. ",
+    "bbox": [
+      114,
+      398,
+      883,
+      458
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Scams and hacks are prevalent enough that there are websites,30 guides,31 and services devoted to identifying them. These include suggestions that users read the “smart contract” code of any cryptocurrency token they wish to purchase, looking out for common pitfalls—a fairly high bar for non-programmers.32 New tokens will often partner with firms that offer audits of their code to signal that the product is valid and safe.33 ",
+    "bbox": [
+      114,
+      474,
+      883,
+      573
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Particular Risks in the Decentralized Finance (“DeFi”) Space ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      589,
+      632,
+      608
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Many of the risks of cryptocurrency markets appear to be exacerbated in “decentralized finance” (or “DeFi”) space, where the developers of the platform may be anonymous. Unlike cryptocurrency exchanges, where users are able to deposit and withdraw U.S. dollars and other fiat currency, on a DeFi website, the user typically connects to a cryptocurrency wallet. ",
+    "bbox": [
+      114,
+      625,
+      875,
+      704
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "28 MochiSwap, accessed 6/27. https://one.mochiswap.io/#/swap 29 https://twitter.com/bobbyong/status/1403881080902471680?s=21 30 See, e.g. https://tokensniffer.com/. 31 See, e.g. https://coinmarketcap.com/alexandria/article/how-to-identify-and-avoid-uniswap-scams and https://www.cylynx.io/blog/the-rise-of-cryptocurrency-exit-scams-and-defi-rug-pulls/. 32 33 “DeFi Audit Firms Seeing ‘Overwhelming Demand’ Even Amid Token Price Slump”, Coin Desk, Oct 15, 2020, https://www.coindesk.com/defi-audit-firms-swamped. (“The separation between audited projects and non-audited projects became palpable over DeFi’s boom months – often referred to as “DeFi Summer” – as code flaws in some projects led to contracts being exploited by hackers.”) ",
+    "bbox": [
+      112,
+      739,
+      870,
+      895
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      493,
+      938,
+      504,
+      950
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Cryptocurrency exchanges follow Know Your Client (KYC) standards; DeFi platforms do not, and identify the user only through their cryptocurrency address. ",
+    "bbox": [
+      116,
+      90,
+      862,
+      128
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Recent Hacks and Exploits in DeFi ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      145,
+      393,
+      162
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The cryptocurrency data platform Messari estimated in April 2021 that more than $\\$ 284$ million has been lost to hackers from (DeFi) hacks and exploits since 2019.34 DeFi platforms and/or cryptocurrency tokens have been hit with hacks and exploits in the last two months: ",
+    "bbox": [
+      116,
+      180,
+      866,
+      238
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "On May 28, $\\$ 7.2$ million was stolen from Burger Swap due to a coding error that was exploited by an attacker in what’s called a “flash loan” attack.35 Less than a month later, on June 21, Impossible Finance was also hacked with a flash loan attack, leveraging the same exploit that targeted Burger Swap in May.36   \n● On May 20, the Pancake Bunny DeFi protocol was hacked with a flash loan. The hacker stole 697,000 of the BUNNY token and 114,000 of the Binance Coin (a cryptocurrency created by the Binance crypto exchange).37   \n● On May 24, Bogged Finance’s cryptocurrency token collapsed following a $\\$ 3$ million flash loan exploit, falling in price from $\\$ 8.50$ to $\\$ 0.15$ ,38 leading the platform to start over from scratch with a new token. As of June 28, the new Bog token has yet to recover, trading at $\\$ 0.91$ .39 In mid-June, the cryptocurrency token TITAN fell from $\\$ 60$ to close to zero over just a few hours, after what some have theorized was a design failure40 made by the largely anonymous development team in TITAN’s linked stablecoin IRON.41 Billionaire investor Mark Cuban also lost money in this collapse, and in the wake of it, told Bloomberg that “There should be regulation to define what a stable coin is and what collateralization is acceptable”.42 ",
+    "bbox": [
+      142,
+      255,
+      879,
+      594
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "34 https://finance.yahoo.com/news/messari-defi-exploits-total-284-091600754.html 35 https://news.bitcoin.com/bsc-defi-protocol-burgerswap-loses-7-2-million-from-a-flash-loan-attack/ ; and https://twitter.com/Mudit__Gupta/status/1398156036574306304. 36 https://www.bsc.news/post/binance-smart-chain-faces-another-exploit-impossible-finance-loses-500kin-funds 37 https://coinmarketcap.com/alexandria/article/pancake-bunny-price-crashes-after-defi-token-targeted-inflash-loan-attack 38 BOG price chart, accessed June 28, 2021 at 5:40pm ET. https://charts.bogged.finance/?token=0xB09FE1613fE03E7361319d2a43eDc17422f36B09 39 https://www.coindesk.com/bsc-based-bogged-finance-suffers-3m-exploit 40 Frances Coppola, “Crypto's Weimar”, https://www.coppolacomment.com/2021/06/cryptos-weimar.html 41 https://www.theregister.com/2021/06/17/iron_cryptocoin_titan/ 42 https://www.bloomberg.com/news/articles/2021-06-17/mark-cuban-defi-iron-finance-crashed-100?sref=f7rH2jWS ",
+    "bbox": [
+      114,
+      691,
+      879,
+      910
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      491,
+      938,
+      504,
+      950
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "On June 17, it was reported that users of the hardware cryptocurrency wallet Ledger were being mailed counterfeit hardware wallets, in an attempt to steal their cryptocurrency.43 Ledger was previously the victim of a hack that exposed its users’ mailing addresses. ",
+    "bbox": [
+      145,
+      90,
+      879,
+      148
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "DeFi Platforms Offering Presales on Tokens ",
+    "bbox": [
+      114,
+      166,
+      470,
+      183
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "One DeFi platform, DxSale, offers a suite of services including DxMint, which it bills as allowing “anyone to create tokens without any coding experience.” Users can also participate in pre-sales of cryptocurrency tokens on DxSales’ “DeFin Dashboard”44. It is unclear if these cryptocurrency token presales would be considered Initial Coin Offerings (ICOs) by the SEC. ",
+    "bbox": [
+      112,
+      200,
+      872,
+      279
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3702513/auto/images/0a4439b290da47103848aebb87310e27e524f9fd34507a9bd7786bfd6c0df924.jpg",
+    "image_caption": [
+      "Dxsale.app, accessed June 29th "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      197,
+      296,
+      799,
+      656
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "DxSale offers a warning to anyone attempting to buy into a presale, noting that “In the DeFi zone project owners can load arbitrary token contracts. Please take extra caution and do your research when interacting with arbitrary tokens. You might not be able to claim or sell your token!” ",
+    "bbox": [
+      116,
+      708,
+      882,
+      767
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Tokenized Securities on DeFi ",
+    "bbox": [
+      117,
+      785,
+      349,
+      801
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Tokenized stocks are crypto assets that track the performance of a given stock — in this way, they behave like a Total Return Swap. FTX and Binance offer these products, but not for US users. But Binance has faced scrutiny from Germany’s Federal Financial Supervisory Authority (BaFin), who warned in April that Binance could be fined for offering tokenized stocks without publishing an investor prospectus. ",
+    "bbox": [
+      114,
+      819,
+      856,
+      857
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "43 https://bitcoinmagazine.com/technical/ledger-hack-victim-scam-details. 44 https://dxsale.app/app/defi-dashboard; https://dxsale.app/app/termsandconditions. ",
+    "bbox": [
+      117,
+      878,
+      728,
+      909
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      493,
+      938,
+      504,
+      949
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      89,
+      872,
+      148
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Congress and the regulators should consider what the implications are for DeFi platforms like Synthetix45 or Kwenta46 allowing U.S. users to swap for similar \"tokenized\" versions of Telsa, Apple, and Google when US cryptocurrency exchanges have refrained from allowing U.S. users to access this product. ",
+    "bbox": [
+      114,
+      165,
+      875,
+      243
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3702513/auto/images/1402846c19f1e3ba99f70859610d2688516c5642f41ca415ddcc53fec14959f9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      258,
+      882,
+      648
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "synthetix.io/synths, accessed June 29th, 2021 ",
+    "bbox": [
+      316,
+      665,
+      678,
+      683
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Fast-moving APRs with unclear terms ",
+    "bbox": [
+      117,
+      700,
+      416,
+      718
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Many DeFi applications offer what they call “yield farming” -- rewards a user can earn in exchange for “locking” (i.e., temporarily removing your ability to trade or move them) a pair of crypto assets on the platform (effectively becoming liquidity providers on that platform, and earning fees inreturn).47 These rewards, often billed as interest and listed with Annual Percentage Rates (APRs), are sometimes paid in the same crypto you’ve locked, but may also be paid in ",
+    "bbox": [
+      114,
+      734,
+      882,
+      834
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "45 https://synthetix.io/synths 46 https://kwenta.io/ 47 https://www.coindesk.com/defi-yield-farming-comp-token-explained ",
+    "bbox": [
+      116,
+      861,
+      622,
+      910
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      491,
+      938,
+      504,
+      950
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "another cryptocurrency entirely. According to DeFi Pulse, as of June 28th there are $\\$ 48.23$ billion in crypto assets locked in DeFi. ",
+    "bbox": [
+      114,
+      90,
+      831,
+      127
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "One DeFi platform called Pancake Swap, which is run by anonymous developers,48 has an entire section of its website devoted to Yield Farming. On Twitter, they often advertise eye-popping APRs in exchange for locking a pair of cryptocurrencies into a platform’s liquidity pool. However, the so-called APRs they advertise on Twitter often appear to be deeply misleading and/or extremely temporary. ",
+    "bbox": [
+      114,
+      145,
+      879,
+      244
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To take a recent example, on June 28th at 9:09am ET, the Pancake Swap Twitter account tweeted a screenshot of an available $7 4 5 { , } 0 0 0 \\%$ APR if a user locked in a pair of cryptocurrencies: US Dollar Coin (USDC)49 and Tether (USDT)50, both of which are stablecoins. (Tether and the company that runs it, Bitfinex, have been barred from doing business in New York state under the terms of a settlement reached with Attorney General Letiticia James.51) ",
+    "bbox": [
+      114,
+      261,
+      882,
+      359
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Twitter users noted in the replies that when they visited the website to try and obtain the staggeringly high APR, it was nowhere close to being in the same order of magnitude, but rather in the $3 0 { - } 3 8 \\%$ APR range.52 When I visited Pancake Swap’s “Farms” page at $9 { : } 5 0 { \\mathrm { a m } }$ , less than an hour after the tweet was posted, I saw an APR of $1 5 . 7 7 \\%$ for the USDC-USDT pair. ",
+    "bbox": [
+      114,
+      376,
+      877,
+      455
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3702513/auto/images/16d813fd694d2fa3ac17cbccc086931b7f30779cba69c1fb4aa68da3c8cd7c01.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      125,
+      468,
+      872,
+      729
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "48 https://decrypt.co/57834/binance-chains-pancakeswap-is-now-one-of-the-top-dexs. 49 USDC is a stablecoin jointly run by the cryptocurrency exchange Coinbase and the startup Circle. https://blog.coinbase.com/coinbase-and-circle-announce-the-launch-of-usdc-a-digital-dollar-2cd6548d23. 50 Tether is a stablecoin run by Finex Inc., which operates the cryptocurrency exchange Bitfinex. 51 https://www.nbcnewyork.com/news/business/ny-bans-tether-bitfinex-over-false-statements-aboutdollar-backing-and-losses/2904206/; and https://ag.ny.gov/sites/default/files/2021.02.17_- _settlement_agreement_-_execution_version.b-t_signed-c2_oag_signed.pdf. 52 See, e.g.: “Down 745 to $30 \\%$ apr in 30 min.” https://twitter.com/TomGuerrier/status/1409505537138565122; ",
+    "bbox": [
+      114,
+      770,
+      877,
+      910
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      491,
+      938,
+      504,
+      950
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "While Pancake Swap offers a rudimentary explanation of yield farms in its documentation section,53 this information is not presented on or linked to the main yield farm page, nor does it present the user with any terms or conditions to evaluate. While other platforms offer better explanations of how and why the APR offered by liquidity providers in yield farms might fluctuate, even with considerable explanation it may not be clear to users just how highly variable the interest rates are.54 ",
+    "bbox": [
+      114,
+      125,
+      866,
+      242
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Users can also lock their crypto on DeFi for rewards through a concept of “staking”. Instead of locking in a pair of cryptocurrencies, the user locks in a single crypto. Pancake Swap has also marketed six figure interest rates on staking products. On May 13, PancakeSwap advertised a $\\mathbf { 1 0 1 , 5 1 3 . 1 3 \\% }$ APR for users that stake Dogecoin.55 Later the same day, PancakeSwap clarified that this was a temporary offer that only lasted for \"13 more days\" but hyped that \"[Dogecoin] holders can literally earn free money\" by staking their Dogecoin on PancakeSwap, and “The longer you wait, the less free money you get.”56 ",
+    "bbox": [
+      114,
+      260,
+      870,
+      400
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "PancakeSwap  #BSC @PancakeSwap ",
+    "bbox": [
+      312,
+      426,
+      464,
+      450
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "If you're on #TikTok, spread the word. ",
+    "bbox": [
+      264,
+      464,
+      580,
+      481
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "\\$DOGE holders can literally earn free money by staking up to 1,000 DOGEon #PancakeSwap. ",
+    "bbox": [
+      263,
+      498,
+      730,
+      531
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "It lasts for 13 more days. ",
+    "bbox": [
+      263,
+      549,
+      470,
+      566
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "No strings, no acc needed etc. ",
+    "bbox": [
+      264,
+      584,
+      522,
+      601
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The longer you wait, the less free money you get. ",
+    "bbox": [
+      263,
+      618,
+      676,
+      636
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "PancakeSwap O #BSC @PancakeSwap · May 13 You can stake up to 1,0O0 \\$DOGE to earn \\$CAKE at an insane APR! ",
+    "bbox": [
+      272,
+      647,
+      671,
+      676
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "53 (“Yield Farm APR calculation includes both the rewards earned through providing liquidity and rewards earned staking LP [liquidity provider] Tokens in the Farm. Previously, rewards earned by LP Tokenholders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.”) https://docs.pancakeswap.finance/products/yield-farming 54 More thorough explanations of the variability of rates offered in yield farming are documented on other websites, such as Unsiwap’s explanation of liquidity providers and impermanent loss https://uniswap.org/docs/v2/advanced-topics/understanding-returns/; as well as curve.finance’s liquidity pools explanation https://resources.curve.fi/base-features/understanding-curve. 55 https://twitter.com/PancakeSwap/status/1392813740593082368 (Showing a screenshot with a 101. $51 3 \\%$ APR “You can stake up to 1,000 $\\$ 9$ DOGE to earn $\\$ 0A K E$ at an insane APR! Pool is live now!”) 56 https://twitter.com/PancakeSwap/status/1392882105546264578 ",
+    "bbox": [
+      114,
+      728,
+      875,
+      909
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      938,
+      509,
+      949
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      264,
+      420,
+      307,
+      454
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Accessed June 28, 2021 at 9:50am. ",
+    "bbox": [
+      361,
+      90,
+      637,
+      107
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Many Twitter users complained that, upon visiting the advertised URL, the APR on the website was two $( 5 0 0 \\% )$ to six times lower $( 1 4 6 \\% )$ than advertised.57 ",
+    "bbox": [
+      116,
+      90,
+      869,
+      127
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Regulatory Concerns in Cryptocurrency ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      145,
+      457,
+      164
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Regulators in the United States and abroad are raising concerns. SEC Chair Gary Gensler pointed to the market’s potential for manipulation.58 Unlike in traditional financial markets, there is no verifiable quote and order book overseen by regulators.59 Instead, users are reliant on the exchanges’ reporting making data available voluntarily, and should a user wish to verify it, they would need significant programming skills to do so. ",
+    "bbox": [
+      114,
+      180,
+      880,
+      279
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The United Kingdom financial regulator, the Financial Conduct Authority (FCA), warned that the crypto exchange Binance lacks the registration necessary to sell crypto derivatives in the UK and must add a warning to its website. Canada pursued enforcement actions against three cryptocurrency exchanges, KuCoin, Poloniex, and Bybit Fintech Limited. In the complaints, the Ontario Securities Commission alleges that these exchanges are trading derivatives and securities without registration or providing prospectuses. ",
+    "bbox": [
+      114,
+      295,
+      882,
+      414
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Unregistered DeFi Markets May Violate the Commodity Exchange Act ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      431,
+      673,
+      449
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "On June 8, Commodity Futures Trading Commission (CFTC) Commissioner Dan Berkowitz warned that unregistered DeFi markets may be illegal under the Commodity Exchange Act (CEA). In addition to warning about the lack of standards of conduct and the potential for the space to become an “unregulated shadow financial market”, Commissioner Berkovitz pointed out that existing derivatives rules may govern DeFi. He pointed out that under the CEA, any facility trading or processing swaps must register as a Designated Contract Maker or a Swap Execution Facility — something DeFi platforms have not done. Commissioner Berkovitz pointed out that the CEA “does not contain any exception from registration for digital currencies, blockchains, or ‘smart contracts.’” ",
+    "bbox": [
+      114,
+      465,
+      885,
+      643
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "57 https://twitter.com/Greg55974093/status/1392847283377553412 (“The true APY is much lower now around $500 \\%$ ); https://twitter.com/ans_pirzada/status/1393067870486212610 (“But the APR shown here is just $1 4 6 . 4 5 \\% ? \" .$ ); https://twitter.com/murnikila/status/1393413999924977670 (With a screenshot displaying a $1 0 0 . 0 7 \\%$ APR, noting “APR not so insane anymore huh $\\circleddot$ ” 58 House Appropriations Committee, Chair Gensler Testimony Before the Subcommittee on Financial Services and General Government, U.S. House Appropriations Committee (May 26, 2021), https://www.sec.gov/news/testimony/gensler-2021-05-26. (“none of the exchanges trading crypto tokens has registered yet as an exchange with the SEC. Altogether, this has led to substantially less investor protection than in our traditional securities markets, and to correspondingly greater opportunities for fraud and manipulation.”) 59 The SEC’s MIDAS system, for example, collects and processes data from the consolidated tapes and separate proprietary feeds in order to view and analyze complete order books (allowing analysis of quote data in addition to trade data): https://www.sec.gov/marketstructure/midas-system ",
+    "bbox": [
+      114,
+      715,
+      879,
+      909
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      938,
+      508,
+      949
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Many DeFi platform do offer derivatives, including the U.S. based DYDX (although U.S. users can only trade on margin, not trade their futures contracts)60, Opyn which offers options on cryptocurrency61, the forthcoming SynFutures62, and Ribbon Finance, which offers structured products based in cryptocurrencies.63 ",
+    "bbox": [
+      116,
+      89,
+      867,
+      167
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Consumer Credit and Cryptocurrency ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      185,
+      416,
+      203
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Cryptocurrency exchanges are moving into consumer financial products, such as credit cards, lending, and borrowing. The Gemini exchange and Crypto.com both have credit card offerings where rewards are paid in cryptocurrency. ",
+    "bbox": [
+      116,
+      226,
+      864,
+      284
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3702513/auto/images/1b2ece2146ddb72fad12cc6aa5f0965400366c68012cf38887ac6f371bf9828a.jpg",
+    "image_caption": [
+      "https://crypto.com/us/cards, accessed June 29, 2021 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      285,
+      882,
+      573
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Regulators and lawmakers should examine if there are any particular concerns for these new credit card offerings, and if the providers are following all the relevant laws. ",
+    "bbox": [
+      116,
+      617,
+      846,
+      655
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Concerns Surrounding Potential False Advertising or Misleading Claims ",
+    "bbox": [
+      117,
+      671,
+      694,
+      689
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "There are also false advertising concerns in the space. For example, the exchange Crypto.com tells its users that it can get \" $\\$ 25$ USD\" if it refers a friend to its platform. But this referral bonus marketing in its mobile app makes it seem that the bonus is $\" \\$ 25\\mathrm { U S D \" }$ , when it is actually $\\$ 25$ in Crypto.com's own coin, CRO, and there are a host of criteria users must meet before accessing this CRO reward.64 A second example is the advertising on the website for cryptocurrency VAIOT, which includes a graphic claiming that its artificial intelligence was \"developed in cooperation with IBM\", and uses the official IBM logo. However, the only mention of VAIOT on IBM's website comes on its \"IBM Community\" forums, where a post notes that VAIOT is simply using an IBM product, its virtual assistant software \"Watson\".65 ",
+    "bbox": [
+      114,
+      707,
+      880,
+      785
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "60 https://trade.dydx.exchange/portfolio/overview 61 https://opyn.co/; https://v2.opyn.co/#/ 62 https://www.coindesk.com/polychain-pantera-back-14m-defi-derivatives-platform-synfutures-round 63 https://app.ribbon.finance/ ",
+    "bbox": [
+      114,
+      844,
+      846,
+      910
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      938,
+      509,
+      950
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      89,
+      862,
+      189
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      205,
+      212,
+      223
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Congress should continue to examine if there are regulatory gaps that require new legislation to ensure consumer and investor protection in the cryptocurrency space, as well as ensure there are mechanisms for the regulators to have a complete picture of systemic risk in the space. Regulators should continue to monitor the space and ensure compliance with existing regulations. ",
+    "bbox": [
+      114,
+      241,
+      872,
+      339
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "64 The actual conditions (available on the website) of even accessing this $\\$ 25$ in CRO coin are that the user must either stake $\\$ 400$ in CRO, or sign up for the Crypto.com credit card. The only way to turn this into $\\$ 25$ USD would be to meet the conditions, trade it for USD (ostensibly after paying a fee), and only if the price of CRO hasn't depreciated from the $\\$ 25$ USD level after meeting the conditions. See: https://help.crypto.com/en/articles/3124990-bg25-referral-program. 65 “Enterprise AI developer VAIOT has integrated IBM’s Watson Assistant into its new platform for finding and selling car insurance”. https://community.ibm.com/community/user/watsonapps/viewdocument/ibmwatson-assistant-is-helping-des?CommunityKey=7a3dc5ba-3018-452d-9a43- a49dc6819633&tab=librarydocuments ",
+    "bbox": [
+      114,
+      775,
+      879,
+      910
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      938,
+      509,
+      950
+    ],
+    "page_idx": 12
+  }
+]

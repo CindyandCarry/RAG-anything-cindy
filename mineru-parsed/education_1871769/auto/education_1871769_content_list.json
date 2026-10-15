@@ -1,0 +1,2301 @@
+[
+  {
+    "type": "text",
+    "text": "Matching Instructors and Spaces of Learning: The impact of space on behavioral, affective and cognitive learning ",
+    "text_level": 1,
+    "bbox": [
+      148,
+      101,
+      849,
+      145
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "John A. McArthur Queens University of Charlotte ",
+    "bbox": [
+      436,
+      179,
+      583,
+      227
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This study examined the extent to which instructional proxemics -– the physical space of the learning environment -- impacts student behavioral, affective, and cognitive learning. Participants included 234 college students enrolled in 15 sections of public speaking. Each section was assigned to a study learning environment and an instructor, ensuring that each of the five instructors taught one section in each of the three learning environments. A 2 (student gender) $\\boldsymbol { \\times \\ 3 }$ (learning environment) $\\boldsymbol { \\times } ~ 5$ (instructor) factorial ANOVA produced significant interactions between instructor and learning space on all three learning measures. Post-hoc analyses reveal that the instructional environment influences student learning outcomes and that these influences are moderated by the instructor. These results further the General Model of Instructional Communication (Valencic, Richmond, & McCroskey, 2004) by offering the instructional environment as a measurable facet of this model. In addition, these results suggest the importance of considering instructional proxemics as a facilitator of classroom success. ",
+    "bbox": [
+      227,
+      253,
+      758,
+      429
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      225,
+      455,
+      336,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The landscape of spaces devoted to university teaching and learning is changing at a more rapid rate than ever before (AS&U, 2001; Oblinger 2006). Academic and popular media outlets have become aware of a recent educational focus on space and the experience of education. In a feature article in the Chronicle of Higher Education, Bartlett (2003) identified student perceptions of traditional classrooms as obsolete, inflexible, and uncomfortable. In the same periodical, Read (2006) lamented the exodus of “digital natives” (Prensky, 2001, p. 1) from lecture halls. Time magazine reported on American schools calling them “throwbacks” to an earlier age (Wallis & Steptoe, 2006, para. 2). And, the concept of “flipped classrooms” has caught the attention of the media nationwide (Kachka, 2012). Still other scholars have approached the issue of classroom design applying universal design principles to furniture within classrooms (Harvey & Kenyon, 2013). ",
+    "bbox": [
+      86,
+      483,
+      478,
+      742
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Like these media outlets, educators and facility managers are engaging this discussion on campuses nationwide (Jamieson, 2003; Monahan, 2002; Oblinger, 2006; Smaldino, Lowther, & Russell, 2008, Felix & Brown, 2011). As college and university campuses consider building projects, planning teams are consistently asking how space can influence the learning that occurs within (see Oblinger, 2006). Unfortunately, academic research on instructional proxemics -- the spatial design and use of space in the instructional environment -- is limited, especially in terms of empirically-based research on instruction with space as an independent variable. ",
+    "bbox": [
+      86,
+      744,
+      477,
+      835
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      455,
+      911,
+      545
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This study investigates how spaces of learning can become facilitators for learning in institutions looking to maintain pace or become front-runners in an ever-changing educational world, offering the contention that the study of spaces of learning must become as central to the study of instructional communication as the now burgeoning fields surrounding the technologized communication-oriented classroom (Information Society Commission, 2002; Wood & Fassett, 2003; Johanssen, 2004; Benoit, et. al., 2006; Li, 2007). In a similar vein, instructional communication discourse must adopt stronger and more nuanced stances on the study and implementation of learning spaces, advancing the scholarly dialogue beyond the largely monolithic current discussion of instructional proxemics to a more dynamic understanding of classroom space and instructional environment within the modern university setting. ",
+    "bbox": [
+      521,
+      547,
+      911,
+      791
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The General Model of Instructional Communication (McCroskey. Valencic, & Richmond, 2004) suggests six facets of instructional communication: students, teachers, student learning outcomes, teacher behaviors, teacher credibility, and instructional environment. Measures of student learning outcomes, teacher behaviors, and teacher behavior have been widely studied in instructional communication literature (see Mottet, Richmond, & McCroskey, 2006, for an overview of these numerous studies). Individual teachers and students have also been assessed in the forms of motivation (Richmond, 1990), teacher and student misbehaviors (Banfield, Richmond, & McCroskey, 2006), incivility (Boice, 1990; Simonds, 1997), and rhetorical and relational goals (Mottet, Frymier, & Beebe, 2006). The interactions between these facets have also been assessed and reported (e.g. Sanders & Wiseman, 1990; Witt & Wheeless, 2001; Witt, Wheeless, & Allen, 2001). Results of these studies indicate the importance and worthiness of each of these factors for study in instructional communication discourse. The General Model of Instructional Communication combines these factors into a model of instructional communication that begins to address the vast connectivity of variables in the teacher-student dynamic. ",
+    "bbox": [
+      519,
+      792,
+      911,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "John A. McArthur is an Associate Professor of Communication in the James L. Knight School of Communication at Queens University of Charlotte. ",
+    "bbox": [
+      91,
+      858,
+      464,
+      895
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CBY ISSN 21586195 ",
+    "bbox": [
+      794,
+      42,
+      895,
+      71
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces Volume 4, Number 1. 2015 ",
+    "bbox": [
+      101,
+      47,
+      258,
+      73
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      103,
+      477,
+      345
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "However, the final facet of this model remains unassessed and unconnected to the previous five. In their study, McCroskey, Valencic, and Richmond (2004) label any variance attributable to the instructional environment as error variance by arguing that the instructional environment is too complex to be measurable. This study suggests that the instructional environment is an important area of study and should not be dismissed before it is adequately assessed. Thus, this study furthers the General Model of Instructional Communication through an analysis of physical aspects of the instructional environment as they relate to student learning outcomes, and ultimately advances the concept of interconnectivity between teacher, student, and instructional environment. ",
+    "bbox": [
+      86,
+      348,
+      477,
+      560
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Scholars in non-verbal communication building upon Hall (1966) have long suggested that space plays a role in communicative behavior and that the role of space can be measured (Hall, 1966; Sommer, 1969; Strange & Banning, 2001). This important work in proxemics, the study of personal space, has implications the study of instructional environments. Educational theorists Strange and Banning (2001) suggest that the physical environment sets limits on patterns of behavior making some actions more probable than others. In terms of formal classroom spaces, Jamieson (2003) suggests that current institutional architecture provides an optimal environment for teacher-centered practices. These practices involve the one-way delivery of information, harkening back to the denounced “banking” model for instruction which Friere (1970) criticizes as a process of domination whereby knowledge is deposited into the minds of passive students. According to Jamieson (2003), current institutional architecture consistently promotes a “banking” model. Sommer (1969) suggests that teachers are hindered by these spaces of learning. ",
+    "bbox": [
+      86,
+      563,
+      478,
+      867
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Conversely, Beebe, Beebe, and Ivy (2004) suggest that the current model for classroom instruction is the communication-as-transaction model, indicating that contemporary instructors and students are active collaborators in the learning process. As such, the spaces they occupy should allow for the activity of collaboration to occur in the form of classroom projects, experiences, and reflection. This type of learning space sharply contrasts with the traditional, linear classroom space currently present in many institutions and first chronicled by antebellum educator Henry Barnard (1851). Toward this end, current trends in educational design emphasize the willingness of institutions to embrace a collaborative pedagogy over the “banking” model. ",
+    "bbox": [
+      84,
+      869,
+      477,
+      897
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      103,
+      911,
+      285
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "According to Oblinger (2006), three shifts in contemporary education necessitate the examination of the spaces of learning. These shifts are characterized by (1) the aforementioned progression from the banking model of education to a more collaborative pedagogy; (2) changes the qualities of students (Junco & Mastrodicasa, 2007); and (3) advances in educational technology. Each of these three shifts point to the creation of flexible learning spaces, coined “flexible” because they are adaptable to different pedagogical aims. ",
+    "bbox": [
+      519,
+      286,
+      911,
+      439
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Oblinger is not alone in emphasizing flexibility. Other theorists, architects, educators, and media outlets have suggested that a primary way to promote learning rather than teaching is through the use of a combination of formal and informal learning spaces and the integration of mobile furniture into the classroom. Venezky (2004) suggests that such changes will allow educational space to enhance the collaborative nature of the Vygotsky (1978) model of education over the skill and drill models based on the learning theories of Piaget (1932, 1970). Bruffee (1998) recognizes the difficulty of implementing collaborative learning due to the constraints of the architecture and use of educational spaces (Appendix A, pp. 259-261), but suggests that changes in architecture can change pedagogy. Strange and Banning (2001) echo Bruffee’s claim: “The extent to which the design and layout facilitates interaction of participants is thought to be an important antecedent to involvement” (p. 145), suggesting that flexibility is the key to a collaborative physical design. Moreover, in 1998, the American School and University Magazine reported that the flexible learning space was one of the top ten design ideas for the 21st century. ",
+    "bbox": [
+      521,
+      440,
+      911,
+      775
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Monahan (2002) categorized the flexibility of spaces using five qualities of flexible educational space that allow for different functions within that space: fluidity, convertibility, versatility, scaleability, and modifiability. Fluidity refers to the ability of a space to permit the flow of people, light, sight, sound, and air through the space as opposed to a space that contains or confines. Versatility suggests the ability of a space to be used for multiple things rather than a space being dedicated for a single use. A convertible space is one that offers ease of adaptation for various uses as opposed to a space that is impossible or difficult to rearrange. The scaleability of a space references the space’s ability to expand or contract as necessary rather than a room with consistent dimensions across time. Modifiability refers to an invitation of active manipulation within a space as opposed to a space which dictates the placement of items within it. ",
+    "bbox": [
+      521,
+      777,
+      911,
+      898
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      901,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      103,
+      478,
+      223
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Within this study, spaces are identified according to their fluidity, versatility, and convertibility, relative to each other. Scaleability is not addressed as all rooms have consistent, permanent dimensions. Moreover, Monahan suggests that modifiability is very rarely found in spaces even if they possess all of the other four properties because modifiability is the result of the other four alongside a culture of active manipulation. ",
+    "bbox": [
+      86,
+      226,
+      477,
+      347
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This particular study examined communicative behaviors in three learning environments of varying levels of flexibility. Thereby, a strictly controlled experiment was not feasible given the seemingly infinite permutations that inevitably alter the learning environment. To assess the communicative behaviors and their relation to space, this study employed primarily quantitative research methods through surveys. Questionnaires contained approximately 80 quantitative items, demographic measures, and three qualitative measures. In addition to these surveys, the researcher also assessed journal entries written by the five participating instructors to provide context for the quantitative findings. ",
+    "bbox": [
+      86,
+      348,
+      478,
+      546
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Therefore, this extensive field experiment addressed relationship between learning outcomes and learning spaces; thus combining one widely studied facet of McCroskey, Valencic, and Richmond’s (2004) General Model of Instructional Communication (student learning outcomes) with the facet of the model that its designers labeled immeasurable (the instructional environment). This study suggests that each student learning outcome will be influenced by physical space as an independent variable. What follows is a list of the research questions this study poses as measurable under its design: ",
+    "bbox": [
+      86,
+      547,
+      478,
+      714
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Research Question 1 (RQ 1): In what ways is student behavioral learning influenced by classroom space?   \n• RQ 2: In what ways is student affective learning influenced by classroom space?   \n• RQ 3: In what ways is student cognitive learning influenced by classroom space? ",
+    "bbox": [
+      102,
+      731,
+      478,
+      821
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Methods ",
+    "text_level": 1,
+    "bbox": [
+      676,
+      104,
+      754,
+      119
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Participants ",
+    "text_level": 1,
+    "bbox": [
+      521,
+      137,
+      609,
+      152
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Data were collected as part of a larger assessment of instructional proxemics and its relationship to teaching and learning. A total of fifteen sections of an undergraduate class in public speaking were used for this study with as many as 19 students $\\mathrm { \\mathit { M } } = 1 5 . 6$ , $S D = 2 . 4$ ) assigned to each class section. The 234-student sample included 117 $( 5 0 . 4 \\% )$ males and 115 $( 4 9 . 6 ~ \\% )$ females (two did not indicate gender), ranging in age from 18 to 25 $M = 1 9 . 8 2 $ , $S D = 1 . 2 1 9 \\ \\AA$ ). Participants included 20 $( 9 \\% )$ first-year students, 123 $( 5 3 \\% )$ sophomores, 44 $( 1 9 \\% )$ juniors, and 45 $( 1 9 \\% )$ seniors (two did not indicate their classification) and represented all five colleges at the institution, a National University in the Southeast region of the United States. Participants included 201 $( 8 6 ~ \\% )$ White students, 22 $( 9 \\ \\% )$ African-American students, and 11 $( 5 \\% )$ students who selected multiple ethnicities or “other.” ",
+    "bbox": [
+      519,
+      162,
+      911,
+      390
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Students self-selected sections of public speaking without knowing that certain sections would be taught in different learning environments. A course in oral communication is required for graduation with the majority of students taking public speaking to meet this requirement. Public speaking is thereby offered to students at all levels, canvassing a wide swath of university disciplines. When invited to complete a survey instrument, participants gave informed consent during a regularly-scheduled class meeting time. ",
+    "bbox": [
+      519,
+      392,
+      911,
+      529
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The study also invited participation from the five instructors teaching these fifteen sections of public speaking. These instructors gave informed consent to the study at the beginning of the term. No first-time or graduate student instructors taught in this study. All instructors had previously taught this course at the university and all were categorized by the institution as “lecturers” holding Master’s degrees in communication or related fields. One instructor was male; four were female. Instructors and students who declined participation were excluded from the study. Only one student in attendance on the day of survey administration declined participation. ",
+    "bbox": [
+      519,
+      530,
+      911,
+      712
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Facilities ",
+    "text_level": 1,
+    "bbox": [
+      521,
+      728,
+      586,
+      743
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The study employed three learning environments located within the same classroom building, eliminating potential self-selection biases that students may have selected because of the vicinity of the classes to other campus facilities. ",
+    "bbox": [
+      519,
+      753,
+      911,
+      813
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The first classroom was arranged with furniture typical to the institution (and most US college campuses): tablet-desks for each student and a podium with computer, LCD projector, and wall-mounted screen (see Figure 1). The desks were new Herman Miller Caper chair designs with attached foldable tablet desk. This classroom had fluorescent lighting controllable by wall switches and ambient light from two windows. The surfaces in the room (walls, floors, and wood surfaces) were all refinished or repainted prior to completion of the study. Classroom 1 will be referred to as the traditional classroom. Based on the properties of flexible space listed in Monahan (2002), this classroom had low versatility, low convertibility and no fluidity. ",
+    "bbox": [
+      519,
+      814,
+      911,
+      904
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      901,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      102,
+      478,
+      208
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/b626d4d9a2e564f139e26623e11a76c064fbaf1bcd4623963cae89b666281956.jpg",
+    "image_caption": [
+      "Figure 1. Traditional classroom "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      86,
+      223,
+      477,
+      425
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The second classroom had the same dimensions, computer equipment, refinishing, and lighting as the traditional classroom. However, this room was fitted with new mobile furniture on gliders, allowing it to move around the room with relative ease (see Figure 2). This furniture consisted of multi-user tables and detached Caper chairs that could be arranged in various formations by the students and instructor, including, but not limited to: rows (seating 2 students per individual table), small groups (seating up to 6 students per constructed tables), and seminar tables (seating upwards of 20 students per constructed table). This furniture allowed each student to have a shared workspace with other students, as well as, enough desk space to spread out laptops, notebooks, and course materials. Classroom 2 will be referred to as the versatile classroom. Based on the properties of flexible space listed in Monahan (2002), this classroom had high versatility, moderate convertibility and no fluidity. ",
+    "bbox": [
+      86,
+      455,
+      478,
+      731
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/752c6efdedffc64016a60ad8facbb43d372f33d34792079739239429b0a3c1e2.jpg",
+    "image_caption": [
+      "Figure 2. Versatile classroom "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      101,
+      910,
+      301
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The third classroom was a “studio” space: two open, adjoining areas allowed different events to occur simultaneously in the same space (see Figure 3). The sections assigned to this classroom may move about the larger space based on their instructional needs as well as the needs of other users of the space. The furniture in this space was all mobile and offered various styles of seating. Classroom 3 will be referred to as the fluid classroom. Based on the properties of flexible space listed in Monahan (2002), this classroom had high versatility and high convertibility. In addition, it had high fluidity because it allowed movement of light, sound, people, and air throughout the space. ",
+    "bbox": [
+      519,
+      333,
+      911,
+      517
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/a05c84457d1902e056ae04ed4a359c79a206012d7a9ed85a92b7d0269481ccc6.jpg",
+    "image_caption": [
+      "Figure 3. Fluid classroom "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      530,
+      911,
+      733
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The levels of flexibility suggested herein were verified using items on the questionnaire and instructor journals. Both assessments indicated that, while each of the three classrooms could be reconfigured to a variety of designs, the traditional and versatile classrooms were reconfigured far less often than the fluid classroom. ",
+    "bbox": [
+      519,
+      763,
+      913,
+      854
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      901,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/7efdfe0c265d5f26691dbeaad2423902555f65c15941c2650f4e326db588d3c3.jpg",
+    "image_caption": [
+      "Figure 4. Study design concept based on instructor, time of day, and classroom "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      104,
+      116,
+      895,
+      481
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Experimental design ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      534,
+      236,
+      550
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This study involved the students and the instructors across a single term allowing the course to operate from beginning to end. To control for instructor differences, each instructor taught three sections and was assigned to teach one section in each classroom. This design allowed the researcher to control for classroom building variations and time of day (see Figure 4). All classes met three times a week for 50 minutes, and all classes met on the same days each week. Classes were scheduled to ensure that all three rooms were being utilized at the same times to control for any external factors that may impact user-experience within a classroom building. ",
+    "bbox": [
+      88,
+      559,
+      478,
+      742
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "As space is the primary concern of this article, the researcher attempted to control for the interrelationship between space, pedagogy, and learning gains through the use of a common course. The course was based on a standardized syllabus with a common final exam; thus, the researcher was able to control for number and difficulty of assignments, frequency of practice, and learning expectations. As this was a public speaking course, the assignments in this course were largely performance-based. The university conducted routine assessments (independent from this study) to ensure that the quality of performancebased assignments and pedagogy employed by the various instructors were similar and effective. The study design and instruments were all approved by the university’s Institutional Review Board and the administrators of the public speaking program. ",
+    "bbox": [
+      88,
+      744,
+      478,
+      910
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      554,
+      911,
+      630
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Instrumentation ",
+    "text_level": 1,
+    "bbox": [
+      521,
+      645,
+      640,
+      660
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A survey instrument administered at the end of the term employed 7-point Likert scales and 7-point word comparison scales. Self-reported demographic and grade achievement information were collected. The use of appropriate scales for Research Questions one and two were determined by the set scales previously tested by prior researchers studying each specific research question. The scales (from Sanders & Wiseman, 1990) were modified from 5-point Likert scales to 7-point Likert scales for greater variability and to maintain a stronger sense of internal consistency of the measures on the greater survey. The new 7-point scales were tested for reliability to ensure that they correlated with findings on the original scales, and all modified scales demonstrated reliability scores similar to their originals. ",
+    "bbox": [
+      521,
+      670,
+      911,
+      898
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      88,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Behavioral learning. Behavioral learning has been defined as the commitment of the student to the skills taught in a course (Sanders & Wiseman, 1990). Student perceptions of behavioral learning were measured using a modified version of the behavioral commitment scales used by Sanders and Wiseman (1990) consisting of two four-item measures based on the work of Andersen (1979). Participants were asked to indicate their likelihood of enrolling in a course of the same subject matter and their likelihood of using the behaviors learned in the course using seven-point word comparison scales. Previous use of the scale (Sanders & Wiseman, 1990) has achieved an Alpha reliability of .91. In this study, the modified scale yielded a Cronbach’s alpha score of .88. ",
+    "bbox": [
+      88,
+      103,
+      477,
+      315
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Affective learning. Affective learning has been conceptually defined in the classroom as the emotional response of the student to the course, instructor, and content (Bloom, 1956). Affective learning was measured using a modified version of the scales of Sanders and Wiseman (1990) consisting of three four-item measures based again on the work of Andersen (1979). Participants were asked to rate the course, the course content, and the behaviors learned in the course using seven-point word comparison scales. Previous use of the scale (Sanders & Wiseman, 1990) has achieved an Alpha reliability of .95. In this study, the modified scale yielded a Cronbach’s alpha score of .94. ",
+    "bbox": [
+      88,
+      318,
+      478,
+      500
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cognitive learning. Cognitive learning has been conceptually defined in the classroom as the comprehension, recall, and application of course content (Bloom, 1956). Perceived cognitive learning was measured using responses to two scales (Richmond, McCroskey, Kearney, & Plax, 1987; Teven & McCroskey, 1997). Participants were asked to indicate on a scale of 1-7 how much they thought they learned in the class and how much they thought they could have learned in the same class given the ideal instructor. A “learning ${ \\mathrm { l o s s } } ^ { \\prime \\prime }$ score was obtained by subtracting item one from item two. For instance, if a student rated his learning as a “five”, but indicated that if he had the ideal instructor, he would have been able to rate his learning a $^ { \\prime \\prime } \\mathrm { s i x } ^ { \\prime \\prime } .$ , the learning loss score would be “one.” In addition to these measures, students were asked to self-report their received or expected grades on major class projects and for the class overall to bolster the perceived cognitive learning measure with measures of course performance. ",
+    "bbox": [
+      86,
+      502,
+      478,
+      776
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Instructor journals. In addition to the data collected from student surveys, instructors were asked to report in a journal any classroom activities which had to be modified, changed, or were otherwise influenced by the space of the classroom. As each instructor taught the same class in each of the test rooms on any given day, they were asked to chronicle their comparisons of the classrooms. ",
+    "bbox": [
+      86,
+      777,
+      478,
+      882
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Administration and data analysis ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      103,
+      764,
+      119
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The surveys were administered and collected by the researcher and two assistants on a single day at the end of the semester. Instructors were asked to leave the room during survey administration. Data was entered into SPSS for Windows version 15.0 as it appeared on the survey. The raw data was first cleaned for any missing values. ",
+    "bbox": [
+      519,
+      128,
+      911,
+      219
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Ordinary least-squares regression examined the effects of a series of variables that could have proven significant, such that they could be entered as factors in subsequent ANOVA models. Because ANOVA is a preferred statistical method for experimental research designs (Kerlinger & Lee, 2000), a $2 \\times 3 \\times 5$ factorial ANOVA was obtained to detect significant main effects and interactions on each of the scale variables (behavioral learning, affective learning, and cognitive learning) across two levels of gender (a factor which proved statistically significant based on linear regression), three levels of classroom design (traditional, versatile, and fluid), and five levels of instructor $( \\mathrm { A } , \\ \\mathrm { B } , \\ \\mathrm { C } , \\ \\mathrm { D } ,$ and E). Due to concerns surrounding factorial designs and the frequency of Type I and Type II error rates (Smith, Levine, Lachlan, & Feduik, 2002), the analyses employed Bonferroni adjustments to compare the means of cells of relevant factors within the study design. This technique was used successfully by Witt and Schrodt (2006) in their comparisons of technology use, teacher immediacy, and student affect. ",
+    "bbox": [
+      521,
+      222,
+      911,
+      511
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Instructor journals were submitted electronically to the researcher following the end of the term. Only the researcher had access to copies of the journals, which identified their authors. Direct quotes were identified from each journal related to the rooms and instructor perceptions of the Research Questions. Rather than formally coding these journals, each journal was assessed as an individual case study and used as a lens through which the researcher could understand consistencies or variations within reported student perceptions. Results from these journals are reported in the discussion section to provide context for the statistical findings. ",
+    "bbox": [
+      521,
+      512,
+      911,
+      694
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Results ",
+    "text_level": 1,
+    "bbox": [
+      684,
+      720,
+      748,
+      737
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Linear regression analyses were used to determine the amount of variance in the system that could be attributed to demographic, room, and instructor variables. Variables of race and gender, as well as, study variables of room and instructor were dummy-coded (0, 1) for linear regression because each of these variables is categorical rather than ordinal. For each variable that emerged as a significant predictor, post-hoc comparisons of the means were assessed to determine the direction of these differences. Directions of instructor differences are not reported here because, while the presence of these differences are important to this study, the directionality of these differences (e.g. does Instructor A elicit higher perceptions that Instructor B?) is not crucial in the study design. ",
+    "bbox": [
+      521,
+      747,
+      911,
+      898
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      901,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_1871769/auto/images/eddad9c156746a92c49a8ee463dd1b720089b544d77a9d6d07dda5d60660c070.jpg",
+    "table_caption": [
+      "Summary ofLinear RegressionAnalysisfor Variables Predicting BehavioralLearning $( n = 2 3 4 )$ "
+    ],
+    "table_footnote": [
+      "$R ^ { 2 } = . 0 2 0$ 𝑠𝑝<.05,𝑝<.01,\\*𝑠𝑝<.001 ",
+      "Table 1. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>B</td><td>SEB</td><td>β</td></tr><tr><td>Gender(Female)</td><td>3.695</td><td>1.302</td><td>.190**</td></tr><tr><td>Race(White)</td><td>-2.690</td><td>2.236</td><td>-.097</td></tr><tr><td>Race(Other)</td><td>-3.245</td><td>3.598</td><td>-072</td></tr><tr><td>Instructor(A)</td><td>.164</td><td>2.085</td><td>.006</td></tr><tr><td>Instructor(C)</td><td>2.691</td><td>1.977</td><td>113</td></tr><tr><td>Instructor (D)</td><td>.594</td><td>1.950</td><td>025</td></tr><tr><td>Instructor(E)</td><td>.865</td><td>2.047</td><td>034</td></tr><tr><td>Classroom(Versatile)</td><td>2.271</td><td>1.569</td><td>109</td></tr><tr><td>Classroom(Fluid)</td><td>1.574</td><td>1.568</td><td>.076</td></tr></table>",
+    "bbox": [
+      116,
+      138,
+      880,
+      468
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      540,
+      477,
+      601
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Table 1 depicts the results of the linear regression analysis for the behavioral learning scale, indicating that the four variables assessed account for just $2 . 0 ~ \\%$ of the variance in this system. This analysis indicates that gender (female) emerged as a significant predictor variable with females perceiving higher behavioral learning than males. Table 2 depicts the results of the linear regression analysis for the affective learning scale and indicates that the four variables assessed account for $5 . 2 \\ \\mathrm { ~ \\% ~ }$ of the system variance. In addition, this analysis indicates that gender (female), race (other), and instructor (D) emerged as significant predictor variables. Comparisons of the means indicate that females perceived higher affective learning than males and African-American students perceived higher affective learning than White or “other” students. ",
+    "bbox": [
+      86,
+      603,
+      478,
+      829
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Table 3 depicts the results of the linear regression analysis for the cognitive learning loss measure and indicates that the four variables assessed account for $9 . 9 \\ \\%$ of the system variance. Race (other), classroom (fluid), and instructor (D) emerged as significant predictor variables in this system. ",
+    "bbox": [
+      86,
+      832,
+      478,
+      907
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Comparisons of the means indicate that students who identified as “other” perceived higher cognitive learning loss than White or African-American students; and that students in the fluid classroom perceived higher cognitive learning loss than students in the versatile or traditional classrooms. ",
+    "bbox": [
+      519,
+      526,
+      911,
+      616
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The least attributable variance was found in the behavioral learning model, followed by affective learning. The most attributable variance was found in the cognitive learning model. In these analyses, each scale for student learning and each scale for teacher behavior was assessed to determine if student gender or race could be a significant factor. Gender was found to be a significant factor for two of the three scales. Because gender proved to have a significant effect on system variance in a number of cases, it was included as a factor in subsequent ANOVAs. ",
+    "bbox": [
+      519,
+      617,
+      911,
+      770
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The race “other” was found to be significant in two of the scales; but, due to the low count $( \\mathrm { N } \\ : = \\ : 1 1 $ ) of students indicating “other” and the possibility of multiple races within the “other” category, race was not considered to be significant and was not included in subsequent ANOVAs. Based on the data in these tables, one could conclude that an analysis of variance model including differences in gender, instructor, and classroom may hold some predictive value in assessing student learning. ",
+    "bbox": [
+      519,
+      771,
+      911,
+      907
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      901,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_1871769/auto/images/c498ccd3dd52e1aa839a7e7219e2f0f06c583d95411260652f3c3009296d4a22.jpg",
+    "table_caption": [
+      "Summary ofLinear Regression Analysis for Variables PredictingAffectiveLearning $( n = 2 3 4$ "
+    ],
+    "table_footnote": [
+      "Table 2. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>B</td><td>SEB</td><td>β</td></tr><tr><td>Gender（Female）</td><td>3.198</td><td>1.489</td><td>.1428</td></tr><tr><td>Race（Black）</td><td>1.695</td><td>2.559</td><td>.044</td></tr><tr><td>Race(Other)</td><td>-7.615</td><td>3.456</td><td>-.145*</td></tr><tr><td>Instructor（A）</td><td>2.748</td><td>2.386</td><td>.093</td></tr><tr><td>Instructor(C)</td><td>-.564</td><td>2.248</td><td>-.020</td></tr><tr><td>Instructor(D）</td><td>-4.704</td><td>2.231</td><td>-.172</td></tr><tr><td>Instructor（E)</td><td>-1.299</td><td>2.356</td><td>-.044</td></tr><tr><td>Classroom(Versatile)</td><td>-.062</td><td>1.800</td><td>-.003</td></tr><tr><td>Classroom(Fluid)</td><td>-.965</td><td>1.793</td><td>-.040</td></tr><tr><td colspan=\"4\">Note.adjustedR²=.052 p&lt;.05,**p&lt;.01,*p&lt;.001</td></tr></table>",
+    "bbox": [
+      91,
+      152,
+      897,
+      526
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Based on the results of the linear regression analyses and because ANOVA is a preferred method of analysis in experimental designs (Kerlinger & Lee, 2000), $2 \\times 3 \\times 5$ factorial ANOVAs were run on each of the devised scales. For significant interactions, the means were plotted to demonstrate the nature of the effect. For significant findings related to classroom, post-hoc Bonferroni tests were used to determine the relationship between rooms. These post-hoc tests were not used to address instructor differences because, while these differences are important to this study, the directionality of these differences (e.g. does Instructor A achieve higher perceptions that Instructor B?) is not crucial in the study design. However, these differences can be viewed in many of the subsequent charts and graphs. ",
+    "bbox": [
+      86,
+      569,
+      478,
+      781
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RQ 1. Research Question 1 dealt with the impact of the classroom on measures of behavioral learning. For the behavioral learning scale, the results of the factorial ANOVA yielded a significant interaction effect for classroom by instructor, $F \\left( 8 , 1 9 6 \\right) = 3 . 2 5 $ , $p = . 0 0 2$ . The interaction effect is plotted in Figure 5. Based on the means depicted in this figure, student perceptions of behavioral learning in the traditional and versatile classrooms were much less ",
+    "bbox": [
+      86,
+      784,
+      478,
+      904
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "diversified than those in the fluid classroom. The converse lines of Instructors $\\textsf { C }$ and $_ \\mathrm { D }$ in Figure 5 underscore the differences that may result when instructors are placed into different classrooms. ",
+    "bbox": [
+      519,
+      569,
+      911,
+      628
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The main effect for classroom, $F \\left( 2 , 1 9 6 \\right) = . 6 4 3 ,$ , $p = . 5 2 7 ,$ and the main effect for instructor, $F \\left( 4 , 1 9 6 \\right) = . 4 6 1$ , $p = . 7 6 4 ,$ were not significant. However, gender did demonstrate a main effect on behavioral learning, $F \\left( 1 , 1 9 6 \\right) = 1 2 . 4 8$ , $p = . 0 0 1 ,$ , with post-hoc comparisons of the means indicating that female students perceived higher behavioral learning than male students. The interactions between gender and other variables were not statistically significant: gender by instructor, $F \\left( 4 , 1 9 6 \\right) = . 8 3 2$ , $p = . 5 0 6 ,$ gender by classroom, $F$ $( 2 , 1 9 6 ) = 1 . 3 7 _ { \\cdot }$ , $p = . 2 5 7 ,$ gender by room by instructor, $F$ (8, $1 9 6 ) = 1 . 2 6 ,$ , $p = . 2 6 9$ . In sum, these results may demonstrate that the combination of instructor and classroom space could have some influence on behavioral learning. ",
+    "bbox": [
+      521,
+      631,
+      911,
+      827
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "$R Q ~ 2$ . Research Question 2 dealt with the impact of the classroom on measures of affective learning. For the affective learning scale, the results of the factorial ANOVA yielded a significant interaction effect for classroom by instructor, $F$ (8, $2 1 2 ) = 4 . 6 8$ , $p < . 0 0 1$ , and a significant main effect for ",
+    "bbox": [
+      519,
+      830,
+      911,
+      905
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      901,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_1871769/auto/images/17743c359a4542b89f6a3334a4ec1fb2f6eff989d3e93b6ce368ec2bd9072cb8.jpg",
+    "table_caption": [
+      "Summary ofLinear Regression Analysis for Variables Predicting LearningLossScore $( n = 2 3 4 )$ "
+    ],
+    "table_footnote": [
+      "Table 3. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>B</td><td>SEB</td><td>β</td></tr><tr><td>Gender(Female）</td><td>-.160</td><td>.120</td><td>-.087</td></tr><tr><td>Race(White）</td><td>.140</td><td>.210</td><td>.052</td></tr><tr><td>Race(Other)</td><td>.822</td><td>.332</td><td>.193*</td></tr><tr><td>Instructor（A)</td><td>-073</td><td>.196</td><td>-.030</td></tr><tr><td>Instructor(C)</td><td>-.047</td><td>.183</td><td>-.020</td></tr><tr><td>Instructor(D)</td><td>.600</td><td>.180</td><td>267**</td></tr><tr><td>Instructor（E）</td><td>.112</td><td>.187</td><td>.047</td></tr><tr><td>Classroom(Versatile)</td><td>.063</td><td>.146</td><td>.032</td></tr><tr><td>Classroom(Fluid）</td><td>.363</td><td>.144</td><td>185*</td></tr><tr><td colspan=\"4\">Note.adjustedR²=.099 p&lt;.05,**p&lt;.01,***p&lt;.001</td></tr></table>",
+    "bbox": [
+      93,
+      136,
+      892,
+      508
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "instructor, $F \\ ( 4 , 2 1 2 ) = 3 . 2 9 _ { \\cdot }$ , $p = . 0 1 2$ . The main effect for classroom, $F \\left( 2 , 2 1 2 \\right) = 0 . 1 3$ , $p = . 8 8 1$ , was not significant. The interaction effect is shown in Figure 6. Student perceptions of affective learning were relatively consistent across instructors in the traditional classroom, but became more diversified in the other two rooms. ",
+    "bbox": [
+      86,
+      551,
+      478,
+      642
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Gender demonstrated a main effect on affective learning, $F \\left( 1 , 1 9 6 \\right) = 9 . 1 7 ,$ , $p = . 0 0 3 ,$ with post-hoc comparisons of the means indicating that female students perceived higher affective learning than male students. However, the interactions between gender and the other variables were not statistically significant: gender by instructor, $F \\left( 4 , 1 9 6 \\right) =$ $1 . 6 6 4 , p = . 1 6 0$ , gender by classroom, $F \\left( 2 , 1 9 6 \\right) = 1 . 3 6$ , $p = . 2 5 8 ,$ , gender by room by instructor, $F \\left( 8 , 1 9 6 \\right) = 1 . 2 3 , p = . 2 8 1$ . These results indicate that affective learning may indeed be influenced by both instructor differences and the combination of instructor and classroom space. ",
+    "bbox": [
+      86,
+      643,
+      478,
+      810
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "$R Q \\ 3$ . Research Question 3 dealt with the impact of the classroom on measures of cognitive learning. For the cognitive learning measure (learning loss score), the results of the factorial ANOVA yielded a significant interaction effect for classroom by instructor, $F \\left( 8 , 2 0 8 \\right) = 2 . 6 2 $ , $p = . 0 0 9 ,$ , and a significant main effect for instructor, $F \\left( 4 , 2 0 8 \\right) = 5 . 8 3 ,$ , $p < . 0 0 1$ . The main effect for classroom, $F \\left( 2 , 2 0 8 \\right) = 1 . 3 0 , p =$ .276, was not significant. The interaction effect is shown in Figure 7. Student perceptions of cognitive learning loss were relatively consistent in the traditional and versatile rooms compared to the fluid classroom. ",
+    "bbox": [
+      86,
+      813,
+      478,
+      904
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      553,
+      911,
+      627
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "For cognitive learning loss, the interaction of gender by classroom, $F \\left( 2 , 1 9 1 \\right) = . 4 6 ,$ , $p = . 6 3 2 ,$ was not significant. The main effect of gender, $F \\left( 1 , 1 9 1 \\right) = 3 . 5 3$ , $p = . 0 6 2 ,$ , was not significant; the same held true for the interaction effect of gender by room by instructor interaction, $F \\left( 8 , 1 9 1 \\right) = 1 . 7 7 , p$ $= . 0 8 5$ . These two results could be considered significant at a broader measure of significance, and thus may merit further discussion. However, the interaction effect for gender by instructor, $F \\ ( 4 , \\ 1 9 1 ) = 3 . 0 3 ,$ , $p = . 0 1 9 ,$ , was significant. This interaction is plotted in Figure 8. These results may demonstrate that student gender, instructor, and classroom may be related to cognitive learning. ",
+    "bbox": [
+      519,
+      630,
+      911,
+      811
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To better understand the findings related to cognitive learning loss, cognitive learning was also measured as a function of reported/anticipated final grades. For the selfreported final grade, the results of the factorial ANOVA yielded significant main effects for instructor, $F \\left( 4 , 1 9 0 \\right) = 3 . 7 0$ , $p = . 0 0 6 ,$ , gender, $F \\left( 1 , 1 9 0 \\right) = 4 . 7 1 $ , $p = . 0 3 1 ,$ , and classroom, $F \\left( 2 , 1 9 0 \\right) = 3 . 5 1 $ , $p = . 0 3 2$ . Like the cognitive learning loss measure, measures of anticipated grades indicate that gender, instructor, and classroom may each relate to cognitive learning. Interaction effects were not significant for classroom by instructor, $F$ $( 8 , 1 9 0 ) = . 7 8 5 ,$ , $p = . 6 1 6 ,$ gender by instructor, $F \\left( 4 , 1 9 0 \\right) = . 7 9 5 _ { \\ / }$ , $p = . 5 3 0 .$ , gender by room, $F$ $( 2 , 1 9 0 ) = . 4 8 3 , p = . 6 1 7$ , and gender by room by instructor, $F \\left( 8 , 1 9 0 \\right) = . 8 2 6 , p = . 5 8 1$ . ",
+    "bbox": [
+      519,
+      814,
+      911,
+      873
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      901,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      103,
+      372,
+      300
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Post-hoc Bonferroni tests demonstrated that the mean final grade expected in the fluid classroom was significantly higher than the final grade expected in the versatile classroom and higher than the final grade expected in the traditional classroom, but not significantly so. In addition, post-hoc comparisons of the means indicated that female students’ perceived overall grades were higher than those of male students. These results may further confirm the findings that student gender, instructor, and classroom all impact student cognitive learning. ",
+    "bbox": [
+      86,
+      303,
+      372,
+      515
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sample and data collection ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      530,
+      281,
+      546
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The questionnaire surveyed undergraduate students in a university library on the East coast of the US. It was administered online from September to December in 2011. In order to include appropriate descriptions in the questionnaire, the authors conducted two preliminary site observations and visual surveys in the library to increase their understanding of user activities and the library’s spatial features. A pilot test of the survey questionnaire was conducted to examine the accuracy of terminologies and appropriate laymen’s terms. Based on the results of the pilot test, the questionnaire was adjusted and finalized. With help from University IT personnel, an email invitation with a survey link was sent to the undergraduate student body. A link to the external survey website was embedded in the main library’s website. To encourage user participation, a pop-up page that introduced the survey and the link was created on the desktop computers in the main library with help from the library IT department. ",
+    "bbox": [
+      86,
+      556,
+      372,
+      676
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      678,
+      478,
+      876
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The survey was provided to students who had used one of the following three spaces in the main library: electronic information center spaces where desktop computers were provided in individual carrels; group study rooms with wireless access; or café areas with wireless access in open spaces. A question in the beginning of the survey screened participants for eligibility by asking whether they had used these spaces in the main library. If they chose none of these spaces, they were disqualified. This disqualification was intended to retain consistency of the demographics and experiences of the participants who had used the same spaces in the main library, since there were other campus and department-owned libraries. Another question regarding their group use experience checked for eligibility of participants. This study presents only the data and the analysis of group use of these spaces in the main library. ",
+    "bbox": [
+      84,
+      877,
+      477,
+      906
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/ea85ca8e161285345b9598be3b274515e540e792b0e6cb659f36b871b55cb0a8.jpg",
+    "image_caption": [
+      "Figure 5. Estimated means on behavioral learning scale for classroom and instructor. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      401,
+      104,
+      874,
+      665
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      718,
+      911,
+      883
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      103,
+      352,
+      178
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "A total of 385 undergraduate students completed the survey. Among the participants, $6 1 . 2 \\%$ were female and $3 8 . 8 \\%$ were male. A nearly even distribution of participation was observed across class levels in the undergraduate program, with $2 2 . 1 \\%$ from freshmen, $3 2 . 2 \\%$ from sophomores, $2 5 . 4 \\%$ from juniors, and $2 0 . 3 \\%$ from seniors. ",
+    "bbox": [
+      84,
+      180,
+      352,
+      330
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      171,
+      342,
+      266,
+      358
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "This study explored the extent to which instructional proxemics – the physical space of the classroom – influence student learning. Overall, the results suggest that the physical environment impacts student learning and that this impact is moderated by the instructor. ",
+    "bbox": [
+      86,
+      368,
+      352,
+      488
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Interestingly, all three of these measures indicated a significant and similar interaction between the instructor and the classroom. Figure 5, which depicts learning loss, appears to be opposite the other two measures, yet it actually demonstrates similar findings because, as the mean score for learning loss approaches zero, cognitive learning increases. These interaction effects are meaningful given that the effect of the instructor and the effect of the classroom occur simultaneously as the instructor functions within the assigned space. All three learning measures indicate that students perceived relatively consistent levels of learning in the traditional classroom: scores from students in the versatile classroom were slightly less consistent; scores in the fluid classroom were moderately inconsistent (see Figures 6, 7, 8). The inconsistency of the scores in the fluid classroom may be attributed to several explanations: (1) All instructors consistently perform in the traditional classroom because all have had a great deal of experience teaching in this type of classroom (not to mention modeling of teaching in this type of classroom over the decades in which they were students); (2) All instructors are consistent in the traditional classroom because the room dictates a specific teaching style, most notably the “sage on a stage” or other models of teacher-",
+    "bbox": [
+      86,
+      491,
+      478,
+      905
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/11c7103c3c7e069d28c90dd083d8bc9cc33aad9b5c15404b22c0e33a186e8aae.jpg",
+    "image_caption": [
+      "Figure 6. Estimated means on affective learning scale for classroom and instructor. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      382,
+      102,
+      854,
+      651
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "focused learning; (3) All instructors are consistent in the traditional classroom because they uniformly reported being “comfortable in” and “used to” this design of teaching space. In their journals, four of the five instructors listed the traditional classroom as their preferred classroom (and the one instructor who least favored the traditional classroom indicated that the traditional classroom was the most familiar room). This preference for the traditional classroom equated to consistent scores across instructors but not top scores when compared to some sections in each of the other rooms. ",
+    "bbox": [
+      519,
+      703,
+      911,
+      869
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      326,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "All three measures also indicated that the combination of Instructor C and the fluid classroom had the highest reported scores among the 15 sections on all three measures even though this instructor demonstrated scores comparable to all other instructors in the traditional classroom. In addition, all three measures indicated that the combination of Instructor D and the fluid classroom had the lowest reported scores among the 15 sections on all three measures. This instructor also had comparable scores to all other instructors in the traditional classroom. This is a meaningful variability, because it identifies a particular issue with the fluid classroom space identified by Instructor C in the journal: “there were stronger presentations in this (fluid) class than any one of my other classes. With that said, the weaker speeches in this class were by far my weakest overall.” A similar result happened in terms of student perceptions of learning. The highest perceptions of learning occurred in this classroom than in any other room (for Instructor C) and the lowest perceptions of learning occurred in this space as well (for Instructor D). ",
+    "bbox": [
+      84,
+      102,
+      362,
+      545
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The inconsistency of scores in the fluid classroom across these three learning measures could be attributed to several factors, among them: (1) the variable level of distraction (depending on time of day) present in the room caused a wide range of scores; (2) instructor unfamiliarity in the room caused a wide range of scores as instructors were forced to invest in new classroom strategies, which inherently offer wider variability of teaching methods; (3) instructors’ wildly different comfort levels in the fluid classroom created a wide variety of scores. The most obvious solution to explain this inconsistency would be distractions inherent in a fluid classroom, that is, a higher the volume of distractions present leads to lower scores – a finding that supports the Cuban (2007) assertion that this could be a major attribution for the failure of the open classroom in the 1970s. Indeed as Cuban (2007) might have predicted, the lowest mean scores for student behavioral, affective, and cognitive learning were all reported in this room. However, the highest mean scores for all three measures were also reported here. ",
+    "bbox": [
+      84,
+      547,
+      478,
+      883
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/2a9b71662ef08649003c95c190c6c06383144b753f264ee955f6627f749c20a7.jpg",
+    "image_caption": [
+      "Figure 7. Estimated means on cognitive learning scale for classroom and instructor. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      393,
+      103,
+      874,
+      641
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Strangely, the highest and lowest scores came from Instructors C and $\\scriptstyle \\mathrm { \\mathrm { D } } ,$ , the two instructors who each reported an abnormally high volume of distractions compared to the other three instructors. One must then decipher the degree in which these two cases differed, as distractions clearly did not result in consistently low results. These two instructors shared one major complaint in their journals: in the fluid classroom, their class sessions were often interrupted by people passing through the space. Other instructors did not comment as readily about this specific distraction. Instructor C indicated using these distractions as a teaching tool for learning how to cope with audience distractions while speaking, whereas Instructor D indicated making jokes and criticisms about the room and its distractions. Perhaps as a result, students in instructor C’s class reported higher behavioral, affective and cognitive learning than any other class section in any room whereas Instructor D’s class reported lower behavioral, affective, and cognitive learning than any other class section in any room. Thereby, one could surmise that the level of distractions in the room does not dictate the learning occurring within it. Rather, the interaction between instructor and the classroom – how the instructor deals with distractions or other challenges of the learning space, perhaps – offers a better explanation of this inconsistency. ",
+    "bbox": [
+      519,
+      689,
+      911,
+      900
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_1871769/auto/images/7b9369e549105270bbedb6829d137229c4cecf3506a0cfebf9f6e4b0f8802eb8.jpg",
+    "image_caption": [
+      "Figure 8. Estimated means on cognitive learning loss score for gender and instructor. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      200,
+      122,
+      736,
+      549
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      612,
+      477,
+      779
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Space is a necessary subject of study in relation to success in the classroom. If all instructors taught all their classes in the traditional classroom, they might expect their students to report similar and consistent perceptions of learning. However, these consistent scores may be lower in comparison to the types of scores that might be expected (especially but not exclusively for perceptions of behavioral learning) in more fluid classrooms with instructors who ",
+    "bbox": [
+      86,
+      781,
+      478,
+      901
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "know how to operate successfully within those spaces. This area of study has enormous potential for future research which assesses the broad reconstruction and re-imagination of spaces of learning that Oblinger (2006) has identified on campuses worldwide. ",
+    "bbox": [
+      519,
+      614,
+      911,
+      689
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The instructor-classroom interaction was reported across all three learning perception measures, adding weight to the importance of this interaction. In addition, gender proved to be a significant variable in almost all cases. In social scientific research, gender is often an independent variable that proves to be significant to the research and, in this case, female students perceived higher behavioral and affective learning and lower cognitive learning loss than male students. ",
+    "bbox": [
+      519,
+      691,
+      911,
+      828
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Cognitive learning was also measured through a selfreport of grades. Students in the fluid classroom anticipated higher grades than did students in versatile or traditional classrooms. This finding is compelling because it demonstrates that students’ perceptions of their grades were different than their perceptions of learning loss. This incompatibility may suggest what much literature currently claims: cognitive learning is difficult to measure. However, it may also indicate that student feel that instructors would/should give more leeway in unfamiliar classrooms. Cognitive learning loss and grades have often been studied as measures which could each address the amount of cognitive learning experienced by students, although researchers argue that neither measure of cognitive learning is foolproof (Richmond, McCroskey, Kearney, & Plax, 1987; Richmond, Gorham, & McCroskey, 1987). The data in this specific study suggest that, for these students, even though mean cognitive learning loss increased to its high point in the fluid classroom, anticipated grades were higher, not lower, in the fluid classroom than in other classrooms. This inconsistency could be explained by the space’s relationship to student confidence or teacher discomfort, both leading to grade inflation. It could also be explained by the need for continued revision to the current operational definition of cognitive learning in instructional communication research. These factors were not studied herein, but appear nonetheless valid areas of study for the future. ",
+    "bbox": [
+      519,
+      830,
+      911,
+      905
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      103,
+      478,
+      438
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In sum, classroom space impacts student learning in substantial and meaningful ways and is heavily moderated and mitigated by the instructor. Traditional classroom spaces produced consistent learning results in this study. As classrooms become more flexible, their ability to influence student learning can be moderated by the instructor. Instructors who are able to function within the fluid space can achieve higher learning results than they could in traditional classrooms. However, instructors who feel hindered by the fluid space may experience lower learning outcomes there than in the traditional classroom. ",
+    "bbox": [
+      86,
+      440,
+      478,
+      606
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The results of this study offer several contributions for the scholarship of teaching and learning, however, they must only be interpreted within the limitations of the study. One obvious limitation of this study is the complexity of the learning environment. A field-experiment of this magnitude -- lasting several months and including a wide variety of variables that cannot be easily controlled in comparison to either a laboratory-based or a hypothetical scenario -- inherently trades researcher control for the naturalistic environment. ",
+    "bbox": [
+      86,
+      608,
+      478,
+      760
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The chosen methodology for this study also provided limitations. This study employed a single survey for students and semester-long journals for instructors. Thus, the researcher was able to obtain a breadth of information from a large number of student-participants and in-depth information from a small number of instructor-participants. Other methodologies (e.g. focus groups, on-site observations, large-scale surveys, and individual case studies) would offer different insights into the student and instructor experience. In addition, studies into proxemics have involved time-lapse and longitudinal observations indicating the frequency of use of a particular type of space for particular purposes. This type of research may also aid researchers of instructional proxemics in establishing a baseline for the typical use of instructional space in the classroom. ",
+    "bbox": [
+      86,
+      762,
+      477,
+      898
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      103,
+      911,
+      208
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Nevertheless, the findings in this study are noteworthy and offer a foundation for further investigation into the effects of instructional proxemics and the learning environment on teaching and learning. Future research should aim to examine the relationships between instructional proxemics and the other facets of the General Model of Instructional Communication (McCroskey, Valencic, & Richmond, 2004) as well as expand the current conversation surrounding the role of instructional proxemics in the scholarship of teaching and learning. ",
+    "bbox": [
+      521,
+      210,
+      911,
+      362
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      668,
+      401,
+      763,
+      419
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "American School & University (1998, January). The top ten design ideas for school of the 21st century. American School & University Magazine, 70 (5), 18-28. ",
+    "bbox": [
+      504,
+      435,
+      901,
+      481
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "American School & University (2001, August). Classrooms. American School & University Magazine, 73, 94-102. ",
+    "bbox": [
+      504,
+      497,
+      888,
+      526
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Andersen, J. F. (1979). Teacher immediacy as a predictor of teaching effectiveness. In D. Nimmo (Ed.), Communication Yearbook 3 (pp. 543-559). New Brunswick, NJ: Transaction Books. ",
+    "bbox": [
+      504,
+      544,
+      895,
+      602
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Banfield, S. R., Richmond, V. P., & McCroskey, J. C. (2006). The effect of teacher misbehaviors on teacher credibility and affect for teacher. Communication Education, 55, 63-72. ",
+    "bbox": [
+      503,
+      619,
+      892,
+      664
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Barnard, H. (1851). Practical Illustrations of the Principles of School Architecture. Hartford, CT: Press of Case, Tiffany, and company. ",
+    "bbox": [
+      503,
+      681,
+      911,
+      726
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Bartlett, T. (2003). Take my chair (please). Experts say students learn more if they are comfortable, but few colleges listen. The Chronicle of Higher Education, 49(26), A36-38. ",
+    "bbox": [
+      503,
+      742,
+      877,
+      801
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Benoit, P. J., Benoit, W. L., Milyo, J., & Hansen, G. J. (2006). The effects of traditional vs. web-assisted instruction on student learning and satisfaction. Columbia, MO: University of Missouri Press. ",
+    "bbox": [
+      504,
+      818,
+      898,
+      878
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      305,
+      940
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      943,
+      911,
+      952
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Beebe, S. A., Beebe, S. J., & Ivy, D. K. (2004). Communication: Principles for a lifetime. Boston: Allyn-Bacon. ",
+    "bbox": [
+      70,
+      102,
+      460,
+      132
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Bloom, B. S. (1956). Taxonomy of Educational objectives: Handbook I: Cognitive domain. New York: McKay. ",
+    "bbox": [
+      70,
+      147,
+      418,
+      178
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Boice, B. (1996). Classroom incivilities. Research in Higher Education, 37, 453-486. ",
+    "bbox": [
+      70,
+      194,
+      441,
+      223
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Bruffee, K. A. (1998). Collaborative Learning: Higher education, interdependence, and the authority of knowledge (2nd ed.). Baltimore: MD: The Johns Hopkins University Press. ",
+    "bbox": [
+      68,
+      239,
+      462,
+      285
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Cuban, L. (2007). Whatever happened to the open classroom: Were schools without walls just another fad? Education Next, 4(2). Retrieved February 2, 2007, from http://www.hoover.org/publications/ednext/3288371.html. ",
+    "bbox": [
+      68,
+      301,
+      468,
+      362
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Felix, E., & Brown, M. (2011). The case for a learning space performance rating system. Journal of Learning Spaces, 1(1), 6pp. ",
+    "bbox": [
+      68,
+      377,
+      465,
+      424
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Freire, P. (1970). Pedagogy of the Oppressed. New York: Continuum. ",
+    "bbox": [
+      70,
+      439,
+      419,
+      468
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Hall, E. T. (1966). The hidden dimension. Garden City, New York, NY: Anchor Books. ",
+    "bbox": [
+      70,
+      484,
+      446,
+      513
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Harvey, E. J., & Kenyon, M. C. (2013). Classroom seating considerations for 21st century students and faculty. Journal of Learning Spaces, 2(1), 13pp. ",
+    "bbox": [
+      68,
+      530,
+      475,
+      575
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Information Society Commission (2002). Building the Knowledge Society - Report to Government, December 2002 retrieved from http://www.isc.ie/downloads/know.pdf. ",
+    "bbox": [
+      70,
+      590,
+      454,
+      637
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Jamieson, P. (2003). Designing more effective on-campus teaching and learning spaces: A role for academic developers. International Journal for Academic Development, 8(1/2), 119-133. ",
+    "bbox": [
+      66,
+      652,
+      460,
+      713
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Johanssen, D. H. (Ed.). (2004). Handbook of Research on Educational Communications and Technology, 2nd ed., Mahwah, NJ: Lawrence Erlbaum Associates. ",
+    "bbox": [
+      68,
+      729,
+      419,
+      773
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Junco, R., & Mastrodicasa, J. (2007). Connecting to the net.generation. Washington, D.C.: National Association of Student Personnel Administrators. ",
+    "bbox": [
+      68,
+      790,
+      459,
+      835
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Kachka, P. (2012). Understanding the Flipped Classroom. Faculty Focus. http://www.facultyfocus.com/articles/teaching-withtechnology-articles/understanding-the-flipped-classroompart-2/ ",
+    "bbox": [
+      68,
+      851,
+      442,
+      897
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      102,
+      898,
+      132
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Kerlinger, F. N., & Lee, H. B. (2000). Foundations of Behavioral Research (4th ed.). Belmont, CA: Thomson Learning Inc. ",
+    "bbox": [
+      503,
+      148,
+      898,
+      178
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Li, Q. (2007). Student and Teacher Views about Technology: A tale of two cities? Journal of Research on Technology in Education, 39(4), 377-397. ",
+    "bbox": [
+      503,
+      194,
+      911,
+      238
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "McCroskey, J. C., Valencic, K. M., & Richmond, V. P. (2004). Toward a general model of instructional communication. Communication Quarterly, 53, 197-210. ",
+    "bbox": [
+      503,
+      255,
+      897,
+      300
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Monahan, T. (2002). Flexible space & built pedagogy: Emerging I. T. embodiments. Inventio, 4(1), 1-19. ",
+    "bbox": [
+      503,
+      316,
+      852,
+      347
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Mottet, T. P., Frymier, A. B., & Beebe, S. A. (2006). Theorizing about instructional communication. In T. P. Mottet, V. P. Richmond, & J. C. McCroskey (Eds.), Handbook of Instructional Communication: Rhetorical and Relational Perspectives (pp. 255-282). New York: Allyn & Bacon. ",
+    "bbox": [
+      503,
+      362,
+      905,
+      439
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Mottet, T. P., Richmond, V. P., & McCroskey, J. C. (2006). Handbook of Instructional Communication: Rhetorical and Relational Perspectives. New York: Allyn & Bacon. ",
+    "bbox": [
+      503,
+      454,
+      875,
+      500
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Oblinger, D. G. (2006). Learning Spaces. Educause. Retrieved May 2007, from www.educause.edu/learningspaces. ",
+    "bbox": [
+      503,
+      515,
+      895,
+      545
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Piaget, J. (1932). The Moral Judgment of the Child. NY: Harcourt, Brace Jovanovich. ",
+    "bbox": [
+      501,
+      560,
+      910,
+      590
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Piaget, J. (1970). The Science of Education and the Psychology of the Child. NY: Grossman. ",
+    "bbox": [
+      503,
+      606,
+      898,
+      637
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Prensky, M. (2001). Digital Natives, Digital Immigrants. On the Horizon, 9(5), 1-6. ",
+    "bbox": [
+      501,
+      652,
+      893,
+      683
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Read, B. (2006). 'Digital natives' may be fleeing lecture halls. Chronicle of Higher Education. Retrieved on March 23, 2007, from http://chronicle.com/wiredcampus/article/1526/digitalnatives-may-be-fleeing-lecture-halls. ",
+    "bbox": [
+      503,
+      698,
+      900,
+      773
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Richmond, V. P. (1990). Communication in the classroom: Power and motivation. Communication Education, 39(3), 181- 195. ",
+    "bbox": [
+      503,
+      790,
+      910,
+      834
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Richmond, V. P., Gorham, J, & McCroskey, J. C. (1987). The relationship between selected immediacy behaviors and cognitive learning. In M. A. McLaughlin (Ed.), ",
+    "bbox": [
+      503,
+      852,
+      892,
+      897
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Communication Yearbook X (pp.574-590). Newbury Park, CA: Sage. ",
+    "bbox": [
+      84,
+      102,
+      477,
+      132
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Richmond, V. P., McCroskey, J. C., Kearney, P., & Plax, T. G. (1987).Power in the classroom VI: Linking behavior alteration techniques to cognitive learning. Communication Education, 36, 1-12. ",
+    "bbox": [
+      68,
+      148,
+      465,
+      208
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Sanders, J. A., & Wiseman, R. L. (1990). The effects of verbal and nonverbal teacher immediacy on perceived cognitive, affective, and behavioral learning in the multicultural classroom. Communication Education, 39(3). 341-353. ",
+    "bbox": [
+      68,
+      224,
+      464,
+      285
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Simonds, C. J. (1997). Challenge behavior in the college classroom. Communication Research Reports, 14(4), 481-492. Smaldino, S. E., Lowther, D. L., & Russell, J. D. (2008). Instructional Technology and Media for Learning (9th ed.). Upper Saddle River, NJ: Pearson Education, Inc. ",
+    "bbox": [
+      70,
+      301,
+      464,
+      377
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Smith, R. A., Levine, T. R., Lachlan, K. A., & Fediuk, T. A. (2002). The high cost of complexity in experimental design and data analysis: Type I and type II error rates in multiway ANOVA. Human Communication Research, 28, 515–530. ",
+    "bbox": [
+      70,
+      393,
+      468,
+      467
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Sommer, R. (1969). Personal space: The behavioral basis of design. Englewood Cliffs, NJ: Prentice-Hall, Inc. Strange, C. C., & Banning, J. H. (2001). Educating by Design: Creating campus learning environments that work. San Francisco, Calif.: Jossey-Bass. ",
+    "bbox": [
+      70,
+      484,
+      470,
+      560
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Teven, J. J., & McCroskey, J. C. (1997). The relationship of perceived teacher caring with student learning and teacher evaluation. Communication Education, 46(1), 1-9. ",
+    "bbox": [
+      503,
+      102,
+      905,
+      147
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Venezky, R. L. (2004). Technology in the classroom: Steps toward a new vision. Education, Communication, and Information 4(1), 4-21. ",
+    "bbox": [
+      503,
+      164,
+      879,
+      208
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Vygotsky, L.S. (1978). Mind in Society. Cambridge, MA: Harvard University Press. ",
+    "bbox": [
+      503,
+      224,
+      864,
+      253
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Wallis, C., & Steptoe, S. (2006, December 10). How to bring our schools out of the 20th century. Time Magazine. ",
+    "bbox": [
+      503,
+      270,
+      890,
+      300
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Witt, P. L., & Wheeless, L. R. (2001). An experimental study of teachers' verbal and nonverbal immediacy and students' affective and cognitive learning. Communication Education, 50(4), 327-342. ",
+    "bbox": [
+      503,
+      316,
+      910,
+      376
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Witt, P. L., Wheeless, L. R., & Allen, M. (2004). A metaanalytical review of the relationship between teacher immediacy and student learning. Communication Monographs, 71(2), 184-207. ",
+    "bbox": [
+      503,
+      392,
+      866,
+      453
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Witt, P. L., & Schrodt, P. (2006). The influence of instructional technology use and teacher immediacy on student affect for teacher and course. Communication Reports, 19(1), 1-15. ",
+    "bbox": [
+      503,
+      469,
+      911,
+      515
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Wood, A. F., & Fassett, D. T. (2003). Remote control: Identity, power, and technology in the communication classroom. Communication Education, 52(3/4), 286-296. ",
+    "bbox": [
+      503,
+      530,
+      903,
+      575
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "MATCHING INSTRUCTORS AND SPACES OF LEARNING ",
+    "bbox": [
+      325,
+      68,
+      676,
+      80
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Journal of Learning Spaces, 4(1), 2015. ",
+    "bbox": [
+      86,
+      928,
+      307,
+      940
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      941,
+      911,
+      952
+    ],
+    "page_idx": 15
+  }
+]

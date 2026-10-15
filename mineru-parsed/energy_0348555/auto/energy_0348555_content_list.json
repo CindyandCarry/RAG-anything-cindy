@@ -1,0 +1,1283 @@
+[
+  {
+    "type": "text",
+    "text": "Towards high-efficiency industrial p-type mono-like Si PERC solar cells ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      206,
+      783,
+      228
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Y. Lva, Y.F. Zhuanga, W.J. Wanga, W.W. Weib,J. Shengb, S. ZhangC, W.Z. Shen a, ",
+    "bbox": [
+      62,
+      238,
+      724,
+      258
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "titef   \nJiao Tong University,Shanghai,20o240,People'sRepublic of China   \nbGCLSysteodesub   \nShanghaioeevelopentCodg1ole'sepublicf ",
+    "bbox": [
+      62,
+      266,
+      816,
+      308
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ARTICLEINFO ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      339,
+      193,
+      351
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      337,
+      339,
+      433,
+      350
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords:   \nSolar cell   \nPERC   \nMono-like Si   \nPassivation   \nSelective emitter ",
+    "bbox": [
+      62,
+      365,
+      142,
+      427
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Thecast-grown monocrystaline-like silicon (mono-like Si) technology has been reactivated recently for the manufacture of high-efficiency solar cells at low cost. In this paper,we have provided a progressive research, both experimentallyand theoretically,to improve the efficiencyof mono-like Si pasivated emitter and rearcells (PERCs) through production lines.By employing rear surface passivation of $\\mathrm { A l O _ { x } / t r i p l e { - } S i N _ { x } { : } H }$ layers,the average efficiency has increased to $2 1 . 8 7 \\%$ with a champion efficiency of $2 2 . 3 2 \\%$ from the standard mono-like Si PERCs of $2 1 . 7 2 \\%$ efficiency with $\\mathsf { A l O } _ { \\mathbf { x } }$ capped with double $S \\mathrm { i N _ { x } ; H }$ layers.We have further optimized the rear electrode contact patterns and introduced the selective emiter (SE) technology,yieldingan absolute efficiency improvement of $0 . 1 9 \\%$ and $0 . 2 6 \\%$ ,respectively.Integrating all approaches of the triple- $S \\mathrm { i N _ { x } \\mathrm { : H } }$ ，rear contact patern optimization and SE technology,we have demonstrated that the mono-like Si PERCs can reach the average efficiency of $2 2 . 2 \\%$ with a maximum efficiency of $2 2 . 5 \\%$ ，similar to the current Czochralski monocrystalline Si counterparts. ",
+    "bbox": [
+      337,
+      364,
+      937,
+      496
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1． Introduction ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      534,
+      163,
+      546
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For the recent five years, there is a growing tendency of crystalline silicon solar cells that the conventional aluminum back surface field (Al-BSF)design is in a transition to passivated emitter and rear cells (PERCs).It is expected that the production capacity of PERCs will be over10oGWp in China by the end of 2019,and nowadays PERCs have become the mainstream of the highly competitive photovoltaic (PV) market.The concept of PERCs was first proposed by Blakers et al.[1],in 1989.In the past 3O years,a significant subsequent motivation for the shift from conception to mass production is associated with the rapid development of manufacturing technologies [2,3],e.g.,rear dielectric coating [4,5],wet chemical polishing etch [6] and laser-based selective emitter (SE)[7] and contact ablation [8].An aluminium oxide/silicon nitride $( \\mathrm { A l _ { 2 } O _ { 3 } / S i N _ { x } { : } H } )$ structure was proposed for the rear passivation in 2009[9,1O],which has long been adopted in the industry until now.In our previous work,a feasible silicon oxide $\\mathrm { ( S i O _ { 2 } ) }$ passivation technique for industry-related PERCs was also investigated [1l] as a way of improving the long-wavelength response and reducing rear surface recombination.In 2011,a $1 9 . 5 \\%$ cell efficiency of multicrystalline silicon (mc-Si) PERCs was achieved by Q-Cells [12].Next year,Suntech ",
+    "bbox": [
+      62,
+      561,
+      485,
+      809
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Power successfully manufactured advanced PERCs with a laser-based SE [13],instead of other complicated approaches such as ion implantation [14] and printable dopant [15].While LONGi Solar has declared the realization of world-record PERC efficiency of $2 4 . 0 6 \\%$ in 2019 [16], the average efficiency for Czochralski monocrystalline silicon ( $\\mathrm { \\Delta C z }$ mono-Si) PERCs in current mass production is in the range of $2 2 . 2 \\pm 0 . 2 \\%$ ",
+    "bbox": [
+      514,
+      534,
+      937,
+      612
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "It should be noted that the PV industry as a whole is dominated by $\\mathbf { { C } } \\mathbf { { Z } }$ mono-Si PERCs due to in principle the reduced cell efficiency of mc-Si PERCs as well as their limited space to improve the efficiency [17]. Nevertheless,another challenge is indispensable,originating from the fact that the cost of Cz mono-Si wafers is still $3 0 { - } 4 0 \\%$ higher than that of mc-Si ones at the present stage [18],causing a significant influence on the price of high-efficiency PERCs.This is unfavorable for the levelized cost of electricity (LCOE) and resolutely enhancing PERC efficiency without increasing the cost should be a decisive strategy.In this situation,the ever popular cast-grown monocrystalline-like silicon (mono-- like Si) technology in 2O1O has been reactivated [19],which was first proposed by Ciszek et al.[2O],in 1979.The rapid development of mono-like Si wafers provides the possibility to fabricate high-efficiency PERCsata relatively low cost.Since 2Ol7,a great variety of works has been carried out to investigate the growth and material features of mono-like Si,e.g.,impact of impurities [21],defect-related recombination [22] and dislocations [23].Liu et al.[24],proposed a phosphorous diffusion process to improve the electronic quality of highly defective mono-like Si.Lan et al.[25],introduced a simple approach to control the ingot quality and cell appearance of mono-like Si.Particularly,GCL Poly has played a significant role in the research and development of mono-like Si material,which is strongly supported by several solar cell manufacturing companies.In 2Ol9,Canadian Solar has reported the world-record efficiency of $2 2 . 2 8 \\%$ for the mono-like Si PERCs [26].As a promising alternative to the conventional Cz mono-Si PERCs, the production capacity of mono-like Si PERCs is expected to reach 6GWp in 2019 with an average efficiency of $2 1 . 8 \\pm 0 . 2 \\%$ in mass production currently [27]. ",
+    "bbox": [
+      514,
+      614,
+      937,
+      809
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contents lists available at ScienceDirect Solar Energy Matrials andSolar Cells Solar Energy Materials and Solar Cells ELSEVIER journal homepage: http://www.elsevier.com/locate/solmat ",
+    "bbox": [
+      58,
+      68,
+      941,
+      171
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://doi.org/10.1016/j.solmat.2019.110202 Received 24 June 2019; Received in revised form 8 August 2019;Accepted 23 September 2019 Available online 7 October 2019 0927-0248/ $' { \\textcircled{ \\mathbf { C } } }$ 2019 Elsevier B.V.All rights reserved. ",
+    "bbox": [
+      58,
+      877,
+      581,
+      924
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Check for updates ",
+    "bbox": [
+      840,
+      211,
+      890,
+      249
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\\* Corresponding author. E-mail address: wzshen@sjtu.edu.cn (W.Z. Shen). ",
+    "bbox": [
+      68,
+      846,
+      342,
+      868
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials & Solar Cells 204 (2020) 110202 ",
+    "bbox": [
+      346,
+      44,
+      650,
+      54
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/954091dd94bf348f34a266443584721cdb621e14c38e772126ee77fdfd73deb9.jpg",
+    "image_caption": [
+      "Fig.1.Schematic of the standard PERC structure (left)and the process flow for the PERC baseline, PERC $^ +$ Triple- $S \\mathrm { i N _ { x } \\mathrm { : H } }$ (passivated with triple layers of $\\mathrm { S i N _ { x } : H }$ at the rear side),PERC $+ \\ S \\mathrm { E }$ (combined with SE in the emitter) fabricated in our study together with details of rear $\\mathsf { A l O } _ { \\mathbf { x } }$ and $\\mathrm { S i N _ { x } : H }$ layers as well as the front $\\mathrm { S i N _ { x } : H }$ ARC layer (right). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      141,
+      69,
+      855,
+      354
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      417,
+      484,
+      587
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In contrast to the quick pushing in the PV industry,there is almost no relative report on the mono-like Si PERCs in academia,except three proceedings papers by Xu etal. [28],by Dullweber et al.[29],in 2013 and by Chang et al.,in 2O14 [3O],respectively.We notice that the record cellsachieved by either LONGi Solar or Canadian Solar were only certified by the third-party laboratory without any technical analysis. This paper is aimed at providing a progressive research,both experimentally and theoretically, to extend the overall efficiency of mono-like Si PERCs through the production lines.Based on the standard PERCs with $\\mathsf { A l O } _ { \\mathbf { x } }$ capped by double $\\mathrm { \\ s i N _ { x } : H }$ layers at the rear surface with the average efficiency of $2 1 . 7 2 \\%$ ，we have integrated the optimized rear $\\mathrm { A l O _ { x } / t r i p l e { \\mathrm { - } } S i N _ { x } { \\mathrm { : } } H }$ passivation and contact patterns with front laser-based SE technology.With our choice of these feasible technologies,the average efficiency of mono-like Si PERCs has reached $2 2 . 2 \\%$ ， with a champion efficiency of $2 2 . 5 \\%$ ,which is almost the same as the $\\mathbf { { C } } \\mathbf { { Z } }$ mono-Si counterparts. ",
+    "bbox": [
+      62,
+      588,
+      485,
+      798
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.Experimental and simulation ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      813,
+      268,
+      824
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We fabricated three types of PERC structures,i.e.,standard PERC (baseline with conventional double- $S \\mathrm { i N _ { x } ; H }$ passivation layers),PERC with triple- $S \\mathrm { i N _ { x } ; H }$ passivation layers (shortened as triple- $\\mathrm { { s i N } _ { x : H ) } }$ and PERC with integration of the SE technology (shortened as SE).The wafers used for this work were p-type mono-like Si wafers with a ${ < } 1 0 0 { > }$ grain orientation,a size of $1 5 7 . 7 5 \\times 1 5 7 . 7 5 \\mathrm { { m m } ^ { 2 } }$ ，a thickness of $1 8 0 \\pm 2 0 \\mu \\mathrm { m }$ and a resistivity of about $0 . 8 \\Omega \\mathrm { c m }$ .Fig.1 illustrates the ",
+    "bbox": [
+      62,
+      839,
+      485,
+      930
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "PERC structures and the corresponding fabrication processes,together with the details of rear $\\mathsf { A l O } _ { \\mathbf { x } }$ and $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layers as well as the front $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ antireflection coating (ARC) layer. ",
+    "bbox": [
+      514,
+      417,
+      937,
+      456
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.1．Standard baseline PERCs ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      472,
+      687,
+      485
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The wafers underwent the following production line treatments: 1) standard damage etching,wet-chemical alkaline texturing like $\\mathrm { c z }$ wafers to achieve the random pyramid texture with a lower reflectance compared to acidic texturing,which is considered to be more advisable for mc-Si wafers with random grain orientations [31],and RCA clean (InOxSide,RENA); 2) diffusion using $\\mathrm { P O C l } _ { 3 }$ as precursor gas to form $n ^ { + }$ emitter with the sheet resistance $( R _ { \\mathrm { s h } } )$ of approximately $7 0 \\Omega / \\boxed { }$ (M5111-4WL/UM,CETC 48th Research Institute); 3) edge isolation, rear side polishing and removal of phosphorous silicate glass (PSG） in $\\mathrm { H F / H N O _ { 3 } }$ solution (InOxSide,RENA); 4) thermal oxidation (AS-300E)at the temperature of $6 8 0 ^ { \\circ } \\mathrm { C }$ for 20min;5) the $_ { 6 \\mathrm { n m } }$ -thick $\\mathsf { A l O } _ { \\mathbf { x } }$ film by thermal atomic layer deposition (ALD) on the rear side (ALD,Ideal Energy);6) double $S \\mathrm { i N } _ { \\mathrm { x } : \\mathrm { H } }$ layers deposition with thickness of $8 0 \\mathrm { n m }$ on the $n ^ { + }$ emitter surface by plasma enhanced chemical vapor deposition (PECVD) system (M82200-6/UM,CETC 48th Research Institute)；7) capped with double $S \\mathrm { i N _ { x } : H }$ passivation layers through the same PECVD system with thickness of $1 2 0 \\mathrm { n m }$ on the rear side after ALD- $\\mathbf { \\nabla } \\cdot \\mathbf { A l O _ { x } }$ deposition; 8) laser ablation with a line pattern to form a local contact opening line width of $4 0 { \\pm } 2 \\mu \\mathrm { m }$ (DR-LA-Y40,DR Laser), screen printing (PV120o,DEK) and co-firing technique (CFSeries,Despatch) to ensure front and rear side metallization. ",
+    "bbox": [
+      514,
+      499,
+      937,
+      775
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.2.Triple $\\it { . S i N _ { x } . H }$ PERCs ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      793,
+      662,
+      805
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The fabrication of triple ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ PERCs was similar to that of the baseline ones,except for the step 7in Section 2.1.Note that the initial overlapping $1 2 0 \\mathrm { n m } \\mathrm { S i N _ { x } \\mathrm { : } H }$ films on the rear surface of baseline PERCs can be divided into the inner $\\mathrm { \\ s i N _ { x } : H }$ layer with a thickness of $3 0 \\mathrm { n m }$ and arefractive index of 2.37 (at $\\lambda = 6 3 2 \\mathrm { n m }$ ）while the outer $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layer with a thickness of $9 0 \\mathrm { n m }$ andarefractive indexof 2.o9.The different procedures during rear $\\mathrm { { s i N } _ { x : H } }$ deposition of triple- $\\mathrm { { s i N } _ { x : H } }$ PERCs are as follows:1) keep the inner $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layer fixed; 2) reduce the thickness of initial outer $\\mathrm { { s i N } _ { x : H } }$ layer from $9 0 \\mathrm { n m }$ to $4 0 \\mathrm { n m }$ ,asanew middle layer with a refractive index of 2.15;3)add another $\\mathrm { \\ s i N _ { x } : H }$ layer as a new outer layer with a thickness of $5 0 \\mathrm { n m }$ and a refractive index of 1.92. The thickness and refractive index of the overlapping $\\mathrm { { s i N } _ { x : H } }$ films were optimized by Wafer Ray Tracer software (PV Lighthouse) [32]. ",
+    "bbox": [
+      514,
+      819,
+      937,
+      936
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020)110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      54
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      44,
+      112,
+      52
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      960
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/f4dccd5e30c471775afac7c6cdc07a6f402d9a8785a303d1d15564c9c4cb5ce1.jpg",
+    "table_caption": [
+      "Table 1 The main parameter values for the Quokka 2 simulations. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Quokka2 Parameters</td><td>Rear electrode contact ratio</td><td>23.3%</td><td>34.4%</td><td>43.4%</td><td>53.8%</td><td></td><td>86.6%</td></tr><tr><td>Main</td><td>Cell thickness (μm) Front width (μm)</td><td>170 1500</td><td rowspan=\"6\"></td><td rowspan=\"6\"></td><td rowspan=\"6\"></td><td rowspan=\"6\"></td><td rowspan=\"6\"></td></tr><tr><td></td><td>Rear width (μm)</td><td>600</td></tr><tr><td></td><td>Cell depth (μm)</td><td></td></tr><tr><td>Front (Emitter)</td><td>Contact shape</td><td>1054 Line</td></tr><tr><td></td><td>Half width (um)</td><td>28.75</td></tr><tr><td>Emitter 1</td><td>Sheet resistance (Ω/)</td><td>70</td></tr><tr><td></td><td>Junction depth (μm)</td><td>0.32</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Contact</td><td>Joe (A/cm)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.2E-12</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>J02 (A/cm)</td><td>0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Contact resistivity (Ω·cm²)</td><td>1.33E-3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Non-contact</td><td>Joe (A/cm²)</td><td>4.7E-14</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bulk</td><td>J02(A/cm²)</td><td>0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Doping type</td><td>P-type</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Resistivity (Ω·cm)</td><td>0.83</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rear (Base)</td><td>Background lifetime (μs) Contact shape</td><td>150</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Rectangle</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Number of contacts Half width X (um)</td><td>1&amp;3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>34</td><td>337</td><td>457</td><td></td><td>566</td><td>938</td></tr><tr><td>BSF1</td><td>Half width Y (μm) Sheet resistance (Ω/)</td><td>246</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Junction depth (um)</td><td>15</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Contact</td><td>JOBSF (A/cm2)</td><td>0.8</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>J02 (A/cm²)</td><td>7.24E-13</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Contact resistivity (Ω·cm²)</td><td>0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Non-contact</td><td></td><td>2.20E-3 7.15E-15</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>J0-AlOx/SiNx (A/cm2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      53,
+      90,
+      941,
+      397
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      416,
+      484,
+      467
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.3．SE PERCs ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      485,
+      149,
+      498
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The manufacturing processes of SE PERCs were identical to those of the baseline ones,except for the emitter formation procedure,which involved an additional step: laser doping (DR-LA-Y40,DR Laser) performed onwafers after $\\mathrm { P O C l } _ { 3 }$ diffusion and followed by the removal of PSG.Laser doping was included to achieve so-called highly doped emitters $( n ^ { + + }$ emitters)and lightly doped emitters $( n ^ { + }$ emitters), leading to the formation of emitters selectively.Among them,PSG produced during $\\mathrm { P O C l } _ { 3 }$ diffusion served as a doping source.The $R _ { \\mathrm { s h } }$ of the $n ^ { + + }$ emitter was $6 0 { \\pm } 5 \\Omega / \\boxed { \\bigtriangledown }$ while the $R _ { \\mathrm { s h } }$ of the $n ^ { + }$ emitter was $1 2 0 \\pm 1 0 \\Omega /$ □ ",
+    "bbox": [
+      62,
+      511,
+      485,
+      643
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.4.Symmetrical samples for passivation characteristics ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      660,
+      379,
+      673
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Both saturation current density $\\left( J _ { 0 \\mathrm { e } } \\right)$ and effective minority carrier lifetime $( \\tau _ { \\mathrm { e f f } } )$ effectively investigate the passivation quality of solar cells in the form of symmetrical structures.For baseline PERCs,the $J _ { 0 e }$ experiment was divided into two parts: the passivation zone and the metal zone.Regarding the passivation zone, $\\mathrm { \\ s i N _ { x } : H }$ passivation layers were deposited on both the textured and phosphorus-diffused surfaces of wafers,with $R _ { \\mathrm { s h } }$ of $7 0 \\Omega / \\Omega ,$ which forms the symmetrical $\\mathrm { { S i N _ { x } \\mathrm { { : H / S i / } } } }$ $\\mathrm { S i N _ { x } : H }$ structure.Prior to $\\mathrm { { s i N } _ { x } \\mathrm { { : } H } }$ deposition, textured and diffused wafers underwent the conventional HF cleaning and thermal oxidation processes.The wafers were further treated with sintering process without metallization.Regarding the metal zone,prior to sintering process,the textured and diffused wafers underwent the similar processing sequence as mentioned above,together with Ag printing on both full-area surfaces verse sintering process,with the symmetrical $\\mathsf { A g / S i N _ { x } }$ ： $\\mathrm { H } / \\mathrm { S i } / \\mathrm { S i N } _ { \\mathrm { x } } { \\mathrm { : } \\mathrm { H } } / \\mathrm { A g }$ structure.After that, the wafers were soaked in aqua regia solution $\\mathrm { ( H C l { : } H N O _ { 3 } = 3 { : } 1 } ^ { \\cdot }$ ）to remove the $\\mathbf { A } \\mathbf { g }$ paste. As for the $\\tau _ { \\mathrm { e f f } }$ measurement, the sequence is the same as the $J _ { 0 e }$ experiment for the passivation zone with a symmetrical $\\mathrm { S i N _ { x } \\mathrm { : H / S i / S i N _ { x } \\mathrm { : H } } }$ structure. ",
+    "bbox": [
+      62,
+      688,
+      485,
+      923
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For SE PERCs, the $J _ { 0 e }$ experiment was divided into three parts: the $n ^ { + }$ emitter zone, the $n ^ { + + }$ emitter zone and the metal zone.Regarding the $n ^ { + }$ emitter zone,the fabrication of symmetrically structured samples was similar to that of the samples tested for the passivation zone of baseline PERCs,except for the $R _ { \\mathrm { s h } }$ of about $1 2 5 \\Omega / \\boxed { \\mathrm { U } }$ Regarding the $n ^ { + + }$ emitter zone, prior to $\\mathrm { \\ s i N _ { x } : H }$ deposition,full-area laser doping was added to the fabrication process on both surfaces of textured and phosphorusdiffused wafers as mentioned above,with $R _ { \\mathrm { s h } }$ of $6 5 \\Omega / \\Omega ,$ the other steps were exactly the same.Regarding the metal zone,the samples just used to test for the $n ^ { + + }$ emitter zone underwent the similar treatments as the metal zone of baseline.For the measurement of $\\tau _ { \\mathrm { e f f } } ,$ $\\mathrm { \\ s i N _ { x } : H }$ films were deposited on both surfaces of the textured and phosphorus-diffused wafers,with $R _ { \\mathrm { s h } }$ of $1 2 5 \\Omega / \\Omega ,$ similar to the process as mentioned above. ",
+    "bbox": [
+      80,
+      925,
+      484,
+      936
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      514,
+      416,
+      937,
+      573
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.5.Characterization ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      591,
+      636,
+      602
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The thickness and refractive index of $\\mathsf { A l O } _ { \\mathbf { x } }$ and $\\mathrm { \\ s i N _ { x } : H }$ films were measured by spectroscopic ellipsometry (SE400adv-PV).The microgram of different rear contact patterns were obtained by a 3D microscope (Zeta-20,ZETA Instruments).Dopant concentration profiles of the emitters were determined by electrochemical capacitance voltage (ECV) profiling (CVP21,WEP).Sheet resisitance $R _ { \\mathrm { s h } }$ and resistivity of the wafers were investigated by four-point probes (28OI Series,Four Dimensions Inc.). The interstitial oxygen $\\left( \\mathrm { O } _ { \\mathrm { i } } \\right)$ of the mono-like Si wafers was investigated by FTIR (Bruker IFS-113v). $\\tau _ { \\mathrm { e f f } } , J _ { 0 \\mathrm { e } }$ and implied open circuit voltage $( V _ { \\mathrm { o c } } )$ of the emitters were measured by a quasi-steadystate photoconductance(QSSPC） tester (WCT-120， Sinton Instruments).The reflectance and quantum eficiency of solar cells were measured by QEX10 (PV Measurements) system. Finally, the efficiency of the solar cells was tested under AM1.5 spectrum at $2 5 ^ { \\circ } \\mathrm { C }$ by Halm 3600 in the production line. ",
+    "bbox": [
+      514,
+      617,
+      937,
+      813
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.6.Simulation of optical absorption and reflection ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      832,
+      806,
+      844
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To understand the effect of rear triple- $S \\mathrm { i N _ { x } : H }$ layers on the optical absorption and reflection,the online Wafer Ray Tracer software was employed to optimize thickness and refractive index distribution.Both the baseline PERCs and triple ${ \\bf \\cdot } \\mathrm { s i N } _ { \\bf x : H }$ PERCs were set coated with double- $\\mathrm { { s i N } _ { x : H } }$ layers on the front surfaces,with thickness of $5 5 \\mathrm { n m }$ and refractive index of 2.O3 for outer layeras well as thickness of $2 5 \\mathrm { n m }$ and refractive index of 2.37 for inner layer,respectively.With regard to the rear surfaces,fix the total $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layer thickness of $1 2 0 \\mathrm { n m }$ and the inner film thickness of $3 0 \\mathrm { n m }$ ,change the thickness distribution of the other two layers.The refractive index of outer $\\mathrm { { s i N } _ { x : H } }$ layer varied from1.91 to 2.03 while the inner and middle layers remained 2.37 and 2.15, respectively. ",
+    "bbox": [
+      514,
+      858,
+      937,
+      936
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020) 110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      54
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      44,
+      110,
+      52
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      962
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/2bf4600f653ec6ab9705a5852cfc2e7c99a86edfdba69836968db7b4750602e3.jpg",
+    "image_caption": [
+      "Fig.2.(a) Resistivity distribution curve of $\\mathrm { C z }$ mono-Si and mono-like Si wafers.(b) FELA simulation results of $\\mathrm { c z }$ mono-Si and mono-like Si PERCs with the same structure, the measured bulk lifetime was used for the simulation,with a real value of $1 5 0 \\mu \\mathrm { s }$ for mono-like Si wafers and $2 0 0 \\mu s$ for $\\mathrm { C z }$ mono-Si wafers.(c) Comparison of interstitial oxygen of the mc-Si,Cz mono-Si and mono-like Si wafers (left） and efficiency distribution of our baseline PERCs fabricated in mono-like Si wafers in the range of $2 1 . 4 { - } 2 2 . 1 \\%$ (right). (d) Simulated optical loss in baseline PERCs (left) and electrical loss in baseline PERCs (right). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      65,
+      647,
+      319
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      348,
+      485,
+      426
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2.7.Simulation of electrical performance and free energy loss analysis ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      448,
+      463,
+      460
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Quokka 2 was used to study and verify the performance of three types of PERCs with different real ratios of rear electrode contact patterns.Table 1 lists the simulation parameters of the solar cells. ",
+    "bbox": [
+      60,
+      474,
+      484,
+      513
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3．Results and discussion ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      529,
+      226,
+      540
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3.1.Baseline mono-like Si PERCs ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      556,
+      255,
+      567
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Before presenting the results of baseline mono-like Si PERCs,the intrinsic properties of Cz mono-Si and mono-like Si wafers were compared,both experimentally and simulatively.We show in Fig.2(a) the resistivity distribution of these two types of wafers.There is an evident fluctuation found in the resistivity of Cz mono-Si wafers ranging from $0 . 5 \\Omega \\mathrm { c m }$ to $1 . 3 \\Omega \\mathrm { c m }$ ,while the concentrated resistivity of monolike Si wafers with a stable value of $0 . 8 0 \\pm 0 . 1 \\Omega \\mathrm { c m }$ is more preferable for the PERC production process.As illustrated in Fig.2(b),we make a comparison between Cz mono-Si PERCs and mono-like Si PERCs with the same cell structure in efficiency and free energy loss analysis (FELA) by Quokka 2 simulation.It is worthy to mention that the measured bulk lifetime was used for the simulation,with a real value of $1 5 0 \\mu s$ for monolike Si wafers and $2 0 0 \\mu s$ for Cz mono-Si wafers.According to the simulation results,it is found that the energy loss of $\\mathrm { c z }$ mono-Si PERCs is lower than that of mono-like Si PERCs,leading to a cell eficiency improvement of $0 . 0 3 \\%$ .The main reason lies in the higher bulk recombination of mono-like Si PERCs.However,mono-like Si wafers exhibit much lower $\\mathrm { O _ { i } }$ with the value of $6 . 3 4 \\mathrm { p p m a }$ ，while the $\\mathrm { O _ { i } }$ of $\\mathbf { { C } } \\mathbf { { Z } }$ mono-Si wafers is 15.43ppma as listed in the left graph of Fig.2(c). The lower $\\mathrm { O _ { i } }$ in mono-like Si wafers is instrumental in reducing the lightinduced degradation (LID) [29] of PERC modules.The right graph of Fig.2(c) depicts the mass production efficiency distribution of the baseline mono-like Si PERCs with the manufacturing process flow listed in Fig.1.It is found that the cell efficiency $\\left( \\eta \\right)$ is mainly concentrated at $2 1 . 8 0 \\%$ with a share of $2 5 \\%$ ,the efficiency of $2 1 . 9 \\%$ second,yielding an average $\\eta$ of $2 1 . 7 2 \\%$ .There is only $1 2 . 6 \\%$ share with the $\\eta$ of more than $2 2 . 0 \\%$ ,indicating the large improvement room for the mono-like Si ",
+    "bbox": [
+      62,
+      582,
+      485,
+      936
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "PERCs as compared with the Cz mono-Si counterparts. ",
+    "bbox": [
+      515,
+      348,
+      836,
+      360
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "It is well known that the loss of solar cells could be categorized as optical and electrical losses.Fig.2(d) shows the related losses from a series of simulations to straightforwardly clarify the direction of improvement. On the one hand, the optical losses by Wafer Ray Tracer software indicate that the reflection loss is the dominating factor to limit the carrier collection of solar cells,and the improvement of spectral response is restricted unless the rear films are optimized with an alternative routine for a long optical transmission length.The absorption loss from rear cell is also higher than that of front cell,causing a negative influence on the long-wavelength response.On the other hand,electrical losses with the help of Quokka 2 simulation reveal the serious front emitter loss,which could be effectively reduced by the SE technology. Apart from the Shockley-Read-Hall (SRH) loss,the loss from contactat BSF also accounts for a considerable proportion,which can be reduced by optimal rear laser cut groove to achieve a low resistive and recombination loss.The above simulation results guide us to investigate the influence of emitter and rear structure on cell performance below. ",
+    "bbox": [
+      514,
+      361,
+      937,
+      583
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3.2.Effect of rear triple $S i N _ { x }  – H$ passivation films ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      607,
+      793,
+      620
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "It is well known that the optical loss in the long wavelength is mainly caused by the reflection and absorption losses from the rear metal layer [33],leading to the reduction of short circuit current $\\left( I _ { \\mathrm { s c } } \\right)$ .To further improve the long-wavelength response of cells,it is necessary forrear passivation films to obtain a higher reflection when light arrives at the rear,leading more long-wavelength photons to be reflected into the Si wafers to be fully utilized again.According to the reflection theory, triple- $S \\mathrm { i N _ { x } : H }$ instead of conventional double ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ in the industry (i.e., the baseline) can effectively increase the reflection because of their multiple surfaces,so that the light fraction has another chance to enter the wafers [34].Prior to the experiments,it is essential to figure out the optimal thickness and refractive index for triple- $S \\mathrm { i N _ { x } : H }$ PERCs by means of simulation.Here,the thickness distribution of each $\\mathrm { { s i N } _ { x } \\mathrm { { : } H } }$ layer from the inner to the outer was categorized as two types: $3 0 \\mathrm { n m } / 3 0 \\mathrm { n m } / 6 0 \\mathrm { n m }$ and $3 0 \\mathrm { n m } / 4 0 \\mathrm { n m } / 5 0 \\mathrm { n m }$ ,while the thickness distribution of baseline is $3 0 \\mathrm { n m } / 9 0 \\mathrm { n m }$ .We used the Wafer Ray Tracer software to calculate the optically generated current density $\\left( J _ { \\mathrm { G } } \\right)$ with different refractive index of triple- $S \\mathrm { i N _ { x } : H }$ PERCs (see section 2.6 for details).It's worth to mention that the passivation of $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ films enhances with an increase in refractive index [35].This is due to the higher density of Si:H bond determined by the ratio of $\\mathrm { { S i H } } _ { 4 }$ to $\\mathrm { N H } _ { 3 }$ gas flow in the PECVD system [36,37]. The larger the ratio of $\\mathrm { { S i H } _ { 4 } }$ to $\\mathrm { N H } _ { 3 }$ gas flow, the more the Si:H bond density and thereby the higher the refractive index of $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ ",
+    "bbox": [
+      514,
+      634,
+      937,
+      936
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells204 (2020) 110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      52
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      45,
+      112,
+      52
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      962
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/b098a4105eea28de26ebc8796479b6572174bc7bb31db9b8aa93fe0dd992f14a.jpg",
+    "image_caption": [
+      "Fig.3.(a) Simulated values of $J _ { \\mathrm { G } }$ for triple-$\\mathrm { S i N _ { x } : H }$ samples. $3 0 \\mathrm { n m } / 3 0 \\mathrm { n m } / 6 0 \\mathrm { n m }$ and $3 0 \\mathrm { n m } / 4 0 \\mathrm { n m } / 5 0 \\mathrm { n m }$ typesrepresent the thickness of each layer from inner to outer. The refractive index of outer layer for each type varied from 1.91 to 2.03.The dotted line represents the $J _ { \\mathrm { G } }$ value of baseline. (b) Simulated optical absorption and reflection from rear films.(c) EQE and reflectance spectra measured with a mono-chromatic approach.(d) Measured $I { - } V$ parameters $( I _ { \\mathrm { s c } } ,$ $V _ { \\mathrm { o c } } ,$ FF and $\\eta ]$ with 40o pieces of solar cells. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      58,
+      68,
+      680,
+      332
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "However,the lower refractive index of $\\mathrm { \\ s i N _ { x } : H }$ results in improving the reflection, thereby increasing the long-wavelength response of PERCs. This explains our choice of refractive index for triple $S \\mathrm { i N _ { x } : H }$ PERCs. ",
+    "bbox": [
+      60,
+      363,
+      484,
+      402
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fig.3(a) illustrates the calculated $J _ { \\mathrm { G } }$ characteristics,where there is an obvious change after triple- ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ replacing the double- $S \\mathrm { i N _ { x } : H }$ baseline (the $J _ { \\mathrm { G } }$ value for the baseline is $4 1 . 3 4 \\mathrm { m A } / \\mathrm { c m } ^ { 2 } .$ ).The $J _ { \\mathrm { G } } s$ for the $3 0 \\mathrm { n m } / 3 0 \\mathrm { n m } / 6 0 \\mathrm { n m }$ type are 41.34,41.36,41.36 and $4 1 . 3 5 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ ， while for the $3 0 \\mathrm { n m } / 4 0 \\mathrm { n m } / 5 0 \\mathrm { n m }$ type,the corresponding $J _ { \\mathrm { G } } s$ are 41.33, 41.38,41.43 and $4 1 . 4 2 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ with refractive index of 2.03,1.96,1.92 and 1.91 for outer $\\mathrm { \\ s i N _ { x } : H }$ layer,respectively.This result clearly indicates that the triple- $\\mathrm { { s i N } _ { x : H } }$ PERCs exhibit higher $J _ { \\mathrm { G } } s$ overall compared with those of baseline.The maximum $J _ { \\mathrm { G } }$ of $4 1 . 4 3 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ is achieved at the refractive index of 1.92 in terms of the $3 0 \\mathrm { n m } / 4 0 \\mathrm { n m } / 5 0 \\mathrm { n m }$ type, thereby considered to be the best case for triple ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ designs.In other words, the following discussion with respect to the triple- $\\mathrm { { s i N } _ { x : H } }$ PERCs is based on the $3 0 \\mathrm { n m } / 4 0 \\mathrm { n m } / 5 0 \\mathrm { n m }$ type with refractive index for outer $\\mathrm { \\ s i N _ { x } : H }$ layer of 1.92.Although big difference of the refractive indices (2.37 and 1.92) in double $S _ { \\mathrm { i N _ { x } } }$ layers ( $3 0 \\mathrm { n m }$ and $9 0 \\mathrm { n m } \\mathrm { . }$ ）canyield the similar optical effect, the introduction of intermediate refractive index of 2.15 in the triple- $\\mathrm { { . } { s i N _ { x } } }$ scheme can save the industrial cost of rear $\\mathrm { { \\cal S i N } _ { x } }$ ",
+    "bbox": [
+      60,
+      404,
+      485,
+      626
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "fabrication in the PECVD system. ",
+    "bbox": [
+      514,
+      364,
+      710,
+      375
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Obvious differences could be observed in Fig.3(b) between triple-$\\mathrm { \\ s i N _ { x } : H }$ and baseline PERCs from the absorption and reflection in the long wavelength from $9 0 0 \\mathrm { n m }$ to $1 2 0 0 \\mathrm { n m }$ by Wafer Ray Tracer software.The surface of light propagation has increased for triple- ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ PERCs,leading to a slight increase in reflection and thereby a lower absorption.Another explanation for the improvement might be that there is an increase in extinction coefficient with increasing ratio of $\\mathrm { S i H } _ { 4 }$ to $\\mathrm { N H } _ { 3 }$ gas flow [38],resulting in a reduced absorption in the long wavelength of triple ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ PERCs with a lower refractive index of1.92 for outer $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layer,in contrast to the baseline with a refractive index of 2.09 for outer $\\mathrm { s i N } _ { \\mathrm { x } } { : } \\mathrm { H }$ layer.The above argument reveals that the reflection and absorption of long-wavelength photons are significantly modified when the rear surfaces are passivated by triple- $\\mathrm { \\ s i N _ { x } : H }$ films. ",
+    "bbox": [
+      514,
+      377,
+      937,
+      547
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fig.3(c) depicts the experimental EQE and reflectance spectra of triple- $S \\mathrm { i N _ { x } : H }$ PERCs against the baseline ones.It is almost the same in the short wavelength of both EQE and reflectance for the reason that short-wavelength spectral response mainly shows the recombination and loss from the front cell, which is identical between triple ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ and baseline PERCs.However,in the long wavelength, triple- $S \\mathrm { i N _ { x } : H }$ PERCs achieves a better performance on EQE and reflectance than the baseline ones,demonstrating superior light utilization and carrier collection efficiency at the rear side.As a result, the yielded short circuit current density $( J _ { \\mathrm { s c } } )$ from EQE spectra rises from $4 0 . 2 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ to $4 0 . 5 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ ",
+    "bbox": [
+      514,
+      548,
+      937,
+      626
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/351b9d931c9d86305413cb146e15bd23e45360fee38cb23936a45a7f0cd9dc5b.jpg",
+    "image_caption": [
+      "Fig.4.Different rear contact patterns $( L ^ { \\mathrm { R } } / L = 2 3 . 3 \\%$ ， $3 4 . 4 \\%$ ， $4 3 . 4 \\%$ ， $5 3 . 8 \\%$ and $8 6 . 6 \\%$ ): (a)3D microgram, (b) measured and simulated I-V parameters (relative value of $I _ { \\mathrm { s c } }$ ， $V _ { \\mathrm { o c } } , F F$ and $\\eta$ compared with baseline),(c) EQE spectra and (d) simulated FELA results. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      205,
+      656,
+      791,
+      902
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020) 110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      52
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      45,
+      112,
+      52
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      962
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      66,
+      484,
+      118
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Fig.3(d) shows the comparison of electrical parameters between the two types of PERCs. Obviously,the average $I _ { \\mathrm { s c } }$ and fill factor $( F F )$ of triple- ${ \\cdot } s \\mathrm { i } \\mathrm { N } _ { \\mathrm { x } } { : } \\mathrm { H }$ PERCs exceed the baseline ones,leading to higher $\\eta$ .The average $\\eta$ reaches $2 1 . 8 7 \\%$ for triple- $S \\mathrm { i N _ { x } : H }$ PERCs,accompanied by a corresponding increase of $0 . 1 5 \\%$ over baseline ones with an average $\\eta$ of $2 1 . 7 2 \\%$ ，The increase in the $I _ { \\mathrm { s c } }$ of $5 0 \\mathrm { m A }$ is consistent with the improvement of EQE and reflectance in Fig.3(c). It is also worth to mention that the value of series resistance $\\left( R _ { s } \\right)$ is $0 . 8 6 ~ \\mathrm { m } \\Omega$ and $0 . 9 2 ~ \\mathrm { m } \\Omega$ for triple- $\\mathrm { { s i N } _ { x : H } }$ and baseline cases,respectively.We assume that the higher $F F$ in triple- $. \\mathrm { s i N } _ { \\mathrm { x } }$ :H PERCs is due to a nitrogen-rich filmat the Al/ $\\mathrm { S i N _ { x } : H }$ interface because of a lower refractive index [39], resulting in attenuating the corrosion penetration of Al paste and thereby a lower $R _ { s } .$ However,no obvious change occurs in $V _ { \\mathrm { o c } }$ as a result of the equivalent total thickness of $\\mathrm { \\ s i N _ { x } : H }$ films,meaning that the passivation effect is hardly influenced by the triple-layer films.Therefore,it could be concluded that the increased $\\eta$ is practically attributed to the improvement of $I _ { \\mathrm { s c } }$ and $F F$ ,which is mainly affected by the lower refractive index at outer layer, enhanced reflection and reduced absorption in the long wavelength.In summary，the rear triple- $S _ { \\mathrm { i N _ { x } } }$ H film structure is confirmed to be a promising solution to enhance the long-wavelength spectral response for PERCs. ",
+    "bbox": [
+      62,
+      119,
+      485,
+      394
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.3.Influence of rear electrode contact pattrns ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      409,
+      334,
+      422
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Since the $\\mathrm { \\Delta A l O _ { x } / S i N _ { x } { : } H }$ stack is considered as an insulating layer,laser ablation is necessarily required for electrode formation at the rear side, that is,aluminum-silicon contact can be realized in the ablation portion [40,41].There is no doubt that the electrode contact patterns should be well designed.Note that the contact patterns in production lines for baseline PERCs are dotted lines with length of $9 3 8 \\mu \\mathrm { m }$ and lateral spacing of $1 4 5 \\mu \\mathrm { m } .$ ,respectively,as shown in Fig.4(a).Here,we define a new quantity,real ratio $( L ^ { \\mathrm { R } } / L$ ,where $\\boldsymbol { L } = \\boldsymbol { L } ^ { \\mathrm { R } } + \\boldsymbol { \\bar { L } } ^ { \\mathrm { I } } , \\boldsymbol { L } ^ { \\mathrm { R } }$ is the length, and $L ^ { \\mathrm { I } }$ is the lateral spacing),to simplify the line patterns description, fixing the values of longitudinal spacing $6 0 0 \\mu \\mathrm { m }$ and width $4 0 \\mu \\mathrm { m }$ ，To investigate the influence of rear contact patterns,a series of PERCs with different real ratios $L ^ { \\mathrm { R } } / L$ were fabricated in mono-like Si wafers.Fig.4(a) shows the image of rear contact patterns with $L ^ { \\mathrm { R } } / L$ ranging from $2 3 . 3 \\%$ to $5 3 . 8 \\%$ ,and the pattern of baseline $( L ^ { \\mathrm { R } } / L = 8 6 . 6 \\% )$ is also displayed for comparison.The corresponding ratio of electrode contact area to the total area of rear surface is about $1 . 1 \\%$ ， $1 . 8 \\%$ ， $2 . 3 \\%$ ， $2 . 9 \\%$ and $4 . 7 \\%$ ， respectively.We aim at obtaining the optimal $L ^ { \\mathrm { R } } / L$ ,which can provide the highest output performance compared with baseline PERCs. ",
+    "bbox": [
+      62,
+      437,
+      485,
+      673
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The relative values of experimental parameters ( $\\Delta V _ { \\mathrm { o c } }$ ， $\\Delta I _ { \\mathrm { s c . } }$ ， $\\Delta F F$ and $\\Delta \\eta )$ between four set samples $( L ^ { \\mathrm { R } } / L = 2 3 . 3 \\%$ ， $3 4 . 4 \\%$ ， $4 3 . 4 \\%$ and $5 3 . 8 \\%$ and baseline are illustrated in Fig.4(b). It is easy to find that with the increase of $L ^ { \\mathrm { R } } / L$ ,the $V _ { \\mathrm { o c } }$ diminished progressively.By contrast, obvious improvement in $F F$ is observed with increasing $L ^ { \\mathrm { R } } / L$ .The $R _ { s }$ of every set sample $( 2 3 . 3 \\%$ ， $3 4 . 4 \\%$ ， $4 3 . 4 \\%$ ， $5 3 . 8 \\%$ and $8 6 . 6 \\%$ )is 0.92,0.78,0.69, 0.66 and $0 . 6 0 ~ \\mathrm { m } \\Omega$ ,respectively.The lower the $R _ { s } ,$ the larger the $F F$ ,thus the decline of $F F$ is a result of the increasing $R _ { s } ,$ which is mainly affected by contact resistance and lateral transport resistance [42,43].The above trends can be adequately explained by the dependence of lateral transport resistance on $L ^ { \\mathrm { R } } / L$ ，which follows the adverse tendency as $F F$ However,an increase in the contact area means a reduction in the passivation area [44],causing the $V _ { \\mathrm { o c } }$ to drop clearly.Hence,it is not preferable to improve the performance by increasing the laser cut groove area. One can see that the $I _ { \\mathrm { s c } }$ of the four set samples exceed the baseline significantly.There isa nearly 47,81,59 and $4 1 \\mathrm { m A }$ improvement with $L ^ { \\mathrm { R } } / L$ of $2 3 . 3 \\%$ ， $3 4 . 4 \\%$ ， $4 3 . 4 \\%$ and $5 3 . 8 \\%$ ，respectively,and this could be attributed to differences between current transmission channels and current collection at the rear surface.Also,a homologous trend can be observed in $\\eta$ that the conversion efficiency of four set samples is greatly better than the baseline absolutely increased by $0 . 0 9 \\%$ ， $0 . 1 9 \\%$ ， $0 . 0 8 \\%$ and $0 . 0 8 \\%$ ,respectively.It indicates that the higher $V _ { \\mathrm { o c } }$ and greater $I _ { \\mathrm { s c } }$ would compensate the $F F$ loss accounting for the fact that the sample with $L ^ { \\mathrm { R } } / L$ of $3 4 . 4 \\%$ exhibits the best electrical performance in comparison with other set samples. ",
+    "bbox": [
+      62,
+      675,
+      485,
+      936
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      514,
+      66,
+      937,
+      131
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Fig.4(b)also shows the simulated electrical parameters by Quokka 2 software for verification.In order to ensure an effective and feasible simulation, the experimental data was adopted in the calculation, such as sheet resistance, junction depth,contact resistance, $J _ { 0 \\mathrm { { e } } }$ and so on. Note that trends of $\\Delta V _ { \\mathrm { o c } } ,$ $\\Delta I _ { \\mathrm { s c } } ,$ △FF and $\\Delta \\eta$ depicted by Quokka 2 with $L ^ { \\mathrm { R } } / L$ varied from $2 3 . 3 \\%$ to $5 3 . 8 \\%$ are in good agreement with those through experiments. Simulation results reveal that $I _ { \\mathrm { s c } }$ of the $2 3 . 3 \\%$ set samples is better than that of the $3 4 . 4 \\%$ set ones.This may be due to the identical contact resistivity of rear side selected for each set samples during the simulations.Indeed, the smaller the $L ^ { \\mathrm { R } } / L$ ，the lower the contact resistivity [45]. Overall,compared with the simulated baseline counterparts,the optimal results of the electrical performance are obtained by Quokka 2at $L ^ { \\mathrm { R } } / L = 3 4 . 4 \\%$ with an absolute increase in efficiency $\\eta$ of $0 . 2 3 \\%$ ，while the maximum improvement $\\eta$ of $0 . 1 9 \\%$ has been achieved experimentally for the PERCs with real ratio $L ^ { \\mathrm { R } } / L$ of $3 4 . 4 \\%$ ",
+    "bbox": [
+      514,
+      133,
+      937,
+      341
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In order to evaluate the improvements of $I _ { \\mathrm { s c } }$ more convincingly, Fig.4(c) depicts EQE spectra of all these set samples.One can clearly observe that the set samples with $L ^ { \\mathrm { R } } / L = 3 4 . 4 \\%$ exhibit a stronger spectral response in the long wavelength but nearly no difference in the short and middle wavelength compared with other set samples.This could be associated with the sufficiently high quality of rear surface passivation and good ability of rear current collection,rather than the influence of the emitter and the base.What's more,the EQE tendency of these five set samples is in accordance with the corresponding experimental $I _ { \\mathrm { s c } }$ listed in Fig.4(b). ",
+    "bbox": [
+      514,
+      343,
+      937,
+      474
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "To straightforwardly analyze the influence of real ratio $L ^ { \\mathrm { R } } / L$ on electrical losses,the FELA was also carried out by Quokka 2,as illustrated in Fig.4(d).According to the FELA, these five set samples are obviously different in two items,the recombination loss and the resistivity loss of contact in BSF.This is because the higher $L ^ { \\mathrm { R } } / L$ of rear contact area indicates that the wafer is subject to higher surface recombination velocity as well as greater laser damage,leading to more serious recombination losses of contact in BSF.However, the smaller $L ^ { \\mathrm { R } } /$ L of rear contact area possesses a higher transverse resistance,resulting in much more losses.It is required to make a trade-off between the reduction ofresistivity lossand combination loss[42]，and $L ^ { \\mathrm { R } } / L = 3 4 . 4 \\%$ is confirmed to satisfy above requirements commendably. In conclusion,optimal rear electrode contact pattern should not only have high quality passivation,but also low transverse resistance. Too large and too small $L ^ { \\mathrm { R } } / L$ are not advisable to improve the performance of the PERCs with the following two reasons: (i) the decrease of $V _ { \\mathrm { o c } }$ and $I _ { \\mathrm { s c } }$ is inevitable owing to the loss of passivation regions and enhanced absorption of photons by the electrode contact when $L ^ { \\mathrm { R } } / L$ is too large; (ii) the decline of FF resulting from the excessive $R _ { s }$ appears as well as the deterioration of aluminum-silicon contact performance when $L ^ { \\mathrm { R } } / L$ is too small. ",
+    "bbox": [
+      514,
+      476,
+      937,
+      751
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "From the FELA in Fig.4(d),one can also note that the top-three energy losses for PERCs are the emitter resistance loss,the SRH bulk recombination loss and the emitter recombination loss.Therefore, the SE technology is a necessary and cost-effective strategy to further optimize the performance of PERC cells,which will be discussed in Section 3.4. ",
+    "bbox": [
+      514,
+      752,
+      937,
+      829
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.4.Analysis of SE technology ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      846,
+      690,
+      857
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Great efforts have been made on optimizing the manufacturing process through production lines with regard to rear sides of the PERCs in our previous sections.Here we will investigate the gains from the front sides combined with SE technology.SE is a structure in which an $n ^ { + + }$ emitter is formed at the front metal finger,together with an $n ^ { + }$ emitter to remain high quality passivation.On the one hand,the $n ^ { + }$ emitter has a completely lower dopant concentration and junction depth,which contributes to less serious recombination in the nonmetallized areas,i.e.,the Auger recombination and SRH recombination [46]. On the other hand, the higher dopant concentration of the $n ^ { + + }$ emitter form high-performance Ohmic contact among the emitter and metal electrodes to reduce the contact resistance [47]. ",
+    "bbox": [
+      514,
+      872,
+      937,
+      936
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020)110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      54
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      45,
+      110,
+      52
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      495,
+      954,
+      504,
+      960
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/20e71aa544d1c5c0b88792289e8f272c3ff8c71ec6b8d73090b600694d4a3960.jpg",
+    "image_caption": [
+      "Fig.5.(a) Phosphorous dopant concentration profiles of the emitters for baseline and SE samples.(b) Measured $\\tau _ { \\mathrm { e f f } }$ and implied $V _ { \\mathrm { o c } }$ for baseline and the $n ^ { + }$ emitter of SE at an injection level of $1 0 ^ { 1 5 } \\mathrm { c m } ^ { - 3 }$ with a symmetric structure.(c） Simulated fficiency loss in the emitter for baseline and SE.(d) Measured $I { - } V$ parameters (relative value of $I _ { \\mathrm { s c } } ,$ $V _ { \\mathrm { o c } } ,$ $F F$ and $\\eta$ compared with baseline). (e) Measured $J _ { 0 \\mathrm { { e } } }$ of different regions (metal and non-metal for baseline and $n ^ { + }$ emitter, $n ^ { + + }$ emitter and metal for SE) together with the area ratio of the corresponding regions (left),the calculated total $J _ { 0 \\mathrm { { e } } }$ as a function of $J _ { 0 \\mathrm { { e } } }$ of each region and the corresponding area ratio (right). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      68,
+      684,
+      330
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      359,
+      484,
+      450
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Fig.5(a) shows the phosphorous dopant concentration profiles of the emitter with two types of solar cells,baseline and SE technology, respectively.For the baseline,the value of $R _ { \\mathrm { s h } }$ is $7 3 \\Omega / \\boxed { \\square }$ ,with a phosphorous surface concentration of about $6 . 8 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ versus a junction depth of $0 . 2 8 \\mu \\mathrm { m }$ For the case of SE technology, the $R _ { \\mathrm { s h } }$ of the $n ^ { + }$ emitter is $1 2 7 \\Omega / \\Omega ,$ with a phosphorous surface concentration of about $4 . 2 5 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ and a junction depth of $0 . 2 4 \\mu \\mathrm { m }$ A strong thermal effect due to the laser doping not only causes the phosphorous atoms to quickly penetrate into silicon wafers,but also melts the PSG so that the phosphorous atoms in the PSG precursor layer are almost completely utilized and penetrate into the deeper of the wafers [48].Therefore, the $n ^ { + + }$ emitter was obtained with $R _ { \\mathrm { s h } }$ of $6 0 \\Omega / \\Omega$ based on the $n ^ { + }$ emitter with $R _ { \\mathrm { s h } }$ of $1 2 7 \\Omega / \\bigsqcup$ .It is expected that the SE technology possesses advantageous quality for emitters. ",
+    "bbox": [
+      62,
+      451,
+      485,
+      635
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Fig.5(b) displays the $\\tau _ { \\mathrm { e f f } }$ and implied $V _ { \\mathrm { o c } }$ with and without SE.For a convenient and rapid comparison, the $\\tau _ { \\mathrm { e f f } }$ was extracted at an injection level of $1 0 ^ { 1 5 } \\mathrm { c m } ^ { - 3 }$ as well as the implied $V _ { \\mathrm { o c } }$ Here, we just consider the passivation regions of SE for comparison,namely the $n ^ { + }$ emitter. It can be observed that the average value of $\\tau _ { \\mathrm { e f f } }$ increases from approximately $1 2 7 \\mu s - 1 5 4 \\mu s$ and the implied $V _ { \\mathrm { o c } }$ raises from $6 8 3 \\mathrm { m V }$ to $6 9 0 \\mathrm { m V }$ after SE process,respectively.Reasons for the improvementcan be evaluated as the follows:a notable reduction of surface Auger recombination and defect density from the associated low level of dopant concentration of the $n ^ { + }$ emitter. This supports the importance of SE technology as a result of good chemical passivation.To estimate whether or not the passivation quality of emitters could be further enhanced in combination with the SE structure,Quokka 2 software was implemented to achieve a deep insight to the recombination loss of the cell front,as schematically shown in Fig.5(c). The loss from the cell front was mainly atributed to two components:dielectric and contact areas.It's clear that recombination from the contact between baseline and SE technology is almost the same, which means that recombination from the dielectric areas might be the primary determinant of the emitter quality. ",
+    "bbox": [
+      62,
+      636,
+      485,
+      885
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As illustrated in Fig.5(d),the experimental results of SE technology show an increase in the $V _ { \\mathrm { o c } }$ of $7 . 9 8 \\mathrm { m V }$ ,and an increase in the $I _ { \\mathrm { s c } }$ of $2 8 \\mathrm { m A }$ ，accompanied by a corresponding drop in the $F F$ of $0 . 1 7 \\%$ compared to the homogeneous emitter baseline cells. There is now a general consensus that the improvement in $V _ { \\mathrm { o c } }$ is significantly correlated with the rewarding chemical passivation [49].The higher $I _ { \\mathrm { s c } }$ is due to the reduced emitter recombination to the profitable impact of the short-wavelength spectral response.The maximum $\\eta$ improvement of $0 . 2 6 \\%$ has been obtained on the PERCs combined with SE technology. ",
+    "bbox": [
+      60,
+      887,
+      484,
+      925
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      514,
+      359,
+      937,
+      437
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In order to further quantitatively explore front emitter quality of both cells,we constituted a valid comparison of recombination current density $J _ { 0 \\mathrm { e } }$ to evaluate with different regions,i.e.,the metal zone, the $n ^ { + + }$ emitter zone,the $n ^ { + }$ emitter zone for the SE case,and the metal zone, the non-metal zone for the baseline one,respectively.It is worth to mention that $J _ { 0 e }$ of different regions were measured with the symmetrical structures (see section 2.4 for details).Here,the proportion of each region to the total area of cells is also displayed for the purpose of calculating the total recombination current density of cells,as given in Fig.5(e) (the left graph).Note that the $J _ { 0 \\mathrm { { e } } }$ of the SE case in three regions (including $n ^ { + }$ emitter, $n ^ { + + }$ emitter and metal) is 48,130 and $9 0 7 \\mathrm { f A } /$ $\\mathrm { c m } ^ { 2 }$ , whose area accounts for $9 0 . 6 \\%$ ， $5 . 4 \\%$ and $4 . 0 \\%$ ,respectively, while the $J _ { 0 \\mathrm { e } }$ of the baseline case in two regions (including non-metal and metal) is $1 0 1 \\mathrm { f A } / \\mathrm { c m } ^ { 2 }$ and $7 9 6 \\mathrm { f A } / \\mathrm { c m } ^ { 2 }$ ，accounting for $9 6 \\%$ and $4 \\%$ ， respectively.The presence of SE technology results ina higher level of $J _ { 0 \\mathrm { e } }$ in the metal regions.This may be understood by the fact that metal contact of the SE case is performed in the $n ^ { + + }$ emitter region, that is to say the dopant concentration of SE metal regions is higher in comparison with that of the baseline.Another explanation might be that the SE front surface would suffer unavoidable damage caused by the laser doping, thereby resulting in the increase of the Auger recombination in the emitter. ",
+    "bbox": [
+      514,
+      437,
+      937,
+      727
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The total $J _ { 0 e }$ of both cells was calculated as a function of $J _ { 0 e }$ of different regions as well as the corresponding area ratios.In other words, the total $J _ { 0 \\mathrm { e } }$ of the SE case is the sum of the $J _ { 0 \\mathrm { e } }$ of three areas $( n ^ { + }$ emitter, $n ^ { + + }$ emitter and metal) multiplied by the respective area ratio,while the calculation of the baseline case was similar to that of the SE.Fig.5(e) (the right graph) summarizes the values of the total $J _ { 0 \\mathrm { e } }$ for the baseline case of $1 2 8 . 8 \\mathrm { f A } / \\mathrm { c m } ^ { 2 }$ and for the SE one of $8 6 . 8 \\mathrm { f A } / \\mathrm { c m } ^ { 2 }$ ，suggesting a good enough front surface passivation.In conclusion,through the integration of SE technology,we have achieved good quality emitter, which is an essential prerequisite for high performance PERCs. ",
+    "bbox": [
+      514,
+      728,
+      937,
+      860
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To verify the feasibility and superiority of our roadmap,we have further combined the efficiency enhancements of triple- $\\mathrm { { \\ s i N _ { x } : H } }$ rear contact pattern of $L ^ { \\mathrm { R } } / L = 3 4 . 4 \\%$ and SE technology for mono-like Si PERCs.As displayed in Fig.6,the average results of the electrical parameters $( V _ { \\mathrm { o c } } { \\sim } 6 6 8 . 5 \\ : \\mathrm { m V }$ ， $I _ { \\mathrm { s c } } { \\sim } 1 0 . 2 \\mathrm { A }$ ， $F F { \\sim } 8 1 . 6 \\%$ and $\\eta { \\sim } 2 2 . 2 \\% )$ are obtained with a maximum efficiency of $2 2 . 5 \\%$ . It is obvious that the $\\eta$ is mostly concentrated at $2 2 . 2 \\%$ ， $2 2 . 3 \\%$ and $2 2 . 4 \\%$ ,which is almost the same as the $\\mathrm { c z }$ mono-Si counterparts. ",
+    "bbox": [
+      514,
+      861,
+      937,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cels 204 (2020) 110202 ",
+    "bbox": [
+      670,
+      44,
+      937,
+      52
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      45,
+      112,
+      52
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      960
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0348555/auto/images/27e4c0212ec900d1b807bb771f1dab765abd1632a3468d7cd630f27b408cd11f.jpg",
+    "image_caption": [
+      "Fig.6.Measured $I { - } V$ parameters (absolute values of $V _ { \\mathrm { o c } } , I _ { \\mathrm { s c } } , F F$ and $\\eta$ of monolike PERCs combined with triple- $S \\mathrm { i N _ { x } ; H , }$ ，rear contact pattern of $L ^ { \\mathrm { R } } / L = 3 4 . 4 \\%$ and SE technology). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      65,
+      66,
+      480,
+      219
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      282,
+      484,
+      320
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "4.Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      335,
+      159,
+      346
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In summary,we have investigated both experimentally and theoretically the application of mono-like Si wafers in the mass production of mainstream PERCs.By employing triple- $S \\mathrm { i N _ { x } : H }$ in combination with $\\mathsf { A l O } _ { \\mathbf { x } }$ at the rear surface to replace the standard $\\mathbf { A l O _ { x } } ,$ /double- $\\mathbf { \\mathit { S i N } _ { x } }$ :H stacks,more long-wavelength photons can be reflected into the Si wafers to be utilized again,resulting in an increase in the $I _ { \\mathrm { s c } }$ of $5 0 \\mathrm { m A }$ The rear triple- $S \\mathrm { i N _ { x } ; H }$ also performs a high $F F$ attributed to a nitrogen-rich film at the Al/ ${ } ^ { \\prime } \\mathrm { S i N } _ { \\mathrm { x } : \\mathrm { H } }$ interface.Consequently,the average $\\eta$ of our mono-like Si PERCs has been increased to $2 1 . 8 7 \\%$ from the existing baseline $\\eta$ of $2 1 . 7 2 \\%$ .We have further demonstrated the effect and role of rear contact patterns,highlighting the necessity of keeping the balance between the passivation and series resistance.The optimal contact pattern of $L ^ { \\mathrm { R } } /$ $L = 3 4 . 4 \\%$ exhibits a higher performance in both $V _ { \\mathrm { o c } }$ and $I _ { \\mathrm { s c } } ,$ and the average $\\eta$ increases by more than $0 . 1 9 \\%$ absolutely,compared to the standard PERCs with $L ^ { \\mathrm { R } } / L = 8 6 . 6 \\%$ .Finally,the emitter saturation current density $J _ { 0 \\mathrm { { e } } }$ has been dramatically reduced from $1 2 8 . 8 \\mathrm { f A } / \\mathrm { c m } ^ { 3 }$ to $8 6 . 8 \\mathrm { f A } / \\mathrm { c m } ^ { 3 }$ by the implementation of SE technology,yielding an absolute average $\\eta$ improvement of $0 . 2 6 \\%$ .Finally,we have combined these feasible technologies in the process of baseline mono-like Si PERCs.An average $\\eta$ of $2 2 . 2 \\%$ accompanied by a maximum $\\eta$ of $2 2 . 5 \\%$ was obtained,which is almost the same as their $\\mathrm { c z }$ mono-Si counterparts. ",
+    "bbox": [
+      62,
+      360,
+      485,
+      650
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      664,
+      186,
+      677
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "This work was supported by the National Key R&D Program of China (No.2018YFB1500302), the National Natural Science Foundation of China (Nos.11834011 and 11674225),and Shanxi Province Key R&D Program of 201703D111008. ",
+    "bbox": [
+      60,
+      691,
+      485,
+      742
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      757,
+      131,
+      769
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "[1] A.W. Blakers, A.H. Wang, A.M. Milne, J.H. Zhao,M.A. Green, 22.8% efficient silicon solar cell, Appl. Phys. Lett. 55 (13) (1989) 1363.   \n[2] M.A. Green, The passivated emitter and rear cell (PERC): from conception to mass production, Sol. Energy Mater. Sol. Cels 143 (2015) 190-197.   \n[3] T.Dullweber, J. Schmidt, Industrial silicon solar cells applying the passivated emitter and rear cell (PERC) concept-a review,IEEE J. Photovolt. 6 (5) (2016) 1366-1381.   \n[4] G. Agostinelli, P. Choulat, H. Dekkers, S. De Wolf, Screen printed large area crystalline silicon solar cells on thin substrates,in: Proceedings of the 20th European Photovoltaic Solar Energy Conference and Exhibition, 2005, pp. 647-650.   \n[5]B.Hoex, J. Schmidt,P.Pohl, M.C.M. van de Sanden, W.M.M. Kessels, Silicon surface passivation by atomic layer deposited Al2O3, J. Appl. Phys.104 (4) (2008), 044903.   \n[6] C. Kranz, S. Wyczanowski, U. Baumann, K. Weise, C. Klein,F. Delahaye, T.Dullweber, R. Brendel, Wet chemical polishing for industrial type PERC solar cells, Energy Procedia 38 (2013) 243-249.   \n[7]S.J.Eisele,T.C.Roder,J.R. Kohler,J.H. Werner,18.9% efcient fullarealaser doped silicon solar cell, Appl. Phys. Lett. 95 (13) (2009) 133501.   \n[8] S.W. Glunz, S. Schaefer, R. Luedemann, R. Preu, Laser ablation-a new low-ost approach for passvated rear contact formation in crystalline silicon solar cell technology, in: Proceedings of the 16th European Photovoltaic Solar Energy Conference and Exhibition, 2000, pp.1161-1184.   \n[9] J. Schmidt, B. Veith, R. Brendel, Effective surface passivation of crystalline silicon using ultrathin $\\mathrm { { A l } _ { 2 } \\mathrm { { O } _ { 3 } } }$ films and $\\mathrm { A l _ { 2 } O _ { 3 } / S i N _ { x } }$ stacks, Phys. Status Solidi RRL. 3 (9) (2009) 287-289.   \n[10]P.Saint-Cast, D. Kania, M. Hofmann, J. Benick, J. Rentsch,R. Preu, Very low surface recombination velocity on p-type c-Si by high-rate plasma-deposited aluminum oxide, Appl. Phys. Lett. 95 (15) (2009) 151502.   \n[11] Y.F. Zhuang, S.H. Zhong, X.J. Liang, H.J. Kang, Z.P.Li, W.Z. Shen, Application of $\\mathrm { S i O } _ { 2 }$ pasivation technique in massproduction of silicon solar cells,Sol.Energy Mater. Sol. Cells 193 (2019) 379–386.   \n[12] www.pvtech.org/news/q_cells_sets_two_new_world_records_for_multi_crystaline _and_quasi_mono_sol.   \n[13] Z.Wang,P. Han, H.Lu, H. Qian,L. Chen, Q. Meng,N.Tang,F. Gao,Y. Jiang, J. Wu, W. Wu,H. Zhu, J. Ji, Z. Shi, A. Sugianto,L. Mai, B. Hallam, S.R.Wenham, Advanced PERC and PERL production cels with $2 0 . 3 \\%$ record efficiency for standard commercial p-type silicon wafers, Prog. Photovolt. Res. Appl. 20 (3) (2012) 260-268.   \n[14]H. Hieslmair,L.Mandrel,ILatchford,R. Zhu,T.Heerwagen,A. Argawal,B.Adibi, Industrial advanced celldesigns by ion implantation, in: Proceedings of the 28th European Photovoltaic Solar Energy Conference and Exhibition, 2013, pp. 1870-1873.   \n[15]P. Kumar, K. Wijekoon, D. Tanner, K. Rapolu, Z. Ding, H.M. Huang, B. Zhang, S. Wang, A. Bhanap,D. Chen,Industrialselective emiter processes for Czochralskisiliconsolarcels,in: Proceedings ofthe26th European Photovoltaic SolarEnergy Conference and Exhibition, 2011, pp.1334-1339.   \n[16] http://taiyangnews.info/technology/longi-24-06-efficiency-perc-cel-world-r ecod/.   \n[17]F.Fertig,R. Lantzsch, A. Mohr,M. Schaper,M. Bartzsch,D.Wissen,F. Kersten, A. Mette, S. Peters, A. Eidner, J. Cieslak, K. Duncker,M. Junghanel, E.Jarzembowski, M. Kauert, B. Faulwetter-Quandt, D. Meissner, B. Reiche, S. Geissler, S. Hornlein, C. Klenke,L. Niebergal, A. Schonmann, A. Weihrauch, F. Stenzel, A. Hofmann, T. Rudolph, A. Schwabedissen, M. Gundermann, M. Fischer, J.W. Muller, D.J.W. Jeong, Mass production of p-type $\\mathrm { c z }$ silicon solar cells approaching average stable conversion efciencies of $2 2 \\% .$ Energy Procedia 124 (2017) 338-345.   \n[18] http://guangfu.bjx.com.cn/news/20190130/960376.shtml.   \n[19] https://solar.ofweek.com/2018-11/ART-260009-8470-30281347.html.   \n[20]T.F. Ciszek, G.H. Shwutke, K.H. Yang, Directionally solidified solar-grade silicon using carbon crucibles, J. Cryst. Growth 46 (4) (1979) 527-533.   \n[21] M. Kivambe, B. Aissa, N. Tabet, Emerging technologies in crystal growth of photovoltaic_silicon: progress and challenges, Energy Procedia 130 (2017)7-13.   \n[22] E. Olsen,S.Bergan,T. Mehl,I Burud, K.E.Ekstrom,M.DiSabatino,Defectrelated radiative recombination in mono-like crystalline silicon wafers,Phys. Status Solidi A 214 (8) (2017), 1700124.   \n[23] S.Nakano,B.Gao, K. Jiptner, H. Harada, Y. Miyamura,T. Sekiguchi, M. Fukuzawa, K. Kakimoto, Numerical analysis of the relation between dislocation density and residual strain in silicon ingots used in solar cels, J. Cryst. Growth 474 (2017) 130-134.   \n[24] Z.J. Liu,V.Vahanissi, H.S.Laine,M. Lindeberg,M. Yli-Koski, H. Savin, Electronic quality improvement of highly defective quasi-mono silicon material by phosphorus diffusion gettering, Adv. Electronic. Mater. 3 (6) (2017), 1600435.   \n[25] C.Y.Lan,YC.Wu,A.Ln,C.F.Yang,C.Hsu,C.Lu,A.Yang,C..Lanol ingot quality and solar cellappearance of cast mono-ike silicon by using seed partitions, J. Cryst. Growth 475 (2017) 136-143.   \n[26]http://taiyangnews.info/technology/trina-canadian-solar-report-cell-effcien cy -records/.   \n[27] http://en.gcl-power.com/news_detail/2406-High-eficiency+Polysilicon%2C+ Cast+Mono+Cells%2C+and+Module+Technology+Applications.   \n[28] Z. Xu, X.L.Yang, G.F.Li, W.C. Zhao, Z.Y. Hu,J.F. Xiong,D.C.Yang, Industrial PERC solar cells on mono-like substrate, in: Proceedings of the 28th European Photovoltaic Solar Energy Conference and Exhibition, 2013,pp.2083-2085.   \n[29] T. Dullweber, C. Kranz, U. Baumann,R. Hesse,D. Walter, J. Schmidt, P. Altermatt, R.Brendel, Silicon wafer material options for highly efficient p-type PERC solar cells,in: Proceedings of the 39th IEEE Photovoltaic Specialists Conference, 2013, pp. 3074-3078.   \n[30] Y.H. Chang, S.J. Su, P.S. Huang,L.W. Cheng, Investigation of electrical properties on industrial PERC mono-like Si solar cell,in: Proceedings of the 40th IEEE Photovoltaic Specialists Conference, 2014, pp. 2960-2962.   \n[31] X. Gu, X.G. Yu, K.X. Guo, L. Chen, D. Wang, D.R. Yang, Seed-assisted cast quasi-single crystaline silicon for photovoltaic application: towards high efficiency and low cost silicon solar cels, Sol. Energy Mater.Sol. Cels 101 (2012) 95-101.   \n[32] https://www2.pvlighthouse.com.au/calaulators/wafer%20ray%20tracer/wafer% 20ray%20tracer.html.   \n[33] M. Muler, G. Fischer, B. Bitnar, S.Steckemetz, R. Schiepe, M. Muhlbauer, R.Kohler, P. Richter, C. Kusterer, A. Oehlke, E. Schneiderlochner, H. Strater, F. Wolny, M. Wagner, P. Palinginis, D.H. Neuhaus, Loss analysis of $2 2 \\%$ efficient industrial PERC solar cells, Energy Procedia 124 (2017) 131-137.   \n[34] S.D. Zhang, Y. Yao, D.P.Hu, W.F. Lian, H.Q. Qian, J.S. Jie, Q.Z. Wei, Z.C. Ni, X. H. Zhang,L.Z. Xie, Application of silicon oxide on high efficiency monocrystalline silicon PERC solar cells, Energies 12 (6) (2019) 1168.   \n[35] J. Schmidt, A.G. Aberle, Carrier recombination at silicon-silicon nitride interfaces fabricated by plasma-enhanced chemical vapor deposition, J. Appl. Phys.85 (7) (1999) 3626-3633.   \n[36] B.Lenkeit, S.Steckemetz, F.Artuso,R.Hezel, Excellent thermal stability of remote plasma-enhanced chemical vapour deposited silicon nitride films for the rear of screen-printed bifacial silicon solar cells, Sol. Energy Mater. Sol. Cells 65 (1-4) (2001) 317-323.   \n[37]N. Balaji, S.Q.Hussain, C. Park, J.Raja, J. Yi, R. Jeyakumar, Surface passivation schemes for high-efficiency c-Si solar cells -a review, Trans. Electr. Electron. Mater.16 (5) (2015) 227-233.   \n[38]E. Herth, H. Desré, E.Algré, C.Legrand, T.Lasri, Investigation of optical and chemical bond properties of hydrogenated amorphous silicon nitride for optoelectronics applications, Microelectron. Reliab. 52 (1) (2012) 141-146.   \n[39] D.H. Ma, W.J. Zhang, Z.Y. Jiang, Q. Ma, X.B. Ma, Z.Q. Fan, D.Y. Song,L. Zhang, Microstructure and photoelectric properties of P-doped silicon-rich $\\mathrm { S i N _ { x } }$ film as an n-type layer for PIN-type amorphous silicon thin film solar cells, Sol. Energy 144 (2017) 808-817.   \n[40] Q. Qiao,H. Lu, J. Ge, X. Xi, R. Chen, J. Yang, J. Zhu, Z. Shi, J. Chu,18.5% efficient AlOx/SiNx rear passivated industrial multicrystalline silicon solar cells, Appl. Surf. Sci. 305 (2014) 439-444.   \n[41] D.Y. Lee,H.H. Lee, J.Y.Ahn, H.J. Park, J.H. Kim,H.J. Kwon, J.K. Jeong,A new back surface passivation stack for thin crystalline silicon solar cells with screenprinted back contacts, Sol. Energy Mater. Sol. Cells 95 (1) (2010) 26-29.   \n[42] E. Picard, M. Pirot, R. Monna, S.Dubois, Rear-surface laser contact opening design optimization for PERC solar cells, in: Proceedings of the 33rd European Photovoltaic Solar Energy Conference and Exhibition, 2017, pp. 641-645.   \n[43] H. Plagwitz, R. Brendel, Analytical model for the diode saturation current of pointcontacted solar cells, Prog. Photovoltaics 14 (1) (2006) 1-12.   \n[44] J. Kim, J.Y. Lim, Y. Hwang, J. Cho,H. Choi, E. Lee, Laser ablation of aluminum oxide and silicon nitride rear-side passivation for i-PERC cell, Renew. Energy 79 (2015) 135-139.   \n[45] E. Urrejola, K. Peter,H. Plagwitz, G. Schubert, Al-Si alloy formation in narrow ptype Si contact areas for rear passivated solar cels, J. Appl. Phys. 1O7 (12) (2010) 124516.   \n[46] B. Min, H. Wagner,A. Dastgheib-Shirazi, P.P. Altermatt, Limitation of industrial phosphorus-diffused emitter by SRH recombination, Energy Procedia 55 (2014) 115-120.   \n[47] Y.P. Chen, C.T.Li, L.K. Wang, Single-crystalline silicon solar cell with selective emitter formed by screen printing and chemical etching method: a feasibility study, Int. J. Photoenergy (2013) 510242.   \n[48] J.Horzel, J. Szlufcik,M. Honoré,J. Nijs, R.Mertens, Novel method to form selective emitters in one difusion step without etching or masking,in: Proceedings of the 14th European Photovoltaic Solar Energy Conference and Exhibition vol 61, 1997.   \n[49] S.Joonwichien, Y. Kida, M. Moriya, S. Utsunomiya, K. Shirasawa, H. Takato, Improved phosphorus emitter passivation using chemically grown $\\mathrm { { S i O } } _ { 2 }$ layer for industrial-sized selective emitter PERC,in: Proceedings of the 7th IEEE World Conference on Photovoltaic Energy Conversion, 2018, pp.3113-3117. ",
+    "bbox": [
+      65,
+      781,
+      484,
+      921
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      59,
+      936,
+      923
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020)110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      52
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      45,
+      112,
+      52
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      494,
+      953,
+      504,
+      962
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      60,
+      65,
+      482,
+      329
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      65,
+      934,
+      319
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Solar Energy Materials and Solar Cells 204 (2020) 110202 ",
+    "bbox": [
+      668,
+      44,
+      937,
+      52
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Y. Lv et al. ",
+    "bbox": [
+      62,
+      44,
+      112,
+      52
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      495,
+      953,
+      504,
+      960
+    ],
+    "page_idx": 8
+  }
+]

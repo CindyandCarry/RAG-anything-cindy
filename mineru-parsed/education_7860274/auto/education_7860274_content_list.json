@@ -1,0 +1,1946 @@
+[
+  {
+    "type": "text",
+    "text": "An Intr An Introduction t oduction to Latent V o Latent Variable Mixtur ariable Mixture Modeling (P e (Part 1): Overview and Cross-Sectional Latent Class and Latent Profile ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      291,
+      826,
+      345
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Analyses ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      353,
+      227,
+      376
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Kristoffer S. Berlin University of Memphis, kristoffer.berlin@gmail.com ",
+    "bbox": [
+      116,
+      393,
+      491,
+      425
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Natalie A. Williams University of Nebraska-Lincoln, nwilliams17@unl.edu ",
+    "bbox": [
+      114,
+      440,
+      503,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Gilbert R. Parra University of Southern Mississippi, gparra2@unl.edu ",
+    "bbox": [
+      114,
+      487,
+      498,
+      520
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Berlin, Kristoffer S.; Williams, Natalie A.; and Parra, Gilbert R., \"An Introduction to Latent Variable Mixture Modeling (Part 1): Overview and Cross-Sectional Latent Class and Latent Profile Analyses\" (2013). Faculty Publications, Department of Child, Youth,and Family Studies. 89. https://digitalcommons.unl.edu/famconfacpub/89 ",
+    "bbox": [
+      116,
+      750,
+      885,
+      815
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This Article is brought to you for free and open access by the Child, Youth, and Family Studies, Department of at DigitalCommons@University of Nebraska - Lincoln. It has been accepted for inclusion in Faculty Publications, Department of Child, Youth, and Family Studies by an authorized administrator of DigitalCommons@University of Nebraska - Lincoln. ",
+    "bbox": [
+      116,
+      849,
+      854,
+      905
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "University of Nebraska - Lincoln DigitalCommons@University of Nebraska - Lincoln ",
+    "bbox": [
+      117,
+      132,
+      702,
+      178
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Faculty Publications, Department of Child, Youth, and Family Studies ",
+    "bbox": [
+      114,
+      202,
+      450,
+      233
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2013 ",
+    "bbox": [
+      116,
+      256,
+      161,
+      272
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Child, Youth, and Family Studies, Department of ",
+    "bbox": [
+      501,
+      209,
+      883,
+      226
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Follow this and additional works at: https://digitalcommons.unl.edu/famconfacpub ",
+    "bbox": [
+      116,
+      703,
+      718,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "An Introduction to Latent Variable Mixture Modeling (Part 1): Overview and Cross-Sectional Latent Class and Latent Profile Analyses ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      175,
+      794,
+      265
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Kristoffer S. Berlin,1 Natalie A. Williams,2 and Gilbert R. Parra 3 ",
+    "bbox": [
+      127,
+      280,
+      674,
+      299
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Department of Psychology, University of Memphis   \n2. Department of Child, Youth and Family Studies, University of Nebraska-Lincoln   \n3. Department of Psychology, University of Southern Mississippi ",
+    "bbox": [
+      125,
+      311,
+      669,
+      353
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Corresponding author — Kristoffer S. Berlin, PhD, Department of Psychology, The University of Memphis, 202 Psychology Building, Memphis, TN 38152, USA; email kristoffer.berlin@gmail.com ",
+    "bbox": [
+      127,
+      359,
+      831,
+      385
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      125,
+      404,
+      187,
+      415
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Objective — Pediatric psychologists are often interested in finding patterns in heterogeneous cross-sectional data. Latent variable mixture modeling is an emerging person-centered statistical approach that models heterogeneity by classifying individuals into unobserved groupings (latent classes) with similar (more homogenous) patterns. The purpose of this article is to offer a nontechnical introduction to cross-sectional mixture modeling. ",
+    "bbox": [
+      125,
+      417,
+      870,
+      469
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Method — An overview of latent variable mixture modeling is provided and 2 cross-sectional examples are reviewed and distinguished. ",
+    "bbox": [
+      125,
+      472,
+      869,
+      497
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Results — Step-by-step pediatric psychology examples of latent class and latent profile analyses are provided using the Early Childhood Longitudinal Study–Kindergarten Class of 1998–1999 data file. ",
+    "bbox": [
+      127,
+      500,
+      869,
+      526
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Conclusions — Latent variable mixture modeling is a technique that is useful to pediatric psychologists who wish to find groupings of individuals who share similar data patterns to determine the extent to which these patterns may relate to variables of interest. ",
+    "bbox": [
+      122,
+      526,
+      869,
+      566
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: cross-sectional data analysis, latent class, latent profile, person-centered, statistical analysis, structural equation modeling ",
+    "bbox": [
+      122,
+      574,
+      870,
+      602
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Latent variable mixture modeling (LVMM) is a flexible analytic tool that allows researchers to investigate questions about patterns of data and to determine the extent to which identified patterns relate to important variables. For example, do patterns of co-occurring developmental and medical diagnoses influence the severity of pediatric feeding problems (Berlin, Lobato, Pinkos, Cerezo, & LeLeiko, 2011)? Do differential longitudinal trajectories of glycemic control exist among youth with type 1 diabetes (Helgeson et al., 2010) or do differential trajectories of adherence among youth newly diagnosed with epilepsy exist (Modi, Rausch, & Glauser, 2011), and if so, do psychosocial and demographic variables predict these patterns? Do patterns of perceived stressors among youth with type 1 diabetes differentially affect glycemic control (Berlin, Rabideau, & Hains, 2012)? ",
+    "bbox": [
+      66,
+      656,
+      475,
+      916
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Each of these questions is relevant to pediatric psychology and has been explored using LVMM. The purpose of this two-part article is to offer a nontechnical overview and introduction to cross-sectional (Part 1) and longitudinal mixture modeling (Part 2; Berlin, Parra, & Williams, 2013) to facilitate applications of this promising approach within the field of pediatric psychology. We begin with a general overview of LVMM to highlight notable strengths of this analytic approach, and then provide step-by-step examples illustrating three prominent types of mixture modeling: Latent class, latent profile, and growth mixture modeling. ",
+    "bbox": [
+      503,
+      656,
+      911,
+      851
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Conceptually, LVMM is a person-centered analytic tool that focuses on similarities and differences among people instead of relations among variables (Muthén & Muthén, 1998). The primary goal of LVMM is to identify homogenous subgroups of individuals, with each subgroup possessing a unique set of characteristics that differentiates it from other subgroups. In LVMM, subgroup membership is not observed and must be inferred from the data. ",
+    "bbox": [
+      503,
+      853,
+      911,
+      917
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      485,
+      930,
+      493,
+      940
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Published in Journal of Pediatric Psychology, Advance Access (2013); doi: 10.1093/jpepsy/jst084 Copyright $\\circledcirc$ 2013 Kristoffer S. Berlin, Natalie A. Williams, and Gilbert R. Parra. Published by Oxford University Press on behalf of the Society of Pediatric Psychology. Used by permission. ",
+    "bbox": [
+      65,
+      79,
+      836,
+      127
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Submitted March 1, 2013; revised October 1, 2013; accepted October 24, 2013; published online November 25, 2013. ",
+    "bbox": [
+      66,
+      136,
+      812,
+      150
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      80,
+      495,
+      160
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Most broadly, LVMM refers to a collection of statistical approaches in which individuals are classified into unobserved subpopulations or latent classes. The latent classes are represented by a categorical latent variable. Individuals are classified into latent classes based on similar patterns of observed cross-sectional and/or longitudinal data. For any given variable(s), the observed distribution of values may be a “mixture” of two or more subpopulations whose membership is unknown. As such, the goal of mixture modeling is to probabilistically assign individuals into subpopulations by inferring each individual’s membership to latent classes from the data. As a by-product of mixture modeling, every individual in the data set has his/her own probabilities calculated for his/her membership in all of the latent classes estimated (when summed they equal 1). Latent classes are based on these probabilities, and each individual is allowed fractional membership in all classes to reflect the varying degrees of certainty and precision of classification. Said differently, by adjusting for uncertainty and measurement error, these classes become latent (Asparouhov & Muthén, 2007; Muthén, 2001). ",
+    "bbox": [
+      88,
+      164,
+      495,
+      521
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "LVMM is part of a latent variable modeling framework (Muthén & Muthén, 1998; Muthén, 2001) and is flexible with regard to the type of data that can be analyzed. Observed variables used to determine latent classes can be continuous, censored, binary, ordered/unordered categorical counts, or combinations of these variable types, and the data can be collected in a cross-sectional and/or longitudinal manner (Muthén & Muthén, 1998). Consequently, a diverse array of research questions involving latent classes can be investigated. For example, hypotheses can focus on predicting class membership, identifying mean differences in outcomes across latent classes, or describing the extent to which latent class membership moderates the relationship between two or more variables. The literature has used many names to describe mixture modeling, or finite mixture modeling as it is known in the statistics literature (McLachlan & Peel, 2000). Names vary according to the type of data used for indicators (continuous vs. categorical, akin to cross-sectional latent profile analysis vs. latent class analysis, etc.), whether continuous latent variables are included with categorical latent class variables (cross-sectional factor mixture models, longitudinal growth mixture models), whether the data were collected cross-sectionally or longitudinally (latent class vs. latent transition), and whether variability is allowed within the latent classes (latent class growth modeling vs. growth mixture modeling; Muthén, 2008). Although there are many types of models that can be examined, we begin in Part 1 by focusing on cross-sectional examples using latent class analysis and latent profile analysis. In Part 2, we focus on longitudinal LVMM and present examples of latent class growth modeling and growth mixture modeling. For both articles, we organize our discussion and examples using the four steps recommended by Ram and Grimm (2009): (a) problem definition, (b) model specification, (c) model estimation, and (d) model selection and interpretation. ",
+    "bbox": [
+      88,
+      523,
+      495,
+      931
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      80,
+      931,
+      291
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "An important issue when considering whether to use LVMM is sample size. As with other analytic techniques, the proper sample size is important for obtaining adequate statistical power as well as reducing bias related to parameter and standard error estimates. An insufficient sample size can be particularly problematic when conducting mixture analyses because it is often associated with (a) convergence issues, (b) improper solutions, and (c) the inability to identify small but meaningful subgroups. Unfortunately, determining the sample size needed to conduct a mixture analysis is not straightforward. “Rules of thumb” (e.g., 5 or 10 observations per estimated parameter) are commonly used to justify a particular sample size. However, research indicates that these rules are not particularly useful and likely lead to over- or underestimating sample size requirements (for discussion, see Wolf et al., 2013). This is because “the sample size needed for a study depends on many factors, including the size of the model, distribution of the variables, amount of missing data, reliability of the variables, and strength of the relations among the variables” (Muthén & Muthén, 2002, pp. 599–600). ",
+    "bbox": [
+      522,
+      295,
+      931,
+      654
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In recent years, the Monte Carlo simulation method has emerged as a promising approach for estimating sample size in the context of structural equation modeling in general and LVMM in particular (Muthén & Muthén, 1998–2012, 2002; Wolf et al., 2013). This approach can estimate the sample size needed for a specified model by simulating the analysis a large number of times. Monte Carlo simulation research is likely to be encouraging for pediatric psychologists who do not have large samples because it demonstrates that small samples can be sufficient depending on several factors such as model complexity and missing data (Wolf et al., 2013). Fortunately, several examples of Monte Carlo simulations designed to estimate sample size are currently available (Muthén & Muthén, 1998–2012 [example 12.3 in particular]; see also Muthén & Muthén, 2002; Wolf et al., 2013). ",
+    "bbox": [
+      522,
+      655,
+      931,
+      931
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      387,
+      50,
+      929,
+      63
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      86,
+      51,
+      96,
+      61
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Problem Definition ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      79,
+      214,
+      94
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The problem definition stage includes three steps. The first step is to formulate hypotheses about the nature of unobserved subgroups. This is done by considering theory and previous research. Second, raw individual-level data and descriptive statistics across primary study variables are examined to help researchers determine the best estimator for their data (e.g., maximum likelihood estimation, weighted least-squares estimator for censored or categorical data) and whether there is a need to take into account nesting of data (via multilevel modeling and/or adjusting the standard errors) and non-normal distributions (e.g., through robust strategies, like robust maximum likelihood estimation). The third step is to determine whether to include covariates and allow continuous measures to correlate. For longitudinal LVMM, this step establishes a single-group model that best represents the nature of change over time. If SEM is used, goodness-of-fit statistics and other indices are then reviewed to establish the best way of modeling relationships among study variables. We encourage those interested in an overview of Structural Equation Modeling (SEM) specific to pediatric psychology to review the article by Nelson, Aylward, and Steele (2008). ",
+    "bbox": [
+      66,
+      104,
+      475,
+      481
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Model Specification ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      497,
+      220,
+      512
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In the model specification stage, researchers determine how many classes will be investigated. Ram and Grimm (2009) recommend estimating one more class than is expected. Alternatively, researchers may take an exploratory approach to model specification and estimate as many classes as the data will allow (i.e., additional classes are estimated until a statistically proper and/or practical solution is no longer obtained). The exploratory approach may be more or less justifiable depending on theory and previous research. At this stage, researchers also should decide which parameters are expected to be stable across groups and which parameters are expected to vary across groups. For example, in estimating a latent profile model in which the continuous indicators of the latent class are allowed to correlate, researchers must make decisions about whether the strength/direction of these correlations (and/or covariance and variances) will be freely estimated or fixed to be equal across classes. These decisions can be based on theory, previous research, and/or practical considerations (model convergence, etc.). Generally, more restrictive models (e.g., having various parameters equal across classes) tend to have fewer statistical problems, and as such may be wise starting points for investigators. These initial analyses may then be followed-up by assessing the extent to which freeing parameters (preferably one at a time) affects model fit and the substantive meaning of the solutions obtained. ",
+    "bbox": [
+      66,
+      522,
+      475,
+      931
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      503,
+      80,
+      911,
+      143
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Model Estimation ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      161,
+      638,
+      176
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In this stage, data are fit to models specifying different numbers of classes. Before fitting data to the models, a decision is made about which estimation method will be used. Guidance about the most appropriate estimation method can be found in most introductory SEM texts. ",
+    "bbox": [
+      503,
+      185,
+      911,
+      266
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "One important aspect of model estimation in the context of LVMM is the concept of local maxima or a local solution. In nontechnical terms, this means that care must be taken to ensure that the researcher’s statistical software has provided the “best” solution to estimate how the data fit each particular model. This “best” solution is generally determined by a number called the loglikelihood, with the “best” solution providing the loglikelihood closest to 0, or said differently, being at the maximum (the plural of which is maxima). In the context of LVMM models, multiple maxima of the likelihood often exist, this is in part due to where the software begins the estimation and the start values used. The potential consequence is that the final solution may be a “local solution” and the best given those start values—but not the “best” global solution given a range of possible start values. For all LVMM, it is therefore important to use multiple sets of starting values to find the global maximum (i.e., replicate the highest log-likelihood). Most commercially available software do this automatically, with many providing messages if the loglikelihood is not replicated. If the best log-likelihood value is not replicated in at least two final-stage solutions, this may be a sign of a local solution and/or problems with the model. In cases in which the log-likelihood is not replicated, the investigators should increase the number of random starts until they are confident that they are not at local maxima. ",
+    "bbox": [
+      503,
+      270,
+      911,
+      726
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Model Selection and Interpretation ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      743,
+      771,
+      758
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The final stage of conducting LVMM involves a series of steps to identify the best fitting model. This is one of the most challenging aspects of the analyses and has been described as “an art – informed by theory, past findings, past experience, and a variety of statistical fit indices” (Ram & Grimm, 2009, p. 571). Ram and Grimm (2009) provide a helpful flowchart for making decisions about model selection. Their first step is examining the output of each model estimated for potential problems (e.g., software-generated error messages and warnings, estimation problems, local maxima, negative variances, out-of-range values, correlations $\\mathtt { > } \\pm 1 \\mathtt { \\Gamma }$ ). Second, models with different numbers of classes are compared using information criteria (IC)-based fit statistics. These include the Bayesian Information Criteria (BIC; Schwartz, 1978), Akaike Information Criteria (AIC; Akaike, 1987), and Adjusted BIC (Sclove, 1987). Lower values on these fit statistics indicate better model fit. Third, the accuracy with which models classify individuals into their most likely class is examined. Entropy is a type of statistic that assesses this accuracy, and can range from 0 to 1, with higher scores representing greater classification accuracy. Fourth, statistical model comparison likelihood ratio tests and bootstrapping procedures should be used, such as the Lo–Mendell–Rubin test (LMR; Lo, Mendell, & Rubin, 2001) and the Bootstrap Likelihood Ratio Test (BLRT; McLachlan & Peel, 2000). The LMR and BLRT tests compare the improvement between neighboring class models (i.e., comparing models with two vs. three classes, and three vs. four, etc.) and provide $p$ -values that can be used to determine if there is a statistically significant improvement in fit for the inclusion of one more class. Among the information criterion measures, the BIC is generally preferred, as is the BLRT for statistical model comparisons (Nylund, Asparouhov, & Muthen, 2007). An additional consideration is the size of the smallest class. Although a four-class model might provide the best fit to the data, if this additional class is composed of a relatively small number (e.g., proportionally, $< 1 . 0 \\%$ and/or numerically $n < 2 5$ ) of members, the researcher must be able to defend what is gained by the addition of this class given the possibility of low power and precision relative to the other, larger classes (Lubke & Neale, 2006). In summary, deciding on the number of classes can be difficult, and should involve consideration of the research question, fit indices, the substantive meaning of each solution, parsimony, and/or theory (Bauer & Curran, 2003). ",
+    "bbox": [
+      504,
+      767,
+      911,
+      930
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      66,
+      51,
+      534,
+      63
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      901,
+      51,
+      911,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      83,
+      495,
+      707
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Use of Latent Variables Representing Class Membership ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      728,
+      424,
+      760
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "While describing and determining the optimal number of classes may be of substantive interest, researchers are often interested in investigating hypotheses related to predictors of latent classes and whether there are significant mean differences across the latent classes on outcome variables. These hypotheses will often use “auxiliary” variables that are not included in the model to retain some “independence” between the classes and the variables of interest. If these predictor and/or criterion variables were included in the model, they would influence the formation of the latent classes and would, in essence, become indicators of those latent classes (Asparouhov & Muthén, 2013; Clark & Muthén, 2009). This may or may not be a problem given the research question(s). In those instances in which researchers want to form classes independent of hypothesized predictors or outcomes, a common strategy (after having chosen the preferred model) is to export each individual’s posterior probabilities for each class using the most likely class membership (i.e., the class with the highest/ maximum posterior probability; Nagin, 2005) and then use traditional analyses, such as logistic regression or analysis of variance. This strategy is equivalent to fixing individuals’ probabilities of their highest class to 1 and all others equal to 0. However, this strategy can be problematic because it may introduce error and decrease precision, and by doing so, turns the latent class (which corrects for “error” by modeling this uncertainty) into an observed variable. ",
+    "bbox": [
+      88,
+      768,
+      495,
+      931
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      79,
+      931,
+      390
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "One alternative to analysis of variance and logistic regression using the most likely class membership is posterior probability-based multiple imputation (pseudoclass draws; Asparouhov & Muthén, 2007; Wang, Brown, & Bandeen-Roche, 2005). Pseudo-class draws take into account differing individual probabilities of latent class membership by taking random samples in which individuals are permitted to flip into neighboring classes at a rate specified by the posterior probabilities. Pseudo-class draws are similar to multiple imputation in missing data analysis (Little, Jorgensen, Lang, & Moore, 2013), except in this case, the latent classes are what is missing. Using this strategy, tests of categorical latent variable multinomial logistic regression (to predict classes) and equality tests of means across latent classes (to assess mean differences) can be computed based on pseudo-class draws, thereby providing less biased estimates by retaining the “latent” nature of the classes (Asparouhov & Muthén, 2013; Wang et al., 2005). Simulation studies show that this approach works well when entropy is high and class separation is large (Clark & Muthén, 2009). Although conceptually superior to the maximum posterior probability approach, pseudo-class draws have recently been criticized as potentially attenuating the relations between class and outcomes (Lanza, Tan, & Bray, 2013). Predictors and distal outcomes of latent classes are active areas of inquiry, with some emerging techniques such as the threestep (Asparouhov & Muthén, 2013; Vermunt, 2010) and stepwise (Lanza, Flaherty, & Collins, 2003) approaches showing promise in certain situations in terms of potentially being more robust and less biased than either pseudo-class draws or maximum posterior probability strategies. Interested readers are encouraged to review Asparouhov and Muthén’s 2013 simulations comparing these approaches. All of these approaches are available in Mplus and can be easily implemented by declaring auxiliary variables in the syntax (see Supplementary Data for examples) and placing, for example for pseudoclass draws, either an $\" ( \\mathrm { e } ) ^ { \\prime \\prime }$ for mean difference or a $\" ( \\mathrm { r } ) ^ { \\prime \\prime }$ for predictors of class. Having provided an overview of mixture modeling and strategies to determine the optimal number of classes, we now turn our attention to illustrative examples. The Mplus syntax for these analyses is available in the Supplementary Data. ",
+    "bbox": [
+      522,
+      393,
+      931,
+      933
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      387,
+      50,
+      929,
+      63
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      86,
+      51,
+      96,
+      61
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      80,
+      475,
+      275
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Example Data Participants ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      294,
+      174,
+      324
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Data were obtained from the Early Childhood Longitudinal Study, Kindergarten Class of 1998–1999 (ECLS-K) data file. The ECLS-K is a longitudinal study that followed a nationally representative sample of children, their parents, teachers, and schools from across the United States. Data were collected in the fall and the spring of children’s kindergarten year (1998–1999), the fall and spring of first grade (1999–2000), the spring of third grade (2002), the spring of fifth grade (2004), and the spring of eighth grade (2007). Children in the ECLS-K came from public and private schools and attended both full-day and part-day kindergarten programs. Children also came from diverse socioeconomic and racial/ethnic backgrounds; however, the examples presented later will concentrate on non-Hispanic Black girls and boys, given their heightened risk for obesity/overweight (Davison & Birch, 2001; Ogden, Carroll, Kit, & Flegal, 2012). Child race and gender were assessed during baseline interviews with parents. At the first time point, there were $n = 3 , 1 6 9$ non-Hispanic Black children $5 0 . 2 \\%$ male), and during the eighth-grade assessment, there were $n = 9 5 1$ non-Hispanic Black children $( 5 0 . 4 \\%$ male). ",
+    "bbox": [
+      66,
+      329,
+      475,
+      685
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Measures ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      704,
+      143,
+      718
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Body Mass Index ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      720,
+      194,
+      734
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Heights and weights were assessed at six time points: Fall and spring of the kindergarten year (1998–1999), spring of first grade (1999–2000), spring of third grade (2002), spring of fifth grade (2004), and spring of eighth grade (2007). These data were used to calculate age- and sex-specific body mass index (BMI) scores using tables provided by the Centers for Disease Control and Prevention/National Center for Health Statistics (CDC, 2010). The CDC suggests that BMI is a reliable proxy indicator of adiposity for most children and teens, given research showing that BMI scores correlate to direct measures of body fat (Mei et al., 2002). For descriptive purposes, the present project will employ the ${ \\tt 2 8 5 }$ th to <95th percentile for age- and gender-specific BMI cutoff points for overweight classifications and the ${ \\tt 2 9 5 t h }$ percentile of age- and gender-specific cutoff points for obese weight status classifications (CDC, 2010). In addition, a standardized BMI score (BMI $z$ -score) was calculated for each child participant following guidelines established by the CDC. ",
+    "bbox": [
+      66,
+      737,
+      475,
+      931
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      503,
+      80,
+      911,
+      209
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Socioeconomic Status ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      228,
+      666,
+      242
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The ECLS-K computed a composite standardized socioeconomic status score using information on parent education, occupation, and income that was gathered during parent interviews. Higher scores reflect higher levels of educational attainment, occupational prestige, and income. ",
+    "bbox": [
+      503,
+      244,
+      911,
+      340
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "School Food Environment ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      359,
+      692,
+      373
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The availability of foods at school that are associated with an increased risk for overweight and obesity was assessed by asking youth whether they can purchase sweets (e.g., candy, ice cream, cookies), salty snacks (e.g., potato chips, corn chips, popcorn, crackers), and soda, sports drinks, or fruit drinks that are not $1 0 0 \\%$ juice (e.g., Coke, Gatorade, Hi-C) at their school. ",
+    "bbox": [
+      503,
+      376,
+      911,
+      489
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Dietary Intake ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      507,
+      604,
+      521
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Youth were asked a series of questions assessing how frequently they consumed the following specific foods during meals or as snacks in the 7 days before the survey: (a) milk; (b) $1 0 0 \\%$ fruit juices; (c) soda, sports drinks, or fruit drinks that are not $1 0 0 \\%$ juice; (d) green salad; (e) potatoes, not including French fries, fried potatoes, or potato chips; (f) carrots; (g) vegetables, not including green salad, potatoes, or carrots; and (h) fruit, not including fruit juices. Answer choices for all food items ranged from none (e.g., $^ { \\prime \\prime } \\mathrm { I }$ did not eat carrots during the past 7 days”) to four or more times per day. ",
+    "bbox": [
+      503,
+      523,
+      911,
+      703
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Physical Activity ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      720,
+      620,
+      734
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Four questions included in the eighth-grade child questionnaire assessed engagement in physical activity. Youth were asked if they participated in school sports during the current school year (answer choices were “Did not participate” and two options we combined, “Participated”, and “Participated as an officer, leader, or captain”). Youth also indicated the frequency of their engagement in nonschool sports (“Rarely or never,” “Less than once a week,” “Once or twice a week,” or “Every day or almost every day”). Days of exercise was determined by asking youth to indicate how many of the past 7 days they exercised or participated in vigorous physical activity for a minimum of $2 0 \\ \\mathrm { m i n }$ (range: 0–7 days). Days of physical education classes was determined by responses to a question asking youth to select the number of days (ranging from 0 to 5) they attend physical education classes during an average week when they are in school. ",
+    "bbox": [
+      503,
+      737,
+      911,
+      931
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      66,
+      50,
+      534,
+      63
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      51,
+      911,
+      61
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      80,
+      495,
+      176
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Sedentary Behavior ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      195,
+      232,
+      209
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Sedentary behavior habits were determined by three, two-part questions on the ECLS-K child survey. These questions asked youth to indicate how many hours per day they usually spend watching television (including videotapes and DVDs), playing computer or video games, and using the Internet, on weekdays and weekends. Youth were also asked to indicate (Yes or No) whether they have a television in their bedroom. ",
+    "bbox": [
+      86,
+      212,
+      495,
+      340
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Cross-Sectional Latent Variable Mixture Model Examples ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      359,
+      449,
+      390
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "For our examples, all models were estimated in Mplus version 7 (Muthén & Muthén, 1998–2012), under missing data theory using all available data and robust (Full Information) maximum likelihood estimation. This strategy for handling missing data is a modern method of modeling with missing data that makes use of all available data points (see Little et al., 2013). This approach also adjusts the standard errors and scales chi-square statistics to account for non-normally distributed data. Alternative modern approaches to handling missing data were considered but not chosen because they are not available within a mixture modeling framework (i.e., using auxiliary variables to predict missingness in conjunction with Full Information Maximum Likelihood) or would limit the availability of indices to determine the optimal number of classes (e.g., model comparison tests are not available with multiple imputation techniques). ",
+    "bbox": [
+      86,
+      392,
+      495,
+      686
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Latent Class Analysis Example ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      704,
+      328,
+      718
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The goal of latent class analysis is to classify individuals from a heterogeneous population into smaller, more homogenous, subgroups called latent classes. Because individuals’ memberships in latent classes are not observed directly, they must be inferred from their individually varying patterns of responses present in the data. Latent class models can be depicted graphically (see Figure $^ { 1 , }$ where c is a categorical latent variable, which gives rise (points) to the binary indicators. The arrows pointing from c to the variables imply that the item probabilities/thresholds vary across the latent classes of $^ { \\prime \\prime } { \\mathrm { c } } ^ { \\prime \\prime } .$ ). We now provide a step-by-step description of a latent class analysis. ",
+    "bbox": [
+      86,
+      720,
+      495,
+      933
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7860274/auto/images/cef1b934a8788f7916ddde20e52e74f261b28ab718c2c754c34ae78dda515702.jpg",
+    "image_caption": [
+      "Figure 1. A graphical representation of a latent class model. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      532,
+      79,
+      923,
+      306
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Problem Definition ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      343,
+      658,
+      357
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The availability of sweet and salty snacks and sugarsweetened beverages in the schools (Hollar et al., 2010; Fox, Dodd, Wilson, & Gleason, 2009), participation in physical activities (Janssen & Leblanc, 2010), and television in a child’s room (Feng, Reed, Esperat, & Uchida, 2011; Dennison, Erb, & Jenkins, 2002) have been associated with weight status in children and adolescents. The extent to which individually varying patterns across the presence versus absence factors exist and contribute to higher BMI among non-Hispanic Black youth is unclear, hence the purpose of this example. ",
+    "bbox": [
+      522,
+      359,
+      931,
+      539
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Model Specification ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      556,
+      666,
+      570
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "An exploratory approach was taken to identify the number of school/home obesity risk environment latent classes that may exist for Black youth in the eighth grade. Latent classes with higher probabilities of risk were hypothesized to have higher BMI values. Because gender differences in BMI values were expected, gender was included in the model to control for this potential confound. The influence of gender on binary latent class indicators was assumed to be equal across classes. Because variables included in the estimation of latent classes influence the formation of these classes, BMI was considered as an auxiliary variable. ",
+    "bbox": [
+      522,
+      573,
+      931,
+      767
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Model Estimation ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      786,
+      650,
+      800
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Several models were fit to the data, specifying one through four latent classes. The IC, entropy, and likelihood ratio tests are presented in Table I. For each model $k$ number of classes), replication of the best log-likelihood was verified to avoid local maxima. For models with greater than two classes, it was verified that the null model (k-1) log-likelihood for the BLRT tests was equal to the best log-likelihood value of the model with one less class. In Mplus, the three- and four-class solution generated the following error messages: “one or more parameters were fixed to avoid singularity of the information matrix. The singularity is most likely because the mode is not identified, or because of empty cells in the join distribution of the categorical variables in the model.” Because none of the youth in Class 1 and all of the youth in Class 2 participated in school sports, there was no variability in these two estimates, so the standard error of their respective thresholds was fixed to 0. Too many of these “boundary estimates” may be a sign of local maximum, and/or the extraction of too many classes (Geiser, 2012). Furthermore, the log-likelihood was not replicated initially. To address this issue, the number of initial and final stage random sets of starting values was increased, resulting in a model in which the log-likelihood value was replicated four times. ",
+    "bbox": [
+      522,
+      803,
+      931,
+      933
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      385,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      84,
+      51,
+      96,
+      61
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_7860274/auto/images/de4626e2155f7a44fbbb08dd41df1e4d119774b1211d9a63c9b56731814df5ee.jpg",
+    "table_caption": [
+      "Table I. Latent Class Example: Information Criteria, Entropy, Likelihood Ratio Tests, and Tests of Mean Differences Across Classes, Average Class Probabilities for Most Likely Class Membership by Latent Class "
+    ],
+    "table_footnote": [
+      "AIC $=$ Akaike Information Criterion; BIC $=$ Bayesian Information Criterion; SSA-BIC $=$ Sample-Size-Adjusted BIC; LMR $=$ Lo– Mendell–Rubin test; BLRT $=$ Bootstrap Likelihood Ratio Test. $N = 9 5 2$ . "
+    ],
+    "table_body": "<table><tr><td>Fit statistics</td><td>1 Class</td><td>2 Class</td><td>3 Class</td><td>4 Class</td></tr><tr><td>Log-likelihood (number of replications)</td><td>-2,575.487 (50/50)</td><td>-2,446.885 (50/50)</td><td>-2,439.481 (43/50)</td><td>-2,436.700 (4/100)</td></tr><tr><td>AIC</td><td>5,164.97</td><td>4,919.77</td><td>4,916.96</td><td>4,915.40</td></tr><tr><td>BIC</td><td>5,198.98</td><td>4,982.93</td><td>5,009.28</td><td>5,017.43</td></tr><tr><td>SSA-BIC</td><td>5,176.75</td><td>4,941.64</td><td>4,948.93</td><td>4,950.74</td></tr><tr><td>Entropy</td><td>N/A</td><td>0.66</td><td>0.79</td><td>0.83</td></tr><tr><td>LMR test</td><td>N/A</td><td>251.10</td><td>14.46</td><td>5.46</td></tr><tr><td>LMR, p-value</td><td>N/A</td><td>&lt;0.0001</td><td>0.01</td><td>0.55</td></tr><tr><td>BLRT test</td><td>N/A</td><td>257.20</td><td>14.81</td><td>5.56</td></tr><tr><td>BLRT p-value for</td><td>NA</td><td>&lt;0.0001</td><td>0.05</td><td>0.72</td></tr><tr><td>Error messages?</td><td>No</td><td>No</td><td>Yes</td><td>Yes</td></tr><tr><td>Z-BMI differences across class</td><td>N/A</td><td colspan=\"3\">x² (1)= 0.09,p = 0.77 x² (2) = 3.940,p = 0.14 x² (3)= 3.984,p = 0.26</td></tr><tr><td>Two-class model</td><td>1</td><td>2</td><td></td><td></td></tr><tr><td>1, n = 258.9, 27.1%</td><td>0.885</td><td>0.115</td><td></td><td></td></tr><tr><td>2, n = 693.1,72.8%</td><td>0.088</td><td>0.912</td><td></td><td></td></tr><tr><td>Three-class model</td><td>1</td><td>2</td><td>3</td><td></td></tr><tr><td>1, n = 82.23, 8.6%</td><td>0.861</td><td>0.000</td><td>0.139</td><td></td></tr><tr><td>2,n = 173.2,18.1%</td><td>0.009</td><td>0.873</td><td>0.118</td><td></td></tr><tr><td>3, n = 696.6, 73.2%</td><td>0.017</td><td>0.068</td><td>0.915</td><td></td></tr><tr><td>Four-class model</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1, n = 82.12, 8.63%</td><td>0.860</td><td>0.000</td><td>0.129</td><td>0.011</td></tr><tr><td>2, n = 143.7, 15.1%</td><td>0.011</td><td>0.867</td><td>0.115</td><td>0.007</td></tr><tr><td>3,n = 693.6, 72.9%</td><td>0.018</td><td>0.057</td><td>0.917</td><td>0.008</td></tr><tr><td>4, n = 32.6, 3.4%</td><td>0.000</td><td>0.000</td><td>0.138</td><td>0.862</td></tr></table>",
+    "bbox": [
+      63,
+      112,
+      913,
+      491
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      565,
+      475,
+      843
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Model Selection and Interpretation ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      862,
+      316,
+      877
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Determining the optimal class solution is not typically a clear-cut process, as researchers must often reconcile conflicts between the various indices and/or their guiding theories. To determine the most optimal number of classes for our example, we began by reviewing the IC indices [AIC, BIC, and sample-size-adjusted (SSA)- BIC] presented in Table I. The various indices each suggested a different optimal number of classes, with the BIC, AIC, and SSA-BIC suggesting a three-, four-, and two-class model, respectively. Statistical model comparisons (the LMR and BLRT) in this case both suggested that the three-class model provides a significantly better fit than a two-class model, and that a four-class model does not provide a statistically significant improvement over the three-class model. On inspection of Figure 2, it appeared that the four-class model contributes one additional small class with about $3 . 4 \\%$ of the sample. ",
+    "bbox": [
+      66,
+      878,
+      473,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      566,
+      911,
+      794
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Other tools to aid in model selection include the entropy values and mean class assignment probabilities (Table I). For our example, the best entropy value was for the four-class model. On review of the average class (diagonal) probabilities, all were more than 0.85, suggesting some degree of adequacy. In the three-class model, there appears to be a relatively higher proportion of youth in Class 3 whose most likely class is not Class 3. The differences across these values for a three- versus four-class model appeared negligible. This, coupled with a preference for the BIC, BLRT values, and parsimony, led us (with these data and no compelling theoretical constraints) to choose a three-class model. If additional validity or cross-validation data were available for this example, they could be used to support our decision. Validity data could come in the form of theoretically important predictors of classes and/or mean differences in variables thought to be important in distinguishing the classes. ",
+    "bbox": [
+      503,
+      796,
+      911,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      65,
+      50,
+      534,
+      63
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      901,
+      51,
+      911,
+      60
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7860274/auto/images/d6c46bb9413c08e61e9e3b20422fc2158e22635ee7703c934e47cb4eaa3c62e4.jpg",
+    "image_caption": [
+      "Figure 2. One-, two-, three-, and four-class models of home and school obesity risk. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      150,
+      95,
+      879,
+      808
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      851,
+      495,
+      931
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      851,
+      933,
+      933
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      385,
+      51,
+      929,
+      63
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      84,
+      51,
+      96,
+      61
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Having decided on the three-class model, the next step is to interpret these classes. As the indicators are binary (yes/no), the values in Figure 2 can be interpreted as the percent of that class’ members who positively endorsed that particular item. For example, the majority of participants reported that they had televisions in their rooms (see one-class model: $8 7 \\%$ ). As such and given the patterns of risk, the largest class was named High Environmental/Moderate Behavioral Risk (Class 3, $7 3 \\%$ of sample), which was characterized by high rates of television in bedrooms $( 8 7 \\% )$ , moderate levels of school sport participation $( 4 3 \\% ) _ { \\cdot }$ , and the highest availability of sweet/salty snacks and drinks at school (between $7 5 \\%$ and $9 3 \\%$ ). The second largest class (Class $2 , 1 8 \\%$ ), named Low Environmental/High Behavioral Risk, was characterized by having a television in the bedroom $( 8 3 \\% )$ , no school sport participation $( 0 \\% )$ , and the low to moderate availability of sweet/salty snacks $( 2 8 \\% / 3 3 \\% )$ and drinks at school $( 3 8 \\% )$ . The smallest class (Class $1 , 9 \\%$ ) was named Low Environmental/Low Behavioral Risk, characterized by having a television in the bedroom $( 9 1 \\% )$ , high participation in school sports $( 1 0 0 \\% )$ , and the lowest availability of sweet/salty snacks $( 2 8 \\% / 3 3 \\% )$ and drinks $( 3 8 \\% )$ at school. For our example data, it was hypothesized that these differential risk patterns are associated with different BMI $z$ -scores; however, no overall differences were found with regard to BMI $z$ -scores for the three-class model $( x ^ { 2 } ( 2 ) = 3 . 9 4 0 .$ , $p = 0 . 1 4 )$ ): Class $1 \\ M = 1 . 0 5 ,$ , $S E = 0 . 1 3$ ; Class 2: $M = 0 . 7 9$ , $S E = 0 . 0 9 ;$ and Class 3: $M = 0 . 9 2$ , $S E = 0 . 0 4$ . This suggests that the impact of these factors might be small in magnitude given their distal influence and/or that a more comprehensive assessment of these constructs is needed (rather than yes/no answers to single items). ",
+    "bbox": [
+      66,
+      84,
+      475,
+      638
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Latent Profile Analysis Example ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      655,
+      315,
+      670
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The goal of latent profile analysis is to classify individuals from a heterogeneous population into smaller, more homogenous subgroups based on individuals’ values on continuous variables. It is important to note that extensions of latent profiles are not limited to continuous variables, but can include combinations of continuous, count, and categorical variables as indicators of latent class, as well as allowing these indicators to relate to one another. While mixture models are flexible with regard to the inclusion of noncontinuous variables, this tends to increase model complexity and may introduce issues with convergence if the scales are too dissimilar. Similar to an Latent Class Analysis (LCA), a latent profile model can be depicted graphically (Figure 3), where the arrows pointing from the categorical latent variables $ { { } ^ { \\prime \\prime } } { } _ { \\mathrm { C } }  { { } ^ { \\prime \\prime } }$ to the variables implies that the item means of continuous indicators can vary across the latent classes of ${ { \\bf \\Pi } ^ { \\prime \\prime } } _ { \\bf C }$ .” Below, we illustrate an example of a latent profile analysis, using the last wave of data collection. ",
+    "bbox": [
+      66,
+      671,
+      475,
+      946
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      503,
+      80,
+      910,
+      111
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Problem Definition ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      130,
+      637,
+      143
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Low levels of physical activity, high rates of sedentary behavior (playing video games, watching television, etc.), and suboptimal nutrition (fast food with little fruit/vegetable intake, consumption of sugar-sweetened soda, etc.) are associated with increased adiposity in youth (Davison & Birch, 2001). The extent to which individually varying patterns of risk across these variables exist and relate to youth’s BMI, gender, and Socioeconomic Status (SES) is unclear. ",
+    "bbox": [
+      503,
+      146,
+      911,
+      291
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Model Specification ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      310,
+      645,
+      324
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "An exploratory approach was taken to identify patterns of physical activity, sedentary behaviors, and nutritional risk that may exist for non-Hispanic Black youth in the eighth grade. Latent profiles characterized by low physical activity, high sedentary behavior, and suboptimal nutrition are hypothesized to have higher BMI. To determine the extent to which SES and gender predict latent class, pseudo-class draws were used for a posteriorprobability-based multinomial logistic regression of the latent class variable on SES and gender. Pseudo-class draws and equality tests of means via the chi-square statistic were used to determine differences in BMI $z \\cdot$ -scores across the latent classes. ",
+    "bbox": [
+      503,
+      327,
+      911,
+      537
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Model Estimation ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      556,
+      629,
+      570
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Several models were fit to the data, specifying one through four latent profiles. Data were not transformed or standardized for these analyses. The IC, entropy, and likelihood ratio tests are presented in Table II. For each model, replication of the best log-likelihood was verified to avoid local maxima. For models with more than two classes, it was verified that the null model log-likelihood for the BLRT tests was equal to the best log-likelihood value of the model with one less class. ",
+    "bbox": [
+      503,
+      573,
+      911,
+      718
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Model Selection and Interpretation ",
+    "text_level": 1,
+    "bbox": [
+      503,
+      737,
+      753,
+      751
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The IC indices (AIC, BIC, and SSA-BIC) are presented in Table II, all suggested that four or more classes were preferred. Consistent with the IC, the BLRT suggested that each successive model above a one-class model provided statistical improvement (e.g., four-class was better than a three-class, which was better than a two-class, model). The LMR test, however, suggested that a one-class model was the preferred solution. At this point, review of the entropy, interpretability of the various solutions, sample sizes, and theoretical considerations is useful. ",
+    "bbox": [
+      503,
+      753,
+      911,
+      915
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For our example, all entropy values were acceptable with the two- and three-class solutions having the highest values. The diagonal class probabilities presented in Table II were all acceptable and ranged from 0.903 to $0 . 9 9 4 ,$ averaging 0.973, 0.970, and 0.946 (diagonals), and off-diagonal averages of 0.03, 0.02, and 0.02, for the two-, three-, and four-class solutions, respectively. These values suggest either a two- or three-class model. While the data were modeled in their original scales, these profiles are presented in Figure 2 using $z \\cdot$ -scores given the large differences in scales of measurement. Unlike the previous latent class example, the values plotted in the figure represent the means of each indicator (rather than the percentage of class members endorsing a particular item). On inspection of Figure 2 and class sample sizes in Table II, it appears that the four-class model contributes one additional small class $( n = 1 8 . 1 )$ ) consisting of about $1 . 9 \\%$ of the sample that is marginally different from the other classes. Although not presented here, researchers interested in the statistical differences across the means of each profile/class’s indicators could treat additional copies of these variables as auxiliary, and conduct the appropriate statistical tests for equality of means. All things considered, the three-class model was chosen based on the fit statistics, data, sample size, and parsimony. Although more classes may provide a statistical benefit, a three-class model is adequate. ",
+    "bbox": [
+      503,
+      917,
+      911,
+      948
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      66,
+      51,
+      534,
+      63
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      901,
+      51,
+      911,
+      60
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      82,
+      495,
+      488
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The largest class was named Average Activity, Moderate Screen, Above Average Diet (Class 1, $8 9 . 4 \\%$ ). The second largest (Class 2, $8 . 3 \\%$ ) was named Average Risk/ Resource, as the majority of the scores were around a $z$ -score of 0. The smallest class (Class 3, $2 . 3 \\%$ ) named Mixed Risk/Resource was an unusual mix of high levels of school sports, screen-time, salad, and soda. For our example data, it was hypothesized that differential risk patterns may be associated with different BMI $z$ -scores; however, no differences were found overall with regard to BMI $z$ -scores for the three-class model, $\\chi ^ { 2 } \\left( 2 \\right) = 0 . 2 9 , p$ $= 0 . 8 7 .$ . With regard to predictors of latent class, classes were equal in terms of gender $( p$ ranged from 0.15 to 0.98), and the Mixed Risk/Resource Class had lower reported SES $( p = 0 . 0 4 )$ relative to Average Risk/Resource. ",
+    "bbox": [
+      522,
+      80,
+      931,
+      325
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      343,
+      620,
+      356
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "LVMM is a powerful yet underutilized research tool. Practical guidance for conducting LVMM analyses may facilitate the use of this analytic technique by pediatric psychologists. This article was designed to provide pediatric psychologists with step-by-step instructions for carrying out two types of LVMMs. Concrete examples of latent class analysis and latent profile analysis were described. For each of these examples, we delineated the specific procedures for conducting the analyses and discussed key decisions researchers often must make to estimate an LVMM. We also highlighted several issues/challenges that often arise at different stages of the model fitting processes and provided possible solutions. We hope the latter information will facilitate researchers’ ability to work through common mixture modeling problems. It is important to note that LVMM, like all analytic techniques, has limitations. These include difficulties deciding on the most optimal number of classes, model convergence issues, and the need for relatively large sample sizes. Important other considerations that are relevant to pediatric psychology research and LVMM include, but are not limited to, small pediatric sample sizes, heterogeneity of important sample factors (i.e., different types of cancer, injury, age-range), timevarying assessments, time-varying covariates (such as surgery, medication), and clustering of nonindependent individuals in certain contexts (i.e., group interventions, families), and nonrandom attrition (such as due to mortality). Although beyond the scope of this introduction, many of these considerations (time-varying assessments/covariates, nesting, censored data, sample heterogeneity, etc.) can either be modeled directly or as a research question that lends itself to an LVMM (illness and demographic heterogeneity). Despite these limitations and considerations, we believe that LVMM is an analytic tool that can be useful to pediatric psychologists who wish to identify subgroups of individuals who share similar data patterns and determine the extent to which subgroup membership relates to variables of interest. ",
+    "bbox": [
+      522,
+      359,
+      931,
+      489
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7860274/auto/images/bd6b40b4c4cdf8e6885fd4aa85eaaaba950cc7de6c2e1b4a1d968afdc8fbb4e7.jpg",
+    "image_caption": [
+      "Figure 3. Two-, three-, and four-class models of physical activity, sedentary behaviors, and nutritional obesity risk behaviors. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      225,
+      525,
+      797,
+      904
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      387,
+      50,
+      929,
+      63
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      102,
+      61
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      80,
+      475,
+      242
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      503,
+      80,
+      911,
+      242
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7860274/auto/images/caa62d9464af74541d21cb6668af9fd8f8ee522f08956ee40bb01aae6b9d2a01.jpg",
+    "image_caption": [
+      "Figure 3. Continued. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      147,
+      265,
+      843,
+      914
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      65,
+      50,
+      534,
+      63
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      895,
+      51,
+      910,
+      61
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_7860274/auto/images/cca92f19f5f4f7959e6c34a575b7b0af34c95670533726ad90e61cf11d8c62eb.jpg",
+    "table_caption": [
+      "Table II. Latent Profile Example: Information Criteria, Entropy, Likelihood Ratio Tests, and Tests of Mean Differences Across Classes; Average Class Probabilities "
+    ],
+    "table_footnote": [
+      "AIC $=$ Akaike Information Criterion; BIC $=$ Bayesian Information Criterion; SSA-BIC $=$ Sample-Size-Adjusted BIC; LMR $=$ Lo– Mendell–Rubin test; BLRT $=$ Bootstrap Likelihood Ratio Test. $N = 9 5 2$ . "
+    ],
+    "table_body": "<table><tr><td>Fit statistics</td><td>1 Class</td><td>2 Class</td><td>3 Class</td><td>4 Class</td></tr><tr><td>Log-likelihood (number of replications)</td><td>-34,735.728</td><td>-34,175.709 (8/10)</td><td>-33,724.719 (2/100)</td><td>-33,424.066 (8/20)</td></tr><tr><td>AIC</td><td>69,547.456</td><td>68,471.417</td><td>67,613.438</td><td>67,056.132</td></tr><tr><td>BIC</td><td>69,732.042</td><td>68,762.868</td><td>68,011.754</td><td>67,561.314</td></tr><tr><td>SSA-BIC</td><td>69,611.355</td><td>68,572.311</td><td>67,751.326</td><td>67,231.015</td></tr><tr><td>Entropy</td><td>N/A</td><td>0.967</td><td>0.969</td><td>0.931</td></tr><tr><td>LMR test</td><td>N/A</td><td>1,112.663</td><td>896.040</td><td>597.347</td></tr><tr><td>LMR, p-value</td><td>N/A</td><td>0.2914</td><td>0.1277</td><td>0.7109</td></tr><tr><td>BLRT test</td><td>N/A</td><td>1,120.039</td><td>901.979</td><td>601.306</td></tr><tr><td>BLRT p-value for</td><td>NA</td><td>&lt;0.0001</td><td>&lt;0.0001</td><td>&lt;0.0001</td></tr><tr><td>Two-class model</td><td>1</td><td>2</td><td></td><td></td></tr><tr><td>1, n = 886.7, 93.3%</td><td>0.994</td><td>0.006</td><td></td><td></td></tr><tr><td>2, n = 64.3, 6.7%</td><td>0.049</td><td>0.951</td><td></td><td></td></tr><tr><td>Three-class model</td><td>1</td><td>2</td><td>3</td><td></td></tr><tr><td>1,n = 850.5, 89.4%</td><td>0.937</td><td>0.063</td><td>0.000</td><td></td></tr><tr><td>2, n = 79.3, 8.3%</td><td>0.007</td><td>0.992</td><td>0.001</td><td></td></tr><tr><td>3,n = 21.2, 2.3%</td><td>0.000</td><td>0.020</td><td>0.980</td><td></td></tr><tr><td>Four-class model</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1,n = 753.4, 79.2%</td><td>0.975</td><td>0.017</td><td>0.008</td><td>0.000</td></tr><tr><td>2, n = 100.3,10.5%</td><td>0.090</td><td>0.903</td><td>0.006</td><td>0.001</td></tr><tr><td>3,n = 79.1, 8.3%</td><td>0.062</td><td>0.012</td><td>0.924</td><td>0.002</td></tr><tr><td>4, n = 18.1, 1.9%</td><td>0.012</td><td>0.001</td><td>0.006</td><td>0.980</td></tr></table>",
+    "bbox": [
+      83,
+      109,
+      931,
+      462
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      539,
+      493,
+      710
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Supplementary Data is presented following the References. ",
+    "bbox": [
+      86,
+      728,
+      495,
+      758
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      775,
+      174,
+      790
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Akaike, H. (1987). Factor analysis and AIC. Psychometrika, 52, 317–332; doi:10.1007/BF02294359 ",
+    "bbox": [
+      86,
+      806,
+      454,
+      838
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Asparouhov, T., & Muthén, B.O. (2007, November 16). Wald test of mean equality for potential latent class predictors in mixture modeling [Online technical appendices]. Online: http://www.statmodel.com/ download/MeanTest1.pdf ",
+    "bbox": [
+      88,
+      842,
+      488,
+      922
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Asparouhov, T., & Muthén, B. (2013, February 7). Auxiliary variables in mixture modeling: A 3-step approach using Mplus [Online web notes]. Online: http://statmodel.com/examples/webnotes/Aux-Mixture_submitted_corrected_webnote.pdf ",
+    "bbox": [
+      522,
+      540,
+      923,
+      619
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Bauer, D. J., & Curran, P. J. (2003). Over extraction of latent trajectory classes: Much ado about nothing? Reply to Rindskopf (2003), Muthén (2003), and Cudeck and Henly (2003). Psychological Methods, 8, 384–393; doi: 10.1037/1082-989X.8.3.384 ",
+    "bbox": [
+      522,
+      625,
+      926,
+      704
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Berlin, K. S., Lobato, D. J., Pinkos, B., Cerezo, C., & Le-Leiko, N. S. (2011). Patterns of medical and developmental comorbidities among children presenting with feeding problems: A latent class analysis. Journal of Developmental and Behavioral Pediatrics, 32, 41– 47; doi: 10.1097/DBP.0b013e318203e06d ",
+    "bbox": [
+      522,
+      708,
+      921,
+      805
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Berlin, K. S., Parra, G. R., & Williams, N. A. (2013). An Introduction to latent variable mixture modeling (Part 2): Longitudinal latent class growth and growth mixture models. Journal of Pediatric Psychology, Advance online publication; doi: 10.1093/jpepsy/ jst085 ",
+    "bbox": [
+      522,
+      809,
+      928,
+      890
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Berlin, K. S., Rabideau, E. M., & Hains, A. A. (2012). Empirically derived patterns of perceived stress among ",
+    "bbox": [
+      522,
+      893,
+      929,
+      926
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      385,
+      50,
+      931,
+      63
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      102,
+      61
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "youth with type 1 diabetes and relationships to metabolic control. Journal of Pediatric Psychology, 37, 990– 998; doi: 10.1093/jpepsy/jss080   \nCenters for Disease Control and Prevention, U.S. Department of Health and Human Services, National Center for Health Statistics. (2010). CDC growth charts. Online: http://www.cdc.gov/growthcharts/   \nClark, S., & Muthén, B. (2009). Relating latent class analysis results to variables not included in the analysis. Online: https://www.statmodel.com/download/relatinglca.pdf   \nDavison, K. K., & Birch, L. L. (2001). Childhood overweight: A contextual model and recommendations for future research. Obesity Reviews, 2, 159–171; doi: 10.1046/j.1467789x.2001.00036.x   \nDennison, B. A., Erb, T. A., & Jenkins, P. L. (2002). Television viewing and television in bedroom associated with overweight risk among low-income preschool children. Pediatrics, 109, 1028–1035; doi: 10.1542/ peds.109.6.1028   \nFeng, D., Reed, D. B., Esperat, M. C., & Uchida, M. (2011). Effects of TV in the bedroom on young Hispanic children. American Journal of Health Promotion, 25, 310–318; doi: 10.4278/ajhp.080930- QUAN-228   \nFox, M. K., Dodd, A. H., Wilson, A., & Gleason, P. M. (2009). Association between school food environment and practices and body mass index of US public school children. Journal of the American Dietetic Association, 109, 108–117; doi: 10.1016/ j.jada.2008.10.065   \nGeiser, C. (2012). Data analysis with Mplus. New York, NY: Guilford.   \nHelgeson, V. S., Snyder, P. R., Seltman, H., Escobar, O., Becker, D., & Siminerio, L. (2010). Brief report: Trajectories of glycemic control over early to middle adolescence. Journal of Pediatric Psychology, 35, 1161–1167; doi: 10.1093/jpepsy/jsq011   \nHollar, D., Messiah, S. E., Lopez-Mitnik, G., Hollar, T. L., Almon, M., & Agatston, A. S. (2010). Healthier options for public schoolchildren program improves weight and blood pressure in 6-to 13-year-olds. Journal of the American Dietetic Association, 110, 261–267; doi: 10.1016/j.jada.2009.10.029   \nJanssen, I., & LeBlanc, A. G. (2010). Review systematic review of the health benefits of physical activity and fitness in school-aged children and youth. International Journal of Behavioral Nutrition and Physical Activity, 7, 40; doi: 10.1186/1479-5868-7-40   \nLanza, S. T., Flaherty, B. P., & Collins, L. M. (2003). Latent class and latent transition analysis. In J. A. Schinka, & W. F. Velicer, eds., Handbook of psychology: Research methods in psychology (pp. 663– 685). Hoboken, NJ: Wiley.   \nLanza, S. T., Tan, X., & Bray, B. C. (2013). Latent class analysis with distal outcomes: A flexible modelbased approach. Structural Equation Modeling: A Multidisciplinary Journal, 20, 1–26; doi: 10.1080/ 10705511.2013.742377   \nLittle, T. D., Jorgensen, T. D., Lang, K. M., & Moore, W. G. (2013) On the joys of missing data. Journal of Pediatric Psychology, Advance online publication; doi: 10.1093/jpepsy/jst048   \nLo, Y., Mendell, N., & Rubin, D. (2001). Testing the number of components in a normal mixture. Biometrika, 88, 767–778; doi: 10.1093/biomet/88.3.767   \nLubke, G. H., & Neale, M. C. (2006). Distinguishing between latent classes and continuous factors: Resolution by maximum likelihood. Multivariate Behavioral Research, 4, 499–532; doi: 10.1207/ s15327906mbr4104_4   \nMcLachlan, G., & Peel, D. (2000). Finite mixture models. New York, NY: Wiley.   \nMei, Z., Grummer-Strawn, L. M., Pietrobelli, A., Goulding, A., Goran, M. I., & Dietz, W. H. (2002). Validity of body mass index compared with other body-composition screening indexes for the assessment of body fatness in children and adolescents. American Journal of Clinical Nutrition, 75, 978–985.   \nModi, A. C., Rausch, J. R., & Glauser, T. G. (2011). Patterns of nonadherence to antiepileptic drug therapy in children with newly diagnosed epilepsy. JAMA, 305, 1669–1676; doi: 10.1001/jama.2011.506   \nMuthén, B. (2001). Latent variable mixture modeling. In G. A. Marcoulides, & R. E. Schumacker, eds., New developments and techniques in structural equation modeling (pp. 1–33). Mahwah, NJ: Lawrence Erlbaum Associates.   \nMuthén, B. (2008). Latent variable hybrids: Overview of old and new models. In G. R. Hancock, & K. M. Samuelsen, eds., Advances in latent variable mixture models (pp. 1–24). Charlotte, NC: Information Age Publishing, Inc.   \nMuthén, L. K., & Muthén, B. O. (1998–2012). Mplus user’s guide (7th ed.). Los Angeles, CA: Muthén & Muthén.   \nMuthén, L. K., & Muthén, B. O. (2002). How to use a Monte Carlo study to decide on sample size and determine power. Structural Equation Modeling, 9, 599–620.   \nNagin, D. S. (2005). Group-based modeling of development. Cambridge, MA: Harvard University Press.   \nNelson, T. D., Aylward, B. S., & Steele, R. G. (2008). Structural equation modeling in pediatric psychology: Overview and review of applications. Journal of Pediatric Psychology, 33, 679–687; doi: 10.1093/ jpepsy/jsm107   \nNylund, K. L., Asparouhov, T., & Muthen, B. (2007). Deciding on the number of classes in latent class analysis and growth mixture modeling. A Monte Carlo simulation study. Structural Equation Modeling, 14, 535–69; doi: 10.1080/10705510701575396   \nOgden, C. L., Carroll, M. D., Kit, B. K., & Flegal, K. M. (2012). Prevalence of obesity and trends in body mass index among US children and asolescents, 1999–2010. Journal of the American Medical Association, 307, 483– 490; doi:10.1001/jama. 2012.40   \nRam, N., & Grimm, K. J. (2009). Growth mixture modeling: A method for identifying difference in longitudinal change among unobserved groups. International Journal of Behavioral Development, 33, 565–576; doi: 10.1177/0165025409343765   \nSchwartz, G. (1978). Estimating the dimension of a model. The Annals of Statistics, 6, 461–464; doi: 10.1214/aos/1176344136 ",
+    "bbox": [
+      65,
+      53,
+      477,
+      928
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      73,
+      911,
+      930
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "I n t r o d u c t i o n t o L at e n t V a r i a b l e M i x t u r e M o d e l i n g ( P a r t 1 ) ",
+    "bbox": [
+      65,
+      50,
+      534,
+      64
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      895,
+      51,
+      911,
+      63
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      83,
+      80,
+      495,
+      467
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Sclove, L. (1987). Application of model-selection criteria to some problems in multivariate analysis. Psychometrika, 52, 333–343; doi: 10.1007/BF02294360 Vermunt, J. K. (2010). Latent class modeling with covariates: Two improved three-step approaches. Political Analysis, 18, 450–469; doi: 10.1093/pan/mpq025 Wang, C. P., Brown, C. H., & Bandeen-Roche, K. (2005). Residual diagnostics for growth mixture models: Examining the impact of preventive intervention on multiple trajectories of aggressive behavior. Journal of the American Statistical Association, 100, 1054–1076; doi: 10.1198/016214505000000501 Wolf, E. J., Harrington, K. M., Clark, S. L., & Miller, M. W. (2013). Sample size requirements for structural equation models an evaluation of power, bias, and solution propriety. Educational and Psychological Measurement, 73, 913–934; doi: 10.1177/0013164413495237 ",
+    "bbox": [
+      519,
+      79,
+      931,
+      364
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "B e r l i n , W i l l i a m s , & P a r r a i n J o u r n a l o f P e d i at r i c P s y c h o l o g y ( 2 0 1 3 ) ",
+    "bbox": [
+      385,
+      50,
+      931,
+      64
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      51,
+      102,
+      61
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "SUPPLEMENT: EXAMPLE SYNTAX ",
+    "text_level": 1,
+    "bbox": [
+      374,
+      89,
+      624,
+      103
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "! Test beginning with a “!” are comments, unnecessary portion of coding removed TITLE: LCA Example Obesity Risk   \nDATA: FILE IS \"riskprofilesFS.dat\"; ",
+    "bbox": [
+      114,
+      121,
+      718,
+      170
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "VARIABLE: ",
+    "bbox": [
+      116,
+      172,
+      196,
+      185
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NAMES ARE !Lists variable names   \nIDNUMB GENDER KURBAN_R RACE WKSESL W8SESL C7DESCWT C7TRYWT P7OVERWT   \nzbmi1c zbmi2c zbmi4c zbmi5c zbmi6c zbmi7c AGE1 AGE2 AGE4 AGE5 AGE6 AGE7   \nC5SDQEXR C5SDQINR C6SDQEXT C6SDQINT C7SDQRDC C7SDQMTC C7SDQINT C7LOCUS C7CONCPT gender   \nC7TVROOM C7SWEETS C7DRINKS C7SNACKS C7SPORTS;   \nIDVARIABLE $=$ IDNUMB;   \nCATEGORICAL ARE C7TVROOM C7SWEETS C7DRINKS C7SNACKS C7SPORTS;   \nAUXILIARY $=$ (e) zbmi7c pbmi7c BMI7C C7SDQINT C7LOCUS C7CONCPT;   \nUSEVARIABLES ARE   \nGender C7TVROOM C7SWEETS C7DRINKS C7SNACKS C7SPORTS;   \nUSEOBSERVATIONS ARE RACE $\\scriptstyle = = 2$ ; ",
+    "bbox": [
+      114,
+      189,
+      836,
+      390
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "MISSING ARE ALL (-99, -9, -8, -7, -1);! Declares which values are missing ${ \\mathsf { C L A S S E S } } = { \\mathsf { C } }$ (3); DEFINE: CUT C7SPORTS (1);! Make this variable dichotomous rather than original nominal coding ",
+    "bbox": [
+      114,
+      409,
+      638,
+      425
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      443,
+      826,
+      477
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "ANALYSIS: ",
+    "bbox": [
+      116,
+      494,
+      196,
+      508
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "TYPE IS MIXTURE; lrtbootstrap $, \\mathsf { \\Lambda } = 5 0 0$ ; !Number of bootstaps for BLRT lrtstarts $= 5 0 2 0 5 0 2 0$ ; !increases starts for BLRT, tech14 ",
+    "bbox": [
+      114,
+      511,
+      529,
+      560
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "MODEL: %OVERALL% ",
+    "bbox": [
+      114,
+      579,
+      210,
+      611
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "C7TVROOM C7SWEETS C7DRINKS C7SNACKS C7SPORTS on gender; ",
+    "bbox": [
+      114,
+      628,
+      606,
+      645
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "OUTPUT: SAMPSTAT TECH11 TECH14;",
+    "bbox": [
+      116,
+      662,
+      395,
+      679
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "PLOT: TYPE IS PLOT3;   \nSERIES $=$ C7TVROOM (0) C7SWEETS (1) C7DRINKS (2) C7SNACKS (3) C7SPORTS(4); ",
+    "bbox": [
+      114,
+      695,
+      709,
+      731
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "MIXTURE MODELING ",
+    "bbox": [
+      116,
+      45,
+      316,
+      60
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      870,
+      46,
+      882,
+      59
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "TITLE: LPA example for JPP ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      108,
+      316,
+      123
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "DATA: FILE IS \"LPA.dat\";",
+    "bbox": [
+      116,
+      125,
+      294,
+      140
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "VARIABLE:   \nNAMES ARE   \nIDNUMB GENDER KURBAN RACE   \nWKSESL C5SDQEXR C5SDQINR C6SDQEXT C6SDQINT   \nC7SDQINT C7LOCUS C7CONCPT C7FITIN   \nC7SPORTS C7OTHSPT   \nC7TVWKDY C7TVWKEN C7VIDWKD C7VIDWKN C7INTWKD C7INTWKN   \nC7EXERCS C7DAYSPE   \nC7MILK C7JUICE C7SDAJUC C7SALAD C7POTATO C7CARROT C7OTHVEG C7FRUITS C7FSFOOD zbmi135c zbmi235c zbmi435c zbmi535c zbmi635c zbmi7c35c;   \nUSEVARIABLES ARE   \nC7OTHSPT c7sportsBN C7EXERCS C7DAYSPE   \nC7TVWKDY C7TVWKEN C7VIDWKD C7VIDWKN C7INTWKD C7INTWKN   \nC7FSFOOD C7SDAJUC   \nC7POTATO C7MILK C7JUICE C7SALAD C7CARROT C7OTHVEG C7FRUITS;   \nAUXILIARY $=$ (e) !test equality of means;   \ngender BzNSSprt BzSSprtBN BzTVWD BzTVwe   \nBzVGwd BzVGwe BzINwd BzINwe BzdayEX BzPE   \nBzMilk BzJuice BzSoda BzSalad BzPotato BzCarot BzOveg BzFruit BzFASTF   \n;   \nMISSING ARE ALL (-99);   \nCATEGORICAL ARE c7sportsBN C7OTHSPT;   \n${ \\mathsf { C L A S S E S } } = { \\mathsf { c } } ( 3 ) ;$ ;   \nIDVARIABLE $=$ IDNUMB;   \nUSEOBSERVATIONS ARE $\\scriptstyle \\left( { \\mathsf { R A C E } } = = 2 \\right)$ );   \nANALYSIS:   \nTYPE IS MIXTURE;   \nSTARTS $= 5 0 0 0$ 500; STITERATIONS $= 2 0$ ;! Increases random starts to avoid local maxima LRTBOOTSTRAP $= 1 0 0$ ;   \nLRTSTARTS $= 0 0$ 5000 100;   \nk-1START $\\mathsf { S } = \\mathsf { 5 }$ 000 100; ! increases stage starts/final stage optimizations for the k-1 class mode ",
+    "bbox": [
+      112,
+      128,
+      799,
+      667
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "MODEL: ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      685,
+      178,
+      699
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "!If desired, researchers can use covariates and/or allow indicators to correlate, and/or specify which of these relations vary across class; ",
+    "bbox": [
+      114,
+      702,
+      870,
+      734
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "OUTPUT: TECH4 TECH11 TECH14 SAMPSTAT RESIDUAL;  \nSAVEDATA: FILE IS lpa3.dat; SAVE $=$ CPROBABILITIES;!exports data and class membership informationPLOT: TYPE $=$ PLOT3;  \nSERIES $=$ C7EXERCS C7DAYSPE C7TVWKDY C7TVWKEN C7VIDWKD C7VIDWKN C7INTWKD C7INTWKNC7FSFOOD C7SDAJUC C7POTATO C7MILK C7JUICE C7SALAD C7CARROT C7OTHVEG C7FRUITS (\\*)| c7sportsBN(1) C7OTHSPT(2);",
+    "bbox": [
+      114,
+      752,
+      857,
+      853
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "MIXTURE MODELING ",
+    "bbox": [
+      116,
+      45,
+      316,
+      60
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      870,
+      46,
+      883,
+      59
+    ],
+    "page_idx": 16
+  }
+]

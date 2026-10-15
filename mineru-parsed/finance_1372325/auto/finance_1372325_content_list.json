@@ -1,0 +1,2189 @@
+[
+  {
+    "type": "text",
+    "text": "Varieties of Economic Experience in the Developing World ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      102,
+      460,
+      186
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "AUGUSTO LOPEZ-CLAROS, World Economic Forum1 ",
+    "bbox": [
+      117,
+      207,
+      395,
+      218
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The aim of this chapter is to provide a brief outline of some of the key challenges facing policymakers in parts of the developing world. It is not intended to be a comprehensive look at the issues. Given the large number of sovereign actors in the global economy and the variety of problems affecting their economic performance, a thorough overview is beyond the scope of this chapter. Instead, its purpose is to provide this year’s Global Competitiveness Report with some of the flavor given to the 2002–2003 Report by a series of regional studies.2 ",
+    "bbox": [
+      526,
+      64,
+      906,
+      227
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We will focus our attention largely on two sets of countries, chosen from a variety of geographical locations and representing a broad spectrum of economic experiences. Our purpose is to highlight not only the diversity of problems that emerge during the development process, but also the different ways in which governments and policymakers have responded to those problems. As will be seen, in some cases these responses have been timely and coherent, contributing to macroeconomic stability and the growth of per capita incomes. Often, however, policy shortcomings have aggravated the consequences of macroeconomic and other imbalances. At times, delays in the implementation of corrective measures have been associated with deep crises, with serious repercussions for social welfare.The countries we have chosen are a small but representative sample of those ranked in the World Economic Forum’s Growth Competitiveness Index (GCI). ",
+    "bbox": [
+      527,
+      229,
+      910,
+      506
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The first set is made up of Argentina, Russia, and Turkey, countries that have had serious financial crises in the recent past and offer a treasure trove of insights in terms of the causes of such crises, their consequences, and the policy responses to them, to say nothing of the effectiveness of existing international institutional mechanisms to cope with them. The second set consists of the transition economies of central and eastern Europe, eight of whose members are scheduled to join the European Union (EU) in May of 2004.These countries have had a good growth performance during the past decade, and some of these transition economies have the potential to join in the medium-term the upper ranks of the most competitive economies in the world. Quite aside from having benefited from reasonably competent macroeconomic management, these countries, as a group, have moved farther along than virtually any other set of economies in the world in implementing broad-ranging structural reforms. To facilitate the discussion, our focus will be more issue-specific than country-specific; the emphasis will be less on making a thorough review of developments in the several countries chosen and more on using the experiences of these countries to illustrate policy issues in all developing countries.3 ",
+    "bbox": [
+      526,
+      510,
+      906,
+      900
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "73 ",
+    "bbox": [
+      939,
+      493,
+      955,
+      505
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "732.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      335
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CHAPTER 2.2 ",
+    "bbox": [
+      116,
+      64,
+      204,
+      79
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/f31a0facbfa8040822677155c8b642b6c93985218ce32a7bc59d467ec4dab3fc.jpg",
+    "table_caption": [
+      "Table 1: Selected indicators: Argentina, Russia, and Turkey "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Argentina</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td></tr><tr><td>GDP growth (annual %)</td><td>3.9</td><td>-3.4</td><td>-0.8</td><td>-4.5</td><td>-11.0</td></tr><tr><td>GDP per capita growth (annual %)</td><td>2.5</td><td>-4.6</td><td>-2.0</td><td>-5.6</td><td>-10.8</td></tr><tr><td>Inflation (end of period)</td><td>0.7</td><td>-1.8</td><td>-0.7</td><td>-1.5</td><td>41.0</td></tr><tr><td>Current account balance (BoP)in current US$bn</td><td>-14.5</td><td>-11.9</td><td>-8.9</td><td>-4.6</td><td>8.8</td></tr><tr><td>Current account balance (BoP)in % of GDP</td><td>-4.9</td><td>-4.2</td><td>-3.1</td><td>-1.7</td><td>8.1</td></tr><tr><td>Fiscal balance (in % of GDP)</td><td>-1.5</td><td>-2.9</td><td>-2.3</td><td>-3.3</td><td>-10.3</td></tr></table>",
+    "bbox": [
+      86,
+      92,
+      648,
+      180
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/5ec72bd108c890cc51621efe94de2213b38edd40de7c1f1b2ddcf6447917d99d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Russia</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td></tr><tr><td>GDP growth (annual %)</td><td>-4.6</td><td>6.4</td><td>10.0</td><td>5.0</td><td>4.3</td></tr><tr><td> GDP per capita growth (annual %)</td><td>-4.2</td><td>7.0</td><td>10.2</td><td>5.6</td><td>4.9</td></tr><tr><td>Inflation (end of period)</td><td>84.4</td><td>36.5</td><td>20.2</td><td>18.0</td><td>15.1</td></tr><tr><td>Current account balance (BoP)in current US$bn</td><td>2.3</td><td>24.7</td><td>46.4</td><td>35.0</td><td>30.9</td></tr><tr><td>Current account balance (BoP)in % of GDP</td><td>0.7</td><td>12.8</td><td>18.5</td><td>11.4</td><td>8.4</td></tr><tr><td>Fiscal balance (in % of GDP)</td><td>-5.9</td><td>-1.3</td><td>2.2</td><td>3.0</td><td>1.7</td></tr></table>",
+    "bbox": [
+      86,
+      204,
+      648,
+      292
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/d47c9f9b511c95bb72a60218fa3e809223760621828904bbfe952896eed048a4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Turkey</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td></tr><tr><td>GDP growth (annual %)</td><td>3.1</td><td>-4.7</td><td>7.4</td><td>-7.4</td><td>6.7</td></tr><tr><td>GDP per capita growth (annual %)</td><td>1.6</td><td>-6.1</td><td>5.8</td><td>-8.7</td><td>0.1</td></tr><tr><td>Inflation (end of period)</td><td>67.4</td><td>68.8</td><td>39.0</td><td>68.5</td><td>29.7</td></tr><tr><td>Current account balance (BoP) in current US$bn</td><td>2.0</td><td>-1.4</td><td>-9.8</td><td>3.4</td><td>1.8</td></tr><tr><td>Current account balance (BoP)in % of GDP</td><td>1.0</td><td>-0.7</td><td>-4.9</td><td>2.3</td><td>-1.0</td></tr><tr><td>Fiscal balance (in % of GDP)</td><td>-8.4</td><td>-13.0</td><td> -11.4</td><td>-19.3</td><td>-12.5</td></tr></table>",
+    "bbox": [
+      86,
+      318,
+      647,
+      405
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Argentina, Russia, and Turkey: meltdown and recovery ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      496,
+      452,
+      512
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The last decade has seen a succession of financial crises in some of the key economies in the developing world. Three of the most recent crises are of particular interest on account of their intensity, the complex interaction of domestic and external factors which precipitated them, the role played along the way by the multilateral organizations, and the broader questions about international crisis management which they have raised in their wake (Table 1). We will look at some of the key issues. ",
+    "bbox": [
+      86,
+      513,
+      470,
+      659
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The causes of the crises in Argentina, Russia, and Turkey have been many, involving in all cases different combinations of endogenous and exogenous factors, including elements of “bad luck.”The crises in Asia in 1997 led to a drop in the demand for oil and other primary commodities in international markets and were, without any doubt, a precipitating factor in Russia’s own crisis in 1998, given the preponderance of energy taxes in the budget and commodity exports in its balance of payments. Argentina introduced a currency board arrangement in 1991, pegging its currency against the US dollar, only to see the dollar appreciate throughout much of the 1990s. On top of this, Brazil devalued its currency in early 1999, thus gaining a major competitive advantage against Argentina, its main trade partner. Even Turkey, suffering from chronically high inflation during the past two decades, saw its fledging efforts to set its macro house in order in 1999 temporarily set back by a massive earthquake that put additional strains on the budget. But “bad luck” does not go very far in providing a satisfactory explanation for these crises; at best it underlines the fact that authorities everywhere have to implement economic programs against the backdrop of an uncertain external environment that, at times, can significantly reduce their room for maneuver.4 ",
+    "bbox": [
+      86,
+      660,
+      465,
+      939
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      496,
+      496,
+      874,
+      626
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The advantages of fiscal discipline ",
+    "text_level": 1,
+    "bbox": [
+      500,
+      643,
+      715,
+      659
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A more compelling thread, common to all three countries, was the existence of very loose fiscal policies combined with poor public debt management, which compounded the effects of the public-sector deficits. The sources of the fiscal problems varied from country to country. In Russia, the problem was essentially on the revenue side. A persistent output drop during much of the 1990s—reflecting in important ways the much needed restructuring of the economy, away from activities linked to the military industrial complex—contributed to the erosion of the tax base. But the revenue-to-GDP ratio also fell, because the authorities, particularly during the long reign of Prime Minister Chernomyrdin, were prone to the granting of tax exemptions to influential lobby groups that, in turn, led to a remarkable erosion in the ability of the state to collect taxes.Tax exemptions—some of them massive, exceeding the total annual value of International Monetary Fund ",
+    "bbox": [
+      498,
+      660,
+      883,
+      938
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      44,
+      493,
+      58,
+      503
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Source: IMF, WDI, WEO, and World Bank ",
+    "bbox": [
+      86,
+      422,
+      281,
+      433
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "742.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      42,
+      65,
+      338
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "(IMF) financing—deprived the budget of sizeable resources and made the task of fiscal adjustment tougher than would otherwise have been the case. ",
+    "bbox": [
+      116,
+      64,
+      485,
+      111
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In Turkey, the problems were largely on the expenditure side: a combination of enormous claims on the budget associated with an overly generous pension system, an extensive network of agricultural subsidy schemes and other quasi-fiscal operations, and the fiscal burden of a public debt overhang had led, by 1999, to a public-sector borrowing requirement in excess of 23 percent of GDP. On the institutional side, the task of fiscal adjustment was not helped by unusually opaque fiscal accounts, in which, for instance, the military budget was approved outside the conventional channels used in working democracies. (The general staff puts together the annual budget of the armed forces and the parliament approves it “without debate and by acclamation”[see Rouleau, 2000].) ",
+    "bbox": [
+      116,
+      113,
+      495,
+      342
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Argentina’s crisis reflected the authorities’ ultimate failure to maintain adequate control over the public finances. Or, as noted by Mussa (2002): “in the management of its fiscal affairs, the Argentine government is like a chronic alcoholic—once it starts to imbibe the political pleasures of deficit spending, it keeps on going until it reaches the economic equivalent of falling-down drunk.” He argues that during the period 1993–98 in particular, “when the Argentine economy was receiving substantial nonrecurring revenues from privatization and enjoyed other temporary fiscal benefits, the public-sector debt-to-GDP ratio nevertheless rose by 12 percentage points.” (Mussa, 2002, p 16). Indeed, in the six-year period to end-1998, Argentina’s total external debt more than doubled from US\\$62 billion to $\\mathrm { U S } \\$ 142$ billion, at a time when nominal GDP rose by about 26 percent. By end-2000, the debt-to-GDP ratio had risen by an additional 9 percentage points, to 50 percent of GDP, perhaps not unusually high by international standards, but extremely high for an economy with a very low revenue ratio (20 percent of GDP, including social security contributions), an external debt-to-exports ratio in excess of 400 percent, and a contracting economy. ",
+    "bbox": [
+      116,
+      347,
+      498,
+      719
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Moreover, the authorities failed to recognize that successful currency board arrangements are always underpinned by suitably tight fiscal policies. Since the system proscribes access to central bank lending, financing of the public-sector deficit is possible only via access to the international capital markets or the domestic banking system at market rates of interest.This, however, particularly if done over a number of consecutive years, makes the country a captive to its creditors, including bondholders. The pattern is well known: persistent fiscal deficits result in their financing at increasingly higher interest rates, which inevitably worsen the deficit.The fiscal problem then leads to an external crisis when nonresident debt holders refuse to rollover the outstanding debt. Russia and ",
+    "bbox": [
+      116,
+      722,
+      495,
+      949
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/24aa5382108206c7421c2604051f59c0ca1b81f741cae4e5ae28321e02871e8a.jpg",
+    "table_caption": [
+      "Table 2: IMF’s largest debtors "
+    ],
+    "table_footnote": [
+      "Source: International Financial Statistics, August 2003 "
+    ],
+    "table_body": "<table><tr><td>Country</td><td>Total fund credit &amp; loans outstanding (millions of SDRs)</td><td>US Dollar amounts (millions)</td><td>Percentage of quota</td></tr><tr><td>Turkey</td><td>16517</td><td>22749</td><td>1713</td></tr><tr><td>Brazil</td><td>21256</td><td>29275</td><td>700</td></tr><tr><td>Uruguay</td><td>1654</td><td>15068</td><td>540</td></tr><tr><td>Argentina</td><td>10941</td><td>2279</td><td>517</td></tr><tr><td>Indonesia</td><td>6454</td><td>8889</td><td>310</td></tr><tr><td>Pakistan</td><td>1417</td><td>1951</td><td>137</td></tr><tr><td>Philippines</td><td>939</td><td>1293</td><td>107</td></tr><tr><td>Ukraine</td><td>1318</td><td>1815</td><td>96</td></tr><tr><td>Russian Federation</td><td>3821</td><td>5263</td><td>64</td></tr></table>",
+    "bbox": [
+      526,
+      94,
+      911,
+      258
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Argentina defaulted on their external obligations;Turkey did not, but only due to massive IMF financial assistance that rapidly turned the country into that institution’s largest debtor (Table 2). ",
+    "bbox": [
+      526,
+      327,
+      897,
+      392
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "With exchange rates pegged in some form or other in all three countries, and with local interest rates much higher than those in the hard currency markets abroad, there were powerful incentives to borrow in the international capital markets. For several years leading up to the crises, borrowing short-term and in foreign currency was a booming business.This made the economies very vulnerable to shocks. In Russia and Argentina, in particular, export performance deteriorated sharply, reflecting the real appreciation of the currency and a worsening external environment. As the authorities responded to signs of a looming meltdown, higher interest rates to defend currencies put pressures on the financial position of the enterprise sector. Indeed, the sources of vulnerability associated with fixed/pegged exchange rate regimes are well known and are eloquently illustrated by the experiences of these countries. ",
+    "bbox": [
+      527,
+      393,
+      911,
+      670
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Vulnerable pegs ",
+    "text_level": 1,
+    "bbox": [
+      527,
+      689,
+      630,
+      703
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Experience has shown that authorities tend to underestimate currency risk.The longer the rate has been pegged, the more likely are market players to think that it will remain so, and the frequent public appearances by central bank governors to reassure increasingly nervous markets seem to be an inseparable part of this process.The loss of price competitiveness that comes when domestic inflation rates do not fall to international levels as rapidly as was intended when the peg was introduced often brings with it a worsening balance of payments that then invites attacks on the currency.This was, with some nuances, the case in most of the emerging market crises of the past ten years, and Argentina represented perhaps the most dramatic example. A third source of vulnerability is that there is no face-saving way to exit an overvalued exchange rate. ",
+    "bbox": [
+      527,
+      707,
+      905,
+      950
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "752.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      41,
+      957,
+      338
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "75 ",
+    "bbox": [
+      937,
+      492,
+      957,
+      505
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "If the market does not attack the currency, the pressure is off and there is no immediate need to devalue. By the time it does attack it, however, it is too late. More importantly, the main weapons used to defend the exchange rate are foreign exchange intervention and interest rates, but the scope for these is very limited, particularly for countries like Russia,Turkey, and Argentina that are “small,” against the magnitude of resources available to the market for possible speculative attacks. If, in addition to all the above, the banking system is weak—definitely the case in Russia and Turkey—or heavily exposed (for instance to the domestic debt market in both countries), the peg is doomed. ",
+    "bbox": [
+      86,
+      64,
+      467,
+      275
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The above is not to say that floating rate regimes are free of problems either, particularly during periods of turbulence and for economies that are quite open to international trade. Currency boards (other than in Argentina) have worked quite well in practice when accompanied by sound fiscal management. Since they cannot be easily undone, they bring with them a lower currency-risk premium. Estonia (whose currency board was introduced in 1992), Lithuania (1994), and Latvia (which has a hard peg that, in practice, operates as a quasi currency board since 1994) have all done very well, and the experience of Bulgaria in recent years has been quite encouraging. But fiscal discipline as a necessary condition of success may be more than most governments are willing or able to deliver. ",
+    "bbox": [
+      86,
+      279,
+      467,
+      506
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The main lesson to emerge from the experience of recent emerging market crises seems to be that there is little merit in defending overvalued exchange rates, and even less in funneling large amounts of official finance—in the form of debt at market rates—on the basis of promises of fiscal rectitude. In the end, in all three countries this simply led to an intertemporal shift in debt service obligations.With the recovery of oil prices in early 1999, Russia was able to deal successfully with its external debt overhang. But Argentina has yet to fully address the consequences of its debt default and, as recently noted by the IMF (one of Argentina’s most important creditors) “even with the best efforts, Argentina’s medium-term outlook appears very difficult” (IMF, 2003a). As regards Turkey, the debt-to-GDP ratio is now in excess of 90 percent of GDP; much of the rise in the last two years reflects the massive inflows of IMF lending, the service of which will require primary surpluses in excess of 5 percent of GDP for the foreseeable future. ",
+    "bbox": [
+      86,
+      508,
+      467,
+      818
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Capital inflows and the speed of the magic carpet5 ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      837,
+      400,
+      851
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "However, poor fiscal management combined with pegged exchange rate regimes, an unhappy combination of policies at best, lethal at worst, provides only a partial explanation for the crises in these three countries. Countries seem to be able to implement irresponsible fiscal policies for a very long time without provoking domestic financial ",
+    "bbox": [
+      86,
+      853,
+      468,
+      949
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "crises or even adverse international headlines.The debtto-GDP ratio in Turkey, for instance, rose from 30 percent in 1990 to close to 60 percent in 1999, with annual inflation throughout this period remaining chronically high at around 50 to 100 percent.What signaled the onset of the crises in Argentina, Russia, and Turkey was a reversal of capital flows, at a time when these had acquired a much greater preponderance than had been the case historically. According to the IMF, net capital inflows to emerging markets during the early 1980s—the period characterized by the recycling of petrodollars—were equivalent to about 0.7 percent of their GDP on an annual basis, compared with 2 to 2.5 percent of GDP in the 1990s. (For some countries—such as the East Asian tigers—the numbers were even more compelling, with inflows rising from 1 percent in the mid 1980s to 5 percent a decade later. In US dollar terms, they swung from an inflow of $\\mathrm { U S } \\$ 65$ billion in 1996 to an outflow of over $\\mathrm { U S } \\$ 40$ billion in 1998.) ",
+    "bbox": [
+      498,
+      65,
+      880,
+      358
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "There are several factors that are seen to have played a central role in the rapid rise of net capital flows to emerging economies during the past decade.These would include the removal of restrictions on capital account transactions, part of a process aimed at deregulation and economic liberalization that has also had its counterpart in the industrial world. Better policies in the developing countries have created a growing set of attractive destinations for foreign capital. A more liberal attitude to privatization has also played a role, expanding the range of investment opportunities and contributing to the rapid growth of players who are able to issue debt in the international capital markets.The increasing sophistication of financial instruments that allow investors to hedge exposure to currency and other types of risk at a time of expanding international trade have also boosted capital flows. The forces of globalization, involving a fall in the costs of transportation, communication, data processing, and transactions, have been an important additional contributing factor that suggests that the growth of international capital flows may, at least in the aggregate, be difficult to reverse. Finally, the search for higher returns and the growing risk appetite of institutional and retail investors worldwide has also been a central factor. ",
+    "bbox": [
+      498,
+      362,
+      877,
+      752
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "All of these factors, to a greater or lesser degree, played a role in the expansion of capital flows to Argentina, Russia, and Turkey. Privatization-related flows were most important in Argentina, which soon after the introduction of its currency board embarked upon an ambitious program of divestiture of state assets. Liberalization of the capital account and the search for riskier returns on the part of investors were prominent, likewise, in all three countries. In Russia and Turkey, in particular, the sky-high returns obtained in the domestic treasury bill market against the backdrop of pegged exchange rate regimes were crucial in attracting large volumes of “hot money”—the so-called moral hazard trades. Even perceptions of better policies were a factor, for instance, in Argentina during the early years of the administration of former President Menem when, as noted by Mussa (p. 1) “many of Argentina’s economic policies were widely applauded and suggested as a model that other emerging-market countries should emulate.”Why capital flows to these countries were reversed, whereas they have remained large and steady in the economies of central and eastern Europe, is an interesting policy question. The answer, to a large extent, lies in the fact that capital account liberalization is a tricky issue, and the governments of the central and eastern European economies have been far more adept at managing the liberalization process in an efficient way. ",
+    "bbox": [
+      498,
+      755,
+      869,
+      949
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "762.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      44,
+      65,
+      332
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "76 ",
+    "bbox": [
+      19,
+      483,
+      60,
+      508
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      63,
+      498,
+      309
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In particular, successful capital account liberalization seems to require a multi-layered approach with several key elements. First, it is necessary to improve the quality of information available to policymakers about possible sources of systemic risk, such as an undue accumulation of external indebtedness in the corporate sector, or the state of the nonperforming loan portfolio in the banking sector, to name a couple of issues that have arisen in several of the worst crises in recent years, beginning with Asia. Second, there is no substitute for good macroeconomic policies that contain imbalances in financial markets as well as mitigate the effects of crises when they come; Chile after the tequila crisis in 1994, or Estonia after the 1998 Russian crisis, are good examples of competent crisis management in the face of an external shock.Third, it is important to encourage adherence to internationally accepted standards of accounting, auditing, and disclosure, so as to facilitate enforcement of good rules of corporate governance that protect investors and lenders from abuse. ",
+    "bbox": [
+      116,
+      311,
+      500,
+      619
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fourth is the related need to make sure that financial institutions are subject to proper prudential supervision and regulation by an appropriately independent government agency, particularly since liberalization may allow banks to expand risky activities at rates that could exceed their capacity to manage them. (There seems to be broad consensus, for instance, that Argentina was able to cope reasonably well with the immediate effect of the tequila crisis because, by then, the banking system was in a much better state, having been largely sold off to large Spanish and American banks, with deep pockets that could be tapped in period of external stress.) Fifth, to contain moral hazard, it is desirable to limit government/central bank interventions to cases of systemic threat. This implies that loss-making financial institutions should absorb their losses, even if this will mean pain for shareholders, managers, and others. Following banking sector crises in the 1990s, governments in Estonia, Latvia, and Lithuania imposed a hard budget constraint on their banks.This resulted in the closure of several major banks. A process of consolidation was set in motion that led to a quantum jump in foreign participation in the banking system. Finally, it is essential to keep public debt within sustainable levels, with appropriate maturity and currency profiles. ",
+    "bbox": [
+      116,
+      622,
+      496,
+      949
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      526,
+      64,
+      900,
+      128
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Russia and Turkey had serious shortcomings on all of these fronts.Weaknesses in their respective banking systems were particularly noteworthy, making them both vulnerable to currency and interest rate risk, although the impact was probably more deleterious in the case of Turkey, given the higher levels of financial intermediation relative to Russia, still largely a cash economy. Reflecting the risk premium associated with high inflation, high and volatile interest rates induced banks in both countries to concentrate on arbitrage operations, mainly involving short-term management and funding of treasury bills. Given the high dollar returns, banks financed their purchases of treasury bills by borrowing in foreign currency, leaving them vulnerable to losses in the event of devaluation. In Turkey and, to a lesser extent, in Russia, the development of an active repo market worsened the maturity mismatch of banks and increased their off-balance sheet exposure. Poor internal risk management was an additional risk factor with reporting standards falling short in both countries in several areas. Among some of the major shortcomings: overstating of reported earnings due to insufficient prevalence of mark-to-market of securities, unreliable measures of bank profitability due to a lack of inflation accounting, circumventing of prudential regulations on FX exposure through foreign subsidiaries (Turkey), and a level of nonperforming loans that was much understated. ",
+    "bbox": [
+      526,
+      131,
+      908,
+      555
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The experience of Chile is relevant in this respect because, unlike the EU accession countries that—it could be argued—have implemented, as we shall see below, largely responsible policies, because of an overriding commitment to the processes of economic and political integration, successive Chilean governments have done so without such powerful incentives. A strong commitment to sound fiscal and monetary policies, buttressed by a broad range of structural reforms, have, over time, created a friendly environment for private-sector activity with few peers in the developing world.This has been particularly the case as regards foreign investment, with the government having early on opened the country’s borders and set aside undue concerns about foreign ownership of the domestic economy.The regulatory framework for foreign direct investment (FDI) has played a very positive role in the growth of investment, the authorities having long ago lifted previous restrictions on dividend remittances and on majority participation.They also streamlined authorization procedures and, more generally, created a regulatory environment characterized by well-defined, simple and stable rules. In combination with a macro framework involving low inflation, steady exchange rates, and public finances under control, the authorities contributed to create ",
+    "bbox": [
+      527,
+      559,
+      910,
+      949
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "772.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      334
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "77 ",
+    "bbox": [
+      937,
+      492,
+      957,
+      505
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "powerful incentives for investors looking for opportunities for on-site production involving economies of scale. Chile has benefited from technology transfers and know-how; although large capital inflows have at times posed problems for exchange rate management, the overall effects on the capital account have been favorable. (Chile is consistently the top performer in Latin America in the rankings of the GCI, by a significant margin.) ",
+    "bbox": [
+      84,
+      64,
+      465,
+      194
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "External support and the role of the International Monetary Fund ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      213,
+      390,
+      242
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In all three countries, there was heavy involvement on the part of the IMF, although the nature of the Fund’s interventions had certain important features that were unique to each country. In Russia, the Fund evolved from an advisory role in the early phase of Russia’s transition (1991–94) in which financing was relatively limited and the focus was more on providing technical assistance (including in the area of program formulation), to becoming the principal financier of the government.This latter role was particularly intense during the three-and-a halfyear period from early 1995 to July of 1998, when a total of $\\mathrm { U S } \\$ 17 .5$ billion of debt were disbursed. Interestingly, since the authorities saw IMF financing as a close substitute for tax collection, the period of most generous Fund financial support coincided with the most severe erosion in the revenue-to-GDP ratio and in the willingness of corporations and households to pay taxes. In Turkey, the Fund played a dual role: first, helping a coalition government with unusually low levels of public support and little policy credibility to formulate and implement a better set of policies. Second, providing enough volumes of finance to ensure that the country would not default on its debt obligations, a task achieved by the setting aside of all previous IMF historical parameters that linked the amount of external funding to the scale of the policy adjustment, and subverting the long-standing Fund principle of equality of treatment across its member countries. ",
+    "bbox": [
+      84,
+      246,
+      467,
+      685
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In Argentina, the Fund found itself in the ungrateful role of trying to prop up a doomed currency regime, as discussed above. Mussa notes “the Fund did make at least two important mistakes in Argentina: (1) in failing to press the Argentine authorities much harder to have a more responsible fiscal policy, especially during the high growth years of the early through mid 1990s; and (2) in extending substantial additional financial support to Argentina during the summer of 2001, after it had become abundantly clear that the Argentine government’s efforts to avoid default and maintain the exchange rate peg had no reasonable chance of success” (Mussa, 2002, p 4).That each one of these programs entailed either a financial meltdown (Russia and Argentina) or a quantum jump in the country’s external indebtedness (Turkey) has raised many questions about the future role of the Fund. Given the central role played by it in the developing world—as a source of funding and technical advice on policy formulation and implementation—it is useful to comment briefly on aspects of its evolving role. ",
+    "bbox": [
+      86,
+      688,
+      468,
+      950
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      498,
+      65,
+      872,
+      128
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "There are at least three roles for the Fund worth highlighting.6 One is the classical role played by the organization in those countries that, when faced with an external shock—say, a sudden drop in the demand for their exports—come to the Fund for short-term financing to ease the pain associated with “adjustment.” A devaluation of the currency whose effects may take time to materialize, is the classical example; it also captures the essence of the Fund’s relationship to its member countries during much of the post-war period. But not recently. Neither Russia nor Turkey nor Argentina sought or received Fund support because of a balance of payments crisis in the traditional meaning of the term. ",
+    "bbox": [
+      498,
+      131,
+      880,
+      342
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The second role is one where the Fund is seen by the markets as that institution that provides creditors with assurances that the countries with Fund programs will fulfil their debt obligations and pursue sound policies consistent with financial sustainability. A very good example of this might be the Fund-supported program with Poland in 1990, which included the creation of a currency stabilization fund.This fund was never actually drawn, but it signaled to markets that the authorities would be able to defend the currency against speculative attacks, as it implemented an unusually ambitious program of reforms with a strong structural component.The third and most recent role concerns those countries for which there is “no feasible set of macroeconomic policies that would allow them to regain medium-term viability without a reduction in their debt” (IMF, 2003b). ",
+    "bbox": [
+      498,
+      344,
+      882,
+      604
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The emerging markets crises of the past decade have followed a recurring pattern. In a nutshell the sequence is as follows: economic and/or political difficulties in a particular country lead to concerns on the part of creditors about the country’s debt servicing capacity.This, in turn, results in creditors deciding not to rollover maturing obligations, or actually selling them in the secondary market, both leading to a widening of debt spreads and, eventually, a total shutdown of access to capital markets on terms consistent with fiscal viability. Brazil in 2002 provides an eloquent recent example: market panic reflecting investor concerns about the possibility of an “adverse” result in the presidential elections, together with heightened risk aversion in the middle of a global slowdown.With Brazilian bond yields at historically high levels, the fiscal effort that would have been necessary to bring the debt-GDP ratio to a sustainable path was so enormous as to be not politically credible (Figure 1). Argentina’s default in late 2001 finally appears to have persuaded senior finance officials in creditor countries and at the international financial institutions that there has to be a better way of dealing with unsustainable debt burdens than the present ad-hoc arrangements, involving a disorderly combination of exploding debt spreads, uncertainty, and all the economic, social, and political dislocations associated with a sovereign debt default.7 ",
+    "bbox": [
+      498,
+      606,
+      879,
+      950
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "782.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      44,
+      65,
+      335
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "78 ",
+    "bbox": [
+      42,
+      492,
+      60,
+      505
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/3bd665c6c22d925868dfb1317c93f20c12b986a92c917f50d15779d89c1b6284.jpg",
+    "image_caption": [
+      "Figure 1: Bond spreads ",
+      "Source: Lehman Brothers "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      99,
+      838,
+      405
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      496,
+      495,
+      575
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The essence of the problem is that, whereas there are institutional mechanisms in place for the orderly rescheduling of public-sector debt (eg, Paris Club), there is no equivalent framework for debt instruments held by the private retail sector.The past 20 years have witnessed a dramatic shift in the structure of financing to emerging markets, with bonds and direct investment replacing syndicated bank lending and official flows. However, sovereign bond contracts are virtually impossible to restructure. Not only do they typically require near unanimous consent, but lawsuits can trigger cross-default on other securities and accelerated repayment clauses.To make matters worse, ownership of bonds is much more diffuse than in earlier times when sovereign borrowers could usually negotiate restructuring deals with a limited number of private banks, the instruments themselves have become increasingly complex, and there has been an increase as well in the number of legal jurisdictions in which they are issued. ",
+    "bbox": [
+      116,
+      579,
+      498,
+      872
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The issue, then, is how to make sovereign debt restructuring a more predictable and orderly process.The more closely integrated nature of financial markets, reflecting a combination of trade and financial linkages and, at times, herding behavior, and the much larger volume of cross-border financial flows, have highlighted the potentially destabilizing effects of disorderly defaults, both for the defaulting country and, through contagion, for the international economy. (One aspect of this is the severe impact of a sovereign debt default on the banking system—Argentina, again, being the most recent and compelling example, with Uruguay playing the role of innocent bystander.) ",
+    "bbox": [
+      116,
+      875,
+      498,
+      938
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      527,
+      496,
+      893,
+      642
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A proper examination of this issue is beyond the scope of this chapter.The IMF has taken a leading role in shaping the elements of the debate and there seems to be broad agreement that “reforming the sovereign debt restructuring framework is a formidable task that will take many years to develop and implement” (IMF, 2003c). Among the issues that would need to be tackled are: what types of debt to include; determination of the debt carrying capacity of the country (by whom, on what terms); to which set of countries should the mechanism be available; what the likely effect on capital flows to developing countries would be; and what the operational mechanisms would be that would underpin the facility. The new mechanism for sovereign debt restructuring would probably not reduce the short-term pain associated with default; rather, its aim would be to put arrangements in place that reduced the span of time when debtors and creditors are forced to operate in an uncertain legal ",
+    "bbox": [
+      527,
+      643,
+      908,
+      938
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      939,
+      493,
+      955,
+      503
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "792.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      334
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "environment, making possible a quicker resumption of debt-servicing in a post-restructuring scenario. ",
+    "bbox": [
+      88,
+      64,
+      444,
+      95
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "One early line of thought against the creation of new institutional mechanisms to deal with sovereign debt restructuring is that, with the possible exception of Argentina, most of the recent cases of serious debt-servicing difficulties in emerging markets have reflected more liquidity shortfalls than actual insolvency.These have been dealt with in a variety of ways: some involving combinations of additional official finance (Asia in 1997; Russia in 1998, Brazil in 1999,Turkey during 2000/02, Argentina in 2001); some debt rollovers (Asia,Turkey); and some domestic debt default (Russia), in all cases against a background of major policy adjustments. So, the argument goes, rather than adopting new approaches to sovereign debt restructuring, the focus should be on market-based mechanisms combined with better policies.The proposals being put together by the Fund certainly do not negate the fact that better policies might well protect a country against future crises.The point rather is that, when debts become unsustainable and a sovereign default all but inevitable, financial chaos seems to be the only option available in today’s international financial framework and the welfare costs of this are too onerous to be accepted with equanimity. ",
+    "bbox": [
+      84,
+      98,
+      465,
+      473
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Governance and institutions ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      492,
+      263,
+      506
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The above factors—fiscal adjustment (or the lack thereof), the nature of the exchange rate regime, particular approaches to the opening of the capital account and the supporting measures underpinning it—may go some way toward helping explain the meltdowns in Argentina, Russia, and Turkey. Certainly there can be no doubt that policies matter—witness the sharply different economic outcomes in Chile, a country facing a very similar external environment to that of its long-suffering neighbor but where successive governments have been far more adept at dealing with the challenges of an increasingly interdependent world. And, however mixed the results, international institutions matter a great deal as well, as the cases of all three countries eloquently show in so many different ways. But we would be remiss in not highlighting the role played by other factors, particularly those stemming from the state of the country’s institutions and, more generally, the quality of its governance. ",
+    "bbox": [
+      86,
+      507,
+      470,
+      803
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The core ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      820,
+      143,
+      833
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "At the core of good governance is the willingness of governments to open to public scrutiny the accounts and activities of public institutions and to institute reliable systems of auditing and financial management. Lack of openness, more often than not, does not serve useful public ends but has instead been used to hide unlawful practices and abuse.Transparency is particularly important in the ",
+    "bbox": [
+      86,
+      837,
+      465,
+      950
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "case of the tax system, where the ability of governments to collect revenues will depend on public perceptions of the fairness of its operation as much as of the use that is made of public funds. A valuable example on the importance of transparency in public actions concerns efforts during the last decade in a number of countries to privatize hitherto publicly held assets. The process has at times run into severe difficulties as a result of public perceptions that assets were being liquidated at bargain prices and in ways that unduly favored certain groups. ",
+    "bbox": [
+      498,
+      64,
+      880,
+      227
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The experience in Russia in this respect during the 1990s has been particularly disappointing. Corrupt privatization schemes tainted not only the reputation of the (“reform-minded”) government officials that designed and implemented them, they also undermined the credibility of the donor institutions under whose tutelage such schemes were allowed to develop. Not surprisingly, they contributed to create an environment of deep cynicism among taxpayers, investors, and other economic agents. Sen (1999) notes that societies operate better under some presumption of trust and that, therefore, they will benefit from greater openness.The freedom for society’s members to deal with one another under “guarantees of disclosure and honesty” are essential to prevent corruption and other abuses. ",
+    "bbox": [
+      498,
+      229,
+      882,
+      472
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The trend seen in the past decade toward the establishment of more market-oriented systems, with a significantly reduced role for state intervention and discretion, should improve the climate for transparency in economic management. Successful and lasting economic development depends to a great extent on the government’s ability to generate a broad consensus for change. A process of consultation whereby the government elicits the views of various sectors of society—trade unions, businesses, professional organizations, NGOs, and other organizations of civil society—is likely to result in greater understanding of and commitment on the part of the population to the often painful measures that accompany the implementation of various economic strategies. Dealing with the aftereffects of official corruption and/or prolonged periods of economic mismanagement is always painful, often involving fiscal retrenchment and difficult choices about the distribution of the costs of adjustment between different sectors of the population. Consultation is also likely to result in a more equitable distribution of the costs of adjustment and thereby enhance the chances of sustainable reforms.The building of consensus through consultation is at the root of participatory development and facilitates transparency and accountability.8 ",
+    "bbox": [
+      498,
+      477,
+      882,
+      866
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In all of these areas, the approach pursued by the authorities at various times in Argentina, Russia, and Turkey was deeply flawed. Although it may be difficult to quantify their particular relative contribution to each country’s respective crises, there can be little doubt that poor governance greatly compounded the effects of bad luck and, broadly defined, “policy errors,” including errors by the donor agencies supporting these countries’ adjustment efforts. In all three countries malfeasance in the management of public resources was clearly a factor in setting the stage for tax avoidance and tax evasion. In all three countries this type of mismanagement—it is beyond the scope of this chapter to identify the many and sometimes inventive ways in which these were manifested—led to gross misallocation of scarce resources with a number of adverse implications. ",
+    "bbox": [
+      498,
+      869,
+      874,
+      949
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "802.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      45,
+      63,
+      334
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "80 ",
+    "bbox": [
+      40,
+      491,
+      58,
+      505
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      64,
+      496,
+      243
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In Russia, it sharply limited the ability of the authorities to respond to critical social needs at a time of harsh structural transformation. In Turkey, it led to the emergence of an entire political class associated with the distribution of political patronage through the state banks and a broad range of quasi-fiscal operations. In Argentina, it gradually turned tax evasion into a national pastime, leading observers such as Mussa to observe that Argentina had surpassed itself in its own “past accomplishments in the dubious domain of fiscal irresponsibility” (2002, p 10). ",
+    "bbox": [
+      116,
+      246,
+      496,
+      407
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The potential benefits of an approach to development that seeks to incorporate the above mutually reinforcing elements should not be underestimated.To take an example: in an environment of accountability and political legitimacy, people will be far more likely to become active participants in the economy. A broadly shared sense of entitlement to economic transactions will then become an engine of economic growth. A growing economy will boost private incomes and enable the state to collect taxes out of which it will be able to finance expenditures, including in vitally important social areas such as education. Higher levels of spending on education and health care have been shown to be associated with reductions in infant mortality and a fall in birth rates. Female literacy and improved schooling change women’s fertility behavior, and end up having widespread implications for the environment, the pressures on which are often linked to rapid population growth. Conversely, it is possible to interpret the heartbreakingly disappointing fruits of economic development during the last half a century in terms of the absence of the above building blocks. ",
+    "bbox": [
+      116,
+      410,
+      498,
+      752
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Insights from the GCI and the Executive Opinion Survey ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      770,
+      462,
+      785
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The World Economic Forum’s Growth Competitiveness Index (GCI) and the Executive Opinion Survey provide strong corroboration to the above analysis. Argentina, Russia, and Turkey have relatively low scores overall, ranking 78, 70, and 65 respectively in the GCI among 102 countries surveyed.9 Reflecting the debt default and its spillover effects, Argentina, in particular, saw its rank last year fall by several places with respect to the previous year (see detailed Tables 3–5). Lower rankings for Argentina have come not only through the macroeconomic ",
+    "bbox": [
+      116,
+      787,
+      496,
+      950
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/6b615eba02c5ae3856e318d03451742afdb7a04e1ff89245691dcc2e61cd1211.jpg",
+    "table_caption": [
+      "Table 3: Growth Competitiveness Index component ranks "
+    ],
+    "table_footnote": [
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "table_body": "<table><tr><td>Country</td><td>Argentina</td><td>Russian Federation</td><td>Turkey</td><td>Chile</td></tr><tr><td>GCI 2003-2004</td><td>78</td><td>70</td><td>65</td><td>28</td></tr><tr><td>Technology index</td><td>45</td><td>69</td><td>54</td><td>31</td></tr><tr><td>Innovation subindex</td><td>33</td><td>27</td><td>68</td><td>35</td></tr><tr><td>ICT subindex</td><td>47</td><td>56</td><td>51</td><td>36</td></tr><tr><td>Tech transfer subindex</td><td>25</td><td>94</td><td>57</td><td>18</td></tr><tr><td>Public institutions index</td><td>88</td><td>81</td><td>63</td><td>19</td></tr><tr><td>Contracts and law subindex</td><td>99</td><td>91</td><td>52</td><td>29</td></tr><tr><td>Corruption subindex</td><td>65</td><td>75</td><td>69</td><td>13</td></tr><tr><td>Macroeconomic environment index</td><td>93</td><td>61</td><td>82</td><td>35</td></tr><tr><td>Macroeconomic stability subindex</td><td>80</td><td>61</td><td>94</td><td>28</td></tr><tr><td>Country credit rating</td><td>99</td><td>55</td><td>63</td><td>31</td></tr><tr><td>Government waste</td><td>94</td><td>76</td><td>75</td><td>36</td></tr></table>",
+    "bbox": [
+      526,
+      94,
+      911,
+      276
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/63959167be5c2b47e6ab71a36f096d0db3d62bb5a8b792795bf2535b452164ef.jpg",
+    "table_caption": [
+      "Table 4: Macroeconomic environment index ranks "
+    ],
+    "table_footnote": [
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "table_body": "<table><tr><td>Country</td><td>Argentina</td><td>Russian Federation</td><td>Turkey</td><td>Chile</td></tr><tr><td>Macroeconomic stability subindex</td><td>80</td><td>61</td><td>94</td><td>28</td></tr><tr><td>Recession expectations</td><td>45</td><td>34</td><td>43</td><td>42</td></tr><tr><td>Ease of access to credit</td><td>102</td><td>49</td><td>79</td><td>37</td></tr><tr><td>Inflation</td><td>99</td><td>93</td><td>100</td><td>40</td></tr><tr><td>Interest rate spread</td><td>89</td><td>76</td><td>91</td><td>30</td></tr><tr><td>Real exchange rate</td><td>1</td><td>62</td><td>73</td><td>27</td></tr><tr><td>Government surplus/deficit</td><td>94</td><td>12</td><td>99</td><td>25</td></tr><tr><td>Savings rate</td><td>55</td><td>10</td><td>36</td><td>55</td></tr><tr><td>Country credit rating</td><td>99</td><td>55</td><td>63</td><td>31</td></tr><tr><td>Government waste</td><td>94</td><td>76</td><td>75</td><td>36</td></tr><tr><td>Macroeconomic Environment Index 2003-2004</td><td>93</td><td></td><td>82</td><td>35</td></tr></table>",
+    "bbox": [
+      526,
+      382,
+      911,
+      565
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/8ab316d108783d11b64dfe74fa970301fb94842b610a2c438cf1b11144f0798c.jpg",
+    "table_caption": [
+      "Table 5: Public institutions index ranks "
+    ],
+    "table_footnote": [
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "table_body": "<table><tr><td>Country</td><td>Argentina</td><td>Russian Federation</td><td>Turkey</td><td>Chile</td></tr><tr><td>Contracts and law subindex</td><td>99</td><td>91</td><td>52</td><td>29</td></tr><tr><td>Judicial independence</td><td>95</td><td>81</td><td>57</td><td>38</td></tr><tr><td>Property rights Favoritism in decisions of government</td><td>102</td><td>96</td><td>66</td><td>19</td></tr><tr><td>officials</td><td>98</td><td>81</td><td>61</td><td>32</td></tr><tr><td>Organized crime</td><td>84</td><td>87</td><td>42</td><td>25</td></tr><tr><td>Corruption subindex</td><td>65</td><td>75</td><td>69</td><td>13</td></tr><tr><td>Irregular payments in exports &amp; imports</td><td>80</td><td>87</td><td>83</td><td>8</td></tr><tr><td>Irregular payments in public utilities</td><td>54</td><td>79</td><td>67</td><td>15</td></tr><tr><td>Irregular payments in tax collection</td><td>73</td><td>59</td><td>58</td><td>17</td></tr><tr><td>Public Institutions Index 2003-2004</td><td>88</td><td>81</td><td>63</td><td>19</td></tr></table>",
+    "bbox": [
+      526,
+      675,
+      911,
+      847
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "81 ",
+    "bbox": [
+      937,
+      493,
+      954,
+      505
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "812.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      41,
+      957,
+      334
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/58d851b154d2b7415d09390e0882808f95daa28a1fde896eeeeb2b0fcb76506f.jpg",
+    "image_caption": [
+      "Figure 2: Protection of minority shareholders’ interests ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      88,
+      109,
+      459,
+      431
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/c15726dec9dc916aee0a2a88c5104d8e620bf9bee4a26d810466b2a821d865d9.jpg",
+    "image_caption": [
+      "Figure 3: Diversion of public funds ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      503,
+      107,
+      879,
+      431
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/ed6fb73202b2af2ca99a88a94d15ac4b49f48d81ad27fbc72dcd0a59451eb088.jpg",
+    "image_caption": [
+      "Figure 4: Irregular payments in tax collection ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      564,
+      454,
+      886
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/c7141f7cf69a74aaac97f5bbb467bf1ad7dc16eb4d867faf3655df97faf955c0.jpg",
+    "image_caption": [
+      "Figure 5: Efficiency of legal framework ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      503,
+      563,
+      879,
+      885
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "82 ",
+    "bbox": [
+      40,
+      493,
+      58,
+      505
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "822.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      40,
+      41,
+      65,
+      333
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/bf85bbcbb8c784b703935701f8b038a8b3d04a8b6e4c12860c4dcab37722968b.jpg",
+    "image_caption": [
+      "Figure 6: Judicial independence ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      107,
+      490,
+      430
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/f0c00b726d0a821fdf0e19abb9a217253abbda28515b2ea85559f49b0e319ac3.jpg",
+    "image_caption": [
+      "Figure 7: Extent of distortive government intervention ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      535,
+      111,
+      911,
+      428
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "component of the index, but also through a marked deterioration in the quality of the underlying public institutions, whether it be through indicators that attempt to capture the extent of diversion of public funds, the independence of the judicial system, or the overall efficiency of the legal framework, among others. Across a broad range of such “institutional” factors, Argentina, Russia, and Turkey score poorly—often near the bottom—in a set of 19 countries chosen from a variety of geographical regions, often in the same “neighborhood.” Several questions from the Executive Opinion Survey— many of them used in the calculation of the GCI—as well as others that provide additional insights into the institutional environment, show unusually low rankings (see Figures 2 through 11). Among these are the protection of minority shareholders’ interests, the strength of auditing and accounting standards, the diversion of public funds, the extent of distortive government intervention, the independence of the judiciary, and the efficiency of the legal framework. ",
+    "bbox": [
+      116,
+      520,
+      496,
+      845
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The challenges ahead ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      863,
+      254,
+      877
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In the period ahead, Russia has the brightest macroeconomic prospects of the three countries surveyed.The country bounced back from the 1998 crisis and has had, in the last four years, a period of robust growth.Terms of trade gains and the salutory effects of a sharp real depreciation of the ruble, combined with cautious fiscal and monetary policies, have all helped. But the authorities have not only learned the virtues of fiscal discipline, they have also started getting serious about structural reform. During the last couple of years they have approved an impressive list of legislative measures that have finally opened the way for private ownership of agricultural land (the last remaining legacy of the country’s Soviet central planning past), introduced a Chilean-style private pension system, revamped the judiciary, and are now about to create a stabilization fund to reduce the economy’s vulnerability to sharp changes in the price of oil.The economy is likely to expand by over 6 percent in 2003, taxes are being collected, the 2003 budget is projected to be in surplus for the fourth year running, and the days of fiscal chaos seem a thing of the past.With an unusually well educated labor force and a vast natural resource endowment, the country clearly has the inner resources for a prolonged period of high growth as it continues to open up to the beneficial effects of international trade and investment, technology transfers, and multifaceted interactions with the global economy. But although the political consensus for macroeconomic stability is, by now, broad based, the country has a long way to go in terms of the creation of a friendly environment for private-sector ",
+    "bbox": [
+      114,
+      881,
+      490,
+      944
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      526,
+      518,
+      910,
+      944
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "83 ",
+    "bbox": [
+      937,
+      493,
+      955,
+      505
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "832.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      333
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/39ef53b283a1ed066193f24306dbecf1fe4707f98738190f9ededf10bfa874eb.jpg",
+    "image_caption": [
+      "Figure 8: Strength of auditing and accounting standards ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      88,
+      107,
+      464,
+      429
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/4ae6184985d11efe0bfe4c77b1014614116d13bf8392b45b3bfa99cec9943b25.jpg",
+    "image_caption": [
+      "Figure 9: Ethical behavior of firms ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      501,
+      107,
+      879,
+      429
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "activity. So the challenges for this and future governments have less to do with running a tight budget and more to do with protecting minority investors’ rights, improving the regulatory framework, reducing the incidence of corruption, safeguarding the progress made in the 1990s in the area of civil liberties and press freedom, and maintaining arms’ length relationships with Russia’s ubiquitous oligarchic structures, the bitter fruit of the corrupt privatization schemes brought into being in the mid-1990s. ",
+    "bbox": [
+      86,
+      518,
+      465,
+      665
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The main challenge for the Argentine government and its new president, Mr Kirchner, is to learn how to run a tight fiscal ship. This is likely to be an onerous task, partly because of the historical legacy of never actually having succeeded at it for a sufficiently prolonged period of time, but also because, unlike Russia, it is difficult to envisage a positive terms of trade shock that might lift the balance of payments and the budget out of the current crisis. For the foreseeable future, Argentina will have to run, large primary surpluses on the budget to make room for sizeable payments on its soon-to-be-restructured massive eurobond external debt. At the same time the authorities will have to nurture the fledging economic recovery under way, following the catastrophic GDP decline seen in 2002. Fiscal discipline will be particularly tough for the provinces, which have traditionally counted on the central government to pick up the tab for budgetary largesse. But, like ",
+    "bbox": [
+      86,
+      666,
+      468,
+      944
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Russia, the country has a generous natural resource endowment and a sophisticated labor force—one of the most sophisticated in Latin America.10 If Chile, a net energy importer facing essentially the same external environment, has managed to sustain high growth rates while simultaneously improving a broad range of social indicators, then Argentina surely has the potential to do it too. ",
+    "bbox": [
+      498,
+      518,
+      875,
+      632
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Turkey was “saved” during the period 2000–02 from the consequences of its own poor policies by massive infusions of IMF cash. This was, as in Russia in the mid-1990s, a “strategic decision” by the Fund’s largest shareholders intended to prevent an economic meltdown— reflecting over two decades of fiscal mismanagement— from turning into a political crisis, as was the case in Argentina and Russia, where debt default precipitated the fall of both governments.Turkey did not default; it bought some time for itself and, along the way, changed substantially the composition of its debt obligations, sharply increasing the share denominated in foreign currencies, including, of course, its debt obligation to the IMF. But, as in Russia, the crises of the last several years have been a sobering reminder to the Turkish political classes that runaway inflation and rising indebtedness are a recipe for disaster. Indeed, the crises of the past couple of years led to a major shift in the political landscape and the emergence of a new government in late 2002. Macroeconomic management has improved, GDP growth in 2003 should top 6 percent, but it is difficult to see sustainable debt dynamics. Over the longer term, this is likely to be as much a headache for the government as for the IMF.Turkey, like Russia, needs to make improvements in a number of structural areas. FDI is unusually low, reflecting an ambiguous attitude to foreign participation in the domestic economy by government and businesses alike.The treatment of minorities and the government’s track record in the area of human rights remain important challenges to face if the government is going to succeed in its bid to secure the start of EU accession negotiations. Unlike Russia, however,Turkey has a thriving entrepreneurial class that has been doing business in the region for the last several hundred years and this, perhaps more than anything else, is the country’s real hope for the future. ",
+    "bbox": [
+      498,
+      633,
+      880,
+      944
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "84 ",
+    "bbox": [
+      42,
+      493,
+      58,
+      505
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "842.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      40,
+      41,
+      65,
+      333
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/ed0dea08ba3da96d78239807d8cbe1a7fb7949f4e70f35398c804bc79d1e58c3.jpg",
+    "image_caption": [
+      "Figure 10: Foreign ownership restrictions ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      108,
+      491,
+      429
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/14c008e8ce8c65997cc2db4bbc9cab18bc6ada5745d5a05c02739ff7c69799e2.jpg",
+    "image_caption": [
+      "Figure 11: Quality of the educational system ",
+      "Source: Executive Opinion Survey 2003 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      534,
+      108,
+      911,
+      428
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      518,
+      496,
+      780
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Happy families are all alike11 ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      811,
+      310,
+      827
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "One of the most far reaching economic experiments under way today is the integration of the transition economies of eastern and central Europe into the economic, political, and institutional arrangements of the European Union.This process is expected to result in the accession of 10 new countries in May of 2004, bringing to a close an important chapter in the evolution of both the EU and the countries concerned.The implementation of economic policies in the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Slovakia, and Slovenia, in particular, has taken place against the background of the policy and institutional requirements established for each country at the time of its EU accession negotiations. These arrangements have provided a credible framework for the implementation of sound economic policies that have contributed to boost these countries’ growth performance (see Table 6). Governments have largely been able to sell to their voters a combination of cautious macro policies and ambitious structural reforms—including the burdens that they often bring with them—as part of a broader strategic political objective: joining the richest trading block in the world. ",
+    "bbox": [
+      116,
+      829,
+      490,
+      943
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      526,
+      518,
+      911,
+      763
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The economic agenda ",
+    "text_level": 1,
+    "bbox": [
+      527,
+      781,
+      666,
+      796
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "It is useful to separate the economic reform agenda pursued by these countries in recent years into two broad categories. First, one might identify those policies that are necessary to facilitate the transformation of these countries into “functioning market economies,” able to withstand competitive pressures within a much larger economic area with well-developed private sectors.These policies would include: greater price flexibility, progress on trade and capital account liberalization, the removal of barriers to entry to and exit from the market place, privatization and industrial restructuring, adequate provision of social services, and legal and administrative reforms to underpin the creation of a stable macroeconomic environment, among others.12 Progress in these areas has been tangible in all of the candidate countries, although there are important differences among them in the speed with which the reform process has moved forward. ",
+    "bbox": [
+      526,
+      799,
+      911,
+      944
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "85 ",
+    "bbox": [
+      937,
+      493,
+      955,
+      505
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "852.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      44,
+      957,
+      333
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1372325/auto/images/1b8e6451d11ac2139189724cd3f22254f4f088ecbf4af3e2517cf3d203b07f7a.jpg",
+    "table_caption": [
+      "Table 6: GDP growth averages for accession countries "
+    ],
+    "table_footnote": [
+      "Sources: WDI 2003 (1996–2001) and WEO 2003 (2002) "
+    ],
+    "table_body": "<table><tr><td rowspan=\"2\">Country</td><td colspan=\"8\">GDP growth (annual %)</td><td rowspan=\"2\">Average 1995-2002</td></tr><tr><td>1995</td><td>1996</td><td>1997</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td></tr><tr><td>Czech Republic</td><td>6.4</td><td>4.8</td><td>-1.3</td><td>-1.0</td><td>0.5</td><td>3.3</td><td>3.3</td><td>2.0</td><td>2.2</td></tr><tr><td>Estonia</td><td>4.3</td><td>3.9</td><td>9.8</td><td>4.6</td><td>-0.6</td><td>7.1</td><td>5.0</td><td>5.0</td><td>4.9</td></tr><tr><td>Hungary</td><td>1.5</td><td>1.3</td><td>4.6</td><td>4.9</td><td>4.2</td><td>5.2</td><td>3.8</td><td>3.3</td><td>3.6</td></tr><tr><td> Latvia</td><td>-0.8</td><td>3.3</td><td>8.6</td><td>3.9</td><td>1.1</td><td>6.8</td><td>7.6</td><td>6.1</td><td>4.6</td></tr><tr><td>Lithuania</td><td>3.3</td><td>4.7</td><td>7.3</td><td>5.1</td><td>-3.9</td><td>3.8</td><td>5.9</td><td>5.9</td><td>4.0</td></tr><tr><td>Poland</td><td>7.0</td><td>6.0</td><td>6.8</td><td>4.8</td><td>4.1</td><td>4.0</td><td>1.0</td><td>1.3</td><td>4.4</td></tr><tr><td>Slovak Republic</td><td>6.5</td><td>5.8</td><td>5.6</td><td>4.0</td><td>1.3</td><td>2.2</td><td>3.3</td><td>4.4</td><td>4.1</td></tr><tr><td>Slovenia</td><td>4.1</td><td>3.5</td><td>4.6</td><td>3.8</td><td>5.2</td><td>4.6</td><td>3.0</td><td>2.9</td><td>4.0</td></tr></table>",
+    "bbox": [
+      84,
+      94,
+      789,
+      219
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      291,
+      465,
+      421
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Most noteworthy, progress has taken place even in countries that have seen frequent government changes, reflecting in many cases the early onset of experimentation with forms of democratic pluralism. Because consensus about EU entry among the political elite has been fairly widespread, the reform agenda has not fallen victim to political infighting.The overarching goal of early EU entry has been a powerful incentive to keep the politicians on track, preventing inevitable political squabbles from bringing decision making to a standstill. Latvia provides perhaps the most striking example: it has had about ten different governments in the past decade, but remains one of the top performers among the first contingent of accession countries. (Incidentally, this raises the issue of whether economic integration and the associated build-up of institutional mechanisms of cooperation could provide a useful backdrop for sustained economic and structural reforms in other parts of the world—Latin America, for instance— but this is the subject of another paper.) ",
+    "bbox": [
+      86,
+      424,
+      468,
+      733
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Countries such as Estonia, Hungary, Slovenia, the Czech Republic, and Latvia are seen to have made the most progress; this has been reflected in their ability to attract large volumes of foreign direct investment and to access the international capital markets at tighter spreads than the vast majority of other developing countries, and in the ability of the authorities to respond effectively to changes in the international economic environment. Of these countries, Estonia has perhaps been the most impressive performer; it remains the only country among accession candidates that has actually had to introduce distortions as part of its EU accession negotiations. In particular, it has had to raise import tariffs to the EU’s common external tariff—having long disposed of taxes on international trade—and, most significantly, it has had to put in place the inefficient subsidies and other mechanisms of the EU’s common agricultural policy, to the considerable chagrin of its politicians and civil servants. ",
+    "bbox": [
+      86,
+      736,
+      462,
+      946
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      498,
+      291,
+      882,
+      372
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The second category of economic reforms would include those that are not prerequisites for accession per se, but that are intended to ease the process of convergence with the EU. Among them, one would include those aimed at modernizing key institutions such as the pension system, boosting investment in key areas likely to enhance the economy’s growth potential, and, more generally, making progress in introducing a number of “intangibles” in the economic and institutional environment that are seen to be basic elements of private-sector development. ",
+    "bbox": [
+      498,
+      375,
+      880,
+      536
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Insights from the GCI and the Executive Opinion Survey ",
+    "text_level": 1,
+    "bbox": [
+      500,
+      554,
+      843,
+      568
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "It is worth noting that, quite aside from the very good overall macroeconomic performance of these countries, the accession countries are among the top performers in the developing world on a broad spectrum of questions posed in the World Economic Forum’s Executive Opinion Survey. In particular, a number of them score in the top third among the 102 countries surveyed. Noteworthy are: the extent of distortionary government intervention in the economy, with Estonia (9), Latvia (21), and Hungary (30) being the lead performers; irregularities in the payment of taxes and associated unethical behavior—Hungary (22), Estonia (26), Slovenia (29); the independence of the judiciary—Estonia (22), Hungary (29); restrictions to foreign ownership of local firms—Hungary (12), Slovak Republic (13), Estonia (29); quality of the educational system— Latvia (19), Slovenia (26), Estonia (29), Czech Republic (32), Lithuania (33); and public trust in the financial integrity of politicians—Latvia (31), Estonia (33). ",
+    "bbox": [
+      498,
+      571,
+      882,
+      864
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Policy options ",
+    "text_level": 1,
+    "bbox": [
+      498,
+      883,
+      588,
+      897
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The above achievements notwithstanding, there are a number of factors that are likely to shape the macroeconomic environment for the accession countries in the ",
+    "bbox": [
+      498,
+      900,
+      867,
+      946
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "862.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      40,
+      65,
+      334
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "86 ",
+    "bbox": [
+      19,
+      484,
+      60,
+      508
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "period ahead and perhaps constrain in important ways policymakers’ responses to them. EU accession candidates are expected to continue to grow fast in the next several years.The medium-term growth potential of the eight transition economies in central and eastern Europe in particular remains high, reflecting, among several other factors, the continued elimination of the distortions of their central planning past and the beneficial effects of the institutional and policy improvements associated with EU entry.The implementation of so-called second generation structural reforms are also likely to play a role, as will the fact that these countries have well-educated labor forces being exposed to a veritable flood of FDI and the benefits that it brings, a feature that should continue to boost labor productivity. ",
+    "bbox": [
+      116,
+      63,
+      498,
+      309
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Good fundamentals mean that capital will continue to flow into these economies. These flows will take the form of FDI and portfolio flows but, with good growth prospects, the private sectors could be expected to play an even more prominent role in capital markets abroad, boosting current account deficits. A counterpart of capital inflows is high growth rates for imports, partly reflecting the import requirements of newly established firms and foreign affiliates, but also the modernization needs of existing enterprises, which, to stay competitive, must invest and upgrade. Indeed, these processes are already underway and large current account deficits have been a permanent feature of the macroeconomic landscape in virtually all of these countries during the last several years. (Deficits at times in the 10 to 15 percent of GDP range have not been unusual.) ",
+    "bbox": [
+      116,
+      310,
+      498,
+      571
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Relative price adjustments in the transition to a market economy are among the key factors that have contributed to the persistence of higher inflation in transition countries.The prices of previously heavily subsidized goods and services (eg, food, housing, health care, and public utilities) with a large weight in the Consumer Price Index (CPI) have all increased sharply in recent years leading to upward adjustments in the price levels. Although this gap has narrowed, it is still there and will continue to put pressures on the currencies for real appreciation. Prices of nontradables have been rising faster (than the overall CPI) nearly everywhere among transition EU candidates, and this means that these economies will continue to experience real appreciation, beyond the 20 to 50 percent seen since the mid-1990s. ",
+    "bbox": [
+      116,
+      574,
+      500,
+      818
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The above factors are likely to reinforce each other. Countries expected to grow more rapidly and to experience real appreciation of their currencies may attract even more capital inflows. Increased productivity in the tradables sector and rising relative prices in nontradables will increase the return on capital in both sectors and boost capital inflows.This, in turn, could put further upward pressures on currencies, higher current account deficits, and foreign debt accumulation by the private sectors.The question that policymakers will want to ask is whether the above set of factors implies any particular risks as the countries join the EU and, subsequently, cope with the challenges of the new environment. ",
+    "bbox": [
+      116,
+      819,
+      491,
+      949
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      526,
+      64,
+      910,
+      145
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "One possible scenario to this policy environment sees the authorities managing the pressures identified above through a combination of cautious fiscal policies and structural reforms.Tight budgets mitigate the pressures on the current account, while structural reforms enhance productivity and increase the level of the equilibrium exchange rate that is consistent with export competitiveness. In this scenario, some of these countries might want to continue to protect their access to international capital markets and, where needed, adapt their exchange rate regimes to changing circumstances, such as the broadening of the fluctuation bands carried out in Hungary a couple of years ago.This scenario assumes that there would be no major external shocks that might lead to capital outflows and put undue pressures on the exchange rate (particularly in those countries with fairly tight pegs), leading to possible currency crises.The main constraint in this scenario would be the need for budgetary restraint at a time when it might make more sense for governments to have a more active fiscal policy, for instance to increase capital spending for infrastructure or to upgrade the countries’ health and education systems, still lagging behind those of the EU. Some countries, such as Poland and the Czech Republic, might find this quite a tall order, given the large publicsector deficits that are presently envisaged for the period 2003–04. ",
+    "bbox": [
+      526,
+      146,
+      911,
+      570
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Given that the accession countries do not have an opt-out from European Monetary Union (EMU) and have all thus agreed to adopt the euro in due course, this scenario assumes that the authorities would be prepared to deal with the above stresses for at least several years.Those countries unable to implement a tight fiscal policy will obviously be more vulnerable and may see their adoption of the euro delayed. For those able to rise to the above challenges, however, the benefits are likely to be substantial.The main benefit of adopting the euro will stem from the elimination of currency risk, together with the capital outflows and volatility that often accompany it. Interest rates would be expected to decline and would perhaps be higher than international (euro-area) rates only in reflection of country risk. Lower interest rates would in turn bring about budgetary savings, as governments issued bonds at even lower rates.To this could be added the savings associated with monetary operations that central banks carry out to sterilize capital inflows. ",
+    "bbox": [
+      527,
+      574,
+      908,
+      883
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The accession countries and the euro ",
+    "text_level": 1,
+    "bbox": [
+      529,
+      901,
+      764,
+      915
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The eventual adoption of the euro would surely strengthen financial links with the euro area and the global ",
+    "bbox": [
+      527,
+      919,
+      905,
+      949
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "872.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      335
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "87 ",
+    "bbox": [
+      937,
+      493,
+      955,
+      505
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "economy. Sustained price stability would dispel uncertainties and would improve investor sentiment as countries’ commitment to financial discipline and sound fiscal policies were perceived to be irreversible.The elimination of currency risk would also reduce the collateral effects of contagion episodes, which can be quite ugly in their ramifications. Furthermore, the risk of a currency crisis precipitating a banking crisis because of currency mismatches would be greatly diminished as well. Closer integration with financial markets would encourage capital inflows and boost growth prospects, without the undesirable effects identified above, in terms of either an appreciating currency or the need to have budget surpluses to mitigate the effects of growth and capital inflows on the current account. So policymakers would be able to focus on structural reforms without immediately having to put the brakes on the economy because of concerns about external sustainability. ",
+    "bbox": [
+      84,
+      64,
+      470,
+      358
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Enlargement will involve the integration of two sets of countries with very different levels of per capita GDP. The transition economies of central and eastern Europe have an average per capita GDP of some 35 percent of the EU average and a level of development—levels of productivity, the underlying stability of the macroeconomic and political environment, the strength of policies and institutions, the stability of the legal environment—that is seen as being still behind that of the EU’s existing members. ",
+    "bbox": [
+      86,
+      361,
+      470,
+      506
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Convergence to average EU income levels will take time and a combination of sound policies in the countries joining—including a major boost to physical and human capital investment—and the transfer of technology and financial resources from the EU to the new members. How quickly this process of convergence moves will be a key indicator of the strength of domestic policies and the ability of the authorities to lay out a credible macroeconomic and legal framework: Ireland has already caught up with the EU average GDP per capita; Greece, on the other hand, more than 20 years after joining, still has not. ",
+    "bbox": [
+      86,
+      508,
+      468,
+      686
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "But the above challenges are of the “second order.” They essentially involve careful management of macroeconomic policy against an otherwise favorable backdrop, involving the gradual catching up of each new EU member country to the higher levels of per capita income in the EU. This is a process that is bringing with it institutional innovation and modernization, technology transfer, increased labor mobility, and the full participation of these countries in the build up of the supranational institutional structure that is gradually emerging in Europe. For instance: to facilitate policy coordination ahead of EMU, the governors of all the central banks of countries joining the EU next year will promptly sit on the ECB’s General Council.The accession countries are also expected to have fully independent central banks by end-2003, ahead of EU entry, to be able to prepare the way for EMU unencumbered by political pressures from their respective governments, which might impose constraints on the conduct of monetary policy. ",
+    "bbox": [
+      86,
+      688,
+      468,
+      950
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      496,
+      65,
+      877,
+      112
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "A bright future? ",
+    "text_level": 1,
+    "bbox": [
+      498,
+      130,
+      596,
+      145
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The experience of the central and eastern European economies is tremendously relevant for the developing world for a number of interrelated reasons. First, it is useful to be able to point to a set of countries that, collectively, have had a fairly sustained period of relatively strong growth, reflecting the favorable consequences of good macroeconomic policies and ambitious structural reforms. Estonia, Hungary, Slovenia, and some of the other countries in the region—as Chile in Latin America—show the ample scope for good policies to affect economic outcomes, even in the context of an increasingly interdependent global economy. Second, their experience shows that when policymakers have a clearly defined vision of where the country should go, powerful domestic incentives are created for the discipline that inevitably must accompany good macro management.This “vision” was provided in the early 1990s by the political and strategic decision to join the EU by the end of the decade. Deadlines were missed, and joining the EU turned out to be a far more labyrinthine process than anyone had ever anticipated. But a legal and institutional framework was put in place that provided useful guideposts for policymakers and made it possible for politicians to credibly justify tough adjustment measures to their respective populations. ",
+    "bbox": [
+      498,
+      147,
+      882,
+      537
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "It could be argued that this situation was unique to these countries, that in the absence of a welcoming EU, Poland, a distorted economy in the early 1990s emerging out of many decades of inefficient economic management, would, most likely, have gone the way of Argentina, Venezuela, or Nigeria, squandering opportunities and ended up having a far more uneven performance.There may be an element of truth to this, but it does not take away the credit that is due to policymakers in these countries who, on the whole, seized a unique chance and made the most of it. Incidentally, there is nothing to prevent other regional groupings from creating such incentives for themselves, Latin America being the most obvious example. Clearly, political leadership will be key. Finally, the accession countries have not fully made it yet. As noted above, they will face tricky challenges surrounded, as they are, by some of the largest and most competitive economies in the world. But they will become an integral part of a community of nations engaged in a promising economic and political experiment and the benefits of this, for the countries’ institutions, for the management of their respective economies, for the growth of personal incomes and the standard of living of their populations, will far outweigh the costs. ",
+    "bbox": [
+      498,
+      542,
+      880,
+      933
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "882.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      42,
+      45,
+      65,
+      333
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "88 ",
+    "bbox": [
+      19,
+      483,
+      60,
+      508
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Notes ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      65,
+      156,
+      78
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      526,
+      65,
+      604,
+      79
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "1 Augusto Lopez-Claros is the World Economic Forum’s chief economist and Director of the Global Competitiveness Programme. ",
+    "bbox": [
+      116,
+      83,
+      488,
+      104
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "2 See The Global Competitiveness Report 2002–2003 and the studies by Cook; Farrell; Ickes, von Hagen, and Traistaru; and Larrain B. therein. ",
+    "bbox": [
+      116,
+      113,
+      473,
+      147
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "3 For an interesting discussion of some of challenges faced in China and India, see the discussion by Baily elsewhere in this volume. ",
+    "bbox": [
+      114,
+      155,
+      490,
+      178
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4 For a thorough discussion of the causes of the Asian financial crises see Petersen and Hills (1999) and Stiglitz (2002). ",
+    "bbox": [
+      114,
+      185,
+      496,
+      207
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5 In a very readable piece on financial crises, John Cassidy (1999) quotes Keynes on the risks posed by free capital mobility in the 1940s: “nothing is more certain than the movement of capital funds must be regulated for if this did not happen money would shift with the speed of the magic carpet and these movements would have the effect of disorganizing all steady business.” See Cassidy (1999). ",
+    "bbox": [
+      114,
+      215,
+      491,
+      284
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "6 For an interesting discussion on this and related issues see the excellent article by Richard Cooper (2002). ",
+    "bbox": [
+      114,
+      291,
+      500,
+      314
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "7 The IMF’s First Deputy Managing Director Anne Krueger refers to “the need for better incentives to ensure the orderly and timely restructuring of unsustainable sovereign debts.” See, for instance, Kreuger (2002). ",
+    "bbox": [
+      116,
+      320,
+      495,
+      366
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "8 For a fuller discussion of this and related issues see Sen (1999). ",
+    "bbox": [
+      116,
+      375,
+      454,
+      386
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "9 Russia has seen a worsening of its rank on the macroeconomic component of the index, which sits somewhat at odds with the general strengthening in some of the key macroeconomic indicators, particularly the overall improvement in the fiscal accounts and the balance of payments. The deterioration reflects a couple of distinct factors. First, the macroeconomic stability subindex incorporates variables on which Russia has not done particularly well on an international perspective. Inflation, for instance, while low by Russian historical standards, remains quite high on a cross-country basis. A 15 percent year-on-year rate of inflation in 2002 puts Russia in 93rd place among 102 countries. A similar comment can be made about the gap between lending and borrowing interest rates, a measure of the overall inefficiency of Russia’s largely unreformed financial sector. The other factor is specific to changes made in the methodology of computation of the index. Whereas last year the government to GDP ratio would be used as an input into the macroeconomic component of the index (with Russia doing well overall), this year a measure of government waste in allocating expenditure is being used, on which Russia does considerably less well, with a rank of 76 among the 102 countries surveyed. ",
+    "bbox": [
+      114,
+      392,
+      500,
+      621
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "10 Latin American countries have had their share of Nobel prize winners in literature during the past several decades. However, of the three Nobel prizes awarded to Latin America in science, all three have gone to Argentine nationals (one in chemistry and two in medicine). Its scientists have shown a considerable capacity for innovation— note, for instance, the achievements of Dr Rene Favoloro, the inventor of the coronary heart by-pass and other surgical procedures. ",
+    "bbox": [
+      117,
+      627,
+      498,
+      708
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "11 “Happy families are all alike; every unhappy family is unhappy in its own way,” is the starting sentence of Tolstoy’s Anna Karenina (1875). ",
+    "bbox": [
+      116,
+      715,
+      478,
+      748
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "12 For a comprehensive discussion of these issues the reader may refer to the EU’s Enlargement Papers issued by the European Commission’s Directorate-General for Economic and Financial Affairs. ",
+    "bbox": [
+      116,
+      757,
+      488,
+      803
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Cassidy, J. 1999. “The New World Disorder,” The New Yorker November 2: 198–207. ",
+    "bbox": [
+      527,
+      83,
+      905,
+      104
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Cook, L. D. 2003. “Africa: A Union Open for Growth, Trade, and Business?” In The Global Competitiveness Report 2002–2003. New York: Oxford University Press. ",
+    "bbox": [
+      526,
+      113,
+      906,
+      147
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Cooper, R. 2002. “Chapter 11 For Countries,” Foreign Affairs: July/August: pp 90–103. ",
+    "bbox": [
+      526,
+      155,
+      910,
+      178
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "European Commission. Enlargement Papers, issued by the European Commission’s Directorate-General for Economic and Financial Affairs. ",
+    "bbox": [
+      527,
+      184,
+      882,
+      218
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Farrell, D. 2003. “Asia: The Productivity Imperative.” In The Global Competitiveness Report 2002–2003. New York: Oxford University Press. ",
+    "bbox": [
+      526,
+      227,
+      895,
+      260
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Ickes, B. W., J. von Hagen, I. Traistaru. 2003. “Central and Eastern Europe: Economic Developments, Reforms, and Geography.” In The Global Competitiveness Report 2002–2003. New York: Oxford University Press. ",
+    "bbox": [
+      526,
+      268,
+      910,
+      314
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "International Monetary Fund (IMF). 2003a. IMF Country Report No. 03/226, July 2003; Article IV Consultation Report for Argentina. ",
+    "bbox": [
+      527,
+      320,
+      877,
+      344
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "International Monetary Fund (IMF). 2003b. Public Information Notice (PIN) No. 03/42, April 2, 2003. ",
+    "bbox": [
+      526,
+      352,
+      906,
+      375
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "International Monetary Fund (IMF). 2003c. Proposals for a Sovereign Debt Restructuring Mechanism (SDRM). Washington, DC: International Monetary Fund, January. ",
+    "bbox": [
+      526,
+      382,
+      908,
+      416
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Krueger, A. 2002. “New Approaches to Sovereign Debt Restructuring: An Update on Our Thinking,” Speech delivered on 1 April 2002 at the IIE in Washington, DC. ",
+    "bbox": [
+      526,
+      422,
+      905,
+      457
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Larrain B., F. 2003. “Lights and Shadows of Latin American Competitiveness.” In The Global Competitiveness Report 2002–2003. New York: Oxford University Press. ",
+    "bbox": [
+      527,
+      465,
+      854,
+      500
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Lopez-Claros, A. and S. Alexashenko. 1998. “Fiscal Policy Issues During the Transition in Russia,” Occasional Paper No. 173. Washington, DC: International Monetary Fund. ",
+    "bbox": [
+      526,
+      507,
+      898,
+      541
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Lopez-Claros, A. and M. Zadormov. 2002. “Economic Reforms: Steady as She Goes,” The Washington Quarterly Winter 25(1). ",
+    "bbox": [
+      526,
+      547,
+      905,
+      570
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Mussa, M. 2002. “Argentina and the Fund: From Triumph to Tragedy,” Institute for International Economics, Policy Analyses in International Economics, July 2002, 67, Washington DC. ",
+    "bbox": [
+      526,
+      579,
+      908,
+      613
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Petersen, P. G. and C. A Hills. 1999. “The Future of the International Financial Architecture,” Foreign Affairs: November/December. ",
+    "bbox": [
+      527,
+      621,
+      877,
+      643
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Rouleau, E. 2000. “Turkey’s Dream of Democracy,” Foreign Affairs: November/December. ",
+    "bbox": [
+      526,
+      650,
+      875,
+      674
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Sen, A. 1999. Development as Freedom. New York: Knopf. ",
+    "bbox": [
+      529,
+      681,
+      828,
+      693
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Stiglitz, J. E. 2002. Globalization and Its Discontents. London: Allen Lane, The Penguin Press. ",
+    "bbox": [
+      526,
+      700,
+      901,
+      723
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "89 ",
+    "bbox": [
+      937,
+      493,
+      955,
+      505
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "892.2: Varieties of Economic Experience in the Developing World ",
+    "bbox": [
+      934,
+      42,
+      957,
+      334
+    ],
+    "page_idx": 16
+  }
+]

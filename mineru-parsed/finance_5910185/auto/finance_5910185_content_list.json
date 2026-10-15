@@ -1,0 +1,3527 @@
+[
+  {
+    "type": "text",
+    "text": "Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss however arising from or in reliance upon the whole or any part of the contents of this announcement. ",
+    "bbox": [
+      90,
+      65,
+      909,
+      158
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Progressive Path Group Holdings Limited ",
+    "text_level": 1,
+    "bbox": [
+      242,
+      174,
+      756,
+      197
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "進昇集團控股有限公司",
+    "bbox": [
+      347,
+      200,
+      650,
+      222
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "(Incorporated in the Cayman Islands with limited liability) (Stock Code: 1581) ",
+    "bbox": [
+      284,
+      225,
+      709,
+      262
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2019 ",
+    "text_level": 1,
+    "bbox": [
+      189,
+      284,
+      803,
+      323
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "FINANCIAL HIGHLIGHTS",
+    "text_level": 1,
+    "bbox": [
+      109,
+      351,
+      373,
+      370
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Revenue was approximately $\\mathrm { H K S 1 } 2 4 . 4$ million for the six months ended 30 September 2019, representing an increase of approximately $1 3 . 3 \\%$ as compared to that for the same period in 2018. ",
+    "bbox": [
+      107,
+      391,
+      895,
+      447
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Gross profit was approximately $\\mathrm { H K S } 1 3 . 1$ million for the six months ended 30 September 2019, as compared to a gross loss of approximately $\\mathrm { H K S } 1 9 . 9$ million for the same period in 2018. ",
+    "bbox": [
+      105,
+      467,
+      895,
+      523
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Gross profit margin for the six months ended 30 September 2019 was approximately $1 0 . 6 \\%$ , compared to gross loss margin of approximately $1 8 . 1 \\%$ for the same period in 2018. ",
+    "bbox": [
+      105,
+      544,
+      895,
+      599
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• Profit attributable to owners of the Company was approximately $\\mathrm { H K S } 1 . 2$ million for the six months ended 30 September 2019, as compared to loss attributable to owners of the Company of approximately $\\mathrm { H K S } 3 0 . 8$ million for the same period in 2018. ",
+    "bbox": [
+      105,
+      620,
+      895,
+      676
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• Earnings per share amounted to approximately HK0.1 cents for the six months ended 30 September 2019, as compared to loss per share amounted to approximately HK3.0 cents for the same period in 2018. ",
+    "bbox": [
+      105,
+      696,
+      895,
+      751
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• The Board does not recommend the payment of an interim dividend for the six months ended 30 September 2019. ",
+    "bbox": [
+      110,
+      772,
+      894,
+      808
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The board (the “Board”) of directors (the “Directors”) of Progressive Path Group Holdings Limited (the “Company”) hereby announces the unaudited condensed consolidated interim results of the Company and its subsidiaries (collectively the “Group”) for the six months ended 30 September 2019 together with the comparative figures for corresponding period ended 30 September 2018. ",
+    "bbox": [
+      92,
+      840,
+      907,
+      934
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "– 1 – ",
+    "bbox": [
+      477,
+      966,
+      521,
+      979
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      64,
+      904,
+      101
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2019 ",
+    "bbox": [
+      92,
+      103,
+      579,
+      120
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/44a44e960f7645f32e6c4cd2ee3992b5766c74f562f18a45a85ee6612a5e7512.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"4\">Six months ended 30 September</td></tr><tr><td></td><td>Notes</td><td>2019 HK$&#x27;000 (unaudited)</td><td>2018 HK$&#x27;000 (unaudited)</td></tr><tr><td>Revenue Cost of revenue</td><td>5</td><td>124,445</td><td>109,821 (129,693)</td></tr><tr><td></td><td></td><td>(111,309)</td><td></td></tr><tr><td>Gross profit (loss)</td><td></td><td>13,136</td><td>(19,872)</td></tr><tr><td>Other income</td><td>7</td><td>2,201</td><td>3,173</td></tr><tr><td>Administrative expenses</td><td></td><td>(10,232)</td><td>(12,969)</td></tr><tr><td>Finance costs</td><td>8</td><td>(2,902)</td><td>(2,781)</td></tr><tr><td>Profit (loss) before taxation</td><td>9</td><td>2,203</td><td>(32,449)</td></tr><tr><td>Income tax (expense) credit</td><td></td><td>(986)</td><td>1,662</td></tr><tr><td>Profit (loss) and total comprehensive income (expense) for the period</td><td>10</td><td>1,217</td><td>(30,787)</td></tr><tr><td>Profit (loss) and total comprehensive income (expense) for the period attributable to: Owners of the Company</td><td></td><td>1,227</td><td>(30,787)</td></tr><tr><td>Non-controlling interest</td><td></td><td>(10)</td><td></td></tr><tr><td></td><td></td><td>1,217</td><td>(30,787)</td></tr><tr><td>Earnings (loss) per share: Basic and diluted</td><td>12</td><td>0.12 cents</td><td>(2.97 cents)</td></tr></table>",
+    "bbox": [
+      89,
+      134,
+      922,
+      730
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      477,
+      967,
+      521,
+      979
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT 30 SEPTEMBER 2019 ",
+    "text_level": 1,
+    "bbox": [
+      90,
+      64,
+      806,
+      101
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/02c21dafc4b700cd89b78d080110597751950c96211f9f445cf145b47c032592.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=10 colspan=6>As at                  As at30 September            31 March2019                  2019Notes             HK$&#x27;000             HK$&#x27;000(unaudited)             (audited)Non-current assets Property, plant and equipment                         13                 158,352              107,371Deposit paid for acquisition of property,plant and equipment                                                            3,209                 4,038Pledged deposits                                                                      3,946                 2,157Investment in an associate                               14                          1165,507              113,566Current assets</td></tr><tr><td rowspan=1 colspan=2>30 September            31 March</td></tr><tr><td rowspan=1 colspan=2>2019                  2019</td></tr><tr><td rowspan=1 colspan=1>HK$&#x27;000</td><td rowspan=1 colspan=1>HK$&#x27;000</td></tr><tr><td rowspan=2 colspan=2>(unaudited)             (audited)158,352              107,3713,209                 4,038</td><td rowspan=1 colspan=1>(audited)</td></tr><tr><td rowspan=1 colspan=1>rrenta</td></tr><tr><td rowspan=1 colspan=1>3,946</td><td rowspan=3 colspan=1>2,157113,566</td></tr><tr><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>165,507</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=4>Trade receivables                                          15</td><td rowspan=1 colspan=1>143,622</td><td rowspan=1 colspan=1>138,714</td></tr><tr><td rowspan=1 colspan=3>Contract assets</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>42,188</td><td rowspan=1 colspan=1>37,132</td></tr><tr><td rowspan=13 colspan=4>Deposits, prepayments and other receivablesIncome tax recoverableBank balances and cashCurrent liabilitiesTrade and other payables                                17Amount due to a related companyLease liabilities                                             18Bank and other borrowingsObligations under finance leases - due within one yearNet current assetsTotal assets less current liabilities</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>17,820</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3,335</td><td rowspan=1 colspan=1>2,288</td></tr><tr><td rowspan=1 colspan=1>5,347</td><td rowspan=1 colspan=1>42,655</td></tr><tr><td rowspan=1 colspan=1>212,312</td><td rowspan=1 colspan=1>237,708</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=2 colspan=1>35,219</td></tr><tr><td rowspan=1 colspan=1>46,368</td></tr><tr><td rowspan=2 colspan=1>14052,205</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28,576</td><td rowspan=1 colspan=1>36,81330,078</td></tr><tr><td rowspan=1 colspan=1>127,289</td><td rowspan=1 colspan=1>102,110</td></tr><tr><td rowspan=1 colspan=1>85,023</td><td rowspan=1 colspan=1>135,598</td></tr><tr><td rowspan=1 colspan=1>250,530</td><td rowspan=1 colspan=1>249,164</td></tr><tr><td></td><td></td></tr></table>",
+    "bbox": [
+      85,
+      124,
+      912,
+      864
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "– 3 – ",
+    "bbox": [
+      477,
+      966,
+      521,
+      979
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/45c4dba87ae2bac5ec2df4cc6aa8a16563298e532c6e62412287ca48f6f50927.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Notes (unaudited)</td><td rowspan=\"2\">As at 30 September 2019 HK$&#x27;000</td><td>As at 31 March</td></tr><tr><td>2019 HK$&#x27;000</td></tr><tr><td>Non-current liabilities</td><td></td><td></td><td>(audited)</td></tr><tr><td>Lease liabilities</td><td>18</td><td>37,074</td><td></td></tr><tr><td>Bank and other borrowings Obligations under finance leases - due after</td><td></td><td></td><td>11,353</td></tr><tr><td>one year</td><td></td><td></td><td>26,563</td></tr><tr><td>Deferred tax liabilities</td><td></td><td>8,379</td><td>7,393</td></tr><tr><td></td><td></td><td>45,453</td><td></td></tr><tr><td></td><td></td><td></td><td>45,309</td></tr><tr><td>Net assets</td><td></td><td>205,077</td><td>203,855</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Capital and reserves</td><td></td><td></td><td></td></tr><tr><td>Share capital</td><td>19</td><td>10,375</td><td>10,375</td></tr><tr><td>Reserves</td><td></td><td>194,707</td><td>193,480</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Equity attributable to owners of the Company</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>205,082</td><td>203,855</td></tr><tr><td>Non-controlling interest</td><td></td><td>(5)</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Total equity</td><td></td><td>205,077</td><td>203,855</td></tr></table>",
+    "bbox": [
+      87,
+      67,
+      912,
+      579
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "– 4 – ",
+    "bbox": [
+      477,
+      967,
+      521,
+      979
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2019 ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      64,
+      800,
+      102
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/33901971cbd177373e77f8b1ab7a267afa919af90a99590d5ebc2612e0aed519.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"5\">Attributable to owners of the Company</td><td rowspan=\"2\">Non- controlling interest</td><td rowspan=\"2\">Total HK$&#x27;000</td></tr><tr><td>Share capital HK$&#x27;000</td><td>Share premium HK$&#x27;000</td><td>Other reserve HK$&#x27;000 (Note i)</td><td>Retained profits HK$&#x27;000</td><td>Total HK$&#x27;000 HK$&#x27;000</td></tr><tr><td>At 1 April 2018 (Audited) Loss and total comprehensive</td><td>10,375</td><td>109,078</td><td>35,457</td><td>94,444</td><td>249,354</td><td></td><td>249,354</td></tr><tr><td>expense for the period</td><td></td><td></td><td></td><td>(30,787)</td><td>(30,787)</td><td></td><td>(30,787)</td></tr><tr><td>At 30 September 2018 (Unaudited)</td><td>10,375</td><td>109,078</td><td>35,457</td><td>63,657</td><td>218.567</td><td></td><td>218,567</td></tr><tr><td>At 1 April 2019 (Audited)</td><td>10,375</td><td>109,078</td><td>35,457</td><td>48,945</td><td>203,855</td><td></td><td>203,855</td></tr><tr><td>Profit and total comprehensive income for the period</td><td></td><td></td><td></td><td>1,227</td><td>1,227</td><td>(10)</td><td>1,217</td></tr><tr><td>Establishment of a subsidiary</td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>5</td></tr><tr><td>At 30 September 2019 (Unaudited)</td><td>10,375</td><td>109,078</td><td>35,457</td><td>50,172</td><td>205,082</td><td>(5)</td><td>205,077</td></tr></table>",
+    "bbox": [
+      89,
+      123,
+      912,
+      513
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Note: ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      529,
+      132,
+      542
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(i) Other reserve represents the retained earnings in respect of the construction machinery rental business (the “Construction Machinery Rental Business”) contribution from the controlling shareholder prior to the transfer of business to the Group. Since 1 April 2015, the Construction Machinery Rental Business has been transferred from the controlling shareholder to Luen Yau Construction Company Limited (“Luen Yau Construction”). ",
+    "bbox": [
+      92,
+      558,
+      907,
+      636
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "– 5 – ",
+    "bbox": [
+      477,
+      966,
+      521,
+      979
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "NOTES TO THE CONDENSED INTERIM FINANCIAL INFORMATION FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2019 ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      64,
+      773,
+      101
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1. GENERAL INFORMATION ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      116,
+      363,
+      131
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Company was incorporated in the Cayman Islands under the Companies Law, Chapter 22 (Law 3 of 1961, as consolidated and revised) of the Cayman Islands as an exempted company with limited liability on 21 April 2016 and its shares were listed on the Main Board of The Stock Exchange of Hong Kong Limited (the “SEHK”) on 8 December 2016. Its ultimate holding company and immediate holding company is Profit Gold Global Limited, a limited company incorporated in the British Virgin Islands (“BVI”). The addresses of the registered office and the principal place of business of the Company are Unit 1108, 11/F, Tuen Mun Central Square, 22 Hoi Wing Road, Tuen Mun, New Territories, Hong Kong. ",
+    "bbox": [
+      139,
+      147,
+      907,
+      255
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Company is an investment holding company while the principal subsidiaries are principally engaged in the construction works, provision of construction machinery rental and trading of construction machinery. ",
+    "bbox": [
+      141,
+      271,
+      907,
+      317
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated financial statements are presented in Hong Kong dollars $( ^ { 6 6 } \\mathbf { H } \\mathbf { K } \\$ 3$ , which is the same as the functional currency of the Company and its subsidiaries (the “Group”). ",
+    "bbox": [
+      139,
+      334,
+      904,
+      363
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2. BASIS OF PREPARATION ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      380,
+      354,
+      394
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated financial statements for the six months ended 30 September 2019 have been prepared in accordance with Hong Kong Accounting Standard (“HKAS”) 34 “Interim Financial Reporting” issued by the Hong Kong Institute of Certified Public Accountants (the “HKICPA”). In addition, the condensed consolidated financial statements have been prepared in accordance with the applicable disclosure provisions of Appendix 16 of the Rules Governing the Listing of Securities on the SEHK. ",
+    "bbox": [
+      141,
+      410,
+      907,
+      502
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3. PRINCIPAL ACCOUNTING POLICIES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      518,
+      453,
+      533
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated financial statements have been prepared on the historical cost basis. ",
+    "bbox": [
+      136,
+      549,
+      831,
+      564
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The accounting policies used in the condensed consolidated financial statements are consistent with those followed in the preparation of the Group’s annual consolidated financial statements for the year ended 31 March 2019 except as described below. ",
+    "bbox": [
+      141,
+      580,
+      905,
+      626
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the current interim period, the Group has applied, for the first time, the following new and amendments to Hong Kong Financial Reporting Standards (“HKFRSs”), which include HKFRSs, HKASs, amendments and interpretation (“Int(s)”) issued by the HKICPA which are effective for the Group’s financial year beginning 1 April 2019: ",
+    "bbox": [
+      139,
+      643,
+      904,
+      703
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "HKFRS 16   \nHK(IFRIC) – Int 23   \nAmendments to HKFRS 9   \nAmendments to HKFRS 19   \nAmendments to HKAS 28   \nAmendments to HKFRSs ",
+    "bbox": [
+      139,
+      720,
+      341,
+      810
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Leases Uncertainty over Income Tax Treatments Prepayment Features with Negative Compensation Plan Amendment, Curtailment or Settlement Long-term Interests in Associates and Joint Ventures Annual Improvements to HKFRSs 2015 – 2017 Cycle ",
+    "bbox": [
+      423,
+      720,
+      813,
+      813
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The adoption of HKFRS 16 resulted in changes in the Group’s accounting policies and adjustments to the amounts recognised in the condensed consolidated financial statements. The new accounting policies are set out in note 4 below. The application of other new and amendments to HKFRSs in the current interim period has had no material effect on the Group’s financial performance and positions for the current and prior periods and/or on the disclosures set out in the condensed consolidated financial statements. ",
+    "bbox": [
+      141,
+      826,
+      909,
+      902
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– 6 – ",
+    "bbox": [
+      477,
+      967,
+      521,
+      979
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "HKFRS 16 introduces new or amended requirements with respect to lease accounting. It introduces significant changes to the lessee accounting by removing the distinction between operating lease and finance lease and requiring the recognition of right-of-use asset and a lease liability for all leases, except for short-term leases and leases of low value assets. In contrast to lessee accounting, the requirements for lessor accounting have remained largely unchanged. Details of these new accounting policies are described in note 4. ",
+    "bbox": [
+      188,
+      96,
+      905,
+      187
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group has applied HKFRS 16 Leases retrospectively with the cumulative effect of initial application as an adjustment to the opening balance of equity, where appropriate, at 1 April 2019, and has not restated comparatives for the 2018 reporting period as permitted under the specific transitional provisions in the standard. Accordingly, certain comparative information may not be comparable as comparative information was prepared under HKAS 17 Leases. ",
+    "bbox": [
+      188,
+      204,
+      905,
+      280
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group applies the new definition of a lease in HKFRS 16 only to contracts that were entered into or changed on or after 1 April 2019. For contracts entered into before 1 April 2019, the Group has used the transitional practical expedient to grandfather the previous assessment of which existing arrangements are or contain leases. ",
+    "bbox": [
+      188,
+      297,
+      905,
+      357
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Accordingly, contracts that were previously assessed as leases under HKAS 17 continue to be accounted for as leases under HKFRS 16 and contracts previously assessed as non-lease service arrangements continue to be accounted for as executory contracts. ",
+    "bbox": [
+      189,
+      375,
+      907,
+      419
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The major impacts of the adoption of HKFRS 16 on the Group’s condensed consolidated financial statements are described below. ",
+    "bbox": [
+      186,
+      436,
+      905,
+      466
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group as lessee ",
+    "text_level": 1,
+    "bbox": [
+      189,
+      482,
+      336,
+      497
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "On adoption of HKFRS 16, the Group recognised lease liabilities in relation to leases which had previously been classified as ‘operating leases’ under the principles of HKAS 17 Leases (except for lease of low value assets and lease with remaining lease term of twelve months or less). These liabilities were measured at the present value of the remaining lease payments, discounted using the lessee’s incremental borrowing rate as of 1 April 2019. The weighted average lessee’s incremental borrowing rate applied to the lease liabilities on 1 April 2019 was $2 . 6 3 \\%$ . ",
+    "bbox": [
+      188,
+      513,
+      907,
+      605
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group recognises right-of-use assets and measures them at an amount equal to the lease liability, adjusted by the amount of any prepaid or accrued lease payments – the Group applied this approach for all other leases. ",
+    "bbox": [
+      189,
+      621,
+      905,
+      667
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group leases a number of motor vehicles and machinery. These leases were classified as finance leases under HKAS 17. For these finance leases, the carrying amount of the right-of-use asset and the lease liability at 1 April 2019 were determined at the carrying amount of the lease asset and lease liability under HKAS 17 immediately before that date. Accordingly, the obligations under finance leases and those included in bank and other borrowings are now included within lease liabilities, and the carrying amount of the corresponding leased asset is identified as a right-of-use asset. ",
+    "bbox": [
+      188,
+      683,
+      905,
+      790
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "There is no impact on the opening balance of equity on adoption of HKFRS 16. ",
+    "bbox": [
+      189,
+      807,
+      756,
+      821
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group as lessor ",
+    "text_level": 1,
+    "bbox": [
+      189,
+      838,
+      336,
+      852
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Group leases some of the motor vehicles and machinery. The accounting policies applicable to the Group as lessor are not different from those under HKAS 17. ",
+    "bbox": [
+      188,
+      869,
+      905,
+      898
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "– 7 – ",
+    "bbox": [
+      477,
+      966,
+      521,
+      979
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.1 Impacts on adoption of HKFRS 16 Leases ",
+    "bbox": [
+      139,
+      65,
+      505,
+      80
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The following table summarises the impact of transition to HKFRS 16 at 1 April 2019. Line items that were not affected by the adjustments have not been included. ",
+    "bbox": [
+      186,
+      65,
+      904,
+      96
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/a538282cb3aec9d1c9b445aebbd3533a49f52267ef781fa97d1afae85a6aa31c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"4\">previously</td></tr><tr><td></td><td></td><td>reported at 31 March 2019</td><td>Impact on amount as adoption of restated at HKFRS16 1 April 2019</td></tr><tr><td></td><td>Notes</td><td>HK$&#x27;000 HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td></td><td>107,371</td><td>1,380</td><td></td></tr><tr><td>Property, plant and equipment Bank and other borrowings</td><td>(a) (b)</td><td>(16,478)</td><td>108,751 31,688</td></tr><tr><td>Obligations under finance leases</td><td>(b)</td><td>48,166 56,641</td><td>(56,641)</td></tr><tr><td>Lease liabilities</td><td>(b)</td><td>一</td><td>74,499 74,499</td></tr></table>",
+    "bbox": [
+      186,
+      110,
+      909,
+      285
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Notes: ",
+    "bbox": [
+      188,
+      296,
+      236,
+      309
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "(a) As at 1 April 2019, right-of-use assets were measured at an amount equal to the lease liability of approximately HK\\$1,380,000.   \n(b) The obligations under finance leases and those previously included in bank and other borrowings of approximately $\\mathrm { H K S 5 6 } , 6 4 1 , 0 0 0$ and $\\mathrm { H K S 1 6 , } 4 7 8 , 0 0 0$ as at 31 March 2019 respectively are now included within lease liabilities under HKFRS 16. ",
+    "bbox": [
+      183,
+      325,
+      907,
+      418
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The analysis of the net book value of the Group’s right-of-use assets by class of underlying asset at the end of the reporting period and at the date of transition to HKFRS 16 is as follows: ",
+    "bbox": [
+      186,
+      435,
+      909,
+      464
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/9cfe8fefc756b66bab0b3bb545e305991cc16d0b91409d55c90ad4498262baec.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>At 30 September 2019</td><td>At 1 April 2019</td></tr><tr><td></td><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>Included in “Property, plant and equipment&quot;:</td><td></td><td></td></tr><tr><td>Properties leased for own use, carried at depreciated cost Motor vehicles and machinery,carried at depreciated cost</td><td>789</td><td>1,380</td></tr><tr><td></td><td>86,652</td><td>60,347</td></tr></table>",
+    "bbox": [
+      184,
+      481,
+      907,
+      650
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.2 Practical expedients applied ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      661,
+      405,
+      676
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On the date of initial application of HKFRS 16, the Group has used the following practical expedients permitted by the standard: ",
+    "bbox": [
+      183,
+      692,
+      905,
+      722
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "the use of a single discount rate to a portfolio of leases with reasonably similar characteristics; and   \nthe accounting for operating leases with a remaining lease term of less than 12 months as at 1 April 2019 as short-term leases. ",
+    "bbox": [
+      186,
+      738,
+      907,
+      815
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "– 8 – ",
+    "bbox": [
+      477,
+      966,
+      521,
+      979
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "4. CHANGE IN ACCOUNTING POLICIES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      80,
+      458,
+      96
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Leases ",
+    "bbox": [
+      141,
+      112,
+      193,
+      126
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Definition of a lease ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      142,
+      290,
+      156
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Under HKFRS 16, a contract is, or contains, a lease if the contract conveys a right to control the use of an identified asset for a period of time in exchange for consideration. ",
+    "bbox": [
+      139,
+      173,
+      905,
+      203
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Group as lessee ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      219,
+      289,
+      234
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Group assesses whether a contract is or contains a lease, at inception of the contract. The Group recognises a right-of-use asset and a corresponding lease liability with respect to all lease arrangements in which it is the lessee, except for short-term leases (defined as leases with a lease term of 12 months or less). For these leases, the Group recognises the lease payments as an operating expense on a straight-line basis over the term of the lease unless another systematic basis is more representative of the time pattern in which economic benefits from the leased assets are consumed. ",
+    "bbox": [
+      141,
+      250,
+      907,
+      342
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Lease liabilities ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      359,
+      257,
+      373
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "At the commencement date, the Group measures lease liability at the present value of the lease payments that are not paid at that date. The lease payments are discounted by using the interest rate implicit in the lease. If this rate cannot be readily determined, the Group uses its incremental borrowing rate. ",
+    "bbox": [
+      141,
+      390,
+      905,
+      435
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Lease payments included in the measurement of the lease liability comprise fixed lease payments (including in-substance fixed payments). ",
+    "bbox": [
+      139,
+      451,
+      904,
+      481
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The lease liability is presented as a separate line in the condensed consolidated statement of financial position. ",
+    "bbox": [
+      139,
+      498,
+      904,
+      527
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The lease liability is subsequently measured by increasing the carrying amount to reflect interest on the lease liability (using the effective interest method) and by reducing the carrying amount to reflect the lease payments made. ",
+    "bbox": [
+      141,
+      544,
+      905,
+      589
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Right-of-use assets ",
+    "bbox": [
+      141,
+      606,
+      277,
+      620
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The right-of-use assets comprise the initial measurement of the corresponding lease liability, lease payments made at or before the commencement date and any initial direct costs, less lease incentives received. ",
+    "bbox": [
+      141,
+      637,
+      905,
+      682
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Right-of-use assets are subsequently measured at cost less accumulated depreciation and impairment losses. They are depreciated over the shorter period of lease term and useful life of the underlying asset. If a lease transfers ownership of the underlying asset or the cost of the right-of-use asset reflects that the Group expects to exercise a purchase option, the related right-of-use asset is depreciated over the useful life of the underlying asset. The depreciation starts at the commencement date of the lease. ",
+    "bbox": [
+      141,
+      699,
+      905,
+      775
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Group presents right-of-use assets in “property, plant and equipment”, the same line item as that within which the corresponding underlying assets would be presented if they were owned. ",
+    "bbox": [
+      139,
+      791,
+      904,
+      821
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Group applies HKAS 36 to determine whether a right-of-use asset is impaired and accounts for any identified impairment loss as described in the “Impairment on tangible assets” policy as stated in the Group’s annual consolidated financial statements for the year ended 31 March 2019. ",
+    "bbox": [
+      141,
+      838,
+      905,
+      883
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "– 9 – ",
+    "bbox": [
+      477,
+      967,
+      521,
+      979
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "5. REVENUE ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      65,
+      228,
+      79
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Revenue represents the revenue from construction works, construction machinery rental services and trading of construction machinery. ",
+    "bbox": [
+      137,
+      96,
+      907,
+      126
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Revenue from contracts with customers – Contract revenue from construction works – Trading of construction machinery ",
+    "bbox": [
+      139,
+      235,
+      460,
+      281
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Revenue from other sources – Construction machinery rental services ",
+    "bbox": [
+      139,
+      297,
+      435,
+      328
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/fe01bf698d594c863d00488fab161ea0950aa9a36f709e2198b2dd06300a7496.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">For the six months ended</td></tr><tr><td>30 September</td><td></td></tr><tr><td>2019 HK$&#x27;000</td><td>2018</td></tr><tr><td>(unaudited)</td><td>HK$&#x27;000 (unaudited)</td></tr><tr><td></td><td></td></tr><tr><td>33,089</td><td>41,022</td></tr><tr><td></td><td>5,880</td></tr><tr><td>91,356</td><td>62,919</td></tr><tr><td></td><td></td></tr><tr><td>124,445</td><td>109,821</td></tr></table>",
+    "bbox": [
+      631,
+      141,
+      910,
+      370
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "6. SEGMENT INFORMATION ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      385,
+      364,
+      399
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Information reported to the directors, being the chief operating decision maker, for the purpose of resource allocation and assessment of segment performance focuses on types of services provided. No operating segments identified by the chief operating decision maker have been aggregated in arriving at the reportable segments of the Group. ",
+    "bbox": [
+      139,
+      416,
+      907,
+      478
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Specifically, the Group’s reportable segments are as follows: ",
+    "bbox": [
+      139,
+      493,
+      579,
+      508
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Construction works; Construction machinery rental; and Trading of construction machinery ",
+    "bbox": [
+      139,
+      524,
+      443,
+      601
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Segment revenues and results ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      617,
+      368,
+      632
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The following is an analysis of the Group’s revenue and results by reportable and operating segment. ",
+    "bbox": [
+      137,
+      648,
+      865,
+      663
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "– 10 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For the six months ended 30 September 2019 (unaudited) ",
+    "bbox": [
+      139,
+      66,
+      563,
+      79
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/4c0aa85d4f8f86bc30150821ed668fa4896be52f19effb4418db06de922f44c5.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\"></td><td rowspan=\"2\">Construction Trading of construction machinery</td><td rowspan=\"2\">Total</td></tr><tr><td></td><td>Construction works</td><td>machinery rental</td></tr><tr><td></td><td>HK$&#x27;000</td><td>HK$&#x27;000</td><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>Segment revenue</td><td></td><td></td><td></td><td></td></tr><tr><td>External revenue</td><td>33,089</td><td>91,356</td><td></td><td>124,445</td></tr><tr><td>Inter-segment revenue</td><td></td><td>37,639</td><td></td><td>37,639</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Segment revenue</td><td>33,089</td><td>128,995</td><td></td><td>162,084</td></tr><tr><td>Eliminations</td><td></td><td></td><td></td><td>(37,639)</td></tr><tr><td>Group revenue</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>124,445</td></tr><tr><td>Segment profit</td><td>1,624</td><td>4,856</td><td></td><td>6,480</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Unallocated income</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2,201</td></tr><tr><td>Unallocated corporate expenses</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>(3,576)</td></tr><tr><td>Unallocated finance costs</td><td></td><td></td><td></td><td>(2,902)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      136,
+      96,
+      912,
+      448
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Profit before tax ",
+    "bbox": [
+      141,
+      448,
+      260,
+      462
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "For the six months ended 30 September 2018 (unaudited) ",
+    "bbox": [
+      139,
+      486,
+      564,
+      500
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/892907152e97ef590857e2531938efbd49a3aa2bf6af934fcc110bea0e24e447.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">Construction</td><td colspan=\"2\">Trading of</td></tr><tr><td></td><td>Construction</td><td>machinery</td><td>construction</td><td></td></tr><tr><td></td><td>works</td><td>rental</td><td>machinery</td><td>Total</td></tr><tr><td></td><td>HK$&#x27;000</td><td>HK$&#x27;000</td><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>Segment revenue</td><td></td><td></td><td></td><td></td></tr><tr><td>External revenue</td><td>41,022</td><td>62,919</td><td>5,880</td><td>109,821</td></tr><tr><td>Inter-segment revenue</td><td></td><td>34,710</td><td></td><td>34,710</td></tr><tr><td rowspan=\"2\">Segment revenue</td><td></td><td></td><td></td><td></td></tr><tr><td>41,022</td><td>97,629</td><td>5,880</td><td>144,531</td></tr><tr><td>Eliminations</td><td></td><td></td><td></td><td>(34,710)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Group revenue</td><td></td><td></td><td></td><td>109,821</td></tr><tr><td>Segment (loss) profit</td><td>(9,766)</td><td>(19,175)</td><td>1,041</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>(27,900)</td></tr><tr><td>Unallocated income</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>3,173</td></tr><tr><td>Unallocated corporate expenses</td><td></td><td></td><td></td><td>(4,941)</td></tr><tr><td>Unallocated finance costs</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>(2,781)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      136,
+      516,
+      912,
+      871
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Loss before tax ",
+    "bbox": [
+      139,
+      869,
+      253,
+      883
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "– 11 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The accounting policies of the operating segments are the same as the Group’s accounting policies. Segment profit (loss) represents the profit earned by (loss from) each segment without allocation of central administration costs, directors’ salaries, other income and finance costs. This is the measure reported to the directors with respect to the resource allocation and performance assessment. ",
+    "bbox": [
+      141,
+      65,
+      907,
+      126
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Inter-segment sales are conducted with terms mutually agreed by both contract parties. ",
+    "bbox": [
+      141,
+      142,
+      761,
+      156
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Segment assets and liabilities ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      173,
+      363,
+      187
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The following is an analysis of the Group’s assets and liabilities by reportable and operating segment: ",
+    "bbox": [
+      142,
+      204,
+      870,
+      219
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Segment assets ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      236,
+      252,
+      249
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Construction works Construction machinery rental Trading of construction machinery ",
+    "bbox": [
+      139,
+      344,
+      391,
+      388
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/bb7eff9190f3c3a5d607d781885b04fb3f2f69a27882a36fe841772ebe1b8a45.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September</td><td>At31March</td></tr><tr><td>2019</td><td>2019</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td>126,993</td><td>138,438</td></tr><tr><td>234,139</td><td>161,601</td></tr><tr><td>3,943</td><td>3,943</td></tr><tr><td></td><td></td></tr><tr><td>365,075</td><td>303,982</td></tr><tr><td>12,744</td><td>47,292</td></tr><tr><td></td><td></td></tr><tr><td>377,819</td><td>351,274</td></tr></table>",
+    "bbox": [
+      635,
+      265,
+      907,
+      482
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Total segment assets Corporate and other assets ",
+    "bbox": [
+      141,
+      410,
+      332,
+      438
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Total assets ",
+    "bbox": [
+      141,
+      460,
+      226,
+      473
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Segment liabilities ",
+    "bbox": [
+      141,
+      497,
+      277,
+      511
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Construction works Construction machinery rental ",
+    "bbox": [
+      141,
+      606,
+      361,
+      634
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/5c4e102d40e842a9dcbf7863ac0e94e034d547313c137d9bb96bc44bd4162f40.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September</td><td>At 31 March</td></tr><tr><td>2019 HK$&#x27;000</td><td>2019 HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td>110,325</td><td></td></tr><tr><td>23,105</td><td>74,826 15,074</td></tr><tr><td></td><td></td></tr><tr><td>133,430</td><td>89,900</td></tr><tr><td>39,312</td><td>57,519</td></tr><tr><td></td><td></td></tr><tr><td>172,742</td><td>147,419</td></tr><tr><td></td><td></td></tr></table>",
+    "bbox": [
+      635,
+      524,
+      907,
+      728
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Total segment liabilities Corporate and other liabilities ",
+    "bbox": [
+      141,
+      656,
+      357,
+      684
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Total liabilities ",
+    "bbox": [
+      141,
+      706,
+      252,
+      719
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "– 12 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For the purposes of monitoring segment performance and allocating resources between segments: ",
+    "bbox": [
+      136,
+      65,
+      838,
+      80
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "all assets are allocated to operating segment, other than unallocated deposits, prepayments and other receivables, income tax recoverable, pledged deposits and bank balances and cash. Assets used jointly by reportable segments are allocated on the basis of the revenues earned by individual reportable segments; and ",
+    "bbox": [
+      139,
+      96,
+      907,
+      158
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "all liabilities are allocated to operating segments, other than unallocated other payables, amount due to a related company, bank and other borrowings and deferred tax liabilities. Liabilities for which reportable segments are jointly liable are allocated in proportion to segment assets. ",
+    "bbox": [
+      157,
+      173,
+      907,
+      219
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Upon application of HKFRS 16, the Group’s right-of-use assets and liabilities are now included in the measure of segment assets and segment liabilities respectively at 30 September 2019. Comparative information is not restated. ",
+    "bbox": [
+      141,
+      235,
+      907,
+      280
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "7. OTHER INCOME ",
+    "bbox": [
+      94,
+      297,
+      284,
+      311
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Gain on disposal of property, plant and equipment   \nAuxiliary and other service income   \nInsurance claim   \nBank interest income   \nSundry income ",
+    "bbox": [
+      139,
+      420,
+      502,
+      498
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/7a68b9c863e5cd4477613c1eaa2cce81f8f156f2066af6ddc9f7efd72ee78aac.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Forthe six months ended</td></tr><tr><td>30 September 2019</td><td></td></tr><tr><td>HK$&#x27;000</td><td>2018 HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td></td><td></td></tr><tr><td>314 304</td><td>2,190</td></tr><tr><td></td><td>835</td></tr><tr><td>1,582</td><td>135</td></tr><tr><td>1</td><td>1 12</td></tr><tr><td></td><td></td></tr><tr><td>2,201</td><td></td></tr><tr><td></td><td>3,173</td></tr></table>",
+    "bbox": [
+      635,
+      328,
+      909,
+      541
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "8. FINANCE COSTS ",
+    "bbox": [
+      92,
+      555,
+      285,
+      569
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Interest on:   \n– bank borrowings   \n– lease liabilities   \n– obligations under finance leases ",
+    "bbox": [
+      139,
+      680,
+      386,
+      740
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/d4acb1365469d3a1b1c3a4775d19b09a69a0905827176e24b32be539389ac58a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">For the six months ended 30 September</td></tr><tr><td>2019</td><td>2018</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td></td><td></td></tr><tr><td>572 2,330</td><td>745</td></tr><tr><td></td><td>2,036</td></tr><tr><td></td><td></td></tr><tr><td>2,902</td><td>2,781</td></tr></table>",
+    "bbox": [
+      633,
+      585,
+      909,
+      783
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "– 13 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "9. INCOME TAX EXPENSE (CREDIT) ",
+    "bbox": [
+      92,
+      65,
+      426,
+      79
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/b674f5c0900ae78c5b97f155b1b6bb34b5fc1b594e74e9b123aa5106ffdbc0c4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">For the six months ended 30 September</td></tr><tr><td>2019</td><td>2018</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td></td><td>27</td></tr><tr><td>986</td><td>(1,689)</td></tr><tr><td>986</td><td>(1,662)</td></tr></table>",
+    "bbox": [
+      631,
+      96,
+      910,
+      294
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Current tax: Hong Kong Profits Tax   \nDeferred taxation   \nIncome tax expense (credit) ",
+    "bbox": [
+      137,
+      189,
+      346,
+      286
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Notes: ",
+    "text_level": 1,
+    "bbox": [
+      139,
+      309,
+      188,
+      322
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "a) Pursuant to rules and regulations of the Cayman Islands and the BVI, the Group is not subject to any income tax in the Cayman Islands and the BVI.   \nb) During the period ended 30 September 2019 and 2018, Hong Kong Profits Tax is calculated at $1 6 . 5 \\%$ of the estimated assessable profit. No provision for Hong Kong Profits Tax has been made as the group companies which are subject to Hong Kong Profits Tax either incurred tax losses for the period or have tax losses brought forward to set off assessable profit. ",
+    "bbox": [
+      139,
+      337,
+      907,
+      447
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "10. PROFIT (LOSS) FOR THE PERIOD ",
+    "bbox": [
+      92,
+      461,
+      426,
+      476
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/17e873455332223b4cf2078b4f58532a779934a9c15672917746f6731d5d2265.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">For the six months ended 30 September</td></tr><tr><td></td><td colspan=\"2\">2019</td></tr><tr><td></td><td>HK$&#x27;000</td><td>2018 HK$&#x27;000</td></tr><tr><td></td><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td>Profit (loss) for the period has been arrived at after charging:</td><td></td><td></td></tr><tr><td>Depreciation of property,plant and equipment (note)</td><td>27,425</td><td>28,118</td></tr><tr><td>Impairment loss on trade receivables</td><td>一</td><td>3,629</td></tr><tr><td>Operating leases rental relates to staff quarter and storage area</td><td>2,880</td><td>637</td></tr><tr><td>Amount of inventories recognised as an expense</td><td>一</td><td>4,826</td></tr><tr><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      137,
+      491,
+      910,
+      686
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Note: Included in the depreciation of property, plant and equipment for the six months ended 30 September 2019 is an amount of approximately $\\mathrm { H K S } 1 7 , 3 3 4 , 0 0 0$ that is related to depreciation of right-of-use assets. ",
+    "bbox": [
+      139,
+      701,
+      907,
+      746
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "11. DIVIDEND ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      763,
+      231,
+      777
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "No dividend was paid, declared or proposed during the six months ended 30 September 2019, nor has any dividend been proposed since the end of the interim period (six months ended 30 September 2018: nil). ",
+    "bbox": [
+      137,
+      794,
+      907,
+      825
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "– 14 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "12. EARNINGS (LOSS) PER SHARE ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      400,
+      80
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The calculation of the basic and diluted earnings (loss) per share attributable to the owners of the Company is based on the following: ",
+    "bbox": [
+      139,
+      96,
+      907,
+      126
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/a56bd7f269990bad24c066b4d44dc093fe81ce58a6b4c622e07050b12b86cfbb.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">For the six months ended</td></tr><tr><td></td><td colspan=\"2\">30 September 2019 2018</td></tr><tr><td></td><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>Earnings (loss)</td><td></td><td></td></tr><tr><td>Earnings (loss) for the purpose of basic and diluted earnings (loss) per share</td><td>1,227</td><td>(30,787)</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>2019</td><td>2018</td></tr><tr><td></td><td>&#x27;000</td><td>&#x27;000</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Number of shares</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Weighted average number of ordinary shares for the purpose of</td><td></td><td></td></tr><tr><td>basic and diluted earnings (loss) per share</td><td>1,037,500</td><td>1,037,500</td></tr><tr><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      136,
+      139,
+      915,
+      422
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The dilutive earnings (loss) per share is equal to the basic earnings (loss) per share as there were no dilutive potential ordinary shares outstanding during the period ended 30 September 2019 and 2018. ",
+    "bbox": [
+      139,
+      435,
+      909,
+      466
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "13. PROPERTY, PLANT AND EQUIPMENT",
+    "text_level": 1,
+    "bbox": [
+      94,
+      480,
+      462,
+      497
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group spent approximately $\\mathrm { H K S } 3 1 , 9 2 0 , 0 0 0$ (six months ended 30 September 2018: approximately $\\mathrm { H K S 7 } , 0 8 8 , 0 0 0 )$ ) on acquisition of property, plant and equipment. ",
+    "bbox": [
+      141,
+      512,
+      907,
+      557
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group has disposed of certain property, plant and equipment with an aggregate carrying value of approximately $\\mathrm { H K S 8 2 } , 0 0 0$ (six months ended 30 September 2018: $\\mathrm { H K S 2 9 5 , 0 0 0 }$ ) for cash proceeds of approximately $\\mathrm { H K S } 3 9 6 { , } 0 0 0$ (six months ended 30 September 2018: $\\mathrm { H K S 2 } , 4 8 5 , 0 0 0$ ), resulting in a gain on disposal of approximately $\\mathrm { H K S } 3 1 4 { , } 0 0 0$ (six months ended 30 September 2018: gain on disposal of approximately $\\mathrm { H K S 2 } , 1 9 0 , 0 0 0 )$ . ",
+    "bbox": [
+      141,
+      573,
+      907,
+      650
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Upon adoption of HKFRS 16, on 1 April 2019, the Group recognised right-of-use assets of approximately $\\mathrm { H K } \\$ 1,380,00 0$ in respect of leased properties (note 3). As at 30 September 2019, the carrying amounts of right-of-use assets were approximately $\\mathrm { H K S 7 8 9 } , 0 0 0$ , $\\mathrm { H K S } 2 1 , 3 3 2 , 0 0 0$ and $\\mathrm { H K S 6 5 } , 3 2 0 , 0 0 0$ in respect of the leased properties, motor vehicles and machinery respectively. ",
+    "bbox": [
+      141,
+      667,
+      907,
+      728
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group entered into a number of new lease agreements for motor vehicles and machinery. On lease commencement, the Group recognised right-ofuse assets of approximately $\\mathrm { H K S } 4 3 , 2 8 3 , 0 0 0$ in aggregate. ",
+    "bbox": [
+      141,
+      744,
+      905,
+      790
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "– 15 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "14. INVESTMENT IN AN ASSOCIATE ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      418,
+      79
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, the Group had interests (31 March 2019: nil) in the following associate: ",
+    "bbox": [
+      136,
+      96,
+      843,
+      111
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/a4eaf586f6b0b405a3c3a9274a3dfeb83dbb301a59b8e1604d0d857ea0ad7d32.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\">Name of entity</td><td rowspan=\"2\">Form of entityregistration</td><td rowspan=\"2\">Country of incorporation/</td><td rowspan=\"2\">Place/ Principal place of operationshares held</td><td rowspan=\"2\">Class of</td><td colspan=\"2\">Proportion of ownership interests or participating shares held</td><td rowspan=\"2\">Proportion of At At</td><td rowspan=\"2\">Principal voting power heldactivity</td></tr><tr><td>by the Group At</td><td>At</td></tr><tr><td rowspan=\"2\">深圳市華恊智慧運 管管理有限公司</td><td></td><td></td><td></td><td></td><td>30 September 2019</td><td>31 March 30 September 2019</td><td>2019</td><td>31 March 2019</td></tr><tr><td>Incorporated</td><td>People&#x27;s Republic of China (&quot;PRC&quot;)</td><td>PRC</td><td>Ordinary</td><td>51% (note)</td><td></td><td>33%</td><td>- Not yet commence business</td></tr></table>",
+    "bbox": [
+      136,
+      126,
+      897,
+      298
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Note: The Group is only able to exercise significant influence over 深圳華協 as the Group has the power to appoint one out of three directors of 深圳華協 under the provision stated in the memorandum of association of 深圳華協. ",
+    "bbox": [
+      139,
+      310,
+      907,
+      355
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "At 30 September 2019, the Group has not yet contributed any capital to 深圳華協. ",
+    "bbox": [
+      139,
+      372,
+      729,
+      387
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "15. TRADE RECEIVABLES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      403,
+      334,
+      418
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The following is an analysis of trade receivables at the end of each reporting period: ",
+    "bbox": [
+      137,
+      435,
+      742,
+      449
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Trade receivables Less: allowance for impairment of trade receivables ",
+    "bbox": [
+      139,
+      543,
+      514,
+      573
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/d630ed3016acf3c778d6c3342d6db820a45c564f6d64253e3d2289a9b8753fb4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At30 September 2019</td><td>At 31March</td></tr><tr><td>HK$&#x27;000</td><td>2019 HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td></td><td></td></tr><tr><td>162,074 (18,452)</td><td>157,166</td></tr><tr><td></td><td>(18,452)</td></tr><tr><td></td><td></td></tr><tr><td>143,622</td><td>138,714</td></tr></table>",
+    "bbox": [
+      633,
+      463,
+      910,
+      617
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The Group does not hold any collateral over these balances. ",
+    "bbox": [
+      141,
+      631,
+      571,
+      645
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The Group does not have a standardised and universal credit period granted to its customers, and the credit period of individual customer is considered on a case-by-case basis and stipulated in the project contract, as appropriate. The following is an aged analysis of trade receivables, net of allowance for impairment of trade receivables, presented based on the certified report or invoices which approximates revenue recognition date at the end of each reporting period. ",
+    "bbox": [
+      139,
+      661,
+      907,
+      739
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "– 16 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The following is an aged analysis of trade receivables, net of loss allowance, presented based on the certified report or invoices which approximates revenue recognition date at the end of each reporting period. ",
+    "bbox": [
+      141,
+      65,
+      905,
+      110
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Within 30 days 31 to 60 days 61 to 90 days 91 to 180 days 181 to 365 days Over 365 days ",
+    "bbox": [
+      139,
+      204,
+      257,
+      296
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "16. CONTRACT ASSETS ",
+    "bbox": [
+      94,
+      354,
+      312,
+      368
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/de52c799bf7e21c0fd12338d73c12386a2ef0241cf12b35aedd50e2df206eb16.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September 2019</td><td>At 31 March 2019</td></tr><tr><td>HK$&#x27;000 (unaudited)</td><td>HK$&#x27;000 (audited)</td></tr><tr><td></td><td></td></tr><tr><td>36,718</td><td>19,928</td></tr><tr><td>808</td><td>23,166</td></tr><tr><td>13,656 14,995</td><td>4,492</td></tr><tr><td></td><td>9,847</td></tr><tr><td>21,934 55,511</td><td>11,797 69,484</td></tr><tr><td>143,622</td><td></td></tr><tr><td></td><td>138,714</td></tr><tr><td>At 30 September</td><td>At 31 March</td></tr><tr><td>2019</td><td>2019 HK$&#x27;000</td></tr><tr><td>HK$&#x27;000 (unaudited)</td><td>(audited)</td></tr><tr><td>20,618</td><td></td></tr><tr><td>21,667</td><td>14,933</td></tr><tr><td></td><td>22,296</td></tr><tr><td>42,285 (97)</td><td>37,229</td></tr><tr><td></td><td>(97)</td></tr><tr><td>42,188</td><td>37,132</td></tr></table>",
+    "bbox": [
+      631,
+      122,
+      909,
+      590
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Unbilled revenue of construction contracts (note i) Retention receivables of construction contracts (note ii) ",
+    "bbox": [
+      141,
+      462,
+      539,
+      492
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Less: loss allowance for contract assets ",
+    "bbox": [
+      141,
+      527,
+      423,
+      542
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Notes: ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      601,
+      188,
+      614
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "(i) Unbilled revenue included in contract assets represents the Group’s right to receive consideration for work completed but not yet billed because the rights are conditioned on the Group’s future performance accepted by the customers. The contract assets are transferred to trade receivables when the rights become unconditional, which is typically at the time the Group obtains the certification of the completed construction work from the customers. ",
+    "bbox": [
+      139,
+      631,
+      907,
+      707
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "(ii) Retention receivables included in contract assets represents the Group’s right to receive consideration for work performed and not yet billed because the rights are conditional on the satisfaction of the service quality by the customers over a certain period as stipulated in the contracts. The contract assets are transferred to trade receivables when the rights become unconditional, which is typically at the expiry date of the period for the provision of assurance by the Group on the service quality of the construction work performed by the Group. ",
+    "bbox": [
+      141,
+      724,
+      905,
+      815
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The Group classifies these contract assets under current assets because the Group expects to realise them in its normal operating cycle. ",
+    "bbox": [
+      137,
+      832,
+      904,
+      863
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The Group recognised lifetime expected credit loss for contract assets based on individual significant customer or the ageing of customers collectively that are not individually significant. ",
+    "bbox": [
+      137,
+      878,
+      904,
+      909
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "– 17 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "17. TRADE AND OTHER PAYABLES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      410,
+      79
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Trade payables Receipt in advance Other payables Accruals ",
+    "bbox": [
+      141,
+      173,
+      278,
+      234
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/d7aba308ed03f46f1cc6f5edb33e4716d4062bc99c42740f09101c056dd3ea29.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September 2019</td><td>At 31 March</td></tr><tr><td>HK$&#x27;000</td><td>2019 HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td></td><td></td></tr><tr><td>21,999</td><td>14,911</td></tr><tr><td></td><td>584</td></tr><tr><td>10,246</td><td>10,081</td></tr><tr><td>14,123</td><td>9,643</td></tr><tr><td></td><td></td></tr><tr><td>46,368</td><td>35,219</td></tr></table>",
+    "bbox": [
+      633,
+      95,
+      907,
+      278
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The following is an aged analysis of trade payables presented based on the invoice date at the end of the reporting period: ",
+    "bbox": [
+      137,
+      292,
+      905,
+      322
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Within 30 days 31 to 60 days 61 to 90 days 91 to 365 days Over 365 days ",
+    "bbox": [
+      139,
+      416,
+      252,
+      493
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/bee830eb285db6a0cab0372a64601373c93fd36dc29c5e733e5c64d4bcb80faf.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September 2019</td><td>At 31March 2019</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td>8,919</td><td>3,097</td></tr><tr><td>959</td><td>4,334</td></tr><tr><td>4,396</td><td>2,120</td></tr><tr><td>6,433</td><td>4,416</td></tr><tr><td>1,292</td><td>944</td></tr><tr><td></td><td></td></tr><tr><td>21,999</td><td>14,911</td></tr></table>",
+    "bbox": [
+      633,
+      337,
+      907,
+      536
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The average credit period granted is 30 days. The Group has financial risk management in place to ensure that all payables are settled within the credit timeframe. ",
+    "bbox": [
+      137,
+      550,
+      905,
+      580
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "18. LEASE LIABILITIES",
+    "text_level": 1,
+    "bbox": [
+      94,
+      596,
+      314,
+      611
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Upon adoption of HKFRS 16, on 1 April 2019, the Group recognised lease liabilities of approximately $\\mathrm { H K S 7 4 } , 4 9 9 , 0 0 0$ (note 3). As at 30 September 2019, the carrying amount of lease liabilities was approximately $\\mathrm { H K S 8 9 } , 2 7 9 , 0 0 0$ . ",
+    "bbox": [
+      141,
+      627,
+      905,
+      674
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group entered into a number of new lease agreements for storage and finance lease for motor vehicles and machinery, and recognised lease liability of approximately $\\mathrm { H K S } 4 3 , 2 8 3 , 0 0 0$ . ",
+    "bbox": [
+      141,
+      689,
+      904,
+      734
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Amounts recognised in profit or loss ",
+    "bbox": [
+      141,
+      751,
+      418,
+      766
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Interest expense on lease liabilities Expense relating to short-term leases ",
+    "bbox": [
+      139,
+      875,
+      408,
+      906
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "– 18 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      774,
+      782,
+      907,
+      915
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Others ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      66,
+      196,
+      79
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "At 30 September 2019, the Group is committed to approximately $\\mathrm { H K S 1 } , 3 3 0 , 0 0 0$ for short-term leases. ",
+    "bbox": [
+      139,
+      96,
+      870,
+      111
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The total cash outflow for leases amount to approximately HK\\$28,503,000. ",
+    "bbox": [
+      141,
+      127,
+      684,
+      141
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "19. SHARE CAPITAL ",
+    "bbox": [
+      94,
+      158,
+      285,
+      172
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Ordinary share of $\\mathrm { H K S 0 . 0 1 }$ each Authorised At 31 March 2019 and 30 September 2019 ",
+    "bbox": [
+      139,
+      235,
+      447,
+      281
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/0008d92b57bb6ee32448ab402bd74d4befd058fe153d4896d158a4d82186fd27.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Number of shares</td><td>Share capital HK$</td></tr><tr><td>10,000,000,000</td><td>100,000,000</td></tr><tr><td></td><td></td></tr><tr><td>1,037,500,000</td><td>10,375,000</td></tr></table>",
+    "bbox": [
+      633,
+      187,
+      909,
+      346
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Issued and fully paid At 31 March 2019 and 30 September 2019 ",
+    "bbox": [
+      139,
+      306,
+      447,
+      337
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "20. PLEDGE OF ASSETS ",
+    "bbox": [
+      94,
+      360,
+      314,
+      374
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "At the end of the reporting period, the Group had pledged the following assets to banks and finance lease companies to secure the banking facilities and finance leases granted to the Group: ",
+    "bbox": [
+      134,
+      391,
+      904,
+      420
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Property, plant and equipment Insurance prepayment Pledged deposits ",
+    "bbox": [
+      139,
+      514,
+      361,
+      560
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/e3c6a7a36130d3605d8e0d41b4bb9bc20ab0953826baf19ff3d3f32c1ba8df08.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>At 30 September 2019</td><td>At 31March 2019</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(audited)</td></tr><tr><td>95,305</td><td>69,194</td></tr><tr><td>9,943</td><td>9,846</td></tr><tr><td>3,946</td><td>2,157</td></tr><tr><td></td><td></td></tr><tr><td>109,194</td><td>81,197</td></tr><tr><td></td><td></td></tr></table>",
+    "bbox": [
+      635,
+      436,
+      907,
+      604
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "21. CONTINGENT LIABILITIES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      617,
+      374,
+      632
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, a subsidiary has been named as defendant in one (31 March 2019: two) High Court action in respect of claims for compensation of personal injury for an amount of approximately $\\mathrm { H K S 4 } , 0 6 5 , 0 0 0$ (31 March 2019: $\\mathrm { H K S 7 } , 6 9 9 , 0 0 0 )$ in aggregate. The directors of the Company considered the claims are covered by the relevant insurance policies. No provision for potential liability has been made for the six months ended 30 September 2019 and 2018. ",
+    "bbox": [
+      139,
+      649,
+      907,
+      725
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "22. SHARE-BASED PAYMENT TRANSACTIONS ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      740,
+      504,
+      756
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Equity-settled share option scheme of the Company ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      772,
+      532,
+      787
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The Company’s share option scheme (the “Scheme”), was adopted pursuant to written resolution of the Company passed on 15 November 2016 for the primary purpose of providing incentives to directors and eligible employees, and will expire on 7 December 2026. Under the Scheme, the board of directors of the Company may grant options to eligible employees, including directors of the Company and its subsidiaries, to subscribe for shares in the Company. ",
+    "bbox": [
+      141,
+      803,
+      907,
+      879
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "– 19 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The total number of shares in respect of which options may be granted under the Scheme is not permitted to exceed $10 \\%$ of the shares of the Company in issue at any point in time, without prior approval from the Company’s shareholders. The number of shares issued and to be issued in respect of which options granted and may be granted to any individual in any one year is not permitted to exceed $1 \\%$ of the shares of the Company in issue at any point in time, without prior approval from the Company’s shareholders. Options granted to substantial shareholders or independent non-executive directors in excess of $0 . 1 \\%$ of the Company’s share capital or with a value in excess of $\\mathrm { H K } \\$ 5,000,000$ must be approved in advance by the Company’s shareholders. ",
+    "bbox": [
+      141,
+      65,
+      907,
+      187
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Options granted must be taken up on the date of grant, upon payment of $\\mathrm { H K S 1 . 0 0 }$ . Options may be exercised at any time from the date of grant of the share option to the tenth anniversary of the date of grant. The exercise price is determined by the board of directors of the Company, and will not be less than the highest of (i) the nominal value of the Company’s share; (ii) the closing price of the Company’s shares on the date of grant; and (iii) the average closing price of the shares for the five business days immediately preceding the date of grant. ",
+    "bbox": [
+      139,
+      204,
+      907,
+      297
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "No share options have been granted since the adoption of the scheme and during the six months ended 30 September 2019 and 2018. ",
+    "bbox": [
+      139,
+      312,
+      907,
+      342
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "23. RELATED PARTY TRANSACTIONS ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      359,
+      435,
+      374
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "(a) Save as disclosed elsewhere in the condensed consolidated financial statements, the Group has entered into the following transactions with related party as follows: ",
+    "bbox": [
+      131,
+      390,
+      904,
+      420
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/53bd80cc34e52432648e08f07070c86607ca1204906258535a9901a6a1a2c20a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"5\">Name of company</td><td rowspan=\"5\">Nature of transactions</td><td rowspan=\"5\"></td><td colspan=\"2\">For the six months ended 30 September</td></tr><tr><td>Note</td><td>2019</td></tr><tr><td>HK$&#x27;000</td><td>2018</td></tr><tr><td></td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr></table>",
+    "bbox": [
+      151,
+      435,
+      909,
+      551
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Notes: ",
+    "bbox": [
+      188,
+      568,
+      236,
+      581
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "(i) The transaction was carried out at terms determined and agreed by the Company and the relevant party.   \n(ii) The director of the Company, Mr. Wu Wing Hang, has direct or indirect interest in the above mentioned relevant party. ",
+    "bbox": [
+      186,
+      596,
+      907,
+      675
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "(b) Compensation of key management personnel ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      690,
+      531,
+      706
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The remuneration of directors of the Company and other members of key management personnel during the period was as follows: ",
+    "bbox": [
+      186,
+      721,
+      907,
+      751
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Short-term benefits Post-employment benefits ",
+    "bbox": [
+      188,
+      860,
+      378,
+      891
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/5d1377a8e32d5830d7f0949d33fe47ca86f9d5eff7806cfe975c788d3b027de2.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">For the six months ended</td></tr><tr><td>30 September</td><td></td></tr><tr><td>2019 HK$&#x27;000</td><td>2018 HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td>3,450</td><td></td></tr><tr><td>36</td><td>3,064 34</td></tr><tr><td></td><td></td></tr><tr><td>3,486</td><td>3,098</td></tr><tr><td></td><td></td></tr></table>",
+    "bbox": [
+      633,
+      766,
+      909,
+      934
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "– 20 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "BUSINESS AND FINANCIAL REVIEW ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      65,
+      463,
+      82
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The Group is a Hong Kong-based subcontractor engaged in (i) construction works; (ii) the provision of construction machinery rental; and (iii) trading of construction machinery. The construction works provided by us mainly include foundation and site formation works, and builder’s work and general building works. The construction machinery rental represents the rental of construction machines and construction vehicles to our customers, and the provision of machine operators and transportation services. The Group is also engaged in trading of new construction machinery which are mainly foundation machinery. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      235
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "In order to broaden its revenue base, the Group is developing the provision of aluminum system formwork rental services in Hong Kong. During the six months ended 30 September 2019, the Group has established a subsidiary, namely Full King (International) Aluminum System Formwork Technology Limited (“Full King”), with an independent third party in Hong Kong and subscribed for $51 \\%$ of the issued shares of Full King at $\\mathrm { H K S } 5 , 1 0 0$ . In addition, the Group has invested in an associate, Shenzhen Huaxie Smart Operation Management Company Limited\\* 深圳市華協智慧運營管理有限公司 (“深圳華協”), for the purpose of subletting the aluminum system formwork from People’s Republic of China (“PRC”) to Hong Kong. Up to the date of this announcement, Full King and 深圳華協 have not yet commenced any business. Apart from this, there has been no significant change in the business operations of the Group during the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      256,
+      907,
+      462
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "\\* English translation denotes for identification purposes only ",
+    "bbox": [
+      92,
+      482,
+      547,
+      497
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Revenue ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      519,
+      171,
+      535
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group generated revenue from construction works and construction machinery rental. Set out below is the breakdown of revenue of the Group during the six months ended 30 September 2019 and 2018. ",
+    "bbox": [
+      92,
+      556,
+      907,
+      611
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Construction works Construction machinery rental Trading of construction machinery ",
+    "bbox": [
+      92,
+      728,
+      393,
+      783
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/d3c2644bbf6e324441a586437e8c92a17f277d467fe953acaf3b5c74355152f2.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td></tr><tr><td>2019</td><td>2018</td></tr><tr><td>HK$&#x27;000</td><td>HK$&#x27;000</td></tr><tr><td>(unaudited)</td><td>(unaudited)</td></tr><tr><td>33,089</td><td>41,022</td></tr><tr><td>91,356</td><td>62,919</td></tr><tr><td></td><td>5,880</td></tr><tr><td>124,445</td><td>109,821</td></tr></table>",
+    "bbox": [
+      588,
+      632,
+      907,
+      833
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "– 21 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Revenue from construction works ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      401,
+      82
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the revenue derived from our construction works amounted to approximately $\\mathrm { H K S } 3 3 . 1$ million (six months ended 30 September 2018: $\\mathrm { H K S 4 1 . 0 }$ million), accounting for approximately $2 6 . 6 \\%$ (six months ended 30 September 2018: $3 7 . 3 \\% )$ of our total revenue, contributed by eight projects (six months ended 30 September 2018: nine projects). Such decrease in revenue was largely resulted from the construction projects were substantially completed and these projects had contributed relatively lower revenue at the ending phase as compared with the same period ended 30 September 2018. Moreover, only one new project was commenced during this period. Besides, the Group had awarded two new projects and five contracts from existing projects with contract sum amounting to approximately $\\mathrm { H K S 7 8 } . 8$ million during the period. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      292
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, there were nine projects on hand with total outstanding contract sum amounting to approximately $\\mathrm { H K S } 1 3 0 . 3$ million. Six projects are expected to be completed in the year ending 31 March 2020, three projects are expected to be completed in the year ending 31 March 2021 and none of them is expected to have any material interruption. Below set out a list of projects which contributed revenue to the Group during the six months ended 30 September 2019: ",
+    "bbox": [
+      92,
+      312,
+      907,
+      425
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_5910185/auto/images/d1d6d9b57807c8deaf35206bbe06143949dd9772b344618a6449087d901819ff.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Site Location/Project</td><td>Type of Works</td><td> Status</td></tr><tr><td>Tuen Mun</td><td>Builder&#x27;s work and general building works</td><td>Work in progress</td></tr><tr><td>Liantang/Heung Yuen Wai Boundary Control Point</td><td>Builder&#x27;s work and general building works</td><td>Work in progress</td></tr><tr><td>Anderson Road Quarry Site</td><td>Foundation and site formation works</td><td>Work in progress</td></tr><tr><td>Hong Kong International Airport North Commercial District</td><td>Foundation and site formation works</td><td>Work in progress</td></tr><tr><td>HK-ZH-Macau Bridge Hong Kong Boundary Crossing Facilities - Vehicle Clearance Plazas and Ancillary Buildings and Facilities</td><td>Foundation and site formation works</td><td>Work in progress</td></tr><tr><td>Yau Tong</td><td>Foundation and site formation works</td><td>Work in progress</td></tr><tr><td>Tuen Mun - Chek Lap Kok Link - Northern Connection Sub-sea Tunnel Section</td><td>Foundation and site formation works</td><td>Work in progress</td></tr><tr><td>West Kowloon Drainage Improvement - Inter-reservoirs Transfer Scheme</td><td>Foundation and site formation works</td><td>Work in progress</td></tr></table>",
+    "bbox": [
+      87,
+      438,
+      905,
+      945
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "– 22 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      980
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Below set out a list of projects which was awarded but not yet commence during the six months ended 30 September 2019: ",
+    "bbox": [
+      92,
+      65,
+      904,
+      102
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Site Location/Project Type of Works ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      122,
+      455,
+      140
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Status ",
+    "bbox": [
+      726,
+      123,
+      786,
+      140
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Ap Lei Chau Inland ",
+    "bbox": [
+      94,
+      160,
+      265,
+      177
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Foundation and site formation works ",
+    "bbox": [
+      319,
+      160,
+      635,
+      178
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Not yet commence ",
+    "bbox": [
+      726,
+      161,
+      889,
+      177
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Revenue from construction machinery rental ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      196,
+      504,
+      214
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the revenue derived from our construction machinery rental amounted to approximately $\\mathrm { H K S 9 1 . 4 }$ million (six months ended 30 September $2 0 1 8 \\colon \\mathrm { H K } \\$ 62 .9$ million), accounting for approximately $7 3 . 4 \\%$ (six months ended 30 September 2018: $5 7 . 3 \\%$ ) of our total revenue. The substantial increase in revenue in construction machinery rental income of the Group was mainly the result of the infrastructure and reclamation projects in Hong Kong, namely Three-runway system at Chek Lap Kok Airport and Tung Chung New Town Extension, have been started and commenced substantially during the period. ",
+    "bbox": [
+      92,
+      234,
+      907,
+      385
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Revenue from trading of construction machinery ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      405,
+      539,
+      423
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "For the six months ended 30 September 2019, there was no revenue contributed from our trading of construction machinery business (six months ended 30 September 2018: $\\mathrm { H K S 5 . 9 }$ million, accounting for approximately $5 . 4 \\%$ of our total revenue). The substantial decrease in revenue from trading of construction machinery as the Group intended to make use of the new machinery for its own projects. ",
+    "bbox": [
+      92,
+      443,
+      907,
+      537
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Gross Profit/(Loss) and Gross Profit/(Loss) Margin ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      557,
+      561,
+      575
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "The increase in gross profit by $1 6 6 . 1 \\%$ from approximately gross loss of $\\mathrm { H K S 1 9 . 9 }$ million for the six months ended 30 September 2018 to gross profit of approximately $\\mathrm { H K S } 1 3 . 1$ million for the six months ended 30 September 2019. The gross profit margin increased from gross loss margin of $1 8 . 1 \\%$ for the six months ended 30 September 2018 to gross profit margin of $1 0 . 6 \\%$ for the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      595,
+      907,
+      688
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "The increase in gross profit margin was mainly attributable to (i) the significant increase in the revenue generated from construction machinery rental; (ii) higher gross profit margin contributed from construction machinery rental due to enhancement of the fleet of machinery in excavators and dump trucks; and (iii) better cost control on the existing projects as the Group made more use of own machinery and labour to perform the construction works instead of subcontracting the works to third parties. ",
+    "bbox": [
+      90,
+      709,
+      907,
+      822
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "– 23 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Administrative Expenses ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      321,
+      82
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "The administrative expenses of the Group for the six months ended 30 September 2019 amounted to approximately $\\mathrm { H K S } 1 0 . 2$ million, representing a decrease of approximately $2 1 . 1 \\%$ as compared to approximately $\\mathrm { H K S } 1 3 . 0$ million for the six months ended 30 September 2018. Such decrease is mainly due to incur the impairment loss on trade receivables amounted to approximately $\\mathrm { H K S } 3 . 6$ million during the six months ended 30 September 2018, while no such impairment loss on trade receivables were made during the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      234
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Net Profit/(Loss) ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      255,
+      247,
+      273
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Profit after tax of approximately $\\mathrm { H K S } 1 . 2$ million for the six months ended 30 September 2019 as compared to loss of approximately $\\mathrm { H K S } 3 0 . 8$ million for the six months ended 30 September 2018. The increase was mainly attributable to the turnaround from gross loss to gross profit during the period. ",
+    "bbox": [
+      92,
+      293,
+      907,
+      367
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Liquidity, Financial Resources and Capital Structure ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      388,
+      579,
+      406
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "The Group has funded the liquidity and capital requirements primarily through capital contributions from shareholders, bank borrowings, cash inflows from operating activities. ",
+    "bbox": [
+      92,
+      426,
+      907,
+      462
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, the Group had bank balances of approximately $\\mathrm { H K S } 5 . 3$ million (31 March 2019: approximately $\\mathrm { H K S } 4 2 . 7$ million). The interest-bearing liabilities of the Group as at 30 September 2019 was approximately $\\mathrm { H K S 1 1 7 . 9 }$ million (31 March 2019: approximately $\\mathrm { H K S } 1 0 4 . 8$ million). The gearing ratio is calculated based on the amount of total interestbearing liabilities divided by total equity. The gearing ratio of the Group as at 30 September 2019 was approximately $5 7 . 5 \\%$ (31 March 2019: approximately $5 1 . 4 \\%$ ), representing an increase of approximately $6 . 1 \\%$ . ",
+    "bbox": [
+      92,
+      483,
+      905,
+      615
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Interim Dividend ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      636,
+      252,
+      652
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "The Board has resolved not to declare any interim dividend for the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      674,
+      907,
+      709
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Prospects ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      731,
+      181,
+      749
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Despite that the local social demonstration and global economy remains uncertain, the Directors remain optimistic towards the prospects of the construction market of Hong Kong, as in the 2019-20 Budget Speech, with the Government’s continued commitment to infrastructure investments and housing policy by various short, medium and long term land supply initiatives. It is expected construction projects is about to remain at a stable level in the next few years. However, challenges like delaying in budget approval and shortage of manpower will continue to strike the construction industry. The Directors will also closely and carefully monitor the latest development in the foundation and site formation industry as well as the construction machinery rental industry in Hong Kong. ",
+    "bbox": [
+      92,
+      769,
+      907,
+      939
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "– 24 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Looking forward, the Group will continue to strengthen the competitive edge over the competitors by enhancement of the fleet of machinery and carefully evaluate each projects by controlling the overall costs incur towards the projects, and explore to subletting business of aluminum system formwork which in turn is expected to increase shareholders’ return. Nevertheless, we believe that the worst time has passed and improvement of our business is expected in the future. ",
+    "bbox": [
+      92,
+      65,
+      907,
+      171
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Pledge of Assets ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      190,
+      240,
+      206
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, the Group’s bank borrowings and lease liabilities were secured by the property and machinery and equipment with an aggregate net carrying value of approximately $\\mathrm { H K S 9 5 } . 3$ million (31 March 2019: approximately $\\mathrm { H K S } 6 9 . 2$ million), insurance prepayment with an aggregate net book value of approximately $\\mathrm { H K S 9 . 9 }$ million (31 March 2019: approximately $\\mathrm { H K S 9 . 8 }$ million) and deposits with an aggregate net book value of approximately $\\mathrm { H K S } 3 . 9$ million (31 March 2019: approximately $\\mathrm { H K S } 2 . 2$ million). ",
+    "bbox": [
+      92,
+      225,
+      907,
+      332
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Foreign Exchange Risk ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      350,
+      305,
+      367
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "The Group mainly operates in Hong Kong and most of the operating transactions such as revenue, expenses, monetary assets and liabilities are denominated in Hong Kong dollars $( ^ { 6 6 } \\mathbf { H } \\mathbf { K } \\$ 3$ . The Directors are of the view that the Group’s risk in foreign exchange is insignificant and that we should have sufficient resources to meet foreign exchange requirements as and if they arise. Therefore, the Group has not engaged in any derivative contracts to hedge its exposure to foreign exchange risk during the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      386,
+      907,
+      510
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Employees and Remuneration Policy ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      529,
+      428,
+      546
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, the Group employed 303 staff (30 September 2018: 222). Total staff costs including directors’ emoluments for the six months ended 30 September 2019, amounted to approximately $\\mathrm { H K S } 5 0 . 2$ million (six months ended 30 September 2018: approximately $\\mathrm { H K S } 4 2 . 6$ million). The salary and benefit levels of the employees of the Group are competitive and individual performance is rewarded through the Group’s salary and bonus system. The Group conducts annual review on salary increase, discretionary bonuses and promotions based on the performance of each employee. ",
+    "bbox": [
+      92,
+      564,
+      907,
+      688
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group has not experienced any significant problems with its employees due to labour disputes nor has it experienced any difficulty in the recruitment and retention of experienced staff. ",
+    "bbox": [
+      94,
+      707,
+      905,
+      759
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Capital Commitment ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      778,
+      287,
+      795
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group has established an associate, namely 深圳華協, in PRC. In accordance with the memorandum of association of 深圳 華協, the Group is committed to contribute RMB1,020,000 (equivalent to approximately $\\mathrm { H K S 1 } , 1 2 9 , 0 0 0 )$ as $51 \\%$ registered share capital of 深圳華協. At 30 September 2019, the Group has not yet contributed any capital to 深圳華協. In accordance with the memorandum of association of 深圳華協, the balance shall be contributed to 深圳華協 within five years from the date of its establishment. ",
+    "bbox": [
+      92,
+      814,
+      907,
+      942
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "– 25 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Contingent Liabilities ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      65,
+      292,
+      82
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2019, a subsidiary has been named as defendant in one (31 March 2019: two) High Court action in respect of claim for compensation of personal injury for an amount of approximately $\\mathrm { H K S 4 . 1 }$ million (31 March 2019: approximately $\\mathrm { H K S 7 . 7 }$ million). The Directors are visiting the claims and considered the claims are covered by the relevant insurance policies. No provision for potential liability has been made in the condensed consolidated financial statements. ",
+    "bbox": [
+      92,
+      101,
+      907,
+      206
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Material Acquisitions and Disposals ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      225,
+      421,
+      242
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group did not have any material acquisitions and disposals. ",
+    "bbox": [
+      94,
+      261,
+      905,
+      296
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Significant Investment ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      315,
+      299,
+      332
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, the Group has no significant investment held. ",
+    "bbox": [
+      92,
+      350,
+      907,
+      385
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Future Plans for Material Investments or Capital Assets ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      404,
+      606,
+      420
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "The Group did not have any plans for material investments and capital assets. ",
+    "bbox": [
+      92,
+      439,
+      759,
+      456
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Use of Net Proceeds from Share Offer ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      474,
+      440,
+      492
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "The Company’s shares have been listed on the Main Board of the Stock Exchange since 8 December 2016. After the exercise of the Over-allotment Option, the receipt of proceeds, after deduction of underwriting commission and other related estimated listing expenses, including both recognised in the consolidated statement of comprehensive income and deducted from the share premium (“net proceeds”) from the Company’s listing were approximately $\\mathrm { H K S } 1 0 2 . 3$ million. As at 30 September 2019, the net proceeds had been utilised as follows: ",
+    "bbox": [
+      92,
+      511,
+      907,
+      617
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Actual Unutilised Net utilisation amounts proceeds up to as at from the 30 September 30 September   \nshare offer 2019 2019   \nHK\\$’million HK\\$’million HK\\$’million   \nReplacement and Enhancement on our fleet of machinery   \nReinforcement of our workforce   \nGeneral working capital ",
+    "bbox": [
+      500,
+      637,
+      907,
+      743
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      90,
+      760,
+      470,
+      832
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "80.4 80.4   \n12.2 12.2   \n9.7 9.7   \n102.3 102.3 ",
+    "bbox": [
+      490,
+      774,
+      909,
+      881
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "– 26 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "CORPORATE GOVERNANCE AND OTHER INFORMATION ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      64,
+      677,
+      82
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "The Company strives to attain and maintain a high standard of corporate governance as it believes that effective corporate governance practices are fundamental to enhancing shareholders’ value and safeguarding interests of shareholders and other stakeholders. Accordingly, the Board attributes a high priority to identifying and implementing appropriate corporate governance practices to ensure transparency, accountability and effective internal controls. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      215
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "COMPLIANCE WITH CORPORATE GOVERNANCE CODE ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      235,
+      665,
+      253
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "The Company has adopted the Corporate Governance Code (the “CG Code”) as set out in Appendix 14 of the Rules Governing the Listing of Securities on Stock Exchange (the “Listing Rules”). During the six months ended 30 September 2019, the Company has complied with the code provisions under the CG Code, except for the deviation from code provision A.2.1 of the CG Code as explained below. The Company will continue to enhance its corporate governance practices appropriate to the operation and growth of the business of the Group. According to code provision A.2.1 of the CG Code, the role of the chairman and the chief executive officer of the Company should be separate and should not be performed by the same individual. Throughout the period ended 30 September 2019 and up to the date of this announcement, the role of the chairman of the Company is performed by Mr. Wu Wing Hang but the office of the chief executive officer of the Company is vacated. The daily operation and management of the Company is monitored by the executive Directors as well as the senior management. The Board is of the view that although there is no chief executive officer, the balance of power and authority is ensured by the operation of the Board, which comprises experienced individuals who would meet from time to time to discuss issues affecting operation of the Company. ",
+    "bbox": [
+      92,
+      273,
+      907,
+      557
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "COMPLIANCE WITH THE MODEL CODE ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      577,
+      505,
+      595
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "The Company has adopted the Model Code for Securities Transactions by Directors of Listed Issuers (the “Model Code”) set out in Appendix 10 to the Listing Rules as its own code of conduct regarding Directors’ securities transactions. In response to a specific enquiry by the Company, all Directors have confirmed, that they have complied with the required standards as set out in the Model Code during the six months ended 30 September 2019. ",
+    "bbox": [
+      92,
+      617,
+      907,
+      709
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "– 27 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "SHARE OPTION SCHEME ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      64,
+      351,
+      82
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "The Company has adopted a share option scheme (the “Share Option Scheme”) on 15 November 2016. The principal terms of the Share Option Scheme is summarised in Appendix IV to the prospectus of the Company dated 28 November 2016. The main purpose of the Share Option Scheme is to attract and retain the best available personnel, to provide incentive to employees (full-time and part-time), directors, consultants, advisers, distributors, contractors, suppliers, agents, customers, business partners or service providers of the Group and to promote the success of the business of the Group. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      235
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "No share option has been granted, exercised, cancelled or lapsed under the Share Option Scheme since its adoption on 15 November 2016. ",
+    "bbox": [
+      92,
+      255,
+      907,
+      291
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "PURCHASE, SALES OR REDEMPTION OF THE COMPANY’S SECURITIES ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      311,
+      821,
+      330
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2019, neither the Company nor any of its subsidiaries purchased, sold or redeemed any of the Company’s listed securities. ",
+    "bbox": [
+      92,
+      350,
+      907,
+      386
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "AUDIT COMMITTEE ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      406,
+      302,
+      424
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "The audit committee of the Company (the “Audit Committee”), with its terms of reference established in compliance with the Listing Rules, comprises three independent non-executive Directors, namely Mr. Lee Man Tai (the chairman of the Audit Committee), Mr. Wong Yiu Kit Ernest and Mr. Leung Ka Fai. ",
+    "bbox": [
+      92,
+      445,
+      907,
+      519
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "The Audit Committee has reviewed the Group’s unaudited condensed consolidated financial statements for the six months ended 30 September 2019. The Audit Committee was satisfied that the unaudited condensed consolidated financial statements were prepared in accordance with applicable accounting standards and requirements as well as the Listing Rules and relevant adequate disclosures have been made. ",
+    "bbox": [
+      92,
+      541,
+      907,
+      633
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "PUBLICATION OF INTERIM RESULTS AND INTERIM REPORT ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      653,
+      722,
+      671
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "The results announcement is published on the website of Hong Kong Exchanges and Clearing Limited at www.hkexnews.hk and the Company’s website at www.ppgh.com.hk. The interim report of the Company for the six months ended 30 September 2019 containing all information required by the Listing Rules will be dispatched to shareholders and published on above websites in due course. ",
+    "bbox": [
+      92,
+      693,
+      907,
+      787
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "– 28 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "APPRECIATION ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      64,
+      258,
+      82
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "The Board would like to express its sincere thanks to the management of the Group and all the staff for their hard work and commitment, as well as its shareholders, business partners and other professional parties for their continuous support. ",
+    "bbox": [
+      92,
+      103,
+      907,
+      158
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "By order of the Board Progressive Path Group Holdings Limited Wu Wing Hang Chairman and Executive Director ",
+    "bbox": [
+      521,
+      179,
+      907,
+      254
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Hong Kong, 28 November 2019 ",
+    "bbox": [
+      94,
+      274,
+      369,
+      291
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "As at the date of this announcement, the executive directors are Mr. Wu Wing Hang and Mr. Chan Tak Ming; and the independent non-executive directors are Mr. Wong Yiu Kit Ernest, Mr. Lee Man Tai and Mr. Leung Ka Fai. ",
+    "bbox": [
+      92,
+      312,
+      905,
+      367
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "– 29 – ",
+    "bbox": [
+      472,
+      966,
+      526,
+      979
+    ],
+    "page_idx": 28
+  }
+]

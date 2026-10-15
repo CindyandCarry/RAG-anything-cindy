@@ -1,0 +1,799 @@
+[
+  {
+    "type": "text",
+    "text": "HAL archives-ouvertes.fr ",
+    "bbox": [
+      416,
+      48,
+      630,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Evaluation of iLogDemons Algorithm for Cardiac Motion Tracking in Synthetic Ultrasound Sequence ",
+    "text_level": 1,
+    "bbox": [
+      157,
+      279,
+      890,
+      329
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Adityo Prakosa, Kristin Mcleod, Maxime Sermesant, Xavier Pennec ",
+    "bbox": [
+      173,
+      334,
+      878,
+      354
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "To cite this version: ",
+    "text_level": 1,
+    "bbox": [
+      139,
+      412,
+      378,
+      431
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Adityo Prakosa, Kristin Mcleod, Maxime Sermesant, Xavier Pennec. Evaluation of iLogDemons Algorithm for Cardiac Motion Tracking in Synthetic Ultrasound Sequence. Proc. MICCAI Workshop on Statistical Atlases and Computational Models of the Heart: Imaging and Modelling Challenge (STACOM12), 2012, Nice, France. pp.178-187, ff10.1007/978-3-642-36961-2_21ff. ffhal-00813860ff ",
+    "bbox": [
+      127,
+      444,
+      942,
+      508
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL Id: hal-00813860 ",
+    "text_level": 1,
+    "bbox": [
+      364,
+      671,
+      635,
+      690
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://hal.inria.fr/hal-00813860 ",
+    "bbox": [
+      302,
+      697,
+      695,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted on 18 Oct 2013 ",
+    "bbox": [
+      393,
+      727,
+      606,
+      741
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. ",
+    "bbox": [
+      92,
+      802,
+      490,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. ",
+    "bbox": [
+      507,
+      802,
+      907,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "? ",
+    "bbox": [
+      117,
+      414,
+      132,
+      429
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Evaluation of iLogDemons Algorithm for Cardiac Motion Tracking in Synthetic Ultrasound Sequence ",
+    "text_level": 1,
+    "bbox": [
+      264,
+      101,
+      738,
+      167
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A. Prakosa, K. McLeod, M. Sermesant, and X. Pennec ",
+    "bbox": [
+      303,
+      198,
+      697,
+      213
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "INRIA M´editerran´ee, Asclepios Project, Sophia Antipolis, France ",
+    "bbox": [
+      279,
+      226,
+      723,
+      239
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract. In this paper, we evaluate the iLogDemons algorithm for the STACOM 2012 cardiac motion tracking challenge. This algorithm was previously applied to the STACOM 2011 cardiac motion challenge to track the left-ventricle heart tissue in a data-set of volunteers. Even though the previous application showed reasonable results with respect to quality of the registration and computed strain curves; quantitative evaluation of the algorithm in an objective manner is still not trivial. Applying the algorithm to the STACOM 2012 synthetic ultrasound sequence helps to objectively evaluate the algorithm since the ground truth motion is provided. Different configurations of the iLogDemons parameters are used and the estimated left ventricle motion is compared to the ground truth motion. Using this application, quantitative measurements of the motion error are calculated and optimal parameters of the algorithm can be found. ",
+    "bbox": [
+      264,
+      296,
+      738,
+      488
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      526,
+      374,
+      544
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Understanding cardiac motion dynamics through the heart beat is fundamental for providing useful insights into cardiac diseases. Analyzing medical images is one way to better understand the complex dynamics of the heart and in recent years, cardiac motion tracking algorithms have been developed to attempt to estimate the observed motion. We refer the reader to [2] for the state of the art on cardiac motion tracking. A cardiac motion tracking challenge was introduced in the STACOM 2011 MICCAI workshop which allowed participants to apply algorithms to a given data-set of healthy volunteers with cine-magnetic resonance, ultrasound, and tagged-magnetic resonance image sequences. In this work we describe the application of the incompressible log-domain demons algorithm (iLogDemons for short) to a set of synthetic ultrasound image sequences for which the ground truth deformation is known and provided for training within the STACOM 2012 MICCAI cardiac motion tracking challenge. From this we are able to compute the error between the ground truth and the estimated deformation for the training data. ",
+    "bbox": [
+      218,
+      573,
+      784,
+      799
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 Methodology ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      102,
+      379,
+      119
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The iLogDemons algorithm is a consistent and efficient framework for tracking left-ventricle heart tissue through the cardiac cycle using an elastic, incompressible non-linear registration algorithm based on the LogDemons algorithm [3, 2]. Applying a non-linear registration to pairs of medical images is a common method to estimate the motion and the deformation of the tissue in the image. ",
+    "bbox": [
+      218,
+      132,
+      785,
+      208
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.1 LogDemons ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      229,
+      359,
+      246
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The LogDemons [6] non-linear registration aligns a template image $T ( \\mathbf { x } )$ to a reference image $R ( \\mathbf { x } )$ by estimating a dense non-linear transformation $\\phi ( \\mathbf { x } )$ , where $\\mathbf { x } \\in \\mathbb { R } ^ { 3 }$ is the space coordinate. This transformation $\\phi ( \\mathbf { x } )$ is associated with the displacement vector field $\\mathbf { u } ( \\mathbf { x } )$ and is parameterized by the stationary velocity vector field $\\mathbf { v } ( \\mathbf { x } )$ , $\\phi ( \\mathbf { x } ) = \\mathbf { x } + \\mathbf { u } ( \\mathbf { x } ) = \\exp ( \\mathbf { v } ( \\mathbf { x } ) )$ . This ensures the invertibility of the deformation. The LogDemons algorithm contains two steps, which are the optimization and the regularization step. The optimization step finds the intermediate correspondence transformation $\\phi _ { c } ( \\mathbf { x } ) = \\exp ( \\mathbf { v } _ { c } ( \\mathbf { x } ) ) = \\phi ( \\mathbf { x } ) \\mathrm { o e x p } ( \\delta \\mathbf { v } ( \\mathbf { x } ) ) )$ by minimizing the LogDemons energy ",
+    "bbox": [
+      217,
+      253,
+      785,
+      391
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/553eab22399b7a472a68d3b8ed9ef8738bc83d9ceacec11c7be45d07265555d2.jpg",
+    "text": "$$\n\\varepsilon ( \\mathbf { v } , \\mathbf { v } _ { c } ) = { \\frac { \\parallel R - T \\circ \\exp ( \\mathbf { v } _ { c } ) \\parallel _ { L _ { 2 } } ^ { 2 } } { \\lambda _ { i } ^ { 2 } } } + { \\frac { \\parallel \\log ( \\exp ( - \\mathbf { v } ) \\circ \\exp ( \\mathbf { v } _ { c } ) ) \\parallel _ { L _ { 2 } } ^ { 2 } } { \\lambda _ { x } ^ { 2 } } } + { \\frac { \\parallel \\nabla \\mathbf { v } \\parallel ^ { 2 } } { \\lambda _ { d } ^ { 2 } } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      228,
+      412,
+      774,
+      446
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "with respect to ${ \\bf v } _ { c } ( { \\bf x } )$ , where $\\lambda _ { i } ^ { 2 }$ is the parameter that estimates the noise in the image $\\lambda _ { i } ^ { 2 } ( \\mathbf { x } ) = | R ( \\mathbf { x } ) - T \\circ \\phi ( \\mathbf { x } ) | ^ { 2 }$ , $\\lambda _ { x } ^ { 2 }$ is the parameter that controls the uncertainty of the correspondences and $\\lambda _ { d } ^ { 2 }$ is the parameter that controls the regularization strength. $\\mathbf { v } _ { c }$ parameterizes the intermediate transformation $\\phi _ { c } ( \\mathbf { x } )$ which models the voxel correspondences of the two images without considering the regularity of the transformation. The optimal update velocity writes ",
+    "bbox": [
+      218,
+      457,
+      785,
+      547
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/97a30a15b0de35686a33cfc6be34aa3822e97d64539df907dcbcedfab3211e21.jpg",
+    "text": "$$\n\\delta \\mathbf { v } ( \\mathbf { x } ) = - \\frac { R ( \\mathbf { x } ) - T \\circ \\phi ( \\mathbf { x } ) } { \\parallel J ( \\mathbf { x } ) \\parallel ^ { 2 } + \\lambda _ { i } ^ { 2 } / \\lambda _ { x } ^ { 2 } } J ( \\mathbf { x } ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      380,
+      560,
+      620,
+      592
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where $J ( \\mathbf { x } )$ is the symmetric gradient $J ( \\mathbf { x } ) = ( \\nabla R ( \\mathbf { x } ) + \\nabla ( T \\circ \\phi ( \\mathbf { x } ) ) ) / 2$ . The correspondence velocity $\\mathbf { v } _ { c }$ is updated using the the Baker-Campbell-Hausdorff (BCH) formula $\\mathbf { v } _ { c } = Z ( \\mathbf { v } _ { c } , \\delta \\mathbf { v } )$ [6]. Finally, the optimal regularized transformation $\\phi ( \\mathbf { x } )$ is estimated in the regularization step by minimizing the LogDemons energy with respect to $\\mathbf { v }$ , which is approximated by smoothing the correspondence velocity $\\mathbf { v } _ { c }$ with a Gaussian kernel $G _ { \\sigma }$ . ",
+    "bbox": [
+      218,
+      595,
+      785,
+      688
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.2 iLogDemons ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      708,
+      364,
+      724
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "iLogDemons adds physiological constraints; elasticity and incompressibility, to the LogDemons algorithm. It proposes an elastic regularizer to filter the correspondence velocities by the elastic-like kernel: $\\begin{array} { r } { \\mathbf { v } = \\left( G _ { \\sigma } I d + \\frac { \\sigma ^ { 2 } \\kappa } { 1 + \\kappa } H G _ { \\sigma } \\right) \\star \\mathbf { v } _ { c } = } \\end{array}$ $G _ { \\sigma , \\kappa } \\star \\mathbf { v } _ { c }$ , where $H G _ { \\sigma }$ is the Hessian of the Gaussian kernel $G _ { \\sigma }$ and $G _ { \\sigma , \\kappa }$ is the elastic-like vector filter. Incompressibility is achieved by constraining the stationary velocity field $\\mathbf { v } ( \\mathbf { x } )$ to be divergence-free. The complete algorithm of the iLogDemons is described in Algorithm 1. ",
+    "bbox": [
+      218,
+      733,
+      785,
+      800
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/711225c2110e4009e91c6805a1ed1df6ef6acc1df43de36a7dbcf1740b049890.jpg",
+    "image_caption": [
+      "Fig. 1. The concatenation of the velocity field ${ \\bf v } _ { T _ { i }  T _ { i - 1 } }$ and ${ \\bf v } _ { T _ { i - 1 }  R }$ using the BCH formula is used to initiate the registration of the template image $T _ { i } ( \\mathbf { x } )$ to the reference image $R ( \\mathbf { x } )$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      228,
+      106,
+      779,
+      284
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      367,
+      785,
+      411
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Algorithm 1 iLogDemons: Incompressible Elastic LogDemons Registration ",
+    "bbox": [
+      220,
+      440,
+      764,
+      455
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Require: Stationary velocity field $\\mathbf { v } ^ { 0 }$ . Usually $\\mathbf { v } ^ { 0 } = \\mathbf { 0 }$ i.e. $\\phi ^ { \\mathrm { { u } } } = I d$ ",
+    "bbox": [
+      220,
+      458,
+      663,
+      473
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1: loop {over n until convergence}   \n2: Compute the update velocity: $\\delta \\mathbf { v } ^ { n }$ (see [2]).   \n3: Fluid-like regularization: $\\delta \\mathbf { v } ^ { n }  G _ { \\sigma _ { f } } \\star \\delta \\mathbf { v } ^ { n }$ , $G _ { \\sigma _ { f } }$ is a Gaussian kernel.   \n4: Update the correspondence velocity using the Baker-Campbell-Hausdorff (BCH)   \nformula: $\\mathbf { v } ^ { n }  Z ( \\mathbf { v } ^ { n - 1 } , \\delta \\mathbf { v } ^ { n } )$ (see [6]).   \n5: Elastic-like regularization: $\\mathbf { v } ^ { n }  G _ { \\sigma , \\kappa } \\star \\mathbf { v } ^ { n }$ (see [2]).   \n6: Solve: $\\varDelta p = \\nabla \\cdot \\mathbf { v } ^ { \\pi }$ with 0-Dirichlet boundary conditions. This is done in order   \nto achieve the incompressibility.   \n7: Project the velocity field: $\\mathbf { v } ^ { n }  \\mathbf { v } ^ { n } - \\nabla p$ .   \n8: Update the warped image $T \\circ \\phi ^ { n } = T \\circ \\exp ( \\mathbf { v } ^ { n } )$ .   \n9: return v, $\\phi = \\exp ( \\mathbf { v } )$ and $\\phi ^ { - 1 } = \\exp ( - \\mathbf { v } )$ . ",
+    "bbox": [
+      223,
+      473,
+      787,
+      628
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2.3 Cardiac Motion Tracking Strategy ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      683,
+      544,
+      699
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We initialize the registration of the template image $T _ { i } ( { \\bf x } )$ at frame $_ i$ to the reference image $R ( \\mathbf { x } )$ with the concatenation of the previous frame $( i - 1 )$ to reference velocity field ${ \\bf v } _ { T _ { i - 1 }  R }$ and the current-to-previous frame velocity field $\\mathbf { v } _ { T _ { i }  T _ { i - 1 } }$ by $Z ( \\mathbf { v } _ { T _ { i - 1 }  R } , \\mathbf { v } _ { T _ { i }  T _ { i - 1 } } )$ with $Z$ is the BCH operation, as a strategy to track the myocardium (cf. Fig. 1) [2]. The final registration is always calculated to the same end diastolic reference image $R ( x )$ . ",
+    "bbox": [
+      218,
+      708,
+      787,
+      800
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 Application to Challenge Data ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      102,
+      547,
+      119
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.1 Algorithm Parameter Setting ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      131,
+      504,
+      146
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We used the standard parameters that were used previously in [3]. However, since the ground truth motion is available for the synthetic ultrasound sequence provided, we also tested different parameters of the iLogDemons as described in Table 3.1. ",
+    "bbox": [
+      218,
+      152,
+      785,
+      213
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/d739ba23ccc4561b852cf7398a63b2afcf960288defa313610e088ab23ca979b.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Table 1. iLogDemons parameters used in the application "
+    ],
+    "table_body": "<table><tr><td>Input parameters:</td><td>Value</td></tr><tr><td>Multi-resolution levels (frame-by-frame registration) Multi-resolution levels (refinement step)</td><td>3 2</td></tr><tr><td>Number of iterations/level</td><td>100</td></tr><tr><td>Of update field in mm</td><td>0.5</td></tr><tr><td></td><td></td></tr><tr><td>Kf update field in mm</td><td>0</td></tr><tr><td>σstationary velocity field in mm</td><td>1 or 1.5 or 2</td></tr><tr><td>K stationary velocity field in mm</td><td>1</td></tr><tr><td>Incompressibility update field (O-Disable,1-Enable)</td><td>0</td></tr><tr><td>Incompressibility velocity field (O-Disable,1-Enable)</td><td>1or 0</td></tr></table>",
+    "bbox": [
+      238,
+      234,
+      759,
+      376
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "iLogDemons non-rigid registration was previously applied to the STACOM 2011 challenge data-set [5, 3]. It showed reasonable results in term of the alignment of the registered frames in the cardiac sequence with the reference end diastolic image. Using the estimated transformations, it could also track the myocardium along the cardiac cycle. The calculated strain curve was also comparable to literature for healthy strain values [4]. ",
+    "bbox": [
+      218,
+      430,
+      785,
+      521
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.2 Simulated ultrasound cardiac sequence data ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      540,
+      622,
+      555
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The simulated data-set consisted of 10 synthetic ultrasound sequences with 23 frames per case, with image spatial resolution of 267 $\\times$ 355 $\\times$ 355, and isotropic voxel size of 0.33 mm. For each sequence, the left ventricle (LV) is almost fully visible while the right ventricle is only partially visible in the ultrasound acquisition cone. To compensate for the part of the LV which is out-of-window region, we artificially expanded the acquisition pyramid. The boundary voxels were copied to fill this region and additional noise was also added. The dataset contains different motion and deformation patterns (normal, LBBB, RBBB, pacing) with the ground truth deformation provided as the deformation of volumetric meshes in a cardiac cycle (See [1] for further details on the synthetic data-set). ",
+    "bbox": [
+      218,
+      561,
+      784,
+      728
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.3 Application to the synthetic data ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      747,
+      535,
+      762
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In order to find the optimal parameters of the algorithm that are able to handle large deformations, we processed the first case of the ultrasound synthetic dataset since it simulates normal heart motion with large contraction. We launched the parameters that were used previously in [3] to the full resolution data-set. We also applied our algorithm on down-sampled images to reduce the computational time. We down-sampled the data to a resolution of 88 $\\times$ 117 $\\times$ 117 with isotropic voxel size of 1.02 mm The computation time of the whole sequence processing was reduced from the order of days to hours. The current implementation can be optimized to handle large volumes by improving the memory access scheme since the addition of computation time of current implementation is not caused by the addition of computational complexity. One configuration of parameters was tested for both the full and down-sampled data to verify the accuracy of the down-sampled registration compared to the full-resolution registration and found very small differences in the results (cf. Fig. 2). Other configurations of the key parameters were tested on the down-sampled data. ",
+    "bbox": [
+      217,
+      770,
+      784,
+      799
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      102,
+      785,
+      297
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/27f6e9152d4c4c04b698ef66ae9d3dc02fc161ff75b2a47e8af6035295eeba52.jpg",
+    "image_caption": [
+      "Fig. 2. The registration error (calculated using the method described in Section. 3.4 ) of the full resolution and down-sampled dataset of the first case are compared. They show relatively small difference. . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      220,
+      328,
+      779,
+      489
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.4 Quantitative Evaluation ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      604,
+      457,
+      619
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Displacement Error To evaluate quantitatively the performance of each set of the parameters used for the iLogDemons with incompressibility on the velocity field set to 0 or $^ { 1 }$ , we calculated the ground truth displacement vector field from the deformation of the provided simulated meshes. We rasterized the displacement vectors to the image $\\mathbf { u } _ { G T } ( \\mathbf { x } )$ in order to be able to compare them to the iLogDemons estimated displacement field ${ \\bf u } _ { e } ( { \\bf x } )$ . The norm of the difference of the two vector fields $| | \\mathbf { u } _ { G T } ( \\mathbf { x } ) - \\mathbf { u } _ { e } ( \\mathbf { x } ) | |$ is calculated. The global mean of this values over the whole left ventricle are calculated for each time frame in the cardiac cycle (cf. Fig. 3). Based on Fig. 3, the parameter $\\sigma = 1 . 5$ without the incompressibility constraint gives the lowest maximum error for the first case. We calculated the LV volume of the ground truth deformed meshes in a cardiac cycle and we observed that the current electromechanical model is not incompressible. Fig. 4 shows the mean and standard deviation of the LV myocardium volume change in a cardiac cycle for the whole data-set. There is a $1 0 \\%$ change of volume during the maximum contraction. In Fig. 5, we compare the ground truth displacement vector for each American Heart Association (AHA) region of the left ventricle. We compare it to the iLogDemons estimated displacement vector and calculated the difference for each AHA segment. Fig. 5 also shows the error for the basal (regions 1-6), mid (regions 7-12) and apical (regions 13-17) regions. More error is observed in the apical region since the longitudinal motion of the apex toward the base changes the intensity of the apical region. ",
+    "bbox": [
+      218,
+      633,
+      785,
+      799
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      102,
+      785,
+      252
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The result for the whole data-set processing is shown in Fig. 6. As also shown in Fig. 5 for the first case, the registration of each frame to its previous frame gives small error which is less than one voxel size. For the frame to reference result, we observe that there is an error accumulation during the maximum contraction. ",
+    "bbox": [
+      218,
+      253,
+      785,
+      328
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/55c4121f7dadb76d57f625dac29e735b0b0744786f9e2c8329a438b03e68ef68.jpg",
+    "image_caption": [
+      "Fig. 3. The mean and standard deviation of the displacement error calculated on the whole left ventricle for varying values of $\\sigma$ for the first case. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      222,
+      377,
+      781,
+      705
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/99e7d38a1f44185dec95a73412ba3626d1c08d2f0e0e4bd409cdfb7528289acc.jpg",
+    "image_caption": [
+      "Fig. 4. The mean and standard deviation of the LV volume change of the ground truth deformed meshes during a cardiac cycle. Current electromechanical model is not incompressible since there is a $1 0 \\%$ of volume change during the maximum contraction. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      222,
+      109,
+      741,
+      363
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Strain Estimation From the iLogDemons estimated displacement field $\\mathbf { u } ( x )$ , we computed the strain tensor and projected it to the local radial, circumferential and longitudinal directions. The strain tensor was calculated using the 3D Lagrangian finite strain tensor $E ( x ) = \\frac { 1 } { 2 } [ \\nabla \\mathbf { u } ( x ) + \\nabla \\mathbf { u } ^ { T } ( x ) + \\nabla \\mathbf { u } ^ { T } ( x ) \\nabla \\mathbf { u } ( x ) ]$ . The mean and standard deviation of the strain estimation of the whole data-set is shown in Fig. 7. The result using incompressibility has more realistic range of value (from - $1 5 \\%$ to $2 5 \\%$ ) of the estimated strain compared to the one without incompressibility (from $1 5 0 \\%$ to $3 0 0 \\%$ ). ",
+    "bbox": [
+      217,
+      444,
+      785,
+      575
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.5 Myocardium Tracking ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      597,
+      444,
+      613
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Qualitative evaluation of the algorithm is done by comparing the contour of the simulated mesh at the frame with maximum contraction with the deformation of the end diastolic mesh using the iLogDemons estimated displacement field at the same frame for the first case. Reasonable agreement of the contours can be observed in Fig. 8, which indicated that the algorithm is able to capture realistic deformations, even in the case of a synthetically simulated sequence. ",
+    "bbox": [
+      218,
+      622,
+      785,
+      714
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "4 Discussion ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      736,
+      352,
+      753
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "This evaluation shows that the iLogDemons with and without the incompressibility constraint were able to recover the simulated motion in the ultrasound synthetic sequence with reasonable accuracy. It is worth noting that the current electromechanical model is not incompressible, therefore enforcing incompressibility in the registration algorithm naturally does not improve the results, in comparison to the iLogDemons method without the incompressibility constraint. Furthermore, we also found that increasing or decreasing the sigma value does not always improve the result since the best value that we found here is $\\sigma _ { u } =$ 1.5 while $\\sigma _ { u } = 1$ and $\\sigma _ { u } = 2$ do not yield significantly better results. ",
+    "bbox": [
+      218,
+      768,
+      784,
+      799
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/805b180ab8e337e877f7c7db397e02dc54d1e34c4221cc25caffd8e263078a74.jpg",
+    "image_caption": [
+      "Fig. 5. The comparison of the ground truth, incompressible and non-incompressible iLogDemons estimated LV displacement norm for the first case on each American Heart Association (AHA) region. In both cases, $\\sigma = 1 . 5$ was used. The mean displacement error is also calculated on each AHA region. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      217,
+      103,
+      784,
+      452
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      546,
+      785,
+      651
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "5 Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      675,
+      357,
+      693
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The iLogDemons algorithm was applied to a data-set of synthetic ultrasound sequence with different motion and deformation pattern. The algorithm was able to reasonably estimate the ground truth deformation of the model. Since the provided data-set were created using an electromechanical model which is not incompressible, the incompressibility constraint does not improve the result. However, the incompressibility constraint gives more realistic range of estimated strain value. Future work is needed to deal with the error accumulation during the maximum of contraction. ",
+    "bbox": [
+      218,
+      709,
+      785,
+      799
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/6c4edace295ab2ddb2e4c3e15757a2b625decdb29ad8a1061503d4b93767dd9b.jpg",
+    "image_caption": [
+      "Mean $+ / -$ Standard Deviation of the Displacement Error of the whole Dataset ",
+      "Fig. 6. The displacement error of the whole training data-set "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      220,
+      114,
+      782,
+      376
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/2106be255bf1d22360eecc8ea9bca29c4d8c8066d3c5d872f98687d63d83228b.jpg",
+    "image_caption": [
+      "Fig. 7. The mean and standard deviation of the estimated strain for the whole training data-set with and without incompressibility constrain. Incompressibility constraint gives more realistic range of value of the estimated strain (from $- 1 5 \\%$ to $2 5 \\%$ ). This range is shown as black horizontal lines on the result without incompressibility. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      220,
+      425,
+      784,
+      693
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_1939944/auto/images/45803c20afc620f1f2eae9f0db3a85e95b960067a055f522c83a4d906244fda0.jpg",
+    "image_caption": [
+      "Fig. 8. Myocardium tracking result for the first case is shown (red for iLogDemons and purple for iLogDemons without incompressibility) and compared to the simulated ground truth (blue) at the time frame 8 which is at the maximum contraction. The tracking result follow the contour of the ground truth, indicating that the algorithm is able to capture reasonably well the dynamics of the motion. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      223,
+      109,
+      774,
+      349
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      217,
+      467,
+      784,
+      496
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      523,
+      321,
+      541
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1. Craene, M.D.: Statistical atlases and computational models of the heart (STACOM) 2012 cardiac motion analysis challenge (cMAC2) (2012), http://www.physense. org/stacom2012/   \n2. Mansi, T., Pennec, X., Sermesant, M., Delingette, H., Ayache, N.: iLogDemons: A demons-based registration algorithm for tracking incompressible elastic biological tissues. Int. J. of Comput. Vision 92, 92–111 (2011)   \n3. McLeod, K., Prakosa, A., Mansi, T., Sermesant, M., Pennec, X.: An incompressible log-domain demons algorithm for tracking heart tissue. In: Proc. MICCAI Workshop on Statistical Atlases and Computational Models of the Heart: Mapping Structure and Function (STACOM11). No. 7085 in LNCS, Springer, Toronto (September 2012)   \n4. Moore, C., Lugo-Olivieri, C., McVeigh, E., Zerhouni, E.: Three-dimensional systolic strain patterns in the normal human left ventricle: Characterization with tagged MR imaging. Radiology 214, 453–466 (2000)   \n5. Tobon-Gomez, C., Craene, M.D., Dahl, A., Kapetanakis, S., Carr-White, G., Lutz, A., Rasche, V., Etyngier, P., Kozerke, S., Schaeffter, T., Riccobene, C., Martelli, Y., Camara, O., Frangi, A.F., Rhode, K.S.: A multimodal database for the 1 st cardiac motion analysis challenge. In: STACOM. pp. 33–44 (2011) ",
+    "bbox": [
+      217,
+      559,
+      787,
+      800
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "6. Vercauteren, T., Pennec, X., Perchant, A., Ayache, N.: Symmetric log-domain diffeomorphic registration: A demons-based approach. In: Metaxas, D., Axel, L., Fichtinger, G., Sz´ekely, G. (eds.) Proc. Medical Image Computing and Computer Assisted Intervention (MICCAI’08), Part I. LNCS, vol. 5241, pp. 754–761. Springer, New York, USA (Sep 2008) ",
+    "bbox": [
+      217,
+      102,
+      785,
+      171
+    ],
+    "page_idx": 11
+  }
+]

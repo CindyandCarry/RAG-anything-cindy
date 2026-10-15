@@ -1,0 +1,1801 @@
+[
+  {
+    "type": "text",
+    "text": "A multifractal approach towards inference in finance ",
+    "text_level": 1,
+    "bbox": [
+      251,
+      99,
+      746,
+      119
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ola Løvsletten, Martin Rypdal ",
+    "bbox": [
+      397,
+      141,
+      598,
+      155
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Department of Mathematics and Statistics, University of Tromsø, N-9037 Tromsø, Norway. ",
+    "bbox": [
+      258,
+      162,
+      735,
+      174
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      244,
+      178,
+      258
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We introduce tools for inference in the multifractal random walk introduced by Bacry et al. (2001). These tools include formulas for smoothing, filtering and volatility forecasting. In addition, we present methods for computing conditional densities for one- and multi-step returns. The inference techniques presented in this paper, including maximum likelihood estimation, are applied to data from the Oslo Stock Exchange, and it is observed that the volatility forecasts based on the multifractal random walk have a much richer structure than the forecasts obtained from a basic stochastic volatility model. ",
+    "bbox": [
+      116,
+      267,
+      882,
+      357
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Multifractal, inference, volatility forecasting, Laplace approximation ",
+    "bbox": [
+      117,
+      367,
+      642,
+      381
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      410,
+      225,
+      424
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Modeling financial time series by stochastic processes dates back to the work of Bachelier (1900). Bachelier proposed to model the price of a financial asset as a Brownian motion with drift. It was later realized, by e.g. Mitchell (1915), that the standard deviation of price changes are proportional to the price levels themselves. Therefore, Bachelier’s model should be modified so that it is the logarithmic asset price, $X ( t ) = \\log P ( t )$ , that is modeled as a Brownian motion with drift. As a modification of this model, Mandelbrot (1963) proposed to replace Brownian motion with $\\alpha$ -stable Levy processes with ´ $\\alpha < 2$ , soαcalled Levy flights. ´ ",
+    "bbox": [
+      116,
+      436,
+      491,
+      616
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "where the logarithmic volatility varies according to an Ornstein-Uhlenbeck process, i.e. ",
+    "bbox": [
+      504,
+      410,
+      882,
+      439
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/55ef995a37a9a25d78aa1fcbeda78c33c7ff093a2a86ba7091041d195705b6b5.jpg",
+    "text": "$$\nd \\log \\sigma ( t ) = - a \\log \\sigma ( t ) d t + \\nu d \\tilde { B } ( t ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      573,
+      448,
+      810,
+      467
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "where $\\tilde { B } ( t )$ is a Brownian motion independent of $B ( t )$ ",
+    "bbox": [
+      506,
+      474,
+      856,
+      489
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Another class of SV models are the multifractal random processes. These models come from turbulence theory, and their origin can be traced back to works of Kolmogorov (1962) and Obukhov (1962). The defining properties of a multifractal process $X ( t )$ are stationary increments and structure functions that are power-laws in time, i.e. ",
+    "bbox": [
+      506,
+      491,
+      882,
+      594
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/07df56c838242e8c260399831c10a7b1dd5b13f275b004f3dbcf09b5bc9fad01.jpg",
+    "text": "$$\n\\mathbb { E } [ | X ( t ) | ^ { q } ] \\sim t ^ { \\zeta ( q ) } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      635,
+      593,
+      753,
+      611
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Both Brownian motions and Levy flights are selfsimi- ´ lar and have independent increments. However, empirical analyses of asset prices have revealed that, even though logarithmic returns are uncorrelated, they are nevertheless strongly dependent. This stylized fact is called volatility clustering, and it is not well described by Brownian motions nor Levy flights. Other processes, such as stochas- ´ tic volatility (SV) models, are specifically designed to include this feature. The simplest example is the basic SV model of Taylor (1982). If we choose1 $\\mu = 0$ , this model µis defined by the stochastic differential equation ",
+    "bbox": [
+      116,
+      617,
+      491,
+      782
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/e3b4bd4fcc318921758289ffebd1b52a5617a7344ce072d04982357cfe390cca.jpg",
+    "text": "$$\nd X ( t ) = \\sigma ( t ) d B ( t ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      238,
+      794,
+      367,
+      809
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The scaling functions $\\zeta ( q )$ are linear for selfsimilar proζcesses, but usually the term “multifractal” refers to the cases where $\\zeta ( q )$ are strictly concave. For such processes, ζthe absolute values of the increments of $X ( t )$ may have algebraically decaying auto-correlation functions (ACFs), even though the increments themselves are uncorrelated. In contrast, the ACFs for the absolute values of the increments decay exponentially in the basic SV models. ",
+    "bbox": [
+      506,
+      617,
+      882,
+      738
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "That multifractals represent a suitable framework for modeling financial time series was first discovered about fifteen years ago by Ghashghaie et al. (1996) and Mandelbrot et al. (1997). Shortly after this Calvet and Fisher (2001) showed how one can obtain a discrete-time SV model as a discretization of a continuous-time multifractal. ",
+    "bbox": [
+      506,
+      738,
+      882,
+      843
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The model constructed by Calvet and Fisher is called the Markov-Switching Multifractal (MSM), and it is constructed by randomizing the so-called multiplicative cascade. The result is a model that describes log-returns as independent, the auto-correlation function for the process $\\left| x _ { t } \\right|$ becomes ",
+    "bbox": [
+      504,
+      844,
+      882,
+      873
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Email address: ola.lovsletten@uit.no (Ola Løvsletten) 1Since $\\mu$ is easily estimated from data, this can be assumed without µany loss of generality. ",
+    "bbox": [
+      114,
+      837,
+      490,
+      873
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "arXiv:1202.5376v1 [q-fin.ST] 24 Feb 2012 ",
+    "bbox": [
+      24,
+      266,
+      62,
+      722
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      90,
+      490,
+      121
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      92,
+      882,
+      121
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/14e5c7c00f40ed62533e3e3be374f5ed1588546d09e0e0dd0cff7cb583c78d87.jpg",
+    "text": "$$\nx _ { t } = \\sigma \\ \\sqrt { M _ { t } } \\varepsilon _ { t } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      251,
+      131,
+      356,
+      151
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Here $\\begin{array} { r } { \\varepsilon _ { t } \\stackrel { \\mathrm { ~ d ~ } } { \\sim } N ( 0 , 1 ) } \\end{array}$ are independent variables and the ε ,volatility is a product on the form ",
+    "bbox": [
+      114,
+      164,
+      491,
+      194
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/8a55b60e16360e7a6815725d7bb26007b77285fca72adab6db6f425efed02981.jpg",
+    "text": "$$\nM _ { t } = M _ { t , 1 } M _ { t , 2 } \\cdot \\cdot \\cdot M _ { t , K } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      225,
+      205,
+      382,
+      222
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The variables $M _ { t , k }$ are updated with different frequencies ,for different levels $k$ . To be precise, at each time step $t$ , $M _ { t , k }$ is given a new value (independently drawn from a dis-,tribution $M$ ) with probability $\\gamma _ { k }$ and left unchanged with probability $1 - \\gamma _ { k }$ . The approximate multifractality in the γMSM model is achieved by choosing $\\gamma _ { k } = 1 - ( 1 - \\gamma _ { 1 } ) ^ { b ^ { k - 1 } }$ for some $\\gamma _ { 1 } \\in ( 0 , 1 )$ and some $b > 0$ γ γ. By exploiting genγ , >eral techniques for Markov-Switching models, Calvet and Fisher have developed inference methods for the MSM model, including maximum likelihood (ML) estimation and volatility forecasting. Unfortunately, there are some limitations to the applicability of these methods. One problem is that the likelihood functions only are available when $M$ is discrete, something that leads to rather unnatural parameterizations. Also, in practice, it is only possible to compute the likelihood if the parameter $K$ does not exceed $\\approx 1 0$ (Lux, 2008). In effect, this introduces an unwanted exponential cutoff in the volatility dependence, at the time scale $b ^ { K }$ . ",
+    "bbox": [
+      116,
+      232,
+      491,
+      518
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "At the same time that Calvet and Fisher proposed the MSM model, Bacry et al. (2001) presented a different type of multifractal process, the so-called multifractal random walk (MRW). A popular discrete-time approximation to this process is given by equation (3), with ",
+    "bbox": [
+      114,
+      521,
+      491,
+      595
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/ae861e3cc2ad3a428dda7874befdf2f9c9979866a392843727aaa3a171aeb3cc.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathbb { E } [ | x _ { t } x _ { s } | ] \\propto e ^ { \\frac { 1 } { 2 } \\mathbb { E } [ ( h _ { t } / 2 + h _ { s } / 2 ) ^ { 2 } ] } \\propto e ^ { \\frac { 1 } { 4 } \\operatorname { C o v } ( h _ { t } , h _ { s } ) } , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      560,
+      131,
+      823,
+      150
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "which for $1 \\ll s \\ll R$ gives the approximate scaling ",
+    "bbox": [
+      504,
+      164,
+      846,
+      178
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/bb084d984d5654684384daee14f58e1a859537473b41eba4161fcfe85e65101b.jpg",
+    "text": "$$\n\\mathbb { E } [ | x _ { t } x _ { t + s } | ] \\sim s ^ { - \\frac { 1 } { 4 } \\lambda ^ { 2 } } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      629,
+      189,
+      759,
+      209
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The parameter $\\lambda$ is called the intermittency parameter, and λit also determines the nonlinearity of the scaling function. In fact, the scaling function of the (continuous-time) MRW model is ",
+    "bbox": [
+      504,
+      223,
+      882,
+      282
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/55e1cd70d1c0183f17ee2f8e27cc88a888db07afe7ddff7177744481bb6f1305.jpg",
+    "text": "$$\n\\zeta ( q ) = \\frac { 1 } { 2 } \\biggl ( 1 + \\frac { \\lambda ^ { 2 } } { 2 } \\biggr ) q - \\frac { \\lambda ^ { 2 } } { 8 } q ^ { 2 } { . }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      598,
+      291,
+      789,
+      324
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In contrast to the MSM model, which is obtained by randomizing a discrete multiplicative cascade, the MRW model builds on a continuous cascade. In fact, the lognormal MRW model that we consider in this paper is just a special case of a more general class of processes known as infinitely divisible cascades (Muzy and Bacry, 2002). These processes have very desirable theoretical properties, e.g. exact multifractal scaling. From this point of view, the MRW model is preferable over the MSM model, and it is therefore important to develop inference techniques for the MRW model. A step in this direction was taken in (Løvsletten and Rypdal, 2011), where we presented methods for ML estimation. These results were obtained by observing that the processes defined by equations (3) and (5) are very similar to discrete-time versions of the basic SV models. In fact, if we replace the process $h _ { t }$ with an auto-regressive model of order one (an AR(1) process), ",
+    "bbox": [
+      504,
+      334,
+      882,
+      606
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/11ffd6c3d1dde664e1e2aa50118b00bf6256b77171e07293b4d100b5c4f7519d.jpg",
+    "text": "$$\nM _ { t } = c e ^ { h _ { t } } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      266,
+      604,
+      338,
+      622
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "where $h _ { t }$ is a stationary and centered Gaussian process with co-variances ",
+    "bbox": [
+      116,
+      635,
+      490,
+      664
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/9d88b1dabff4766f4365e4b469e2369122093c14da0b0d19271ab033c2e2269b.jpg",
+    "text": "$$\n\\mathrm { C o v } ( h _ { t } , h _ { s } ) = \\lambda ^ { 2 } \\log ^ { + } \\frac { \\mathcal { T } } { ( | t - s | + 1 ) \\Delta t } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      183,
+      671,
+      428,
+      704
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The constant $c$ is chosen so that $1 / c \\ = \\ \\mathbb { E } [ e ^ { h _ { t } } ]$ . If the step-length $\\Delta t$ /is fixed2 it is convenient to denote $R \\ =$ $\\mathcal { T } / \\Delta t$ . The model then depends on three parameters: $\\theta = ( \\lambda , \\sigma , R )$ . ",
+    "bbox": [
+      114,
+      714,
+      491,
+      775
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "λ, σ,For the purpose of modeling financial time series, an important property of the MRW model is the slow decay of the volatility dependence. Since the innovations $\\varepsilon _ { t }$ are ",
+    "bbox": [
+      114,
+      776,
+      491,
+      820
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/6bf33d103524e77acd2eef8204caf901b0fe7a75ae449494d5b9f08f634923be.jpg",
+    "text": "$$\nh _ { t } = \\psi h _ { t - 1 } + \\sigma _ { u } u _ { t } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      627,
+      608,
+      756,
+      623
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "where $u _ { t }$ is Gaussian white noise with unit variance, then the process defined by equations (3) and (4) is a basic SV model. Hence we can use existing techniques for basic SV models (Skaug and Yu, 2009; Martino et al., 2011) in combination with general ML methods for Gaussian processes (McLeod et al., 2007) to obtain likelihoods for the MRW model. ",
+    "bbox": [
+      506,
+      632,
+      882,
+      737
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "While in (Løvsletten and Rypdal, 2011) we focused on parameter estimation, the focus of this paper is primarily conditional forecasts of returns and inference regarding the latent variables $h _ { t }$ . To be more precise, we are interested in estimating the conditional variables $h _ { s } | \\{ x _ { t } , t \\leq T \\}$ . For $s < T$ ,this problem is known as smoothing, for $s = T$ <it is called filtering, and for $s > T$ it is called forecast->ing. These techniques are of obvious importance for the applicability of the MRW model in finance. ",
+    "bbox": [
+      504,
+      738,
+      882,
+      875
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2The variable $t$ is dimensionless and represents the number of time steps of length $\\Delta t$ . ",
+    "bbox": [
+      114,
+      848,
+      491,
+      873
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      493,
+      898,
+      504,
+      909
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The paper is structured as follows. In section 2 we review inference techniques for basic SV models, and in section 3 we generalize these results to the MRW model. In section 4 we apply some of these methods to data from the Oslo Stock Exchange, and in section 5 we give some concluding remarks. ",
+    "bbox": [
+      116,
+      90,
+      491,
+      181
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2. Inference techniques in the basic SV model ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      203,
+      436,
+      218
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In general, many statistical problems in stochastic modeling, e.g. model selection, parameter estimation and assessment of uncertainty in estimates, can be solved by utilizing the likelihood of the model. Given data $\\textit { z } = \\ : ( z _ { 1 } , . . . , z _ { T } )$ , the likelihood $\\mathcal { L }$ of a random vector $\\boldsymbol { x } = ( x _ { 1 } , \\dots , x _ { T } )$ , with probability density function $p _ { x } ( \\cdot | \\theta )$ , , . . . ,is defined as the function ",
+    "bbox": [
+      114,
+      228,
+      491,
+      334
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/6389b42547c0f0c987ba50ee3ced11cbc720ef7a074091eb6321daab35abacde.jpg",
+    "text": "$$\n{ \\mathcal { L } } ( \\theta | z ) = p _ { x } ( z | \\theta ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      246,
+      344,
+      357,
+      361
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "i.e. one views the the probability density as a function of the parameters $\\theta$ , with $z$ fixed. ",
+    "bbox": [
+      114,
+      371,
+      491,
+      401
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Remark 1. To simplify notations we will drop the subscripts on the densities throughout the rest of the paper. It will be clear from the arguments which densities are considered. We also suppres the dependency of the parameter vector $\\theta$ in the notation of the densities. ",
+    "bbox": [
+      114,
+      410,
+      491,
+      486
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the basic SV model the likelihoods are difficult to compute directly. By conditioning on the latent field $h =$ $( h _ { 1 } , \\ldots , h _ { T } )$ , the probability density of $x$ takes the form ",
+    "bbox": [
+      114,
+      494,
+      491,
+      540
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/9316c32c553c7356b0e8aa87b05dedc46cc448ec0e7ddc7e63dc7cbb2bd9d21d.jpg",
+    "text": "$$\np ( x ) = \\int _ { \\mathbb { R } ^ { T } } p ( x | h ) p ( h ) d h ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      215,
+      547,
+      387,
+      580
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where the joint density $p ( x , h ) = p ( x | h ) p ( h )$ is a product of the Gaussian marginals ",
+    "bbox": [
+      114,
+      589,
+      491,
+      618
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/4d749551ee1b8e61add9c6b1eccde35f4e93cf7889aaee487ff8fd76a372a336.jpg",
+    "text": "$$\np ( x | h ) = \\prod _ { i = 1 } ^ { T } p ( x _ { i } | h _ { i } )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      235,
+      627,
+      372,
+      670
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "and ",
+    "bbox": [
+      114,
+      679,
+      142,
+      691
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/29b0b46b834c9a3712ce5a875609211731c2b8012f1ba4ae1de8036a30daee27.jpg",
+    "text": "$$\np ( h ) = p ( h _ { 1 } ) \\prod _ { i = 2 } ^ { T } p ( h _ { i } | h _ { i - 1 } ) .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      212,
+      688,
+      395,
+      729
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The factors in equations (11) and (12) are densities corresponding to the distributions $x _ { t } | h _ { t } \\overset { \\mathrm { d } } { \\sim } N ( 0 , \\sigma ^ { 2 } c \\exp ( h _ { t } ) )$ $h _ { 1 } \\stackrel { \\mathrm { d } } { \\sim } N ( 0 , \\sigma _ { u } ^ { 2 } / ( 1 - \\psi ^ { 2 } ) )$ and $h _ { t } | h _ { t - 1 } \\stackrel { \\mathrm { ~ d ~ } } { \\sim } N ( \\psi h _ { t - 1 } , \\sigma _ { u } ^ { 2 } )$ . In , σ / ψ ψ , σgeneral the integral in equation (10) has no closed form, and it is typically very demanding to compute numerically. As an approximation one may consider a secondorder Taylor expansion of $\\log p ( x , h )$ around the maximum ",
+    "bbox": [
+      114,
+      733,
+      491,
+      858
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/80a3209f9aa72ddfc7cb0893d6655fed32325ac210d6613ac78b4774d1a5b012.jpg",
+    "text": "$$\nh ^ { * } = \\operatorname { a r g m a x } _ { h } \\log p ( x , h ) .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      218,
+      858,
+      387,
+      875
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The resulting integral is easily computed, giving the expression ",
+    "bbox": [
+      504,
+      92,
+      882,
+      121
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/6a8c183117a8a1a18b0dfb98c28de6e897e1ab4a5ee10a052c65aac8e56d1e01.jpg",
+    "text": "$$\np _ { x } ( x ) \\approx ( 2 \\pi ) ^ { T / 2 } | \\operatorname* { d e t } \\Omega ( x ) | ^ { - 1 / 2 } p ( x , h ^ { * } ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      565,
+      131,
+      818,
+      151
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where ",
+    "bbox": [
+      506,
+      165,
+      547,
+      178
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/7fa04ed17b12d33111f6ee5e91e85d6169cbc59a9d695e1ba4dee7689eea6dd6.jpg",
+    "text": "$$\n\\Omega ( x ) = \\frac { \\partial ^ { 2 } \\log p ( x , h ) } { \\partial h ^ { T } \\partial h } \\Big | _ { h = h ^ { * } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      607,
+      174,
+      779,
+      208
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "is the Hessian matrix of the map $h \\mapsto \\log p ( x , h )$ , evaluated at $h = h ^ { * }$ ,. This approximation is known as Laplace’s method, and it has been applied, by among others Martino et al. (2011), to compute likelihood functions in basic SV models. The reason for its efficiency in basic SV models is the Markov structure of the latent field $h$ . The Markov property ensures that the gradient of $h \\mapsto \\log p ( x , h )$ is on the form ",
+    "bbox": [
+      504,
+      213,
+      882,
+      333
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/80942986d05fdfa7f2b9c9ce2c257a7c9448b6d0c2174930d41049340578e63a.jpg",
+    "text": "$$\n\\frac { \\partial \\log p ( x , h ) } { \\partial h _ { i } } = b _ { i } + \\sum _ { j } A _ { i j } h _ { j } + g _ { i } ( x _ { i } , h _ { i } ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      540,
+      342,
+      815,
+      381
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where $A = \\| A _ { i j } \\|$ is a tridiagonal matrix, $b _ { i }$ are constants and $g _ { i }$ are non-linear functions. By exploiting the sparseness of $A$ , one can efficiently calculate $h ^ { * }$ . In addition, the Hessian matrix $\\Omega ( x )$ is tridiagonal, making the computation of the expression in equation (14) efficient. ",
+    "bbox": [
+      504,
+      391,
+      882,
+      467
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We are now in a position to make statistical inference based on the basic SV model. We start by looking at filtering of the volatilities. Overlooking model uncertainty and parameter uncertainty, the conditional density $p ( h _ { T } | x )$ contains all available information about the latent variable $h _ { T }$ at time $T$ . As a point estimate one may consider the Bayes estimator which is defined as the maximum of the posterior distribution $p ( h _ { T } | x )$ . This density is approximated using Laplace’s method : ",
+    "bbox": [
+      504,
+      468,
+      882,
+      603
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/bc6d05f1b3fbe347712fd0b4bea0dba3aa874065581e8416ffba94cad98f5f29.jpg",
+    "text": "$$\n\\begin{array} { r c l } { p ( h _ { T } | x ) } & { \\propto } & { p ( x , h _ { T } ) } \\\\ & { = } & { \\displaystyle \\int _ { \\mathbb { R } ^ { T - 1 } } p ( x , h ) d h _ { 1 } \\cdot \\cdot \\cdot d h _ { T - 1 } } \\\\ & { \\approx } & { b p \\left( x , \\tilde { h } _ { 1 } , \\dots \\tilde { h } _ { T - 1 } , h _ { T } \\right) , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      549,
+      614,
+      810,
+      681
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where the factor $^ b$ does not depend on $h _ { T }$ , and ",
+    "bbox": [
+      506,
+      690,
+      808,
+      705
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/daec5f1a77d645135113cd2a97da50be2ff7256a9387158a722fa8e6806d9bf0.jpg",
+    "text": "$$\n\\begin{array} { r } { \\left( \\tilde { h } _ { 1 } , \\ldots \\tilde { h } _ { T - 1 } \\right) = \\operatorname * { a r g m a x } _ { h _ { 1 } , \\ldots , h _ { T - 1 } } \\log p ( x , h ) . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      540,
+      717,
+      820,
+      739
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Maximizing (17) gives the filtered estimate $\\hat { h } _ { T }$ of $h _ { T }$ . The filtering procedure can be written more compact as in (13) with $\\hat { h } _ { T } ^ { \\mathrm { ~ ~ } } = \\hat { h } _ { T } ^ { * }$ . ",
+    "bbox": [
+      504,
+      752,
+      882,
+      797
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For smoothing we consider the posterior distribution $p ( h _ { s } | x )$ , now with $s \\prec T$ . A similar argument as for the <derivation of the filtering formula gives the approximated Bayes estimator $\\hat { h } _ { s } = h _ { s } ^ { * }$ where $h _ { s } ^ { * }$ is component $s$ of the vector $h ^ { * }$ in equation (13). ",
+    "bbox": [
+      504,
+      799,
+      882,
+      873
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      493,
+      898,
+      504,
+      909
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We note that if we are already calculating the likelihood using the approach described above, then very little additional effort is required to obtain these estimates, since the maxima in equation (13) is found as a part of the Laplace approximation. ",
+    "bbox": [
+      116,
+      90,
+      491,
+      166
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To forecast the volatility $N$ steps into the future we follow the same procedure as for smoothing and filtering. We need to find the maximum of the expression ",
+    "bbox": [
+      114,
+      167,
+      493,
+      212
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/59aa7b2bf3d610d3a8bbe7ac40a224ecea267f33dd4f96390907fcce3d44e9ca.jpg",
+    "text": "$$\n\\log p ( x , h , h _ { T + N } ) = \\log p ( x , h ) + \\log p ( h _ { T + N } | h )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      151,
+      223,
+      455,
+      239
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "as a function of $( h , h _ { T + N } )$ . Iterating equation (8) backwards yields ",
+    "bbox": [
+      114,
+      251,
+      490,
+      280
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/85b3ed04e3aa0bd657770adb83c0310d4ff7c4df7ad6f80bebc631cbd4800e6a.jpg",
+    "text": "$$\nh _ { T + N } = \\psi ^ { N } h _ { T } + \\sum _ { k = 0 } ^ { N - 1 } \\psi ^ { k } u _ { T + N - k } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      200,
+      290,
+      405,
+      333
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "and hence ",
+    "bbox": [
+      114,
+      342,
+      183,
+      356
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/52347cab93efeb5b2148bdcd8dc1e654f7b2ea32376c527551a7bce7f6bc1e6f.jpg",
+    "text": "$$\nh _ { T + N } | h \\stackrel { \\mathrm { ~ d ~ } } { \\sim } N \\left( \\psi ^ { N } h _ { T } , \\sigma _ { u } ^ { 2 } \\sum _ { k = 0 } ^ { N - 1 } \\psi ^ { 2 k } \\right) .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      194,
+      363,
+      413,
+      406
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Differentiation of $\\log p ( h _ { T + N } | h )$ gives ",
+    "bbox": [
+      116,
+      415,
+      361,
+      430
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/b837b4538d6cf35ecebc090de22b9a31a2262e0cba6456121497d4e2d1224a22.jpg",
+    "text": "$$\n\\frac { \\partial \\log p ( h _ { T + N } | h ) } { \\partial h _ { T + N } } = - \\frac { ( h _ { T + N } - \\psi ^ { N } h _ { T } ) } { \\sigma _ { u } ^ { 2 } \\sum _ { k = 0 } ^ { N - 1 } \\psi ^ { 2 k } } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      181,
+      438,
+      426,
+      477
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To find a maximum we require that the expressions in equation (19) equals zero, and also that $\\nabla _ { h } \\log p ( x , h ) = 0 .$ . From this, the $N$ -step volatility forecast becomes ",
+    "bbox": [
+      114,
+      486,
+      491,
+      530
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/036cbb74ef8dd335a90d38a48c8de54ea5bd8e002e96c5641869037472037120.jpg",
+    "text": "$$\n\\hat { h } _ { T + N } = \\psi ^ { N } \\hat { h } _ { T } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      253,
+      539,
+      349,
+      558
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where $\\hat { h } _ { T }$ is the filtered estimate of $h _ { T }$ . The formulas we have derived for smoothing, filtering and forecasting of the volatilities are the same as in Skaug and Yu (2009). ",
+    "bbox": [
+      114,
+      569,
+      491,
+      613
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To conclude this section we remark that, since $\\begin{array} { r l r } { p ( x _ { T + N } | x ) } & { { } \\propto } & { p ( x , x _ { T + N } ) . } \\end{array}$ , the conditional densities $p ( x _ { T + N } | x )$ , can be computed simply by using the Laplace approximation. For $N > 1$ one must take into account that the matrices $A$ and $\\Omega ( x , x _ { T + N } )$ are modified due to the inclusion of the density $p ( h _ { T + N } | h )$ . ",
+    "bbox": [
+      114,
+      614,
+      493,
+      705
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3. Generalization to the MRW model ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      742,
+      377,
+      757
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In this section we extend the results of section 2 to the discrete-time MRW model. In this case $h _ { t }$ is no longer a Markov process. While $h _ { t }$ still is a centered Gaussian process, its covariance structure is now given by equation (5). ",
+    "bbox": [
+      114,
+      768,
+      491,
+      843
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Let us first review the approximation of the likelihood for the MRW model (Løvsletten and Rypdal, 2011). One starts with Laplace’s method, given in equation (14). The density $p ( x | h )$ is the same as for the basic SV model, but the density of $p ( h )$ needs to be handled differently. We denote by $\\gamma ( k ) = \\mathrm { C o v } ( h _ { 0 } , h _ { k } )$ the auto-covariance function γof the process $h _ { t }$ ,, and let $\\Gamma _ { t }$ be the variance-covariance matrices of the vectors $( h _ { 1 } , \\ldots , h _ { t } )$ . That is ",
+    "bbox": [
+      114,
+      844,
+      491,
+      873
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      90,
+      883,
+      181
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/2272b66f603cef83afe972b7f5885f5deacd8e139790beaecabb84571178feb1.jpg",
+    "text": "$$\n\\Gamma _ { t } ( i , j ) = \\gamma ( | i - j | ) \\mathrm { f o r } i , j = 0 , 1 , \\ldots , t - 1 .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      550,
+      193,
+      838,
+      209
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As usual when working with Gaussian vectors, it is convenient to introduce regression coefficients $\\phi _ { i } ^ { ( t ) }$ . The vectors $\\phi ^ { ( t ) }$ are defined via the equations ",
+    "bbox": [
+      504,
+      220,
+      882,
+      265
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/c5b1d129620eb3bb1c49963b3a4b9ea0c5e827e9d63c26da6974461d6a246d51.jpg",
+    "text": "$$\n\\Gamma _ { t } \\phi ^ { ( t ) } = \\gamma _ { 1 : t } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      648,
+      275,
+      735,
+      294
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where $\\gamma _ { 1 : t } = ( \\gamma ( 1 ) , \\ldots , \\gamma ( t ) ) ^ { T }$ . From standard theory of γ γ , . . . , γmultivariate normal distributions, the conditional distributions of $h _ { t } | \\{ h _ { s } : 1 \\leq s < t \\}$ are normal, ",
+    "bbox": [
+      504,
+      304,
+      882,
+      349
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/fdb467268a760883182a24ce097d6ac896a30e4c44f5153f6ea94d006e0cc3e2.jpg",
+    "text": "$$\nh _ { t } | \\{ h _ { s } : 1 \\leq s < t \\} \\overset { \\mathrm { d } } { \\sim } N ( m _ { t } , P _ { t } ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      589,
+      359,
+      794,
+      380
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "with means $m _ { t } \\ = \\ ( h _ { t - 1 } , h _ { t - 2 } , \\ldots , h _ { 1 } ) \\phi ^ { ( t - 1 ) }$ and variances $P _ { t } = \\gamma ( 0 ) - \\gamma _ { 1 : t - 1 } ^ { T } \\Gamma _ { t - 1 } ^ { - 1 } \\gamma _ { 1 : t - 1 }$ , . . . , φ. Since the density of $h$ can be γ γ γdecomposed into a product of one-dimensional marginals, equation (22) gives $p ( h )$ . ",
+    "bbox": [
+      504,
+      390,
+      882,
+      452
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Remark 2. Solving the the equations in (21) for $t \\_ =$ $1 , \\ldots , T \\mathrm { ~ - ~ } 1$ can be done iteratively using the Durbin-, . . . ,Levinson algorithm, which requires only $O ( T ^ { 2 } )$ floating point operations. We refer to (McLeod et al., 2007) for details. ",
+    "bbox": [
+      504,
+      463,
+      882,
+      537
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A second difference between the basic SV model and the MRW model is the structure of the matrices $\\Omega$ and $A$ , which are defined by equations (15) and (16). For the MRW model these are no longer sparse. This makes the computation of the expression in equation (14) extremely demanding. The solution is to truncate the dependency in the process $h _ { t }$ after a finite number of lags. This gives the approximation: ",
+    "bbox": [
+      504,
+      551,
+      883,
+      671
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/e62f66187a46a532359479259af43ad6ab4674fa7f3889967fb4f7b2fe53f991.jpg",
+    "text": "$$\np ( h _ { t } | \\{ h _ { s } : 1 \\leq s < t \\} ) \\approx p ( h _ { t } | \\{ h _ { s } : t - \\tau \\leq s < t \\} ) ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      517,
+      683,
+      838,
+      700
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where $\\tau \\in \\mathbb { N }$ is a truncation parameter. We note that for $t \\ > \\ \\tau$ , the regression coefficients and variances of $h _ { t } | \\{ h _ { s } : t - \\tau \\leq s < t \\}$ are $\\phi ^ { ( \\tau ) }$ and $P _ { \\tau + 1 }$ respectively. After τ <truncation, the matrices $A$ and $\\Omega$ τbecome band-diagonal with bandwidths equal $\\tau$ . ",
+    "bbox": [
+      504,
+      710,
+      883,
+      786
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Remark 3. The likelihood approximation for the MRW model is implemented in the $\\mathbf { R }$ computer language. In our implementation we have used analytical expressions for the first and second order derivatives to construct the matrices $\\Omega$ and $A$ . The maxima $h ^ { * }$ are found by numerically calculating the roots of the expressions in equation (16) using the algorithm ”DF-SANE” (La Cruz et al., 2006). This algorithm is implemented in the R package ”BB” (Varadhan and Gilbert, 2009). To find the determinant of the $\\Omega$ we use the package ”Matrix” which efficiently stores and manipulates sparse matrices. ",
+    "bbox": [
+      504,
+      797,
+      882,
+      873
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      493,
+      898,
+      503,
+      909
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/217e574278e5bb8917d7a191aa0e083be2c1d9fef77d0e6f76294ef09e97b393.jpg",
+    "image_caption": [
+      "Figure 1: (a): Shows $e ^ { { \\hat { h } } _ { t } / 2 }$ , where $\\hat { h } _ { t }$ are the filtered estimates of $h _ { t }$ from the daily log-returns in the OSEBX in the time period from February 20th 2008 to February 8th 2012. The lower curve is for the MRW model, and the top curve is for the basic SV model. The top curve has been shifted to make it visible. The filtered signals are plotted together with the log-returns $x _ { t }$ of the OSEBX. (b): Shows the same as in (a), but now $\\hat { h } _ { t }$ are the smoothed estimates of $h _ { t }$ given all the observations of $x _ { t }$ . (c): Shows $e ^ { { \\hat { h } } _ { t } / 2 }$ , where $\\hat { h } _ { t }$ is the forecast performed using data $\\{ x _ { s } : s \\leq t - N \\}$ with $N = 1 0$ days. (d): Shows the same as in (c), but now with $N = 5 0$ days. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      155,
+      85,
+      844,
+      422
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      536,
+      491,
+      627
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "With the likelihood approximation at hand, we can extend the formulas for smoothing, filtering and forecasting to the MRW model. As for the basic SV model, we maximize the posterior distribution according to equation (13), and the formulas for smoothing and filtering are exactly as for the basic SV model. ",
+    "bbox": [
+      114,
+      636,
+      491,
+      726
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "To forecast the volatilities $N$ steps ahead we need the conditional density of $h _ { T + N } | h$ . Since this variable is normal, the distribution is uniquely given by the mean $m _ { T + N | T }$ and variance $P _ { T + N | T }$ , i.e. ",
+    "bbox": [
+      114,
+      727,
+      491,
+      786
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/0e736b1c576d122665d17e394fc577d0aa8630e49dd55662dbf39306d5b744a9.jpg",
+    "text": "$$\nh _ { T + N } | h \\stackrel { \\mathrm { d } } { \\sim } N ( m _ { T + N | T } , P _ { T + N | T } ) .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      205,
+      792,
+      400,
+      814
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The mean is a linear combination the conditioning variables, i.e. ",
+    "bbox": [
+      114,
+      820,
+      490,
+      851
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/05c1c8ab34fdb3551ef06422427070f8584dec2c7220f943fff8e1dd22796b84.jpg",
+    "text": "$$\nm _ { T + N | T } = ( h _ { T } , h _ { T - 1 } , \\dots , h _ { 1 } ) \\phi ^ { ( T , N ) } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      191,
+      856,
+      415,
+      876
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where the coefficients $\\phi ^ { ( T , N ) }$ are solutions to the equations ",
+    "bbox": [
+      504,
+      536,
+      882,
+      551
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/bb5c54f787bc16bdafca75d3d1b824b23e00b85cad383038cb26cc4b87ae67ad.jpg",
+    "text": "$$\n\\Gamma _ { T } \\phi ^ { ( T , N ) } = \\gamma _ { N : T + N - 1 } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      620,
+      563,
+      763,
+      582
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "with ",
+    "bbox": [
+      506,
+      594,
+      537,
+      608
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/65369ed96e030dd8ee9f87576e0f4cec4e4b6b262722dfb06d1fd021a20308c2.jpg",
+    "text": "$$\n{ \\gamma } _ { N : T + N - 1 } = ( \\gamma ( N ) , \\gamma ( N + 1 ) , \\ldots , \\gamma ( N + T - 1 ) ) ^ { T } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      531,
+      621,
+      856,
+      638
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The variance is given by ",
+    "bbox": [
+      506,
+      651,
+      666,
+      666
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/e71a0cd3a64c78e480f78d827733dbec2aeee20e116b8b5f7079eca6623d325e.jpg",
+    "text": "$$\n\\begin{array} { r } { P _ { T + N | T } = \\gamma ( 0 ) - \\gamma _ { N : T + N - 1 } ^ { T } \\Gamma _ { T } \\gamma _ { N : T + N - 1 } . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      566,
+      676,
+      820,
+      698
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We note that in the special case $N = 1$ we have $\\phi ^ { ( T , N ) } = $ $\\phi ^ { ( T ) }$ φ, and we can again use the Durbin-Levinson algoφrithm. In the case $N > 1$ , the explicit inverse of $\\Gamma _ { T }$ is >needed, and one may use the algorithm of Trench (1964), which utilizes that the matrices are Toeplitz. Using the same procedure as in section 2, we get the forecasting formula ",
+    "bbox": [
+      504,
+      707,
+      882,
+      813
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/53cd2379895cc9420604d212ae52179c6f941706e8a888a6508ece3766250815.jpg",
+    "text": "$$\n\\hat { h } _ { T + N } = \\left( \\hat { h } _ { T } , \\hat { h } _ { T - 1 } , \\dots , \\hat { h } _ { 1 } \\right) \\phi ^ { ( T , N ) } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      584,
+      811,
+      799,
+      834
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where $\\left( \\hat { h } _ { 1 } , \\hat { h } _ { 2 } , \\ldots , \\hat { h } _ { T } \\right)$ are the smoothed estimates of $( h _ { 1 } , h _ { 2 } , \\ldots , h _ { T } )$ .. ",
+    "bbox": [
+      504,
+      842,
+      883,
+      875
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      493,
+      898,
+      504,
+      909
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/5ae2c3b83c2e1f8b244ea634f2678fcb7f08e871d8b69f392b62bda297df1ee6.jpg",
+    "image_caption": [
+      "Figure 2: (a): Examples of forecasts $\\hat { h } _ { t + N }$ for the basic SV model (dotted curve) and the MRW model (solid curve). The forecasts are computed from the OSEBX data with the time $t$ corresponding to the date February 17th 2010. (b): Same as in (a), but now the forecasts are preformed for the date March 5th 2009. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      161,
+      93,
+      848,
+      260
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Using the Laplace approximation for the MRW model, the $N$ step conditional densities $p ( x _ { T + N } | x )$ are computed as in section 2. ",
+    "bbox": [
+      114,
+      353,
+      490,
+      397
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4. Examples ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      445,
+      205,
+      460
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "As an example we have applied the inference methods presented in sections 2 and 3 to a time series consisting of daily log-returns of the Oslo Stock Exchange Benchmark Index (OSEBX). The data used are closing prices for the time period May 25th 2001 to February 8th 2012, and the whole time series is used to obtain ML estimates for the basic SV model and the MRW model. The interesting estimates are $\\hat { \\psi } = 0 . 9 8$ for the basic SV model and $\\hat { \\lambda } =$ ψ .0 33 for the MRW model. ",
+    "bbox": [
+      116,
+      481,
+      491,
+      616
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In figure 1(a) we have plotted the filtered estimates of $h _ { t }$ together with the log-returns for the time period from February 20th 2008 to February 8th 2012. The filtering for the basic SV model and the MRW model are similar, but not identical. The same is seen in figure 1(b), which shows the smoothed estimates. In figures 1(c) and 1(d) we have plotted the $N$ -step forecast for $N = 1 0$ days and $N =$ 50 days respectively. In the 50-day forecast there are some clear visible differences between the two models. These differences become even clearer in figure 2. In this figure we show two examples, where we (for a fixed time t) make future predictions $\\bar { \\hat { h } } _ { t + N }$ , and plot these as a functions of $N$ It follows from equation (20) that these curves must be monotonic and exponentially decaying for the basic SV model. This is not the case for the MRW model, and we observe that the forecasts based on the this model have much richer behavior. We note that similar observations have been made for the MSM model (Calvet and Fisher, 2001). ",
+    "bbox": [
+      116,
+      617,
+      490,
+      873
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      353,
+      882,
+      382
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "As explained in sections 2 and 3, it is possible to use the Laplace approximation to compute the full conditional densities for future returns. This gives forecasts containing more information than the estimates presented in figures 1 and 2. In figure 3 we show two examples where such densities have been computed. In these examples, the volatility is high, and the conditional densities are wider than the unconditioned density. In other situations, where the volatility is low, the conditional densities will be narrower than the unconditioned density. ",
+    "bbox": [
+      506,
+      385,
+      882,
+      534
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Remark 4. The computer code that is used for these examples is available online at complexityandplasmas. net. ",
+    "bbox": [
+      504,
+      544,
+      880,
+      587
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5. Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      506,
+      609,
+      604,
+      623
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The main results of this paper are methods for smoothing, filtering and forecasting using the MRW model. In addition, we have presented methods for computing conditional densities of future returns. These results improve on existing forecasting techniques for multifractal models, and we therefore consider this work to be an important contribution to the field. ",
+    "bbox": [
+      506,
+      633,
+      882,
+      738
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The methods presented in this work open the way for several future studies of multifractal modeling in finance. Among the new possibilities that we consider most interesting, are model comparisons based on estimated future distributions. ",
+    "bbox": [
+      506,
+      739,
+      882,
+      813
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgement ",
+    "text_level": 1,
+    "bbox": [
+      506,
+      835,
+      635,
+      849
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This project is supported by Sparebank 1 Nord-Norge. ",
+    "bbox": [
+      506,
+      859,
+      861,
+      873
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      493,
+      898,
+      503,
+      909
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7812631/auto/images/35781b90f76b451f22a4b5230aed3ebdeb3a60f7580eff2b0b2969d29c7bc4d9.jpg",
+    "image_caption": [
+      "Figure 3: (a): An illustration of the use of conditional densities in forecasting. The figure shows the log-returns of the OSEBX up to December 12th 2008 and the conditional density of the log-return for the next day. (b): Shows the same as (a), but now the conditional density is a $N$ -step forecast with $N = 5 0$ days. (c): Shows the same conditional density (solid curve) as is illustrated in (a). This density is compared with the unconditional density for the log-returns (dashed line). (d): Same as in (c), but now for the $N$ -step forecast with $N = 5 0$ days "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      153,
+      87,
+      849,
+      422
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      523,
+      192,
+      537
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      549,
+      192,
+      563
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bachelier, L., 1900. Theorie de la sp ´ eculation. Annales ´ scientifiques de l’E.N.S 17, 21–86. ´ ",
+    "bbox": [
+      114,
+      573,
+      490,
+      602
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bacry, E., Delour, J., Muzy, J. F., 2001. Multifractal random walk. Physical Review E 64, 026103. ",
+    "bbox": [
+      114,
+      612,
+      490,
+      641
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Calvet, L., Fisher, A., Nov. 2001. Forecasting multifractal volatility. Journal of Econometrics 105 (1), 27–58. ",
+    "bbox": [
+      114,
+      651,
+      491,
+      681
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Ghashghaie, S., Breymann, W., Peinke, J., Talkner, P., Dodge, Y., 1996. Turbulent Cascades in Foreign-Exchange Markets. NATURE 381, 767–770. ",
+    "bbox": [
+      114,
+      690,
+      491,
+      734
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Kolmogorov, A. N., 1962. A refinement of previous hypotheses concerning the local structure of turbulence in a viscous incompressible fluid at high Reynolds number. Journal of Fluid Mechanics 13, 82–85. ",
+    "bbox": [
+      114,
+      744,
+      491,
+      804
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "La Cruz, W., Mart´ınez, J. M., Raydan, M., 2006. Spectral residual method without gradient information for solving large-scale nonlinear systems of equations. Mathematics of Computation 75, 1429–1448. ",
+    "bbox": [
+      114,
+      814,
+      491,
+      873
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Løvsletten, O., Rypdal, M., 2011. Approximated maximum likelihood estimation in multifractal random walks. arXiv.org physics.data-an. ",
+    "bbox": [
+      504,
+      523,
+      882,
+      568
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Lux, T., 2008. The Markov-Switching Multifractal Model of Asset Returns: GMM Estimation and Linear Forecasting of Volatility. Journal of Business & Economic Statistics 26, 194–210. ",
+    "bbox": [
+      504,
+      582,
+      882,
+      641
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Mandelbrot, B., 1963. The Variation of Certain Speculative Prices. The Journal of Business 36, 394. ",
+    "bbox": [
+      504,
+      655,
+      882,
+      684
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Mandelbrot, B., Fisher, A., Calvet, L., 1997. A Multifractal Model of Asset Returns. Cowles Foundation Discussion Paper 1164. ",
+    "bbox": [
+      504,
+      698,
+      882,
+      742
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Martino, S., Aas, K., Lindqvist, O., Neef, L. R., Rue, H., 2011. Estimating stochastic volatility models using integrated nested Laplace approximations. The European Journal of Finance 17 (7), 487–503. ",
+    "bbox": [
+      504,
+      756,
+      882,
+      815
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "McLeod, I. A., Yu, H., Krougly, Z. L., 2007. Algorithms for Linear Time Series Analysis: With R Package . Journal of Statistical Software 23 (5). ",
+    "bbox": [
+      504,
+      829,
+      882,
+      873
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      495,
+      897,
+      504,
+      909
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Mitchell, W. C., 1915. The making and using of index numbers. Bulletin of the United States Bureau of Labor Statistics 173, 5–114. ",
+    "bbox": [
+      114,
+      90,
+      491,
+      136
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Muzy, J. F., Bacry, E., 2002. Multifractal stationary random measures and multifractal random walks with log infinitely divisible scaling laws. Physical Review E 66, 056121. ",
+    "bbox": [
+      114,
+      146,
+      491,
+      205
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Obukhov, A. M., 1962. Some Specific Features of Atmospheric Turbulence. Journal og Geophysical Research 67, 3011–3014. ",
+    "bbox": [
+      114,
+      217,
+      491,
+      261
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Skaug, H. J., Yu, J., 2009. Automated Likelihood Based Inference for Stochastic Volatility Models. Singapore Management University, School of Economics Working Paper, 1–25. ",
+    "bbox": [
+      114,
+      272,
+      493,
+      332
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Taylor, S. J., 1982. Financial Returns Modelled by the Product of Two Stochastic Processes—A Study of Daily Sugar Prices, 1961–79. In: Time Series Analysis: Theory and Practice. North Holland, pp. 203–226. ",
+    "bbox": [
+      114,
+      342,
+      491,
+      404
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Trench, W. F., 1964. An Algorithm for the Inversion of Finite Toeplitz Matrices. Journal of the Society for Industrial and Applied Mathematics 12, 515–522. ",
+    "bbox": [
+      114,
+      412,
+      493,
+      458
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Varadhan, R., Gilbert, P., 2009. BB: An R Package for Solving a Large System of Nonlinear Equations and for Optimizing a High-Dimensional Nonlinear Objective Function. Journal of Statistical Software 32, 1–26. ",
+    "bbox": [
+      114,
+      468,
+      493,
+      529
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      898,
+      503,
+      909
+    ],
+    "page_idx": 7
+  }
+]

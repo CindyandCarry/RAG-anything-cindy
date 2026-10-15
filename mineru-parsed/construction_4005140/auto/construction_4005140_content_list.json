@@ -1,0 +1,1734 @@
+[
+  {
+    "type": "text",
+    "text": "Potential Market of Parallel Strand Lumber (PSL) and ",
+    "text_level": 1,
+    "bbox": [
+      148,
+      90,
+      862,
+      119
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Laminated Veneer Lumber (LVL) in Indonesia ",
+    "bbox": [
+      192,
+      148,
+      815,
+      178
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/02c462400bf5fd773815ca14f54a31d729a6b61b7bf54295c6b2ed5833f69561.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      218,
+      239,
+      787,
+      406
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Andre M Iskandar ",
+    "bbox": [
+      429,
+      458,
+      576,
+      476
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "WOOD 493 ",
+    "bbox": [
+      452,
+      518,
+      552,
+      536
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A Report Submitted in Partial Fulfillment of the Requirements for the Degree of Bachelor of Science in ",
+    "bbox": [
+      94,
+      554,
+      911,
+      573
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Wood Products Processing ",
+    "bbox": [
+      397,
+      589,
+      611,
+      607
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In ",
+    "bbox": [
+      493,
+      626,
+      511,
+      640
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Faculty of Forestry ",
+    "bbox": [
+      410,
+      659,
+      596,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "April 18, 2013 ",
+    "bbox": [
+      444,
+      724,
+      562,
+      742
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Executive\tSummary ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      111,
+      307,
+      131
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The purpose of this thesis is to explore the market potential of the two engineered-wood products, i.e., the Parallel Strand Lumber (PSL) and Laminated Veneer Lumber (LVL) in Indonesia. An introduction to the wood products processing sector, with a definition of wood products will be laid out. A detailed product description of the two main wood products in question will then be identified. This research will show the demand and supply of PSL and LVL as well as its application in the world, such as Australia, the United States and other countries. Indonesia will be the major topic of this research. A small introduction of the country and its connection to wood industry will be stated. To conclude, a distinct analysis will be drawn in relation to what the market potential of PSL and LVL is in Indonesia. ",
+    "bbox": [
+      88,
+      143,
+      916,
+      347
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "i ",
+    "bbox": [
+      905,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "List of Key Words: Parallel Strand Lumber, Parallam, PSL, and Laminated Veneer Lumber, LVL, Indonesia ",
+    "bbox": [
+      88,
+      849,
+      867,
+      895
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Background ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      93,
+      222,
+      113
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Recent analysis has showed that wood products processing application in Indonesia $( \\sim 1 9 \\% )$ is considered low compared to Europe $( 3 0 \\% )$ . From all the buildings that were made out of woods in Indonesia, $69 \\%$ of that is in houses category, which means that Indonesian markets have a large demand for it. In actual fact, wood industry in the developing country has grown steadily for several years, but, during the past 15 years, its size has almost tripled (Global Wood and Wood Products Flow, 9). ",
+    "bbox": [
+      88,
+      126,
+      916,
+      251
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Hence, it could be evidently stated that wood and wood products are amongst the core market demands these days. Such an extremely high demand actually serves as the key-driving factor in enhancement of certain organizational investments in improvisation of forest management internationally. Even since, market changes, which are on temporary basis, can manipulate the decision making criteria of an individual; the changes in market demands that are devised to be used over longer period of time can evidently have a higher impact on investments that are being made in forestry and the overall forest industry at a cumulative level. ",
+    "bbox": [
+      88,
+      257,
+      915,
+      434
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This success was hampered in 2009 by the economic crisis, which spilled over into the building industry. But if the market remains to this day still marginal, then it should be noted that it is far below its potential. A study conducted by local researchers, Hoyle & Woeste (2009) came to a conclusion that the timber industries in Indonesia have all the potentials grow to 15 to $20 \\%$ of the global market. ",
+    "bbox": [
+      88,
+      440,
+      910,
+      539
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The result of this potentials grow, investors are fighting over to make profit by filling the gaps between the demand and supply of wooden houses in the market. Indonesian investors took this opportunity in building wooden houses to be sold to companies; unfortunately, due to the fact that Indonesia is not a technology-advance country, most local carpenters are only familiar with custom woods, which will be very expensive. In significance to this matter, investors have come up with a solution to use PSL and LVL that the North American offers. These materials are more affordable and will bring more profit to those investors. ",
+    "bbox": [
+      88,
+      545,
+      897,
+      722
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ii ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Table\tOf\tContent ",
+    "text_level": 1,
+    "bbox": [
+      410,
+      122,
+      596,
+      143
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Executive Summary ..   \nBackground ..   \nTable Of Content. iii   \nList Of Figures . . iv   \n1.0 Introduction. . 1   \n1.1 Overview.. . 1   \n1.2 Research Questions. . 1   \n1.3 Research Objectives. . 1   \n2.0 Literature Review.. .. 2   \n2.1 What is Wood Processing? . .. 2   \n2.2 What are the Engineered Wood Products? . 2   \n2.3 History of Wood Products Processing . .. 2   \n2.4 Commonly used Wood Processed Products in the Markets .. 3   \n2.5 Product descriptions.. .. 3   \n2.5.1 Laminated veneer lumber (LVL) . .. 4   \n2.5.2 Parallel strand lumber (PSL) (Parallam $^ \\mathrm { \\textregistered }$ ) . .. 5   \n2.6 Manufacturing Process of PSL and LVL .. 6   \n2.6.1 LVL. .. 6   \n2.6.2 PSL. .. 7   \n2.7 The practice of PSL and LVL. .. 8   \n3.0 Industrial Development of PSL and LVL in the World. . 10   \n4.0 Market Potential of PSL and LVL in Indonesia . . 12   \n4.1 The Opportunity of PSL and LVL Market in Indonesia . 12   \n4.2 Practice of PSL and LVL in Indonesia. . 12   \n4.3 The Growth Potential of PSL and LVL in Indonesia . . 13   \n5.0 Conclusion . 15 ",
+    "bbox": [
+      91,
+      184,
+      921,
+      773
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "References. 16 ",
+    "bbox": [
+      89,
+      777,
+      910,
+      795
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "List\tOf\tFigures ",
+    "text_level": 1,
+    "bbox": [
+      424,
+      92,
+      581,
+      114
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 1: LVL 4 ",
+    "bbox": [
+      89,
+      143,
+      928,
+      164
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 2: PSL (PSL\tFurnierstreifenholz) 5 ",
+    "bbox": [
+      96,
+      171,
+      928,
+      189
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 3: Manufacturing Process of LVL (Structured Composite Lumber, 2006) 6 ",
+    "bbox": [
+      93,
+      196,
+      929,
+      217
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 4: Manufacturing Process of PSL 7 ",
+    "bbox": [
+      98,
+      223,
+      929,
+      241
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 5: LVL application in Alpine MDF Warehouse, Victoria, Australia 9 ",
+    "bbox": [
+      94,
+      250,
+      929,
+      268
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 6: PSL application in Finchandler Stage Entrance, Washington DC 9 ",
+    "bbox": [
+      98,
+      276,
+      929,
+      295
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 7: Application of LVL in Candlebark School Library, Victoria, Australia 11 ",
+    "bbox": [
+      91,
+      301,
+      931,
+      320
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 8: Usage of LVL in Indonesia (Spire Indonesia, 108) 13 ",
+    "bbox": [
+      98,
+      328,
+      933,
+      347
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figure 9: Factors affecting life expectancy of house in Indonesian housing market 14 (Spire Indonesia, 84) ",
+    "bbox": [
+      89,
+      354,
+      919,
+      400
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "iv ",
+    "bbox": [
+      897,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1.0 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      109,
+      274,
+      131
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1.1 Overview ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      146,
+      269,
+      164
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This research work is commissioned to put great emphasis on the recently adopted technique of wood processing or wood engineering while shedding light upon the most commonly processed wood products, specifically in Parallel Strand Lumber (PSL) and Laminated Veneer Lumber (LVL), so that a more comprehensive assessment of structural engineered wood products could be carried out; particularly in Indonesia as one of the key wood-products consumption countries. The projected research paper has core objectives of assessing different trends and prospects allied with the demand, supply, investment and trade of the afore-mentioned; two wood-based products. In this research paper, the insights of market potentials associated with PSL and LVL are being explored by all means. The definition of wood processing, their applications and how it impacted the market will be addressed in this study. ",
+    "bbox": [
+      133,
+      174,
+      915,
+      429
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1.2 Research\tQuestions ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      450,
+      361,
+      468
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In this research report, following questions are to be addressed comprehensively:   \n. What is wood processing and how are engineered wood products defined?   \n. What are the major types of engineered wood products available in the markets?   \nWhat are the trends and patterns of using engineered wood products, including PSL and LVL, in general, and in Indonesia, in particularly? ",
+    "bbox": [
+      133,
+      478,
+      882,
+      607
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1.3 Research\tObjectives ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      626,
+      364,
+      645
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The proposed research report has come up with a distinctive aim of providing an insightful evaluation of the Indonesian prospects regarding PSL and LVL. In due course, the report has following purposeful research objectives to be achieved by the end of the projected research work: ",
+    "bbox": [
+      137,
+      655,
+      908,
+      727
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1. Identify the existing trends of wood processing in international markets;   \n2. Analyze demand and supply of PSL and LVL while considering the growing market share of these products in various constructional applications;   \n3. Examine the major applications of these two products within a number of main consuming countries, while highlighting the facts from Indonesia, and also analyze the market potentials to increase their consumptions within these applications. ",
+    "bbox": [
+      163,
+      733,
+      913,
+      885
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      901,
+      939,
+      913,
+      950
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2.0 Literature\tReview ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      93,
+      331,
+      113
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.1 What\tis\tWood\tProcessing? ",
+    "text_level": 1,
+    "bbox": [
+      138,
+      127,
+      418,
+      146
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In literature, wood processing is frequently defined as an engineering process that takes account for the manufacturing of wood-products out of the original wood collected from forest. These products can be pulp and paper, construction materials, tall oil, etc. However, Kollmann came up with an all-inclusive definition of wood processing as “the process of peeling, slicing, sawing, and chemically altering hardwoods and softwoods for producing finished wood products for example boards or veneer; particles or chips which are used to make paper, particle, or fiber products; as well as fuel.” (Kollmann, et al. 2005) ",
+    "bbox": [
+      135,
+      156,
+      901,
+      333
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.2 What\tare\tthe\tEngineered\tWood\tProducts? ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      354,
+      557,
+      373
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "By definition, processed wood products are generally those products that are comprised of an amalgamation of numerous smaller components for making a well-structured wood product, which is designed on the basis of high quality methods and techniques of engineering. Engineered products are also considered as an alternative of traditional sawn lumber (Vining, 2002). ",
+    "bbox": [
+      135,
+      382,
+      911,
+      481
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.3 History\tof\tWood\tProducts\tProcessing ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      501,
+      513,
+      520
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As a matter of fact, over the last fifty years, there have been tremendous evolutions of technology and ecological stewardship that has greatly impacted the overall construction industry all over the world. To match up with the pace of abruptly changing and evolving environmental needs of humans, the construction industry has pulled up its gloves by all means to come up with adequately modified all those homebuilding practices that were previously employed and also customized the use of building materials accordingly. However, it would not be erroneous to establish that the limitation imposed by certain environments as well as changing needs and wants of the potential consumers have worked as a catalyst in transitioning the construction industry towards the production of lightweight wood products. ",
+    "bbox": [
+      135,
+      530,
+      911,
+      758
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The wood products industry has also had to adapt, as fewer large trees are available for manufacture. By developing ways to use smaller diameter trees to manufacture new and lighter weight structural products, the industry uses fewer resources — more efficiently, with less waste. In addition, these new products meet builder demand for deep, long, and straight for structural building materials. ",
+    "bbox": [
+      135,
+      777,
+      906,
+      901
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.4 Commonly\tused\tWood\tProcessed\tProducts\tin\tthe Markets ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      90,
+      696,
+      109
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The most commonly used engineered wood products are listed below: ",
+    "bbox": [
+      183,
+      119,
+      735,
+      138
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "• Plywood   \n• Oriented Strand Board (OSB) Particle Board (PB) Medium Density Board (MDF)   \n• I-joists,   \n• Trusses, and Structural Composite Lumber (SCL); that consists of Laminated Veneer Lumber (LVL), Parallel Strand Lumber (PSL), and Laminated Strand Lumber (LSL). ",
+    "bbox": [
+      181,
+      159,
+      919,
+      368
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The aim of this research study is to explore the third category of engineered wood i.e. Structural Composite Lumber (SCL), while particularly emphasizing upon the market potentials of PSL and LVL within Indonesian constructional premises. Further elaborations on these two types of SCL are given in subsequent sections of this research report. ",
+    "bbox": [
+      135,
+      387,
+      919,
+      486
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2.5 Product\tdescriptions ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      506,
+      367,
+      525
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Wood products, including glue-laminated beams, have been frequently used for construction purposes for more than a century. This signifies that the phenomenon of wood processing is not very contemporary to this world, instead its origins are said to date back a number of centuries. Since last few decades, evolution in most other forms of engineered wood products has come into view as alternatives for the heavy structural solid sawn timber and thus, dwindled its market value and thus, demand all over the world. Apart from that, there are various other factors that appeared to have great impacts on the tremendous growth in demand of engineered wood products due to their cost effectiveness as well as high and long lasting performance. ",
+    "bbox": [
+      133,
+      535,
+      915,
+      738
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "As mentioned above, there are several types of engineered wood products used in various countries, but in this research, focus is being given to PSL and LVL particularly thus, following segments are commissioned to endow the readers with a comprehensive description on these two major engineered wood products, on the whole so that the real essence of the projected report could be understood in its entirety. ",
+    "bbox": [
+      135,
+      756,
+      905,
+      881
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2.5.1\tLaminated\tveneer\tlumber\t(LVL) ",
+    "text_level": 1,
+    "bbox": [
+      184,
+      90,
+      485,
+      108
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "One of the most frequently used engineered wood product is LVL which is manufactured by means of rotating peeled veneers that are combined together with the grain orientated next to the length of the panel. LVL and plywood are similar to some extent, although in veneer the grain of contiguous layers are aligned conventionally i.e. in the same direction, whereas in plywood layers alternate (Vlosky, 2006). Eventually the panel is resawn into dimensions of sawn timber. A good quality of LVL is measured by its stability and uniform of how the veneers placed together. The most common use of LVL is in the manufacturing I-joist for endowing with better strength and stability as compared to traditional sawn timber. ",
+    "bbox": [
+      181,
+      117,
+      911,
+      344
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/65c7bfa17d4d86c13b3fba8e9b11fa4e872df946cb64350cb0775098e36364d5.jpg",
+    "image_caption": [
+      "Figure 1: LVL "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      326,
+      367,
+      609,
+      585
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Properties of LVL ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      626,
+      338,
+      645
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "LVL comes up with following core properties: ",
+    "bbox": [
+      181,
+      652,
+      550,
+      670
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Structural Wood Product manufactured from thinly sliced wood veneers (around $3 \\mathrm { m m }$ in thickness), usually glued together using phenol-formaldehyde resin adhesive LVL has more dimension stability than structural sawn timber because its veneer is laid up tight together side by side, creating uniformity, ensuring that it does not warp LVL is available in any length or width depending on the customer preferences; it is only limited by the press size or logistic reasons. LVL does not split nor fissure due to the proper hot pressing process that occurred after veneer has been dried to the desired moisture content. ",
+    "bbox": [
+      178,
+      690,
+      915,
+      898
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• It is presented in some area with a Watershed™ overlay to provide weather protection on site. (Neuvonen et al. 1998) ",
+    "bbox": [
+      178,
+      90,
+      911,
+      136
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "2.5.2\tParallel\tstrand\tlumber\t(PSL)\t(Parallam®) ",
+    "text_level": 1,
+    "bbox": [
+      181,
+      156,
+      555,
+      175
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "PSL is another recognized engineered wood product used frequently in contemporary constructional activities. It is made of parallel strands of waste veneers glued together under pressure to make large, continuous billets of structural reconstituted lumber. Long strands of veneer are used to manufacture PSL. These long strands usually length between $4 5 \\mathrm { { c m } }$ (18 in) and $2 . 4 \\mathrm { m }$ (96 in), with the pressed strips attached together into beams with large dimension. PSL is usually manufactured as one large board, which is further, sliced into smaller dimensions as per the requirements of any specific application (Donald, 2009). PSL is considered to be a strong-engineered product and thus, constructional applications such as beams, columns, posts, headers, and transmission line cross arms, and bridges. The biggest vendor of PSL is Weyerhaeuser (TrusJoist), a construction company operating in the United States and Canada. ",
+    "bbox": [
+      181,
+      183,
+      916,
+      462
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/141bff108c527bbf743be89c2ab787af578777ef069568f524c8e6ef5031625c.jpg",
+    "image_caption": [
+      "Figure\t2:\tPSL(PSL\tFurnierstreifenholz) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      379,
+      470,
+      666,
+      637
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Properties of PSL ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      686,
+      334,
+      704
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "PSL has the following core properties: ",
+    "bbox": [
+      184,
+      713,
+      486,
+      731
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• Grouped under Structural Composite Lumber (SCL) (Ahmad and Kamke, 2010)   \n• Manufactured with veneer strands ( $2 . 3 - 4 ~ \\mathrm { m m }$ in thickness).   \n• During the production process within North America, Douglas-fir, southern pine, western hemlock and yellow-poplar are typically used.   \n• It endows with long spans for open floor plans with no transitional posts or columns. ",
+    "bbox": [
+      181,
+      751,
+      919,
+      880
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• It is most appropriate for those applications, which have exposed beams due to its warm, unique grain. ",
+    "bbox": [
+      181,
+      90,
+      908,
+      136
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2.6 Manufacturing\tProcess\tof\tPSL\tand\tLVL ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      156,
+      519,
+      175
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2.6.1\tLVL ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      200,
+      258,
+      215
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/0d1ed00c327407c515939dda1dac9495c0c7af07353dbeca5b66904a8a59af5b.jpg",
+    "image_caption": [
+      "Figure 3: Manufacturing Process of LVL (Structured Composite Lumber, 2006) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      248,
+      246,
+      733,
+      462
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The first step in LVL manufacturing process is to select the best quality logs possible. Those logs are then heated and soaked in hot water producing higher “peel-ability”. It then debarked, sliced before proceeding towards peeling process over a revolving belt. Log is peeled down to a diameter of $5 ^ { \\circ }$ to $2 . 5 '$ , peeler cores are sawn into 2x4s and thickness of veneers ranges from $1 / 1 6 ^ { \\circ }$ to $3 / 1 6 ^ { \\circ }$ . The width of green veneer’s ribbon is clipped and set apart for drying into moisture classes. Veneer’s surface is then exposed to hot dry air, which perpendicularly hit the surface in the dryer. During this process, the veneer comes in contact with the hot dry air for a certain time period, depending on the thickness of the veneers, to reach $6 \\%$ of the total targeted moisture content. ",
+    "bbox": [
+      181,
+      512,
+      913,
+      742
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Continuing the process, the veneers then go into a grading process, where they are ultrasonically measured in terms of the stiffness and strength, moisture content and overall appearance. The lower grade veneers are used for the LVL core and the higher-grade veneers are used in the LVL face. To acquire a specific LVL properties and purposes, adjusting combination of grades could be arrange accordingly. ",
+    "bbox": [
+      181,
+      757,
+      900,
+      883
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "After the grading process, the veneers go into a glue-applicator where phenolformaldehyde (PF) resin is applied. The veneers that are laid up in a long thick stack go into a hot press machine pressed into a solid billet by electricity, microwaves, and radiofrequency (RF) waves. Temperature ranges from about $1 2 0 ^ { \\circ }$ to $2 3 0 \\mathrm { { } ^ { \\circ } F }$ $2 5 0 ^ { \\circ }$ to $4 5 0 ^ { \\circ } \\mathrm { F }$ ). Billets may be up to $8 . 9 \\mathrm { c m }$ (3.5 in) thick, 1200 to $1 2 5 0 \\mathrm { m m }$ in width, and are 8 to $1 8 \\mathrm { m }$ in length. These billets are then ripped and further processed as per specified requirements of the consumers. Finally, LVL are sent out to market with approximately $8 \\%$ to $1 5 \\%$ moisture content within it. ",
+    "bbox": [
+      181,
+      89,
+      913,
+      291
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "2.6.2\tPSL ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      313,
+      258,
+      329
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/39023f88c4d26b62520b15d6799c43dd709144e01191930de15f35b53ba7fbe7.jpg",
+    "image_caption": [
+      "Figure 4: Manufacturing Process of PSL "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      279,
+      345,
+      766,
+      590
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The manufacturing process of Parallel Strand Lumber (PSL) starts with passing veneer strips from glue applicator and sticking them together. The grain of all the veneers’ is positioned in parallel fashion with the finished product’s length. For manufacturing PSL, both hardwood (such as yellow poplar) and softwood (such as douglas-fir, western hemlock, and southern pine) species are being used. ",
+    "bbox": [
+      181,
+      655,
+      916,
+      780
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Initially, logs are peeled off into veneer, which is about $3 \\mathrm { m m }$ thick, over the rotary lathe. Following that, veneers are dried at about $2 0 0 ^ { \\circ } \\mathrm { C }$ in a dryer to reach the expected $8 \\%$ moisture content. Dried veneers will then be clipped into $1 / 8 ^ { \\prime \\prime } \\times 3 / 4 ^ { \\prime \\prime }$ . It then goes straight to the short strand eliminator to ensure that there will be no strands shorter than $1 2 ^ { \\circ }$ included in the manufacturing process. With the help of roll-coater or dip re-dry system, veneers are ",
+    "bbox": [
+      181,
+      786,
+      918,
+      911
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      949
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "being coated with the PF resin. Right after that, those strands are being transferred to the wigwag table where strands are stacked up together until it reaches $3 ^ { \\circ } { - } 4 ^ { \\circ } \\mathrm { h i g h }$ . ",
+    "bbox": [
+      181,
+      89,
+      887,
+      135
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Microwave press is responsible in curing the PF resin and squeezing the veneers into billets to make it denser. The usual cross sectional area of these billets is $2 7 9 \\mathrm { m m } \\times 4 8 3 \\mathrm { m m }$ . However, the approximated length of these billets is found to be 20 meters long. Once pressing is done, these billets are then sliced into various smaller sizes as per specified requirements and are ready to be shipped. ",
+    "bbox": [
+      181,
+      141,
+      910,
+      266
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2.7 The\tpractice\tof\tPSL\tand\tLVL ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      286,
+      424,
+      304
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Durability ",
+    "text_level": 1,
+    "bbox": [
+      181,
+      315,
+      272,
+      333
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "PSL and LVL are more reliable in construction rather than using steel or concrete. They provide consistent engineering properties, dimensional stability, higher strength-toweight ratio and reliability. The process of stacking and gluing veneer strips together has result in higher load carrying ability than solid wood of the same dimension. ",
+    "bbox": [
+      181,
+      342,
+      888,
+      439
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Environmental Friendly ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      446,
+      388,
+      465
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "These wood products are renewable, reusable, recyclable, organic, and biodegradable. They also follow the zero off-gassing method, meaning that no UF resins are used in the process of making PSL and LVL. Allow the production of large dimension structural products from smaller trees, therefore they allows higher utilization of the forest resource. Non-structural wood species that were treated as PSL and LVL can be used for construction purposes. Small logs that were useless could be transformed into veneer and to be put in use. ",
+    "bbox": [
+      181,
+      472,
+      911,
+      622
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Exceptional performance ",
+    "text_level": 1,
+    "bbox": [
+      183,
+      630,
+      398,
+      647
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Using proper training, PSL and LVL can be designed to provide fire-resistance up to two hours. Wood is significantly less heat conductive than steel and concrete therefore this offer a better fire resistance in a building. (Cheatham, 2011) ",
+    "bbox": [
+      181,
+      655,
+      906,
+      727
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "PSL and LVL are also a great construction material to be used because they are earthquake resistant. In a situation where the earthquake is taking place, the properties of these products provides greater safety against seismic loads. Wood-frame buildings have many nailed connections that allow buildings to flex when subjected to a sodden seismic loads, absorbing and dissipating energy; wood –frame buildings tend to be lighter compared to concrete buildings which is an advantage in an earthquake. The same properties can also help in times of hurricanes or typhoons. ",
+    "bbox": [
+      181,
+      733,
+      913,
+      910
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Termite has been one of the reasons why people don’t use woods as their building materials. With a great treatment such as zinc-borate-treated plywood, cellulose insulation, Light organic solvent preservative and sodium-borate-treated makes wood termite-resistant. (WoodSolutions, 2011) ",
+    "bbox": [
+      181,
+      89,
+      908,
+      188
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Usability of PSL and LVL ",
+    "text_level": 1,
+    "bbox": [
+      184,
+      212,
+      405,
+      231
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "A big part of LVL production is as flange material i-joists, the other big part is towards manufacture into beams and headers, architectural roof trusses, framing, and timber portal frames. (WoodSolutions, 2011). ",
+    "bbox": [
+      181,
+      238,
+      911,
+      309
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/086f01e15d3d0aafdd4ddaffb25ca20f8047af4d34102c01575902d85305904b.jpg",
+    "image_caption": [
+      "Figure 5: LVL application in Alpine MDF Warehouse, Victoria, Australia "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      186,
+      348,
+      571,
+      546
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/9205667db931c3fbfd7b61e3deaf0d2b872c1e4f8a3953bc19cb46f6585ab963.jpg",
+    "image_caption": [
+      "Figure 6: PSL application in Fichandler Stage Entrance, Washington DC "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      591,
+      315,
+      859,
+      547
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "PSL is a good product to use as beams and columns for post and beam construction, and for beams, headers, and lintels for light framing construction. It is commonly used for heavily loaded columns, and beam and header applications where high bending strength is needed (CWC, 2013) ",
+    "bbox": [
+      181,
+      617,
+      897,
+      715
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      901,
+      939,
+      915,
+      949
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "3.0 Industrial\tDevelopment\tof\tPSL\tand\tLVL\tin\tthe\tWorld ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      92,
+      714,
+      114
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The construction industry has tremendously changed over past few decades. The North American industry of engineered wood products appeared on scene during the era of 1990’s and strengthened its existence in the early 2000s (Wu 2000). In the beginning, the industry of woods processing faced limited resources and technical limitations, which led to low production capacity during 2005 to 2008. Despite of this restriction, demand is still strong, and this gives manufacturers the urge to get more resources and to get a better technology to produce wood products. ",
+    "bbox": [
+      88,
+      126,
+      905,
+      276
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The practice of using processed wood products was significantly rising until the mortgage crisis in 2007 as well as slump of housing construction throughout the world. During 2007, when the world was facing an awful economic crisis, use of LVL became frequent in the United States along with some other developing countries. As recession is healing slowly, the market for houses are getting better, meaning that people are more interested to invest in property, Therefore, LVL demand’s are rising as supplier needs them to build buildings. LVL industry is evidently competing with the recent grow of using composite lumber in US. ",
+    "bbox": [
+      88,
+      284,
+      911,
+      459
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Since 2002, LVL production has doubled to about 343,000 cubic meters in the Australasian region (Australia, New Zealand and New Guinea); where most of them are produced in New Zealand. It has been proved that the demand of LVL has led to strong growth in production that were obtained by housing construction and increasing substitution of LVL in place of other products. ",
+    "bbox": [
+      88,
+      465,
+      915,
+      564
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Japan is another dominant export destination for structural LVL. Exports to Australia have grown strongly over the five years, leading up to 2009. The United States is still a relatively small market for LVL from New Zealand. Other destinations include Middle East, China, and South East Asia (Betz, 2011). ",
+    "bbox": [
+      88,
+      570,
+      916,
+      669
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "In addition, the enhanced capacity of production and expanded levels of import occurred in wood industry depicted its certain demand in consumer markets This growth is expected to increase in Australia during the upcoming few years, due to the reason of economic and constructional stability in the country that is taking it ahead of cyclic low. It is also expected that the demand of LVL will have to compete with PSL as both products encompass tremendous market potentials. (Bodig, 2001) ",
+    "bbox": [
+      88,
+      674,
+      911,
+      799
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Europe got involved in the production of engineered wood products by the end of 2005 and made the most of its available LVL production capacity. Apart from that, Finland also depicted much potential in this domain during 2004 to 2005 (Vlosky, 2006). Recently Germany and Russia entered the industry owing to its increasing growth and demand. Indonesia, which is also the matter of concern in this research work, has also entered the industry in early 2000s with booming industrial gains. ",
+    "bbox": [
+      88,
+      806,
+      911,
+      878
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      89,
+      89,
+      893,
+      133
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/cf13f40f92273d956c8a37a4dcc022c7458c5d1ee2c247b059239cf58de17e3d.jpg",
+    "image_caption": [
+      "Figure\t7:\tApplication\tof\tLVL\tin\tCandlebark\tSchool\tLibrary,\tVictoria,\tAustralia "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      266,
+      154,
+      782,
+      419
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      892,
+      939,
+      913,
+      950
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "4.0\t Market\tPotential of\tPSL\tand\tLVL\tin\tIndonesia ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      92,
+      635,
+      114
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The focus of this thesis is about the market potential of PSL and LVL in Indonesia. Indonesia is located in the Southeast Asian region consisting 17,508 islands. It is the number four most populated countries in the whole world with the total of 237 million. Due to the large population in the country and the housing demand, opportunities of PSL and LVL market is growing slowly but steadily. ",
+    "bbox": [
+      88,
+      126,
+      916,
+      224
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4.1 The Opportunity of PSL and LVL Market in Indonesia ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      244,
+      689,
+      265
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "There are several reasons why Indonesia has great potential market for PSL and LVL. Firstly, report has shown that around 2 million new houses across the country are built annually and about 3/4 uses concrete and the other quarter uses wood (excluding furniture). From this report it is obvious that there is a big opportunity for wood industry to be expanded. ",
+    "bbox": [
+      135,
+      272,
+      898,
+      371
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Secondly, the two recent major natural disaster events in the past few years; tsunami in Aceh and earthquake in Yogyakarta has changed the housing market trends. Victims who have lost their house due to the natural disasters need to build a new house, consequently affecting the housing demand to be extremely high. This high demand makes the houses price very expensive. For this reason, government has agreed to subsidized most of the victims and helping them with the cost of building their new house. ",
+    "bbox": [
+      135,
+      376,
+      903,
+      526
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Other than houses, there is great market for wood products in some non-residential constructions such as hotels, resorts, restaurants, religious worship places, commercial building and offices. Bali, one of the top destinations for tourist has recently attracted many tourists (around quarter million foreign tourists visit Bali in the year of 2011(Bali & Indonesia, 2011), hence more hotels and resorts are being built there. The building codes over in Bali is that every building has to have elements of traditional Balinese design in them (Wilson, 2009) ",
+    "bbox": [
+      135,
+      534,
+      895,
+      684
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4.2 Practice of PSL and LVL in Indonesia ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      703,
+      500,
+      723
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The types of engineered wood products that are found or produced in Indonesia are Plywood, OSB, LVL, I-joists and non-structural panels. LVL is used lesser in domestic market and more as an export-oriented product to Japan. Some of the companies that are producing LVL are mainly major plywood mills, such as Putra Sumber Utama Timber (PSUT), Perawang Lumber, Sumalindo, Intraca Group and Sumatra Timber Utama Damai (STUD) (Spire Indonesia, 108). ",
+    "bbox": [
+      135,
+      731,
+      916,
+      856
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Since the earthquakes hit several areas in Indonesia, there is initiative to promote higher use of LVL domestically as an alternative structural construction material prone to earthquakes. A few multi-family housing/apartment starts to use LVL in their houses. ",
+    "bbox": [
+      135,
+      89,
+      913,
+      161
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/ee72e46ff80e265e234fb8d583e9014b815314bbebf77d8adc56b479bebcc8f2.jpg",
+    "image_caption": [
+      "Figure 8: Usage of LVL in Indonesia (Spire Indonesia, 108) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      387,
+      184,
+      625,
+      426
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "According to Raute Wood Processing Machinery, there were two peeling lines for veneers and two pressing lines for LVL production, which were being installed 12 years ago in Indonesia for Surya Dumai Group. However, the plant was closed due to corruptions and it required significant investment and advanced technology. This situation does not show that the PSL and LVL demand decrease, as a result, the potential market for PSL and LVL are greater than before (Tyler, 2013). ",
+    "bbox": [
+      135,
+      454,
+      905,
+      604
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The practice of LVL has been implemented as prototype houses in West Sumatra and Yogyakarta. Report said that homeowners could not feel the different living in the concrete-based houses and LVL-based houses (Maulana, 2012). ",
+    "bbox": [
+      135,
+      611,
+      910,
+      683
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "4.3 The Growth Potential of PSL and LVL in Indonesia ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      702,
+      658,
+      722
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "There is a trend in Indonesia that low-income families will have to renovate their house approximately after the house hits 10-15 years old. This renovation is because the housing materials are not durable that requires the owner to repair after a certain period of time. For a higher-income family, the house age reached 20-30 years before it needs a renovation because they use a better construction material, in addition, these houses are also less likely to have termite or fungi. ",
+    "bbox": [
+      135,
+      731,
+      915,
+      881
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "According to contractor’s opinion, the most common factors affecting the life expectancy of housing are: ",
+    "bbox": [
+      133,
+      89,
+      910,
+      133
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "• Durability of the materials used in construction,   \n• Good vs. poor workmanships   \n• Insect damage and climate ",
+    "bbox": [
+      181,
+      141,
+      578,
+      213
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4005140/auto/images/103d7ab487436cf2d49f7eeae353c5ca382c1be1d1a17fe10ec2bbdc77a510fe.jpg",
+    "image_caption": [
+      "Figure 9: Factors affecting life expectancy of house in Indonesian housing market (Spire Indonesia, 84) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      295,
+      233,
+      789,
+      462
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The following chart indicates the common factors that cause housing renovation. By using PSL and LVL in the construction and renovation of houses can definitely bring a big impact in the trend in Indonesia. The durability and reliability characteristics that they posses will help maintain the house and give longer lasting houses. Using PSL and LVL can solve insect damage and earthquake. ",
+    "bbox": [
+      133,
+      529,
+      915,
+      654
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Recently, Indonesia International wood and Wood machinery show took place in Indonesia on March 11 – 14, 2013 for four consecutive days. The purpose of this show was to give out workshops, seminars and demonstrations of the latest innovation of latest wood products and equipment. This event was attended by substantial companies, and therefore showing that the demand and room to grow is huge in the market of PSL and LVL in Indonesia. ",
+    "bbox": [
+      135,
+      660,
+      903,
+      785
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Conclusions can be drawn from these studies that the potential of these engineered wood products are huge. With the benefits that PSL and LVL offer, construction of new houses should use more PSL and LVL rather than using concrete or other materials. In addition to their higher level of reliability, they are also cheaper in price compared to other wood materials (Maulana, 2012). Thus, the government can subsidize more people within the same budget. ",
+    "bbox": [
+      135,
+      791,
+      900,
+      915
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "14 ",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "5.0 Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      92,
+      269,
+      113
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "This thesis shows that the demand and supply of PSL and LVL are high in the North America, Australia, and New Zealand. The market share of these products is increasing more and more because people are interested in the benefits that they offer. The major usage of PSL and LVL are in constructional purposes. ",
+    "bbox": [
+      88,
+      126,
+      900,
+      224
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "As in Indonesia, some practices of LVL have been tried out in Sumatera and Yogyakarta, but unfortunately no PSL application has been used. Wood shows has also been arranged to give the citizens a better understanding of the advantages of these products. The research concludes that although in present situations, the usage of PSL and LVL is still in its early stage, I believe that the market of these products can grow even more. ",
+    "bbox": [
+      88,
+      231,
+      915,
+      354
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "“Indonesia has the number two largest forest in the world, this gives us the responsibility to preserve the forest, and to make use of our natural resources in its best way possible.” ",
+    "bbox": [
+      88,
+      361,
+      877,
+      407
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "As an Indonesian myself, this quote speaks to me the most that Indonesia needs to do extra effort to make the wood industry better. With time, slowly but steadily, I truly believe that Indonesia has a great potential for PSL and LVL industry to grow. ",
+    "bbox": [
+      88,
+      414,
+      916,
+      486
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "References   \nAhmad, M. & Kamke, F. A. (2010). Properties of parallel strand lumber from Calcutta bamboo (dendrocalamus strictus). Wood Science and Technology Journal of the International Academy of Wood Science.   \nBeams, headers and columns. (n.d.). Retrieved August 3, 2012, from http://www.woodbywy.com/literature/tj-9000.pdf.   \nBodig, J., & Jayne, B.A. (2001). Mechanics of wood and wood composites. Van Nostrand Reinhold Company.   \nCheatham, Chris. \"Green Building Law Update : Green Building & Construction LEED AP, Lawyer & Attorney Chris Cheatham $\\underline { { \\boldsymbol { \\cdot } } }$ Washington DC, Virginia, New York City.\" Construction $\\boldsymbol { : }$ Green Building Law Update. 11 Apr. 2011. 17 Apr. 2013 <http://www.greenbuildinglawupdate.com/articles/legal-developments/construction $/ >$ .   \nCipta Mebelindo Lestari. (2010). Retrieved August 8, 2012 from Structural Engineered Wood Products in the Pacific Rim and Europe: 2009 – 2013. (2009 – 2013). Retrieved August 6, 2012 from http://ptcml.com/directory/furniture-related-article/wood-industry-in-indonesia. http://www.bis.com.au/verve/_resources/Structural_EWP_in_Pacific_Rim_and_Europe_200 9_Extract_file.pdf   \nDillman, D. A. (2008). Mail and Telephone Surveys-The Total Design Method. John Wiley & Sons: New York.   \nDonald, M. N. (2000). \"Implications of Non-Response for the Interpretation of Mail Questionnaire Data.\" Public Opinion Quarterly, 24 (Spring), 99-114.   \n\"Featured Project.\" LVL timber – in modern construction & veneers explained on WoodSolutions. 2011. Wood Solution. 17 Apr. 2013 <http://www.woodsolutions.com.au/Wood-Product-Categories/Laminated-Veneer-Lumber-LVL>.   \n\"Global Wood and Wood Products Flow.\" FAO. 17 Apr. 2013 <http://www.fao.org/forestry/12711- 0e94fe2a7dae258fbb8bc48e5cc09b0d8.pdf>.   \n\"Good Numbers for Bali and Indonesia’s Tourism.\" Good Numbers for Bali and Indonesia’s Tourism. 17 Apr. 2013 <http://www.indo.com/news/good_numbers_bali_indonesia_tourism.html>.   \nHOME CONSTRUCTION & IMPROVEMENT. Retrieved August 1, 2012, from http://www.homeconstructionimprovement.com/what-is-a-microllam/.   \nHoyle, R.J., &Woeste, F.E. (2009). Wood technology in the design of structure. (fifth edition). Iowa State University Press/Ames.   \nKollmann, F.F.P., Kuenzi, E.W. &Stamm, A.J. (2005). Principles of wood science and technology II, Wood based materials.   \n\"LVL Teknologi kayu olahan.\" Balitbang PU RSS. 17 Apr. 2013 <http://balitbang.pu.go.id/lvlteknologi-kayu-olahan.balitbang.pu.go.id>.   \n\"Market Development Potential for BC Wood Products Exports Indonesia.\" Mar. 2007. Forest Innovation Investment/ PT Spire Indonesia. 15 Apr. 2013.   \nNeuvonen, Erja, Minna Salminen, Jani Heiskanen, Micha Hochstrate, and Matthias Weber. \"Laminated Veneer Lumber - Wood-Based Panels Technology.\" Laminated Veneer Lumber - Wood-Based Panels Technology. N.p., n.d. Web. 28 Feb. 2013. <http://www.hochstrate.de/micha/finnland/reports/replvl.html>.   \nNZ Wood. Retrieved August 3, 2012, from http://www.nzwood.co.nz/what-wood/structuralmaterials/laminated-veneer-lumber/.   \nParallel Strand Lumber. 2013. Wood Design & Building. 16 Apr. 2013 <http://www.cwc.ca/index.php/en/?option $\\equiv$ com_content&view $\\simeq$ article&id=209&Itemid $= 3 5 9 >$ . ",
+    "bbox": [
+      88,
+      93,
+      916,
+      904
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "\"Specialists in Property Inspection, Renovation and Maintenance.\" Building permit or IMB in Bali Indonesia. 17 Apr. 2013 <http://www.mrfixitbali.com/articles/article63.html>. ",
+    "bbox": [
+      89,
+      89,
+      869,
+      126
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Structured composite lumber. (2006). Retrieved August 3, 2012, from http://www.woodaware.info/PDFs/SCLandGlulam.pdf.   \nSupplierlist. Retrieved August 1, 2012, from http://www.supplierlist.com/product_view/526027/172550/101423/timber_scaffold_plan k.htm.   \nTyler, R (2013, February 28). Telephone Interview (Raute Wood Processing Machinery).   \nVining, S. (2002). An overview of composite/value added lumber products. Session III, Proceedings of Structural Panels and Composite Lumber. Two sided of the Profit Coin Processing and Products/Markets. Editor: Faust, T.M. Sponsored by the Southeastern Section of the Forest Products Research Society. Atlanta, Georgia.   \nVlosky, R. P. (2006). Profile of Furniture Manufacturers in the U.S. South: Structure and Industry Growth Factors. Wood and Fiber Science. 28(4), 450-460.   \nVlosky, R. P. (2004). Characteristics of U.S. Hardwood Wood Component Manufacturers.Forest Products Journal. 46(5), p.p.37-43.   \n\"Wood Products Industry.\" Engineered Wood Products Processing. N.p., n.d. Web. 28 Feb. 2013. <http://www.epa.gov/ttnchie1/ap42/ch10/final/c10s09.pdf>.   \nWu, Q. &Vlosky, R. P. (2000). Panel products: a perspective from furniture and cabinets manufacturers in the southern United States. Forest Products Journal. 50(9), p.p.45-50. ",
+    "bbox": [
+      86,
+      140,
+      913,
+      458
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "17 ",
+    "bbox": [
+      892,
+      939,
+      915,
+      950
+    ],
+    "page_idx": 21
+  }
+]

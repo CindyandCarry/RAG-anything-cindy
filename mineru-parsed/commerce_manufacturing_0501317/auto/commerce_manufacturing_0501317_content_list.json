@@ -1,0 +1,682 @@
+[
+  {
+    "type": "text",
+    "text": "Ocelot HX Kit Revision 2: Overall summary ",
+    "text_level": 1,
+    "bbox": [
+      276,
+      108,
+      720,
+      128
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• Speed – on par with a JetBoil Stash Cost – total cost about $2 / 3$ the price of a Stash Robustness – works well above 7.5 mph winds (lab test), field tested at approximately 15 mph (note: the Stash operates up to about 4 mph and then is non-functional) ",
+    "bbox": [
+      143,
+      133,
+      864,
+      207
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Kit updates ",
+    "text_level": 1,
+    "bbox": [
+      437,
+      244,
+      560,
+      263
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Specifications ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      272,
+      235,
+      287
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ocelot Plate: ",
+    "bbox": [
+      116,
+      292,
+      212,
+      308
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Aluminum - 0.78 oz / (22 grams) • Diameter – 3.4 inches $( 8 6 \\mathsf { m m } )$ Height – 0.5 inches $( 1 3 \\mathsf { m m } )$ ) ",
+    "bbox": [
+      143,
+      320,
+      413,
+      376
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Stove requirements – Fire Maple 300t (or clones Olicamp Ion Micro Titanium Stove, Alpkit Kraku, Robens Fire Midge, Vargo Titanium Gas Stove) ",
+    "bbox": [
+      117,
+      387,
+      828,
+      422
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We now support at least 4 different HX pots (and many more of you include the OEM clones) ",
+    "bbox": [
+      112,
+      434,
+      799,
+      452
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• Sterno Inferno (0.5 liter)   \n• Fire Maple FMC-XK6 (1 liter) (clones labeled Olicamp, Tentock, TXs & Lixada)   \n• Bulin S2400 (1.5 liter) (clones labelled Acecamp & Naturehike)   \n• JetBoil Stash (0.8 liter) ",
+    "bbox": [
+      143,
+      462,
+      736,
+      537
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Wind Performance ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      550,
+      279,
+      566
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Calm conditions (lab) – 500 ml of 20 C water consumes ${ \\sim } 5 . 3$ grams of fuel ",
+    "bbox": [
+      112,
+      570,
+      673,
+      588
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "7.5 mph wind (lab) - $\\cdot 5 0 0 \\mathsf { m } \\mathsf { l }$ of 2 C water consumes between 9-13 grams of fuel (HX pot dependent)   \n15 mph (field) - successfully boiled $5 0 0 \\mathsf { m } |$ of water ",
+    "bbox": [
+      114,
+      598,
+      883,
+      645
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ocelot: HX Kit Rev 2 ",
+    "text_level": 1,
+    "bbox": [
+      393,
+      93,
+      604,
+      112
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The Ocelot: HX Kit Rev 2 is conglomeration of existing components tied together with our unique burner plate. The finished integrated system will be the most fuel efficient as well as lightest cooking system on the market. ",
+    "bbox": [
+      116,
+      145,
+      880,
+      198
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/8e64af591ea78acb32700061145d6f74e026bed96c5883eba79de540b41bc8cd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      339,
+      209,
+      656,
+      395
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The key to Ocelot: HX cooking system is the effective coupling a canister topped stove to heat exchangers pots/mugs via a custom mounting plate. Heat Exchanger pots/mugs use intricate fins to aid in transferring hear to the base. In general, these fins can increase fuel efficiency by $20 \\%$ or more. Inherently, these fins also supply a bit of wind protection to stove’s flame. The burner plate further enhances the overall wind protection: in fact, the Ocelot: HX system is best in class of all canister topped stoves. It outperforms the Pocket Rocket Deluxe, Soto WindMaster and JetBoil Stash. ",
+    "bbox": [
+      114,
+      407,
+      882,
+      516
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "To complete the cooking system, the user must purchase a Fire Maple 3000t canister topped stove (or clone), a Heat Exchanger pot and the Ocelot: HX Mug kit. Once purchased, the user must dissemble the stove (only a simple wrench is required). The bottom nut next to the valve is loosened first and the valve body is unscrewed. The bottom nut can now be removed. The upper nut is loosened and removed. The pot support arms are removed and replaced with our custom burner plate. The orientation of the plate is dependent upon the specific Heat Exchanger pot that you selected. As of 2021, we support the Sterno Inferno Mug / Fire Maple HX pot / Bulin HX pot and the JetBoil Stash. There will be a complete discussion as to plate orientation later in this article. After the burner plate is positioned, the upper nut is re-installed and tightened. The lower nut can be threaded on as well as the valve body. The lower nut is now tightened against the valve body: the assembly is complete. This whole exchange process takes less than a few minutes. ",
+    "bbox": [
+      114,
+      527,
+      880,
+      727
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In general, we recommend that you keep the system assembled. This is the most robust and convenient way to use your stove. The whole assembly will nest inside your mug, we suggest that you insert the stove with the stove body facing upwards (towards the top of the mug). Several users have decided to disassemble the stove for compact storage. This can be done, however; do not loose the nuts as they are required for complete operation. ",
+    "bbox": [
+      114,
+      738,
+      880,
+      829
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "About the stove – we recommend using the Fire Maple 300T. As of the beginning of 2021, I was able to purchase this stove on Amazon for just under $\\$ 28$ USD. I have seen versions of this stove for under $\\$ 20$ USD on AliExpress. The stove has an important and very unique feature: the stove is held together with 2 brass nuts (do not confuse the Fire Male 300T with the BRS 3000t as the BRS is incompatible with the Ocelot: HX). At different times and in different countries, Fire Maple branded this stove as the Fire Maple Hornet / Wasp / Sunny Beach. ",
+    "bbox": [
+      116,
+      92,
+      687,
+      238
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/67a6a9d1667d7cb4a1e95886eee6dec10391a1110631f49167fea216b4e3718e.jpg",
+    "image_caption": [
+      "Fire Maple 300T "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      702,
+      93,
+      875,
+      233
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Now to add additional confusion, Fire Maple supplied many other manufactures with the identical stove under a different name (OEM or original equipment manufacturer). Below are examples of these clones: ",
+    "bbox": [
+      114,
+      306,
+      879,
+      358
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/ff5f5c99afb4310aecaacd64149c302524a6a8037d00f3ef580ee8e435edbcc9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      192,
+      371,
+      334,
+      467
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/e3760371dce96bd0044ec891f30de64e60a1604b94d94a9680a4518a68ab33aa.jpg",
+    "image_caption": [
+      "Alpkit Kraku "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      370,
+      371,
+      493,
+      465
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/c0169348b06798325da42360f1b419048cfda7c3aab752326e27c912e2199d2f.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      689,
+      371,
+      813,
+      467
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/a50f079ec902d437b749c8ced4f8b86ad27246e47d7b05d3489d7899c6a71779.jpg",
+    "image_caption": [
+      "Robens Fire Midge Vargo Titanium Gas Stove "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      531,
+      371,
+      653,
+      465
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Olicamp Ion Micro Titanium Stove ",
+    "bbox": [
+      116,
+      479,
+      344,
+      493
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "About Heat Exchanger Pots – currently, we support 4 heat exchanger pot (and their clones). There are many more that will probably work, and we will identify those as we discover them. Pot support geometry will be detailed latter. Two of the pots are well defined: the Sterno Inferno and the JetBoil Stash. The Sterno Inferno is a complete cooking kit designed to burn Sterno Fuel. It turns out that the Inferno Mug by itself is the ideal mug for solo backpackers as well as being the least expensive. In 2021, I was able to purchase the Sterno Inferno kit of $\\$ 22$ . We support the JetBoil Stash because I own one and the performance is terrible in the wind. After investing $\\$ 130$ in a cooking system, I doubt many people will convert to the Ocelot: HX but you never know. ",
+    "bbox": [
+      114,
+      535,
+      748,
+      717
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/97ff9b83a1488beb1ccde5c128481683c079977f25dcf993785d70c2e17b07bc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      759,
+      537,
+      885,
+      722
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The two remaining pots are the Fire Maple FMC-XK6 1-liter pot $\\left| \\sim \\$ 24\\cup \\mathsf { S D } \\right.$ and the Bulin 1.5-liter pot ( $\\sim \\$ 25$ USD). ",
+    "bbox": [
+      112,
+      729,
+      864,
+      765
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/29adce759c9f86629bedfd6c3bd49afeccbc5ec0179c8833a781b912d4c085a2.jpg",
+    "image_caption": [
+      "Fire Maple "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      333,
+      775,
+      457,
+      869
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/de9efbfe3dc578010a5d025f5d7d597ba32a62f2a7e7850330ad143aefef4eca.jpg",
+    "image_caption": [
+      "Bulin "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      540,
+      775,
+      663,
+      869
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To make matters even more confusing, both Fire Maple and Bulin supply pots to other companies just like the Fire Maple Stove. ",
+    "bbox": [
+      114,
+      90,
+      864,
+      125
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Fire Maple Clones ",
+    "bbox": [
+      116,
+      137,
+      250,
+      154
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/37ac704c34d25769b14d295d249e483fbef97383280b3fa4bff8566402a53e9e.jpg",
+    "image_caption": [
+      "Tentock "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      253,
+      165,
+      401,
+      258
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/032a68249aa9ce91d69a5c07ca527592de02d60f4f558f3009e45318a71f7b24.jpg",
+    "image_caption": [
+      "Olicamp "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      442,
+      165,
+      604,
+      258
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/1177fd7f6e7d3d29d9540cdada0db521d553614e6cd9997cba6a3ab55f5d385b.jpg",
+    "image_caption": [
+      "TXS & Lixada "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      651,
+      165,
+      743,
+      258
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Bulin Clones ",
+    "bbox": [
+      114,
+      300,
+      207,
+      315
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/7902bec05076093c1632028135bc2ae9d614171cb9a8044c63858acaa21f92a2.jpg",
+    "image_caption": [
+      "Acecamp "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      250,
+      327,
+      372,
+      422
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/c034925208c2eef5632d004d180dffe70da00d07a0833f25a968e0c798128aed.jpg",
+    "image_caption": [
+      "Naturehike "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      624,
+      328,
+      746,
+      422
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Burner Plate ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      464,
+      261,
+      481
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "There are two possible orientations: A side and B side. The A side is configured for the Sterno Inferno and the Fire Maple 1 liter pot. The B side is configured for the Bulin 1.5-liter pot. In addition, by folding the B side tabs down, the plate will accommodate ethe JetBoil Stash. Note: when configuring the burner plate for the JetBoil Stash, folding the tabs down is NOT a reversible process! Once folded, it is a permanent change. ",
+    "bbox": [
+      114,
+      484,
+      883,
+      574
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/45fd686d72bfdde47c3341d123f850456c10e186ff5cc3f28b0211ad116f221e.jpg",
+    "image_caption": [
+      "Side A: Inferno & Fire Maple "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      584,
+      274,
+      678
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/b19a87bdf8fbe7161afd0580ec3109a80a42a3bf2ec7ca3f52acf986135e2e51.jpg",
+    "image_caption": [
+      "Side B: Bulin… "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      444,
+      584,
+      602,
+      676
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/b97c23d420e250be66dbf5fe33c2182c83d4a1d0b379d2e098a7dc03e19cdfe9.jpg",
+    "image_caption": [
+      "and tabs folded for Stash "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      669,
+      584,
+      830,
+      676
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The tabs locate the HX mug by aligning against either the bottom of the mug or the inside of the HX fins ",
+    "bbox": [
+      119,
+      746,
+      872,
+      762
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/6a2234d3ff20f22212e7e9a7d82af0f1559b614e69f93dcaed055ab500b868ed.jpg",
+    "image_caption": [
+      "Side A: 2.8” diameter "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      245,
+      772,
+      405,
+      864
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/7dad64ba9a9142c2f4d675aa6d51d78781079e97b21b8fdd86c27af6ef493720.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      599,
+      772,
+      759,
+      864
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Side B: $3 . 3 ^ { \\prime \\prime }$ or $3 . 6 ^ { \\prime \\prime }$ diameter ",
+    "bbox": [
+      570,
+      867,
+      784,
+      882
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "HX Pot selection ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      92,
+      256,
+      108
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Each HX pot has different characteristics: ",
+    "bbox": [
+      117,
+      113,
+      416,
+      128
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Sterno Inferno – this is a complete cooking kit that was designed to burn Sterno fuel. It includes a mug, stand, lid and windscreen as well. With the Ocelot HX, we are only interested in using the mug. The mug volume is 2 cups and is a bit small. Due to the fast time to boil, hot water can spill over the edges: we recommend dialing the power down to prevent spillage. We do offer a lid replacement to furth reduce the weight of your kit. A key advantage to this kit is that allows you to use the complete kit with other fuels. Adding the Trail Designs 10-12 alcohol stove makes the kit multi-fuel. ",
+    "bbox": [
+      116,
+      140,
+      671,
+      285
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_0501317/auto/images/6d25d00e7e06c09ed55afc319d91d6f19d59228dac6043e92456f8258b0deadb.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      699,
+      137,
+      882,
+      280
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fire Maple 1-liter mug - this is a low cost, and nice HX pot. Since most people boil about 2 cups of water, the 1-liter volume is nice in that it prevents boil over. ",
+    "bbox": [
+      114,
+      296,
+      834,
+      332
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Bulin 1.5-liter pot – we feel that this is somewhat of an odd choice. The 1.5-liter volume is huge and probably a lot larger than what most people need. Keep in mind that HX pot are designed to heat water and not designed for cooking or for melting snow. The Bulin HX system completely encloses the HX fins and routes the exhaust air up the side of the pot. This design tends to restrict airflow and can have an impact on stove performance at high flowrate. You can tell this by listening to the sound of the stove. Once light, lower the pot onto the stove, if the stove sound pitch changes, then you are impacting the overall burn rate. There is a chance that combustion is incomplete, and you are generating more carbon monoxide (poisonous). ",
+    "bbox": [
+      114,
+      343,
+      882,
+      488
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "JetBoil Stash 0.8-liter mug – this is probably the idea mug size for solo backpackers. The JetBoil Stash system cost approximately $\\$ 130$ USD and the mug is not sold separately. Ideal, but the costliest option. ",
+    "bbox": [
+      116,
+      500,
+      879,
+      535
+    ],
+    "page_idx": 4
+  }
+]

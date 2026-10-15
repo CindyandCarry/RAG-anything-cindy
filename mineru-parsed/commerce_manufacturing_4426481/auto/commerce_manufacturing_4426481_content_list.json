@@ -1,0 +1,1177 @@
+[
+  {
+    "type": "text",
+    "text": "Clarus Reports First Quarter 2020 Results and Highlights the Company’s Strength to Navigate COVID-19 ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      180,
+      882,
+      284
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SALT LAKE CITY, May 11, 2020 (GLOBE NEWSWIRE) -- Clarus Corporation (NASDAQ: CLAR) (“Clarus” and/or the “Company”), a company focused on the outdoor and consumer industries, reported financial results for the first quarter ended March 31, 2020, including the Company’s position of strength to navigate the COVID-19 pandemic. ",
+    "bbox": [
+      96,
+      303,
+      893,
+      377
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "First Quarter 2020 Financial Summary vs. Same Year‐Ago Quarter ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      391,
+      709,
+      410
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sales were $\\$ 53.6$ million compared to $\\$ 61.2$ million. ",
+    "bbox": [
+      122,
+      424,
+      594,
+      443
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Gross margin was $34 . 6 \\%$ compared to $3 6 . 0 \\%$ . ",
+    "bbox": [
+      120,
+      460,
+      549,
+      479
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Net income was $\\$ 0.04$ million, or $\\$ 0.00$ per diluted share, compared to $\\$ 3.8$ million, or $\\$ 0.12$ per diluted share. ",
+    "bbox": [
+      117,
+      496,
+      892,
+      532
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Adjusted net income before non‐cash items was $\\$ 2.7$ million, or $\\$ 0.09$ per diluted share, compared to $\\$ 6.9$ million, or $\\$ 0.23$ per diluted share. ",
+    "bbox": [
+      120,
+      551,
+      854,
+      587
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Adjusted EBITDA was $\\$ 3.6$ million compared to $\\$ 7.3$ million. ",
+    "bbox": [
+      122,
+      604,
+      668,
+      623
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Liquidity Update ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      638,
+      251,
+      656
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Given COVID-19, Clarus has prioritized its liquidity and strengthened its balance sheet. At the end of the first quarter of 2020, Clarus had $\\$ 12.8$ million in cash and access to $\\$ 27.9$ million in additional liquidity through its line of credit with J.P. Morgan Chase Bank, N.A. In addition, approximately $\\$ 13.0$ million in cash saving initiatives have been implemented or identified for the remainder of the year. Highlights of the various liquidity improvements and cash saving measures include: ",
+    "bbox": [
+      94,
+      671,
+      887,
+      779
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "At March 31, 2020, Clarus had $\\$ 32.1$ million drawn on its revolving line of credit (compared to $\\$ 22.7$ million drawn at the end of 2019) with remaining access to $\\$ 27.9$ million. Cash and cash equivalents totaled $\\$ 12.8$ million compared to $\\$ 1.7$ million at the end of 2019. ",
+    "bbox": [
+      120,
+      794,
+      885,
+      867
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Subsequent to the first quarter end, Clarus borrowed $\\$ 20.0$ million under the term loan portion of its credit agreement to increase overall liquidity. The proceeds borrowed were used to pay down amounts outstanding on its revolving line of credit. ",
+    "bbox": [
+      122,
+      883,
+      897,
+      939
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "May 11, 2020 ",
+    "bbox": [
+      96,
+      68,
+      217,
+      84
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CLARUS ",
+    "bbox": [
+      655,
+      66,
+      903,
+      160
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Planned operating expenses will be reduced by an estimated $\\$ 9.0$ million for the remainder of 2020 as Clarus accelerates its shift towards a more digital presence, sharpens its focus on key product categories, drives improved operational efficiencies, and fosters a tighter connection with its distribution and supply partners. ",
+    "bbox": [
+      122,
+      85,
+      897,
+      157
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Postponed approximately $\\$ 2.0$ million of capital expenditures scheduled for 2020 until business conditions stabilize, with the exception of planned e-commerce investments. ",
+    "bbox": [
+      122,
+      175,
+      887,
+      212
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Temporarily replaced the Company’s quarterly cash dividend with a stock dividend. ",
+    "bbox": [
+      119,
+      229,
+      870,
+      247
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Management Commentary ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      262,
+      343,
+      280
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“We began the year with great momentum after record financial results in 2019,” said Clarus President John Walbrecht. “However, in the final weeks of the quarter, our Black Diamond business experienced a dramatic global slowdown as our retail partners shut their doors and cancelled open orders due to the COVID-19 pandemic. Leading up to that point, our revenue and earnings were trending in line with our expectations for the quarter. These declines were somewhat offset by improving demand in our Sierra business late in the quarter, which highlights our product diversity, but in no way made our results immune to the pandemic. ",
+    "bbox": [
+      94,
+      295,
+      901,
+      421
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“At the onset of the virus, we devised a plan to focus on three things—our people, the preservation of brand equity, and maximizing liquidity which, together, we believe will make us emerge as an even stronger company. At the end of the first quarter, we had nearly $\\$ 13$ million in cash and access to approximately $\\$ 28$ million in incremental liquidity with a modest long-term debt balance that we are comfortable servicing. ",
+    "bbox": [
+      96,
+      436,
+      898,
+      526
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“Over the last three-plus years that we have been together as a team, we have focused on our ‘innovate and accelerate’ playbook regardless of market dynamics. This playbook includes further strengthening our brands’ market positioning by investing in product innovation, sales and marketing, and pursuing new, long-term revenue opportunities. It has also included the bolstering of our global distribution network and flexible supply chains that we have built over many decades, increasing our manufacturing capacity at Sierra, and driving efficiencies throughout our operations. We believe this provides the structural elements to benefit from what we believe, at least in the near-term, will be increased staycations and higher levels of interest in health, wellness and the outdoors. We also think these mega-trends play well when the consumer heads back outside after many weeks under stay-at-home ordinances. ",
+    "bbox": [
+      94,
+      541,
+      892,
+      739
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“In addition, while apparel and footwear are key strategic initiatives where we believe substantial growth opportunities exist, it is important to note that they currently represent $1 4 \\%$ of our business. The remaining $86 \\%$ is equipment that is non-perishable and viewed as a necessity for our activity-based-consumer. ",
+    "bbox": [
+      96,
+      755,
+      898,
+      827
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“Due to our discipline across the different businesses, we have been able to create optionality in both the Black Diamond and Sierra brands. For Black Diamond, as part of our mitigation efforts in response to the COVID-19 pandemic, we have re-allocated and eliminated over $\\$ 9$ million in SG&A. This has accelerated our shift towards a more digital presence, sharpened our focus on key product categories, improved operational efficiencies, and driven a tighter connection with our distribution and supply partners. For Sierra, during the last two years we have focused on improving efficiencies and increasing capacity. In fact, over this time, capacity has increased by approximately $30 \\%$ . ",
+    "bbox": [
+      96,
+      842,
+      898,
+      950
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      66,
+      864,
+      103
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "“Ultimately, we believe our diversified brand portfolio, global distribution platform and fastgrowing direct channel is well-positioned to navigate the current challenges and evolving consumer landscape.” ",
+    "bbox": [
+      96,
+      118,
+      874,
+      171
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "First Quarter 2020 Financial Results ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      186,
+      431,
+      205
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Sales in the first quarter were $\\$ 53.6$ million compared to $\\$ 61.2$ million in the same year‐ago quarter. Black Diamond sales were down $13 \\%$ and Sierra sales were down $12 \\%$ . The decrease in Black Diamond was solely due to the COVID-related demand freeze in the final weeks of the quarter. While sales in Sierra were also down, the demand environment has improved since the beginning of 2020. Sales in the Company’s direct-to-consumer channel were up $16 \\%$ . On a constant currency basis, total sales were down $12 \\%$ . ",
+    "bbox": [
+      96,
+      219,
+      892,
+      328
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Gross margin in the first quarter was $34 . 6 \\%$ compared to $3 6 . 0 \\%$ in the year‐ago quarter due to inefficiencies in the supply chain and logistics activities due to COVID-19. In addition, compared to last year, both foreign currency changes and the new tariffs had a negative impact on gross margins of 55-basis points and 35-basis points, respectively. ",
+    "bbox": [
+      96,
+      343,
+      895,
+      415
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Selling, general and administrative expenses in the first quarter were $\\$ 17.4$ million compared to $\\$ 17.6$ million in the year‐ago quarter. The small decline reflects cost-saving initiatives enacted late in the quarter in response to COVID-19. ",
+    "bbox": [
+      96,
+      430,
+      901,
+      484
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Net income in the first quarter was $\\$ 0.04$ million, or $\\$ 0.00$ per diluted share, compared to $\\$ 3.8$ million or $\\$ 0.12$ per diluted share in the year‐ago quarter. The decrease included $\\$ 2.4$ million of non‐cash charges and $\\$ 0.3$ million in transaction costs, compared to $\\$ 3.1$ million of non‐cash charges and minimal transaction and restructuring costs in the same year‐ago quarter. ",
+    "bbox": [
+      96,
+      500,
+      901,
+      589
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Adjusted net income, which excludes the non‐cash items, as well as transaction and restructuring costs, in the first quarter was $\\$ 2.7$ million or $\\$ 0.09$ per diluted share, compared to $\\$ 6.9$ million or $\\$ 0.23$ per diluted share in the same year‐ago quarter. ",
+    "bbox": [
+      96,
+      604,
+      901,
+      659
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Adjusted EBITDA in the first quarter was $\\$ 3.6$ million compared to $\\$ 7.3$ million in the same year‐ago quarter. The decline was primarily due to the aforementioned COVID-driven demand freeze for Black Diamond in the final weeks of the quarter. As a percentage of sales, adjusted EBITDA was $6 . 8 \\%$ compared to $1 1 . 8 \\%$ in the same year‐ago quarter. ",
+    "bbox": [
+      96,
+      674,
+      882,
+      746
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Net cash provided by operating activities for the first quarter ended March 31, 2020, was $\\$ 3.5$ million compared to $\\$ 5.7$ million in the prior year. Capital expenditures in the first quarter were $\\$ 1.3$ million compared to $\\$ 1.0$ million in the same year‐ago period. Free cash flow, defined as net cash provided by operating activities less capital expenditures, for the quarter ended March 31, 2020 was $\\$ 2.2$ million compared to $\\$ 4.7$ million in the same year‐ ago period. ",
+    "bbox": [
+      96,
+      761,
+      883,
+      869
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2020 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      883,
+      220,
+      902
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Due to heightened uncertainty in the retail market relating to COVID-19, including the virus’ duration and overall effect on consumer demand, Clarus is withdrawing its guidance issued ",
+    "bbox": [
+      96,
+      917,
+      890,
+      954
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "on March 9, 2020. ",
+    "bbox": [
+      96,
+      68,
+      254,
+      84
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Net Operating Loss (NOL) ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      99,
+      339,
+      118
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Company estimates that it has available NOL carryforwards for U.S. federal income tax purposes of approximately $\\$ 132$ million. The Company’s common stock is subject to a rights agreement dated February 7, 2008 that is intended to limit the number of $5 \\%$ or more owners and therefore reduce the risk of a possible change of ownership under Section 382 of the Internal Revenue Code of 1986, as amended. Any such change of ownership under these rules would limit or eliminate the ability of the Company to use its existing NOLs for federal income tax purposes. However, there is no guaranty that the rights agreement will achieve the objective of preserving the value of the NOLs. ",
+    "bbox": [
+      96,
+      133,
+      892,
+      277
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Conference Call ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      291,
+      248,
+      310
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Company will hold a conference call today at 5:00 p.m. Eastern time to discuss its first quarter 2020 results. ",
+    "bbox": [
+      96,
+      325,
+      883,
+      361
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Date: Monday, May 11, 2020   \nTime: 5:00 p.m. Eastern time (3:00 p.m. Mountain time)   \nToll-free dial-in number: 1-877-511-3707   \nInternational dial-in number: 1-786-815-8672   \nConference ID: 7358308 ",
+    "bbox": [
+      96,
+      377,
+      580,
+      465
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Please call the conference telephone number 5-10 minutes prior to the start time. An operator will register your name and organization. If you have any difficulty connecting with the conference call, please contact Gateway Investor Relations at 1-949-574-3860. ",
+    "bbox": [
+      96,
+      482,
+      885,
+      536
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The conference call will be broadcast live and available for replayhere and via the investor relations section of the Company’s website at www.claruscorp.com. ",
+    "bbox": [
+      96,
+      551,
+      880,
+      587
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A replay of the conference call will be available after 8:00 p.m. Eastern time on the same day through May 25, 2020. ",
+    "bbox": [
+      96,
+      602,
+      872,
+      638
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Toll-free replay number: 1-855-859-2056   \nInternational replay number: 1-404-537-3406   \nReplay ID: 7358308 ",
+    "bbox": [
+      96,
+      654,
+      488,
+      707
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "About Clarus Corporation ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      722,
+      338,
+      741
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Headquartered in Salt Lake City, Utah, Clarus Corporation is a leading developer, manufacturer and distributor of best-in class outdoor equipment and lifestyle products focused on the climb, ski, mountain, and sport markets. With a strong reputation for innovation, style, quality, design, safety and durability, Clarus’ portfolio of iconic brands includes Black Diamond $\\textcircled{8}$ , Sierra $\\textsuperscript { \\textregistered }$ , PIEPS $\\textsuperscript { \\textregistered }$ , and SKINourishment® sold through specialty and online retailers, distributors and original equipment manufacturers throughout the U.S. and internationally. For additional information, please visit www.claruscorp.com or the brand websites at www.blackdiamondequipment.com, www.sierrabullets.com, or www.pieps.com. ",
+    "bbox": [
+      96,
+      756,
+      893,
+      900
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Use of Non‐GAAP Measures ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      914,
+      361,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Company reports its financial results in accordance with U.S. generally accepted accounting principles (“GAAP”). This press release contains the non‐GAAP measures: (i) adjusted gross margin and adjusted gross profit, (ii) net income before non‐cash items and related income per diluted share, and adjusted net income before non‐cash items and related income per diluted share, (iii) earnings before interest, taxes, other income or expense, depreciation and amortization (“EBITDA”), and adjusted EBITDA, and (iv) free cash flow. The Company believes that the presentation of certain non‐GAAP measures, i.e.: (i) adjusted gross margin and adjusted gross profit, (ii) net income before non‐cash items and related income per diluted share, and adjusted net income before non‐cash items and related income per diluted share, (iii) EBITDA and adjusted EBITDA, and (iv) free cash flow, provide useful information for the understanding of its ongoing operations and enables investors to focus on period‐ over‐period operating performance, and thereby enhances the user's overall understanding of the Company's current financial performance relative to past performance and provides, along with the nearest GAAP measures, a baseline for modeling future earnings expectations. Non‐GAAP measures are reconciled to comparable GAAP financial measures within this press release. The Company cautions that non‐GAAP measures should be considered in addition to, but not as a substitute for, the Company's reported GAAP results. Additionally, the Company notes that there can be no assurance that the above referenced non‐GAAP financial measures are comparable to similarly titled financial measures used by other publicly traded companies. ",
+    "bbox": [
+      94,
+      68,
+      897,
+      428
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Forward‐Looking Statements ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      441,
+      367,
+      460
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Please note that in this press release we may use words such as “appears,” “anticipates,” “believes,” “plans,” “expects,” “intends,” “future,” and similar expressions which constitute forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are made based on our expectations and beliefs concerning future events impacting the Company and therefore involve a number of risks and uncertainties. We caution that forward-looking statements are not guarantees and that actual results could differ materially from those expressed or implied in the forward-looking statements. Potential risks and uncertainties that could cause the actual results of operations or financial condition of the Company to differ materially from those expressed or implied by forward-looking statements in this release include, but are not limited to, the overall level of consumer demand on our products; general economic conditions and other factors affecting consumer confidence, preferences, and behavior; disruption and volatility in the global currency, capital, and credit markets; the financial strength of the Company's customers; the Company's ability to implement its business strategy, the ability of the Company to execute and integrate acquisitions; changes in governmental regulation, legislation or public opinion relating to the manufacture and sale of bullets and ammunition by our Sierra segment, and the possession and use of firearms and ammunition by our customers; the Company’s exposure to product liability or product warranty claims and other loss contingencies; disruptions and other impacts to the Company’s business, as a result of the COVID-19 global pandemic and government actions and restrictive measures implemented in response; stability of the Company’s manufacturing facilities and suppliers, as well as consumer demand for our products, in light of disease epidemics and health-related concerns such as the COVID-19 global pandemic; the impact that global climate change trends may have on the Company and its suppliers and customers; the Company's ability to protect patents, trademarks and other intellectual property rights; any breaches of, or interruptions in, our information systems; fluctuations in the price, availability and quality of raw materials and contracted products as well as foreign currency fluctuations; our ability to utilize our net operating loss carryforwards; changes in tax laws and liabilities, tariffs, legal, regulatory, political and economic risks; and the Company’s ability to declare a dividend. More information on potential factors that could affect the Company's financial results is included from time to time in the Company's public reports filed with the Securities and Exchange Commission, including the Company's Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K. All forward-looking statements included in this press release are based upon information available to the Company as of the date of this press release, and speak only as of the date hereof. We assume no obligation to update any forward-looking statements to reflect events or circumstances after the date of this press release. ",
+    "bbox": [
+      94,
+      474,
+      900,
+      945
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      66,
+      900,
+      265
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Company Contact: ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      280,
+      269,
+      299
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "John C. Walbrecht   \nPresident   \nTel 1‐801‐993‐1344   \njohn.walbrecht@claruscorp.com ",
+    "bbox": [
+      96,
+      314,
+      379,
+      386
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      96,
+      390,
+      116,
+      401
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Aaron J. Kuehne   \nChief Administrative Officer and Chief Financial Officer   \nTel 1‐801‐993‐1364   \naaron.kuehne@claruscorp.com ",
+    "bbox": [
+      96,
+      404,
+      573,
+      476
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Investor Relations Contact: ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      491,
+      351,
+      508
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Gateway Investor Relations Cody Slach Tel 1‐949‐574‐3860 CLAR@gatewayir.com ",
+    "bbox": [
+      96,
+      523,
+      338,
+      595
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "CLARUS CORPORATION CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) (In thousands, except per share amounts) ",
+    "text_level": 1,
+    "bbox": [
+      261,
+      664,
+      740,
+      743
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Assets ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      803,
+      171,
+      819
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Current assets   \nCash   \nAccounts receivable, less allowance for credit losses and   \ndoubtful accounts of $\\$ 889$ and $\\$ 494$ , respectively   \nInventories   \nPrepaid and other current assets ",
+    "bbox": [
+      106,
+      824,
+      614,
+      939
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/a446abd2fb8db109c0656a8ba3159f23b9f20549a438d9b0e30fb210ff0b2660.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>2020</td><td>March 31，December 31, 2019</td></tr><tr><td></td><td></td></tr><tr><td>$ 12,796</td><td>$ 1,703</td></tr><tr><td>38,834</td><td>41,628</td></tr><tr><td>69,084</td><td>73,432</td></tr><tr><td>5,881</td><td>3,787</td></tr></table>",
+    "bbox": [
+      681,
+      763,
+      897,
+      940
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Income tax receivable Total current assets ",
+    "bbox": [
+      114,
+      68,
+      308,
+      106
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Property and equipment, net   \nOther intangible assets, net   \nIndefinite lived intangible assets   \nGoodwill   \nDeferred income taxes   \nOther long-term assets   \nTotal assets   \nLiabilities and Stockholders' Equity   \nCurrent liabilities   \nAccounts payable and accrued liabilities   \nIncome tax payable Total current liabilities ",
+    "bbox": [
+      104,
+      130,
+      385,
+      267
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      290,
+      465,
+      387
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Long-term debt Deferred income taxes Other long-term liabilities Total liabilities ",
+    "bbox": [
+      102,
+      410,
+      325,
+      498
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Stockholders' Equity ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      521,
+      300,
+      539
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Preferred stock, $\\$ 0001$ par value; 5,000 shares authorized; none issued   \nCommon stock, $\\$ 0001$ par value; 100,000 shares authorized; 33,615 and 33,615 issued and 29,760 and 29,760 outstanding, respectively   \nAdditional paid in capital   \nAccumulated deficit   \nTreasury stock, at cost   \nAccumulated other comprehensive income (loss)   \nTotal stockholders' equity   \nTotal liabilities and stockholders' equity ",
+    "bbox": [
+      102,
+      541,
+      671,
+      753
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/773bc706e147ba6422d14e6fdf48a01006e16e1c6da72131dddbe33a0c0c9523.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=1>322</td></tr><tr><td rowspan=1 colspan=1>126,921</td><td rowspan=1 colspan=1>120,872</td></tr><tr><td rowspan=1 colspan=1>22,781</td><td rowspan=1 colspan=1>22,919</td></tr><tr><td rowspan=1 colspan=1>15,006</td><td rowspan=1 colspan=1>15,816</td></tr><tr><td rowspan=1 colspan=1>41,570</td><td rowspan=1 colspan=1>41,630</td></tr><tr><td rowspan=1 colspan=1>18,090</td><td rowspan=1 colspan=1>18,090</td></tr><tr><td rowspan=2 colspan=1>7,6483,100</td><td rowspan=1 colspan=1>7,904</td></tr><tr><td rowspan=1 colspan=1>3,034</td></tr><tr><td rowspan=1 colspan=1>$ 235,116</td><td rowspan=1 colspan=1>$ 230,265</td></tr></table>",
+    "bbox": [
+      683,
+      66,
+      898,
+      268
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/3ea122f7d2b9e6ee02588cf780e242fe993ada00376aba7467cfec3221394ead.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>$</td><td>19,817 $ 88</td><td>24,304 260</td></tr><tr><td>19,905</td><td></td><td>24,564</td></tr><tr><td>32,063</td><td></td><td>22,670</td></tr><tr><td>1,188</td><td></td><td>1,224</td></tr><tr><td>451</td><td></td><td>615</td></tr><tr><td>53,607</td><td></td><td>49,073</td></tr></table>",
+    "bbox": [
+      683,
+      325,
+      898,
+      501
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/bc1bda070297eb9f123f9b02c07b4c11dd0c2f7b5440dd8c3cc003445a469142.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>492,966 (289,300) (22,269)</td><td>492,353 (288,592) (22,269)</td></tr><tr><td>109 181,509</td><td>(303) 181,192</td></tr><tr><td>$ 235,116</td><td>$ 230,265</td></tr></table>",
+    "bbox": [
+      681,
+      633,
+      897,
+      753
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "CLARUS CORPORATION CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited) (In thousands, except per share amounts) ",
+    "text_level": 1,
+    "bbox": [
+      223,
+      840,
+      774,
+      921
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Sales Domestic sales International sales Total sales ",
+    "bbox": [
+      104,
+      147,
+      277,
+      224
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cost of goods sold Gross profit ",
+    "bbox": [
+      106,
+      247,
+      269,
+      285
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Operating expenses   \nSelling, general and administrative   \nRestructuring charge   \nTransaction costs ",
+    "bbox": [
+      104,
+      309,
+      418,
+      386
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Total operating expenses ",
+    "bbox": [
+      129,
+      409,
+      351,
+      426
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Operating income ",
+    "bbox": [
+      104,
+      449,
+      263,
+      468
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Other expense Interest expense, net Other, net ",
+    "bbox": [
+      104,
+      491,
+      303,
+      547
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Total other expense, net ",
+    "bbox": [
+      129,
+      571,
+      343,
+      588
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Income before income tax Income tax expense ",
+    "bbox": [
+      104,
+      612,
+      334,
+      650
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Net income ",
+    "bbox": [
+      104,
+      664,
+      205,
+      680
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Net income per share:   \nBasic   \nDiluted   \nWeighted average shares outstanding:   \nBasic   \nDiluted ",
+    "bbox": [
+      104,
+      704,
+      299,
+      761
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/b89e0df8d44492957a3e2a27ff1ceb952b9bd4763f164c4e25eb90b21fbc64ae.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">March 31, 2020</td><td>March 31, 2019</td></tr><tr><td colspan=\"2\"></td><td></td></tr><tr><td rowspan=\"4\">$</td><td>28,548</td><td>30,589</td></tr><tr><td>25,007</td><td>30,629</td></tr><tr><td>53,555</td><td>61,218</td></tr><tr><td>35,043</td><td>39,162</td></tr><tr><td>18,512</td><td></td><td>22,056</td></tr><tr><td></td><td>17,370</td><td>17,580</td></tr><tr><td></td><td>- 250</td><td>13 46</td></tr><tr><td>17,620</td><td></td><td>17,639</td></tr><tr><td></td><td>892</td><td>4,417</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>(311) (531)</td><td>(310) (23)</td></tr><tr><td></td><td>(842)</td><td>(333)</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>50 14</td><td>4,084 297</td></tr><tr><td>$</td><td>36 $</td><td>3,787</td></tr><tr><td></td><td></td><td></td></tr><tr><td>$</td><td>0.00 $</td><td>0.13</td></tr><tr><td></td><td>0.00</td><td>0.12</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>29,760 30,942</td><td>29,748 30,673</td></tr></table>",
+    "bbox": [
+      681,
+      84,
+      900,
+      852
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      102,
+      784,
+      442,
+      842
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "CLARUS CORPORATION ",
+    "bbox": [
+      377,
+      930,
+      612,
+      946
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Three Months Ended ",
+    "bbox": [
+      689,
+      69,
+      890,
+      85
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RECONCILIATION FROM NET INCOME TO NET INCOME BEFORE NON-CASH ITEMS, ADJUSTED NET INCOME BEFORE NON-CASH ITEMS AND RELATED EARNINGS PER DILUTED SHARE (In thousands, except per share amounts) ",
+    "text_level": 1,
+    "bbox": [
+      98,
+      65,
+      893,
+      167
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Amortization of intangibles   \nDepreciation   \nAmortization of debt issuance costs   \nStock-based compensation   \nIncome tax expense   \nCash paid for income taxes ",
+    "bbox": [
+      96,
+      383,
+      410,
+      503
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/2842f118c314d44ce69cf0cecff2f4fd9bc10e5ff5d39dda78f948833d1061c3.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"5\">Three Months Ended</td></tr><tr><td colspan=\"5\">Diluted</td></tr><tr><td>March 31, 2020</td><td></td><td>Share</td><td>March 31, 2019</td><td>Share</td></tr><tr><td>$</td><td>36$</td><td>0.00$</td><td>3,787 $</td><td>0.12</td></tr><tr><td>772 1,117</td><td></td><td>0.02 0.04</td><td>889 1,103</td><td>0.03 0.04</td></tr><tr><td>77</td><td></td><td>0.00</td><td>64</td><td>0.00</td></tr><tr><td>613</td><td></td><td>0.02</td><td>785</td><td>0.03</td></tr><tr><td>14</td><td></td><td>0.00</td><td>297</td><td>0.01</td></tr><tr><td>(182)</td><td></td><td>(0.01)</td><td>(75)</td><td>(0.00)</td></tr><tr><td>$</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2,447$</td><td>0.08$</td><td>6,850 $</td><td>0.22</td></tr><tr><td></td><td>250</td><td></td><td>13</td><td>0.00 0.00</td></tr><tr><td></td><td></td><td>0.01</td><td>46</td><td>(0.00)</td></tr><tr><td></td><td>(8)</td><td>(0.00)</td><td>(2) (1</td><td>(0.00)</td></tr><tr><td></td><td>(5)</td><td>(0.00)</td><td></td><td></td></tr><tr><td>$</td><td>2,684 $</td><td>0.09$</td><td>6,906 $</td><td>0.23</td></tr></table>",
+    "bbox": [
+      465,
+      204,
+      897,
+      696
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Net income before non-cash items ",
+    "bbox": [
+      96,
+      523,
+      400,
+      542
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Restructuring charge Transaction costs State cash taxes on adjustments AMT cash taxes on adjustments ",
+    "bbox": [
+      96,
+      564,
+      385,
+      642
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Adjusted net income before non-cash items ",
+    "bbox": [
+      96,
+      665,
+      424,
+      699
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CLARUS CORPORATION RECONCILIATION FROM NET INCOME TO EARNINGS BEFORE INTEREST, TAXES, DEPRECIATION, AND AMORTIZATION (EBITDA), AND ADJUSTED EBITDA (In thousands) ",
+    "text_level": 1,
+    "bbox": [
+      109,
+      808,
+      888,
+      886
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Net income ",
+    "bbox": [
+      98,
+      186,
+      199,
+      203
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Income tax expense Other, net Interest expense, net ",
+    "bbox": [
+      96,
+      227,
+      284,
+      284
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_4426481/auto/images/d8863e5bdf1a48b2b724a273b54e0129a7a3699ee56228a40319a7db14f786e8.jpg",
+    "table_caption": [
+      "Three Months Ended "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>2020</td><td>March 31，March 31, 2019</td></tr><tr><td>$ 36 $</td><td>3,787</td></tr><tr><td>14</td><td>297</td></tr><tr><td>531</td><td>23</td></tr><tr><td>311</td><td>310</td></tr><tr><td>892</td><td>4,417</td></tr><tr><td>1,117</td><td>1,103</td></tr><tr><td>772</td><td>889</td></tr><tr><td>$ 2,781 $</td><td>6,409</td></tr><tr><td>-</td><td>13</td></tr><tr><td>250</td><td>46</td></tr><tr><td>613</td><td>785</td></tr><tr><td>$ 3,644 $</td><td>7,253</td></tr></table>",
+    "bbox": [
+      696,
+      102,
+      898,
+      550
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Operating income ",
+    "bbox": [
+      98,
+      306,
+      254,
+      324
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Depreciation Amortization of intangibles ",
+    "bbox": [
+      96,
+      347,
+      330,
+      383
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "EBITDA ",
+    "bbox": [
+      98,
+      406,
+      171,
+      424
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Restructuring charge Transaction costs Stock-based compensation ",
+    "bbox": [
+      96,
+      446,
+      336,
+      503
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Adjusted EBITDA ",
+    "bbox": [
+      98,
+      526,
+      253,
+      544
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Source: Clarus Corporation ",
+    "bbox": [
+      96,
+      670,
+      338,
+      688
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "CLARUS ",
+    "bbox": [
+      96,
+      579,
+      281,
+      651
+    ],
+    "page_idx": 9
+  }
+]

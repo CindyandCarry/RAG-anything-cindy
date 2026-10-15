@@ -1,0 +1,1770 @@
+[
+  {
+    "type": "text",
+    "text": "Article ",
+    "bbox": [
+      58,
+      120,
+      107,
+      131
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Deep Learning-Based Generation of Building Stock Data from Remote Sensing for Urban Heat Demand Modeling ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      134,
+      919,
+      181
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Michael Wurm $^ { 1 , * \\oplus }$ , Ariane Droin 1,2, Thomas Stark 3, Christian Geiß 1, Wolfgang Sulzer $^ 2 \\textcircled { | | }$ and Hannes Taubenböck $\\mathbf { 1 } _ { \\textcircled { \\mathbb { D } } }$ ",
+    "bbox": [
+      57,
+      198,
+      759,
+      228
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Received: 24 November 2020   \nAccepted: 11 January 2021   \nPublished: 12 January 2021 ",
+    "bbox": [
+      57,
+      658,
+      211,
+      697
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 German Aerospace Center (DLR), German Remote Sensing Data Center (DFD), Oberpfaffenhofen, 82234 Wessling, Germany; ariane.droin@dlr.de (A.D.); christian.geiss@dlr.de (C.G.); hannes.taubenboeck@dlr.de (H.T.)   \n2 Institute for Geography and Regional Planning, University of Graz, Heinrichstr. 36, 8010 Graz, Austria; wolfgang.sulzer@uni-graz.at   \n3 Signal Processing in Earth Observation, Technical University of Munich (TUM), 80333 Munich, Germany; thomas.stark@dlr.de   \nCorrespondence: michael.wurm@dlr.de ",
+    "bbox": [
+      277,
+      252,
+      927,
+      354
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+    "bbox": [
+      57,
+      715,
+      252,
+      768
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract: Cities are responsible for a large share of the global energy consumption. A third of the total greenhouse gas emissions are related to the buildings sector, making it an important target for reducing urban energy consumption. Detailed data on the building stock, including the thermal characteristics of individual buildings, such as the construction type, construction period, and building geometries, can strongly support decision-making for local authorities to help them spatially localize buildings with high potential for thermal renovations. In this paper, we present a workflow for deep learning-based building stock modeling using aerial images at a city scale for heat demand modeling. The extracted buildings are used for bottom-up modeling of the residential building heat demand based on construction type and construction period. The results for DLbuilding extraction exhibit F1-accuracies of $8 7 \\%$ , and construction types yield an overall accuracy of $9 6 \\%$ . The modeled heat demands display a high level of agreement of $\\mathrm { R } ^ { 2 } \\ : 0 . 8 2$ compared with reference data. Finally, we analyze various refurbishment scenarios for construction periods and construction types, e.g., revealing that the targeted thermal renovation of multi-family houses constructed between the 1950s and 1970s accounts for about $4 7 \\%$ of the total heat demand in a realistic refurbishment scenario. ",
+    "bbox": [
+      278,
+      370,
+      941,
+      600
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: building stock model; building type; deep learning; heat demand modeling; digital surface model; aerial image ",
+    "bbox": [
+      273,
+      617,
+      939,
+      645
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      692,
+      394,
+      705
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "With increasing urbanization, cities represent an important component for ensuring a sustainable future for our planet. A high potential for decreasing greenhouse gas emissions is credited to the building sector as buildings consume vast amounts of energy [1,2]. In Germany, buildings account for about $4 0 \\%$ of the final energy use, and they contribute to almost a third of the country’s greenhouse gas emissions [3]. The efficiency of building standards has increased significantly over the past decades, making modern constructions very energy-efficient; however, older buildings constructed before the turn of the millennium do not meet current thermal standards [4]. The targeted refurbishment of older buildings can thus help to transform cities into more sustainable environments. For the analysis of cities’ energy use and to quantitatively evaluate the effects of building retrofitting, bottom-up urban building energy modeling (UBEM) has become a proven tool to support energy efficiency for buildings at a city scale [5–7]. In addition to simulation tools for modeling building energy [8], the development of a dataset on the existing building stock model (BSM) is an important task for UBEM [7]. BSMs have been successfully deployed for modeling urban building energy at various spatial scales: from local neighborhoods [9–11] to a city scale [12–15] and national scale [16]. Besides the modeling of current energy demands of buildings at a city scale, BSMs are most helpful for retrofit analyses [10,17]. With the increased awareness of the building sector as a major emitter of greenhouse gas, the field of UBEM has experienced increased attention in various scientific fields. For an overview of the past and current methodological developments in UBEM, readers should refer to related meta-studies in this field [2,6,8,18–20]. As indicated above, building stock data are crucial for UBEM because they serve as a spatial data base for bottom-up energy modeling, including relevant parameters on each building [5], as follows: ",
+    "bbox": [
+      278,
+      711,
+      941,
+      917
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "International Journal ofGeo-Information ",
+    "bbox": [
+      60,
+      60,
+      277,
+      89
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BY ",
+    "bbox": [
+      60,
+      781,
+      157,
+      806
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23. https://doi.org/10.3390/ijgi10010023 ",
+    "bbox": [
+      58,
+      966,
+      482,
+      978
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://www.mdpi.com/journal/ijgi ",
+    "bbox": [
+      712,
+      966,
+      937,
+      978
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "MDPI ",
+    "bbox": [
+      865,
+      61,
+      939,
+      95
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\u0001-\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001-\u0003\u0004\u0005\u0006\u0007 ",
+    "bbox": [
+      57,
+      500,
+      146,
+      521
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copyright: $\\textcircled { \\mathbb { C } } 2 0 2 1$ by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). ",
+    "bbox": [
+      58,
+      810,
+      252,
+      920
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Citation: Wurm, M.; Droin, A.; Stark, T.; Geiß, C.; Sulzer, W.; Taubenböck, H. Deep Learning-Based Generation of Building Stock Data from Remote Sensing for Urban Heat Demand Modeling. ISPRS Int. J. Geo-Inf. 2021, 10, 23. https://doi.org/10.3390/ ijgi10010023 ",
+    "bbox": [
+      57,
+      531,
+      255,
+      642
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      278,
+      110,
+      941,
+      246
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Building geometry: This is a key parameter in UBEM since the total energy demand of a building is strongly dependent on a building’s size in terms of the footprint area and floor area; ",
+    "bbox": [
+      278,
+      247,
+      941,
+      290
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Construction type: This impacts the thermal behavior of buildings, e.g., a freestanding (semi-)detached house is more exposed to energy loss due to the higher portion of exterior walls in relation to building volume than terraced houses or multi-family houses [14,15,18,21–23]; ",
+    "bbox": [
+      278,
+      291,
+      941,
+      349
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Use type: Modeling of the energy demand of a building is strongly affected by its use, in terms of whether it is a residential building or a non-residential building. Non-residential buildings are much more heterogeneous in terms of thermal behavior and thus more difficult to model without specific knowledge; ",
+    "bbox": [
+      280,
+      350,
+      941,
+      410
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Year of construction: Many thermal regulations have been introduced over the past decades, making newly constructed or refurbished buildings more efficient in their energy behavior than buildings in their original state [24]. ",
+    "bbox": [
+      280,
+      410,
+      941,
+      454
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Nowadays, the situation on data availability for building stock models in many developed countries has significantly improved over the past years: Until a few decades ago, city-scale BSMs were scarce, but recent advents in (open)geo-spatial data [25] and processing methods have increased the number of cities and countries with access to detailed data for urban planning and management, as well as energy modeling. Nevertheless, access to nation-scale building stock data remains very heterogeneous, even in the EU, where huge efforts are invested in the harmonization of national data. The discrepancy of (geo-)data availability in the EU can be evaluated by European (meta)-data platforms, such as INSPIRE (https://inspire-geoportal.ec.europa.eu/index.html) or the European Data Portal (https://www.europeandataportal.eu), revealing that few countries provide detailed BSMs at a national scale, without restrictions to public access (e.g., Belgium and The Netherlands). In some countries, the data exist, but their use is restricted to payment licenses (e.g., Germany and Austria), while no building stock data are available for other countries (e.g., Croatia and Greece). Whilst these data platforms cannot be exhaustive in terms of the existence of national data sets on building stock, they do show that there is much space for improvement in terms of data access. ",
+    "bbox": [
+      280,
+      456,
+      941,
+      693
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In addition to official data, crowd-generated data from initiatives such as the Open-StreetMap Project (https://www.openstreetmap.org) (OSM) are constantly increasing in spatial coverage and data quality. While OSM provides a broad availability of data for building footprints in larger cities, only a few buildings include data on the building height or floor area. For Germany, for less than $5 \\%$ of the buildings, the floor area is available in OSM. Furthermore, current advents in automated image analysis from remotely sensed imagery can significantly facilitate and speed-up the task of building detection: The latest advancements in big data analysis through deep learning techniques [26] have led to a paradigm shift in terms of accuracy for image analysis [27], semantic segmentation in dense urban settings [28], and city-scale building extraction [29,30]. The methods deploying convolutional neural networks (CNNs) for the semantic segmentation of individual buildings in very high resolution (VHR) imagery [29,31,32] have proven their superior performance compared to traditional image classification methods. Moreover, Microsoft®has generated almost 125 million building footprints from aerial images for the entire U.S. [33], applying deep neural networks, ResNet34, and RefineNet [34] with high accuracies of 0.85 intersection over union (IoU). In combination with height data from LiDAR or digital surface models (DSMs), CNNs have been successfully deployed for the generation of building stock models [35,36]. Therefore, compared to traditional, laborious land surveying or manually digitized building footprints, a significant increase in speed can be achieved for building stock modeling at a large scale. This makes the application of deep neural networks a promising tool for remote sensing-based building data generation in data-scarce regions. ",
+    "bbox": [
+      280,
+      694,
+      941,
+      917
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      278,
+      112,
+      941,
+      203
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Considering these latest developments in deep learning-based image analysis, in this paper, we will explore the capabilities of applying current deep neural networks on remote sensing data for the generation of a building stock model and analyze its applicability for urban building energy modeling at a city scale. Specifically, we apply a U-net Inceptionresnet on high resolution aerial imagery and DSM to generate a 3D building model incorporating the building geometry (footprint area and floor area) at a city scale. In a next step, we perform semantic labeling of the building construction type (semi-detached/detached houses, terraced houses, and multi-family houses) based on morphometric parameters such as the area, shape, compactness, and height etc. using a shallow machine learning approach [37–41]. For use type and building age, we integrate ancillary geo-data at the urban block and census data. In a final step, we perform bottom-up building energy demand modeling for each building at a city scale based on characteristic energy demand data for German buildings [42,43]. The validity of the proposed approach using remotely sensed data is evaluated with officially modeled values from the Energy Atlas (https://www.energieatlas.nrw.de). ",
+    "bbox": [
+      278,
+      204,
+      942,
+      411
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The entire workflow is described by the city of Münster, in the Federal State of North-Rhine Westphalia (NRW) in Germany, as a case study, in order to evaluate the usability and accuracy of the proposed workflow. We selected Münster because we found an excellent open data base for NRW including aerial image data and reference data for performance evaluation in terms of a detailed LoD1 building model and modeled energy data from the Energy Atlas. The workflow, however, is designed to be applicable to other cities and geographical regions. In this way, we want to add to the existing literature by applying current deep learning methods for building stock modeling at a city scale for bottom-up modeling of the building energy demand using freely available geo-data. ",
+    "bbox": [
+      278,
+      412,
+      941,
+      545
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The manuscript is organized as follows. Section 2 presents the used data sets and the methods employed for building stock modeling from aerial images and the modeling approach for the heat demand; the results and discussions are presented in Sections 3 and 4, respectively; and Section 5 concludes the paper. ",
+    "bbox": [
+      280,
+      546,
+      941,
+      606
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2. Data and Methods ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      618,
+      440,
+      631
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The proposed workflow consists of three parts: (1) Building stock modeling from aerial images and DSM using deep neural networks (Section 2.2.1); (2) calculation of the building parameters for energy modeling (Sections 2.2.2–2.2.4); and (3) bottom-up modeling of buildings’ energy demand (Section 2.3). The overall workflow, including its three parts, is visualized in Figure 1. The study site Münster is located in the Federal State of North Rhine-Westphalia in northwestern Germany. With almost 320,000 inhabitants, the city has experienced radial urban growth over the past decades. It has a monocentric urban spatial structure with a historic city center, which is radially surrounded by urban extensions from successive construction periods. Therefore, the city morphology contains related characteristic building types, e.g., block development in the center, as well as free-standing (semi-)detached houses in the suburbs or large-area developments of industrial sites at the city fringe. In total, the study area covers $5 1 \\mathrm { { k m } } ^ { 2 }$ , incorporating about 14,800 residential buildings. ",
+    "bbox": [
+      280,
+      637,
+      941,
+      829
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      71
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/911dcf5af6d5527f7789253828c14504bb214a1eb50ef740b1db7b8816da7eb6.jpg",
+    "image_caption": [
+      "Figure 1. Overview of the workflow of methods and data employed for building stock modeling Figure 1. Overview of the workflow of methods and data employed for building stock modeling using deep learning and using deep learning and orthophotos, andorthophotos, and heat demand modeling at a city scale. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      191,
+      115,
+      805,
+      351
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2.1. Data ",
+    "text_level": 1,
+    "bbox": [
+      280,
+      412,
+      344,
+      426
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For the generation of the building stock model, we deployed digital orthophotos utionat a $1 0 \\ \\mathrm { c m }$ normalized digital surface model (nDSM) at a 1 m ground sam resolution and a normalized digital surface model (nDSM) at a $1 \\textrm { m }$ ground sampling distance. For training and validation purposes, we relied on publicly available geodata from the open geodata portal of NRW (https://www.opengeodata.nrw.de) (Table 1). The differentiation of use type is based on urban land-use data at the level of sment of the geometric accuracy of the generated BSM, we deployed an offi-urban blocks. For an assessment of the geometric accuracy of the generated BSM, we deuilding model which was available at a national scale in standard BSM format ployed an official LoD1 building model which was available at a national scale in standard aphical Markup Language (CityGML). The yearly updated dataset incorpo-BSM format City Geographical Markup Language (CityGML). The yearly updated dataset n the building geometry, such as the area and height. incorporates data on the building geometry, such as the area and height. ",
+    "bbox": [
+      278,
+      431,
+      941,
+      565
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/86d9fbdb6ccef5dd280ee8eb0bd43af5607e57e941b1bf52fca7870fe5821b89.jpg",
+    "table_caption": [
+      "a sets used in this study. Table 1. Data sets used in this study. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Name</td><td>Date</td><td>Granularity</td><td>Source</td><td>Use</td></tr><tr><td>Digital Orthophoto (DOP)</td><td>2017</td><td>0.1 m</td><td>https:/ /www.opengeodata.nrw.de</td><td>Building stock model</td></tr><tr><td>Digital Elevation Model (DEM)</td><td>2019</td><td>1m</td><td>https:/ /www.opengeodata.nrw.de</td><td>Building stock model</td></tr><tr><td>Digital Surface Model (DSM)</td><td>2012</td><td>1m</td><td>https:/ /www.opengeodata.nrw.de</td><td>Building stock model</td></tr><tr><td>3D building model (LoD1)</td><td>2015</td><td>Area + height</td><td>https:/ /www.opengeodata.nrw.de</td><td>Validation</td></tr><tr><td>Urban Land-use (DLM-DE)</td><td>2015</td><td>Urban blocks</td><td>https:/ /www.opengeodata.nrw.de</td><td>Use type</td></tr><tr><td>Census data</td><td>2011</td><td>100 m grid cells</td><td>https:/ /www.zensus2011.de</td><td>Construction period</td></tr><tr><td>Reference heat demand</td><td>2011</td><td>Construction typeand period</td><td> https:/ /www.iwu.de</td><td> Heat demand modeling</td></tr><tr><td>Energy Atlas</td><td>2016</td><td>100 m grid cells</td><td>https: / /www.energieatlas.nrw.de</td><td>Validation</td></tr></table>",
+    "bbox": [
+      57,
+      600,
+      941,
+      852
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For data on buildings, we incorporated data from the German Census data base where, among socio-demographic parameters, data on the building age and construction type are a from the Energy Atlas of NRW as a soalso stored at the neighborhood level in $1 0 0 \\times 1 0 0 \\mathrm { m }$ ation of the energy mod- grid cells (Figure 2). Finally, we used data from the Energy Atlas of NRW as a source for validation of the energy modeling. ",
+    "bbox": [
+      278,
+      868,
+      941,
+      927
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/1f6601677d2f7831b8e000ec8d0986dc0ddaef7d011c1de9a02b6f5811f95cec.jpg",
+    "image_caption": [
+      "Figure 2. Overview of detailed buildings’ data in the German Census 2011 at the 1Figure 2. Overview of detailed buildings’ data in the German Census 2011 at the $1 0 0 \\mathrm { m }$ rid level.  grid level. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      114,
+      594,
+      329
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.2. Building Stock Modeling ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      366,
+      482,
+      381
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.2.1. Building Extraction from Aerial Images Using Deep Learning ",
+    "bbox": [
+      278,
+      382,
+      779,
+      397
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Semantic segmentation is the process of representing each pixel of an image with its Semantic segmentation is the process of representing each pixel of an image with its semantic class, e.g., buildings, vegetation, etc. In recent years, the use of convolutional emantic class, e.g., buildings, vegetation, etc. In recent years, the use of convolutional neural networks (CNNs) has introduced a paradigm shift for scene classification tasks. neural networks (CNNs) has introduced a paradigm shift for scene classification tasks. First introduced by [44], fully convolutional networks (FCNs) replace the fully connected First introduced by [44], fully convolutional networks (FCNs) replace the fully connected layers of a traditional CNN with dilated convolutions for semantic segmentation. In [45], ayers of a traditional CNN with dilated convolutions for semantic segmentation. In [45], the fully convolutional approach was extended using a contracting path to capture the he fully convolutional approach was extended using a contracting path to capture the context and a symmetric expanding path was added for upsampling the information back ontext and a symmetric expanding path was added for upsampling the information back to the original input image. This mirrored encoder-decoder approach allows for a fineto the original input image. This mirrored encoder-decoder approach allows for a fine-grained upsampling procedure and enables more recent CNNs to be applied for the task of grained upsampling procedure and enables more recent CNNs to be applied for the task semantic segmentation. While early networks relied on a vgg16 encoder [46], nowadays, of semantic segmentation. While early networks relied on a vgg16 encoder [46], nowa-more advanced models have been proposed. In GoogLeNet [47], also referred to as the first days, more advanced models have been proposed. In GoogLeNet [47], also referred to as version of the Inception family, the CNN allows for the depth and width of the network to he first version of the Inceptibe increased by heavily using $1 \\times 1$ mily, the CNN allows for the depth and width of the -convolutions as a way of reducing the dimensionality network to be increased by heavily using 1 × 1-convolutions as a way of reducing the within the network to remove computational bottlenecks. The network makes use of dimensionality within the network to remove computational bottlenecks. The netInception modules, in terms of a network-in-networks approach [48]. It combines $1 \\times 1$ $3 \\times 3 ,$ use o and $5 \\times 5$ ption modules, in terms of a network-in-networks approach [48]. It com-filter sizes which are stacked on top of each other. This concept is further bines 1 × 1, 3 × 3, and 5 × 5 filter sizes which are stacked on top of each other. This concept expanded in multiple versions of the Inception CNN. Through further improvements, s further expanded in multiple versions of the Inception CNN. Through further improve-Inception v4 [49], also referred to as Inceptionresnet, which is trained with residual conments, Inception v4 [49], also referred to as Inceptionresnet, which is trained with residual nections, was introduced. This process was adapted by the ResNet architecture [50] and connections, was introduced. This process was adapted by the ResNet architecture [50] significantly accelerated the training of the Inceptionresnet network. The Inceptionresnet and significantly accelerated the training of the Inceptionresnet network. The Inception-networks could also out-perform similarly expensive Inception networks without residesnet networks cual connections. ",
+    "bbox": [
+      278,
+      401,
+      941,
+      728
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ual connections. In this study, we propose a U-net Inceptionresnetv2 approach for building extraction. In this study, we propose a U-net Inceptionresnetv2 approach for building extraction. The architecture is depicted in Figure 3. The U-net architecture uses an encoder-decoder The architecture is depicted in Figure 3. The U-net architecture uses an encoder-decoder approach. During the encoder phase, the network learns feature representations, while the pproach. During the encoder phase, the network learns feature representations, while decoder upsamples a large number of feature channels to propagate information to higher he decoder upsamples a large number of feature channels to propagate information to resolution layers. Inceptionresnetv2 serves as the backbone of the U-net and is mirrored higher resolution layers. Inceptionresnetv2 serves as the backbone of the U-net and is mir-during the decoder phase. The input data consist of image patches with the dimensions $2 2 4 \\times 2 2 4 \\times 5$ he decoder phase. The input data consist of image patches with the dimen-. During the stem of the CNN, multiple convolutions and pooling operations sions 224 × 224 × 5. During thtransform a tensor of the size $2 8 \\times 2 8 \\times 3 2 0$ NN, multiple convolutions and pooling oper-. In the second block of U-net-Inceptionresnetv2, five Inception modules of type A are repeated. The Reduction A module forms a tensor of the size $1 4 \\times 1 4 \\times 1 0 8 8$ . The Inception module B is repeated ten times to learn more mid-level features, while in the Reduction module B, it produces a tensor of the size $7 \\times 7$ $\\times 2 0 8 0$ . The Inception module C is repeated five times and the Bottleneck, representing the crossover between the encoder and decoder, of the U-net approach is reached. From there on, the decoder upsamples the learned feature representations back to the originaldefined as the size of the intersection between the ground truth and the classified map, input image, including its height and width. During the decoder phase, each block isdivided by the size of the union of the sample sets. In the last step, the mean height value concatenated with the upsampled tensor from the previous block. Therefore, the U-netof all pixels from the nDSM which fall inside a building was calculated for each extracted approach contains learned feature representations not only from the upsampling with transposed convolutions, but also from skip connections of the decoder, in order to ensurewere removed by a size-based threshold and building footprints were post-processed usa fine-grained prediction map.ing mathematical operators, s ",
+    "bbox": [
+      280,
+      730,
+      941,
+      923
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      278,
+      112,
+      941,
+      203
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/a3e157afcc09bdecb30e8b7a08fbb85b222e308c1127e638f568b14d64617bd2.jpg",
+    "image_caption": [
+      "Figure 3: Schematic representation of U-net Inceptionresnetv2. Figure 3. Schematic representation of U-net Inceptionresnetv2. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      224,
+      926,
+      472
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2. Building Geometry Due to the binary setting of the task, U-net Inceptionresnetv2 was trained using binary A key parameter for modeling the energy demand is the building size. It was used in cross entropy loss and the Adam optimizer (Adaptive Moment Estimation) [51] for loss the energy model as the total floor area, wminimization and featured approximately $6 2 \\mathrm { { M } }$ s the value of the multiplication of the  trainable parameters. Hyperparameter tuning resulted in the following settings: (a) For increasing the number of features, seven image augmentation algorithms were implemented (e.g., horizontal flip or blurring of image tiles); (b) class weights were set to emphasize the higher importance on buildings (1 for background and 2 for buildings) and furthermore, based on the available GPU and amount of computational time, the batch size was set to 8; and (c) for training, we set 100 epochs, but included early stopping to prevent overfitting and a decaying learning rate on the plateau was used with an initial value of 0.0001, which was dropped by a factor of 0.2 after a set patience of 2. Therefore, the network stopped learning after 10 epochs. For training U-net Inceptionresnetv2, the Orthophoto mosaic of the entire study area of the city of Münster was split into 93,417 image patches with dimensions of $2 2 4 \\times 2 2 4 \\times 5$ and the Red, Green, Blue, Infrared, and nDSM height channels. Furthermore, for validation and testing, 10,000 image patches were used in spatially disjunctive regions to ensure a robust learning approach. Image patches were split with a $5 0 \\%$ overlap in the $\\mathbf { x }$ and y direction, resulting in four overlapping predictions for each pixel. The final output was generated using a majority operator for achieving a higher robustness. The accuracy of the derived building footprints was assessed by the intersection over union (IoU). This is defined as the size of the intersection between the ground truth and the classified map, divided by the size of the union of the sample sets. In the last step, the mean height value of all pixels from the nDSM which fall inside a building was calculated for each extracted building footprint, resulting in a city-wide LoD-1 building stock model. Small artifacts were removed by a size-based threshold and building footprints were post-processed using mathematical operators, such as closing and opening [52]. Finally, the use type was extracted based on the Federal Land-Use data at the urban block level (Table 1). ",
+    "bbox": [
+      278,
+      512,
+      941,
+      898
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2.2.2. Building Geometry ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      114,
+      465,
+      128
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A key parameter for modeling the energy demand is the building size. It was used in the energy model as the total floor area, which is the value of the multiplication of the footprint area by the number of floors. The number of floors was derived from the buildingfootprint area by the number of floors. The number of floors was derived from the buildheight (Section 2.2.1) using generalized, standard floor heights from related studies foring height (Section 2.2.1) using generalized, standard floor heights from related studies Germany [53,54]. The number of floors was then used to calculate the total floor area for Germany [53,54]. The number of floors was then used to calculate the total floor a $F A$ : ",
+    "bbox": [
+      278,
+      131,
+      941,
+      206
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/5f06ca21fbad296208014061d7f8b46b4beac806e02cbdf64b151097ad5b3b24.jpg",
+    "text": "$$\nF A = A * n _ { f } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      554,
+      218,
+      665,
+      236
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "where $A$ is the footprint area and $n _ { f }$ is the number of floors. ",
+    "bbox": [
+      277,
+      246,
+      722,
+      261
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.2.3. Semantic Labeling of the Construction Type ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      274,
+      650,
+      290
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The 3D buildings generated from the preceding building extraction step were classified as one of three main construction types related to the energy demand: (a) (Semi-)detached houses (S-DH); (b) terraced houses (TH); and c) multi-family houses (MFH) (Figure 4). Classification was performed by a supervised Random Forest (RF) approach based on morphometric building features and census data [55]. Random Forest is a widely applied ensemble classifier with only very little user input and parameter tuning, which makes itensemble classifier with only very little user input and parameter tuning, which makes it very simple and straightforward to apply, and it generally yields very good accuracies [56].very simple and straightforward to apply, and it generally yields very good accuracies For each building, 24 morphometric parameters, including simple parameters such as the[56]. For each building, 24 morphometric parameters, including simple parameters such area and perimeter or more complex features, were calculated. A detailed descriptionas the area and perimeter or more complex features, were calculated. A detailed descripof the morphometric features and the workflow is presented in Table 2 and in [38,57],tion of the morphometric features and the workflow is presented in Table 2 and in [38,57], and in [58], respectively.and in [58], respectivel ",
+    "bbox": [
+      278,
+      294,
+      941,
+      457
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/fb94213136fa25c38c278049a8b4012e2fc33e63a10e09776f0235464447553a.jpg",
+    "image_caption": [
+      "Figure 4. Representation of building construction types in a 2D ground plan, 3D building Figure 4. Representation of building construction types in a 2D ground plan, 3D building model, and aerial images of (semi-)detached houses, terraced houses, and multi-family houses. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      290,
+      474,
+      932,
+      643
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "For the training and validation of the Random Forest classifier, building type information from the census was used: In a first step, homogenous census grid cells with only one building type were sought and all spatially enclosed buildings of this grid cell were allocated to this building type. The generated training and reference dataset contained 1179 buildings in total: S-DH: 702; TH: 233, and MFH: 244. The RF model was trained on these three classes and the morphometric features with $5 0 \\%$ of the reference buildings and $5 0 \\%$ of the reference buildings were kept for validation. In the following step, the trained RF model was applied to the entire building stock model for the study site, resulting in ݊every residential building being allocated to one of the three classes. The settings for the√ Random Forest algorithm were kept at default settings, with 500 trees and the $\\sqrt { n }$ feature subset for each tree. ",
+    "bbox": [
+      278,
+      695,
+      941,
+      859
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/021083d8a8d4f5dc306a1fcd793881eef3eb5fffd9a28bd6ee09b3f9e044743f.jpg",
+    "table_caption": [
+      "Table 2. Morphometric parameters used for building type classification. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Name</td><td>Short Description</td><td>Name</td><td>Short Description</td></tr><tr><td>Perimeter (m)</td><td>Length of building outline</td><td>Cohesion</td><td>Average Euclidean distance between 30 randomly selected interior points</td></tr><tr><td>Area (m2)</td><td>Building footprint area</td><td>Cohesion Index</td><td>Normalized cohesion using the equal area circle radius and a constant</td></tr><tr><td>Height (m)</td><td>Measured height</td><td>Proximity</td><td>Average Euclidean distance from all interior points to the centroid</td></tr><tr><td>Shape Index</td><td>Proportion between perimeter and approximated square with equal area</td><td>Proximity Index</td><td>Normalized proximity using two thirds of the equal area radius</td></tr><tr><td>Fractal Dimension</td><td>Proportion between area and perimeter</td><td>Spin</td><td>Average of the square of Euclidean distances between all interior points and the centroid</td></tr><tr><td>Perimeter Index</td><td>Proportion of perimeter of shape to perimeter of circle with equal area</td><td>Spin Index</td><td>Normalized spin using 0.5 * squared radius of the equal area circle</td></tr><tr><td>Detour</td><td>Perimeter of the convex hull</td><td>Height Area</td><td>Proportion between height and area</td></tr><tr><td>Detour Index</td><td>Normalized detour using the perimeter of the equal area circle</td><td>Volume (m3)</td><td>The volume of the building</td></tr><tr><td>Range</td><td>Longest distance between two vertex points of the building</td><td>Length (m)</td><td>The length of the bounding box of the building</td></tr><tr><td>Range Index</td><td>Normalized range using two times the diameter of the equal area circle</td><td>Width (m)</td><td>Width of the bounding box</td></tr><tr><td>Exchange</td><td>Shared area of the building footprint and the equal area circle with the same centroid</td><td>Length Width</td><td>Ratio between length and width of the bounding box</td></tr><tr><td>Exchange Index</td><td>Normalized exchange dividing the exchange area by the shape area</td><td>Vertices</td><td>Number of vertices of the building</td></tr></table>",
+    "bbox": [
+      57,
+      133,
+      939,
+      550
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2.2.4. Disaggregation of the Construction Period ",
+    "text_level": 1,
+    "bbox": [
+      277,
+      573,
+      638,
+      588
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In addition to the building size and construction type, the construction period is considered as another piece of crucial information for building energy modeling. Data on the construction period are reported in the census data base, also at the $1 0 0 \\times 1 0 0 \\mathrm { m }$ grid level (Figure 2). In contrast to the building type, the construction period at the aggregated grid level cannot be directly associated with the individual buildings with a high level of confidence [59]. Therefore, disaggregation of the construction period was performed based on a majority vote, where each building within a grid cell was assigned with the most reported construction year for each census grid cell. In the rare cases of parity, the most recent construction year was assigned. With $5 2 \\%$ , the majority of all 2227 grid cells in the study area reported only one construction period. Only $3 2 \\%$ reported two classes, and for half of those grid cells, one construction year class strongly outweighed the other $( 1 5 \\% )$ . In 298 grid cells $( 1 3 \\% ) .$ , three construction years were reported, with one predominant class in 188 cells $( 8 \\% )$ . In only 76 $( 3 \\% )$ of the grid cells, more than three building age classes were reported. ",
+    "bbox": [
+      278,
+      592,
+      941,
+      800
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2.3. Building Heat Demand Modeling ",
+    "text_level": 1,
+    "bbox": [
+      280,
+      813,
+      539,
+      827
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Building heat demand modeling is based on the parameters building geometry (Sections 2.2.1 and 2.2.2), use type (Section 2.2.1), construction type (Section 2.2.3), and construction period (Section 2.2.4). The method is an established workflow in UBEM which relates these individual building parameters to characteristic energy demand tables in Germany from the German Institute for Housing and Environment (IWU) [60,61]. These studies assume a characteristic building energy demand for each of the construction types ((semi-)detached houses (S-DH), terraced houses (TH), and multi-family houses (MFH)), for each construction period, and for three refurbishment scenarios: (1) Existing state; (2) usual refurbishment; and (3) advanced refurbishment (Table 3). The modeling of the building energy demand is based on the total heat demand. The specific energy demands, as reported in the IWU tables with regard to the construction period, generally largely correspond to the construction periods in the German Census. Furthermore, the characteristic energy demand is reported in the tables for various refurbishment scenarios: Existing state without any thermal renovations; usual refurbishment with partial thermal renovations of, e.g., windows; and advanced refurbishment, involving a complete thermal renovation including roof and walls. The total heat demand $H _ { t }$ in kWh/a per building was modeled based on the characteristic heat demand $H$ , the floor area $F A$ , and a constant (https://enev-online.org/enev_20 09_volltext/enev_2009_anlage_01_anforderungen_an_wohngebaeude.pdf) for the number of floors $n _ { f }$ . The heat demand $H$ is a function of construction type ct and construction period $c p$ (see Table 3). ",
+    "bbox": [
+      278,
+      832,
+      941,
+      921
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      278,
+      112,
+      941,
+      322
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/289d7a1ba82ef3c691da6f947f3d0ec89bbebd6952984be39a347f734de2dad7.jpg",
+    "text": "$$\nH _ { t } \\ = \\ H ( c t , c p ) * F A * \\left\\{ \\begin{array} { c } { 0 . 7 6 \\ : , \\ : i f \\ : n _ { f } \\leq 3 } \\\\ { 0 . 8 \\ : , \\ : i f \\ : n _ { f } > 3 } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      443,
+      334,
+      759,
+      367
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/52cd3ca8c01cedebc44ab002645c1d145f33daf353abf8e8a84b27c21d0d1851.jpg",
+    "table_caption": [
+      "Table 3. Energy demand reported as the heat demand in kWh/ $\\mathbf { \\dot { m } } ^ { 2 }$ a) for building types, years of construction, and refurbishment scenarios (modified from [60], p. 113–115). "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td colspan=\"3\">Existing State</td><td colspan=\"3\">Usual Refurbishment</td><td colspan=\"3\">Advanced Refurbishment</td></tr><tr><td>Construction Year</td><td>S-DH</td><td>TH</td><td>MFH</td><td>S-DH</td><td>TH</td><td>MFH</td><td>S-DH</td><td>TH</td><td>MFH</td></tr><tr><td>before 1919</td><td>207.4</td><td>184.7</td><td>200.2</td><td>129.2</td><td>127.5</td><td>124.8</td><td>56.5</td><td>54.7</td><td>55.7</td></tr><tr><td>1919-1948</td><td>192.0</td><td>167.2</td><td>200.0</td><td>118.0</td><td>104.0</td><td>117.6</td><td>53.8</td><td>46.4</td><td>59.2</td></tr><tr><td>1949-1978</td><td>198.4</td><td>160</td><td>175.8</td><td>141.6</td><td>106.2</td><td>108.2</td><td>68.2</td><td>48.8</td><td>55.7</td></tr><tr><td>1979-1986</td><td>154.4</td><td>158.3</td><td>156.8</td><td>108.9</td><td>120.9</td><td>103.0</td><td>47.6</td><td>55.2</td><td>52.7</td></tr><tr><td>1987-1995</td><td>165.3</td><td>132.5</td><td>160.1</td><td>129.2</td><td>105.6</td><td>107.3</td><td>61.4</td><td>44.9</td><td>55.5</td></tr><tr><td>1996-2000</td><td>145.8</td><td>112.9</td><td>126.5</td><td>125.5</td><td>96.5</td><td>97.1</td><td>62.9</td><td>43.0</td><td>49.3</td></tr><tr><td>after 2001</td><td>112.8</td><td>104.0</td><td>91.8</td><td>99.0</td><td>95.6</td><td>81.1</td><td>59.2</td><td>54.5</td><td>46.3</td></tr></table>",
+    "bbox": [
+      58,
+      429,
+      941,
+      568
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3. Results ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      590,
+      356,
+      604
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In this section, results for building stock modeling (Section 3.1) and energy demand modeling (Section 3.2) are presented. Furthermore, we perform a detailed assessment of the geometric and semantic accuracies for the building model, as well as for the modeled energy demand. ",
+    "bbox": [
+      280,
+      609,
+      941,
+      668
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.1. Building Stock Modeling ",
+    "text_level": 1,
+    "bbox": [
+      280,
+      681,
+      480,
+      695
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.1.1. Building Extraction from Aerial Images Using U-net Inecptionresnetv2 ",
+    "bbox": [
+      280,
+      696,
+      847,
+      712
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "After the trained U-net Inceptionresnetv2 was applied on all 93,417 patches of the aerial image, each of the patches with the dimensions of $2 2 4 \\times 2 2 4$ pixels was segmented into a binary classification: Buildings were labeled with ‘value $1 ^ { \\prime }$ and background was labeled with ‘value $0 ^ { \\prime }$ . Examples of visual representations of extracted building footprints, reference building footprints, and aerial images are depicted in Figure 5 for various building morphologies. ",
+    "bbox": [
+      278,
+      714,
+      941,
+      803
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "A visual comparison of the extracted building footprints and the reference building footprints revealed that, on a general level, we can observe a good agreement between the extracted building geometries and the reference data for all construction types. This observation is supported by a detailed accuracy assessment of the output, where we compared the performance of the building extraction method and the reference building footprints using standard machine learning measures of agreement, such as the precision, recall, F1-score, and intersection over union (IoU). All values report a very good performance for the building extraction: Precision of 0.88 and recall of 0.87, with F1-score of 0.87 and ",
+    "bbox": [
+      278,
+      804,
+      941,
+      923
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 of 20 ",
+    "bbox": [
+      899,
+      61,
+      939,
+      72
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "IoU of 0.77. In general, we found a high reliability and low errors of commission, meaning that almost $9 0 \\%$ of the areas of the reference buildings from the official LoD-1 building model were detected (precision) and only very few buildings were generated which were not represented in the reference data (false positives). ",
+    "bbox": [
+      278,
+      112,
+      941,
+      172
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/ce2851ceec131705499e3a3fae0d7a8f8dabef36ca4e8aa139915f4374c7b919.jpg",
+    "image_caption": [
+      "Figure 5: Results of the building extraction using U-net Inceptionresnetv2 for various building Figure 5. Results of the building extraction using U-net Inceptionresnetv2 for various building morphologies in the city of Münster. Aerial images as input data are depicted in (a,e,i), reference footprint extraction are presented in (c,g,k), and the result of labeled construction types is dis-building footprints from the official LoD-1 building model are shown in (b,f,j), results of building played in (d,h,l). footprint extraction are presented in $( \\mathbf { c } , \\mathbf { g } , \\mathbf { k } )$ , and the result of labeled construction types is displayed in (d,h,l). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      193,
+      932,
+      552
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Additionally, a detailed assessment of false positives and false negatives at the pixel level revealed that some of the reported errors in the accuracy assessment are not related servation is supported by a detailed accuracy assessment of the output, where we com-to the performance of the applied U-net Inceptionresnetv2 for building extraction, but to geometric imprecision between the reference LoD-1 building footprints and the digital prints using standard machine learning measures of agreement, such as the precision, re-orthophoto (Figure 6). Since the orthophotos are not referenced to a perfect nadir, buildings are not only represented by their roofs (footprints), but also some parts of the façades that mance for the building extraction: Precision of 0.88 and recall of 0.87, with F1-score of 0.87 are visible, whereas reference buildings are only represented by their footprints. Therefore, and IoU of 0.77. In general, we found a high reliability and low errors of commission, for each building, a few pixels are detected as false positives and a few pixels are detected meaning that almost 90% of the areas of the reference buildings from the official LoD-1 as false negatives, thus impacting the agreement between extracted buildings and reference building model were detected (precision) and only very few buildings were generated buildings. Furthermore, small secondary buildings, e.g., in backyards or garages, are prone to false negatives because of their small areas and low heights. Figure 6 shows an example Additionally, a detailed assessment of false positives and false negatives at the pixel of an extracted building which is not part of the reference data but is present in the aerial level revealed that some of the reported errors in the accuracy assessment are not related image. In general, however, only very few false positives and false negatives are related to the performance of the applied U-net Inceptionresnetv2 for building extraction, but to to temporal inconsistencies between the data sets (Table 1) because relatively, only a few geometric imprecision between the reference LoD-1 building footprints and buildings are newly constructed or demolished in the time span of two years. ",
+    "bbox": [
+      278,
+      650,
+      941,
+      873
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "10 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/0aca50e071af1515c3dcbb4fd71e283ff32fcb85803293a55146ec06335c796a.jpg",
+    "image_caption": [
+      "Figure 6. False positives and false negatives due to varying geometries/inconsistencies between Figure 6. False positives and false negatives due to varying geometries/inconsistencies between image data and reference data. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      285,
+      116,
+      783,
+      296
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2. Semantic Labeling of Construction Types Another source of error is also related to the input data: The aerial images were Based on the RF classifier and the 24 morphometric building parameters, each buildacquired during the leaf-on season, so tree crowns covering the roofs of lower buildings ing in the building stock model was allocated to one of the three construction types of Simpacted the building detection using U-net Inceptionresnetv2 because pixels with a high DH, TH, and MFH (Figure 5d,h,i). Compared to reference data, threflectance in the infrared spectrum were interpreted as vegetation. ",
+    "bbox": [
+      278,
+      350,
+      941,
+      410
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "kappa value of 0.93. Per-class accuracies are 3.1.2. Semantic Labeling of Construction Types ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      422,
+      628,
+      437
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "), and 0.96 (MFH), indicating a good representation of the morphometric parameterBased on the RF classifier and the 24 morphometric building parameters, each building for the construction types. The confusion matrix for the accuracy assessment with valida-in the building stock model was allocated to one of the three construction types of S-DH, TH, tion data is presand MFH (Figure $^ \\mathrm { 5 d , h , i }$ in Table 4. ). Compared to reference data, the accuracies of the RF classifier are reported with very high accuracies of 0.96 for the overall accuracy and a kappa value of 0.93. Table 4. Confusion matrix for the classification of construction types. Per-class accuracies are reported as F1-scores of 0.98 (S-DH), 0.91 (TH), and 0.96 (MFH), indicating a good representation of the morphometric parameters for the construction Reference types. The confusion matrix for the accuracy assessment with validation data is presented in Table 4. ",
+    "bbox": [
+      278,
+      441,
+      942,
+      558
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/48a48c802d4034d3d7e5194c05f5c45b8c01506e462ec096fa42eaa9494ec559.jpg",
+    "table_caption": [
+      "Prediction  TH 6 Table 4. Confusion matrix for the classification of construction types. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td></td><td colspan=\"3\">Reference</td></tr><tr><td></td><td></td><td>S-DH</td><td>TH</td><td>MFH</td></tr><tr><td></td><td>S-DH</td><td>344</td><td>6</td><td>1</td></tr><tr><td>Prediction</td><td>TH</td><td>6</td><td>104</td><td>4</td></tr><tr><td></td><td>MFH</td><td>3</td><td>4</td><td>117</td></tr></table>",
+    "bbox": [
+      277,
+      592,
+      941,
+      678
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "classes. A detailed view on the importance of each morphometric parameter (FigurThese quantitative performance evaluations are also supported by the graphical 8) underlines this observation, with height and volume being very relevant for the semanrepresentation of the value range for all morphometric parameters presented as boxplots tic labeling of construction types. in Figure 7. For most of the parameters, the values of the construction type S-DH are significantly distinguishable from those of TH and MFH. The feature value ranges for TH and MFH are more similar; however, the building height serves as a reliable separator of these two classes. A detailed view on the importance of each morphometric parameter (Figure 8) underlines this observation, with height and volume being very relevant for the semantic labeling of construction types. ",
+    "bbox": [
+      277,
+      695,
+      941,
+      815
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11 of 20 uilding ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/f7eccd82b9a8fe0ff562745e626fd287f4a4864ab2dcf3a110d2d273a40b3156.jpg",
+    "image_caption": [
+      "Figure 7. Value range of the 24 morphometric parameters for the three building types.Figure 7. Value range of the 24 morphometric parameters for the three building types. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      289,
+      115,
+      823,
+      605
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/10832e6e7bd1a73331f33a7041f42b23805ef892b060deeaeb65fbd8228d12b7.jpg",
+    "image_caption": [
+      "Figure 8. Feature importance for the semantic labeling of the extracted building stock model as Figure 8. Feature importance for the semantic labeling of the extracted building stock model as Figure 8. Feature importance for the semantic labeling of the extracted building stock model as one of one of the three construction types ((semi-)detached houses (S-DH), terraced houses (TH), and one of the three construction types ((semi-)detached houses (S-DH), terraced houses (TH), and the three construction types ((semi-)detached houses (S-DH), terraced houses (TH), and multi-family houses (MFH)). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      642,
+      519,
+      879
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "3.2. Heat Demand Modeling ",
+    "text_level": 1,
+    "bbox": [
+      280,
+      114,
+      475,
+      128
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3.2.1. Grid Level ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      129,
+      403,
+      142
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The heat demand was modeled for each individual building based on tables with characteristic energy demands from Table 3 and Equation (2). The tables include characteristic heat demands for three refurbishment scenarios of existing state, usual refurbishment, and advanced refurbishment. To analyze the potential of targeted energy savings per, e.g., construction type or construction period, we used all three scenarios for retrofit analyses at a city scale. In this way, the heat demand was obtained in kWh/a for each individual building and then aggregated to $1 0 0 \\times 1 0 0 \\mathrm { m }$ grid cells (Figure 9). The figure depicts in $\\mathsf { a } , \\mathsf { b } , \\mathsf { c }$ the area in and around the city center with large, old buildings in the existing state,cts in a,b,c the area in and around the city center with large, old buildings in the exwithout any thermal renovations. Therefore, very high heat demands are reported for thisisting state, without any thermal renovations. Therefore, very high heat demands are rearea. These are also comparatively high with usual and advanced refurbishment. The otherported for this area. These are also comparatively high with usual and advanced refurexample in d,e,f focuses on (semi-)detached houses in sub-urban developments with abishment. The other example in d,e,f focuses on (semi-)detached houses in sub-urban designificantly lower heat demand for all three refurbishment states.velopments with a significantly lower heat demand for all three refur ",
+    "bbox": [
+      278,
+      148,
+      941,
+      326
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/fc43f21f88b32c20b8b29a4d2a5b1e77c631624ab665c456d90be1a16a4cd824.jpg",
+    "image_caption": [
+      "Figure 9. Total heat demand of residential buildings per 100 Figure 9. Total heat demand of residential buildings per $1 0 0 \\times 1 0 0 \\mathrm { m }$ ll for the center of  grid cell for the center of Münster (a–c) and the southern outskirts (d–f) for three refurbishment scenarios: existing state, Münster (a–c) and the southern outskirts (d–f) for three refurbishment scenarios: existing state, usual refurbishment, and advanced refurbishment. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      289,
+      348,
+      934,
+      683
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3.2.2. City Scale 3.2.2. City Scale ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      750,
+      398,
+      764
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "While the heat demand at the 1While the heat demand at the $1 0 0 ~ \\mathrm { { m } }$ id cell level allows for a detailed analysis of  grid cell level allows for a detailed analysis areas in the city with a high energy demand, the analysis at a city scale reveals the poten-of areas in the city with a high energy demand, the analysis at a city scale reveals the tial for energy savings with respect to the construction types and refurbishment scenarios. potential for energy savings with respect to the construction types and refurbishment Figure 10 depicts, on the left side, the mean energy demand over all buildings in the study scenarios. Figure 10 depicts, on the left side, the mean energy demand over all buildings in area for each construction type with respect to the three refurbishing scenarios. While the study area for each construction type with respect to the three refurbishing scenarios. (semi-)detached houses show the lowest energy demands on average, due to lower spe-While (semi-)detached houses show the lowest energy demands on average, due to lower specific energy demands (Table 3) and smaller floor areas, they actually contribute to a larger portion of the total energy demand for the entire study area because they occur more frequently than the other two building types. In terms of absolute savings due to reduced heat demands after advanced refurbishment, however, multi-family houses would contribute to the largest portion. ",
+    "bbox": [
+      278,
+      768,
+      941,
+      932
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/7c2060f937bc52c2123c3e1b881585fcf8187edba5db84f6cf0859e0fee76df2.jpg",
+    "image_caption": [
+      "Figure 10. Mean (left) and total (right) heat demand for all buildings in the study area. Figure 10. Mean (left) and total (right) heat demand for all buildings in the study area.Figure 10. Mean (left) and total (right) heat demand for all buildings in the study area. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      285,
+      115,
+      922,
+      269
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "3.2.3. Construction Type and Construction Period ",
+    "text_level": 1,
+    "bbox": [
+      277,
+      306,
+      650,
+      321
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In addition to the characteristic heat demand for each construction type, the construction period represents a crucial input variable for heat demand modeling. The significant variations of the specific heat demand for each construction year allow for a diversified view on the buildings’ energy demand (Figure 11). Relatively, MFH contribute the highest energy demand for the earliest construction year (before 1919); however, this is mostly because the majority of MFH have been constructed as block perimeter development around the historic city center. With a decreasing building age, it is possible to observe a around the historic city center. With a decreasing building age, it is possible to observe a converging heat demand per construction type, especially for construction periods after 1978. This year marks an important date with respect to the building energy demand because The German Thermal Insulation Ordinance—the first regulation subject to public law for energy saving—was enforced at this time [62]. The construction phase between the end of WWI until the end of the 1970’s is characterized by very high energy demands, especially for MFH. While the specific energy demand for this construction phase is not significantly significantly higher than that for the previous construction years, this phase is character-higher than that for the previous construction years, this phase is characterized by a large number of newly constructed houses, resulting in a high cumulative energy demand for this period. ",
+    "bbox": [
+      278,
+      324,
+      941,
+      563
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/3f47e0ac382cec155aba4f1207b4d735b623f82ba7b8bfaabac7fc892c24da83.jpg",
+    "image_caption": [
+      "Figure 11. The total heat demand for all buildings in the study area by construction type and con-Figure 11. The total heat demand for all buildings in the study area by construction type and con-Figure 11. The total heat demand for all buildings in the study area by construction type and struction period. Heat demand values on the ordinate are represented on a log scale. struction period. Heat demand values on the ordinate are represented on a log scale. construction period. Heat demand values on the ordinate are represented on a log scale. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      583,
+      907,
+      875
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "14 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "At a city scale, we calculated a total heat demand of $1 7 0 0 \\times 1 0 ^ { 6 } \\ \\mathrm { k W h / a }$ for all buildings in the existing state scenario, and a reduction to $1 0 9 7 \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ for the usual refurbishment and finally to $5 4 4 \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ for the advanced refurbishment. The energy savings between the refurbishment scenarios range between $- 3 5 \\%$ from existing state to usual refurbishment and $- 5 0 \\%$ from usual to advanced refurbishment, respectively. When the unrealistic scenario is assumed, where all buildings are still in their existing state and would undergo advanced refurbishment, $6 8 \\%$ of the energy could be saved by the thermal renovation of all buildings. In terms of the construction type, the highest potential of total energy savings was found for multi-family houses. Up to $\\mathsf { \\bar { 7 } 4 1 } \\times 1 0 ^ { 6 } \\mathrm { k W h } / \\mathrm { a }$ could be saved between existing state and advanced refurbishment and $1 3 9 \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ for usual refurbishment to advanced refurbishment, respectively. ",
+    "bbox": [
+      278,
+      112,
+      941,
+      277
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "With regards to the construction period, the savings in energy demand were highest for buildings constructed in the 1950–1970s: A total of $1 2 6 8 \\times  { \\mathrm { 1 0 ^ { 6 } ~ k W h / a } }$ was related to this construction period in the existing state scenario; $8 1 4 \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ in the usual refurbishment; and $\\bar { 4 0 7 } \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ in the advanced refurbishment scenario. ",
+    "bbox": [
+      280,
+      278,
+      941,
+      336
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "3.2.4. Comparison with Energy Atlas NRW ",
+    "text_level": 1,
+    "bbox": [
+      280,
+      349,
+      601,
+      363
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The assessment of the validity of results for urban building energy modeling is considered a challenging task because real world data on the energy demand are often not accessible due to data privacy. Furthermore, there exist a great variety of different approaches for energy modeling, which means that interpretations of comparisons of two modeled data sets must be considered with caution. As a proof of concept, however, we compared the results of the heat demand modeling with the modeled heat demand for the city of Münster from the Energy Atlas of the Federal State North-Rhine Westphalia (www.energieatlas.nrw.de). The direct comparison of modeled heat demands at the $1 0 0 \\times 1 0 0 \\mathrm { m }$ grid cell level is depicted in Figure 12. The total derived heat demand from the Energy Atlas is reported to be $1 2 6 8 \\times 1 0 ^ { 6 } \\mathrm { k W h / a }$ and for the deep learning-based building stock model, it is $1 0 8 0 \\times 1 0 ^ { 6 } \\mathrm { { k W h / a } } ,$ which is only about $1 5 \\%$ lower. Furthermore, the $\\mathrm { R } ^ { 2 }$ of 0.82 indicates a good agreement between the two data sets, for both very high and very low heat demands. The small number of grid cells for which our approach reports values close to zero can be mostly related to the modifiable areal unit problem (MAUP) because of the varying input geometries for the building stock model which are intersected by the borders of the $1 0 0 \\times 1 0 0 \\mathrm { m }$ grid cells. Moreover, they can be related to different spatial domains for the use type: While the Energy Atlas incorporates a differentiation of residential and non-residential buildings at the individual building level, we used land-use at the block level. Other differences in the methodologies relate to the characteristic heat demands used: In our model, we used the latest published heat demand for construction types and construction periods from the year 2011 (https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/ episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf page 113- 115). While the Energy Atlas used data from 2003 (https://www.iwu.de/fileadmin/ publikationen/gebaeudebestand/2003_IWU_BornEtAl_Energieeinsparung-f%C3%BCr-31 -Musterh%C3%A4user-der-Geb%C3%A4udetypologie.pdf page 7). Despite these variations between input data and methods, the good overall agreement between the two data sets is considered a proof of concept for the proposed approach using deep learning-based building stock models from orthophotos. ",
+    "bbox": [
+      278,
+      368,
+      941,
+      799
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "To account for the impact of the data source of the building stock model for heat demand modeling, Figure 13 depicts the modeled heat demand based on the deep learningbased building stock model and the official LoD-1 building model using the same method and characteristic heat demand for all three construction types. The comparison of both building stock data sets reports very small variations of $+ 2 . 3 \\%$ for S-DH, $+ 6 . 6 \\%$ for TH, and $+ 0 . 4 \\%$ for MFH, respectively. ",
+    "bbox": [
+      278,
+      801,
+      941,
+      890
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "15 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/3bd407dc699086adfcd525d040759b32a5beeb274bed4d8cfa8b901d07e95c27.jpg",
+    "image_caption": [
+      "Figure 12. Comparison of the modeled heat demand from the Energy Atlas (abscissa) and the Figure 12. Comparison of the modeled heat demand from the Energy Atlas (abscissa) and theing-based building stock model and the official LoD-1 building model using the same building stock model using the proposed deep learning approach (ordinate) with the usual refur-building stock model using the proposed deep learning approach (ordinate) with the usual refurbish-method and characteristic heat demand for all three construction types. The comparison bishment scenment scenario. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      289,
+      116,
+      633,
+      365
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_4280740/auto/images/d05f00e770535bc86e412cb02dbb3f143d8ee7b8469c671226e03f47dc81794d.jpg",
+    "image_caption": [
+      "Figure 13. Comparison of the modeled heat demand using the same method for the building stockFigure 13. Comparison of the modeled heat demand using the same method for the building stock model using the proposed deep learning approach and an official building stock model from LoD-model using the proposed deep learning approach and an official building stock model from LoD-1. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      442,
+      684,
+      693
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "4. Discussion ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      744,
+      383,
+      757
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "iscussion With more than half of the global population living in urban areas, cities are key to With more than half of the global population living in urban areas, cities are key tosustainable development. Large parts of the final energy use and greenhouse gas emissions Figure 13. Comparison of the modeled heat demand using the same methosustainable development. Large parts of the final energy use and gare credited to the buildings sector, thus putting the reduction of $\\mathrm { C O } _ { 2 }$ he building stockhouse gas emis-emissions and model using the proposed deep learning approach and an official building stock model from LoD-sions are credited to the buildings sector, thus putting the reduction of CO2 emissions andgreener cities on the agenda of the UN Sustainable Development Goals. In particular, older 1. greener cities on the agenda of the UN Sustainable Development Goals. In particular,buildings are prone to high energy demands for heating because of the low standards for older buildings are prone to high energy demands for heating because of the low stand-energy efficiency at the time of construction. Therefore, a large potential is seen in building 4. Discussion ards for energy efficiency at the time of construction. Therefore, a large potential is seenrefurbishment, since the majority of the building stock in the EU was constructed before With more than half of the global population living in urban areas, cities are key to1970 and thus before thermal regulations [4]. The ecological and economical benefit of sustainable development. Large parts of the final energy use and greenhouse gas emisthermal renovation is obvious—the targeted refurbishment of buildings with low thermal sions are credited to the buildings sector, thus putting the reduction of CO2 emissions andstandards would be amortized within 15 years [3]. City-scale building stock models greener cities on the agenda of the UN Sustainable Development Goals. In particular,can help to localize areas with high retrofitting potential through urban building energy modeling. The availability of building stock models has increased over the past years for many regions of the world; however, we are still facing (geo-)data scarcity in many areas, especially in developing countries. While the manual data generation of building stock models at a city scale is an extremely laborious and time-intensive task, remote sensing data offer large-area, cost-efficient, and timely data acquisition. With the latest advent of image analysis techniques through deep learning [26], the task for information extraction from images has significantly increased in speed and accuracy. In this study, we explored the applicability of deep learning-based building stock modeling from aerial images in the context of building heat demand modeling using the example of the city of Münster in North-Rhine Westphalia. ",
+    "bbox": [
+      278,
+      762,
+      941,
+      926
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "16 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      280,
+      112,
+      941,
+      262
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The modeled heat demand was compared with official modeled heat demand data from the Energy Atlas NRW at the scale of a regular spatial grid of $1 0 0 \\times 1 0 0 \\mathrm { m } ,$ demonstrating a very high level of agreement between both data sets, despite some minor methodological differences in the two approaches. These insights can be considered as very promising for the use of aerial images in the context of energy modeling. Nevertheless, we identified some potential for improvements of the proposed workflow. The first aspect relates to the process of building stock modeling, where the geometric resolution of the input data plays a significant role in obtaining high accuracies in building extraction. Especially for regions with a poor coverage of high resolution orthophotos, the recent advent of satellite technology offering geometric image resolutions of $1 5 \\mathrm { c m }$ will facilitate the task of appropriate data acquisition for data-scarce regions. The outcomes of the proposed approach using U-net Inceptionresnetv2 for building extraction demonstrated very high accuracies in comparison with detailed reference data, with an F1-score of 0.87. While the building extraction method generates very good results, some deviations from the reference data can be assigned to off-nadir images. Additionally, the geometric generalization of building footprints, as proposed by [33], can help to increase the quality of the extracted buildings. ",
+    "bbox": [
+      280,
+      263,
+      941,
+      501
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "While the proposed workflow has been demonstrated for the city of Münster to analyze its general feasibility, it is designed to be generally applicable to other regions with regards to ancillary data. For German regions, all incorporated data for building stock modeling are available at a national scale: High resolution orthophotos and DSM; census data; and land-use data. Used reference data from IWU for heat demand modeling is fully transferable at a national scale and thus directly applicable to other German cities. The possibilities for transferability of the workflow to other countries are directly related to available input data: High resolution remote sensing data in the form of orthophotos or aerial images are widely available for almost all areas of the world. Data on land-use for the identification of residential buildings can be substituted for other European countries with data from the European Urban Atlas (https://land.copernicus.eu/local/urban-atlas). For other countries, land-use data from the OpenStreetMap project have been successfully incorporated to assign land-use to buildings [63]. Another crucial data set for modeling of the energy demand, however, is the construction period of the building. While the German Census provides this information on the grid-level at $1 0 0 \\times 1 0 0 \\mathrm { m } ,$ related studies have modeled this information from historic map data [64] geometric and spatial features [59]. ",
+    "bbox": [
+      280,
+      502,
+      941,
+      740
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Urban building energy modeling is an interdisciplinary and important field of research. In this study, we applied current deep learning methods for building stock modeling as input data for heat demand modeling with the aim of applying remote sensing data facilitating the generation of crucial data on buildings at a city scale. For future research on urban heat demand modeling, precise data on real energy consumption at the building level would significantly increase the accuracy of related models, e.g., in the form of smart meter data [65]. Such kinds of data could also foster the applicability of current approaches in cross-border analyses, which are currently limited to reference energy demand values [66]. ",
+    "bbox": [
+      278,
+      740,
+      941,
+      859
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5. Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      278,
+      872,
+      393,
+      885
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Considering climate change and the important role of urban areas for future development, humankind is seeking new opportunities to reduce $\\mathrm { C O } _ { 2 }$ and greenhouse gas emissions. New data sources such as very high-resolution remote sensing imagery and cutting-edge technologies such as deep neural networks can help cities and urban planners to reduce their energy consumption and thus contribute to making urban areas ‘greener’. In this current era of big data, we need fast and accurate data analysis methods to transform the ever-increasing data into relevant information to support urban planning and management. We can also observe that huge gaps still exist between data requirements of local or national decision-makers and the information needed to implement sustainable development targets. The study presented in this paper can contribute to narrowing this gap using Earth observation data for generating detailed input data for urban building energy modeling. ",
+    "bbox": [
+      273,
+      890,
+      941,
+      920
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "17 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      278,
+      114,
+      941,
+      262
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Author Contributions: Conceptualization, Michael Wurm, Ariane Droin, Thomas Stark, Hannes Taubenböck, Wolfgang Sulzer, and Christian Geiß; methodology, Michael Wurm, Ariane Droin, and Thomas Stark; data Curation, Michael Wurm, Ariane Droin, and Thomas Stark; writing—original draft preparation, Michael Wurm, Ariane Droin, Thomas Stark, Hannes Taubenböck, Wolfgang Sulzer, and Christian Geiß; funding acquisition, Hannes Taubenböck and Michael Wurm. All authors have read and agreed to the published version of the manuscript. ",
+    "bbox": [
+      278,
+      277,
+      941,
+      360
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Funding: This study received funding from the German Ministry of Economic Affairs and Energy within the 6th Energy Research Programme of the Federal Government/Applied Energy Research under the funding code O20E-SY 48192 ANSWER-Kommunal. ",
+    "bbox": [
+      280,
+      367,
+      939,
+      409
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Institutional Review Board Statement: Not applicable. ",
+    "bbox": [
+      282,
+      417,
+      650,
+      429
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Informed Consent Statement: Not applicable. ",
+    "bbox": [
+      278,
+      438,
+      589,
+      450
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Data Availability Statement: The data presented in this study are available on request from the corresponding author. ",
+    "bbox": [
+      273,
+      458,
+      939,
+      486
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgments: The authors would like to thank Nils Dering from Landesamt für Natur, Umwelt und Verbraucherschutz Nordrhein-Westfalen (LANUV) for the provision of reference data. ",
+    "bbox": [
+      277,
+      493,
+      939,
+      520
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Conflicts of Interest: The authors declare no conflict of interest. ",
+    "bbox": [
+      278,
+      529,
+      704,
+      542
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      555,
+      144,
+      568
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "1. European Environment Agency. Trends and Projections in Europe 2015. Tracking Progress towards Europe’s Climate and Energy Targets; European Environment Agency: Luxembourg, 2015.   \n2. Silva, M.; Oliveira, V.; Leal, V. Urban Form and Energy Demand: A Review of Energy-Relevant Urban Attributes. J. Plan. Lit. 2017, 32, 346–365. [CrossRef]   \n3. BPIE—Buildings Performance Institute Europe. Renovating Germany’s Building Stock. An Economic Appraisal from the Investors’ Perspective. Available online: http://bpie.eu/wp-content/uploads/2016/02/BPIE_Renovating-Germany-s-Building-Stock-_EN_09.pdf (accessed on 24 November 2020).   \n4. EC—European Commission. Building Stock Characteristics. Available online: https://ec.europa.eu/energy/en/eu-buildingsfactsheets-topics-tree/building-stock-characteristics (accessed on 24 November 2020).   \n5. Hong, T.; Chen, Y.; Luo, X.; Luo, N.; Lee, S.H. Ten Questions on Urban Building Energy Modeling. Build. Environ. 2020, 168, 106508. [CrossRef]   \n6. Reinhart, C.F.; Cerezo Davila, C. Urban Building Energy Modeling—A Review of a Nascent Field. Build. Environ. 2016, 97, 196–202. [CrossRef]   \n7. Chen, Y.; Hong, T.; Luo, X.; Hooper, B. Development of City Buildings Dataset for Urban Building Energy Modeling. Energy Build. 2019, 183, 252–265. [CrossRef]   \n8. Sola, A.; Corchero, C.; Salom, J.; Sanmarti, M. Simulation Tools to Build Urban-Scale Energy Models: A Review. Energies 2018, 11, 3269. [CrossRef]   \n9. Rosser, J.F.; Long, G.; Zakhary, S.; Boyd, D.S.; Mao, Y.; Robinson, D. Modelling Urban Housing Stocks for Building Energy Simulation Using CityGML EnergyADE. ISPRS Int. J. Geo-Inf. 2019, 8, 163. [CrossRef]   \n10. Fonseca, J.A.; Nguyen, T.-A.; Schlueter, A.; Marechal, F. City Energy Analyst (CEA): Integrated Framework for Analysis and Optimization of Building Energy Systems in Neighborhoods and City Districts. Energy Build. 2016, 113, 202–226. [CrossRef]   \n11. Estevam Schmiedt, J.; Cerra, D.; Dahlke, D.; Dill, S.; Ge, N.; Göttsche, J.; Haas, A.; Heiden, U.; Israel, M.; Kurz, F.; et al. Remote Sensing Techniques for Building Models and Energy Performance Studies of Buildings. Available online: https://www.researchgate.net/publication/318283747_Remote_sensing_techniques_for_building_models_and_energy_ performance_studies_of_buildings (accessed on 24 November 2020).   \n12. Mastrucci, A.; Baume, O.; Stazi, F.; Leopold, U. Estimating Energy Savings for the Residential Building Stock of an Entire City: A GIS-Based Statistical Downscaling Approach Applied to Rotterdam. Energy Build. 2014, 75, 358–367. [CrossRef]   \n13. Österbring, M.; Mata, É.; Thuvander, L.; Mangold, M.; Johnsson, F.; Wallbaum, H. A Differentiated Description of Building-Stocks for a Georeferenced Urban Bottom-up Building-Stock Model. Energy Build. 2016, 120, 78–84. [CrossRef]   \n14. Kaden, R.; Kolbe, T.H. City-Wide Total Energy Demand Estimation of Buildings Using Semantic 3D City Model and Statistical Data. ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci. 2013, II-2/W1, 163–171. [CrossRef]   \n15. Ma, J.; Cheng, J.C.P. Estimation of the Building Energy Use Intensity in the Urban Scale by Integrating GIS and Big Data Technology. Appl. Energy 2016, 183, 182–192. [CrossRef]   \n16. Evans, S.; Liddiard, R.; Steadman, P. 3DStock: A New Kind of Three-Dimensional Model of the Building Stock of England and Wales, for Use in Energy Analysis. Environ. Plan. B Urban Anal. City Sci. 2017, 44, 227–255. [CrossRef]   \n17. Chen, Y.; Hong, T.; Piette, M.A. Automatic Generation and Simulation of Urban Building Energy Models Based on City Datasets for City-Scale Building Retrofit Analysis. Appl. Energy 2017, 205, 323–335. [CrossRef]   \n18. Swan, L.G.; Ugursal, V.I. Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques. Renew. Sustain. Energy Rev. 2009, 13, 1819–1835. [CrossRef]   \n19. Li, W.; Zhou, Y.; Cetin, K.; Eom, J.; Wang, Y.; Chen, G.; Zhang, X. Modeling Urban Building Energy Use: A Review of Modeling Approaches and Procedures. Energy 2017, 141, 2445–2457. [CrossRef]   \n20. Johari, F.; Peronato, G.; Sadeghian, P.; Zhao, X.; Widén, J. Urban Building Energy Modeling: State of the Art and Future Prospects. Renew. Sustain. Energy Rev. 2020, 128, 109902. [CrossRef]   \n21. Nouvel, R.; Mastrucci, A.; Leopold, U.; Baume, O.; Coors, V.; Eicker, U. Combining GIS-Based Statistical and Engineering Urban Heat Consumption Models: Towards a New Framework for Multi-Scale Policy Support. Energy Build. 2015, 107, 204–212. [CrossRef]   \n22. Krüger, A.; Kolbe, T.H. Buildings Analysis for Urban Energy Planning Using Key Indicators on Virtual 3D City Models. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. 2012, XXXIX-B2, 145–150. [CrossRef]   \n23. Beck, A.; Long, G.; Boyd, D.S.; Rosser, J.F.; Morley, J.; Duffield, R.; Sanderson, M.; Robinson, D. Automated Classification Metrics for Energy Modelling of Residential Buildings in the UK with Open Algorithms. Environ. Plan. B Urban Anal. City Sci. 2020, 47, 45–64. [CrossRef]   \n24. Aksoezen, M.; Daniel, M.; Hassler, U.; Kohler, N. Building Age as an Indicator for Energy Consumption. Energy Build. 2015, 87, 74–86. [CrossRef]   \n25. Alhamwi, A.; Medjroubi, W.; Vogt, T.; Agert, C. OpenStreetMap Data in Modeling the Urban Energy Infrastructure: A First Assessment and Analysis. In Proceedings of the 9th International Conference on Applied Energy, ICAE2017, Cardiff, UK, 21–24 August 2017.   \n26. LeCun, Y.; Bengio, Y.; Hinton, G. Deep Learning. Nature 2015, 521, 436–444. [CrossRef] [PubMed]   \n27. Zhu, X.X.; Tuia, D.; Mou, L.; Xia, G.-S.; Zhang, L.; Xu, F.; Fraundorfer, F. Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources. IEEE Geosci. Remote Sens. Mag. 2017, 5, 8–36. [CrossRef]   \n28. Wurm, M.; Stark, T.; Zhu, X.X.; Weigand, M.; Taubenböck, H. Semantic Segmentation of Slums in Satellite Images Using Transfer Learning on Fully Convolutional Neural Networks. ISPRS J. Photogramm. Remote Sens. 2019, 150, 59–69. [CrossRef]   \n29. Stiller, D.; Stark, T.; Wurm, M.; Dech, S.; Taubenbock, H. Large-Scale Building Extraction in Very High-Resolution Aerial Imagery Using Mask R-CNN. In Proceedings of the 2019 Joint Urban Remote Sensing Event (JURSE), Vannes, France, 22–24 May 2019; pp. 1–4.   \n30. Wu, G.; Shao, X.; Guo, Z.; Chen, Q.; Yuan, W.; Shi, X.; Xu, Y.; Shibasaki, R. Automatic Building Segmentation of Aerial Imagery Using Multi-Constraint Fully Convolutional Networks. Remote Sens. 2018, 10, 407. [CrossRef]   \n31. Marmanis, D.; Schindler, K.; Wegner, J.D.; Galliani, S.; Datcu, M.; Stilla, U. Classification with an Edge: Improving Semantic Image Segmentation with Boundary Detection. ISPRS J. Photogramm. Remote Sens. 2018, 135, 158–172. [CrossRef]   \n32. Yi, Y.; Zhang, Z.; Zhang, W.; Zhang, C.; Li, W.; Zhao, T. Semantic Segmentation of Urban Buildings from VHR Remote Sensing Imagery Using a Deep Convolutional Neural Network. Remote Sens. 2019, 11, 1774. [CrossRef]   \n33. Microsoft US Building Footprints. Available online: https://github.com/Microsoft/USBuildingFootprints (accessed on 24 November 2020).   \n34. Lin, G.; Milan, A.; Shen, C.; Reid, I. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation. arXiv 2016, arXiv:1611.06612.   \n35. Huang, J.; Zhang, X.; Xin, Q.; Sun, Y.; Zhang, P. Automatic Building Extraction from High-Resolution Aerial Images and LiDAR Data Using Gated Residual Refinement Network. ISPRS J. Photogramm. Remote Sens. 2019, 151, 91–105. [CrossRef]   \n36. Bittner, K.; Cui, S.; Reinartz, P. Building Extraction from Remote Sensing Data Using Fully Convolutional Networks. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. 2017, XLII-1/W1, 481–486. [CrossRef]   \n37. Henn, A.; Römer, C.; Gröger, G.; Plümer, L. Automatic Classification of Building Types in 3D City Models: Using SVMs for Semantic Enrichment of Low Resolution Building Data. Geoinformatica 2012, 16, 281–306. [CrossRef]   \n38. Wurm, M.; Schmitt, A.; Taubenbock, H. Building Types’ Classification Using Shape-Based Features and Linear Discriminant Functions. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 2016, 9, 1901–1912. [CrossRef]   \n39. Belgiu, M.; Tomljenovic, I.; Lampoltshammer, T.; Blaschke, T.; Höfle, B. Ontology-Based Classification of Building Types Detected from Airborne Laser Scanning Data. Remote Sens. 2014, 6, 1347–1366. [CrossRef]   \n40. Du, S.; Zhang, F.; Zhang, X. Semantic Classification of Urban Buildings Combining VHR Image and GIS Data: An Improved Random Forest Approach. ISPRS J. Photogramm. Remote Sens. 2015, 105, 107–119. [CrossRef]   \n41. Aubrecht, C.; Steinnocher, K.; Hollaus, M.; Wagner, W. Integrating Earth Observation and GIScience for High Resolution Spatial and Functional Modeling of Urban Land Use. Comput. Environ. Urban Syst. 2009, 33, 15–25. [CrossRef]   \n42. Monien, D.; Strzalka, A.; Koukofikis, A.; Coors, V.; Eicker, U. Comparison of Building Modelling Assumptions and Methods for Urban Scale Heat Demand Forecasting. Future Cities Environ. 2017, 3, 2. [CrossRef]   \n43. Zirak, M.; Weiler, V.; Hein, M.; Eicker, U. Urban Models Enrichment for Energy Applications: Challenges in Energy Simulation Using Different Data Sources for Building Age Information. Energy 2020, 190, 116292. [CrossRef]   \n44. Long, J.; Shelhamer, E.; Darrell, T. Fully Convolutional Networks for Semantic Segmentation. arXiv 2015, arXiv:1411.4038.   \n45. Ronneberger, O.; Fischer, P.; Brox, T. U-Net: Convolutional Networks for Biomedical Image Segmentation. arXiv 2015, arXiv:1505.04597.   \n46. Simonyan, K.; Zisserman, A. Very Deep Convolutional Networks for Large-Scale Image Recognition. arXiv 2015, arXiv:1409.1556.   \n47. Szegedy, C.; Liu, W.; Jia, Y.; Sermanet, P.; Reed, S.; Anguelov, D.; Erhan, D.; Vanhoucke, V.; Rabinovich, A. Going Deeper with Convolutions. arXiv 2014, arXiv:1409.4842.   \n48. Lin, M.; Chen, Q.; Yan, S. Network in Network. arXiv 2014, arXiv:1312.4400.   \n49. Szegedy, C.; Vanhoucke, V.; Ioffe, S.; Shlens, J.; Wojna, Z. Rethinking the Inception Architecture for Computer Vision. arXiv 2015, arXiv:1512.00567.   \n50. He, K.; Zhang, X.; Ren, S.; Sun, J. Deep Residual Learning for Image Recognition. In Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, 27–30 June 2016; pp. 770–778.   \n51. Kingma, D.P.; Ba, J. Adam: A Method for Stochastic Optimization. arXiv 2017, arXiv:1412.6980.   \n52. Serra, J. Image Analysis and Mathematical Morphology; Academic Press, Inc.: Orlando, FL, USA, 1982.   \n53. Wurm, M.; Taubenböck, H.; Schardt, M.; Esch, T.; Dech, S. Object-Based Image Information Fusion Using Multisensor Earth Observation Data over Urban Areas. Int. J. Image Data Fusion 2011, 2, 121–147. [CrossRef]   \n54. Wurm, M.; Goebel, J.; Wagner, G.G.; Weigand, M.; Dech, S.; Taubenböck, H. Inferring Floor Area Ratio Thresholds for the Delineation of City Centers Based on Cognitive Perception. Environ. Plan. B Urban Anal. City Sci. 2019, 239980831986934. [CrossRef]   \n55. Breiman, L. Random Forests. Mach. Learn. 2001, 45, 5–32. [CrossRef]   \n56. Fernandez-Delgado, M.; Cernadaseva, E.; Barro, S.; Amorim, D. Do We Need Hundreds of Classifiers to Solve Real World Classification Problems? JMRS 2014, 15, 3133–3181.   \n57. Angel, S.; Parent, J.; Civco, D.L. Ten Compactness Properties of Circles: Measuring Shape in Geography: Ten Compactness Properties of Circles. Can. Geogr. Géographe Can. 2010, 54, 441–461. [CrossRef]   \n58. Droin, A.; Wurm, M.; Sulzer, W. Semantic Labelling of Building Types. A Comparison of Two Approaches Using Random Forest and Deep Learning. Available online: https://www.researchgate.net/publication/339800032_Semantic_labelling_of_building_ types_A_comparison_of_two_approaches_using_Random_Forest_and_Deep_Learning (accessed on 24 November 2020).   \n59. Garbasevschi, O.; Estevam Schmiedt, J.; Verma, T.; Lefter, I.; Korthals Altes, W.K.; Droin, A.; Schiricke, B.; Wurm, M. Spatial Factors Influencing Building Age Prediction and Implications for Urban Energy Modelling. Comput. Environ. Urban Syst., under review.   \n60. IWU—Institut für Wohnen und Umwelt (German Institute for Housing and Environment). Deutsche Gebäudetypologie. Beispielhafte Maßnahmen Zur Verbesserung Der Energieeffizienz von Typischen Wohngebäuden—Zweite Erweirter Auflage; Institut für Wohnen und Umwelt: Darmstadt, Germany, 2015.   \n61. Loga, T.; Stein, B.; Diefenbach, N. TABULA Building Typologies in 20 European Countries—Making Energy-Related Features of Residential Building Stocks Comparable. Energy Build. 2016, 132, 4–12. [CrossRef]   \n62. BBSR—Bundesinstitut für Bau-, Stadt- und Raumforschung. Thermal Insulation Ordinance 1977. Available online: https:// www.bbsr-energieeinsparung.de/EnEVPortal/EN/Archive/ThermalInsulation/1977/1977_node.html (accessed on 24 November 2020).   \n63. Stiller, D.; Wurm, M.; Stark, T.; dAngelo, P.; Stebner, K.; Dech, S.; Taubenbock, H. Spatial Parameters for Transportation: A Multi-Modal Approach for Modelling the Urban Spatial Structure Using Deep Learning and Remote Sensing. J. Transp. Land Use, under review.   \n64. Rosser, J.F.; Boyd, D.S.; Long, G.; Zakhary, S.; Mao, Y.; Robinson, D. Predicting Residential Building Age from Map Data. Comput. Environ. Urban Syst. 2019, 73, 56–67. [CrossRef]   \n65. Wang, Z.; Crawley, J.; Li, F.G.N.; Lowe, R. Sizing of District Heating Systems Based on Smart Meter Data: Quantifying the Aggregated Domestic Energy Demand and Demand Diversity in the UK. Energy 2020, 193, 116780. [CrossRef]   \n66. Ballarini, I.; Corgnati, S.P.; Corrado, V. Use of Reference Buildings to Assess the Energy Saving Potentials of the Residential Building Stock: The Experience of TABULA Project. Energy Policy 2014, 68, 273–284. [CrossRef] ",
+    "bbox": [
+      57,
+      574,
+      944,
+      914
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      72
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "18 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      71
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      57,
+      112,
+      941,
+      923
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "19 of 20 ",
+    "bbox": [
+      894,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      73
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      57,
+      114,
+      941,
+      853
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "20 of 20 ",
+    "bbox": [
+      892,
+      61,
+      941,
+      72
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "ISPRS Int. J. Geo-Inf. 2021, 10, 23 ",
+    "bbox": [
+      58,
+      61,
+      250,
+      73
+    ],
+    "page_idx": 19
+  }
+]

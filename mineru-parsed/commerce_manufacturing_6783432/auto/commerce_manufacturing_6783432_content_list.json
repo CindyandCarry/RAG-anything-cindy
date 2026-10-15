@@ -1,0 +1,2002 @@
+[
+  {
+    "type": "text",
+    "text": "Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representations as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement. ",
+    "bbox": [
+      82,
+      46,
+      934,
+      102
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "YGM TRADING LIMITED ",
+    "text_level": 1,
+    "bbox": [
+      304,
+      116,
+      710,
+      140
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "(incorporated in Hong Kong with limited liability) (Stock Code : 00375) ",
+    "bbox": [
+      336,
+      142,
+      678,
+      169
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ANNOUNCEMENT OF THE INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2014 ",
+    "text_level": 1,
+    "bbox": [
+      216,
+      184,
+      801,
+      223
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INTERIM RESULTS ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      237,
+      257,
+      252
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Board of Directors (the “Board”) of YGM Trading Limited (the “Company”) is pleased to announce the unaudited consolidated interim results of the Company and its subsidiaries (collectively the “Group”) and the Group’s interests in associates for the six months ended 30 September 2014 as follows. The interim results for the period ended 30 September 2014 have not been audited, but have been reviewed by KPMG. ",
+    "bbox": [
+      82,
+      267,
+      929,
+      327
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Turnover   \nCost of sales   \nGross profit   \nOther revenue   \nOther net income   \nDistribution costs   \nAdministrative expenses   \nOther operating expenses   \nProfit from operations   \nReversal of indemnity liabilities arising from disposal of interest in associate   \nFinance costs   \nShare of losses of associates   \nProfit before taxation   \nIncome tax   \nProfit for the period   \nAttributable to :   \nEquity shareholders of the Company   \nNon-controlling interests   \nProfit for the period ",
+    "bbox": [
+      85,
+      446,
+      442,
+      697
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      87,
+      706,
+      373,
+      768
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/aa58e05c679f97313bb99a40854717e6f698830b58d78da57a201a82e38a1bb3.jpg",
+    "table_caption": [
+      "CONSOLIDATED STATEMENT OF PROFIT OR LOSS – UNAUDITED (Expressed in Hong Kong dollars unless otherwise indicated) "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">Six months ended 30 September</td></tr><tr><td></td><td>2014</td><td>2013</td></tr><tr><td>Note</td><td>$&#x27;000</td><td>$&#x27;000</td></tr><tr><td>3&amp;4</td><td>(189,517)</td><td>589,731</td></tr><tr><td rowspan=\"12\">5(c) 5(a) 5</td><td>510,933</td><td>(208,697)</td></tr><tr><td>321,416</td><td>381,034</td></tr><tr><td>6,003</td><td>8,059</td></tr><tr><td>2,063</td><td>4,798</td></tr><tr><td>(234,811)</td><td>(218,686)</td></tr><tr><td>(71,704)</td><td>(75,721)</td></tr><tr><td>(770)</td><td>(5,378)</td></tr><tr><td>22,197</td><td>94,106</td></tr><tr><td></td><td></td></tr><tr><td>□</td><td>30,024</td></tr><tr><td>(216) (91)</td><td>(71) 1</td></tr><tr><td>21,890 (1,759)</td><td>124,059</td></tr><tr><td>6</td><td></td></tr><tr><td>20,131</td><td>(13,434) 110,625</td></tr><tr><td></td><td></td></tr><tr><td>20,938</td><td></td></tr><tr><td>(807)</td><td>111,154</td></tr><tr><td>20,131</td><td>(529) 110,625</td></tr><tr><td></td><td></td></tr><tr><td>12.6 cents</td><td></td></tr><tr><td></td><td>67.0 cents</td></tr><tr><td>12.6 cents</td><td>67.0 cents</td></tr></table>",
+    "bbox": [
+      563,
+      384,
+      936,
+      838
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Earnings per share Basic ",
+    "bbox": [
+      87,
+      777,
+      248,
+      807
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Diluted ",
+    "bbox": [
+      87,
+      818,
+      147,
+      832
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      502,
+      944,
+      514,
+      957
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME – UNAUDITED ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      60,
+      655,
+      91
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "(Expressed in Hong Kong dollars unless otherwise indicated) ",
+    "bbox": [
+      82,
+      92,
+      542,
+      108
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Profit for the period ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      178,
+      257,
+      193
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Other comprehensive income for the period (after tax and reclassification adjustments): ",
+    "bbox": [
+      87,
+      203,
+      457,
+      231
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Item that may be reclassified subsequently to profit or loss: ",
+    "bbox": [
+      87,
+      233,
+      549,
+      248
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Exchange differences on translation of financial statements of subsidiaries based outside Hong Kong ",
+    "bbox": [
+      89,
+      251,
+      507,
+      281
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Total comprehensive income for the period ",
+    "bbox": [
+      89,
+      283,
+      450,
+      299
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Attributable to :   \nEquity shareholders of the Company   \nNon-controlling interests   \nTotal comprehensive income for the period ",
+    "bbox": [
+      87,
+      308,
+      448,
+      370
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/7814f9895f3cb37220164cc5b92dbb4563bf0d2cab46ac610f1dee7780bb1f09.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td></tr><tr><td>2014</td><td>2013</td></tr><tr><td>$&#x27;000</td><td>$&#x27;000</td></tr><tr><td>20,131</td><td>110,625</td></tr></table>",
+    "bbox": [
+      655,
+      119,
+      927,
+      193
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/bd2873551e010b0a0bd9f6d6aa17848daebd72208450491774dedf887a8102a8.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>(6,983)</td><td>9,575</td></tr><tr><td>13,148</td><td>120,200</td></tr><tr><td></td><td></td></tr><tr><td>13,958 (810)</td><td>120,878</td></tr><tr><td>13,148</td><td>(678) 120,200</td></tr></table>",
+    "bbox": [
+      633,
+      264,
+      931,
+      374
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      502,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION – UNAUDITED ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      61,
+      717,
+      76
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "(Expressed in Hong Kong dollars unless otherwise indicated) ",
+    "bbox": [
+      85,
+      77,
+      542,
+      92
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Non-current assets ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      166,
+      247,
+      179
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Fixed assets ",
+    "bbox": [
+      87,
+      181,
+      184,
+      194
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "- Investment properties - Other property, plant and equipment - Interest in leasehold land held for own use under operating lease ",
+    "bbox": [
+      90,
+      197,
+      394,
+      257
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Intangible assets   \nLease premiums   \nInterests in associates   \nOther financial assets   \nRental deposits and prepayments   \nDeferred tax assets ",
+    "bbox": [
+      87,
+      275,
+      351,
+      366
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Current assets ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      385,
+      211,
+      399
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Trading securities Inventories Trade and other receivables Current tax recoverable Cash and cash equivalents ",
+    "bbox": [
+      87,
+      401,
+      310,
+      477
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Current liabilities ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      495,
+      242,
+      508
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Trade and other payable Bank overdrafts Dividends payable Current tax payable ",
+    "bbox": [
+      87,
+      510,
+      280,
+      571
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Net current assets Total assets less current liabilities ",
+    "bbox": [
+      85,
+      589,
+      374,
+      618
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Non-current liabilities Deferred tax liabilities NET ASSETS ",
+    "bbox": [
+      87,
+      628,
+      277,
+      673
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "CAPITAL AND RESERVES ",
+    "bbox": [
+      87,
+      684,
+      334,
+      698
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Share capital   \nOther reserves   \nTotal equity attributable to shareholders of the Company   \nNon-controlling interests   \nTOTAL EQUITY ",
+    "bbox": [
+      87,
+      700,
+      574,
+      777
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/096b29e491931e13e93ef9eb26a92b6a4c876551095c7f7bfba8a89ce1642317.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=3> 30 September             31March2014                  2014$&#x27;000                  $&#x27;000217,788               139,200</td></tr><tr><td rowspan=1 colspan=1>139,200</td></tr><tr><td rowspan=1 colspan=2>212,842</td><td rowspan=2 colspan=1>102,1945,232</td></tr><tr><td rowspan=1 colspan=2>5,193</td></tr><tr><td rowspan=1 colspan=2>435,823</td><td rowspan=1 colspan=1>246,626</td></tr><tr><td rowspan=1 colspan=2>447,882</td><td rowspan=1 colspan=1>447,882</td></tr><tr><td rowspan=1 colspan=1>7,821</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8,472</td></tr><tr><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>200</td></tr><tr><td rowspan=1 colspan=1>486</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>138</td></tr><tr><td rowspan=1 colspan=1>41,571</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>37,356</td></tr><tr><td rowspan=1 colspan=1>64,857</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>62,357</td></tr><tr><td rowspan=1 colspan=2>998.549</td><td rowspan=1 colspan=1>803,031</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>7,743</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,670</td></tr><tr><td rowspan=1 colspan=1>309,249</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>236,249</td></tr><tr><td rowspan=1 colspan=1>153,835</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>138,591</td></tr><tr><td rowspan=1 colspan=1>1,739</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2,838</td></tr><tr><td rowspan=1 colspan=1>382,187</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>621,455</td></tr><tr><td rowspan=1 colspan=1>854,753</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,000,803</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>194,930</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>160,009</td></tr><tr><td rowspan=1 colspan=1>13,171</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>16,803</td></tr><tr><td rowspan=1 colspan=1>132.691</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>52.800</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>47,642</td></tr><tr><td rowspan=1 colspan=1>393,592</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>224,454</td></tr><tr><td rowspan=1 colspan=1>461,161</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>776,349</td></tr><tr><td rowspan=1 colspan=1>1,459,7104,782</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,579,3804,909</td></tr><tr><td rowspan=1 colspan=1>1,454,928</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,574,471</td></tr><tr><td rowspan=1 colspan=1>383,909</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>383,909</td></tr><tr><td rowspan=1 colspan=1>1,044,543</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,163,276</td></tr><tr><td rowspan=1 colspan=1>1,428,452</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,547,185</td></tr><tr><td rowspan=1 colspan=1>26,476</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>27,286</td></tr><tr><td rowspan=1 colspan=1>1,454,928</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,574,471</td></tr></table>",
+    "bbox": [
+      625,
+      104,
+      932,
+      783
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      502,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Notes: (Expressed in Hong Kong dollars unless otherwise indicated) ",
+    "bbox": [
+      84,
+      62,
+      541,
+      92
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1. Basis of preparation ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      106,
+      280,
+      122
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This interim financial results have been prepared in accordance with the applicable disclosure provisions of the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited (“Stock Exchange”), including compliance with Hong Kong Accounting Standard (“HKAS”) 34, Interim financial reporting, issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”). It was authorised for issue on 28 November 2014. ",
+    "bbox": [
+      119,
+      136,
+      931,
+      211
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The interim financial results have been prepared in accordance with the same accounting policies adopted in the annual financial statements of the Group for the year ended 31 March 2014, except for the accounting policy changes that are expected to be reflected in the annual financial statements of the Group for the year ending 31 March 2015. Details of these changes in accounting policies are set out in note 2. ",
+    "bbox": [
+      117,
+      226,
+      931,
+      287
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The preparation of interim financial results in conformity with HKAS 34 requires management to make judgements, estimates and assumptions that affect the application of policies and reported amounts of assets, liabilities, income and expenses on a year to date basis. Actual results may differ from these estimates. ",
+    "bbox": [
+      119,
+      301,
+      931,
+      346
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The interim financial results are unaudited, but have been reviewed by KPMG in accordance with Hong Kong Standard on Review Engagements 2410, Review of interim financial information performed by the independent auditor of the entity, issued by the HKICPA, whose unmodified review report is included in the interim financial report to be sent to shareholders. In addition, the interim financial results have been reviewed by the Company’s audit committee. ",
+    "bbox": [
+      119,
+      362,
+      931,
+      437
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This interim financial results contain consolidated statement of financial position as at 30 September 2014 and the related consolidated statement of profit or loss and consolidated statement of profit or loss and other comprehensive income for the six months period then ended and selected explanatory notes. The notes include an explanation of events and transactions that are significant to an understanding of the changes in financial position and performance of the Group since the annual financial statements of the Group for the year ended 31 March 2014. This interim financial results do not include all of the information required for a full set of financial statements prepared in accordance with Hong Kong Financial Reporting Standards (“HKFRSs”). ",
+    "bbox": [
+      117,
+      452,
+      931,
+      572
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The financial information relating to the financial year ended 31 March 2014 that is included in the interim financial results as being previously reported information does not constitute the Company’s statutory financial statements for that financial year but is derived from those financial statements. Statutory financial statements for the year ended 31 March 2014 are available from the Stock Exchange’s website. The auditors have expressed an unqualified opinion on those financial statements in their report dated 17 June 2014. ",
+    "bbox": [
+      119,
+      587,
+      931,
+      676
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2. Changes in accounting policies ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      693,
+      363,
+      707
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The HKICPA has issued the following amendments to HKFRSs and one new Interpretation that are first effective for the current accounting period of the Group and the Company. Of these, the following developments are relevant to the Group’s financial statements: ",
+    "bbox": [
+      119,
+      722,
+      932,
+      767
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "- Amendments to HKFRS 10, HKFRS 12 and HKAS 27, Investment entities - Amendments to HKAS 32, Offsetting financial assets and financial liabilities - Amendments to HKAS 36, Recoverable amount disclosures for non-financial assets ",
+    "bbox": [
+      127,
+      782,
+      778,
+      858
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Group has not applied any new standard or interpretation that is not yet effective for the current accounting period. ",
+    "bbox": [
+      115,
+      872,
+      929,
+      903
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      502,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Amendments to HKFRS 10, HKFRS 12 and HKAS 27, Investment entities ",
+    "text_level": 1,
+    "bbox": [
+      122,
+      60,
+      702,
+      77
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The amendments provide consolidation relief to those parents which qualify to be an investment entity as defined in the amended HKFRS 10. Investment entities are required to measure their subsidiaries at fair value through profit or loss. These amendments do not have an impact on the Group’s interim financial report as the Company does not qualify to be an investment entity. ",
+    "bbox": [
+      121,
+      92,
+      931,
+      152
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Amendments to HKAS 32, Offsetting financial assets and financial liabilities ",
+    "text_level": 1,
+    "bbox": [
+      122,
+      166,
+      715,
+      182
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The amendments to HKAS 32 clarify the offsetting criteria in HKAS 32. The amendments do not have an impact on the Group’s interim financial report as they are consistent with the policies already adopted by the Group. ",
+    "bbox": [
+      121,
+      195,
+      931,
+      242
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Amendments to HKAS 36, Recoverable amount disclosures for non-financial assets ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      256,
+      766,
+      273
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The amendments to HKAS 36 modify the disclosure requirements for impaired non-financial assets. Among them, the amendments expand the disclosures required for an impaired assets or cash generating unit whose recoverable amount is based on fair value less costs of disposal. The amendments do not have an impact on the Group’s interim financial report as the Group’s non-financial assets have not been materially impaired in the current or prior periods. ",
+    "bbox": [
+      121,
+      286,
+      931,
+      362
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3. Segment reporting ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      377,
+      268,
+      393
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Group manages its businesses by divisions, which are organised by business lines. In a manner consistent with the way in which information is reported internally to the Group’s most senior executive management for the purposes of resource allocation and performance assessment, the Group has identified four reportable segments. No operating segments have been aggregated to form the following reportable segments. ",
+    "bbox": [
+      117,
+      407,
+      927,
+      482
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Sales of garments: the manufacture, retail and wholesale of garments.   \nLicensing of trademarks: the management and licensing of trademarks for royalty income.   \nPrinting and related services: the manufacture and sale of printed products.   \nProperty rental: the leasing of properties to generate rental income. ",
+    "bbox": [
+      117,
+      497,
+      825,
+      558
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(a) Information about profit or loss, assets and liabilities ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      572,
+      552,
+      587
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Information regarding the Group’s reportable segments as provided to the Group’s most senior executive management for the purposes of resource allocation and assessment of segment performance for the period is set out below: ",
+    "bbox": [
+      152,
+      602,
+      932,
+      647
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/3bda72fc9b3e8af730f1e3c5b1320c52e6b3422a506ddecdeeb860142158a7a7.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=17 colspan=3>For six months ended 30 SeptemberRevenue fromexternal customersInter-segment revenueReportable segment revenueReportable segment profit(adjusted EBITDA)Reportable segment assetsReportable segment liabilities</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>Licensing</td><td rowspan=1 colspan=2>Printing and</td><td rowspan=2 colspan=5>Property rental                   Total</td></tr><tr><td rowspan=1 colspan=1>Sales</td><td rowspan=1 colspan=1>Sales of garments</td><td rowspan=1 colspan=1>of</td><td rowspan=1 colspan=1>of trademarks</td><td rowspan=1 colspan=1>relate</td><td rowspan=1 colspan=1>related services</td><td rowspan=1 colspan=1>Pro】</td><td rowspan=1 colspan=1>Property rental</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Total</td></tr><tr><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=4 colspan=1></td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>446,409</td><td rowspan=1 colspan=1>515,784</td><td rowspan=1 colspan=1>39,394</td><td rowspan=1 colspan=1>51,527</td><td rowspan=1 colspan=1>22,388</td><td rowspan=1 colspan=1>20,952</td><td rowspan=1 colspan=1>2,742</td><td rowspan=1 colspan=1>1,468</td><td rowspan=1 colspan=1>510,933</td><td rowspan=1 colspan=1>589,731</td></tr><tr><td rowspan=1 colspan=1>■</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12,241</td><td rowspan=1 colspan=1>8.311</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1>367</td><td rowspan=1 colspan=1>1,932</td><td rowspan=1 colspan=1>1,695</td><td rowspan=1 colspan=1>14,479</td><td rowspan=1 colspan=1>10,373</td><td rowspan=6 colspan=1></td></tr><tr><td rowspan=1 colspan=1>446,409</td><td rowspan=1 colspan=1>515,784</td><td rowspan=1 colspan=1>51,635</td><td rowspan=1 colspan=1>59,838</td><td rowspan=1 colspan=1>22,694</td><td rowspan=1 colspan=1>21,319</td><td rowspan=1 colspan=1>4,674</td><td rowspan=1 colspan=1>3,163</td><td rowspan=1 colspan=1>525,412</td><td rowspan=1 colspan=1>600,104</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>10,157</td><td rowspan=1 colspan=1>73,434</td><td rowspan=1 colspan=1>23,920</td><td rowspan=1 colspan=1>28.686</td><td rowspan=1 colspan=1>7,086</td><td rowspan=1 colspan=1>5,966</td><td rowspan=1 colspan=1>3,509</td><td rowspan=1 colspan=1>2.748</td><td rowspan=1 colspan=1>44,672</td><td rowspan=1 colspan=1>110,834</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30 Sep</td><td rowspan=1 colspan=1>31 Mar</td><td rowspan=1 colspan=1>30 Sep</td><td rowspan=1 colspan=1>31 Mar</td><td rowspan=1 colspan=1>30 Sep</td><td rowspan=1 colspan=1>31 Mar</td><td rowspan=1 colspan=1>30 Sep</td><td rowspan=1 colspan=1>31 Mar</td><td rowspan=1 colspan=1>30 Sep</td><td rowspan=1 colspan=1>31 Mar</td></tr><tr><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=1 colspan=1>$&#x27;000</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>548,368</td><td rowspan=1 colspan=1>482,554</td><td rowspan=1 colspan=1>599,972</td><td rowspan=1 colspan=1>587,264</td><td rowspan=1 colspan=1>31,719</td><td rowspan=1 colspan=1>33,862</td><td rowspan=1 colspan=1>330,709</td><td rowspan=1 colspan=1>139,405</td><td rowspan=1 colspan=1>1,510,768</td><td rowspan=1 colspan=1>1,243,085</td></tr><tr><td rowspan=1 colspan=1>160,735</td><td rowspan=1 colspan=1>232,881</td><td rowspan=1 colspan=1>60,961</td><td rowspan=1 colspan=1>61,387</td><td rowspan=1 colspan=1>4,009</td><td rowspan=1 colspan=1>4,632</td><td rowspan=1 colspan=1>757</td><td rowspan=1 colspan=1>626</td><td rowspan=1 colspan=1>226,462</td><td rowspan=1 colspan=1>299,526</td><td rowspan=1 colspan=1></td></tr></table>",
+    "bbox": [
+      70,
+      661,
+      986,
+      878
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      502,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The measure used for reporting segment profit is “adjusted EBITDA” i.e. “adjusted earnings before interest, taxes, depreciation and amortisation”, where “interest” is regarded as including investment income and “depreciation and amortisation” is regarded as including impairment losses on non-current assets. To arrive at adjusted EBITDA, the Group’s earnings are further adjusted for items not specifically attributed to individual segments, such as share of losses of associates and other head office or corporate administration costs. ",
+    "bbox": [
+      152,
+      46,
+      931,
+      136
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(b) Reconciliations of reportable segment profit or loss ",
+    "bbox": [
+      119,
+      152,
+      539,
+      167
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Reportable segment profit   \nElimination of inter-segment profits   \nReportable segment profit derived   \nfrom the Group's external customers   \nReversal of indemnity liabilities arising from   \ndisposal of interest in associate   \nOther revenue   \nOther net loss   \nDepreciation and amortisation   \nFinance costs   \nShare of losses of associates   \nUnallocated head office and corporate expenses   \nConsolidated profit before taxation ",
+    "bbox": [
+      152,
+      238,
+      519,
+      442
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/2ca3e77e1e92e39625b3f64b8061809935e6124c6bea5279109f51f915648f13.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td></tr><tr><td>2014</td><td>2013</td></tr><tr><td>$&#x27;000</td><td>$&#x27;000</td></tr><tr><td>44,672</td><td>110,834</td></tr><tr><td>(3,251)</td><td>(2,838)</td></tr><tr><td>41,421</td><td>107,996</td></tr><tr><td>■</td><td>30,024</td></tr><tr><td>2,695</td><td>2,987</td></tr><tr><td>(50)</td><td>(827)</td></tr><tr><td>(16,838)</td><td>(13,057)</td></tr><tr><td>(216)</td><td>(71)</td></tr><tr><td>(91)</td><td></td></tr><tr><td>(5.031)</td><td>(2,993)</td></tr><tr><td>21,890</td><td>124,059</td></tr></table>",
+    "bbox": [
+      650,
+      180,
+      934,
+      446
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4. Seasonality of operations ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      467,
+      319,
+      483
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Group’s sales of garments division on average experiences higher sales in the second half year, compared to the first half year, due to the increased demand of its products during the holiday season. As such, the first half year reports lower revenue and segment result for this segment than the second half. ",
+    "bbox": [
+      117,
+      497,
+      932,
+      542
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "For the twelve months ended 30 September 2014, the sales of garments division reported reportable segment revenue of $\\$ 1,028,201,000$ (twelve months ended 30 September 2013: $\\$ 1,188,501,000$ and reportable segment profit of $\\$ 79,561,000$ (twelve months ended 30 September 2013: $\\$ 184,829,000$ . ",
+    "bbox": [
+      119,
+      557,
+      932,
+      602
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5. Profit before taxation ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      617,
+      290,
+      633
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Profit before taxation is arrived at after charging / (crediting) : ",
+    "bbox": [
+      115,
+      647,
+      579,
+      663
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/82efd35691833f6d6dce7c1333416acb2fb00de7228285474bb8dacec80ba5a3.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\"></td><td colspan=\"2\">Six months ended 30 September 2014</td></tr><tr><td colspan=\"2\"></td><td>$&#x27;000</td><td>2013 $&#x27;000</td></tr><tr><td colspan=\"2\">(a) Finance costs</td><td></td><td></td></tr><tr><td colspan=\"2\">Interest on bank overdrafts wholly repayable within five years</td><td>216</td><td>71</td></tr><tr><td colspan=\"2\">(b) Other items Depreciation and amortisation of fixed assets</td><td></td><td></td></tr><tr><td colspan=\"2\">Inventories write-down and losses</td><td>16,838</td><td>13,057</td></tr><tr><td colspan=\"2\">Reversal of write-down of inventories</td><td>4,310</td><td>3,870</td></tr><tr><td colspan=\"2\"></td><td>(5,723)</td><td>(16,929)</td></tr><tr><td colspan=\"2\">Net realised and unrealised loss on trading securities</td><td>502</td><td>46</td></tr><tr><td colspan=\"2\">Net realised gain on other financial assets</td><td>(519)</td><td>(86)</td></tr><tr><td colspan=\"2\">Interest income</td><td>(2,690)</td><td>(2,982)</td></tr><tr><td colspan=\"2\">Dividend income from listed securities</td><td>(5)</td><td>(5)</td></tr></table>",
+    "bbox": [
+      124,
+      676,
+      939,
+      907
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      500,
+      944,
+      514,
+      957
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "On 26 January 2012, the Group disposed of all its interest in associate, Hang Ten Group Holdings Limited (“HTGH”), for cash consideration of $\\$ 600,485,000$ . The indemnity liabilities as at 31 March 2013 represented a contractual indemnity provided to the acquirer of HTGH if certain events occur with an expiry date at eighteen months from the completion date i.e. 26 July 2013. ",
+    "bbox": [
+      156,
+      95,
+      931,
+      155
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "During the period ended 30 September 2013, there were no indemnity raised by the acquirer of HTGH. Upon the expiry of contractual indemnity on 26 July 2013, a reversal of indemnity liabilities arising from disposal of interest in associate amounted to $\\$ 30,024,000$ was recognised in the consolidated statement of profit or loss for the six months ended 30 September 2013. ",
+    "bbox": [
+      156,
+      172,
+      929,
+      232
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6. Income tax ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      247,
+      211,
+      262
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Current tax - Hong Kong Profits Tax Current tax - Outside Hong Kong Deferred tax ",
+    "bbox": [
+      124,
+      336,
+      425,
+      383
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/a1c54574295da82303d5f19a46312142182ff9b30d951b79a5952caf56ec4e4a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td></tr><tr><td>2014 $&#x27;000</td><td>2013 $&#x27;000</td></tr><tr><td></td><td></td></tr><tr><td>6,289 1,228</td><td>11,926</td></tr><tr><td>(5,758)</td><td>4,831</td></tr><tr><td>1,759</td><td>(3,323) 13,434</td></tr></table>",
+    "bbox": [
+      623,
+      279,
+      929,
+      402
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The provision for Hong Kong Profits Tax for 2014 is calculated at $1 6 . 5 \\%$ (2013: $1 6 . 5 \\% )$ of the estimated assessable profits for the period. Taxation for subsidiaries outside Hong Kong is similarly calculated using the estimated annual effective rates of taxation that are expected to be applicable in the relevant countries. ",
+    "bbox": [
+      121,
+      420,
+      932,
+      465
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7. Dividends ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      480,
+      201,
+      496
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "(a) Dividend payable to equity shareholders attributable to the interim period: ",
+    "bbox": [
+      121,
+      514,
+      714,
+      530
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Interim dividend declared and paid after the interim period of 10 cents (2013: 25 cents) per share ",
+    "bbox": [
+      154,
+      603,
+      546,
+      634
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/c68026ab90c0a4f07be8cf4d9e9138a35c6d2cbd95091d3b5b07ad833b521ee0.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td></tr><tr><td>2014 $&#x27;000</td><td>2013</td></tr><tr><td></td><td>$&#x27;000</td></tr><tr><td></td><td></td></tr><tr><td>16,586</td><td>41,466</td></tr></table>",
+    "bbox": [
+      638,
+      547,
+      922,
+      638
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The interim dividend has not been recognised as a liability at the end of the reporting period. ",
+    "bbox": [
+      151,
+      656,
+      845,
+      673
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "(b) Dividends payable to equity shareholders attributable to the previous financial year, approved during the interim period: ",
+    "bbox": [
+      114,
+      688,
+      932,
+      718
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Final dividends of 80 cents per share in respect of the year ended 31 March 2014 amounted to $\\$ 132,491,000$ was proposed by the directors on 17 June 2014 and was fully approved in the Company’s Annual General Meeting on 17 September 2014. The dividends were paid on 6 October 2014. At 30 September 2014, the amount of dividends payable was included in “dividends payable” in the consolidated statement of financial position. ",
+    "bbox": [
+      156,
+      735,
+      931,
+      811
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Final dividends of 80 cents per share in respect of the year ended 31 March 2013 amounted to $\\$ 132,491,000$ was approved and paid during the period ended 30 September 2013. ",
+    "bbox": [
+      152,
+      827,
+      929,
+      858
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      502,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "(c) Reversal of indemnity liabilities arising from disposal of interest in associate ",
+    "bbox": [
+      122,
+      61,
+      729,
+      77
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "8. Earnings per share ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      61,
+      273,
+      77
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "(a) Basic earnings per share ",
+    "bbox": [
+      121,
+      96,
+      344,
+      110
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The calculation of basic earnings per share is based on the profit attributable to ordinary equity shareholders of the Company of $\\$ 20,938,000$ (six months ended 30 September 2013: \\$111,154,000) and the weighted average number of ordinary shares of 165,864,000 shares (2013: 165,864,000 shares) in issue during the period. ",
+    "bbox": [
+      156,
+      129,
+      931,
+      188
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "(b) Diluted earnings per share ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      205,
+      357,
+      220
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The calculation of diluted earnings per share is based on the profit attributable to ordinary equity shareholders of the Company of $\\$ 20,938,000$ (six months ended 30 September 2013: \\$111,154,000) and the weighted average number of ordinary shares of 165,873,000 shares (2013: 165,877,000 shares) in issue during the period. ",
+    "bbox": [
+      156,
+      238,
+      931,
+      300
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "9. Fixed assets ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      314,
+      216,
+      330
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In June 2014, the Group acquired a leasehold property located in the United Kingdom for a cash consideration of GBP13,880,000 (equivalent to $\\$ 181,354,000$ and transaction costs of GBP753,000 (equivalent to $\\$ 9,858,000$ . Part of the property acquired with amount of $\\$ 78,588,000$ is held to earn rental income or for capital appreciation purposes which is classified and accounted for as investment property using the fair value model. ",
+    "bbox": [
+      121,
+      344,
+      931,
+      419
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "10. Trade and other receivables ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      434,
+      346,
+      450
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "As of the end of the reporting period, the ageing analysis of trade debtors (which are included in trade and other receivables), based on the invoice date and net of allowance for doubtful debts, is as follows: ",
+    "bbox": [
+      114,
+      464,
+      931,
+      495
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Within 1 month   \n1 to 2 months   \n2 to 3 months   \nOver 3 months   \nTrade debtors, net of allowance for doubtful debts   \nDeposits, prepayments and other receivables   \nAmounts due from related companies   \nClub memberships ",
+    "bbox": [
+      121,
+      567,
+      504,
+      692
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/59d18696769da4284a3afde075f0ada38ed7a08196128984cf6c1dc1e16a55e0.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>30 September 2014</td><td>31 March 2014</td></tr><tr><td>$&#x27;000</td><td>$&#x27;000</td></tr><tr><td>67,489</td><td>42,992</td></tr><tr><td>10,206</td><td>5,707</td></tr><tr><td>4,906</td><td>11,348</td></tr><tr><td>■</td><td>3,557</td></tr><tr><td>82.601</td><td>63,604</td></tr><tr><td>70,398</td><td>70,623</td></tr><tr><td>86</td><td>3,614</td></tr><tr><td>750</td><td>750</td></tr><tr><td>153,835</td><td>138,591</td></tr></table>",
+    "bbox": [
+      652,
+      509,
+      936,
+      710
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Individual credit evaluations are performed on all customers requiring credit over a certain amount. Trade debtors are due within 30 days to 90 days from the date of billing. ",
+    "bbox": [
+      121,
+      729,
+      931,
+      760
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      500,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "11. Trade and other payables ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      46,
+      327,
+      61
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "As of the end of the reporting period, the ageing analysis of trade creditors and bills payable (which are included in trade and other payables), based on the invoice date, is as follows: ",
+    "bbox": [
+      117,
+      77,
+      929,
+      106
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Within 1 month   \n1 to 3 months   \nOver 3 months but within 6 months   \nOver 6 months   \nTotal creditors and bills payable   \nOther payables and accrued charges   \nAmounts due to related companies ",
+    "bbox": [
+      122,
+      179,
+      394,
+      289
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/f6cfebd27f1dd1abb5c22b103563458b8d50e13decd01394b37213e4e742aaac.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>30 September</td><td>31 March</td></tr><tr><td>2014</td><td>2014</td></tr><tr><td>$&#x27;000</td><td>$&#x27;000</td></tr><tr><td>50,831</td><td>28,378</td></tr><tr><td>17,797</td><td>3,433</td></tr><tr><td>1,288</td><td>48</td></tr><tr><td>1,203</td><td>769</td></tr><tr><td>71,119</td><td>32,628</td></tr><tr><td>116,253</td><td>126,185</td></tr><tr><td>7,558</td><td>1,196</td></tr><tr><td>194,930</td><td>160,009</td></tr></table>",
+    "bbox": [
+      648,
+      121,
+      934,
+      307
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "12. Comparative figures ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      326,
+      285,
+      342
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Staff costs of $\\$ 5,09 7,000$ included in “administrative expenses” have been reclassified to “distribution costs” to conform with the current period’s presentation. The revised presentation reflects better the nature of the expenses. ",
+    "bbox": [
+      119,
+      356,
+      931,
+      401
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "MANAGEMENT DISCUSSION AND ANALYSIS ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      415,
+      482,
+      432
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Results of the Group’s Operations ",
+    "bbox": [
+      84,
+      446,
+      354,
+      461
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Group’s operations ",
+    "bbox": [
+      84,
+      477,
+      228,
+      491
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/bb83831c2d19a296a8d18e3befed4a584252d0a846e407d5c1d76e7e47d0785d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">Six months ended 30 September</td><td rowspan=\"2\">change</td></tr><tr><td></td><td>2014 HK$&#x27;000</td><td>2013</td></tr><tr><td></td><td></td><td>HK$&#x27;000</td><td></td></tr><tr><td>Turnover</td><td>510,933</td><td>589,731</td><td> -13.4%</td></tr><tr><td>Gross profit</td><td>321,416</td><td>381,034</td><td>-15.6%</td></tr><tr><td>Gross profit margin</td><td>62.9 %</td><td>64.6%</td><td> -1.7 pp</td></tr><tr><td>Profit from operations</td><td>22,197</td><td>94,106</td><td>-76.4%</td></tr><tr><td>Operating margin</td><td>4.3%</td><td>16.0%</td><td> -11.7 pp</td></tr><tr><td>Reversal of indemnity liabilities arising from</td><td></td><td></td><td></td></tr><tr><td>disposal of interest in associate Profit attributable to equity shareholders of the Company</td><td></td><td>30,024</td><td>-81.2%</td></tr><tr><td>Net profit margin</td><td>20,938</td><td>111,154</td><td></td></tr><tr><td>EBITDA</td><td>4.1%</td><td>18.8%</td><td>-14.7 pp</td></tr><tr><td></td><td>38,944</td><td>137,187</td><td>-71.6%</td></tr><tr><td>EBITDA margin</td><td>7.6%</td><td>23.3%</td><td> -15.7 pp</td></tr><tr><td>Earnings per share - basic</td><td>$0.126</td><td>$0.670</td><td>-81.2%</td></tr><tr><td>Interim dividend per share</td><td>$0.100</td><td>$0.250</td><td>-60.0%</td></tr><tr><td>Dividend payout</td><td>79.4%</td><td>37.3%</td><td>+42.1 pp</td></tr></table>",
+    "bbox": [
+      82,
+      503,
+      932,
+      785
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Despite the US and Eurozone economies showed a level of stabilization, Group business was adversely impacted by slowing economic growth and the prevailing weakening domestic consumption in Mainland China. As a result, turnover of the Group decreased by $1 3 . 4 \\%$ to $\\mathrm { H K S 5 } 1 0 , 9 3 3 , 0 0 0$ (2013: $\\mathrm { H K } \\$ 589 ,731,00 0 )$ . Total sales of garments, which is the Group’s principal business, dropped by $1 3 . 5 \\%$ to $\\mathrm { H K S 4 4 6 , 4 0 9 , 0 0 0 }$ (2013: $\\mathrm { H K } \\$ 5123,784,000$ . Total income of licensing of trademarks from external customers decreased by $2 3 . 5 \\%$ to $\\mathrm { H K S } 3 9 , 3 9 4 , 0 0 0$ (2013: HK\\$51,527,000). Hence, total gross profit decreased by $1 5 . 6 \\%$ to $\\mathrm { H K } \\$ 321,41 6,00 0$ (2013: HK\\$381,034,000). Overall gross profit margin dropped to $6 2 . 9 \\%$ from $6 4 . 6 \\%$ for the same period last year, representing 1.7 percentage points decrease. ",
+    "bbox": [
+      80,
+      798,
+      931,
+      919
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      500,
+      944,
+      514,
+      956
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Profit from operations decreased by $7 6 . 4 \\%$ from $\\mathrm { H K S 9 4 } , 1 0 6 , 0 0 0$ for the same period last year to $\\mathrm { H K S 2 2 } , 1 9 7 , 0 0 0 .$ . Total operating expenses amounted to $\\mathrm { H K S 3 0 7 } , 2 8 5 , 0 0 0$ (2013: $\\mathrm { H K } \\$ 299,785,000$ , representing an increase of $2 . 5 \\%$ . Total rental and other occupancy expenses of the Group increased by $6 . 1 \\%$ to $\\mathrm { H K S 1 1 6 } , 3 9 2 , 0 0 0$ (2013: $\\mathrm { H K } \\$ 109,68 7,000$ which accounted for $2 2 . 8 \\%$ (2013: $1 8 . 6 \\% )$ of the turnover of the Group. Total staff costs, including directors’ remuneration, decreased by $3 . 2 \\%$ to $\\mathrm { H K S 1 0 6 } , 9 6 2 , 0 0 0$ (2013: $\\mathrm { H K } \\$ 110,550,000$ and accounted for $2 0 . 9 \\%$ (2013: $1 8 . 7 \\%$ ) of the turnover of the Group. Total advertising and promotion expenses of the Group decreased by $1 8 . 8 \\%$ to $\\mathrm { H K S } 1 5 , 3 4 5 , 0 0 0$ (2013: $\\mathrm { H K S 1 8 } , 8 9 7 , 0 0 0 )$ which accounted for $3 . 0 \\%$ $( 2 0 1 3 ; 3 . 2 \\% )$ of the turnover of the Group. ",
+    "bbox": [
+      82,
+      60,
+      929,
+      181
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Profit attributable to equity shareholders of the Company was $\\mathrm { H K S 2 0 } , 9 3 8 , 0 0 0$ which dropped from $\\mathrm { H K S 1 1 1 , } 1 5 4 , 0 0 0$ for same period last year. The substantial decline was mainly attributable to the significant decrease in sales of branded garments caused by a decline in the retail markets in which the Group operates, particularly in Mainland China; and the absence of any exceptional gain in the six months ended 30 September 2014 whereas an one-off exceptional gain of $\\mathrm { H K S } 3 0 { , } 0 2 4 { , } 0 0 0$ was recorded in the corresponding period last year as a result of the reversal of indemnity liabilities arising from the disposal of interest in an associate. ",
+    "bbox": [
+      82,
+      197,
+      929,
+      287
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For the period under review, EBITDA of the Group decreased by $7 1 . 6 \\%$ to $\\mathrm { H K S 3 8 } , 9 4 4 , 0 0 0$ (2013: $\\mathrm { H K } \\$ 137,187,000$ . EBITDA margin decreased from $2 3 . 3 \\%$ for the same period last year to $7 . 6 \\%$ . ",
+    "bbox": [
+      84,
+      301,
+      926,
+      332
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Basic earnings per share decreased by $8 1 . 2 \\%$ to $1 2 . 6 \\mathrm { H K }$ cents (2013: 67.0 HK cents). ",
+    "bbox": [
+      85,
+      346,
+      721,
+      362
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Cash flow from operations ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      376,
+      280,
+      391
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Net cash of $\\mathrm { H K S } 2 3 , 1 3 1 , 0 0 0$ was used in operations for the period ended 30 September 2014 as against net cash of $\\mathrm { H K S 7 9 } , 4 5 4 , 0 0 0$ was generated from operations for the previous year same period. Major attribute was increase in stocks to $\\mathrm { H K S } 3 0 9 , 2 4 9 , 0 0 0$ as at the period end from $\\mathrm { H K S } 2 3 6 , 2 4 9 , 0 0 0$ as at 31 March 2014. Hence, current ratio decreased to 2.2 (31 March 2014: 4.5). ",
+    "bbox": [
+      82,
+      407,
+      929,
+      466
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2014, the Group had cash and bank deposits net of overdrafts of $\\mathrm { H K } \\$ 369 ,016,00 0$ , a decrease of $\\mathrm { H K S 2 3 5 , } 6 3 6 \\mathrm { , } 0 0 0$ from $\\mathrm { H K S 6 0 4 } , 6 5 2 , 0 0 0$ as at 31 March 2014 after payments of cash consideration and related transaction costs totaling $\\mathrm { H K S 1 9 1 } , 2 1 2 , 0 0 0$ in respect of acquisition of a leasehold property located in the United Kingdom which is partly for earning rental income or capital appreciation and partly for own use. At 30 September 2014, the Group had trading securities with a fair value of $\\mathrm { H K S 7 } , 7 4 3 , 0 0 0$ (31 March 2014: $\\mathrm { H K } \\$ 1,670,000$ . ",
+    "bbox": [
+      82,
+      482,
+      929,
+      572
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "During the period, the Group also spent approximately $\\mathrm { H K S } 1 4 { , } 9 7 6 { , } 0 0 0$ in additions and replacement of fixed assets other than the acquisition of a leasehold property aforementioned, compared to $\\mathrm { H K S 2 4 } , 7 8 6 , 0 0 0$ for the same period last year. ",
+    "bbox": [
+      84,
+      586,
+      929,
+      633
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Group’s financial position ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      647,
+      290,
+      662
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The Group financed its operations by internally generated cashflows and banking facilities provided by its bankers. The Group continues to maintain a prudent approach in managing its financial requirements. ",
+    "bbox": [
+      85,
+      676,
+      927,
+      707
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The Group’s net assets as at 30 September 2014 were $\\mathrm { H K } \\$ 1,454,928,000$ as compared with $\\mathrm { H K } \\$ 1,574,47 1,00 0$ as at 31 March 2014. The Group’s gearing ratio at the period end was 0.009 (31 March 2014: 0.011) which was calculated based on total borrowings of $\\mathrm { H K S } 1 3 , 1 7 1 , 0 0 0$ (31 March 2014: $\\mathrm { H K S 1 6 } , 8 0 3 , 0 0 0 )$ and shareholders’ equity of $\\mathrm { H K } \\$ 1,428,452,000$ (31 March 2014: $\\mathrm { H K } \\$ 1,547,1 85,000$ . The Group’s borrowings are mainly on a floating rate basis. ",
+    "bbox": [
+      82,
+      722,
+      931,
+      798
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The Group also maintains a conservative approach to foreign exchange exposure management. The Group is exposed to currency risk primarily through income and expenditure streams denominated in United States Dollars, Pounds Sterling, Euros, Renminbi, Macau Pataca and Japanese Yen. To manage currency risks, non Hong Kong Dollar assets are financed primarily by matching local currency debts as far as possible. ",
+    "bbox": [
+      82,
+      812,
+      929,
+      872
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      944,
+      519,
+      956
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2014, the Company issued guarantees to banks to secure banking facilities provided to the subsidiaries amounting to $\\mathrm { H K S 4 7 } , 5 5 0 , 0 0 0$ (31 March 2014: HK\\$50,010,000). The maximum liability of the Company at the end of reporting period under the guarantees issued is the amount of banking facilities drawn down by the relevant subsidiaries amounting to $\\mathrm { H K S 1 7 } , 5 6 7 , 0 0 0$ (31 March 2014: HK\\$19,644,000). ",
+    "bbox": [
+      82,
+      62,
+      931,
+      123
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Operations review ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      138,
+      230,
+      153
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Sales of garments ",
+    "bbox": [
+      84,
+      168,
+      216,
+      184
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Revenue from sales of garments Segment profit Segment profit margin Inventory turnover (days) (note) ",
+    "bbox": [
+      85,
+      262,
+      329,
+      323
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/2d7af3fe1af785e05aa8d456a999614d7aab1a79166e39cc480b1740e9454dfa.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Six months ended 30 September</td><td rowspan=\"6\">change</td></tr><tr><td>2014 HK$&#x27;000</td><td>2013 HK$&#x27;000</td></tr><tr><td></td><td></td></tr><tr><td>446,409</td><td>515,784</td></tr><tr><td>10,157</td><td>-13.5% 73,434 -86.2%</td></tr><tr><td>2.3%</td><td>14.2% -11.9 pp</td></tr><tr><td>314.6</td><td>235.3 33.7%</td></tr></table>",
+    "bbox": [
+      598,
+      198,
+      929,
+      324
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Note: Inventory held at the period end divided by 183 days. ",
+    "bbox": [
+      84,
+      328,
+      524,
+      344
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Sales of garments is the Group’s principal business which is mainly retailing and wholesaling of branded garments in the Group’s principal operating regions, namely Hong Kong and Mainland China. The prevailing weakening consumer spending alongside the upsurge in operating costs, especially rental and other occupancy expenses, has continued to put pressure on the operating profits of sales of garments business. Total sales of garments decreased by $1 3 . 5 \\%$ to $\\mathrm { H K S 4 4 6 , 4 0 9 , 0 0 0 }$ (2013: $\\mathrm { H K } \\$ 5123,784,000$ and total segment profit decreased by $8 6 . 2 \\%$ from $\\mathrm { H K S } 7 3 , 4 3 4 , 0 0 0$ for the previous year same period to $\\mathrm { H K S 1 0 } , 1 5 7 , 0 0 0$ . ",
+    "bbox": [
+      82,
+      358,
+      931,
+      450
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Aquascutum   \nAshworth   \nJ.Lindeberg   \nPeak Performance   \nMichel Rene   \nGuy Laroche   \nTotal ",
+    "bbox": [
+      84,
+      519,
+      184,
+      598
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6783432/auto/images/ec90795c87947a1367b658c5bd5c4fe1455dc91169d58e5a147edd6837c0260b.jpg",
+    "table_caption": [
+      "Number of POSs by geographical locations "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td colspan=\"2\">Mainland China</td><td colspan=\"2\">Hong Kong</td><td colspan=\"2\">Macau</td><td colspan=\"2\">Taiwan</td><td colspan=\"2\">Europe</td><td colspan=\"2\">Total</td></tr><tr><td></td><td>30 Sep 2014</td><td>31Mar 2014</td><td>30 Sep</td><td>31Mar</td><td>30 Sep</td><td>31 Mar</td><td>30 Sep</td><td>31Mar</td><td>30 Sep</td><td>31 Mar</td><td>30 Sep</td><td>31Mar</td></tr><tr><td></td><td></td><td></td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td><td>2014</td></tr><tr><td></td><td>135</td><td>137</td><td>11</td><td>10</td><td>4</td><td>4</td><td>26</td><td>29</td><td>15</td><td>11</td><td>191</td><td>191</td></tr><tr><td></td><td>48</td><td>47</td><td>12</td><td>12</td><td>3</td><td>3</td><td>7</td><td>6</td><td>=</td><td>=</td><td>70</td><td>68</td></tr><tr><td></td><td>■</td><td>=</td><td>6</td><td>6</td><td>2</td><td>2</td><td>=</td><td></td><td>■</td><td></td><td>8</td><td>8</td></tr><tr><td>nce</td><td>=</td><td>2</td><td>3</td><td>1</td><td></td><td></td><td>=</td><td></td><td>=</td><td></td><td>3</td><td>3</td></tr><tr><td></td><td>=</td><td>=</td><td>3</td><td>3</td><td>1</td><td>1</td><td>=</td><td></td><td>=</td><td></td><td>4</td><td>4</td></tr><tr><td></td><td>·</td><td>=</td><td>-</td><td>=</td><td>■</td><td></td><td>=</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td>183</td><td>186</td><td>35</td><td>32</td><td>10</td><td>10</td><td>33</td><td>35</td><td>16</td><td>12</td><td>277</td><td>275</td></tr></table>",
+    "bbox": [
+      169,
+      475,
+      937,
+      602
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "As at the end of September 2014, the Group has a distribution network of 277 POSs in our operating market which was a net increase of 2 POSs from the end of March 2014. Among new shops opened during the period, an Aquascutum shop was opened at Jermyn Street in London in June 2014. The Aquascutum flagship shop in the Shoppes at Four Seasons in Macau was opened in September 2014. ",
+    "bbox": [
+      82,
+      619,
+      932,
+      680
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The manufacturing plant of the Group in Dongguan recorded an operating loss for the period in spite of our continuous efforts on controlling costs. ",
+    "bbox": [
+      80,
+      694,
+      929,
+      724
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Licensing of trademarks ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      739,
+      263,
+      755
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Group owns the global intellectual property rights of Guy Laroche and Aquascutum. Total income of licensing of Guy Laroche and Aquascutum trademarks from external customers decreased by $2 3 . 5 \\%$ to HK\\$39,394,000 (2013: HK\\$51,527,000). Guy Laroche dropped by $2 3 . 1 \\%$ in terms of EUR from the previous year same period. Aquascutum decreased by $2 5 . 1 \\%$ from same period last year as a result of early termination of several license agreements in second half of last year due to financial difficulty of licensees. ",
+    "bbox": [
+      82,
+      769,
+      932,
+      845
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      944,
+      517,
+      957
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Security printing business recorded a $6 . 9 \\%$ increase in sales to external customers and a $1 8 . 8 \\%$ increase in segment profit. ",
+    "bbox": [
+      82,
+      93,
+      931,
+      122
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Property rental income from external customers increased from $\\mathrm { H K } \\$ 1,468,000$ for the previous year same period to $\\mathrm { H K S 2 } , 7 4 2 , 0 0 0$ . Income from leasing of industrial buildings in Hong Kong from external customers is steady. The increase was due to income from leasing of newly acquired property in London. ",
+    "bbox": [
+      84,
+      137,
+      932,
+      182
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "With reference to the joint announcement made by the Company and Yangtzekiang Garment Limited (“Yangtzekiang”) on 8 October 2014, Luk Hop Garments Limited, a wholly-owned subsidiary of the Company and the owner of various lots of land at 20 Tai Yau Street, San Po Kong, Kowloon, Hong Kong, and Yangtzekiang (Collectively, “The Companies”), had re-submitted applications to the Town Planning Board for planning permission to use the sites situated on various lots of land at 20-24 Tai Yau street, San Po Kong, Hong Kong (“Sites”) for hotel development, and the Town Planning Board had granted the approval and permission to the Companies in respect of the applications. The Companies are currently in discussion with the relevant government departments on the terms and conditions of the new government leases to permit hotel uses of the Sites, and a number of issues remain outstanding. The Government has yet to offer the basic development terms or the amount of additional premium payable, hence the directors are unable to make any estimate in this regard. No capital commitments have been made by the Group in this connection. ",
+    "bbox": [
+      82,
+      198,
+      932,
+      365
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "OUTLOOK ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      381,
+      179,
+      396
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Both our sales revenue and profits have been negatively affected by slower economies in both China and Hong Kong during this period. Retail sales in Hong Kong will be further weakened by the Occupy Movement started in end of September this year. We do not expect climate for high end China market to improve within the six months or longer. In view that we are operating in such challenging environment, we have made every effort to control costs but at the same time look for opportunities for further growth. As for our largest brand Aquascutum, we have opened a new flagship store in the Shoppes in Four Seasons in Macau. During the past year, we have opened two Aquascutum stores in prime locations in London and another new store will be opened in Knightsbridge before Christmas this year. ",
+    "bbox": [
+      82,
+      410,
+      932,
+      532
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "INTERIM DIVIDEND ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      546,
+      267,
+      561
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The Directors have resolved to pay an interim dividend of $1 0 \\mathrm { H K }$ cents (2013: 25 HK cents) per share for the six months ended 30 September 2014 to shareholders whose names appears on the register of members of the Company as at the close of business on 15 December 2014. The interim dividend will be despatched to shareholders on 29 December 2014. ",
+    "bbox": [
+      84,
+      577,
+      929,
+      636
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CLOSURE OF REGISTER OF MEMBERS ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      652,
+      435,
+      668
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The register of members of the Company will be closed from 15 December 2014 to 18 December 2014, both days inclusive, during which period no transfer of shares will be registered. In order to qualify for interim dividend, all transfer documents accompanied by the relevant share certificates must be lodged with the Company’s share registrar, Computershare Hong Kong Investor Services Limited at $1 7 ^ { \\mathrm { t h } }$ Floor, Hopewell Centre, 183 Queen’s Road East, Hong Kong for registration by no later than $4 { : } 3 0 \\ \\mathrm { p . m }$ . on Friday, 12 December 2014. ",
+    "bbox": [
+      84,
+      681,
+      931,
+      757
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "SHARE OPTION SCHEME ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      771,
+      312,
+      787
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Pursuant to a share option scheme (the “Share Option Scheme”) adopted by the Company on 23 September 2004 and a resolution pass by the shareholders of the Company in the annual general meeting held on 19 September 2006, the Company may grant options to directors and employees of the Group and other eligible participants to subscribe for shares in the Company, subject to a maximum of 15,469,879 new shares. The Share Option Scheme expired on 22 September 2014 and no further options could thereafter be offered under the Share Option Scheme. ",
+    "bbox": [
+      84,
+      802,
+      931,
+      877
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      944,
+      519,
+      957
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Other business ",
+    "bbox": [
+      84,
+      64,
+      194,
+      77
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "No option was granted to any employee of the Group and no option was exercised during the period under review. There was 30,000 (as at 31 March 2014: 30,000) options under the Share Option Scheme outstanding at the end of the reporting period which will be expired on 15 February 2015. ",
+    "bbox": [
+      82,
+      46,
+      932,
+      91
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "As at the date of this report, the Company did not have any effective share option scheme. ",
+    "bbox": [
+      84,
+      106,
+      749,
+      122
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "HUMAN RESOURCES ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      136,
+      275,
+      152
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "As at 30 September 2014, the Group had approximately 1,500 employees (31 March 2014: 1,600). The Group offers competitive remuneration packages including medical subsidies and retirement scheme contributions to its employees in compensation for their contribution. In addition, discretionary bonuses may also be granted to the eligible employees based on the Group’s and individuals’ performances. ",
+    "bbox": [
+      82,
+      166,
+      932,
+      226
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "CORPORATE GOVERNANCE PRACTICES ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      241,
+      453,
+      257
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "During the six months ended 30 September 2014, the Company has compiled with the Code on Corporate Governance Practices as set out in Appendix 14 of the Listing Rules, except that the Non-executive Directors were not appointed for a specific term but are subject to retirement by rotation and re-election at the Company’s annual general meetings in accordance with the Company’s articles of association. ",
+    "bbox": [
+      82,
+      270,
+      931,
+      332
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "DIRECTORS SECURITIES TRANSACTIONS ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      345,
+      463,
+      363
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The Company has adopted a Securities Dealing Code regarding directors’ securities transactions on terms no less exacting than required standard set out in the Model Code for Securities Transactions by Directors of Listed Issuers (“Model Code”) contained in Appendix 10 of the Listing Rules. All Directors have confirmed, upon specific enquiry by the Company, that they have complied with the required standard set out in the Model Code and its Securities Dealing Code throughout the period under review. ",
+    "bbox": [
+      82,
+      376,
+      929,
+      452
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "AUDIT COMMITTEE ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      466,
+      267,
+      482
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The Company has an audit committee which was established in compliance with Rule 3.21 of the Listing Rules for the purposes of reviewing and providing supervision over the Group’s financial reporting process and internal controls. The audit committee comprises four independent non-executive directors of the Company. ",
+    "bbox": [
+      82,
+      497,
+      929,
+      542
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The audit committee of the Company has reviewed with the management the accounting principles and practices adopted by the Group and the unaudited interim financial statements of the Group for the period ended 30 September 2014. ",
+    "bbox": [
+      82,
+      557,
+      931,
+      602
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "PURCHASE, SALE OR REDEMPTION OF SHARES ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      616,
+      517,
+      633
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Neither the Company nor any of its subsidiaries has purchased, sold or redeemed any of the Company’s listed securities during the period ended 30 September 2014. ",
+    "bbox": [
+      84,
+      647,
+      931,
+      676
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "By order of the Board YGM TRADING LIMITED Chan Wing Fui, Peter Chairman ",
+    "bbox": [
+      673,
+      707,
+      900,
+      768
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Hong Kong, 28 November 2014 ",
+    "bbox": [
+      84,
+      782,
+      324,
+      798
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "As at the date of this announcement the Board comprises eight executive Directors, namely Dr. Chan Sui Kau, Mr. Chan Wing Fui Peter, Mr. Chan Wing Sun Samuel, Madam Chan Suk Ling Shirley, Mr. Fu Sing Yam William, Mr. Chan Wing Kee, Mr. Chan Wing To and Mr. Andrew Chan, and four independent non-executive Directors, namely Mr. Leung Hok Lim, Mr. Lin Keping, Mr. Sze Cho Cheung Michael and Mr. Choi Ting Ki. ",
+    "bbox": [
+      82,
+      811,
+      931,
+      866
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      944,
+      517,
+      957
+    ],
+    "page_idx": 12
+  }
+]

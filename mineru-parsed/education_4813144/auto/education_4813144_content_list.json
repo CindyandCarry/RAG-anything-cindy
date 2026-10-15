@@ -1,0 +1,1458 @@
+[
+  {
+    "type": "text",
+    "text": "Report ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      207,
+      184,
+      233
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Expert Consultation to Review the Design of India Health Policy & Systems Research Fellowship Program $2 4 ^ { \\mathrm { t h } }$ June 2020 ",
+    "bbox": [
+      76,
+      256,
+      807,
+      332
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/630a3ff05ccf31f407b21a3cea48be2c1bef5914a1d5976d3a8621dd659301b7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      75,
+      345,
+      758,
+      652
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INSTITUTEF PUBLICHEALTH BENGALURU ",
+    "bbox": [
+      581,
+      40,
+      828,
+      97
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HSTP ",
+    "bbox": [
+      66,
+      30,
+      307,
+      98
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contact ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      371,
+      151,
+      385
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Rahul S Reddy Kadarpeta | National Coordinator, HSTP | rreddy@hstp.org.in ",
+    "bbox": [
+      93,
+      400,
+      653,
+      415
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This report titled ‘Expert Consultation to Review the Design of India Health Policy & Systems Research Fellowship Program’ has been developed by Health Systems Transformation Platform (HSTP) and the partner(s) to share the summary of proceedings of this consultation. ",
+    "bbox": [
+      93,
+      429,
+      883,
+      479
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Disclaimer ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      492,
+      173,
+      508
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Health Systems Transformation Platform is incubated in the Tata Trusts family as a not for profit organization registered in the name of Forum for Health Systems Design and Transformation, a company licensed under section 8 of the Indian Companies Act 2013. ",
+    "bbox": [
+      91,
+      522,
+      882,
+      571
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Our mission is to enable Indian health systems respond to people’s needs. We do this in collaboration with Indian & Global expertise through research for health systems design, enhancing stakeholders’ capabilities and fostering policy dialogue. ",
+    "bbox": [
+      91,
+      585,
+      883,
+      636
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "HSTP activities are funded by Sir Ratan Tata Trusts. HSTP is committed to highest standards of ethics and professional integrity in all its endeavours and declares no conflict of interest on account of its funding arrangements. The funders have no role in planning, design, development, and execution of any HSTP activities including organization of meetings/ workshops/ trainings/ research/ publications/ and any other dissemination material developed for the use of health systems stakeholders in India and elsewhere. ",
+    "bbox": [
+      91,
+      648,
+      883,
+      733
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The contents of this report should not be attributed to, and do not represent the views of the funders. All reasonable precautions have been taken by HSTP and its partners to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall HSTP and its partners be liable for damages arising from its use. ",
+    "bbox": [
+      91,
+      746,
+      883,
+      842
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Executive Summary ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      77,
+      400,
+      106
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/d222d4f1d60d58b0d0953bd7aeda0af67fbca357127a138f40d18a4ef7e8ca22.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      428,
+      23,
+      568,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Strengthening health systems requires a system thinking lens & an acknowledgement of complexity in bringing about people-centric transformational change. Approaches that integrate these are often lacking due to limited capacity in public health research institutions and the community to apply a health systems lens using state-of-the-art public health and social science research methods. Health Systems Transformation Platform (HSTP) & Institute of Public Health (IPH), Bengaluru envisage a fellowship program to improve the capacity for health policy and systems research (HPSR) in India. A team of researchers from both these organizations consulted Indian and global HPSR experts to put together a draft fellowship program, structure, and curriculum. In June 2020, thirty HPSR practitioners participated in the expert consultation to review the program and provided their expert advice. ",
+    "bbox": [
+      91,
+      200,
+      883,
+      375
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Experts reinforced the need for this fellowship in India. Discussion echoed the efforts required for nurturing this program and for it to be framed according to the Indian context and local needs. Experts believe a nonlinear approach to HPSR is beneficial. Considering multidisciplinary nature of HPSR, fellows selected should represent diverse disciplines of public health & health systems research including professionals with experience in policy interface & program implementation. Fellows should be oriented to complexities $\\&$ dynamic nature of the health systems, role of health systems stakeholders with focus on policymakers & community, public health ethics, policy analysis framework & tools. Use of Indian illustrative examples/ case studies, role play/ simulations, peer-to-peer learning were emphasised. Learnings from HPSR training courses in LMICs show that a demand driven and participatory approach through involvement of governments and other key stakeholders at state/ local level ensures sustainable development of HPSR discipline and advocate an evidence-based approach to reform. ",
+    "bbox": [
+      89,
+      396,
+      883,
+      608
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Based on inputs received from this consultation, the team will work with guidance from key HPSR experts to revise the program. An action plan for process of redesign will be developed including the use of a conceptual framework consisting of key program elements, content, and pedagogy. This analysis across multiple levels of the proposed program (curriculum, content, mentorship, online teaching, and pedagogy) will be finalised in the coming months. ",
+    "bbox": [
+      91,
+      631,
+      883,
+      727
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "HSTP and IPH will engage with stakeholders frequently and explore arrangements with governments, Indian and global public health schools to collaborate on this initiative. This spirit of collaboration and knowledge exchange is at the core of HSTP’s values. ",
+    "bbox": [
+      91,
+      747,
+      882,
+      803
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Dr Maharaj Kishan Bhan, HSTP’s pillar of strength, continues to inspire our work. We are grateful to the HSTP Board for their support & HPSR practitioners who provided expert guidance. Special thanks to the efforts of both HSTP (Rajeev Sadanandan, N Devadasan, Rahul Reddy, Vivek Panwar) and IPH Bengaluru (Upendra Bhojani, Prashanth NS, Dorothy Lall, Kranthi Vysyaraju, Sumegha Asthana, Harish H N, Pramod Kumar, Praveen Rao, Mahesh Kadammanavar and Yogin Gowda). Thanks to the rapporteurs for their succinct summary of the breakout sessions. ",
+    "bbox": [
+      89,
+      825,
+      885,
+      940
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Overview ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      79,
+      248,
+      104
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Health Policy & Systems Research (HPSR) is an emerging field that seeks to understand and improve how societies organize themselves in achieving collective health goals, and how different actors interact in the policy and implementation processes to contribute to policy outcomes. It is inter-disciplinary, a blend of economics, sociology, anthropology, political science, public health and epidemiology that together draw a comprehensive picture of how health systems respond and adapt to health policies, and how health policies can shape − and be shaped by − health systems and the broader determinants of health. There is limited capacity to use this research approach in India. Health Systems Transformation Platform (HSTP), in collaboration with Institute of Public Health (IPH), Bengaluru is working towards launching the ‘India HPSR Fellowships Program’ to meet this need. The India HPSR Fellowship program seeks to provide a high-quality blended training program for mid-career Indian researchers and develop opportunities for continuous learning, peer engagement & support transformational change in the HPSR ecosystem in India. ",
+    "bbox": [
+      89,
+      200,
+      883,
+      414
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The fellowship program and curriculum are being designed by the HSTP - IPH Bengaluru team in consultation with several HPSR experts based on their experience of health systems in India & other LMICs, at research and policy levels as well as experience in teaching research methods. ",
+    "bbox": [
+      91,
+      435,
+      883,
+      491
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "An early draft of the theory of change (ToC) articulates how the course design, content and components are expected to achieve the outcomes of the training. Mid-level career professionals (fellows) with an interest in HPSR are selected and provided training to conduct HPSR. Fellows would be able to frame relevant HPSR questions and prepare proposals to obtain a research grant and complete their research study. This blended training along with active mentoring/ coaching support throughout the course enables fellows to learn by doing. One of the key assumptions of the program involves bringing together experience of diverse disciplines, and stakeholders to create a vibrant peer-to-peer learning. The goal is to develop HPSR practitioners who continue to learn and foster dialogue with stakeholders creating the required HPSR ecosystem for healthy India. (details in next page) ",
+    "bbox": [
+      89,
+      512,
+      910,
+      688
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/a39a4b5cc3a6380c327326605f4cd69c3e80ca01706b53f43c567dfb119741e9.jpg",
+    "image_caption": [
+      "Source: Pratt et. al. (2020) Justice: a key consideration in health policy and systems research ethics. BMJ Global Health "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      99,
+      709,
+      732,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/a84c1139fa8b905ef8f36b141ce78bab1972ba6f4c03d450cdd14375493c7b47.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      426,
+      23,
+      566,
+      181
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Theory of Change ",
+    "text_level": 1,
+    "bbox": [
+      101,
+      79,
+      364,
+      108
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "STRATEGY ",
+    "text_level": 1,
+    "bbox": [
+      225,
+      224,
+      282,
+      234
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "PRE-CONDITIONS ",
+    "text_level": 1,
+    "bbox": [
+      544,
+      224,
+      640,
+      236
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "LONG TERM OUTCOMES",
+    "text_level": 1,
+    "bbox": [
+      745,
+      224,
+      880,
+      234
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Individual level ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      251,
+      179,
+      258
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Build HPSR knowledge eapacitles of researchers in foundational Improve traditional and professional HPSR eompetenties ef researchers creating opportunities for applying knowledge to practice, ",
+    "bbox": [
+      116,
+      258,
+      387,
+      291
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Organisational level ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      313,
+      200,
+      320
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Engage and support existing HPSR Institutions In India to build a long-",
+    "bbox": [
+      120,
+      321,
+      382,
+      354
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "skills and competencies to engage with policy ",
+    "bbox": [
+      495,
+      247,
+      686,
+      280
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/210de271929abd57bf1e0226e9ed9aacd84c4e044749fdf8e40182ceafebf5d6.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      704,
+      247,
+      738,
+      311
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Selected fellows adopt a shift in practice of HP5R ",
+    "bbox": [
+      495,
+      292,
+      687,
+      334
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      750,
+      246,
+      879,
+      320
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Systemlevel ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      372,
+      169,
+      380
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Strengthen health policy research & practice ecosystem in India to enable collaborative and consortium-led approaches to develop the field ",
+    "bbox": [
+      119,
+      381,
+      392,
+      414
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      495,
+      343,
+      687,
+      368
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/2ba701b7dba437ae64e4b8192fa64ed0f9d888f5aec8090fdf618f92f08c53dd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      700,
+      342,
+      738,
+      385
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Platform and mechanismsfor developing a ",
+    "bbox": [
+      495,
+      380,
+      686,
+      414
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      751,
+      345,
+      874,
+      378
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "RATIONALE ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      431,
+      218,
+      443
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Evidence on low HPSR capacities in Indian researchers as reflected in publication outcomes.   \nresearch) in building Individual HPSR capacity.   \nEvidence on lack of organisational support forresearchers as Evidence on role of networking with colleagues in other organisation and national settings in building individualHPSR capacity.   \nEvidence on gathering all stakeholders who hold pieces of relevant knowledge for successful policies. ",
+    "bbox": [
+      133,
+      446,
+      421,
+      547
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ASSUMPTIONS ",
+    "text_level": 1,
+    "bbox": [
+      464,
+      431,
+      571,
+      443
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Right mix of mid-career research fellows [from diverse disciplinary & professional backgrounds, belonging to different sector& levels ofhealth systems in India is selected. Uninterrupted delivery of blended learning plan is maintained. Collaborations with selected HPSR practitioners and institutions for supporting the selected fellows are established Effective grouping and professional bonding among fellows, supervisors and mentors is created. e. Fellows, supervisors and mentorsremain motivated and are able to devote the time required by the programme. Role and expectation from fellows, supervisors and mentors are clearly communicated and accepted by them. Inherent tensions in HPSR arising from power hierarchies between different actors in the health systems are managed. ",
+    "bbox": [
+      462,
+      445,
+      861,
+      568
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "MONITORING INDICATORS ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      585,
+      328,
+      598
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "75%ofthefellowsscoremorethan6% score inallasessmentsdesignedtotestknowledgeofHSRconcepts,methodsandtheriesduringt 50 % ofthe fellows score above 75%in all assignments duringthe onlinephasetobe eligible forseed grant.   \n80%of research protocolsdevelopedbyfellwsshowcomponentsofmultidisciplinary,collborativeandembeddedHSRresearch. s0 % ofthe selected Institutionsand practitionersacceptthe proposaltocollaborate withthefellowshipprogramme.   \nOnline platformand in person convening plans for developing a community of practice Is developed.   \n80% of the fellows startplanned HPSR practicesintheirorganisationsaftercompletion ofonline phase.   \n80% of the fellws who startedthe planned HPSR activitiesin theirorganisation continue todoso overnext 12 months   \n80% of the fellows are able to complete an originalresearch projectas per requirements ofthe programme.   \n60% of the identifiedstakeholdersbecome membersoftheplatformscreatedfordevelopingthe communityofpracticeforHPSR. ",
+    "bbox": [
+      145,
+      599,
+      758,
+      693
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "INTERVENTIONS ",
+    "text_level": 1,
+    "bbox": [
+      289,
+      717,
+      400,
+      728
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Individual ",
+    "text_level": 1,
+    "bbox": [
+      315,
+      731,
+      374,
+      742
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Organisational ",
+    "text_level": 1,
+    "bbox": [
+      419,
+      728,
+      503,
+      739
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Ecosystems ",
+    "text_level": 1,
+    "bbox": [
+      616,
+      729,
+      683,
+      739
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Indiaare developed forteaching and supervising selected fellows. Partnerships are established with existing HPSR networks and informal groupsin India for mentoring the fellows ",
+    "bbox": [
+      442,
+      747,
+      583,
+      819
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "abroad for exchange of HPSR created for convening wider HPS practitioners in India through conferences to develop a community of HPSR practice, ",
+    "bbox": [
+      596,
+      750,
+      727,
+      848
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4. programme is delivered to of e-learning, 2 weeks of face to with contact classes held in field duringprojectimplementation) for building HPSR knowledge capacities& practice competencies. Seed grant is provided for implementing an original with supervisors from host organisations, for applying selected fellows throughout the programme. ",
+    "bbox": [
+      264,
+      751,
+      431,
+      948
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      73
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      16,
+      250,
+      47,
+      415
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      936,
+      242,
+      983,
+      414
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "An expert consultation was conducted on 24 June 2020 (1.30 to 5.00 pm IST). The objective of the consultation was to review the India HPSR Fellowship program design, structure, curriculum, and pedagogy. The participants were Indian and global researchers & HPSR practitioners from leading universities and research institutions. In addition, people active in raising the profile of HPSR globally including the WHO Alliance for Health Policy and Systems Research, Health Systems Global and policymakers with experience of working with researchers and practitioners also participated. Subsequent consultations will be widened to include a greater diversity of professionals and organizations in government, academia, and civil society. A total of 61 participants attended the consultation, including experts and invited observers. The proposed program design, structure, and curriculum for the consultation was shared in advance to facilitate in-depth discussions during the consultation. ",
+    "bbox": [
+      89,
+      200,
+      910,
+      375
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The three-and-a-half-hour expert consultation was structured as below: (See the Agenda) ",
+    "bbox": [
+      91,
+      397,
+      754,
+      412
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1. After the opening remarks by representatives of HSTP and IPH Bengaluru, the context and overview of the proposed fellowship program was presented.   \n2. A panel discussion was conducted with experts instrumental in building the field of HPSR and conducted HPSR training programs in other settings. This session intended to learn from their experiences in HPSR practice, identify gaps in the proposed curriculum and seek inputs for the overall direction of the program. The session allowed for questions/ comments from the larger audience.   \n3. Four parallel theme-based sessions were organised to review proposed content: quantitative approaches in HPSR, qualitative and social science research approaches, pedagogy, and policy $\\&$ practice. Each session was a group discussion with 4-5 experts in the field, a facilitator, and a rapporteur.   \n4. In the concluding session, rapporteurs summarized the discussions in theme-based sessions. ",
+    "bbox": [
+      89,
+      435,
+      885,
+      618
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Objectives ",
+    "bbox": [
+      99,
+      79,
+      261,
+      107
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Proceedings ",
+    "text_level": 1,
+    "bbox": [
+      107,
+      80,
+      295,
+      108
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Opening remarks by Mr Rajeev Sadanandan (CEO, HSTP) & Dr Upendra Bhojani (Director, IPH Bengaluru) emphasized stakeholder consultation is key to designing the program, understanding expectations, and learning from experiences elsewhere. Collaboration and dialogue are at the core of this work and the team is exploring partnerships with governments and all relevant institutions to strengthen this program. ",
+    "bbox": [
+      93,
+      234,
+      883,
+      303
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• Overview of the fellowship was presented by Dr N Devadasan (Technical Advisor, HSTP), Dr Prashanth N Srinivas (Assistant Director, Research, IPH Bengaluru) & Dr Dorothy Lall (Assistant Director, Education, IPH Bengaluru). They introduced intent of the proposed program, its blended structure (involving online and face-to-face components along with mentoring through contact sessions), post-fellowship engagement to anchor a thriving HPSR ecosystem in India. The program is designed with a learnercentred pedagogy. Backward design was used to develop the content where learning outcomes were identified and these guided curriculum design process. ",
+    "bbox": [
+      91,
+      319,
+      883,
+      439
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The program aims to train 20 Indian mid-career researchers with relevant post-graduate qualification or comparable experience. The current expectation is that the candidates applying for the program shall have considerable experience and training in a discipline within public health research. The key drivers of the course design are given in the figure below. ",
+    "bbox": [
+      91,
+      457,
+      883,
+      523
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Focus is on a blended learning approach, beginning with online learning phase followed by face-to-face training and research grant phase with active mentoring support. The entire duration of the program is 15-18 months. An online learning platform will be used through all the three phases. Learning activities shall range from short recorded lecture videos to interactive activities for application of learned concepts. Implications of the program lie in creating a HPSR community of practice across multiple professionals, groups, and research institutions. ",
+    "bbox": [
+      91,
+      544,
+      883,
+      645
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Upon completion of training, HPSR fellows are expected to have the abilities to address complex health systems problems by framing policy-relevant and demand-driven research questions, appreciate multiple perspectives and disciplinary approaches to address the research question, synthesize and support evidence for policymaking, and assess the impact of implementation. ",
+    "bbox": [
+      93,
+      664,
+      882,
+      731
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/90cd3747859d082f83329fc560d7af6a40ef31bacdf76c71aa16d684156430aa.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      225,
+      746,
+      738,
+      933
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Panel Discussion ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      59,
+      338,
+      85
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Scope & Relevance of HPSR Fellowship Program in India ",
+    "bbox": [
+      86,
+      95,
+      447,
+      138
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Panellists: ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      202,
+      169,
+      218
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Abdul Ghaffar, Executive Director, WHO Alliance for HPSR (Switzerland), Barbara McPake, Director, Nossal Institute of Global Health (Australia), Kara Hanson, Professor of Health System Economics, London School of Hygiene & Tropical Medicine (UK) Keshav Desiraju, Former Secretary of Health, GoI (India), • Wim Van Damme, Professor, Institute of Tropical Medicine (Belgium) ",
+    "bbox": [
+      91,
+      222,
+      890,
+      315
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Respondents: ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      327,
+      196,
+      342
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "• Lucy Gilson, Head, Health Policy & Systems Research, University of Cape Town (South Africa) • John Porter, Professor, International Health, London School of Hygiene & Tropical Medicine (UK) ",
+    "bbox": [
+      93,
+      347,
+      828,
+      382
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Moderator: Prashanth N Srinivas, Assistant Director (Research), IPH Bengaluru (India) ",
+    "bbox": [
+      89,
+      393,
+      717,
+      410
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Experts appreciated the initiative being developed & emphasised that for larger impact, training should be contextualised to deepen the understanding of health systems and policy space in India. ‘Policy’ in Health Policy & Systems Research requires focus through training on policy analysis tools, mentorship by policymakers $\\&$ implementers creating opportunities for interacting with policy interface. Impact of research on policy or community was highlighted as a superior output than mere research publications. ",
+    "bbox": [
+      93,
+      422,
+      885,
+      513
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Attributes of fellows to be trained were highlighted. A multidisciplinary pool of fellows could maximize peer learning and appreciate the fundamental nature of HPSR during their fellowship journey. Candidates working as clinicians, public health professionals in the policy interface or program implementation could add value. ",
+    "bbox": [
+      93,
+      526,
+      883,
+      598
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Curriculum should reflect the Indian health systems and policy context with case studies and relevant examples in Indian settings, while borrowing lessons learned elsewhere. A conscious effort should be made for a person-centric design, creating opportunity and space for peer learning and HPSR community building among fellows, experts, and mentors. ",
+    "bbox": [
+      93,
+      613,
+      883,
+      684
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To provide an in-depth experience, it was suggested to include specific HPSR methods customized to fellows’ needs. Experts commended the exploratory and explanatory lenses of research included in the curriculum and suggested expanding the evaluative lens further, in line with strengthening critical review and evaluation of health policies. An understanding of impact evaluation, challenges of attribution, contribution and relationships between policy and outcomes can orient the researcher in appreciating demand-driven & participatory research. ",
+    "bbox": [
+      91,
+      700,
+      883,
+      809
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Innovative teaching methods are required in HPSR training to address the challenge of unlearning traditional linear thought process and adapting systems thinking and complexity. ",
+    "bbox": [
+      94,
+      823,
+      883,
+      858
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "• Collaboration with governments & various research/ academic institutions was suggested as a strategy for sustained institutional capacity building. ",
+    "bbox": [
+      91,
+      877,
+      885,
+      912
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      903,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Break-out Sessions ",
+    "text_level": 1,
+    "bbox": [
+      101,
+      74,
+      385,
+      102
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/ccdaf461229ebdc31c00d06bf27fc9f8b484cb3b2f1a12d5b0cd50af1fef05e9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      426,
+      23,
+      566,
+      183
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Summary of Discussions ",
+    "bbox": [
+      99,
+      106,
+      328,
+      125
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Four parallel sessions with 4-5 experts each were organized for a detailed program review. Sessions were chaired by Indrani Gupta (quantitative approaches), Sundari Ravindran (qualitative and social Science approaches), Govert Van Heusden (pedagogy) and Rajeev Sadanandan (policy and practice). A summary of discussions is presented here: ",
+    "bbox": [
+      89,
+      200,
+      883,
+      277
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Course design, structure, and outputs: Experts highlighted the underlying values of any HPSR training (ethics, equity, dignity, trust, respect, acknowledgement of tacit knowledge, experiential learning) and reinforced the need to incorporate them into the fellowship program framework. Focus on policy and community engagement components was emphasised. The program should integrate a non-linear approach to framing a research question in the online phase to methodologies, proposal writing in the face to face phase and then into policy impact and community engagement during the mentorship and contact sessions. Including systems thinking, public health ethics and policy into the framework of the program was deemed essential. Though peer-reviewed publications are necessary, diversification of the course outputs is required. ",
+    "bbox": [
+      91,
+      305,
+      883,
+      468
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Course duration: It was suggested to re-consider the duration of the fellowship to be able to strike an appropriate balance between fellows’ professional engagements and time spent on fellowship activities. The breadth of methods proposed to be taught may require more time than is currently planned, therefore, a specializations track could be considered that would make the timeline more realistic. ",
+    "bbox": [
+      93,
+      478,
+      883,
+      551
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Participant selection: One of the key recommendations in this theme was to aim for a diverse participant pool to integrate peer-learning capabilities into the program. A mix of disciplines along with few candidates from non-research experience relevant to strengthening health systems could be considered. Such a pool would enable rich peer learning. Also, considering the time and effort, it was recommended that the HPSR research taken up by fellows should be along the line of their work to sustain motivation and interest throughout the program. ",
+    "bbox": [
+      91,
+      563,
+      883,
+      672
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Mentorship & Contact Sessions: Experts suggested mentorship is key to the program and should be wellstructured and detailed out. Engaging mentors early in the program guides fellows to imbibe concepts better. Mentorship plays a key role in developing an understanding of the problem, its historical context, and the complexity. Mentors should be from diverse backgrounds, including civil society organisations or activists who bring in these perspectives. ",
+    "bbox": [
+      91,
+      681,
+      883,
+      771
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Content: Specific suggestions were made to include secondary data analysis, applied epidemiology, qualitative methods, reflexivity, evidence synthesis, narrative synthesis, or new ways of framing evidence that is better adapted to the local policy/implementation context and ability to put forth an argument effectively. Focus on interdisciplinarity and the ability of fellows to understand the limits of their primary research discipline and openness to other methods was emphasised. ",
+    "bbox": [
+      91,
+      781,
+      883,
+      872
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Break-out Sessions ",
+    "text_level": 1,
+    "bbox": [
+      101,
+      74,
+      385,
+      102
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_4813144/auto/images/6704596f40f8e878ead5b471bbe38ef07ba4b01cffdf474a80063fe7a8b87978.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      426,
+      23,
+      566,
+      183
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Summary of Discussions ",
+    "bbox": [
+      99,
+      107,
+      328,
+      125
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Pedagogy: Specific learning/teaching methods such as peer-to-peer engagement and group learning are essential to emphasise policy engagement and identify appropriate theoretical frameworks. Learning approaches such as role-plays, case studies, simulations, debates, and discussions right from the online phase through the research grant phase help to reflexively analyse positionality of the evidence generated and understand its relevance to diverse stakeholders. It is helpful if policy makers, health professionals, frontline workers and other stakeholders are brought into the course to co-teach or interact with the fellows. ",
+    "bbox": [
+      91,
+      202,
+      883,
+      329
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "HPSR Core Competencies: Competencies important in HPSR such as reflexivity, complexity, systems thinking, participatory research approaches and the ability to engage with alternative viewpoints on the topic of research were highlighted. In line with achieving these, content and learning activities related to epistemology and self-reflection needs to be developed. Stakeholder analysis, power of coalitions, policy influencers and ability to analyse complex and evolving relationships help in understanding the policy interface. There is a need to create a strong foundation of ethics & values underlying HPSR to shape the research question and approaches. ",
+    "bbox": [
+      91,
+      349,
+      883,
+      477
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Institutions and partnerships: It is necessary to create institutional networks and partnerships to support the fellowship and co-create content specific to the Indian context. Also, this creates opportunities for fellows to be engaged in Health Policy $\\&$ Systems Research in collaboration with health systems stakeholders. ",
+    "bbox": [
+      91,
+      497,
+      882,
+      568
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      901,
+      59,
+      918,
+      74
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Next Steps ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      77,
+      264,
+      104
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In the closing remarks, Dr Rahul Reddy, National Co-ordinator, HSTP, expressed that this expert consultation is a great beginning for all the HPSR stakeholders to connect. HSTP and IPH Bengaluru will herein engage with stakeholders frequently and explore arrangements with governments, Indian and global public health schools to collaborate on this initiative. This spirit of collaboration and knowledge exchange is at core of HSTP’s values. Dr Maharaj Kishan Bhan who has been a pillar of strength for HSTP and continuous be an inspiration. He believed that enhancing capacities of stakeholder’s is key to transforming Indian health systems. Only then would home grown solutions to local challenges yield sustainable results. HSTP is developing capacity building initiatives to suit each of the stakeholder groups. This fellowship is for researchers, one of the key stakeholders who are to be nurtured, trained in recognizing windows of opportunity, and provided a platform to advocate for change. ",
+    "bbox": [
+      89,
+      200,
+      885,
+      395
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "• The plan is to launch the course within this year. Health policy and systems research training program requires rigour in content development, careful planning, and passionate implementation.   \n• Inputs received from this expert consultation will be used to revise the program design structure and curriculum, and an action plan document will be developed.   \n• A second expert consultation is planned to be held in August 2020 with a group of 6-8 HPSR practitioners to further fine-tune the structure and design of the program and its curriculum.   \n• The final design document will be prepared based on the recommendations of this group, which will further undergo another round of independent review for content and pedagogy. ",
+    "bbox": [
+      91,
+      416,
+      885,
+      564
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      903,
+      59,
+      929,
+      74
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Agenda ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      65,
+      217,
+      92
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Video Conferencing Platform 24 June 2020, 1:30 PM - 4:45 PM (IST) ",
+    "bbox": [
+      98,
+      95,
+      455,
+      136
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_4813144/auto/images/c9cc2a95fcace2b27d4dbb147ff63c0cc22336ee291987a3bc2c25fcf82b13bd.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>1:30 -1:40</td><td rowspan=1 colspan=1>Welcome AddressRajeev Sadanandan, CEO, HSTP：  Upendra Bhojani, Director, IPH Bengaluru</td></tr><tr><td rowspan=1 colspan=1>1:40 -2:10</td><td rowspan=1 colspan=1>Overview of the FellowshipN Devadasan, Technical Advisor, HSTP Dorothy Lall, Assistant Director, Education, IPH Bengaluru Prashanth NS,Assistant Director, Research, IPH Bengaluru</td></tr><tr><td rowspan=1 colspan=1>2:10 -2:55</td><td rowspan=1 colspan=1> HPSR Fellowships Program in India: A panel discussionPanellists: Abdul Ghaffar, Executive Director of WHO Alliance for HPSR (Switzerland), Barbara McPake, Director at Nossal Institute of Global Health (Australia), Kara Hanson, Health System Economics, LSHTM (UK) Keshav Desiraju, Former Secretary of Health - MoHFW,Gol (India) Wim Van Damme, Professor,Institute of Tropical Medicine Antwerp (Belgium)Respondents:Lucy Gilson, Head, HPSR, University of Cape Town (South Africa) John Porter, Professor, International Health, LSHTM (UK)Moderator: Prashanth N Srinivas, Assistant Director,Research, IPH Bengaluru</td></tr><tr><td rowspan=1 colspan=1>2:55-3:00</td><td rowspan=1 colspan=1>Break</td></tr><tr><td rowspan=1 colspan=1>3:00-3:45</td><td rowspan=1 colspan=1>Thematic Breakout sessions</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Quantitative ApproachesIndrani Gupta, Health Policy &amp; Research Unit, Institute of Economic Growth (Chair) Shanker Prinja, Additional Professor, PGIMER, Chandigarh Giridhar Babu, Professor &amp; Head, Life course Epidemiology, PHFlShaktivel Selvaraj, Director,Health Economics, Financing&amp; Policy, PHFlKrishna Rao, Associate Professor, Johns Hopkins Bloomberg School of Public HealthDorothy Lall, Assistant Director, Education, IPH Bengaluru (Facilitator)Vijayashree Yellappa, Senior Specialist, HSTP (Rapporteur)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Qualitative &amp; Social Sciences Research ApproachesSundari Ravindran, Shree Chitra Tirunal Institute of Medical Science &amp; Technology (Chair)Asha George, Professor Health Systems, University of Western Cape Bruno Marchal, Associate Professor &amp; Head, Health Systems, ITM AntwerpSara Van Belle, Associate Professor, ITM Antwerp Prashanth NS, Assistant Director, Research, IPH Bengaluru (Facilitator) Sukanya Mohanty, Consultant, IPH Bengaluru (Rapporteur)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>PedagogyGovert Van Heusden, Academic Coordinator, ITM Antwerp (Chair)Carlos Kiyan, e-Learning Coordinator, ITM AntwerpMarjan Pirard, MPH Course Coordinator, ITM AntwerpDiljith Kannan, Manager EdTech, IIM BengaluruKranthi Vysyaraju, Program Coordinator IPH Bengaluru (Facilitator)</td></tr></table>",
+    "bbox": [
+      55,
+      180,
+      942,
+      959
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      903,
+      59,
+      928,
+      75
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Agenda ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      65,
+      217,
+      92
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Video Conferencing Platform 24 June 2020, 1:30 PM - 4:45 PM (IST) ",
+    "bbox": [
+      98,
+      95,
+      454,
+      136
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_4813144/auto/images/ca448ebd77f5d1871294e381cbd1bade8768e60d6f5144af26b449a5b291558c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Garima Pathak, Senior Specialist, HSTP (Rapporteur) ： Policy &amp; Practice</td></tr><tr><td></td><td>Rajeev Sadanandan, CEO, HSTP (Chair) Rajani R Ved, Executive Director, National Health Systems Resource Centre Upendra Bhojani, Director, IPH Bengaluru Rakhal Gaitonde, Professor, Shree Chitra Tirunal Institute of Medical Science &amp; Technology</td></tr><tr><td></td><td>Devaki Nambiar, Head - Health Systems &amp; Equity,The George Institute for Global Health N Devadasan, Technical Advisor, HSTP (Facilitator) Pragati Hebbar,PhD Scholar, IPH Bengaluru (Rapporteur)</td></tr><tr><td>3:45-3:50 3:50-4:35</td><td>Break</td></tr><tr><td>4:35-4:45</td><td>Closing Plenary: Summary of Breakout Sessions by Rapporteurs</td></tr><tr><td></td><td>Closing Remarks Rahul Reddy, National Coordinator, HSTP</td></tr></table>",
+    "bbox": [
+      53,
+      200,
+      939,
+      438
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      903,
+      59,
+      929,
+      74
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_4813144/auto/images/2bac554f90ef100f21cef2b29516c46a9e591afaad1af610910264b0b0b79330.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Name</td><td colspan=\"1\" rowspan=\"1\">Designation</td><td colspan=\"1\" rowspan=\"1\">Organization/Affiliation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Abdul Ghaffar</td><td colspan=\"1\" rowspan=\"1\">Executive Director</td><td colspan=\"1\" rowspan=\"1\">Alliance for Health Policy and Systems Research,WHO</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Amiti Varma</td><td colspan=\"1\" rowspan=\"1\">Research Associate</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Anuska Kalita</td><td colspan=\"1\" rowspan=\"1\">Research Scientist</td><td colspan=\"1\" rowspan=\"1\">Harvard School of Public Health</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Arun Nair</td><td colspan=\"1\" rowspan=\"1\">Sr Technical Consultant</td><td colspan=\"1\" rowspan=\"1\">ACCESS Health International</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Asha George</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">School of Public Health, University of Western Cape</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Barbara McPake</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">Nossal Institute for Global Health, University of Melbourne</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Bruno Marchal</td><td colspan=\"1\" rowspan=\"1\">Associate Professor</td><td colspan=\"1\" rowspan=\"1\">Institute of Tropical Medicine, Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Carlos Kiyan T</td><td colspan=\"1\" rowspan=\"1\">E-learning Coordinator</td><td colspan=\"1\" rowspan=\"1\">Institute of Tropical Medicine,Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Chandra Shekar K</td><td colspan=\"1\" rowspan=\"1\">Team lead</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Devaki Nambiar</td><td colspan=\"1\" rowspan=\"1\">Program Head</td><td colspan=\"1\" rowspan=\"1\">George Institute for Global Health</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Diljith Kannan</td><td colspan=\"1\" rowspan=\"1\">Manager EdTech</td><td colspan=\"1\" rowspan=\"1\">Indian Institute of Management, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Dorothy Lall</td><td colspan=\"1\" rowspan=\"1\">Faculty</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Faustin Chenge</td><td colspan=\"1\" rowspan=\"1\">Lecturer</td><td colspan=\"1\" rowspan=\"1\">School of Public Health, University of Lubumbashi</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Garima Pathak</td><td colspan=\"1\" rowspan=\"1\">Senior Specialist</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Giridhar Babu</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\"> Public Health Foundation of India</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Govert van Heusden</td><td colspan=\"1\" rowspan=\"1\">Academic Coordinator</td><td colspan=\"1\" rowspan=\"1\">Institute of Tropical Medicine,Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Haifa Thaha</td><td colspan=\"1\" rowspan=\"1\">Consultant</td><td colspan=\"1\" rowspan=\"1\">National Health Systems Resource Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Harsha Joshi</td><td colspan=\"1\" rowspan=\"1\">Consultant</td><td colspan=\"1\" rowspan=\"1\">National Health Systems Resource Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Indrani Gupta</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">Institute of Economic Growth</td></tr><tr><td colspan=\"1\" rowspan=\"1\">John Porter</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">London School of Hygiene and Tropical Medicine</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Kara Hanson</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">London School of Hygiene and Tropical Medicine</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Keshav Desiraju</td><td colspan=\"1\" rowspan=\"1\">Former Secretary</td><td colspan=\"1\" rowspan=\"1\">Ministry of Health&amp; Family Welfare,Government of India</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Kheya Furtado</td><td colspan=\"1\" rowspan=\"1\">Assistant Professor</td><td colspan=\"1\" rowspan=\"1\">Goa Institute of Management</td></tr><tr><td colspan=\"1\" rowspan=\"1\">KranthiV</td><td colspan=\"1\" rowspan=\"1\">Program Coordinator</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health,Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Krishna Rao</td><td colspan=\"1\" rowspan=\"1\">Associate Professor</td><td colspan=\"1\" rowspan=\"1\">Johns Hopkins University</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Krishna Reddy</td><td colspan=\"1\" rowspan=\"1\">Country Director</td><td colspan=\"1\" rowspan=\"1\">ACCESS Health International</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Latha Chigod</td><td colspan=\"1\" rowspan=\"1\">Research Associate</td><td colspan=\"1\" rowspan=\"1\"> Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Lucy Gilson</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\">University of Cape Town</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Mahesh K</td><td colspan=\"1\" rowspan=\"1\">Research Officer</td><td colspan=\"1\" rowspan=\"1\"> Institute of Public Health,Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Marjan Pirard</td><td colspan=\"1\" rowspan=\"1\">Education Coordinator</td><td colspan=\"1\" rowspan=\"1\">Institute of Tropical Medicine, Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Meena Putturaj</td><td colspan=\"1\" rowspan=\"1\">PhD Student</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">N Devadasan</td><td colspan=\"1\" rowspan=\"1\">Technical Adviser</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Neha Dumka</td><td colspan=\"1\" rowspan=\"1\">Senior consultant</td><td colspan=\"1\" rowspan=\"1\">National Health Systems Resource Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Omkar Palsule-Desai</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\"> Indian Institute of Management, Indore</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pallavi Gupta</td><td colspan=\"1\" rowspan=\"1\">Specialist</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pragati Hebbar</td><td colspan=\"1\" rowspan=\"1\">PHD Scholar</td><td colspan=\"1\" rowspan=\"1\"> Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pramod Kumar</td><td colspan=\"1\" rowspan=\"1\">Training Coordinator</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Prashanth NS</td><td colspan=\"1\" rowspan=\"1\">Faculty</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Praveen</td><td colspan=\"1\" rowspan=\"1\">Communication Consultant</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health,Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rahul Reddy</td><td colspan=\"1\" rowspan=\"1\">National Coordinator</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rajani Ved</td><td colspan=\"1\" rowspan=\"1\">Executive Director</td><td colspan=\"1\" rowspan=\"1\">National Health Systems Resource Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rajeev Sadanandan</td><td colspan=\"1\" rowspan=\"1\">Chief Executive Officer</td><td colspan=\"1\" rowspan=\"1\">Health Systems Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sakthivel Selvaraj</td><td colspan=\"1\" rowspan=\"1\">Director and Professor</td><td colspan=\"1\" rowspan=\"1\">Public Health Foundation of India</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sanjeev Kumar</td><td colspan=\"1\" rowspan=\"1\">Research Specialist</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sara Van Belle</td><td colspan=\"1\" rowspan=\"1\">Associate Professor</td><td colspan=\"1\" rowspan=\"1\">Institute of Tropical Medicine, Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Shankar Prinja</td><td colspan=\"1\" rowspan=\"1\">Additional Professor</td><td colspan=\"1\" rowspan=\"1\">PGIMER, Chandigarh</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sridhar Guduthur</td><td colspan=\"1\" rowspan=\"1\">Chief Financial Officer</td><td colspan=\"1\" rowspan=\"1\"> Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Srinivas Nallala</td><td colspan=\"1\" rowspan=\"1\">Associate Professor</td><td colspan=\"1\" rowspan=\"1\">Public Health Foundation of India</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sudha Chandrashekar</td><td colspan=\"1\" rowspan=\"1\">Consultant</td><td colspan=\"1\" rowspan=\"1\"> Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Sukanya Mohanty</td><td colspan=\"1\" rowspan=\"1\">Consultant</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sumegha Asthana</td><td colspan=\"1\" rowspan=\"1\">Chapter Lead</td><td colspan=\"1\" rowspan=\"1\">Women in Global Health</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sundari Ravindran</td><td colspan=\"1\" rowspan=\"1\">Principal Visiting Fellow</td><td colspan=\"1\" rowspan=\"1\">UN University - International Institute for Global Health</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Tushar Mokashi</td><td colspan=\"1\" rowspan=\"1\">Sr Technical Specialist</td><td colspan=\"1\" rowspan=\"1\">ACCESS Health International</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Upasona Ghosh</td><td colspan=\"1\" rowspan=\"1\">Senior Lecturer</td><td colspan=\"1\" rowspan=\"1\">Indian Institute of Public Health, Bhubaneshwar</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Upendra Bhojani</td><td colspan=\"1\" rowspan=\"1\">Director</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Vaibhav Agavane</td><td colspan=\"1\" rowspan=\"1\">Consultant</td><td colspan=\"1\" rowspan=\"1\"> Institute of Public Health, Bengaluru</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Vijayashree Yellappa</td><td colspan=\"1\" rowspan=\"1\">Sr Specialist</td><td colspan=\"1\" rowspan=\"1\">Health System Transformation Platform</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Vineet Prakash</td><td colspan=\"1\" rowspan=\"1\"> Risk Mitigation Specialist</td><td colspan=\"1\" rowspan=\"1\">ACCESS Health International</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Wim Van Damme</td><td colspan=\"1\" rowspan=\"1\">Professor</td><td colspan=\"1\" rowspan=\"1\"> Institute of Tropical Medicine, Antwerp</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Yogin VA</td><td colspan=\"1\" rowspan=\"1\">IT Officer</td><td colspan=\"1\" rowspan=\"1\">Institute of Public Health,Bengaluru</td></tr></table>",
+    "bbox": [
+      39,
+      194,
+      942,
+      959
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      903,
+      59,
+      929,
+      74
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Participants ",
+    "bbox": [
+      101,
+      77,
+      282,
+      104
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      40,
+      200,
+      942,
+      537
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "HSTP Health Systems Transformation Platform ",
+    "bbox": [
+      112,
+      833,
+      352,
+      901
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "INSTITUTEOF iph PUBLIC HEALTH ",
+    "bbox": [
+      627,
+      842,
+      877,
+      901
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "14 ",
+    "bbox": [
+      903,
+      59,
+      929,
+      74
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Participants ",
+    "bbox": [
+      101,
+      77,
+      282,
+      104
+    ],
+    "page_idx": 14
+  }
+]

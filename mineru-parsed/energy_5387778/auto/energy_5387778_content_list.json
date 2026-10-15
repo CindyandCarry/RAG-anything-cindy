@@ -1,0 +1,2051 @@
+[
+  {
+    "type": "text",
+    "text": "Co-production of pure hydrogen, carbon dioxide and nitrogen in a 10 kW fixed-bed chemical looping system ",
+    "text_level": 1,
+    "bbox": [
+      290,
+      169,
+      929,
+      238
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sebastian Bock, $\\textcircled{1}$ \\* Robert Zacharias $\\textcircled{1}$ and Viktor Hacker $\\textcircled{1}$ ",
+    "bbox": [
+      289,
+      249,
+      756,
+      267
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The transition of our current carbon-based economy towards a sustainable energy system poses major challenges for all stakeholders. Harmful carbon dioxide emissions have to be substantially decreased and even negative emissions are mandatory to avoid a global mean temperature rise above ${ 2 } ^ { \\circ } { \\mathsf { C } }$ unless stringent regulatory measures are taken within the next decade. Chemical looping is a promising method to sequestrate pure carbon dioxide from fossil and renewable energy resources within the framework of carbon capture and storage (CCS) or utilization (CCU) technologies. The presented study demonstrates the generation of high-purity hydrogen exceeding $9 9 . 9 9 7 \\%$ as a zero-emission energy carrier with the inherent co-generation of pure carbon dioxide $( 9 9 \\% )$ and nitrogen $( 9 8 . 5 \\% )$ in the largest fixed-bed chemical looping research system worldwide. The feedstock utilization of up to $60 \\%$ in the context of pure hydrogen generation is highly competitive compared to other systems for decentralized hydrogen generation with the benefit of inherent carbon dioxide sequestration. The use of renewable primary energy sources as biogas qualifies the process as a negative emission technology (NET) if carbon dioxide is appropriately utilized. ",
+    "bbox": [
+      289,
+      281,
+      931,
+      477
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      504,
+      205,
+      523
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The mitigation of human-caused global warming is one of the great challenges in the $2 1 ^ { \\mathrm { s t } }$ century. Signicant progress in all energy-related areas must be achieved within the next few decades including advances in energy efficiency, sustainable energy technologies and sustainable lifestyle. In a sustainable energy system, hydrogen will become important as a secondary energy carrier both in storage and distribution. Nevertheless, hydrogen as a secondary energy carrier can only contribute to sustainability if there is emission-free production. At present, more than $9 5 \\%$ of the hydrogen produced comes from fossil energy sources.1 In addition to electrolysis as a well-known technology for regenerative hydrogen production from solar, wind and hydropower, the conversion of biogenic residues for biogas production can contribute to a future energy system. The output power of such decentralized biogas plants ranges from a few hundred kilowatts to several megawatts.2 ",
+    "bbox": [
+      70,
+      535,
+      490,
+      779
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The biogas produced is a potential energy carrier for future hydrogen production. For the conversion of biogas into hydrogen, various technology options are currently proposed and demonstrated, such as dry reforming, autothermal reforming or membrane reforming.3–6 In addition to the importance of allocating renewable energy sources, carbon capture and storage (CCS) technologies and so-called negative emission technologies, which bind atmospheric carbon dioxide, are also seen as important pillars to limit the global temperature rise. ",
+    "bbox": [
+      70,
+      781,
+      489,
+      887
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      503,
+      927,
+      548
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "According to the COP21 commitment and targets of the international panel on climate change (IPCC), carbon capture and storage (CCS) and carbon capture and utilization (CCU) technologies are expected to play an important role in alleviating harmful greenhouse gas emissions and to limit the mean global temperature rise to $2 ~ ^ { \\circ } \\mathbf C$ . IPCC models associated with more than an even chance of accomplishing the $2 ~ ^ { \\circ } \\mathbf { C }$ target are characterized by a cumulative carbon dioxide storage capacity of $8 0 0 { - } 3 0 0 0 \\ \\mathrm { G t _ { C O _ { 2 } } }$ by the end of the century.7 A highly recommended review of CCS was presented by Bui et al.7 Several authors contributed to the comprehensive review on potential technologies and critically discussed the role carbon capture and storage technologies can play within a future sustainable energy system. They conclude that most integrated assessment models for global warming cannot nd a solution to limit the global temperature rise to below $2 ~ { } ^ { \\circ } \\mathbf { C }$ without the integration of carbon capture and storage technologies. Several postcombustion technologies are already in demonstration for carbon dioxide sequestration such as liquid-phase absorption, adsorption or calcium looping. Chemical looping is a promising next-generation carbon capture technology for power and heat generation with inherent carbon dioxide sequestration for fossil feedstocks and even a negative emission technology (NET), if energy is supplied from renewable energy sources.8,9 ",
+    "bbox": [
+      509,
+      550,
+      929,
+      916
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ROYAL SOCIETY OF CHEMISTRY ",
+    "bbox": [
+      687,
+      29,
+      929,
+      83
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Graz University of Technology, Institute of Chemical Engineering and Environmental Technology, Inffeldgasse 25/C, 8010 Graz, Austria. E-mail: sebastian.bock@tugraz.at ",
+    "bbox": [
+      68,
+      910,
+      490,
+      933
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "PAPER View Article Online ",
+    "bbox": [
+      72,
+      106,
+      927,
+      156
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Sustainable ",
+    "bbox": [
+      70,
+      39,
+      307,
+      94
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cite this: , Sust2020, 4, 1417 ",
+    "bbox": [
+      68,
+      210,
+      250,
+      232
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": ", 2020, , 1417–1426 | ",
+    "bbox": [
+      625,
+      964,
+      927,
+      974
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      70,
+      964,
+      391,
+      975
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      188,
+      43,
+      627
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Check for updates ",
+    "bbox": [
+      70,
+      173,
+      231,
+      197
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Received 22nd October 2019 Accepted 27th December 2019 ",
+    "bbox": [
+      70,
+      413,
+      243,
+      436
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "rsc.li/sustainable-energy ",
+    "bbox": [
+      70,
+      467,
+      200,
+      477
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "DOI: 10.1039/c9se00980a ",
+    "bbox": [
+      70,
+      445,
+      218,
+      456
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Chemical looping is based on the ability of several metal oxides to oxidize gaseous or solid fuels by reducing the lattice oxygen itself. The regeneration of the oxygen carrier is commonly performed with ambient air to restore the initial oxidation state. This process extracts the heat of combustion from the fuel, while separately oxidizing the fuel and consuming oxygen from ambient air to sequestrate a pure, undiluted carbon dioxide stream as product gas. ",
+    "bbox": [
+      70,
+      60,
+      490,
+      182
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Chemical looping with iron-based oxygen carriers, oen referred to as chemical looping hydrogen (CLH), chemical looping with water–gas shi reaction (CLWGS) or the steam– iron process (SIP) is a promising method to generate high-purity hydrogen. In this process, air as an oxidizing medium is substituted with steam, and hence hydrogen is generated by the reoxidation of the metal oxide. Several layouts of chemical looping systems with a focus on hydrogen production are suggested in uidized, moving and xed-bed operation.10,11 The advantage of the xed-bed scheme compared to moving or uidized beds lies in the simple and compact process layout, which is especially benecial for small-scale applications. Hacker et al. included a steam reformer and a xed-bed chemical looping section within a single reactor, which enables concurrent hydrogen production and purication12,13 with an efficiency of up to $7 3 \\%$ according to thermodynamic studies.14 Based on this scheme, a $1 0 \\ \\mathrm { k W }$ lab system was presented by our research group for the conversion of methane and synthetic biogas with a capacity of up to $2 0 \\mathrm { k g }$ oxygen carrier in combination with an upstream steam reformer for syngas generation15,16 (see Fig. 1). ",
+    "bbox": [
+      68,
+      184,
+      490,
+      504
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the rst process step, the reduction phase, a carbonaceous feed is converted into a synthesis gas by a steam- and dryreforming reaction (eqn (1)–(3)) in the reformer section. According to previous studies, an oxidative to reductive species ratio $( \\mathbf { O } / \\mathbf { R }$ ratio) was dened analogous to the $\\mathbf { S } / \\mathbf { C }$ ratio for steam reforming as the proportion of oxidative compounds $\\mathrm { \\bf ~ H } _ { 2 } \\mathrm { \\bf O }$ and $\\mathbf { C O } _ { 2 }$ ) to reductive compounds $\\mathrm { ( C H _ { 4 } ) }$ in the reforming reaction (eqn (4)). ",
+    "bbox": [
+      68,
+      505,
+      489,
+      566
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      60,
+      927,
+      121
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/e4c2f4d77368c4d2bfaef76648e5735b416fe44da92b1d1474d5a1764103129a.jpg",
+    "text": "$$\n\\mathrm { C H _ { 4 } } + \\mathrm { C O _ { 2 } } \\to 2 \\mathrm { C O } + 2 \\mathrm { H _ { 2 } } , \\Delta H _ { \\mathrm { R , 1 0 7 3 \\mathrm { ~ K } } } = 2 5 9 . 3 \\mathrm { ~ k J ~ m o l ^ { - 1 } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      519,
+      132,
+      900,
+      150
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/63686c9751dac2fde1cc04ddc137b8126bd6e1a81a87ed5f358d3bc2e8516fe4.jpg",
+    "text": "$$\n\\mathrm { C H _ { 4 } } + \\mathrm { H _ { 2 } O }  \\mathrm { C O } + 3 \\mathrm { H _ { 2 } } , \\Delta H _ { \\mathrm { R , 1 0 7 3 ~ K } } = 2 2 5 . 2 \\mathrm { \\ k J \\ m o l ^ { - 1 } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      522,
+      161,
+      897,
+      179
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/8225adabd9ea5af2611bf859623aea93ffaa6b47073d46c667d8a534861142a5.jpg",
+    "text": "$$\n\\mathrm { C O } + \\mathrm { H } _ { 2 } \\mathrm { O }  \\mathrm { C O } _ { 2 } + \\mathrm { H } _ { 2 } , \\Delta H _ { \\mathrm { R } , 1 0 7 3 ~ \\mathrm { K } } = - 3 4 . 1 ~ \\mathrm { k J } \\mathrm { m o l } ^ { - 1 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      522,
+      188,
+      895,
+      206
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/b30e61d4269a38f2fb4ca4140e94b09603f5ed8c53d64bc772300ef07a4c36d1.jpg",
+    "text": "$$\n\\mathrm { O / R \\ r a t i o = \\frac { [ H _ { 2 } O ] + [ C O _ { 2 } ] } { [ C H _ { 4 } ] } \\ [ \\ [ m o l \\ m o l ^ { - 1 } ] }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      576,
+      210,
+      857,
+      242
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/9bb295ac3df2b82ce6883dbba6cecefae2b726d8e3815183b81069be04265838.jpg",
+    "text": "$$\n\\begin{array} { r l } & { 3 \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 } + \\mathrm { H } _ { 2 } / \\mathrm { C O }  2 \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 } + \\mathrm { H } _ { 2 } \\mathrm { O } / \\mathrm { C O } _ { 2 } , } \\\\ & { ~ \\Delta H _ { \\mathrm { R , 1 0 7 3 ~ K } } = - 6 . 7 / - 4 0 . 9 ~ \\mathrm { k J ~ m o l } ^ { - 1 } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      517,
+      263,
+      873,
+      296
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/ce1aadc7d95d6993787c0acbc14fe8d0c13cd285693bcfee9e372a733ac97536.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathrm { F e _ { 3 } O _ { 4 } + H _ { 2 } / C O  3 F e O + H _ { 2 } O / C O _ { 2 } , } \\phantom { x x x x x x x x x x x x x x x x x x x x x x x x x x x x x } } \\\\ { \\Delta H _ { \\mathrm { R , 1 0 7 3 ~ K } } = 4 6 . 7 / 1 2 . 6 \\mathrm { ~ k J ~ m o l ^ { - 1 } ~ } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      534,
+      305,
+      860,
+      338
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/e4c7db7f4e4108ca44b671612b2395d15eb726e9178d3d52dee3d7402e3ed136.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathrm { F e O } + \\mathrm { H } _ { 2 } / \\mathrm { C O }  \\mathrm { F e } + \\mathrm { H } _ { 2 } \\mathrm { O } / \\mathrm { C O } _ { 2 } , \\phantom { Z Z Z Z } } \\\\ { \\Delta H _ { \\mathrm { R } , 1 0 7 3 \\mathrm { ~ K } } = 1 7 . 2 / - 1 6 . 8 \\mathrm { ~ k J ~ m o l } ^ { - 1 } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      531,
+      349,
+      870,
+      382
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/2cca0767421fe8976c0c25e7973f55c61d53fb82409c2da5c141b7a6ed76b71f.jpg",
+    "text": "$$\n4 \\mathrm { F e _ { 3 } O _ { 4 } + O _ { 2 }  6 F e _ { 2 } O _ { 3 } , \\Delta H _ { R , 1 0 7 3 ~ K } = - 4 8 2 . 9 ~ k J ~ m o l ^ { - 1 } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      524,
+      391,
+      897,
+      409
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The generated syngas reduces the iron(III) oxide present in the oxygen carrier in the rst step to $\\mathrm { i r o n } \\mathrm { \\left( m , m \\right) }$ oxide and subsequently to iron(II) oxide and elemental iron according to eqn (5)–(7). The thermodynamic equilibrium of iron(III) oxide reduction enables the full conversion of the syngas that is fed in and thus a pure carbon dioxide stream is produced as dry lean gas in the reduction phase. The subsequent reduction of iron(II,III) oxide only partly converts the syngas and thus leads to considerable amounts of excess carbon monoxide and hydrogen in the lean gas stream. ",
+    "bbox": [
+      509,
+      422,
+      929,
+      575
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/4d056acd67c9d9628bbab83912504020b000a6d84ece91332882ee0b8121adf6.jpg",
+    "image_caption": [
+      "Fig. 1 Schematic representation of the experimental setup and the fixed-bed chemical looping system. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      136,
+      620,
+      865,
+      912
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      608,
+      964,
+      927,
+      976
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "| , 2020, , 1417–1426 ",
+    "bbox": [
+      70,
+      964,
+      374,
+      975
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      70,
+      29,
+      275,
+      41
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      188,
+      43,
+      629
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "View Article Online Paper ",
+    "bbox": [
+      833,
+      11,
+      929,
+      42
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the second process step, the steam oxidation phase, elemental iron and iron(II) oxide are reoxidized to iron(II,III) oxide by steam and hydrogen is released by the reverse reactions of eqn (6) and (7). ",
+    "bbox": [
+      68,
+      60,
+      489,
+      121
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the third process step, the air oxidation phase, the full oxidation state (iron(III) oxide) is restored by oxidation with oxygen e.g. from ambient air. This is not a prerequisite for hydrogen production, but it enables the full oxidation of the carbonaceous feed in the subsequent reduction phase and thus the possibility of carbon dioxide sequestration. ",
+    "bbox": [
+      70,
+      123,
+      489,
+      213
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/1318932b0ad4a752c11cc032dc6010413c76943d91c6b2c14a371c7392e6c7d7.jpg",
+    "text": "$$\n\\mathrm { C O }  0 . 5 \\mathrm { C } _ { \\mathrm { s } } + 0 . 5 \\mathrm { C O } _ { 2 } , \\Delta H _ { \\mathrm { R } , 2 9 8 ~ \\mathrm { K } } = - 8 6 . 2 \\mathrm { ~ k J ~ m o l } ^ { - 1 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      94,
+      224,
+      448,
+      242
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/43b5cc942d9396a111091845b0f37e6e48bdbdb7db1ffb435b72c23f98710b13.jpg",
+    "text": "$$\n\\mathrm { C H } _ { 4 } \\to \\mathrm { C } _ { \\mathrm { s } } + 2 \\mathrm { H } _ { 2 } , \\Delta H _ { \\mathrm { R } , 2 9 8 ~ \\mathrm { K } } = 7 4 . 6 ~ \\mathrm { k J } ~ \\mathrm { m o l } ^ { - 1 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      114,
+      251,
+      420,
+      270
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "It is crucial to avoid solid carbon deposition during the reduction phase to ensure the purity of the product gases, as solid carbon is reoxidized in the steam and air oxidation phase and causes the occurrence of carbon monoxide and carbon dioxide impurities. The underlying thermodynamic equilibrium for carbon formation is described by the Boudouard and the direct methane decomposition reaction (eqn (9) and (10)), which are favored at temperatures below ${ 7 0 0 { - } 7 5 0 ~ ^ { \\circ } C }$ and above $9 0 0 { - } 9 5 0 \\ { ^ \\circ } \\mathrm { C }$ , respectively. However, a low ${ \\bf O } / { \\bf R }$ ratio is necessary to attain highly reactive syngas for the reduction of iron oxides, although through the high carbon monoxide share in the syngas the carbon deposition is more likely. According to recent studies, a minimum amount of excess steam has to be co-fed to avoid harmful carbon deposition.16,17 ",
+    "bbox": [
+      70,
+      283,
+      490,
+      496
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In recent years, various studies have been presented on the conversion of different fossil and bio-based raw materials to hydrogen using chemical looping in small scale lab systems and great efforts have been made to enhance the material lifetime and kinetics.10,11,18 Several research groups also demonstrated the utilization of chemical looping processes for hydrogen generation with inherent carbon dioxide sequestration from fossils as gasied coal, methane or renewables as gasied biooils in enlarged systems, most of them in uidized bed operation. The following is an overview of relevant research activities on kW-scale chemical looping systems with hydrogen production and carbon dioxide sequestration. ",
+    "bbox": [
+      70,
+      499,
+      490,
+      680
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Bohn et al. demonstrated the feasibility of hydrogen generation and carbon dioxide sequestration in a xed-bed microreactor and generated pure hydrogen from a synthetic gas mixture of carbon monoxide and carbon dioxide.19 In order to avoid the energy intensive compression of gaseous hydrogen, several authors presented the hydrogen production from xedbed chemical looping with a release pressure up to 100 bar, indicating purity levels of up to $9 9 . 9 9 \\%$ .20–22 Based on these results, Zacharias et al. demonstrated the generation of pure, pre-pressurized hydrogen with a release pressure of 20–25 bar and inherent carbon dioxide sequestration from synthetic gases in a micro-reactor.22 However, the attained hydrogen quality was too low for fuel cell applications $\\left( 9 1 . 9 \\mathrm { - } 9 9 . 3 \\% \\right)$ ). ",
+    "bbox": [
+      70,
+      682,
+      490,
+      879
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Only a few authors presented experimental studies on chemical looping hydrogen production with inherent carbon dioxide capture in the kW-range. At Ohio State University, a 25 kW sub-pilot plant and a $2 5 0 \\mathrm { k W }$ pilot plant were tested for their ability to produce pure hydrogen. Both plants incorporate a moving-bed reducer and steam oxidizer and an entrained bed riser for air oxidation. Sridhar et al.23 presented preliminary tests on hydrogen generation with the $2 5 \\ \\mathrm { k W }$ sub-pilot plant and a synthetic gas feed ( $\\mathbf { \\bar { 1 0 } N L \\ m i n ^ { - 1 } C }$ O and $5 \\ \\mathrm { N L } \\ \\mathrm { m i n } ^ { - 1 } \\ \\mathrm { H } _ { 2 } ]$ resulting in a hydrogen purity of $9 4 . 5 \\%$ in a steady state. The carbon dioxide purity was given as $9 9 . 5 \\%$ . Tong et al.24 extended the experimental evaluation and presented a 300 hour longterm operation with a typical hydrogen purity of $9 5 \\mathrm { - } 9 9 . 6 7 \\%$ and a peak purity of $9 9 . 9 9 \\%$ . Neither of these authors, however, provided sufficient data to estimate the process efficiency or feedstock utilization for hydrogen generation. ",
+    "bbox": [
+      68,
+      881,
+      489,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      60,
+      929,
+      258
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Hsieh et al.25 presented a $2 5 0 ~ \\mathrm { k W _ { t h } }$ pilot-plant based on the above mentioned $2 5 { \\mathrm { ~ k W } }$ sub pilot plant and investigated the capability for hydrogen generation. Low oxygen carrier conversion was attained when the system was operated with inherent carbon dioxide capture, which in turn led to a low hydrogen output. Further experiments without carbon dioxide sequestration resulted in a higher oxygen carrier conversion and a hydrogen output ow of $6 0 \\ m o l \\ \\mathrm { h } ^ { - 1 }$ $( \\sim 4 . 7 \\ \\mathrm {  k W _ { H H V } }$ , $9 9 \\%$ hydrogen purity) from a syngas feed of $1 5 0 \\mathrm { ~ k W } _ { \\mathrm { H H V } } .$ . The overall syngas conversion was $6 5 \\%$ , and thus no pure carbon dioxide stream was sequestrated. The results show a very low feedstock utilization of $\\eta _ { \\mathrm { H } _ { 2 } } = 0 . 0 3$ (according to eqn (12)) for hydrogen production, although no carbon dioxide was sequestrated. ",
+    "bbox": [
+      509,
+      260,
+      929,
+      458
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Ryd´en and Arjmand26 from the Chalmers University of Technology published the operation of a uidized bed system for hydrogen generation. $0 . 2  { \\mathrm { \\ k W } _ { \\mathrm { H H V } } }$ hydrogen was produced from a synthetic gas mixture, but no specic data are given for the purity of hydrogen. From the experiments, a feedstock utilization according to eqn (12) of about $\\eta _ { \\mathrm { H _ { 2 } } } ~ = ~ 0 . 6 0$ was calculated. Carbon dioxide sequestration was only attained for a short period at the process start, as the system was designed as a two-compartment chemical looping system, and thus the stable syngas conversion dropped to between 67 and $8 1 \\%$ . ",
+    "bbox": [
+      509,
+      459,
+      929,
+      612
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Zeng et al. from Southeast University in Nanjing investigated the conversion of a non-aqueous phase bio-oil for hydrogen generation in a dual uidized bed system.27 According to data for the bio oil feed and the hydrogen output, the efficiency varied between $1 7 \\%$ ( $9 8 \\%$ purity) and $3 0 \\%$ $8 4 \\%$ purity). The system had a hydrogen output of up to $0 . 3 \\mathrm { \\ k W _ { H H V } }$ . ",
+    "bbox": [
+      507,
+      613,
+      929,
+      704
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cho et al. from the Korea Institute of Energy Research presented the continuous operation of chemical looping for hydrogen production from methane in a three-compartment uidized bed system.28 The hydrogen product gas had a purity of $9 9 . 1 5 \\substack { - 9 9 . 9 5 \\% }$ with an output power of $0 . 1 \\mathrm { \\ k W _ { H H V } }$ , resulting in a feedstock utilization of about $\\eta _ { \\mathrm { H } _ { 2 } } = 0 . 6$ . The fuel conversion related to methane as feedstock was given as $9 4 . 1 5 \\%$ , with the result that no pure carbon dioxide stream was sequestrated. ",
+    "bbox": [
+      507,
+      706,
+      929,
+      826
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In conclusion, several authors investigated systems for hydrogen generation with at least $1 \\ \\mathrm { k W }$ fuel input. In most cases, a hydrogen purity between 95 and $9 9 . 9 9 \\%$ is not sufficient for low-temperature fuel cell applications. The carbon dioxide composition from the reduction step is generally in between 95 and $9 9 . 5 \\%$ . With higher feedstock conversion in the reduction phase and thus a higher carbon dioxide purity, the hydrogen generation efficiency generally decreases.25,28 The experimental data, however, oen lack explicit data to estimate the process efficiency of hydrogen generation, the carbon dioxide and hydrogen product gas composition and/or additional data such as the internal temperature distribution. None of the authors considered pure nitrogen from the air oxidation reactor as valuable product gas; furthermore all of the presented systems with above $0 . 1 \\mathrm { \\ k W }$ output power were designed as moving or uidized bed systems. ",
+    "bbox": [
+      507,
+      827,
+      929,
+      934
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": ", 2020, , 1417–1426 | ",
+    "bbox": [
+      625,
+      964,
+      927,
+      974
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      70,
+      964,
+      389,
+      975
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Paper ",
+    "bbox": [
+      70,
+      29,
+      114,
+      41
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "View Article Online ",
+    "bbox": [
+      833,
+      12,
+      927,
+      21
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      724,
+      29,
+      927,
+      41
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      188,
+      43,
+      629
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      60,
+      490,
+      197
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Based on the state of the art presented in literature reviews, the focus of the present study was placed on the following points: the chemical looping process in a xed bed conguration is assumed to be capable of co-producing high-purity hydrogen, pure carbon dioxide and nitrogen but has not been investigated in the kW-range so far. The focus of the investigation was to determine (i) the potential feedstock utilization, (ii) the attainable product gas purity for hydrogen, carbon dioxide and nitrogen with respect to carbonaceous impurities in the single-digit ppm-range and (iii) the heat distribution in a large-scale xed-bed chemical looping research reactor as basis for future design approaches. ",
+    "bbox": [
+      70,
+      198,
+      490,
+      381
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The utilization of both fossil and renewable feedstocks is possible to either produce hydrogen as a secondary energy carrier, while inherently sequestrating carbon dioxide for CCS or CCU from fossil resources, or even represents a negative emission technology by using renewable feedstocks for bioenergy carbon capture and storage (BECCS). Based on previous ndings,15,16 the impact of two synthetic biogas compositions and methane as feedstock on the process applicability was determined. The experimental study was performed in the largest $1 0 ~ \\mathrm { \\ k W }$ xed-bed chemical looping research system currently available worldwide. ",
+    "bbox": [
+      70,
+      383,
+      490,
+      550
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Experimental ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      582,
+      211,
+      602
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The experimental study was carried out in a xed-bed chemical looping system. The system consists of a reformer section comprising a commercial steam reforming catalyst $\\left( 3 ~ \\mathrm { k g } \\right)$ and a chemical looping section with an iron-based oxygen carrier material $( 1 5 \\mathrm { k g } )$ . Both are situated in a common reactor tube $[ d _ { \\mathrm { i } }$ $= 1 2 4 ~ \\mathrm { m m }$ ; $L = 1 8 0 0 \\ \\mathrm { m m }$ ). The pelletized oxygen carrier material $\\left[ d = 1 \\AA \\mathrm { - } 3 \\mathrm { ~ m m } \\right]$ ) consists of commercial iron oxide $\\left( \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 } \\right.$ , $8 0 ~ \\mathrm { w t \\% }$ ) and aluminum oxide $( \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ , bal.) as an inert material. An external electric furnace with multiple separately controlled heating sections maintains the process temperature in the reactor system. Thermocouples were introduced through side tubes to measure the temperature distribution in the reactor system. In order to avoid carbon formation in cold zones, nitrogen was applied to these side tubes as purge gas $( \\dot { V } _ { \\mathrm { N _ { 2 } , t o t } } = 5 $ $\\mathbf { N L \\operatorname* { m i n } } ^ { - 1 }$ ). ",
+    "bbox": [
+      70,
+      613,
+      490,
+      842
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The feed gas composition was adjusted with thermal mass ow controllers (Bronkhorst High-Tech). Steam was fed using a direct evaporator system (ADrop DV-3) with a liquid ow controller (Bronkhorst High-Tech), mixed with methane and heated to $2 0 0 ~ ^ { \\circ } \\mathrm { C }$ in an integrated superheater. An inert preheating bed consisting of $\\mathrm { S i O } _ { 2 }$ $1 / 8 ^ { \\prime \\prime }$ pellets, Alfa Aesar) at both ends of the reactor preheats the feed gases to the respective process temperature. ",
+    "bbox": [
+      70,
+      843,
+      490,
+      934
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      60,
+      927,
+      89
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The product gas conditioning system consists of a condenser and a demister for cooling and drying the exhaust gases. The exhaust gas ow was continuously measured with a bellowstype gas meter (Ritter BG4). ",
+    "bbox": [
+      507,
+      91,
+      927,
+      151
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The gas composition was determined with a $\\mathbf { \\mu } \\mathbf { - G C }$ downstream of the gas conditioning in the rst tests (cycles 1–10). However, the analytical results, especially in the oxidation phase, were signicantly inuenced by gaseous residues in the product gas conditioning system from incomplete purging aer the reduction phase. For this reason, the sampling system for cycles 10–20 was modied to exclude the inuence of the product gas conditioning system: a sample gas ow (1–5 NL $\\operatorname* { m i n } ^ { - 1 }$ ) was taken with a membrane pump before the product gas conditioning and then cooled to $4 ~ { } ^ { \\circ } \\mathbf { C }$ with a sample gas cooler (ABB). Furthermore, this measure resulted in a signicantly enhanced response of the gas analysis system to the varying product gas composition. ",
+    "bbox": [
+      507,
+      152,
+      929,
+      350
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The $\\mathbf { \\mu } _ { \\mathbf { \\mu } } \\mathbf { - } \\mathbf { G C }$ (Incon Fusion) was equipped with a $^ \\mathrm { ~ 1 0 ~ } \\mathrm { ~ m ~ }$ molecular sieve column, a $1 2 ~ \\mathrm { ~ m ~ }$ PoraPlot $\\mathbf { Q }$ column and a separate mole sieve module for the detection of CO and $\\mathrm { C H } _ { 4 }$ in the ppm-range. The detection limit was 3 ppm for $\\mathbf { C O } _ { 2 }$ , CO and $\\mathrm { C H } _ { 4 }$ and $1 0 0 \\mathrm { p p m }$ for ${ \\bf O } _ { 2 }$ and $\\mathrm { H } _ { 2 }$ . Determined trace gas amounts below the respective detection limit are not shown in the corresponding diagrams to avoid confusion for the reader, as they would have to be shown either with the respective detection limit or as a zero value, both of which could lead to misinterpretation by the reader. ",
+    "bbox": [
+      507,
+      353,
+      929,
+      504
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The gas quality of the product gases nitrogen and synthetic air was chosen according to the experimental detection limits for $\\mathbf { C O } _ { 2 }$ $( < 2 \\ \\mathrm { p p m } )$ , CO $( < 2 \\ \\mathrm { p p m } )$ and total hydrocarbons $_ { \\mathrm { \\ell } < 0 . 2 }$ ppm). Methane had a gas quality of N25 with total impurities of air, $\\mathrm { C O } _ { 2 }$ and total hydrocarbons below $5 0 0 0 \\ \\mathrm { p p m }$ . The total carbon amount of the high-purity water for steam generation was $0 . 0 9 6 \\mathrm { ~ m g L } ^ { - 1 }$ . ",
+    "bbox": [
+      509,
+      505,
+      929,
+      612
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Each experiment (cycle) consisted of three phases: ",
+    "bbox": [
+      526,
+      613,
+      867,
+      627
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(1) In the reduction phase, the fuel gas was converted into a synthesis gas in the reformer section. The oxygen carrier $\\left( \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 } \\right)$ was subsequently reduced in the downstream chemical looping section to iron oxides $\\mathrm { ( F e } _ { 3 } \\mathrm { O } _ { 4 }$ and FeO) or iron (Fe), depending on the reduction progress. Therefore, the syngas was oxidized to steam and carbon dioxide as long as a sufficient amount of $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ is present in the reactor. The reduction was performed until the concentration of carbon monoxide in the dry product gas exceeded $1 \\%$ , according to Zacharias et al., 22 to obtain a pure carbon dioxide stream as product gas. ",
+    "bbox": [
+      507,
+      629,
+      929,
+      780
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(2) In the steam oxidation phase, steam $( 2 4 \\mathrm { g } \\operatorname* { m i n } ^ { - 1 } )$ was fed into the chemical looping section and oxidized the reduced iron oxide (FeO) and iron, resulting in the formation of hydrogen. The reformer section was bypassed to minimize gas contamination by the reoxidation of solid carbon in the reformer. The reoxidation was carried out until complete oxygen carrier conversion to $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ was achieved. ",
+    "bbox": [
+      509,
+      781,
+      929,
+      888
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(3) In the air oxidation phase, synthetic air ( $2 1 \\%$ oxygen, $7 9 \\%$ nitrogen, and $2 0 \\mathrm { N L } \\operatorname* { m i n } ^ { - 1 }$ ) was fed into the system to complete the reoxidation of the iron oxide material from $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ to $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ ",
+    "bbox": [
+      507,
+      889,
+      927,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy & Fuels ",
+    "bbox": [
+      70,
+      29,
+      275,
+      41
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      608,
+      965,
+      927,
+      975
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "|   , 2020, , 1417–1426 ",
+    "bbox": [
+      70,
+      965,
+      378,
+      975
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      191,
+      43,
+      629
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Paper ",
+    "bbox": [
+      882,
+      30,
+      927,
+      41
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "View Article Online ",
+    "bbox": [
+      833,
+      12,
+      927,
+      21
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As long as sufficient $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ is present, a pure nitrogen stream is attained as product gas. ",
+    "bbox": [
+      68,
+      60,
+      489,
+      89
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Throughout the experiments, the reactor wall temperature was set to $8 8 0 ~ ^ { \\circ } \\mathrm { C }$ for the reformer section and to $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ for the chemical looping section. During reduction and steam oxidation phases, nitrogen was supplied as an internal standard along with the feed gas $\\left( 5 \\mathrm { N L } \\mathrm { m i n } ^ { - 1 } \\right)$ ) and through the side pipes $\\left( 5 \\mathrm { \\bf ~ N L } \\mathrm { \\bf ~ m i n } ^ { - 1 } \\right)$ ). In the air oxidation phase, only the reformer section was continuously purged with nitrogen $( 6 \\mathrm { N L } \\mathrm { m i n } ^ { - 1 } )$ ) in order to prevent the harmful reoxidation of the nickel-based reformer catalyst with excess oxygen. ",
+    "bbox": [
+      70,
+      91,
+      490,
+      227
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Gas residues were removed between the experimental phases by reactor evacuation with a vacuum pump (nine evacuations, 0.2 bar(a)). Simultaneously the downstream off gas treatment system was purged with nitrogen to exclude gas remains in the gas sampling system. ",
+    "bbox": [
+      68,
+      229,
+      490,
+      305
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "According to previous experimental investigations,15,16 three different gas mixtures were specied as a reducible gas feed (Table 1). The rst composition represented a typical steam reforming feed gas comprising methane and steam with an $\\mathbf { S } / \\mathbf { C }$ ratio of 1.2 $\\scriptstyle ( = \\mathbf { O } / \\mathbf { R }$ ratio). The second and third represented biogas compositions with $8 0 \\%$ and $5 0 \\%$ $\\mathrm { C H } _ { 4 }$ respectively and carbon dioxide (bal.). For both, steam was co-fed to ascertain an ${ \\bf O } / { \\bf R }$ ratio of 1.2 and 1.6, respectively, in line with a previous experimental series to avoid severe carbon formation (Table 1). ",
+    "bbox": [
+      70,
+      306,
+      490,
+      442
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Although the applied reformer catalyst was not explicitly proposed for dry reforming, the results of preliminary reformer tests are comparable to the expected thermodynamic equilibrium. The feed gas ow was dened according to a preliminary reformer test, to ensure a methane conversion of more than $8 5 \\%$ for all operating points. For future industrial applications separate reformer catalyst characterization is suggested to ascertain the suitability for the respective feedstock. However, the performance of these tests was outside the scope of the study. ",
+    "bbox": [
+      70,
+      444,
+      490,
+      595
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Two process parameters, the steam ratio and the carbon dioxide ratio (see eqn (11) and (12)), characterize the gas–solid equilibrium of iron oxide reduction and oxidation according to the Bauer–Glaessner diagram.12 All variables for the carbon dioxide ratio were determined by the gas analysis system, whereas the amount of steam was calculated from the hydrogen mole balance, and the steam ratio was thus more inaccurate. ",
+    "bbox": [
+      70,
+      598,
+      490,
+      703
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/33619fe061d6c517b9cd1a2dd5f5a120413af0c9d07a16e9f4a349725104f4fa.jpg",
+    "text": "$$\nX _ { \\mathrm { H } _ { 2 } \\mathrm { o } } = \\mathrm { \\frac { [ H _ { 2 } O ] } { [ H _ { 2 } + H _ { 2 } O ] } \\mathrm { [ m o l ~ m o l ^ { - 1 } ] } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      166,
+      709,
+      393,
+      741
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/896c53561030558cefc9c09ac8b4d5b9c9b867da2f19943226624374e3b3f74e.jpg",
+    "text": "$$\nX _ { \\mathrm { C O } _ { 2 } } = \\frac { \\mathrm { [ C O _ { 2 } ] } } { \\mathrm { [ C O _ { 2 } + C O ] } } \\mathrm { [ m o l ~ m o l ^ { - 1 } ] }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      166,
+      753,
+      393,
+      786
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Thermodynamic calculations for the system heat balance were performed with ASPEN Plus v8.4 with the Peng–Robinson EOS by minimizing the Gibbs free energy and HSC Chemistry 5.1. ",
+    "bbox": [
+      507,
+      60,
+      927,
+      119
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Experimental results ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      141,
+      727,
+      161
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The scope of this study was to demonstrate the feasibility of generating pure streams of carbon dioxide, hydrogen and nitrogen in a xed-bed chemical looping lab system on an industrially relevant scale. First, the results of a standard experiment are presented. Subsequently potential improvements are determined by describing the inuence of specic process parameters on the product gas purity and system behavior. Furthermore, the thermal behavior of such a system is described. ",
+    "bbox": [
+      509,
+      172,
+      929,
+      292
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The general system behavior and the attainable product gas purity were determined by conducting several experiments in accordance with the procedure presented in the Experimental section. The results are divided into (i) carbon dioxide production in the reduction phase, (ii) hydrogen production in the steam oxidation phase and (iii) nitrogen production in the air oxidation phase. ",
+    "bbox": [
+      507,
+      295,
+      929,
+      400
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the reduction phase, syngas from an upstream steam reformer, primarily comprising hydrogen, carbon monoxide and methane as reducible compounds, was oxidized by lattice oxygen from the iron-based oxygen carrier. In the course of this, a full conversion of the syngas to carbon dioxide and steam was attained and only minor levels of carbon monoxide below $1 0 0 \\ \\mathrm { p p m }$ were detected for as long as a sufficient amount of lattice oxygen from the present iron(III) oxide was available (see Fig. 2). Aer a certain time, the conversion of the syngas decreased and in accordance with the experimental procedure, the reduction was aborted if more than $1 \\%$ carbon monoxide was detected by the gas analysis system. ",
+    "bbox": [
+      507,
+      403,
+      929,
+      585
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The resulting mean carbon dioxide purity was between 98.5 and $9 9 . 2 \\%$ calculated from at least two experiments performed for each fuel composition. A standard deviation of $\\pm 0 . 6 \\%$ (abs.) was calculated for the feed gas composition 2 from four performed cycles. Methane was present as the main impurity accounting for about $9 7 { - } 9 9 \\%$ (typ.) of the total impurities for all operating points. The great share of methane in the carbon dioxide product gas is caused by a relatively low methane conversion in the reformer accounting for $2 - 3 \\%$ of the dry reformer gas. However, excess methane was completely converted by the iron(III) oxide at the beginning of the reduction phase (see Fig. 2) as methane was below the detection limit of $3 \\mathrm { \\ p p m }$ , but rose constantly within the reduction phase up to about $2 { - } 4 \\%$ of the product gas stream. Carbon monoxide and hydrogen were almost completely converted since only small amounts below 100 ppm CO were present in the product gas until a distinct increase became visible towards the end of the cycle. ",
+    "bbox": [
+      509,
+      586,
+      929,
+      815
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/672f97835d36c5c081e10740201d4155cc4b3282b88ab3f44361122d20dc7994.jpg",
+    "table_caption": [
+      "Table 1 Operating points studied in the experimental series "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Feed gas</td><td>CH4, NL min-1</td><td>CO2, NL min-1</td><td>H2O,g min-1 (NL min-1)</td><td>O/R,</td></tr><tr><td>1</td><td>9</td><td></td><td>8.8 (10.95)</td><td>1.2</td></tr><tr><td>2</td><td>9</td><td>2.25</td><td>6.8 (8.46)</td><td>1.2</td></tr><tr><td>3</td><td>9</td><td>9</td><td>4.3 (5.35)</td><td>1.6</td></tr></table>",
+    "bbox": [
+      65,
+      851,
+      931,
+      925
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      70,
+      964,
+      391,
+      975
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": ", 2020, , 1417–1426 | ",
+    "bbox": [
+      625,
+      964,
+      927,
+      974
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      29,
+      114,
+      41
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "View Article Online ",
+    "bbox": [
+      833,
+      12,
+      927,
+      21
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      724,
+      29,
+      927,
+      41
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      189,
+      43,
+      627
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/ad7009ea2e7bf1216a70bca43e8e47f1af9af178cac1689e63260ef95af240ac.jpg",
+    "image_caption": [
+      "Fig. 2 Representative carbon dioxide product gas flow in the reduction phase (cycle 3, feed gas 2, and excl. nitrogen) with trace gas compounds $\\mathsf { H } _ { 2 } ,$ , CO and $\\mathsf { C H } _ { 4 }$ (top) and mean carbon dioxide purity for different feed gases (bottom). Trace gas concentrations below the respective detection limits for $\\mathsf { H } _ { 2 }$ $\\mathtt { \\backslash < 1 0 0 }$ ppm, before min. 15) and $\\mathsf { C O } /$ $\\mathsf { C H } _ { 4 }$ $_ { < 3 }$ ppm, before min 4) are not displayed. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      99,
+      62,
+      458,
+      427
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      532,
+      489,
+      562
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Aer completion of every reduction, steam oxidation and air oxidation, the reactor was evacuated in order to remove gaseous residues for the respective subsequent phase. The reactor tube was evacuated nine times to 0.2 bar(a), while the off-gas conditioning system was purged with nitrogen. Aer the evacuation, only 0.512 ppm $\\scriptstyle \\left( = 0 . 2 ^ { 9 } \\right)$ of the initial gases have remained in the reactor tube. However, a signicant amount of carbon dioxide $( 2 0 0 { - } 5 0 0 ~ \\mathrm { \\ p p m }$ typ.) was still found in the purging gas before starting the oxidation phase as a result of signicant gas remnants in the gas conditioning system. ",
+    "bbox": [
+      70,
+      563,
+      490,
+      716
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the steam oxidation phase, elemental iron and iron(II) oxide within the partly reduced oxygen carrier are reoxidized to iron(II,III) oxide by steam and hydrogen is produced as oxygen atoms bond to the metal lattice. Higher oxidation stages of iron(II,III) oxide and iron(III) oxide should not be affected by the steam oxidation but do not contribute to the hydrogen production either. ",
+    "bbox": [
+      70,
+      717,
+      490,
+      822
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A representative product gas from the oxidation phase (cycles 3 and 13) and the respective trace gas compounds are presented in Fig. 3. The hydrogen ow in cycle 3 (dashed lines) rose continuously and levelled at about $2 0 ~ \\mathrm { N L } \\ \\mathrm { m i n } ^ { - 1 }$ . The slow increase of the hydrogen output in cycle 3 is attributed to the response time of the direct evaporator, as the liquid water feed was set and it took some time until a steady state was reached. ",
+    "bbox": [
+      70,
+      825,
+      490,
+      930
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/49b0bcb06be893549a8d9aa3a4708455f3b8ede47f0e9dae3e3c34521a21ca39.jpg",
+    "image_caption": [
+      "Fig. 3 Representative hydrogen product gas flow in the steam oxidation phase (feed gas 2 and excl. nitrogen) with trace gas compounds for cycle 3 (thin dashed) and cycle 13 (thick solid) (top). Hydrogen purity for different feed gas compositions in cycles 12–14 (bottom). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      537,
+      62,
+      899,
+      423
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Hence, in the subsequent cycles (see cycle 13, solid lines) the evaporator was rst initialized to a steady state bypassing the reactor, which caused different characteristics of the product gas ow. However, in both cycles, a steady-state steam conversion of $6 6 { - } 7 4 \\%$ was attained with respect to a feed gas ow of $2 4 . 2 \\ : \\mathrm { g } \\operatorname* { m i n } ^ { - 1 }$ $3 0 \\mathrm { N L } \\operatorname* { m i n } ^ { - 1 } )$ , which is consistent with the Bauer– Glaessner diagram and previous experimental series.15,16 ",
+    "bbox": [
+      507,
+      528,
+      929,
+      635
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Carbon monoxide and carbon dioxide were found as trace gas compounds in the product gas, and methane was successfully excluded by the evacuation of the reactor system beforehand. In the rst experimental cycles (cycles 1–10), relatively high gas remnants were still present in the product gas conditioning system aer the purging phase. This in turn had a negative effect on the determined gas quality in the oxidation phase (as presented in Fig. 3, cycle 3), since the gas composition was analyzed with the $\\mathbf { \\mu } _ { \\mu - \\mathbf { G C } }$ downstream of the product gas conditioning system in cycles 1–10 (Fig. 1, ${ } ^ { \\mathfrak { s } } \\mu \\mathrm { - } \\mathbf { G C }$ cycles 1–10”). ",
+    "bbox": [
+      507,
+      636,
+      929,
+      788
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Accordingly, an improved sampling system withdrew a separate sample gas stream directly aer the reactor outlet as presented in the experimental section (Fig. 1, gas analysis system), which led to a signicant enhancement of the analytic quality, which was not further inuenced by remnant gases in the gas conditioning system. A membrane pump drew a continuous gas sample immediately aer the reactor outlet preceding the off-gas conditioning system. The detected product gas quality increased signicantly with this new sampling system, resulting in a superior hydrogen quality between 99.996 and $9 9 . 9 9 9 \\%$ with a carbon dioxide content below $3 0 \\ \\mathrm { p p m }$ and carbon monoxide and methane below the respective detection limits of ${ \\sim } 2 ~ \\mathrm { p p m }$ (see Fig. 3, cycle 13). ",
+    "bbox": [
+      509,
+      789,
+      929,
+      926
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy & Fuels ",
+    "bbox": [
+      70,
+      29,
+      275,
+      41
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      608,
+      965,
+      927,
+      975
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "| , 2020, , 1417–1426 ",
+    "bbox": [
+      70,
+      964,
+      376,
+      975
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "View Article Online Paper ",
+    "bbox": [
+      833,
+      12,
+      931,
+      41
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      189,
+      43,
+      627
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/14ed794d1590afcdcc49ad586f71797e849ae3a85829f2b54382ad673fcc675f.jpg",
+    "image_caption": [
+      "Fig. 4 Representative nitrogen product gas flow in the air oxidation phase (cycle 3, feed gas 2, and excl. purging gas) with trace gas compounds (top) and mean nitrogen purity concerning carbonaceous compounds for different feed gas compositions (bottom). Trace gas concentrations which were below the respective detection limit for $C O _ { 2 }$ (intermediate points in the graph) are not presented. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      100,
+      64,
+      458,
+      430
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      549,
+      490,
+      609
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In the air oxidation phase, remaining iron(II,III) oxide formed in the steam oxidation phase was oxidized to iron(III) oxide to reestablish the ability of carbon dioxide sequestration in the subsequent cycle. In the course of the experiment, it was important to permanently purge the reformer with nitrogen to avoid harmful oxidation of the nickel-based reformer catalyst. The air oxidation started with an air feed gas ow of 20 $\\mathrm { { N L } } \\operatorname* { m i n } ^ { - 1 }$ until excess oxygen was detected in the product gas; aerwards the feed gas ow was lowered to $5 \\ \\mathrm { N L } \\ \\mathrm { m i n } ^ { - 1 }$ to minimize backmixing of excess oxygen in the reformer section. Pure nitrogen as product gas was only attained while the reactivity of the iron(II,III) oxide was high enough to establish a full conversion of gaseous oxygen. ",
+    "bbox": [
+      70,
+      611,
+      489,
+      808
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The total amount of pure nitrogen as product gas from the air oxidation phase was about $8 0 0 ~ \\mathrm { \\ N L }$ for all experiments. Throughout the air oxidation the only contaminant determined in the product gas was carbon dioxide with values consistently below $1 0 \\mathrm { p p m }$ . It was likely that this originated from reoxidation of solid carbon residues in the system. The mean quality of the nitrogen produced was about $9 9 . 9 9 9 \\%$ considering carbonaceous impurities. However, it is important to remind the reader that the detection limit for oxygen was about $1 0 0 \\mathrm { p p m }$ , with the result that very low amounts of oxygen could not be detected. ",
+    "bbox": [
+      70,
+      810,
+      490,
+      931
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      60,
+      927,
+      89
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The chemical looping process with cyclic reduction and oxidation of iron oxides includes several strongly exothermic and endothermic reactions (see eqn (5)–(8)). Although the thermal behavior is not the primary scope of this publication, the presented system is currently the largest xed-bed chemical looping system with an inner reactor diameter of $1 2 4 \\mathrm { ~ m m }$ . Hence the thermal behavior gives important hints on the heat distribution e.g. for research on oxygen carrier development or future industrial implementations. ",
+    "bbox": [
+      509,
+      91,
+      929,
+      227
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Three pair of thermocouples were situated in the reactor, two about $5 0 ~ \\mathrm { m m }$ before the upper and lower ends of the oxygen carrier bed and one in the middle. The reduction and steam oxidation reactions in the experiments had only minor inuences on the bed temperature, although in both phases the clear inuence of the reaction front is visible. Unexpectedly, the temperature in the oxygen carrier bed rose in the reduction phase. This may be caused by the exothermic reduction of iron(III) oxide to iron (II,III) oxide or iron $\\scriptstyle \\left( { \\mathrm { I I } } , { \\mathrm { I I I } } \\right)$ oxide to elemental iron with carbon monoxide. ",
+    "bbox": [
+      509,
+      229,
+      929,
+      381
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In the air oxidation phase, the strongly exothermic oxidation reaction leads to a distinct increase in the oxygen carrier bed temperature. The thermocouple situated in the middle of the reactor was the most representative because of the uniform heat distribution up- and downstream. The fast kinetics of the reaction of iron(II,II) oxide to iron(III) oxide with oxygen led to a steep temperature increase from $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ to $1 3 0 0 ~ ^ { \\circ } \\mathrm { C }$ with a gradient of up to $2 0 0 \\ ^ { \\circ } \\mathbf { C } \\ \\operatorname* { m i n } ^ { - 1 }$ . This is an order of magnitude higher compared to the steam oxidation in earlier experiments.15,16 The temperature gradient on top of the reactor near the gas outlet was signicantly lower but showed a broader peak, caused by a lowered gas feed of $5 ~ \\mathrm { N L } \\mathrm { ~ m i n } ^ { - 1 }$ (before: $2 0 \\ \\mathrm { N L \\thinspace m i n ^ { - 1 } }$ ). ",
+    "bbox": [
+      509,
+      383,
+      929,
+      566
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      582,
+      623,
+      602
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In the reduction phase, the carbon dioxide product gas stream had a purity of $9 8 { - } 9 9 \\%$ and no signicant difference was found between the operating points. Methane was the main contaminant with about $9 8 \\%$ , whereas carbon monoxide and hydrogen, which contributed by approx. $^ { 1 \\% }$ each to the total impurities, were almost completely converted. The latter two accounted for an absolute amount of $1 0 0 \\ \\mathrm { p p m }$ each in the reduction phase until a distinct increase marked the end of iron(III) oxide conversion (see Fig. 2). However, the methane content rose steadily to about $2 { - } 4 \\%$ . Therefore, an additional experiment with half of the feed gas ow and gas composition 1 was performed. Compared to former experiments, the carbon dioxide purity increased from $9 8 . 2 \\%$ to $9 9 . 1 \\%$ . Consequently, increasing the conversion of hydrocarbons in the feed gas stream in order to attain a preferred gas composition of solely carbon monoxide and hydrogen has benecial effects. ",
+    "bbox": [
+      507,
+      613,
+      929,
+      856
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The carbon dioxide purity level obtained is similar to the results presented for uidized and moving-bed systems with a comparable hydrogen output in the kW-range $\\left( 9 5 \\mathrm { - } 9 9 . 5 \\% \\right)$ as discussed in the Introduction. However, some research groups investigated synthetic gases which comprised solely carbon monoxide and hydrogen,23,26 whereas from the results it is noticed that the product gas purity is especially critical for unconverted methane as the main impurity. A higher thermodynamic conversion of methane in the reformer and thus a higher product gas purity are possible with increased process temperatures of above $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ . In addition, a higher amount of excess steam reduces the amount of unconverted methane, but in the long run leads to a lower hydrogen output in the oxidation phase. ",
+    "bbox": [
+      509,
+      858,
+      927,
+      934
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": ", 2020, , 1417–1426 | ",
+    "bbox": [
+      621,
+      964,
+      927,
+      974
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      70,
+      964,
+      391,
+      975
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      29,
+      114,
+      41
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "View Article Online ",
+    "bbox": [
+      833,
+      12,
+      927,
+      21
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      724,
+      29,
+      927,
+      41
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      189,
+      43,
+      627
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      60,
+      490,
+      182
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The results presented in this study show that a carbon dioxide purity of up to $9 9 . 9 9 \\%$ for a suitable feed gas is feasible. However, the purity of the carbon dioxide attained in the experiments is sufficient for transport and permanent storage applications, as carbon dioxide purities of $9 5 \\%$ are typically discussed for CCS.7 ",
+    "bbox": [
+      68,
+      184,
+      490,
+      273
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/616ad181b7c7eac0ef02908a03c935963c1a14aff7af20fd7bfb1893dd2bdea6.jpg",
+    "text": "$$\n\\eta _ { \\mathrm { H } _ { 2 } } = \\frac { n ( \\mathrm { H } _ { 2 } , \\mathrm { \\ p r o d } ) \\times \\mathrm { H H V _ { \\mathrm { H } _ { 2 } } } } { n ( \\mathrm { H } _ { 2 } , \\mathrm { \\ c o n s } ) \\times \\mathrm { H H V _ { \\mathrm { C H } _ { 4 } } } } \\ [ - ]\n$$",
+    "text_format": "latex",
+    "bbox": [
+      157,
+      279,
+      403,
+      313
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In the next process step, the steam oxidation phase, hydrogen is generated by conversion of the reduced iron(II) oxide and elemental iron to $\\mathrm { i r o n } \\mathrm { \\left( m , m \\right) }$ oxide. The efficiency of hydrogen generation was quantied by a utilization factor $\\eta _ { \\mathrm { H _ { 2 } } }$ considering the higher heating value of hydrogen as the valuable product with regard to the higher heating value of methane as the valuable feed (eqn (13)). As presented in Fig. 6, the highest hydrogen yield was attained in the rst two cycles for feed gases with a low ${ \\bf O } / { \\bf R }$ ratio of 1.2 (gas compositions 1 and 2). The efficiency was generally lower with a higher ${ \\bf O } / { \\bf R }$ ratio of 1.6 (gas composition 3). Apparently, the utilization factor for hydrogen generation decreased over time for all gas compositions. The reason for this is likely to be decreasing reactivity, as the oxygen carrier is a very basic dry-mixed material which typically exhibits a signicant activity decrease in xed-bed lifetime tests within the rst few cycles transitioning to a reasonably steady conversion, as presented in former publications.15 However, it is likely that a stable utilization factor of $0 . 5 5 \\substack { - 0 . 6 }$ or higher will be attained with a more sophisticated oxygen carrier. ",
+    "bbox": [
+      68,
+      335,
+      490,
+      625
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In the rst cycles (1–11), the hydrogen gas purity was between 99.9 and $9 9 . 9 9 \\%$ with carbon dioxide $( 9 0 \\%$ rel.) and carbon monoxide $1 0 \\%$ rel.) as the only gas impurities, determined by a micro-GC downstream the gas conditioning system. However, gas remnants from the incomplete purging of the gas conditioning system dominated the achieved results, especially in the oxidation phase. Accordingly, an improved gas sampling system was installed as presented in the Experimental section. The attained results with the improved gas analysis system exhibited a superior hydrogen product gas purity of above $9 9 . 9 9 6 \\%$ for all operating points (cycles 12–15). Carbon dioxide was the only contaminant determined in the product gas, and carbon monoxide was below the detection limit of 2 ppm throughout the experiments. This result is consistent with previous studies on hydrogen production without carbon dioxide sequestration15,16 and signicantly exceeds the results presented from synthetic gas mixtures in a micro-reactor system presented by Zacharias et al.22 ",
+    "bbox": [
+      70,
+      627,
+      490,
+      902
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The results suggest that a combined reformer and chemical looping reactor is advantageous, since low temperature areas are avoided for the reformate gas with a high carbon monoxide content. The results also show that at a low ${ \\bf O } / { \\bf R }$ ratio of 1.2, strong carbon deposition was avoided and a pure hydrogen product gas stream was achieved. ",
+    "bbox": [
+      68,
+      903,
+      490,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      60,
+      927,
+      120
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Compared to results presented by other research groups, the hydrogen quality is one to three orders of magnitude higher and sufficient for use in low-temperature fuel cell applications. The syngas utilization was $\\eta _ { \\mathrm { H _ { 2 } } } = 5 0 – 6 0 \\%$ and lies in the upper range of the studies. For industrial implementation the heat integration must be taken into account, since a certain amount of heat is required for the strongly endothermic steam reforming reaction, which may be derived from the strongly exothermic air oxidation reaction (see Fig. 5). ",
+    "bbox": [
+      507,
+      121,
+      929,
+      259
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In the air oxidation phase, about $8 0 0 ~ \\mathrm { N L }$ of pure nitrogen were attained until a distinct breakthrough of oxygen in the xed-bed was recognized. Carbon dioxide was identied as the only impurity with values almost entirely below $1 0 \\mathrm { p p m }$ . Oxygen was below the detection limit of $1 0 0 \\ \\mathrm { p p m }$ until the distinct breakthrough aer about 60 minutes occurred (see Fig. 4). From the results, a nitrogen purity of at least $9 9 . 9 9 \\%$ considering all impurities and $9 9 . 9 9 9 \\%$ considering carbonaceous impurities is likely. For industrial applications, however, ambient air is applied and hence the nitrogen quality decreases to about $9 8 . 5 \\%$ considering $4 0 0 \\mathrm { p p m }$ carbon dioxide and $0 . 9 3 \\%$ argon in ambient air. This may inuence applications where a very high gas purity is required, but the gas may still be applied e.g. as protective gas in industrial processes or for food packaging, as long as other prerequisites are met. ",
+    "bbox": [
+      507,
+      260,
+      929,
+      396
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/33b040ed9c040194bc98536e547195824d0fa5314f717a81e319d127af923420.jpg",
+    "image_caption": [
+      "Fig. 5 Temperature trend of the oxygen carrier bed in reduction, steam oxidation and oxidation phases (cycle 3 and feed gas 2) measured on the axis (dashed line) and at radius $3 0 ~ \\mathsf { m m }$ ( 30, solid). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      536,
+      424,
+      902,
+      888
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      70,
+      29,
+      275,
+      41
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      608,
+      965,
+      927,
+      975
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "| , 2020, , 1417–1426 ",
+    "bbox": [
+      70,
+      964,
+      378,
+      975
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      188,
+      43,
+      627
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "View Article Online Paper ",
+    "bbox": [
+      833,
+      11,
+      929,
+      41
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/d128660b893b586a58fa9035aa4b7011b0ac70961ba7ab03f3e38df743ce627b.jpg",
+    "image_caption": [
+      "Fig. 6 Utilization factor of hydrogen production from methane and respective gas purity. The respective cycle number is displayed as a number in the annotations. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      97,
+      61,
+      462,
+      225
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      296,
+      490,
+      387
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "A nal question which arose was whether carbon dioxide sequestration in the reduction phase has a negative impact on the feedstock utilization for hydrogen generation, as the reduction of iron(III) oxide to iron $\\scriptstyle { \\left( { \\mathrm { I I } } , { \\mathrm { I I } } \\right) }$ oxide may compete with a further conversion to iron(II) oxide and elemental iron. This would consequently lead to a lower hydrogen output and thus a lower feedstock utilization. The impact was determined by a comparison of two experimental cycles, where (i) the rst one started from iron(III) oxide with a reduction and steam oxidation step and thus (ii) the following cycle started from iron(II,III) oxide. The duration of the reduction phase was set to 60 minutes. ",
+    "bbox": [
+      70,
+      388,
+      490,
+      555
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The conversion of the syngas was characterized by the carbon dioxide ratio according to eqn (11) presented in Fig. 7. The difference is clearly visible, as also the area of carbon dioxide sequestration in the rst $2 0 \\ \\mathrm { m i n }$ if the reduction phase starts from iron(III) oxide. In the subsequent oxidation phase the total amount of hydrogen was comparable for both cycles, characterized by a utilization ratio of $\\eta _ { \\mathrm { H } _ { 2 } } = 0 . 5 2 7$ starting from iron(III) oxide and $\\eta _ { \\mathrm { H } _ { 2 } } = 0 . 5 1 1$ starting from iron(II,III) oxide. That said, the carbon dioxide sequestration which is obtained by the complete oxidation of the oxygen carrier to iron(III) oxide does not inhibit the feedstock utilization for hydrogen generation and therefore has no disadvantages in terms of process efficiency. ",
+    "bbox": [
+      70,
+      557,
+      490,
+      694
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_5387778/auto/images/c7e5df00a1922dae65a9b0fa793416c8b15d871d87f26ba43bf41dc0d31b49f7.jpg",
+    "image_caption": [
+      "Fig. 7 Carbon dioxide ratio in the reduction phase starting from iron(III) oxide (solid) and without iron(II,III) oxide (hollow) for a fixed reduction time of 60 minutes. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      109,
+      724,
+      450,
+      887
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      60,
+      929,
+      105
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      123,
+      642,
+      143
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The present study demonstrates the combined production of pure hydrogen, nitrogen and carbon dioxide by chemical looping in the largest xed-bed research system currently available. The system sequestrates a pure carbon dioxide stream $( 9 8 - 9 9 \\%$ ) from fossil or renewable feedstocks. ",
+    "bbox": [
+      509,
+      154,
+      929,
+      228
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Non-converted methane ( ${ \\sim } 9 5 \\%$ rel.) from the reformate gas was detected as the main impurity whereas hydrogen and carbon monoxide were almost completely converted. Hence, a carbon dioxide quality up to $9 9 . 9 8 \\%$ is feasible with a higher methane conversion in the syngas generation unit. ",
+    "bbox": [
+      507,
+      231,
+      929,
+      306
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Hydrogen as valuable product gas had a purity between 99.996 and $9 9 . 9 9 9 \\%$ with carbon dioxide being the only contaminant. To the authors' knowledge, this is the purest hydrogen product gas presented to date in a chemical looping system with inherent carbon dioxide sequestration. The feedstock utilization of $5 0 { - } 6 0 \\%$ is comparable with the results of smaller uidized-bed systems $\\mathrm { ( < 0 . 5 ~ k W }$ hydrogen output) and exceeds the results for moving-bed designs with a similar output power $( \\sim 5 \\mathrm { \\ k W }$ hydrogen output). Furthermore, it was ascertained that the reduction reaction of iron(III) oxide does not compete with the further reduction of $\\mathrm { i r o n } \\mathrm { \\left( m , I I I \\right) }$ oxide to elemental iron in xed-bed chemical looping. Hence, carbon dioxide sequestration has no negative impact on the feedstock utilization for hydrogen generation. ",
+    "bbox": [
+      507,
+      308,
+      929,
+      521
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "With the air oxidation step, pure nitrogen was obtained as product gas $( 9 9 . 9 9 9 \\% )$ from synthetic air. In industrial processes, however, a purity of about $9 8 . 5 \\%$ seems feasible, since several trace gas compounds such as argon and carbon dioxide are already present in ambient air. ",
+    "bbox": [
+      507,
+      522,
+      929,
+      598
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Finally, the $1 0 ~ \\mathrm { \\ k W }$ xed-bed chemical looping system exhibited a superior product gas purity for the co-generation of hydrogen as a zero-emission fuel for fuel cell vehicles with the inherent sequestration of pure carbon dioxide and nitrogen as valuable by-products. The technology for hydrogen generation is a prospective negative emission technology (NET) to remove carbon dioxide from the atmosphere if biogas or biomass is used, as the pure carbon dioxide product gas is applicable for further use in CCS and CCU applications. ",
+    "bbox": [
+      507,
+      599,
+      929,
+      736
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "List of abbreviations ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      753,
+      726,
+      774
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "abs. Absolute   \nbal. Balance   \nbar Pressure in bar   \nbar(a) Absolute pressure in bar   \nBECCS Bioenergy carbon capture and storage   \nCCS Carbon capture and storage   \nCCU Carbon capture and utilization   \nCL Chemical looping   \nCLH Chemical looping hydrogen   \nCLWGS Chemical looping with water–gas shi reaction   \nCOP21 United Nations Framework Convention on Climate Change, 21st Conference of the Parties, Paris 2015   \ng Mass in grams   \nh Time in hours   \nHHV Higher heating value   \nIPCC Intergovernmental panel on climate change   \nkg Mass in kilograms   \nkW Power in kilowatts   \nLHV Lower heating value   \nmg Mass in milligrams   \nmin Time in minutes   \nmm Length in millimeters   \nn Amount of substance in moles   \nNET Negative emission technologies   \nNL Standard liter   \nO/R Oxidizing to reductive compounds ratio   \nratio   \nppm Parts per million   \nprod. Produced   \nrel. Relative   \n$\\mathbf { S } / \\mathbf { C }$ Steam to carbon ratio   \nratio   \nSIP Steam iron process   \n$\\mathbf { \\mu } \\mathbf { - G C }$ Micro-gas chromatograph   \n$\\eta _ { \\mathrm { H } _ { 2 } }$ Utilization ratio for hydrogen production   \n$^ \\circ \\mathbf { C }$ Temperature in degree Celsius   \n7 M. Bui, C. S. Adjiman, A. Bardow, E. J. Anthony, A. Boston, S. Brown, P. S. Fennell, S. Fuss, A. Galindo, L. A. Hackett, J. P. Hallett, H. J. Herzog, G. Jackson, J. Kemper, S. Krevor, G. C. Maitland, M. Matuszewski, I. S. Metcalfe, C. Petit, G. Puxty, J. Reimer, D. M. Reiner, E. S. Rubin, S. A. Scott, N. Shah, B. Smit, J. P. M. Trusler, P. Webley, J. Wilcox and N. Mac Dowell, Energy Environ. Sci., 2018, 11, 1062–1176.   \n8 X. Zhao, H. Zhou, V. S. Sikarwar, M. Zhao, A.-H. A. Park, P. S. Fennell, L. Shen and L.-S. Fan, Energy Environ. Sci., 2017, 10, 1885–1910.   \n9 T. Mendiara, F. Garc´ıa-Labiano, A. Abad, P. Gay´an, L. F. de Diego, M. T. Izquierdo and J. Ad´anez, Appl. Energy, 2018, 232, 657–684.   \n10 G. Voitic and V. Hacker, RSC Adv., 2016, 6, 98267–98296.   \n11 M. Luo, Y. Yi, S. Wang, Z. Wang, M. Du, J. Pan and Q. Wang, Renewable Sustainable Energy Rev., 2018, 81, 3186–3214.   \n12 V. Hacker, G. Faleschini, H. Fuchs, R. Fankhauser, G. Simader, M. Ghaemi, B. Spreitz and K. Friedrich, J. Power Sources, 1998, 71, 226–230.   \n13 V. Hacker, J. Power Sources, 2003, 118, 311–314.   \n14 S. D. D. Fraser, M. Monsberger and V. Hacker, J. Power Sources, 2006, 161, 420–431.   \n15 S. Bock, R. Zacharias and V. Hacker, Energy Convers. Manag., 2018, 172, 418–427.   \n16 S. Bock, R. Zacharias and V. Hacker, RSC Adv., 2019, 9, 23686–23695.   \n17 J. Lach´en, J. Herguido and J. A. Pena, ˜ Int. J. Hydrogen Energy, 2018, 1–11.   \n18 L. Protasova and F. Snijkers, Fuel, 2016, 181, 75–93.   \n19 C. D. Bohn, C. R. Muller, J. P. Cleeton, A. N. Hayhurst, ¨ J. F. Davidson, S. A. Scott and J. S. Dennis, Ind. Eng. Chem. Res., 2008, 47, 7623–7630.   \n20 S. Nestl, G. Voitic, M. Lammer, B. Marius, J. Wagner and V. Hacker, J. Power Sources, 2015, 280, 57–65.   \n21 G. Voitic, S. Nestl, K. Malli, J. Wagner, B. Bitschnau, F. A. Mautner and V. Hacker, RSC Adv., 2016, 6, 53533–53541.   \n22 R. Zacharias, S. Visentin, S. Bock and V. Hacker, Int. J. Hydrogen Energy, 2019, 44, 7943–7957.   \n23 D. Sridhar, A. Tong, H. Kim, L. Zeng, F. Li and L.-S. S. Fan, Energy Fuels, 2012, 26, 2292–2302.   \n24 A. Tong, D. Sridhar, Z. Sun, H. R. Kim, L. Zeng, F. Wang, D. Wang, M. V. Kathe, S. Luo, Y. Sun and L.-S. Fan, Fuel, 2013, 103, 495–505.   \n25 T.-L. L. Hsieh, D. Xu, Y. Zhang, S. Nadgouda, D. Wang, C. Chung, Y. Pottimurthy, M. Guo, Y.-Y. Y. Chen, M. Xu, P. He, L.-S. S. Fan, A. Tong, Y. Pottimurphy, M. Guo, Y.-Y. Y. Chen, M. Xu, P. He, L.-S. S. Fan and A. Tong, Appl. Energy, 2018, 230, 1660–1672.   \n26 M. Ryd´en and M. Arjmand, Int. J. Hydrogen Energy, 2012, 37, 4843–4854.   \n27 D. W. Zeng, R. Xiao, Z. C. Huang, J. M. Zeng and H. Y. Zhang, in International Journal of Hydrogen Energy, Pergamon, 2016, vol. 41, pp. 6676–6684.   \n28 W. C. Cho, D. Y. Lee, M. W. Seo, S. D. Kim, K. Kang, K. K. Bae, C. H. Kim, S. Jeong and C. S. Park, Appl. Energy, 2014, 113, 1667–1674. ",
+    "bbox": [
+      507,
+      798,
+      826,
+      930
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": ", 2020, , 1417–1426 | ",
+    "bbox": [
+      621,
+      964,
+      929,
+      975
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      70,
+      964,
+      391,
+      975
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      29,
+      114,
+      41
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "View Article Online ",
+    "bbox": [
+      833,
+      11,
+      927,
+      21
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy& Fuels ",
+    "bbox": [
+      724,
+      29,
+      927,
+      41
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      187,
+      43,
+      629
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      67,
+      65,
+      470,
+      460
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      43,
+      931,
+      925
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Conflicts of interest ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      507,
+      287,
+      526
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "There are no conicts to declare. ",
+    "bbox": [
+      70,
+      537,
+      290,
+      550
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      567,
+      284,
+      586
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Financial support from the Klima- and Energiefonds through the Energy Research Program 2015 is gratefully acknowledged. The publication was supported by the TU Graz Open Access Publishing Fund. Furthermore, the authors sincerely thank Ivan Lizat and Jakob Sabitzer for their active support and assistance while conducting the experiments. ",
+    "bbox": [
+      68,
+      598,
+      492,
+      689
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      704,
+      191,
+      724
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1 N. Armaroli and V. Balzani, ChemSusChem, 2011, 4, 21–36.   \n2 C. Walla and W. Schneeberger, Biomass Bioenergy, 2008, 32,   \n551–557.   \n3 H. J. Alves, C. Bley Junior, R. R. Niklevicz, E. P. Frigo, M. S. Frigo and C. H. Coimbra-Araujo, ´ Int. J. Hydrogen Energy, 2013, 38, 5215–5225.   \n4 L. B. Braga, J. L. Silveira, M. E. da Silva, C. E. Tuna, E. B. Machin and D. T. Pedroso, Renewable Sustainable Energy Rev., 2013, 28, 166–173.   \n5 F. Rau, A. Herrmann, H. Krause, D. Fino and D. Trimis, Energy Procedia, 2017, 120, 294–301.   \n6 F. Rau, A. Herrmann, H. Krause, D. Fino and D. Trimis, Int. J. Hydrogen Energy, 2019, 44, 19135–19140. ",
+    "bbox": [
+      75,
+      735,
+      492,
+      933
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sustainable Energy & Fuels ",
+    "bbox": [
+      70,
+      29,
+      275,
+      42
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This journal is $\\circledcirc$ The Royal Society of Chemistry 2020 ",
+    "bbox": [
+      608,
+      964,
+      927,
+      976
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "| , 2020, , 1417–1426 ",
+    "bbox": [
+      70,
+      964,
+      378,
+      976
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "View Article Online Paper ",
+    "bbox": [
+      833,
+      11,
+      929,
+      41
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      1,
+      191,
+      45,
+      629
+    ],
+    "page_idx": 9
+  }
+]

@@ -1,0 +1,2074 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/19a87a2f8038b020dd6464174b75a5c380e7e5c753590fb0d662ef42313133f4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      400,
+      88,
+      596,
+      199
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Camellias and More Nursery ",
+    "text_level": 1,
+    "bbox": [
+      261,
+      204,
+      738,
+      236
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SYSTEMS APPROACH TO NURSERY CERTIFICATION FACILITY MANUAL ",
+    "bbox": [
+      191,
+      260,
+      807,
+      313
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/00b6dba1b47507d6fd460dcbc26e4601ce236b23b60d869b8ad81262fbbdfb2e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      218,
+      335,
+      725,
+      595
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "210 Willow Street Yarmouth, Maine 04096 ",
+    "bbox": [
+      380,
+      662,
+      617,
+      705
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contact Phone Number: (207) 846 5496 ",
+    "bbox": [
+      382,
+      728,
+      616,
+      770
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Email: sancmanager@camelliasandmore.com January 2021 -- v 1.2 ",
+    "bbox": [
+      284,
+      794,
+      712,
+      837
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Camellias and More Nursery ",
+    "text_level": 1,
+    "bbox": [
+      281,
+      133,
+      718,
+      162
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "TABLE of CONTENTS ",
+    "bbox": [
+      397,
+      178,
+      602,
+      198
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SANC Policy Statement 3 ",
+    "bbox": [
+      194,
+      251,
+      718,
+      267
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Staff Training and Staff SANC Positions 4 ",
+    "bbox": [
+      194,
+      284,
+      722,
+      301
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Organization Chart 9 ",
+    "bbox": [
+      194,
+      318,
+      722,
+      335
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Site Information 10 ",
+    "bbox": [
+      194,
+      352,
+      725,
+      368
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Pest Management Plan 11 ",
+    "bbox": [
+      192,
+      386,
+      725,
+      402
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Internal Audit and Systems Improvement 20 ",
+    "bbox": [
+      194,
+      420,
+      727,
+      438
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Document and Record Control Procedures 22 ",
+    "bbox": [
+      196,
+      454,
+      725,
+      470
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Certifying Authority Information 24 ",
+    "bbox": [
+      196,
+      487,
+      725,
+      503
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revision Log 25 ",
+    "bbox": [
+      196,
+      522,
+      725,
+      539
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SANC POLICY STATEMENT ",
+    "text_level": 1,
+    "bbox": [
+      357,
+      111,
+      640,
+      133
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Camellias and More Nursery’s (CAMN) mission is to produce high quality plant material that is free of pests and pathogens, and to promote a staff culture that engages all in the well-being of the plants we grow. It is our goal to be as aware as possible of any pest or pathogen threats, to address issues as early as possible, and to ship only pest-free plants. We have implemented many pest management practices to maintain a clean nursery environment and to prevent the movement of pests and pathogens. Integrated Pest Management Practices such as scouting, preventive pesticides, sanitary practices and cultural practices have been an important part of the nursery’s pest control strategy since its inception in 1980. Now, the Systems Approach for Nursery Certification (SANC) program with its underlying Standards, Best Management Practices (BMPs), Risk Assessment methodology and utilization of a Pest Management Plan (PMP) is adopted as part of our nursery’s management of pest risks. ",
+    "bbox": [
+      114,
+      151,
+      885,
+      382
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We conducted a risk assessment for the hazards and critical control points identified in the many different SANC production processes such as Incoming Plant Material, Media and Pots, Water, Equipment, Site, Propagation, Production, Disposal and Shipping areas. A Pest Management Plan was developed based on the findings of the risk assessment, as well as requirements for compliance agreements per our state certifying authority. Over time, the SANC risk assessment will be reviewed for changes that may have occurred at the nursery. Any amendments will be made to the PMP processes and SANC Facility Manual. ",
+    "bbox": [
+      114,
+      397,
+      885,
+      542
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The Camellias and More Nursery’s SANC Program prioritizes the pest management goals, and ensures that SANC Standards are promulgated by training personnel on the importance of pest management, pest identification and control are offered to key position, continuing improvement of processes and pest management techniques to be implemented, as well as maintaining records to establish feasible and effective pest management practices. ",
+    "bbox": [
+      114,
+      559,
+      883,
+      662
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "All staff are introduced to SANC during onboarding training to highlight the importance of abiding by SANC principles at the nursery, and annual SANC training reinforces these concepts for all current employees each year. We have also integrated general SANC responsibilities into relevant job descriptions, so employees understand our commitment to SANC. In addition each employee is trained to follow SANC responsibilities specific to their positions. ",
+    "bbox": [
+      114,
+      678,
+      883,
+      781
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We use internal and external audit systems to verify the efficacy of our PMP and BMPs and to ensure that each staff member is effectively fulfilling SANC Standards. We take immediate action when these audit systems suggest a need for improvement. ",
+    "bbox": [
+      116,
+      797,
+      883,
+      858
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Staff Training and Staff SANC Positions ",
+    "text_level": 1,
+    "bbox": [
+      285,
+      92,
+      710,
+      114
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Employee SANC Training ",
+    "bbox": [
+      380,
+      132,
+      619,
+      152
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "New Employee Orientation to SANC: All new employees receive an introduction to the nursery’s SANC Program on the first day of employment. Information on the SANC structure and commitment is presented and employees are trained on their SANC duties. ",
+    "bbox": [
+      114,
+      169,
+      885,
+      229
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Annual SANC Training: All employees attend an annual formal specific training/reinforcement session on SANC policies and the SANC Facility Manual procedures, the importance of a systems based approach, and how Altman Plants maintains certification. In addition, tail-gate trainings occur on a regular basis to communicate needed SANC information. ",
+    "bbox": [
+      114,
+      244,
+      883,
+      327
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "On-site SANC Information: Information about SANC and potential pests is posted in the employee break areas and critical work areas. ",
+    "bbox": [
+      114,
+      343,
+      812,
+      382
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Staff SANC Positions ",
+    "text_level": 1,
+    "bbox": [
+      400,
+      433,
+      596,
+      453
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Staff with specific SANC responsibilities are provided with position-specific information and training. ",
+    "bbox": [
+      112,
+      469,
+      848,
+      508
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/c355b52d8baf1bf5f4df0c70eed73545a605e94fd028a782ea428886f6670320.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Position</td><td colspan=\"1\" rowspan=\"1\">SANCResponsibilities-</td><td colspan=\"1\" rowspan=\"1\">Qualifications</td><td colspan=\"1\" rowspan=\"1\">PositionRequirements</td><td colspan=\"1\" rowspan=\"1\">Documentation</td></tr><tr><td colspan=\"1\" rowspan=\"3\"> SANC ProgramManager(OperationsManager)</td><td colspan=\"1\" rowspan=\"1\">Manages all aspects of theSANC program to ensurecompliance with theprogram and is PestManagement PlanManager backup</td><td colspan=\"1\" rowspan=\"1\">Systems approachand/or QualityManagement,IntegratedPest Management</td><td colspan=\"1\" rowspan=\"1\">Overallmanagement ofall departments,SANC leadership,and annual reviewof SANC Manual</td><td colspan=\"1\" rowspan=\"1\">Controls FacilityManual andreferenceddocuments</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Manages internal auditsand coordinates externalaudits with the statecertifying authorityrepresentatives</td><td colspan=\"1\" rowspan=\"1\">Understands audit procedures andsystemsimprovementpractices</td><td colspan=\"1\" rowspan=\"1\">Communicatesaudit results tomanagement andappropriate staff</td><td colspan=\"1\" rowspan=\"1\">All audit forms</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Maintains and controlsSANC documents;approves and implementschanges to SANCdocuments</td><td colspan=\"1\" rowspan=\"1\">SANC Requirements</td><td colspan=\"1\" rowspan=\"1\">Annual Review ofrisk assessmentconducted on thenursery</td><td colspan=\"1\" rowspan=\"1\">All SANC trainingand orientationrecords</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Contact for SANC StateCertifying Authority.Reports changes to SANCManual as needed</td><td colspan=\"1\" rowspan=\"1\">RegulatoryCompliance</td><td colspan=\"1\" rowspan=\"1\"> Yearly review ofquarantine andregulated pests inarea or in marketsshipped.Meetswith appropriate state and federalregulators on aregular basis.Report allregulated pestfinds to the stateauthority formitigationdirections</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Coordinate review of theNursery's SANC Program</td><td colspan=\"1\" rowspan=\"1\">Nursery Management andSystemsImprovement</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"> Internal auditrecords</td></tr><tr><td colspan=\"1\" rowspan=\"4\">Pest ControlManager/TechnicalService Manager</td><td colspan=\"1\" rowspan=\"1\">Manages PestManagement PlanAlternate SANC ProgramManager for Nursery</td><td colspan=\"1\" rowspan=\"1\">Certified PesticideApplicator; Scouting and Pestdetection procedures;SANC BMPs</td><td colspan=\"1\" rowspan=\"1\">Continuingeducation in pestdetection, scouting and pestcontrol</td><td colspan=\"1\" rowspan=\"1\">All scouting, pestcontrol records</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Determines bestmitigation and control forany pest finds, including prevention of pest</td><td colspan=\"1\" rowspan=\"1\">Compliance withapplicable SCArequirements</td><td colspan=\"1\" rowspan=\"1\">Pesticideapplicatorcertification iskept current</td><td colspan=\"1\" rowspan=\"1\">All diagnosticrecords</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reports all regulated pestfinds to the SANC Manager</td><td colspan=\"1\" rowspan=\"1\">BMPs</td><td colspan=\"1\" rowspan=\"1\">Recognition of new pests andthreatsMonthly updatesfrom extensionand state agencies</td><td colspan=\"1\" rowspan=\"1\">All mitigation andpesticide records</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Maintains all scouting andmonitoring recordsupdated</td><td colspan=\"1\" rowspan=\"1\">Agriculture knowledge</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">All scouting andmonitoring records</td></tr><tr><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"1\">Trains field employeesabout IPM and BPM</td><td colspan=\"1\" rowspan=\"1\">Certified PesticideApplicator andagricultureknowledge</td><td colspan=\"1\" rowspan=\"1\">Internal audittraining</td><td colspan=\"1\" rowspan=\"1\">Training records</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Head Grower</td><td colspan=\"1\" rowspan=\"1\">In charge of all pottingproduction from the fieldsand greenhouse.Workswith Operation andTechnical ServicesManager to follow the IPMstrategies and SANC BMPs</td><td colspan=\"1\" rowspan=\"1\">Training, experienceand knowledge inSANC following themanagementprotocol</td><td colspan=\"1\" rowspan=\"1\"> Internal auditortraining</td><td colspan=\"1\" rowspan=\"1\">All productionrecording such as, planting, pestcontrol, waterquality, etc.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pest ControlSupervisor</td><td colspan=\"1\" rowspan=\"1\">Ensures all law pesticideregulation is followedcorrectly. Trained to backup the Pest ManagementPlan</td><td colspan=\"1\" rowspan=\"1\">Certified PesticideApplicator andagricultureknowledge</td><td colspan=\"1\" rowspan=\"1\">Internal auditortraining</td><td colspan=\"1\" rowspan=\"1\"> Knows where tolocate al pestrecords listed inTechnical Manager</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Dock Manager/Quality ControlManager</td><td colspan=\"1\" rowspan=\"1\">Shipping logistics. Oversees incoming plantmaterial requirements.Trained for internal audits</td><td colspan=\"1\" rowspan=\"1\">In-house training byOperations Manageron SANCrequirements forshipping plantmaterial</td><td colspan=\"1\" rowspan=\"1\">Internal auditortraining</td><td colspan=\"1\" rowspan=\"1\">All shipping records</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Receiving Clerk</td><td colspan=\"1\" rowspan=\"1\">Receiving all plant material</td><td colspan=\"1\" rowspan=\"1\">Training byTechnical Manageron SANCrequirements forincoming plantmaterial</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Allincoming plantmaterial</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Pest Scouts</td><td colspan=\"1\" rowspan=\"1\">Monitor and scout all theplant material as assignedusing yellow trap</td><td colspan=\"1\" rowspan=\"1\">Training in pest anddiseaseidentification.Training in scoutingtechniques</td><td colspan=\"1\" rowspan=\"1\">Meetings andmediacomponents usedto train on pestand diseases</td><td colspan=\"1\" rowspan=\"1\"> Scouting records</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Data Entry - Office</td><td colspan=\"1\" rowspan=\"1\">Electronic record for SANC</td><td colspan=\"1\" rowspan=\"1\">Train on SANCrecordrequirements,computer recordstorage, Nurserydata storage anddocument control</td><td colspan=\"1\" rowspan=\"1\">Update computerrecords</td><td colspan=\"1\" rowspan=\"1\">Safety and trainingrecords</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Planting Supervisor</td><td colspan=\"1\" rowspan=\"1\">Responsible for takinghealthy cuttings andplanting cuttings toreproduce our plants.Propagation Lead and theirteam notify TechnicalManager of any pest ordisease finds formitigation. Scouts for pestand disease problems andreports them toProduction Supervisor or</td><td colspan=\"1\" rowspan=\"1\">Propagation Leadand their teamtrained to recognizecommon signs andsymptoms of pestand diseases</td><td colspan=\"1\" rowspan=\"1\">Meets withTechnicalManager on aregular basis fortraining and newthreats.Internalauditor</td><td colspan=\"1\" rowspan=\"1\">All records of pests and pathogensfound inpropagation. Allmitigation recordsfor propagation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">ProductionSupervisor</td><td colspan=\"1\" rowspan=\"1\">Responsible for growinghealthy plants. ProductionLead and their team notifyTechnical Manager of anypest or disease finds formitigation. Scouts for pestand disease problems andreports them toProduction and OperatorManager</td><td colspan=\"1\" rowspan=\"1\">Production Lead andtheir team trained torecognize commonsigns and symptomsof pest and diseases</td><td colspan=\"1\" rowspan=\"1\">Meets withTechnicalManager on aregular basis fortraining and newthreats.Internalauditor</td><td colspan=\"1\" rowspan=\"1\">All records of pestsand pathogensfound in productionareas. Allmitigation recordsfor productionareas</td></tr></table>",
+    "bbox": [
+      114,
+      522,
+      882,
+      848
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      114,
+      80,
+      883,
+      829
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      114,
+      88,
+      883,
+      900
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      491,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      117,
+      89,
+      880,
+      248
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "SANC Responsibilities per Position ",
+    "text_level": 1,
+    "bbox": [
+      331,
+      318,
+      663,
+      338
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/5eef36fcbe2641127f571ec7a460e3b4ed0014fff8e8c0df116c26c1702ab0bc.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Job Title</td><td colspan=\"1\" rowspan=\"1\">SANC Responsibility</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operations Manager</td><td colspan=\"1\" rowspan=\"1\">SANC Program Manager</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Technical ServiceManager</td><td colspan=\"1\" rowspan=\"1\">Manages Pest Management PlanMaintains Risk AssessmentMaintains Compliance Agreement and RegulatoryDocumentsManages ScoutingManages Chemical Application</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Head Grower</td><td colspan=\"1\" rowspan=\"1\">Maintains Auditor TrainingProduction ProtocolsProduction RecordChemical Application RecordsInternal Auditors Training</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pest Control Supervisor</td><td colspan=\"1\" rowspan=\"1\">ScoutingChemical Application</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Dock Manager</td><td colspan=\"1\" rowspan=\"1\">ScoutingInternal Auditor</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pest Scouts</td><td colspan=\"1\" rowspan=\"1\">Data EntryScoutingMaintains Diagnostic ReportInternal Auditor</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Receiving Clerk</td><td colspan=\"1\" rowspan=\"1\">Data EntryMaintains Diagnostic ReportInternal Auditor</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Planting Supervisor</td><td colspan=\"1\" rowspan=\"1\">ScoutingChemical ApplicationInternal Auditor</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Production Supervisor</td><td colspan=\"1\" rowspan=\"1\">ScoutingChemical ApplicationInternal Auditor</td></tr></table>",
+    "bbox": [
+      156,
+      348,
+      841,
+      880
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      156,
+      88,
+      843,
+      318
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      493,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/6b3e1466059b9a51d77d16df080c6ff826689356d866bbe0f8b5c04fd4776bc0.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      49,
+      47,
+      972,
+      917
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      491,
+      921,
+      504,
+      934
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Site Information ",
+    "text_level": 1,
+    "bbox": [
+      408,
+      92,
+      588,
+      114
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "FACILITY DESCRIPTION: The Camellias and More Nursery has 90 acres of container production, with 5 acres available for future development; 5 acres in greenhouses and 7 acres of shade house. The nursery also has interior and perimeter access roadways which are maintained regularly. Additionally, CAMN has 12 acre-feet of recycled water, and recycles more than 1 million gallons of water each year. Weeds are treated regularly as well as needed. ",
+    "bbox": [
+      114,
+      140,
+      880,
+      236
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Site Map ",
+    "text_level": 1,
+    "bbox": [
+      460,
+      252,
+      537,
+      268
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/5998c19a8a265164e44425ce1f5d8454a35514b0283eb0e8fc31bb3cd0b157ac.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      70,
+      304,
+      880,
+      655
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Haun Schulze Road ",
+    "bbox": [
+      433,
+      650,
+      534,
+      660
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      921,
+      509,
+      934
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Pest Management Plan ",
+    "text_level": 1,
+    "bbox": [
+      325,
+      92,
+      578,
+      113
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Scouting and Quality Control ",
+    "text_level": 1,
+    "bbox": [
+      313,
+      147,
+      588,
+      167
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The underlying backbone of plant quality at the CAMN consists of regular quality control inspections by our Quality Control Manager and additional trained staff. Our Quality Control Manager inspects plants at the following points: Receipt of plant material; labelling plants ready for sale; and shipment of plant material. The QC Manager signs off on each inspection. Other production staff conduct regular visual checks for plant quality, especially when plants are ready for sale or are sold and awaiting shipment. In addition to our routine QC checks, our scouting program monitors plant health between receipt and shipment. Scouting takes place on two levels: ",
+    "bbox": [
+      114,
+      188,
+      781,
+      352
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Basic Scouting: Basic scouting utilizes all staff members working in production areas as a resource. During onboarding training, every employee that will regularly work in the vicinity of plant material is trained on basic scouting principles, and on what some common pests, pathogens, and problems may look like. During training, they are instructed to follow our Red Flag Procedure (see below) should they identify any symptomatic or questionable plants. ",
+    "bbox": [
+      114,
+      372,
+      789,
+      482
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Formal Scouting: Formal scouting utilizes specifically trained staff members that hold permanent positions within production areas. In addition to any onboarding training they receive when joining CAMN, they participate in a formal scout training program that provides more in-depth information on the importance of scouting with intent, common issues, the Red Flag Procedure, how to record and report identified issues, and includes a hands-on group practice session in the nursery beds. The nursery is divided into scouting sections, and scouts routinely rotate through sections, usually on a bi-weekly basis. ",
+    "bbox": [
+      114,
+      484,
+      789,
+      631
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Red Flag Procedure ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      651,
+      276,
+      667
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Red Flag Procedure is our means of visually communicating the presence of symptomatic or questionable material. All staff trained as Basic or Formal Scouts know to follow the Red Flag Procedure, as outlined below: ",
+    "bbox": [
+      117,
+      670,
+      763,
+      727
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "▪ Scouts identify a symptomatic plant. Scouts inform their direct supervisor, who labels a symptomatic plant if necessary. The flags must be placed in a visible, secure location. Red flags indicate a plant that needs to be addressed. Supervisors inform the Quality Control Manager and provide any available information. The Quality Control Manager assesses the issue and reports the information to the Operations Manager. ",
+    "bbox": [
+      143,
+      736,
+      782,
+      893
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      459,
+      934
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Operations Manager assesses the issue and determines an appropriate course of action, depending on the pest or pathogen and extent of the problem (treatment, separated, or disposal). This may include following regulatory protocol and contacting appropriate state certifying authorities should a regulated pest be found. The Operations Manager records this information in the pest management report records.   \nRed flags are replaced with yellow flags to indicate that the issue has been addressed, but the plant is still being monitored. ",
+    "bbox": [
+      143,
+      90,
+      774,
+      248
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Formal Scouting Procedure ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      280,
+      338,
+      296
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Scouts are assigned a nursery section each scouting period. They rotate through each section, usually on a biweekly basis.   \n▪ Scouts walk each section thoroughly, ensuring all plants receive appropriate attention. Should scouts find symptomatic plants, they record the finding and follow the Red Flag Procedure for labeling plants.   \n▪ Scouting records are filed with the Pest Control Manager. The Pest Control Manager assesses the scouting records, determines appropriate treatment, and consults with the Operations Manager and Head Grower, if necessary. ",
+    "bbox": [
+      143,
+      299,
+      772,
+      494
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Further Scouting Information ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      507,
+      356,
+      525
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Should an unidentified issue arise, the Pest Control Manager sends samples to an approved lab. The Pest Control Manager maintains sample collection information and test results.   \nSome plants may require isolation to prevent spread of pest or disease. Designated isolation areas are variable and are assigned based on issue severity and proximity to susceptible plants. These areas are easily   \nidentifiable. ",
+    "bbox": [
+      142,
+      535,
+      779,
+      674
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Incoming Plant Material BMPs ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      688,
+      364,
+      705
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "All externally sourced plant material (except seed) is received at our shipping/receiving docks, and kept separate from all inventory until inspected. ",
+    "bbox": [
+      147,
+      708,
+      718,
+      763
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "o All plant material is inspected upon receipt by the Quality Control Manager. ",
+    "bbox": [
+      194,
+      773,
+      753,
+      811
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$\\spadesuit$ Symptomatic plant material found at receipt is marked according to the Red Flag Procedure.   \n$\\spadesuit$ The Operations Manager determines course of action and records symptoms and treatment. Re-inspection occurs regularly after treatment. If mitigation is successful, plants re-enter inventory. If unsuccessful, plants are taken to the cull pile, unless regulatory protocol requires that the material go into the dumpster.   \n Material that passes inspection is assigned to a nursery section, and is then sent to the canning barn for potting.   \n$\\spadesuit$ Receiving inspection records, once signed, are filed with the Quality Control Manager. The Operations Manager reports regulated pests and pathogens to the appropriate state and/or federal authorities upon identification, and obtains the proper mitigation protocol.   \nWe only place orders requiring international shipment from vendors with appropriate certification and import permits. CAMN does not import plant material directly from offshore production.   \nWe maintain a list of approved and reputable vendors and update this list each year. Approved vendors must provide proof of nursery certification and relevant compliance agreements. We prefer purchasing plants from vendors with whom we have a long-standing relationship, and nurseries that we have visited. ",
+    "bbox": [
+      243,
+      815,
+      736,
+      893
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      243,
+      92,
+      781,
+      251
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      142,
+      257,
+      789,
+      479
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We do not accept returned plant material. ",
+    "bbox": [
+      145,
+      487,
+      516,
+      503
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "• Seed is typically delivered to the production office. ",
+    "bbox": [
+      145,
+      510,
+      580,
+      526
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "o Seed is inspected immediately by the Quality Control Manager. ",
+    "bbox": [
+      232,
+      536,
+      767,
+      554
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "$\\spadesuit$ If the material has any pest, disease, or quality control issue it fails the inspection and is not accepted into inventory. $\\spadesuit$ Seed that passes inspection is either stored in a cool, dry location until planting, or is planted immediately and placed in one of the propagation houses. ",
+    "bbox": [
+      279,
+      560,
+      785,
+      659
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Internal Plant Material Sources BMPs ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      685,
+      421,
+      703
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "• All internally sourced cuttings and divisions are collected in the field. ",
+    "bbox": [
+      142,
+      705,
+      720,
+      723
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "o Prior to propagating, the Head Grower inspects parent plants to ensure collection of the healthiest plant material.   \no Any symptomatic plant material is reported and flagged.   \no Cuttings are taken to the propagation facility for cleaning and root hormone application. They are then transported to the propagation house where they will be planted in.   \no Smaller divisions are planted in trays and raised in propagation houses. Larger divisions are either potted at the canning barn immediately after collection, or are stored in the propagation ",
+    "bbox": [
+      232,
+      728,
+      774,
+      907
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "room until planting. They are then raised in appropriate nursery sections. o All propagules are inspected regularly, and any propagules showing symptoms of pest and disease are disposed of. ",
+    "bbox": [
+      232,
+      90,
+      774,
+      167
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Hand tools used in cuttings and divisions are regularly sanitized to prevent the spread of pest and disease. When working with highly susceptible plants, tools are sanitized more often. Regulated pests and pathogens are reported immediately. The Operations Manager ensures we use the most up-to-date mitigation protocol, and ensures we follow all compliance agreements and regulatory procedures. ",
+    "bbox": [
+      143,
+      174,
+      772,
+      295
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Containers and Media BMPs ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      321,
+      349,
+      338
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "• General: ",
+    "bbox": [
+      145,
+      342,
+      245,
+      356
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "o Only internally sourced containers are re-used – recycled containers from outside sources are not accepted.   \no We do not reuse contaminated containers. Contaminated containers are disposed of in the dumpster and hauled off site.   \no We strictly use new containers for plant material that is highly susceptible to soil-borne pests or pathogens, as determined by the Operations Manager.   \no New containers are stored stacked and wrapped in plastic until use. Containers rest on palettes that are raised off the ground, and sit on a thick layer of gravel.   \no We store re-useable containers stacked on palettes that are raised off the ground, and sit on a thick layer of gravel. They are also on separate palettes from new containers.   \no Protocol for some regulated issues may require that the plant, soil, and container are all disposed of in a dumpster. This protocol is followed as directed by the Operations Manager and Pest Control Manager. ",
+    "bbox": [
+      200,
+      362,
+      782,
+      700
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Propagation: ",
+    "bbox": [
+      143,
+      712,
+      279,
+      728
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "o Only internally sourced containers are re-used.   \n$\\bigcirc$ We do not reuse contaminated containers.   \n$\\bigcirc$ We strictly use new containers on plant material that is highly susceptible to soil-borne pests or pathogens, as determined by the Operations Manager. ",
+    "bbox": [
+      202,
+      731,
+      769,
+      829
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      462,
+      934
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Media BMPs ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      92,
+      220,
+      107
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "General: ",
+    "bbox": [
+      145,
+      111,
+      245,
+      126
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "o We do not reuse contaminated media. Contaminated media is brought to the dump pile with any associated contaminated plants.   \no Any media that can be reused re-enters the bark aging pile if it cannot be immediately reused (within the same potting activity).   \no Bark piles are aged. Piles are turned when the temperature of the pile measures 140-160F (using a soil probe).   \no If the equipment used to turn bark piles has recently been to the cull pile, the equipment must be cleaned thoroughly using a pressure washer and appropriate disinfectant before turning the bark.   \no Bark piles are stored on a thick layer of gravel to prevent contact with native soils and standing water.   \no Sand is stored on concrete slabs.   \no All other media comes in original packaging and is stored raised off the ground in a sheltered area and on gravel or concrete pads.   \no We check for weed growth and control nearby vegetation continually.   \no Protocol for some regulated issues may require that the plant, soil, and container are all disposed of in a dumpster. This protocol is followed as directed by the Operations Manager and Production Manager. ",
+    "bbox": [
+      200,
+      131,
+      782,
+      530
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• Propagation: ",
+    "bbox": [
+      143,
+      541,
+      279,
+      558
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "o We only use new media when planting propagules, or with any plant being grown in the propagation houses. o When planting propagules, flats are filled before entering the propagation houses to prevent media from collecting within houses. ",
+    "bbox": [
+      202,
+      560,
+      782,
+      638
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Water BMPs ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      662,
+      220,
+      678
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "General: ",
+    "bbox": [
+      145,
+      681,
+      245,
+      696
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "o Our nursery beds and houses are organized by water requirements to help prevent overwatering.   \no We maintain a list of plant material highly susceptible to waterborne pathogens, and locate those plants in the most appropriate areas for reducing risk.   \no Plants are regularly monitored to ensure proper watering.   \no In areas with overhead watering, plants are spaced to maintain healthy growth, but spacing is optimized to minimize run off and overspray.   \no A water schedule is to minimize periods of leaf wetness and provide plants with an ample drying period.   \no Growing areas are checked regularly for standing water and drainage problems. Any problems are addressed immediately. This includes searching for and repairing leaks in irrigation lines.   \no Our irrigation intake pump is submerged to an intermediate depth (approximately 10 ft. below the surface), minimizing contamination from potentially contaminated surface water or harmful product that has settled at the bottom.   \no Our main pump has a filter that removes larger organisms.   \no Most nursery beds are constructed to be slightly sloped towards drainage ditches that re-direct water back to our main water source.   \no We test our irrigation water sources as needed should we suspect a waterborne pest or pathogen. ",
+    "bbox": [
+      202,
+      702,
+      767,
+      877
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      202,
+      90,
+      785,
+      368
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Propagation: ",
+    "bbox": [
+      143,
+      372,
+      279,
+      388
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "o All above practices apply to propagation.   \no Propagules are initially misted with city water. Once propagules are established, they receive water from the irrigation pond.   \no Propagation areas are checked regularly for standing water and drainage problems. Any problems are addressed immediately. Irrigation lines are sanitized in between crops to minimize risk of spreading water-borne pests and pathogens within propagation houses. ",
+    "bbox": [
+      202,
+      392,
+      774,
+      547
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Production Practices BMPs ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      570,
+      338,
+      585
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "• Visitors: ",
+    "bbox": [
+      145,
+      590,
+      240,
+      604
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "o Visitors must check in at the main office before entering production.   \no Visitors traveling within production areas must spray the bottom of their shoes with disinfectant. Spray bottles are kept in the main office and at the production office.   \no Visitors must travel throughout the production areas in a CAMN vehicle and accompanied by a CAMN staff member.   \no Signage around the nursery emphasizes the importance of restricted road use and sanitation practices for visitors.   \no Truck drivers are e-mailed Loma Vista Nursery Sanitation Requirements at hire, and can also obtain the information at the shipping dock. ",
+    "bbox": [
+      202,
+      609,
+      782,
+      825
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "• General: ",
+    "bbox": [
+      145,
+      849,
+      245,
+      866
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "o Employees are trained to avoid areas with red flags, which indicate contaminated areas according to the Red Flag Procedure. ",
+    "bbox": [
+      205,
+      869,
+      771,
+      906
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      462,
+      934
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "o All preparation areas (canning barn, shipping/receiving dock, and propagation) have a posted sanitation check sheet that must be signed once a week at minimum during peak season.   \no The entire nursery is built on a thick layer of gravel to prevent contact with native soil and to prevent standing water. Roads and beds are re-graveled as necessary.   \no Irrigation schedule and methods are structured to help reduce leaf wetness, minimize standing water, and provide plants with an ample drying period. Requirements vary between propagation houses and other nursery beds and houses.   \no All nursery beds on the perimeter have a few feet of gravel border between them and any surrounding vegetation. This vegetation is also maintained by mowing and with sprays, as needed.   \no Weeds within production areas are controlled with pre-emergent sprays, post-emergent sprays, and manual pulling. ",
+    "bbox": [
+      202,
+      90,
+      784,
+      391
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Houses and Nursery Beds: ",
+    "bbox": [
+      145,
+      395,
+      385,
+      411
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "o Beds and houses are sanitized between each crop.   \no Plant debris from trimming or pruning and contaminated plant material is removed from houses and nursery beds as soon as possible.   \no Should any water gather in houses or beds, the irrigation team addresses the issue as soon as possible.   \no Plants may be for sale for multiple years, but once it becomes too old or declines in quality, it is removed from inventory and disposed of.   \no Any change in the status of a plant is noted by the Quality Control Manager. ",
+    "bbox": [
+      202,
+      415,
+      779,
+      633
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Propagation: ",
+    "bbox": [
+      143,
+      657,
+      287,
+      674
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "o All above practices apply to propagation, in addition to those below:   \no Hand sanitizer is kept near cutting and planting areas at all times. If working with susceptible material, hands are sanitized between varieties.   \no Cuttings are collected in clean containers to prevent cuttings from contacting the ground.   \no Debris from pruning of young plants and perennials is removed immediately.   \no During peak propagation periods, the propagation room is sanitized using a spray of diluted bleach or alcohol before cuttings are handled. ",
+    "bbox": [
+      202,
+      678,
+      779,
+      892
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "• Canning Barn and Shipping/Receiving Docks ",
+    "bbox": [
+      145,
+      93,
+      526,
+      109
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "o The shipping/receiving dock is cleaned thoroughly on a weekly basis, and as needed.   \no During peak potting periods, the canning barn must be cleaned once a week, and as needed. ",
+    "bbox": [
+      202,
+      112,
+      782,
+      189
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Equipment and Vehicles BMPs ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      220,
+      366,
+      237
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Shipping and Receiving: ",
+    "bbox": [
+      147,
+      241,
+      367,
+      257
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "o Trailers, carts, and any other equipment used to transport incoming or outgoing plant material is cleaned during regular maintenance.   \no Equipment in shipping/receiving is mostly dedicated to this area. If equipment is used in other areas, it is cleaned prior to use in the shipping/receiving area.   \no Traffic to and from the shipping/receiving dock is restricted to the main road.   \no Truck trailers are inspected before loading plant material.   \no If a truck needs to be cleaned before loading, truck drivers must not clean their trailers at the facility. ",
+    "bbox": [
+      202,
+      260,
+      777,
+      457
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "• Production Areas: ",
+    "bbox": [
+      145,
+      468,
+      318,
+      484
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "o Trailers, carts, and any other equipment used to transport incoming or outgoing plant material is cleaned during regular maintenance.   \no Any equipment used to transport contaminated material is cleaned before returning to normal production activities.   \no Grading equipment is cleaned regularly to prevent spread of waterborne pathogens. In addition, grading equipment is cleaned after being used to re-gravel roads or planting beds for standing water, or in areas where disease was found.   \no During peak potting periods, potting equipment must be cleaned once a week, and as needed. ",
+    "bbox": [
+      210,
+      488,
+      776,
+      684
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "BMPs – Blades and Hand Tools ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      696,
+      367,
+      714
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "General: ",
+    "bbox": [
+      145,
+      718,
+      245,
+      733
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "o Smaller tools and blades are stored on shelves or walls.   \no Tools and water hose ends should not come in contact with native soils. If they do for any reason, they are sanitized immediately.   \no Debris is removed from cutting blades and equipment immediately so that debris is not transported between plants.   \n$\\bigcirc$ Tools are all sanitized during the wintertime. ",
+    "bbox": [
+      210,
+      737,
+      771,
+      854
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Propagation: ",
+    "bbox": [
+      143,
+      93,
+      279,
+      109
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "$\\bigcirc$ All above practices apply to propagation, in addition to those below:   \n$\\bigcirc$ Tools used for cuttings are only used by the propagation team.   \n$\\bigcirc$ Cutting tools are sanitized between varieties.   \no When cutting highly susceptible varieties, cutting tools are sprayed periodically throughout the cutting process. ",
+    "bbox": [
+      210,
+      112,
+      787,
+      210
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      462,
+      934
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Internal Audit and Systems Improvement Procedures ",
+    "text_level": 1,
+    "bbox": [
+      158,
+      93,
+      740,
+      113
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Overview ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      133,
+      197,
+      148
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The standard procedure that will be used to audit and verify conformance to the SANC requirements established in the CAMN SANC Manual. ",
+    "bbox": [
+      116,
+      151,
+      759,
+      185
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "A series of surveillance and systems audits will verify that the systems are functioning properly or to identify situations that may indicate needed changes to the Pest Management Plan or other portions of the SANC Facility Manual. ",
+    "bbox": [
+      116,
+      207,
+      772,
+      260
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Types of Audits ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      280,
+      243,
+      296
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Systems audits will be completed to check whether all the main elements of the SANC system are in place. The systems audit will focus attention on how the stated SANC Manual procedures are functioning, for example record keeping, staff training, document controls, etc. The systems audit may be completed by internal or external (state certifying authority) auditors. ",
+    "bbox": [
+      114,
+      299,
+      785,
+      390
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Surveillance Audits are directed to audit a specific part of the SANC process when the process is most active (for example, shipping surveillance audit will occur during medium to peak shipping months). ",
+    "bbox": [
+      116,
+      410,
+      787,
+      463
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Audit Frequency ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      484,
+      253,
+      501
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "A systems audit of the SANC Program Manual will be conducted annually by state certifying authority auditors. ",
+    "bbox": [
+      117,
+      502,
+      767,
+      536
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Each year the SANC Program Manager will develop a schedule of internal audits based upon operational activities that will meet the requirements of the annual systems audit. ",
+    "bbox": [
+      117,
+      558,
+      756,
+      611
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Audit Preparation ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      632,
+      264,
+      648
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The SANC Program Manage will: ",
+    "bbox": [
+      117,
+      651,
+      375,
+      666
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "• Manage and monitor all internal audit activities,   \n• Assign internal auditors for the scheduled audit and will review with the internal auditors the relevant requirements of SANC program in terms of what is being audited, the type of audit and the scope of the audit   \n• Maintain a list of internal auditors. ",
+    "bbox": [
+      171,
+      669,
+      767,
+      760
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The Internal Auditors will: ",
+    "bbox": [
+      117,
+      762,
+      325,
+      777
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "• Schedule the internal audit with the appropriate department manager, • Prepare the standardized Audit Observation Form   \n• Familiarize themselves with the SANC requirements for the department being audited. ",
+    "bbox": [
+      173,
+      780,
+      763,
+      852
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      462,
+      934
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Audit Steps ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      92,
+      212,
+      108
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "With nursery management and other key employees, the Internal Auditor records objective evidence to verify conformance or non-conformance on the Audit Observation Form including: ",
+    "bbox": [
+      117,
+      109,
+      771,
+      162
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "• A description of the details of a non-conformance   \n• The corrective action plan   \n• Follow-up comments   \n• A reference # (number) for document control   \n• The Internal Auditor reports findings to the SANC Program Manager. ",
+    "bbox": [
+      174,
+      165,
+      736,
+      257
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Audit Completion ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      273,
+      261,
+      290
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The SANC Program Manager: ",
+    "bbox": [
+      117,
+      292,
+      351,
+      309
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "• Reviews and approves the Audit Observation Form and any corrective – preventative actions required   \n• Communicates Audit Observation Form findings to Management and Supervisors   \n• Provides the completed Audit Observation Form to the Quality Control Manager for document control in accordance to Document and Record Procedures. ",
+    "bbox": [
+      173,
+      310,
+      761,
+      436
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The Internal Auditor: ",
+    "bbox": [
+      116,
+      440,
+      284,
+      455
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "• Conducts a follow-up audit to verify closure of non-conformance(s) and to verify effectiveness of corrective actions and preventative measures • Records those results and returns to the SANC Program Manager. ",
+    "bbox": [
+      174,
+      459,
+      782,
+      512
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      459,
+      934
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Document Control Procedures ",
+    "text_level": 1,
+    "bbox": [
+      284,
+      92,
+      617,
+      114
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "All the documents for the SANC Program will be controlled by the SANC Program Manager. This procedure applies to all the SANC Program and Pest Management Plan documents and records for CAMN. ",
+    "bbox": [
+      116,
+      131,
+      766,
+      191
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Facility SANC Manual ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      208,
+      287,
+      226
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "1. The official copy of the SANC Facility Manual is maintained electronically. a. The official copy is maintained by the SANC Program Manager. b. The current Facility SANC Manual will be identified with a date and version number and date (month, year and version #). ",
+    "bbox": [
+      168,
+      229,
+      782,
+      310
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "2. Managers of each of the following divisions shall keep current paper copies of the facility SANC Manual and periodically check the official copy for current version. ",
+    "bbox": [
+      173,
+      314,
+      766,
+      375
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "a. Main Office b. Propagation Area c. Shipping/Receiving Area d. Employee Break Areas ",
+    "bbox": [
+      230,
+      378,
+      449,
+      460
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "3. The SANC Program Manager approves all changes to the Manual. ",
+    "bbox": [
+      173,
+      464,
+      720,
+      482
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "a. All changes to the SANC Facility Manual that affect the SANC Program, must be approved by the State Certifying Authority prior to implementation.   \nb. The SANC Program Manager informs and provides all managers with paper copies when revisions to the SANC Facility Manual are made.   \nc. All obsolete paper copies of the SANC Facility Manual must be disposed of immediately.   \nd. All obsolete electronic copies of the SANC Facility Manual are maintained electronically for two years. ",
+    "bbox": [
+      230,
+      484,
+      785,
+      694
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Documents Referenced in the SANC Facility Manual ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      719,
+      529,
+      736
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "1. Official copies of documents referenced in the Facility SANC Manual are maintained by paper or electronically stored.   \n2. The Head of Production maintains the referenced documents. All current versions of the referenced documents shall be identified with a title,   \nrevision number and date.   \n3. All changes to the referenced documents are approved by the Head of Production prior to implementation. ",
+    "bbox": [
+      171,
+      739,
+      792,
+      886
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "4. Obsolete paper copies of documents referenced in the SANC Facility Manual are disposed of as appropriate. ",
+    "bbox": [
+      173,
+      90,
+      743,
+      130
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "1. Primary records will be kept at the CAMN main office in one of two forms (electronic or paper) by the SANC Program Manager. ",
+    "bbox": [
+      173,
+      210,
+      787,
+      248
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "2. All records must be maintained for a period of two years.   \n3. The Purchaser shall maintain records for the plant material received into   \nthe facility and maintains the list of all plant sources.   \n4. The Shipping Manager shall maintain all records for shipped material. a. The Shipping Manager approves all documents required for   \nshipping.   \n5. The Pest Control Manager maintains all records of the pest management   \nplan. a. Records include all inspection reports, scouting records, control or mitigation measures implemented and preventative measure records (such as trap finds). b. All pest/pathogen identifications and diagnostic reports from third parties are maintained. i. The Head of Production approves all third party diagnostic labs and maintains a list. c. All regulated pest finds records must be maintained, along with all records of reporting those finds to regulatory authorities. d. All records of final disposition of any plant product with a pest   \nfind. e. All follow-up records showing that the control/mitigation was   \nsuccessful.   \n6. Training and Orientation records are maintained by the Human   \nResources department.   \n7. Audit records (internal and external) are maintained by the SANC   \nProgram Manager. a. Includes non-compliance records and Corrective Action Requests   \n8. CAMN Risk Assessment a. The SANC Program Manager maintains the Risk Assessment and periodically reviews the document for changes in hazards and critical control points. ",
+    "bbox": [
+      168,
+      219,
+      787,
+      890
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Records Required for SANC ",
+    "bbox": [
+      116,
+      189,
+      334,
+      205
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "b. Any changes in the hazards or critical control points that result in changes to the Facility SANC Manual must follow the steps in section 3.1. ",
+    "bbox": [
+      232,
+      90,
+      784,
+      150
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Compliance Agreements and Regulatory Requirements ",
+    "bbox": [
+      114,
+      176,
+      555,
+      194
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "1. The Head of Production shall maintain all compliance agreements and regulatory documents. ",
+    "bbox": [
+      173,
+      198,
+      759,
+      234
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "a. These documents are updated as needed by the Head of Production ",
+    "bbox": [
+      232,
+      239,
+      705,
+      279
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Referenced Documents: ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      304,
+      310,
+      321
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "1. The following documents are referenced in the Facility SANC Manual and must be controlled by the procedures above. ",
+    "bbox": [
+      173,
+      325,
+      777,
+      363
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "a. CAMN SANC BMP Documents b. CAMN Field Maps ",
+    "bbox": [
+      230,
+      367,
+      493,
+      406
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Certifying Authority: ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      431,
+      284,
+      449
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Cumberland County Agricultural Chief   \nMaine Department of Agriculture and Forestry   \n4301 Longfellow Ave   \nPortland ME   \nOffice: (207) 455-5496 ",
+    "bbox": [
+      173,
+      464,
+      517,
+      549
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "SANC Revision Log ",
+    "text_level": 1,
+    "bbox": [
+      334,
+      93,
+      566,
+      117
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_4502338/auto/images/fb02e27d9474ac3827fd2d703c8121bac1e43075a73ebcc5e57b12ef66fe286a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Rev.#</td><td rowspan=1 colspan=1>Date</td><td rowspan=1 colspan=1>Page #</td><td rowspan=1 colspan=1>Description</td><td rowspan=1 colspan=1>CAMNApproval</td><td rowspan=1 colspan=1>MDAFApproval</td></tr><tr><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>5/6/20</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>External Audit:Added version number</td><td rowspan=1 colspan=1>WND5/6/20</td><td rowspan=1 colspan=1>DR 5/6/20</td></tr><tr><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>6/20/20</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1> Site Map Revised</td><td rowspan=1 colspan=1>WND5/6/20</td><td rowspan=1 colspan=1>JC 6/20/20</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "bbox": [
+      114,
+      121,
+      854,
+      544
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      441,
+      921,
+      460,
+      934
+    ],
+    "page_idx": 24
+  }
+]

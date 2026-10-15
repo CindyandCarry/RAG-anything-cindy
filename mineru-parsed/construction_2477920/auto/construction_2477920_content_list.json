@@ -1,0 +1,665 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/96cd436a8a404399993af2f6fd17ec8d34b9b8417ba35405ba53f8e34fef5b8e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      50,
+      0,
+      984,
+      476
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BRINGING GLAZING to life ",
+    "text_level": 1,
+    "bbox": [
+      581,
+      487,
+      931,
+      671
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Morley_ ",
+    "bbox": [
+      579,
+      697,
+      892,
+      784
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "PERFECTFIT BLINDS FOR EXISTING DOORS inassociationwith AND WINDOWS LOUVOLITE ",
+    "bbox": [
+      1,
+      837,
+      635,
+      945
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/19b6af99797e6759d4c43c4e617e910561bb62ac9f66f3bee116c2b77010da7e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      51,
+      682,
+      1001
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ENHANCE YOUR HOME WITH A PERFECT FIT? BLIND ",
+    "text_level": 1,
+    "bbox": [
+      749,
+      239,
+      926,
+      336
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Roller and Pleated blinds for double glazed windows, doors and conservatories ",
+    "text_level": 1,
+    "bbox": [
+      749,
+      349,
+      930,
+      380
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "These blinds are the most attractive and innovative window blinds available on the market today. The system is unique because the window blind fits neatly into a stylish frame, which moves together with the windows and doors when they are opened and closed giving you the perfect combination of shade and ventilation. ",
+    "bbox": [
+      748,
+      390,
+      942,
+      476
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      749,
+      513,
+      847,
+      576
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      694,
+      0,
+      727,
+      996
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "BRINGING GLAZING tolife ",
+    "bbox": [
+      750,
+      0,
+      835,
+      196
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "PERFECTLYMATCHED WITH YOUR INTERIOR, TRANSFORMING YOUR LIVING SPACE ",
+    "text_level": 1,
+    "bbox": [
+      34,
+      97,
+      229,
+      224
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Perfect Fit@ is a revolutionary system that enables window blinds to be fitted perfectly onto most double-glazed windows and doors, with no holes drilled into your upvc frame. The unique Perfect Fit@ blind fits neatly onto the window and enhances your privacy because there are no gaps down the side of the blind. Whether you select a contemporary design for the living room,a blackout fabric for the bedroom or a moisture resistant print for the bathroom, our blind collection in combination with the Perfect Fit@ system is the ultimate in style. ",
+    "bbox": [
+      33,
+      241,
+      251,
+      382
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      429,
+      310,
+      455,
+      378
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/9c2b2b0c45d53d7b573ada21cac0d35bbab588543387c2c1477604452f54b492.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      576,
+      19,
+      775,
+      434
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SEE THE BENEFITS ",
+    "text_level": 1,
+    "bbox": [
+      793,
+      234,
+      931,
+      263
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "A huge range of fabric colours and textures to match your interiordesignscheme ",
+    "bbox": [
+      794,
+      275,
+      977,
+      302
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "No drilling or screwing into your window frames for a quick and clean installation ",
+    "bbox": [
+      794,
+      309,
+      973,
+      335
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Reduced gaps at the edge of the blinds increases your privacy ",
+    "bbox": [
+      794,
+      343,
+      963,
+      369
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Child safe because there are no loose cords or loops ",
+    "bbox": [
+      794,
+      378,
+      976,
+      391
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Leaves window sills clutter free ",
+    "bbox": [
+      794,
+      398,
+      902,
+      411
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Easily removable for cleaning ",
+    "bbox": [
+      794,
+      419,
+      896,
+      432
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/bb9eab34cf6481b19c693d35cfcbf9baae542df90a1e0462c079f4be817799af.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      7,
+      549,
+      105,
+      744
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Perfect $\\mathsf { F i t } ^ { \\left( \\mathcal { B } \\right) }$ isa recognised child safe product in accordance with BBSA regulations ",
+    "bbox": [
+      422,
+      593,
+      470,
+      648
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/b0cf544c7997e7eba12da519451542ffac7d57d8c617d0effcd5f83d68f90d14.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      155,
+      521,
+      361,
+      750
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Perfect Fit blinds can be fitted onto most double-glazed windows anywhere in the home ",
+    "text_level": 1,
+    "bbox": [
+      31,
+      877,
+      237,
+      944
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Perfect for: ",
+    "text_level": 1,
+    "bbox": [
+      592,
+      502,
+      659,
+      521
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Conservatory roofs Tilt and turn windows Doors / Bi-folding doors Push-out windows General windows Skylight/ Rooflight windows ",
+    "bbox": [
+      591,
+      535,
+      695,
+      657
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/dcf51972f7cc34f718dad80c07817ea2c257aea4fc88ba9a10abdeb3557efe71.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      775,
+      493,
+      1000,
+      997
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/f1390e53493f32a83899b6016ffabcab3c5435e5f95acc01650f329b9a5dc81b.jpg",
+    "image_caption": [
+      "Blackout blinds for childrens rooms "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      526,
+      715,
+      747,
+      948
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "TM makeit safe ",
+    "bbox": [
+      395,
+      495,
+      468,
+      582
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Perfect Fit@ pleated blind ",
+    "bbox": [
+      391,
+      972,
+      484,
+      986
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      678,
+      412,
+      762,
+      425
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/ff232d629db2ff2f8b0b34071be827984f0d8079eee36a779e0af78d3bc43677.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      22,
+      504,
+      486
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Potential home energy savings using our fabrics ",
+    "text_level": 1,
+    "bbox": [
+      526,
+      27,
+      713,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/1eab9bc816977621a9fdd467ab8cd695c67911ec09632765e3dfdbb666048196.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      174,
+      765,
+      464
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To further maximise the superb insulating qualities of the Perfect Fit@ system,you can choose to have one of our energy efficient fabrics and save yourself up to $15 \\%$ on your fuel bills by reducing the heat loss through winter. ",
+    "bbox": [
+      525,
+      78,
+      731,
+      135
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/ce8345fca9f16d3647322a37701e2240eab43cb9e28c45b7c1904a1d5b59c6c6.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      814,
+      0,
+      984,
+      161
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Excellent insulating properties High level of insulation and energy savings of up to $15 \\%$ per year\\* can be achieved with these fabrics. ",
+    "bbox": [
+      823,
+      168,
+      914,
+      181
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      824,
+      214,
+      983,
+      256
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "These fabrics provide a good level of insulation and energy savings of up to $12 \\%$ per year\\* can be achieved with these fabrics. ",
+    "bbox": [
+      822,
+      271,
+      984,
+      312
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "These are the essential fabrics for window furnishings and energy savings of up to $11 \\%$ per year\\* can be achieved with these fabrics. ",
+    "bbox": [
+      823,
+      328,
+      981,
+      370
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "REDUCE COSTS WITHOUR AWARD WINNING BLINDS ",
+    "text_level": 1,
+    "bbox": [
+      34,
+      692,
+      198,
+      787
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For the ultimate in style, the award winning Perfect Fit blind is the only choice to make ",
+    "text_level": 1,
+    "bbox": [
+      35,
+      802,
+      217,
+      833
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "One of the unique features of the Perfect ${ \\mathsf { F i t } } ^ { \\otimes }$ frame is it's outstanding thermal efficiency. The frame fits flush against your window to help reduce heat build up in summer and retain heat in winter,in turn keeping your cooling and heating bills to a minimum! ",
+    "bbox": [
+      34,
+      843,
+      224,
+      914
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/9badfb410ee18e92652e8b60acfa567aa6b4ceedc442f5a3c26f522be2e46c82.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      273,
+      678,
+      500,
+      928
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Perfect Fit@ roller blind ",
+    "bbox": [
+      526,
+      497,
+      609,
+      511
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Thermal effcient fabrics to keep you cooler in summer and warm in winter ",
+    "bbox": [
+      550,
+      971,
+      773,
+      984
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      322,
+      462,
+      413,
+      475
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      281,
+      486,
+      342,
+      653
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ER1 ",
+    "bbox": [
+      786,
+      216,
+      809,
+      237
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ER3 ",
+    "bbox": [
+      786,
+      343,
+      810,
+      365
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ER2 ",
+    "bbox": [
+      786,
+      272,
+      810,
+      293
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2477920/auto/images/57cc378bc9ff26308f63221cb8ea5348d685257089ad41d85c4b41d541524ce9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      30,
+      986,
+      847
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "BBSAI LOUVOLITE makeit BRITISH BLIND &SHUTTER ASSOCIATION safe ",
+    "bbox": [
+      677,
+      938,
+      979,
+      970
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Morley_ T: 0113 277 8722 F: 0113 277 8723 www.morleyglass.co.uk info@morleyglass.co.uk Morley Glass and Glazing Limited, Unit 27, Milshaw Park Industrial Estate, Millshaw Park Drive, Leeds LS11 0LU GLASS & GLAZING Alit ",
+    "bbox": [
+      178,
+      839,
+      983,
+      931
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      20,
+      804,
+      201,
+      820
+    ],
+    "page_idx": 4
+  }
+]

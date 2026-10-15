@@ -1,0 +1,2434 @@
+[
+  {
+    "type": "text",
+    "text": "ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      357,
+      329,
+      544,
+      356
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ",
+    "bbox": [
+      356,
+      370,
+      848,
+      387
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For the six months ended 30 September 2014 ",
+    "bbox": [
+      356,
+      403,
+      771,
+      420
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ZCI LIMITED ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      84,
+      225,
+      98
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CHAIRMAN AND CHIEF EXECUTIVE OFFICER’S STATEMENT",
+    "text_level": 1,
+    "bbox": [
+      121,
+      110,
+      635,
+      128
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ZCI Limited ",
+    "bbox": [
+      119,
+      139,
+      211,
+      154
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "(Registered in Bermuda)   \n(South African registration number 1970/000023/10)   \nJSE share code: ZCI   \nISIN: BMG9887P1068   \nEuronext share code: BMG9887P1068 ",
+    "bbox": [
+      119,
+      166,
+      529,
+      237
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "(\"ZCI\" or \"the Company\") ",
+    "bbox": [
+      121,
+      249,
+      317,
+      265
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CHAIRMAN AND CHIEF EXECUTIVE OFFICER’S STATEMENT ON THE RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2014 ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      274,
+      909,
+      306
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We are pleased to present the Group‟s condensed reviewed consolidated interim results for the six months ended 30 September 2014. Although the group realised a gross profit from mining activities of $\\mathsf { U S$ 3.5 }$ million it nevertheless incurred an overall loss of $0 . 5 \\$ 3.1$ million from activities for the six months ended to 30 September 2014, compared to an overall loss of $\\ U { \\sf S P 3 6 . 5 }$ million for the same period in the previous year, owing largely to an impairment loss of $\\mathsf { U S$ 3 1 .5 }$ million recorded in the previous period. ",
+    "bbox": [
+      119,
+      318,
+      910,
+      392
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "MINING ACTIVITIES ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      405,
+      287,
+      420
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Copper produced in concentrate for this six month period increased by $1 5 \\%$ compared to the same period last year primarily due to a $2 5 \\%$ increase in recoveries. Gross profit from mining activities was $\\mathsf { U S$ 3.5 }$ million, a decrease of $4 9 . 6 \\%$ from $\\mathsf { U S } \\$ 6.9$ million for the corresponding period last year. The reduction in gross profit was primarily due to increased mining costs as a consequence of increased mining activities at Thakadu necessitated by an effort to make good on previous shortfalls in mining and drilling activity. The acceleration in mining cost reflects our success, working with our new mining contractor, Diesel Power Mining $( \\mathsf { P t y } )$ Ltd (“Diesel Power”) a subsidiary of JSE listed Buildmax Ltd, in addressing and turning around the low delivery rate of Thakadu ore we experienced under the previous contractor. ",
+    "bbox": [
+      119,
+      434,
+      910,
+      562
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The Diesel Power contract is of strategic importance for the Group, since the transition of mining operations to the larger Mowana open pit commencing in the third quarter of the 2015 financial year, when the Thakadu mine will be depleted, will require significant waste stripping to expose the necessary supergene and sulphide ores. ",
+    "bbox": [
+      119,
+      576,
+      910,
+      634
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Diesel Power‟s initial priority was to address and turn around the low delivery rate of Thakadu ore experienced under the previous contractor, taking a strategic approach to optimising the mining prior to the Thakadu mine‟s anticipated depletion. This plan encompassed adequately opening up the pit and prioritising the mining of high grade ore. Our production statistics for the period demonstrate solid performance in this respect. Even so, the Mowana process plant was under-utilised at times during the period, necessitating the processing of low grade ore. ",
+    "bbox": [
+      117,
+      649,
+      910,
+      736
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Waste stripping commenced at the Mowana mine in October 2014. Similar to Thakadu,the approach is to develop Mowana so as to maximise the availability of high grade supergene and sulphide ore by June 2015 when Thakadu ore feed to the plant is scheduled to be depleted. Diesel Power‟s performance to date has been strong, but this remains the top critical success factor to the Company attaining its objectives in the near term. ",
+    "bbox": [
+      117,
+      749,
+      910,
+      821
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Our key statistics for the period were as follows: ",
+    "bbox": [
+      117,
+      84,
+      484,
+      99
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/9ab38f2e2ddd42203dab2aab2900f748ea36cee51e4f6c3588f68bcd2031b695.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Description</td><td rowspan=1 colspan=1>Six Monthsended30 Sep 2014</td><td rowspan=1 colspan=1>Six Monthsended30 Sep 2013</td><td rowspan=1 colspan=1>Six Monthsended30 Sep 2012</td></tr><tr><td rowspan=1 colspan=1>Ore processed (Mt)</td><td rowspan=1 colspan=1>388,807</td><td rowspan=1 colspan=1>373,274</td><td rowspan=1 colspan=1>421,913</td></tr><tr><td rowspan=1 colspan=1>Cu grade (%)</td><td rowspan=1 colspan=1>1.6</td><td rowspan=1 colspan=1>1.81</td><td rowspan=1 colspan=1>1.86</td></tr><tr><td rowspan=1 colspan=1>Recovery (%)</td><td rowspan=1 colspan=1>91.3</td><td rowspan=1 colspan=1>73.0</td><td rowspan=1 colspan=1>57.3</td></tr><tr><td rowspan=1 colspan=1>Concentrate produced (Mt)</td><td rowspan=1 colspan=1>23,153</td><td rowspan=1 colspan=1>22.212</td><td rowspan=1 colspan=1>20,856</td></tr><tr><td rowspan=1 colspan=1>Copper produced in concentrate (Mt)</td><td rowspan=1 colspan=1>5,679</td><td rowspan=1 colspan=1>4,937</td><td rowspan=1 colspan=1>4,490</td></tr></table>",
+    "bbox": [
+      117,
+      111,
+      921,
+      316
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The average copper produced in concentrate for the period amounted to 946 tonnes per month, with the highest and lowest months‟ production yielding 1,303 tonnes and 407 tonnes respectively. The mass of copper produced in concentrate enabled the business to generate positive cash inflow from operating activities over the period of $\\mathsf { U S S 7 . 9 }$ million compared to an inflow of $0 . 5 \\$ 6.1$ million for the corresponding period during the previous year. ",
+    "bbox": [
+      119,
+      329,
+      912,
+      401
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We are pleased to report continuing improvement in recoveries and in the total production of copper for the same six month period during each of the past three years. However the gains from these improvements have been reduced by the lower amount of ore processed as a consequence of the mining challenges described before. ",
+    "bbox": [
+      117,
+      414,
+      910,
+      473
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The mine continues to perform at sub-optimal levels and we are still facing significant challenges within our mining activities. Subsequent to the period end, the Group has been impacted by working capital shortages due to a backlog in required waste stripping and lower than planned production levels during October and November, namely 972 tonnes and 607 tonnes copper produced in concentrate respectively. Consequently ACU requested financial support in December 2014 to the value of $\\mathsf { U S P 2 . 5 }$ million in order to fund the waste stripping required to manage the transition from the Thakadu pit to the Mowana pit. As a result, ZCI has entered into a term facility agreement for the same amount with ACU, supported by a term facility agreement between the Company and its controlling shareholder, the salient terms of which are described in note 16 to these financial statements. Drawdown on the facilities occurred on 19 December 2014. ",
+    "bbox": [
+      119,
+      487,
+      910,
+      631
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Despite the difficulties described above and uncertainties disclosed in note 5 to the financial statements, we remain confident that the focus during the past periods on raising production levels by improving plant efficiency and increasing throughput by means of the optimised mining plans will lead to improved results. ",
+    "bbox": [
+      119,
+      645,
+      910,
+      702
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "GEOLOGY AND EXPLORATION1 ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      715,
+      389,
+      732
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "At the Thakadu open pit a total of nine reverse circulation drill holes were completed during the period to redefine the Thakadu ore body and the Thakadu geological model has been updated based on this work. ",
+    "bbox": [
+      119,
+      744,
+      909,
+      788
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "A reverse circulation drilling programme also commenced during the period, comprising seventeen drill holes at the Mowana open pit. It is expected that this will result in current Inferred Resources moving to the Measured and Indicated categories to be incorporated in the life of mine plan. ",
+    "bbox": [
+      119,
+      802,
+      910,
+      846
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 The technical information has been reviewed and approved by David De’Ath, BSc (Hons), MSc, GDE-Mining, MIMM and MAusIMM, the Company’s Resident Geologist for the Mowana Mine, who is a qualified person for the purposes of N1 43-101, and the SAMREC and JORC Codes. ",
+    "bbox": [
+      117,
+      898,
+      910,
+      936
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "At Matsitama exploration activities during the quarter continued within the PL16/2004 and PL17/2004 prospecting licences, with work focused on the Phute and Nakalakwana targets. ",
+    "bbox": [
+      119,
+      84,
+      910,
+      112
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "At Phute we completed a total of thirteen reverse circulation drillholes comprising 2,170 metres. Low grade mineralisation, 0.4 to $0 . 8 \\%$ TCu in the form of sulphides (pyrite and chalcopyrite) and oxides (malachite and chrysocolla) were intersected in both the north and south limbs of the target. ",
+    "bbox": [
+      119,
+      127,
+      910,
+      171
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Following a review of soil geochemistry and drillhole data from previous programmes at Nakalakwana West, we tested anomalous targets using reverse circulation drilling. A total of six drill holes comprising 1,051 metres were drilled with traces of pyrite and chalcopyrite seen in the holes. Further geophysical surveys will be used to identify deeper targets in this area. ",
+    "bbox": [
+      119,
+      184,
+      909,
+      242
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We submitted renewals and received extension of the main Matsitama prospecting licences, namely PL‟s 14/2004, 15/2004, 16/2004 and 17/2004 that have been extended to 30 September 2016. We anticipate further encouraging results from our exploration project at Matsitama during the periods ahead and the Group is actively seeking to secure a joint venture partner to enhance exploration efforts of the Nakalakwana area. ",
+    "bbox": [
+      119,
+      256,
+      910,
+      329
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "FINANCIAL STATEMENTS AND OPERATIONS",
+    "text_level": 1,
+    "bbox": [
+      119,
+      342,
+      507,
+      359
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "During the period under review the Botswana Pula weakened approximately $5 . 4 \\%$ against the US Dollar. Revenues increased to $\\cup { \\tt S$ 30 . 8 }$ million, an increase of $3 . 7 \\%$ from our revenues of $\\cup { \\tt S$ 29 .7 }$ million for the corresponding period last year. The increase reflects greater copper in concentrate produced due to higher average recoveries during the period from a higher percentage of sulphide ore processed, but was also constrained by the production problems during the period described under the mining activities section. ",
+    "bbox": [
+      119,
+      369,
+      910,
+      456
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our cost of sales increased by $1 9 . 8 \\%$ compared to the comparative period. This was largely attributable to increases in transport and mining costs: ",
+    "bbox": [
+      122,
+      470,
+      907,
+      500
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Mining costs increased as mining activities at Thakadu accelerated during the period as our new mining contractor allowed us to address and turn around the low delivery rate of Thakadu ore experienced under the previous contractor. This resulted in higher mining volumes at Thakadu, notably waste stripping (5.6m tonnes waste in six months of current financial year, against $3 . 9 \\mathsf { m }$ tonnes in comparative period the previous year). Additionally, $1 . 2 \\mathsf { m }$ tonnes of waste were mined at Mowana in the period compared to $0 . 2 \\mathsf { m }$ tonnes in the comparative previous period.   \nTransport costs increased during the current period due to an increase in ore trucked from the Thakadu pit to the Mowana processing facility.   \nProcessing and engineering costs decreased during the current period due to processing a higher percentage of Thakadu sulphide ore, requiring less expensive reagent chemicals than in the comparative period, and to decreased maintenance and repair costs. The mill drive train and crusher screen failures and consequent downtimes in the previous financial year led to higher process operating costs compared to the current period when the plant ran relatively smoothly. ",
+    "bbox": [
+      132,
+      513,
+      907,
+      777
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Administrative costs increased slightly to $\\mathsf { U S } \\$ 4.5$ million from $\\mathsf { U S } \\$ 4.3$ million in the comparative period. The increase reflected an increase in certain consultancy fees. Finance costs increased to $\\mathsf { U S } \\$ 1.3$ million from $\\ U { \\ S } \\$ 0.8$ million in the comparative period. The increase relates to the finance charges on finance lease liability recognised in the current period, refer note 11. ",
+    "bbox": [
+      119,
+      789,
+      910,
+      847
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "There was a decrease in the cash and cash equivalents on hand during the period. Capital investments of $\\ U { \\ S } \\$ 7.0$ million (2013: $\\ U { \\mathbb { S } } \\$ 7.2$ million) relating primarily to mine development and infrastructure and $\\ U { \\ S } \\$ 0.8$ million (2013: $\\cup { \\tt S$ 0 .5 }$ million) relating to expenditures on exploration properties were incurred. At 30 September 2014, the capital equipment facility was drawn at $\\mathsf { U S } \\$ 0.33$ million and during the current period the MRI Trading Ag presale was repaid. ",
+    "bbox": [
+      119,
+      860,
+      910,
+      934
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "During the period, we reassessed the recoverability of the carrying value of our property, plant and equipment and intangible assets. As a result of this assessment, we did not recognise an impairment loss as the current best estimate of the value in use exceeds the carrying value of our mining assets. The value in use represents the estimated present value of the future cash flows expected to be derived from the Thakadu and Mowana pits, discounted at a rate of $1 7 \\%$ and factoring in sensitivities on the forecast copper price, production throughput, recoveries and mining costs. ",
+    "bbox": [
+      119,
+      84,
+      910,
+      171
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ZCI‟s agreement to continue to defer all principal and interest payments arising from its subsidiary‟s debt obligations to ZCI have been extended to 31 December 2015, subject to any impact from the review of the reassessment of the strategic direction of ZCI and the Group . Furthermore, the related letter of financial support issued to ACU confirming that it is ZCI‟s policy to make sufficient financial resources available to the Group in order to allow the Group to continue to meet its liabilities as they fall due in the normal course of its operations remains in force, also subject to the reassessment of the strategic direction of ZCI and the Group. ",
+    "bbox": [
+      119,
+      184,
+      910,
+      286
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CORPORATE GOVERNANCE DEVELOPMENTS ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      299,
+      517,
+      315
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Since the publication of the ZCI Integrated Annual Report in June 2014 there have been no material changes on the corporate governance front. All the members of the Board of Directors were re-elected at the annual general meeting of the Company held on 24 September 2014. ZCI continues to be committed to the implementation of corporate governance principles which are in accordance with best practices and we continue to make advancements in our long term plan for the implementation of King III corporate governance principles as appropriate to the size, type and activity of ZCI. In line with the strategic objectives of ZCI, the Board will continue to ensure on-going compliance with regulatory requirements and improved corporate governance. The directors also take full responsibility for the preparation of the consolidated interim financial statements. ",
+    "bbox": [
+      119,
+      326,
+      910,
+      457
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "RISK MANAGEMENT AND OUTLOOK ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      470,
+      431,
+      486
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We are able to report improvements during this six month period in our key operating measures. This reflects the processing of good quality Thakadu sulphide ore, a stable plant operating environment and our success, working with our new mining contractor, in addressing and turning around the low delivery rate of Thakadu ore we experienced under the previous contractor. The capability and operating performance of our new mining contractor greatly enhances our strategic position as we prepare to move mining operations back to the larger Mowana open pit in 2015. However, our future remains subject to significant risks and uncertainties, as set out in note 5 to our interim financial statements. ",
+    "bbox": [
+      117,
+      498,
+      910,
+      600
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Directors continue to consider all aspects of our operations and capital structure and the challenges facing the Group. While the remaining mine production from Thakadu is expected to yield good cash margins, the cessation of operations at Thakadu and the move back into the Mowana open pit will require significant operational and capital resources. Considering the risks inherent in these activities as well as the continued pressure on the copper price it is a vital exercise that must be measured against the availability of funding. ",
+    "bbox": [
+      117,
+      613,
+      910,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Lastly, a lack of diversity in the investment portfolio of ZCI remains one of the key risks faced by the Company. ZCI currently has one major investment being debt and equity held in ACU. The Board is continuing to work towards realising the full value of its investments, and will pursue all relevant opportunities to unlock value and put the Group in a position to build a more diversified investment portfolio providing sustainable growth for its shareholders. ",
+    "bbox": [
+      119,
+      713,
+      910,
+      785
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Professor Stephen Simukanga ",
+    "bbox": [
+      119,
+      814,
+      354,
+      829
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Tom Kamwendo ",
+    "bbox": [
+      601,
+      815,
+      729,
+      829
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Chairman ",
+    "bbox": [
+      119,
+      843,
+      196,
+      857
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "19 December 2014 ",
+    "bbox": [
+      121,
+      870,
+      267,
+      884
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CEO ",
+    "bbox": [
+      601,
+      843,
+      640,
+      856
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      39,
+      643,
+      71
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Statement of profit or loss and other comprehensive income For the six months ended 30 September 2014 ",
+    "bbox": [
+      119,
+      84,
+      794,
+      114
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/c70b63fe9bd12249586a3e21eec6fdfb49861c4df5c7fa58e3e773df327361f4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td>Reviewed Reviewed</td><td>Six months</td><td>Audited Twelve months</td></tr><tr><td>Six months</td><td></td><td></td></tr><tr><td>ended</td><td>ended</td><td>ended</td></tr><tr><td>30 September</td><td>30 September</td><td>31 March</td></tr><tr><td>2014</td><td>2013</td><td>2014</td></tr><tr><td></td><td>USD &#x27;000 Notes</td><td>USD‘000</td><td>USD &#x27;000</td></tr><tr><td>Revenue</td><td>30,830</td><td>29,742</td><td></td></tr><tr><td>Cost of sales</td><td>(27,342)</td><td>(22,820)</td><td>58,735 (44,625)</td></tr><tr><td>Gross profit from mining</td><td>3,488</td><td>6,922</td><td>14,110</td></tr><tr><td>activities</td><td></td><td></td><td></td></tr><tr><td>Administrative expenses</td><td>(4,487)</td><td>(4,299)</td><td></td></tr><tr><td>Impairment loss</td><td>9 ■</td><td>(31,500)</td><td>(8,473) (31,500)</td></tr><tr><td>Other expenses</td><td>(879)</td><td>(9,150)</td><td>(11,705)</td></tr><tr><td>Loss before net finance</td><td>6 (1,878)</td><td>(38,027)</td><td>(37,568)</td></tr><tr><td>expense</td><td></td><td></td><td></td></tr><tr><td></td><td>39</td><td></td><td></td></tr><tr><td>Finance income</td><td>7 (1,253)</td><td>14</td><td>40</td></tr><tr><td>Finance costs Loss before tax</td><td>(3,092)</td><td>(811) (38,824)</td><td>(1,540)</td></tr><tr><td></td><td></td><td></td><td>(39,068)</td></tr><tr><td>Income tax</td><td>·</td><td>2,297</td><td>2,297</td></tr><tr><td>Loss for the period/year</td><td>(3,092)</td><td>(36,527)</td><td>(36,771)</td></tr></table>",
+    "bbox": [
+      109,
+      155,
+      924,
+      530
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      39,
+      643,
+      71
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Statement of Financial Position As at 30 September 2014 ",
+    "bbox": [
+      117,
+      84,
+      568,
+      114
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/a1ed4fe8654340013be44da0bdc94c44acc473d9471d4381333452fbc820ff78.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Reviewed 30 September</td><td>Audited 31 March 2014</td></tr><tr><td>Notes</td><td>USD&#x27;000</td><td>2014 USD&#x27;000</td></tr><tr><td>ASSETS</td><td></td><td></td></tr><tr><td>Property, plant and equipment</td><td>9 42,996</td><td>32,327</td></tr><tr><td>Intangible assets</td><td>19,206</td><td>20,110</td></tr><tr><td>Other financial assets</td><td>243</td><td>257</td></tr><tr><td>Total non-current assets</td><td>62,445</td><td>52,694</td></tr><tr><td>Inventories</td><td>7,486</td><td>7,624</td></tr><tr><td>Trade and other receivables</td><td>4,944</td><td>5,859</td></tr><tr><td>Cash and cash equivalents</td><td>5,905</td><td>7,451</td></tr><tr><td>Total current assets</td><td>18,335</td><td>20,934</td></tr><tr><td></td><td></td><td></td></tr><tr><td>TOTAL ASSETS</td><td>80,780</td><td>73,628</td></tr><tr><td>EQUITY</td><td></td><td></td></tr><tr><td>Share capital</td><td>102,688</td><td>102,688</td></tr><tr><td>Foreign currency translation reserve</td><td>(8,018)</td><td>(7,374)</td></tr><tr><td>Accumulated losses</td><td>(26,655)</td><td>(26,455)</td></tr><tr><td>Equity attributable to owners of the company</td><td>68,015</td><td></td></tr><tr><td></td><td></td><td>68,859</td></tr><tr><td>Non-controlling interest</td><td>(27,504)</td><td>(24,411)</td></tr><tr><td>Total equity</td><td>40,511</td><td>44,448</td></tr><tr><td>LIABILITIES</td><td></td><td></td></tr><tr><td>Interest bearing debt</td><td>13</td><td></td></tr><tr><td></td><td>11 9,011</td><td>41</td></tr><tr><td>Finance lease liability</td><td></td><td>1,535</td></tr><tr><td>Environmental rehabilitation provision</td><td>6,997</td><td>7,024</td></tr><tr><td>Total non-current liabilities</td><td>16,021</td><td>8,600</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Trade and other payables</td><td>21,160</td><td>18,331</td></tr><tr><td>Current portion of finance lease liability</td><td>11 2,771</td><td>378</td></tr><tr><td>Current portion of interest bearing debt</td><td>317</td><td>1,871</td></tr><tr><td>Total current liabilities</td><td>24,248</td><td>20,580</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>TOTAL EQUITY AND LIABILITIES</td><td>80,780</td><td>73,628</td></tr></table>",
+    "bbox": [
+      107,
+      110,
+      922,
+      757
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      55,
+      455,
+      100
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Statement of Changes in Equity For the six months ended 30 September 2014 ",
+    "bbox": [
+      82,
+      119,
+      405,
+      161
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Total contributions and distributions ",
+    "bbox": [
+      84,
+      482,
+      303,
+      504
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Total transactions with owners of the company ",
+    "bbox": [
+      82,
+      534,
+      305,
+      578
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/28151a6d890d8d2edc61b7113d6f9d2883485827f1701e0f878152adcbca6703.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Share capital</td><td>Foreign currency translation reserve</td><td>(Accumulated losses)/Retained earnings</td><td>Attributable to owners of the company</td><td>Non- controlling interest</td><td>Total equity</td></tr><tr><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td>102,688</td><td>(6,891)</td><td>(10,831)</td><td>84,966</td><td>(7,952)</td><td>77,014</td></tr><tr><td></td><td></td><td>43 5,992</td><td>43 5,992</td><td></td><td>43 5,992</td></tr><tr><td></td><td></td><td>6,035 6,035</td><td>6,035 6,035</td><td></td><td>6,035 6,035</td></tr><tr><td></td><td></td><td>(31,122)</td><td>(31,122)</td><td>(5,405)</td><td>(36,527)</td></tr><tr><td rowspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(1,022) (1,022)</td><td>- (31,122)</td><td>(1,022) (32,144)</td><td>(192) (5,597)</td><td>(1,214) (37,741)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>102,688</td><td>(7.913)</td><td>(35,918)</td><td>58,857</td><td>(13,549)</td><td>45,308</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      350,
+      157,
+      887,
+      840
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Total comprehensive income Loss for the period Other comprehensive income - foreign currency translation differences Total comprehensive income for the period ",
+    "bbox": [
+      82,
+      606,
+      342,
+      754
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Balance as at 30 September 2013 ",
+    "bbox": [
+      83,
+      783,
+      281,
+      806
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      55,
+      455,
+      100
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Statement of Changes in Equity For the six months ended 30 September 2014 ",
+    "bbox": [
+      82,
+      119,
+      405,
+      161
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Transaction with owners of the company Contribution and distributions: Share option reserve Total contributions and distributions ",
+    "bbox": [
+      82,
+      356,
+      329,
+      475
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Total transactions with owners of the company ",
+    "bbox": [
+      82,
+      504,
+      305,
+      547
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/03ea7f26ac65c2f4952bae0920a184784c5ab7d44c1fce57c2742a78199755ed.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\">Share capital</td><td rowspan=\"2\">Foreign currency translation reserve</td><td rowspan=\"2\">(Accumulated losses)/Retained earnings</td><td rowspan=\"2\">Attributable to owners</td><td rowspan=\"2\">Non- controlling interest</td><td rowspan=\"2\">Total equity</td></tr><tr><td>of the company</td></tr><tr><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td>102,688</td><td>(7,374)</td><td>(26,455)</td><td>68,859</td><td>(24,411)</td><td>44,448</td></tr><tr><td></td><td></td><td>32 32</td><td>32 32</td><td></td><td>32 32</td></tr><tr><td></td><td></td><td>32</td><td>32</td><td></td><td>32</td></tr><tr><td></td><td></td><td>(232)</td><td>(232)</td><td>(2,860)</td><td>(3,092)</td></tr><tr><td></td><td>(644)</td><td>-</td><td>(644)</td><td>(233)</td><td>(877)</td></tr><tr><td></td><td>(644)</td><td>(232)</td><td>(876)</td><td>(3,093)</td><td>(3,969)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>102,688</td><td>(8,018)</td><td>(26,655)</td><td>68,015</td><td>(27,504)</td><td>40,511</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      350,
+      156,
+      887,
+      821
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Total comprehensive income   \nLoss for the period   \nOther comprehensive income - foreign currency translation differences   \nTotal comprehensive income for the period ",
+    "bbox": [
+      82,
+      576,
+      340,
+      726
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Balance as at 30 September 2014 ",
+    "bbox": [
+      83,
+      754,
+      281,
+      776
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/ee541b3675bf9ff30338de4a9df5a307302d748159d2c40162cc95a1620aaf60.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\">Condensed Consolidated Statement of Cash Flows For the six months ended 30 September 2014</td></tr><tr><td></td><td>Reviewed Six months ended 30 September 2014</td><td>Reviewed Six months ended 30 September</td></tr><tr><td></td><td>USD&#x27;000</td><td>2013 USD&#x27;000</td></tr><tr><td>Cash flows from operating activities</td><td></td><td></td></tr><tr><td>Cash generated by operations Interest received</td><td>8,480 39</td><td>6,190 14</td></tr><tr><td>Interest paid</td><td>(628)</td><td>(100)</td></tr><tr><td>Net cash from operating activities</td><td>7,891</td><td>6,104</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Cash flows from investing activities Additions to maintain operations:</td><td></td><td></td></tr><tr><td> - Property, plant and equipment</td><td>(7,002)</td><td></td></tr><tr><td>Additions to expand operations:</td><td></td><td>(7,235)</td></tr><tr><td>- Intangible assets</td><td>(749)</td><td></td></tr><tr><td>Proceeds from sale of assets</td><td>-</td><td>(547)</td></tr><tr><td>Net cash used in investing activities</td><td></td><td>24</td></tr><tr><td></td><td>(7,751)</td><td>(7,758)</td></tr><tr><td>Cash flows from financing activities</td><td></td><td></td></tr><tr><td>Repayment of interest bearing debt</td><td>(1,582)</td><td>(511)</td></tr><tr><td>Interest bearing debt raised</td><td>■</td><td>2,629</td></tr><tr><td>Repayment of finance liability</td><td>(683)</td><td></td></tr><tr><td>Net cash (used in)/from financing</td><td></td><td></td></tr><tr><td>operations</td><td>(2,265)</td><td>2,118</td></tr><tr><td>Effect of foreign currency translation on cash balances</td><td>579</td><td>757</td></tr><tr><td>Net (decrease)/increase in cash and cash equivalents</td><td></td><td></td></tr><tr><td></td><td>(1,546)</td><td>1,221</td></tr><tr><td>Cash and cash equivalents at the beginning of the period</td><td>7,451</td><td>9,166</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Cash and cash equivalents at the end of</td><td></td><td></td></tr><tr><td>the period</td><td>5,905</td><td>10,387</td></tr></table>",
+    "bbox": [
+      80,
+      61,
+      909,
+      738
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1. General information ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      292,
+      121
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "ZCI (“the Company”) is a public company incorporated and domiciled in Bermuda. It has a primary listing on the Johannesburg Stock Exchange and a secondary listing on the Euronext. ",
+    "bbox": [
+      90,
+      135,
+      904,
+      165
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Company‟s business is not affected by any Government protection or investment encouragement laws. ",
+    "bbox": [
+      94,
+      178,
+      904,
+      206
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "ZCI is the holding company of a copper producing and mineral exploration and development group of companies (the “Group”). The Group‟s main project through its intermediate subsidiary, African Copper Plc. (“ACU”) is the Mowana Mine which consists of a 3,000 Mt per day copper processing facility and the copper producing Mowana open pit. The Group also owns the rights to the adjacent high grade coppersilver Thakadu open-pit and holds permits in exploration properties at the Matsitama Project. The Mowana Mine and processing infrastructure is located in the north-eastern part of Botswana and the Matsitama Project is contiguous to the southern boundary of the Mowana Mine. ",
+    "bbox": [
+      94,
+      221,
+      905,
+      322
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The address of ZCI‟s registered office is Clarendon House, 2 Church Street, Hamilton, Bermuda. ",
+    "bbox": [
+      94,
+      336,
+      823,
+      350
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated interim financial statements of the Company as at and for the six months ended 30 September 2014 comprises the Company and its subsidiaries (together referred to as the “Group”). ",
+    "bbox": [
+      92,
+      365,
+      907,
+      409
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "These condensed consolidated interim financial statements were approved for issue on 19 December 2014 by the board of directors. ",
+    "bbox": [
+      94,
+      409,
+      904,
+      437
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2. Basis of preparation ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      451,
+      295,
+      466
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "These condensed consolidated interim financial statements are prepared in accordance with International Financial Reporting Standard, (IAS) 34 Interim Financial Reporting and the SAICA Financial Reporting Guides as issued by the Accounting Practices Committee. ",
+    "bbox": [
+      94,
+      480,
+      905,
+      523
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "They do not include all the information required for a complete set of IFRS financial statements. However, selected explanatory notes are included to explain events and transactions that are significant to an understanding of the changes in the Group's financial position and performance since the last annual consolidated financial statements as at and for the year ended 31 March 2014 ",
+    "bbox": [
+      94,
+      537,
+      904,
+      595
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated interim financial statements are presented in United States Dollars (“USD” or $\\mathsf { U S } \\$ \\Phi )$ , which is the Company‟s functional currency. All financial information presented in $\\cup \\ S \\ S$ has been rounded to the nearest thousand. ",
+    "bbox": [
+      94,
+      609,
+      905,
+      652
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3. Significant accounting policies ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      667,
+      384,
+      682
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The accounting policies applied in the presentation of the condensed consolidated interim financial statements are in terms of International Financial Reporting Standards and are consistent with those applied for the year ended 31 March 2014. There are no accounting standards and amendments effective for the first time in the current financial period that applied to the Group. ",
+    "bbox": [
+      94,
+      695,
+      904,
+      753
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "3. Significant accounting policies - continued ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      485,
+      122
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The following new standards that could be relevant to the Group, are not yet effective for the six months ended 30 September 2014, and has not been applied in preparing these financial statements: ",
+    "bbox": [
+      94,
+      135,
+      885,
+      179
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "IFRS 9 – Financial instruments, effective for annual periods beginning on or after 1 January 2018 – This standard is set to replace the current IAS 39.   \nIFRS 15 – Revenue from contracts with customers, effective for annual periods beginning on or after 1 January 2017 – This standard specifies how and when revenue is recognised based on a principle based five-step model. ",
+    "bbox": [
+      102,
+      197,
+      900,
+      288
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "4. Segment information ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      315,
+      302,
+      330
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, including revenues and expenses that relate to transactions with any of the Group‟s other components. The Group‟s only operating segment is the exploration for, and the development and mining of copper and other base metal deposits. All the Group‟s activities are related to the exploration for, and the development and mining of copper and other base metals in Botswana with the support provided from ACU and it is reviewed as a whole by the Board (who is considered the chief operating decision maker) to make decisions about resources to be allocated to the segment and assess its performance, and for which discrete financial information is available. All mining revenue is attributed to Botswana and derives from a single customer. ",
+    "bbox": [
+      92,
+      343,
+      905,
+      473
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "As such, no segmental report has been prepared. ",
+    "bbox": [
+      94,
+      487,
+      470,
+      502
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5. Going Concern ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      516,
+      253,
+      531
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The Directors have considered the status of the current operations, the current funding position and the projected funding requirements of the business for twelve months from the date of approval of these condensed consolidated interim financial statements as detailed below. ",
+    "bbox": [
+      94,
+      545,
+      904,
+      588
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "There has been a decrease in the Group‟s loss after tax from $\\cup \\ S \\$ 36.5$ million for the six months ended 30 September 2013 to a loss of $0 . 5 \\$ 3.1$ million for the period ended 30 September 2014, owing predominantly to the inclusion of a $\\mathsf { U S$ 3 1 .5 }$ million impairment of Property, Plant and Equipment and Intangible mining assets during the prior period. ",
+    "bbox": [
+      94,
+      601,
+      905,
+      661
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Cash flow forecast – key assumptions and uncertainties ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      674,
+      517,
+      688
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The majority of the Group‟s activities occur at a subsidiary level. Cash flow projections have been performed at an ACU and a Group level since the ability of ACU to continue as a going concern has a direct impact on the same ability of the Group. The cash flow projections are based on a number of inputs and assumptions which include mined tonnage, all associated mining and processing costs, extraction and yield rates for production of the copper concentrate, and the price of copper. The Group‟s approved capital expenditure as well as committed exploration costs are also included in the cash flow projections. ",
+    "bbox": [
+      94,
+      702,
+      905,
+      789
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "According to the current mine plan, the Thakadu pit will be depleted by April 2015 and the Group‟s future cash generation beyond this point depends entirely on a successful and timely restart of mining operations at the Mowana pit and associated processing of the supergene ore. Numerous significant challenges and risks exist in attaining this situation at Mowana. In particular, the Group over the years has experienced recurring problems with the quality of its mining contractors and other aspects of production, causing production levels to be significantly below planned levels. ",
+    "bbox": [
+      92,
+      803,
+      905,
+      890
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      90
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "5. Going Concern – continued ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      357,
+      122
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "However, the new mining contractor, appointed during the last quarter of the previous financial year, has led to a significant increase in the quality and productivity of mining which the Group expects to continue in the foreseeable future. ",
+    "bbox": [
+      94,
+      135,
+      905,
+      178
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In the opinion of the Directors, the key assumptions to which the projections are most sensitive are the tonnage of produced copper concentrate and the copper price. The tonnage of produced copper concentrate is itself a function of mining output and recovery achieved in the processing operations. ",
+    "bbox": [
+      94,
+      192,
+      905,
+      236
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The following key assumptions (relevant for the 12 months to December 2015) were used to calculate the future cash flows: ",
+    "bbox": [
+      94,
+      249,
+      905,
+      279
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": " Average copper price per tonne  Average monthly production  Average monthly throughput Average recovery ",
+    "bbox": [
+      122,
+      294,
+      398,
+      355
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "US\\$6,427 1,150 tonnes 82,062 tonnes $8 4 . 9 \\%$ ",
+    "bbox": [
+      504,
+      294,
+      625,
+      355
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The forecasted copper price per tonne is based on consensus analyst projections for the copper price and current market conditions. The actual average price per tonne achieved during the period under review was $\\cup { \\mathsf { S P 6 } } , 8 7 2$ (2014 financial year: $\\cup { \\tt S$ 7 }$ ,108). ",
+    "bbox": [
+      94,
+      369,
+      907,
+      412
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The forecasted average monthly production is a $2 1 . 5 \\%$ increase over average production for the period under review. The current period average production was significantly impacted by the low production in June and July 2014 which was primarily due to the very large volume of waste stripping that was required. The projected production is a $2 . 7 \\%$ increase over the average production for the 6 months ended 30 September 2014 excluding the anomaly months of June and July 2014. Considering the on-going stability of the plant following the plant improvements completed during the prior financial year, the expertise and efficiency of the current mining contractor, and throughput achievements in the past, the projected ore availability and throughput as per the plan should be achievable. ",
+    "bbox": [
+      92,
+      425,
+      905,
+      542
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Forecasted recovery rates are based on independent metallurgy and plant test-work, averaging $8 4 . 9 \\%$ over the 12 months to December 2015. ",
+    "bbox": [
+      94,
+      555,
+      892,
+      586
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Projected funding requirements and current activities ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      599,
+      495,
+      613
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The Directors believe that the projections for the twelve months to December 2015 are achievable. The cash flow projections show that if the key operational and pricing assumptions are achieved, the Company and its subsidiaries will not require any funding in addition to the funding secured by means of prepayment and the term facility provided by ZCI (refer note 16), for the next twelve months from the date of approval of these interim financial statements. ",
+    "bbox": [
+      92,
+      627,
+      905,
+      699
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "By way of illustrating downside sensitivities in the projection, the impact of shortfalls would result in additional funding requirement over the forecasted period until December 2015 as follows (all other assumptions unchanged): ",
+    "bbox": [
+      94,
+      713,
+      905,
+      758
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "shortfalls in the average copper price of up to $4 \\%$ ; shortfalls in production throughput of up to $7 . 5 \\%$ (equivalent to an improvement of at least $10 \\%$ on the average throughput achieved during the 2015 interim period);   \nshortfalls in average recoveries of up to $5 \\%$ ; ",
+    "bbox": [
+      105,
+      771,
+      889,
+      862
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "5. Going Concern – continued ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      356,
+      122
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In the event that all the downside sensitivities illustrated above occur simultaneously, the impact would result in additional funding requirement over the forecasted period until December 2015 of up to $\\ U { \\ S } \\$ 5.6$ million (all other assumptions unchanged). However, it is the Directors view that this scenario is highly improbable. ",
+    "bbox": [
+      94,
+      135,
+      905,
+      192
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "These projections are furthermore subject to ZCI continuing to defer all principal and interest payments arising from ACU‟s debt obligations to ZCI for the next twelve months. ",
+    "bbox": [
+      92,
+      206,
+      902,
+      236
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In light of the sensitivities of the cash flow forecast, the Directors of ZCI issued a further letter of financial support to ACU, confirming that ZCI will continue to make sufficient financial resources available up to a maximum amount of $\\cup \\$ 897$ million to allow ACU to meet its liabilities as they fall due in the course of normal operations, subject to no material changes in the shareholding or debt structure of ACU resulting from the review of the reassessment of the strategic direction of ZCI and the Group. To ensure that ZCI has the ability to provide such support based on existing and any additional funding requirements, the Company obtained an extension of the letter of financial support from its controlling shareholder, to the value of $\\cup \\ S \\$ 7$ million. ",
+    "bbox": [
+      92,
+      249,
+      905,
+      365
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Furthermore, during December 2014 additional funding was requested by ACU in order to have sufficient working capital to perform the waste stripping required to manage the transition from the Thakadu pit to the Mowana pit. The shortages in working capital was as a result of a backlog in waste stripping and lower than planned production levels for October and November 2014. In order to ensure that ACU has sufficient working capital in the near term, ZCI has entered into a term facility agreement for $\\mathsf { U S$ 2.5 }$ million with ACU, supported by a term facility agreement between the Company and its controlling shareholder of the same amount (refer note 16). Drawdown of the full amount occurred on 19 December 2014. Conclusion ",
+    "bbox": [
+      92,
+      379,
+      907,
+      494
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "After taking account of the Company and its subsidiaries‟ funding position and their cash flow projections, and having considered the risks and uncertainties described above, the Directors have concluded that the Company and its subsidiaries have adequate resources to operate for at least the next 12 months from the date of approval of these financial statements. For these reasons, the Directors continue to prepare the financial statements on the going concern basis. ",
+    "bbox": [
+      94,
+      508,
+      905,
+      581
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Although we expect the Group to continue as a going concern, the combination of the uncertainties surrounding the successful and timely restart of mining operations at the Mowana pit and the associated processing of supergene ore, the exposure to copper price variations, the risk of our mining targets not being met, and the availability of additional funding if necessary, collectively represent a material uncertainty casting significant doubt on the ability of the Company and its subsidiaries to continue as going concerns and therefore they may be unable to realise their assets and discharge their liabilities in the normal course of business. ",
+    "bbox": [
+      92,
+      595,
+      905,
+      695
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "6. Other expenses ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      709,
+      258,
+      725
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "As disclosed in the 31 March 2014 and 30 September 2013 financial results, other expenses included an advisory fee of $\\cup \\ S \\$ 2$ million paid to iCapital (Mauritius) Limited as well as a share based payment expense of $\\mathsf { U S S 5 5 . 9 9 2 }$ million recognised as an equity settled share based payment transaction in terms of IFRS 2 Share Based Payments. These expenses have been incurred due to the settlement reached with iCapital. ",
+    "bbox": [
+      94,
+      738,
+      907,
+      796
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "7. Finance costs ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      810,
+      243,
+      825
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Included in finance costs for the current period is interest accrued on the finance lease liabilities, refer to note 11 for further detail. ",
+    "bbox": [
+      94,
+      839,
+      905,
+      868
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      361,
+      90
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "8. Earnings per share ",
+    "bbox": [
+      94,
+      107,
+      285,
+      122
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/f277a5b8e10604a3133bb396c5823177c6862db8553904cf534bf82db36193e4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Reviewed Six months Six months ended 30 September 30 September 2014</td><td>Reviewed Audited Twelve ended months ended 31 March 2013 2014</td></tr><tr><td>Basic loss per ordinary share (US cents) Diluted loss per ordinary share (US cents)</td><td>(0.42) (55.90) (0.93) (60.14)</td><td>(47.08) (48.95)</td></tr><tr><td>Headline loss per ordinary share (US cents) Diluted headline loss per ordinary share (US</td><td>(0.44)</td><td>(15.98) (8.71)</td></tr><tr><td>cents) Number of ordinary shares in issue</td><td>(0.95)</td><td>(20.22) (10.59)</td></tr><tr><td>Weighted average and diluted number of ordinary shares in issue</td><td>55,677,643 55,677,643 55,677,643 55,677,643</td><td>55,677,643 55,677,643</td></tr><tr><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      90,
+      133,
+      897,
+      368
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The following adjustments to profit/(loss) attributable to ordinary shareholders were taken into account in the calculation of diluted loss, headline loss and diluted headline loss per share: ",
+    "bbox": [
+      90,
+      382,
+      890,
+      412
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Loss attributable to owners of the company Increase in shareholding in subsidiary with respect to convertible portion of debt ",
+    "bbox": [
+      92,
+      531,
+      435,
+      574
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Diluted loss attributable to owners of the company ",
+    "bbox": [
+      94,
+      588,
+      411,
+      618
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Loss attributable to owners of the company   \nImpairment loss   \n(Gain)/loss on disposal of property, plant and   \nequipment   \nTotal tax effect of adjustments   \nTotal non-controlling interest effect of   \nadjustments   \nHeadline loss attributable to owners of the   \ncompany   \nIncrease in shareholding in subsidiary with   \nrespect to convertible portion of debt   \nDiluted headline loss attributable to owners of   \nthe company ",
+    "bbox": [
+      92,
+      648,
+      453,
+      837
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/37fe59bfd56b5c16217c0e104007d649884e962a063a0654ac533054e1772f0c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"4\">Reviewed Six months ended 30 September 2014 USD&#x27;000</td><td>Reviewed Six months</td><td>Audited Twelve months ended</td></tr><tr><td>ended 30 September</td><td>31March 2014</td></tr><tr><td>2013 USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td>(31,122)</td><td>(26,211)</td></tr><tr><td>(232) (283)</td><td>(2,360)</td><td>(1,045)</td></tr><tr><td>(515)</td><td>(33,482)</td><td>(27,256)</td></tr><tr><td>(232)</td><td>(31,122)</td><td>(26,211)</td></tr><tr><td>(19)</td><td>31,500 320</td><td>31,500 526</td></tr><tr><td>5</td><td>(4,567)</td><td>(2,161)</td></tr><tr><td></td><td>(5,031)</td><td>(8,506)</td></tr><tr><td>(246)</td><td>(8,900)</td><td>(4,852)</td></tr><tr><td>(283)</td><td>(2,360)</td><td>(1,045)</td></tr><tr><td>(529)</td><td>(11,260)</td><td>(5,897)</td></tr></table>",
+    "bbox": [
+      472,
+      426,
+      900,
+      839
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      361,
+      90
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "9. Property, plant and equipment ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      381,
+      122
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/c5d73eb96cb33ae09f6d504c2a225d63c0bb7d8adc7cc17a4a8570838fc49c55.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Mine development and infrastructure</td><td rowspan=\"2\">Mine plant</td><td rowspan=\"2\">Other assets</td><td rowspan=\"2\">Total</td></tr><tr><td>and equipment</td></tr><tr><td>2015</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td>Cost</td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 1 April 2014</td><td>35,634</td><td>29,240</td><td>4,029</td><td>68,903</td></tr><tr><td>Additions</td><td>7,649</td><td>11,091</td><td>98</td><td>18,838</td></tr><tr><td>Disposals</td><td></td><td></td><td>(11)</td><td>(11)</td></tr><tr><td>Foreign exchange adjustments</td><td>(2,122)</td><td>(1,932)</td><td>(209)</td><td>(4,263)</td></tr><tr><td>Balance at 30 September 2014</td><td>41,161</td><td>38,399</td><td>3,907</td><td>83,467</td></tr><tr><td>Depreciation and impairment losses</td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 1 April 2014</td><td>(28,525)</td><td>(6,471)</td><td>(1,580)</td><td>(36,576)</td></tr><tr><td>Depreciation charge for the year</td><td>(3,916)</td><td>(1,824)</td><td>(269)</td><td>(6,009)</td></tr><tr><td>Disposals</td><td>-</td><td>-</td><td>10</td><td>10</td></tr><tr><td>Foreign exchange adjustments</td><td>1,612</td><td>402</td><td>90</td><td>2,104</td></tr><tr><td>Balance at 30 September 2014</td><td>(30,829)</td><td>(7,893)</td><td>(1,749)</td><td>(40,471)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Carrying value Balance at 1 April 2014</td><td>7,109</td><td>22,769</td><td>2,449</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>32,327</td></tr><tr><td>Balance at 30 September 2014</td><td>10,332</td><td>30,506</td><td>2,158</td><td>42,996</td></tr></table>",
+    "bbox": [
+      90,
+      136,
+      877,
+      533
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/837e8a87ee1cc6ac7e0201ceb977fe8cd76ef227e179a713f1c2ffedc4847dda.jpg",
+    "table_caption": [
+      "9. Property, plant and equipment – continued "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\">2014</td><td rowspan=\"2\">Mine development and infrastructure</td><td rowspan=\"2\">Mine plant and equipment</td><td rowspan=\"2\">Other assets</td><td rowspan=\"2\">Total USD&#x27;000</td></tr><tr><td>USD&#x27;000 USD&#x27;000</td></tr><tr><td>Cost</td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 1 April 2013</td><td>29,550</td><td>27,096</td><td>3,805</td><td>60,451</td></tr><tr><td>Additions</td><td>9,208</td><td>3,043</td><td>414</td><td>12,665</td></tr><tr><td>Disposals</td><td>:</td><td>(619)</td><td>(24)</td><td>(643)</td></tr><tr><td>Reclassifications/Transfers</td><td>(1,350)</td><td>1,296</td><td>54</td><td>-</td></tr><tr><td>Foreign exchange adjustments</td><td></td><td></td><td>(220)</td><td></td></tr><tr><td>Balance at 31 March 2014</td><td>(1,774)</td><td>(1,576)</td><td></td><td>(3,570)</td></tr><tr><td></td><td>35,634</td><td>29,240</td><td>4,029</td><td>68,903</td></tr><tr><td>Depreciation and impairment losses</td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 1 April 2013</td><td>(14,351)</td><td>(4,242)</td><td>(1,249)</td><td>(19,842)</td></tr><tr><td>Depreciation charge for the year</td><td>(3,360)</td><td>(1,158)</td><td>(430)</td><td>(4,948)</td></tr><tr><td>Disposals</td><td>-</td><td>94</td><td>23</td><td>117</td></tr><tr><td>Impairment loss</td><td>(11,965)</td><td>(1,455)</td><td>-</td><td>(13,420)</td></tr><tr><td>Foreign exchange adjustments</td><td>1,151</td><td>290</td><td>76</td><td>1,517</td></tr><tr><td>Balance at 31 March 2014</td><td>(28,525)</td><td>(6,471)</td><td>(1,580)</td><td>(36,576)</td></tr><tr><td>Carrying value</td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 1 April 2013</td><td>15,199</td><td>22,854</td><td>2,556</td><td>40,609</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Balance at 31 March 2014</td><td>7,109</td><td>22,769</td><td>2,449</td><td>32,327</td></tr></table>",
+    "bbox": [
+      90,
+      134,
+      877,
+      564
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The majority of the Group‟s property, plant and equipment above are physically located at the mine, in Botswana. ",
+    "bbox": [
+      94,
+      592,
+      889,
+      621
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Impairment review ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      638,
+      250,
+      653
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "During the financial year, the Group reassessed the recoverability of the carrying value of its property, plant and equipment as well as intangible assets where mining is currently taking place, (this is considered to be one cash generating unit), following continuing operating challenges and its on-going reconsideration of the strategic direction of its mining assets (Refer to note 5). The recoverable amount was calculated with reference to value-in-use. ",
+    "bbox": [
+      92,
+      669,
+      907,
+      746
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "9. Property, plant and equipment – continued ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      112,
+      473,
+      128
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Impairment review - continued ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      142,
+      349,
+      158
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The Group performed an impairment test on the above mentioned cash generating unit. Key assumptions include the following: ",
+    "bbox": [
+      94,
+      174,
+      904,
+      204
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "A revised five year and ten months mine plan based on processing 5.6 million tonnes of the Mowana mine's proven and probable reserves and 0.4 million tonnes of the Thakadu Pit's probable reserves over the life of the mine   \nA discount rate of $1 5 \\%$ , stress tested up to rate of $1 7 \\%$ (2014: $1 5 \\% - 1 7 \\%$ )   \nAverage production through-put levels of 81,976 tonnes per month over the life of mine (from January 2015), adjusted by $7 . 5 \\%$ downside sensitivity factor to average production through put levels of 75,828, which is based on at least $10 \\%$ increase over the life-of-mine on actual throughput compared to the previous financial year;   \nCopper sales prices, based on consensus analyst projections for the copper price, forecast at price of $\\cup { \\tt S$ 3 .17 }$ per lb over the life of mine, adjusted by a $2 \\%$ downside sensitivity factor; Grade assumptions based on the Mowana and Thakadu resource model grades, which experience has shown to be reasonably predictive of the actual grades mined, both averaging $1 . 5 \\%$   \nRecovery rates based on historical independent metallurgy and plant test-work adjusted by $5 \\%$ downside sensitivity   \nOperating costs based on historical costs and approved budget costs, plus a $2 . 5 \\%$ sensitivity factor increase on mining costs   \nCapital costs based on historical costs and approved budget costs ",
+    "bbox": [
+      105,
+      219,
+      907,
+      481
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "As required by IAS 36, no benefit has been recognised for any additional value that could be generated from the assets through improving the performance of the assets through additional cash outflows, from the development of underground workings or from production beyond the five year and ten months mine plan. ",
+    "bbox": [
+      92,
+      493,
+      905,
+      556
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The value-in-use represents the estimated present value of the future cash flows expected to be derived from the asset, discounted at a rate of $1 5 \\%$ and stress tested at a rate of $1 7 \\%$ . ",
+    "bbox": [
+      94,
+      568,
+      902,
+      599
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Neither the outcome of the value-in-use calculation, nor the stress test indicated any further impairment of the carrying value of property, plant and equipment and the intangible assets relating to the operations where mining is currently taking place. ",
+    "bbox": [
+      94,
+      612,
+      905,
+      658
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "During the previous corresponding financial period, the outcome of the value-in-use calculation indicated an impairment loss of $\\mathsf { U S$ 31 .5 }$ million $( \\mathsf { U S } \\$ 13.42$ million relating to property, plant and equipment and $\\cup \\ S \\$ 18.08$ million relating to intangible assets). ",
+    "bbox": [
+      94,
+      671,
+      905,
+      718
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The Directors are of the opinion that the results of the period end value-in-use calculation did not support an impairment loss. ",
+    "bbox": [
+      92,
+      731,
+      904,
+      762
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "10. Mineral Resources and Mineral Reserves ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      468,
+      121
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Since the previous financial year no material changes to the Mineral Resources and Ore Reserves disclosed in the ZCI Integrated report for the year ended 31 March 2014 are expected other than depletion, due to continued mining activities. ",
+    "bbox": [
+      94,
+      135,
+      907,
+      178
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "11. Financial lease liability ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      192,
+      317,
+      208
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "On 20 February 2014, the Group entered into an agreement for 52-months with a mining contractor, Diesel Power Mining (Proprietary) Limited (“Diesel Power”). In terms of the contract, specific mining equipment will be used by the contractor in fulfilling their duties of mine scheduling, drill and blasting, waste removal and ore mining. ",
+    "bbox": [
+      94,
+      222,
+      905,
+      284
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Although the arrangement is not in the legal form of a lease, the Group concluded that the arrangement contains a lease of the mining equipment. The lease was classified as a finance lease. At the inception of the arrangement, it was impracticable to split the payments into lease payments and other payments related to the arrangement, as such the lease asset and liability was recognised at an amount equal to the fair value of the assets that was identified in terms of the lease. The imputed finance costs on the liability were determined based on the Group‟s incremental borrowing rate $( 9 \\ \\% )$ . This lease provides the Group with the option to buy the equipment at a beneficial price. In terms of the agreement Diesel Power shall not de-mobilise any or all of the mining equipment from the site without receiving written approval from the Group. ",
+    "bbox": [
+      92,
+      299,
+      905,
+      438
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Finance lease liabilities recognised for items of equipment whereby the commencement date of the lease was prior to 30 September 2014, are payable as follows: ",
+    "bbox": [
+      90,
+      453,
+      870,
+      483
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Less than one year Between one and five years More than five years ",
+    "bbox": [
+      92,
+      599,
+      314,
+      644
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Less than one year Between one and five years More than five years ",
+    "bbox": [
+      92,
+      789,
+      314,
+      835
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/cd89430a2074248b7d48e954d41d7105d56ef757e537abd0764eea74392e02c0.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\"></td><td rowspan=\"2\">Present value of minimum lease</td></tr><tr><td>Future minimum lease payments</td><td>Interest</td></tr><tr><td rowspan=\"2\">2015</td><td>2015</td><td>payments</td></tr><tr><td>USD&#x27;000</td><td>2015 USD&#x27;000</td></tr><tr><td>USD&#x27;000</td><td></td><td></td></tr><tr><td rowspan=\"3\">3,721 10,237</td><td>950</td><td></td></tr><tr><td></td><td>2,771</td></tr><tr><td>1,226 ■</td><td>9,011</td></tr><tr><td>■</td><td></td><td>■</td></tr><tr><td>13,958</td><td>2,176</td><td>11,782</td></tr></table>",
+    "bbox": [
+      398,
+      505,
+      914,
+      661
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/c411bc1ddbcf154f13609c4c206843dfe6497907a1a94f4e91bd2f53ebd2d639.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"3\"></td></tr><tr><td>Future minimum</td><td></td><td>Present value of minimum lease</td></tr><tr><td>lease payments</td><td>Interest</td><td>payments</td></tr><tr><td>2014</td><td>2014</td><td>2014</td></tr><tr><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td>535</td><td>157</td><td>378</td></tr><tr><td>1,783</td><td></td><td>1,535</td></tr><tr><td>■</td><td>248 -</td><td>■</td></tr><tr><td>2,318</td><td>405</td><td>1,913</td></tr></table>",
+    "bbox": [
+      400,
+      699,
+      912,
+      852
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      29,
+      620,
+      61
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      90
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "11. Financial lease liability - continued ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      105,
+      416,
+      122
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Commitments under finance lease ",
+    "bbox": [
+      95,
+      135,
+      364,
+      149
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "At the reporting date, all assets subject to this agreement were not yet at the mine as they are still being mobilised. The future minimum lease payments (for all assets subject to this agreement) are as follow: ",
+    "bbox": [
+      92,
+      165,
+      905,
+      196
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Less than one year Between one and five years More than five years ",
+    "bbox": [
+      100,
+      325,
+      322,
+      374
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/a1fb225db45ff82151b484813a9e7101add26e029e1b570919755bd5b0fc91ba.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Future minimum</td><td colspan=\"2\">Present value of minimum lease</td></tr><tr><td rowspan=\"4\">lease payments 2015</td><td>Interest</td><td>payments</td></tr><tr><td>2015</td><td>2015</td></tr><tr><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td></td><td></td></tr><tr><td>4,131</td><td>1,055</td><td>3,076</td></tr><tr><td>11,365</td><td>1,359</td><td>10,006</td></tr><tr><td>■</td><td>■</td><td>■</td></tr><tr><td>15,496</td><td>2,414</td><td>13,082</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Future minimum</td><td></td><td>Present value of minimum lease</td></tr><tr><td>lease payments</td><td>Interest</td><td></td></tr><tr><td>2014</td><td>2014</td><td>payments 2014</td></tr><tr><td>USD&#x27;000</td><td>USD&#x27;000</td><td>USD&#x27;000</td></tr><tr><td></td><td></td><td></td></tr><tr><td>2,037</td><td>598</td><td>1,439</td></tr><tr><td>6,793</td><td>945</td><td>5,848</td></tr><tr><td>-</td><td>■</td><td>=</td></tr><tr><td>8,830</td><td>1,543</td><td>7,287</td></tr></table>",
+    "bbox": [
+      400,
+      231,
+      919,
+      570
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Less than one year Between one and five years More than five years ",
+    "bbox": [
+      100,
+      505,
+      322,
+      551
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "12. Contractual commitments ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      598,
+      342,
+      613
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6440218/auto/images/424e87a383d382a953b98878a50abb93919ac226e8765ce477c612e1cc673735.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Contractual Obligations</td><td>Total USD&#x27;000</td><td>2014 (d) USD&#x27;000</td><td>2015 (d) USD&#x27;000</td><td>2016 (d) USD&#x27;000</td><td>2017 (d) USD&#x27;000</td></tr><tr><td>Goods, services and</td><td>1,763</td><td>1,763</td><td>=</td><td>=</td><td></td></tr><tr><td>equipment (a) Exploration licences (b)</td><td>2,179</td><td>866</td><td>1,257</td><td>56</td><td></td></tr><tr><td>Lease agreements (c)</td><td>61</td><td>13</td><td>27</td><td>9</td><td>12</td></tr><tr><td></td><td>4,003</td><td>2,642</td><td>1,284</td><td>65</td><td>12</td></tr></table>",
+    "bbox": [
+      94,
+      623,
+      914,
+      746
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "a) The Group has a number of agreements with third parties who provide a wide range of goods and services and equipment. This includes commitments for capital expenditure.   \nb) Under the terms of the Company‟s prospecting licences Matsitama is obliged to incur certain minimum expenditures.   \nc) The Company has entered into agreements to lease premises for various periods.   \nd) The period refers to the calendar year ended. ",
+    "bbox": [
+      109,
+      758,
+      909,
+      846
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "13. Financial instruments ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      107,
+      300,
+      121
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The carrying amounts of other financial assets, trade and other receivables, cash and cash equivalents, interest bearing debt, finance lease liability and trade and other payables are a reasonable approximation of fair value. ",
+    "bbox": [
+      94,
+      135,
+      905,
+      178
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "14. Related party transactions ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      192,
+      346,
+      208
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "There were no changes with respect to the nature or terms of related party transactions during the period to that previously reported. ",
+    "bbox": [
+      94,
+      222,
+      905,
+      250
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "15. Dividends ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      263,
+      208,
+      279
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "No dividends were declared for the period under review. ",
+    "bbox": [
+      94,
+      293,
+      517,
+      307
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "16. Events after the reporting period ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      322,
+      398,
+      337
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "No event, material to the understanding of these financial statements, has occurred between the reporting date and the date of approval of the financial statements except for the following: ",
+    "bbox": [
+      95,
+      350,
+      905,
+      379
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "On 19 November 2014 a prepayment loan of $\\cup \\mathtt { S } \\$ 3$ million was obtained from MRI Trading AG (“MRI”), the Group‟s off-take partner. The loan is $\\cup \\ S \\$ 8$ denominated and will be repaid by the offset of copper concentrate deliveries in six equal monthly instalments of minimum $\\mathsf { U S$ 0 .5 }$ million each, commencing latest thirty days after the one month grace period from the drawdown date. The loan is charged an interest rate of LIBOR 1 month plus $6 \\%$ calculated daily until such time the entire loan has been repaid. On the same date the MRI off take contract was extended for a period of 12 months from 1 January 2015 to 31 December 2015. The MRI contract includes the full production of copper concentrates produced at the Group‟s Mowana and Thakadu mines. ",
+    "bbox": [
+      109,
+      393,
+      907,
+      519
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "On 19 December 2014 the Company provided additional financing to the ACU Group by providing a term facility agreement to its indirect subsidiary, Messina Copper (Botswana) (Pty) Ltd, with a principal value of $\\cup \\ S \\$ 2.5$ million in broad terms to fund the short term working capital required to perform the necessary waste stripping to manage the transition from the Thakadu pit to the Mowana pit. This loan is made on substantially similar terms to previous loans extended by the Company to its subsidiaries, and bears interest at $9 \\%$ per annum with repayment in equal monthly instalments of $\\mathsf { U S } \\$ 500,000$ commencing in January 2016. Drawdown of the full amount occurred on 19 December 2014. ",
+    "bbox": [
+      109,
+      532,
+      899,
+      658
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "On 19 December 2014 the Company obtained a loan from its parent and ultimate controlling shareholder, the Copperbelt Development Foundation. The loan has a principal value of $\\cup \\ S \\$ 2.5$ million and bears interest at $9 \\%$ per annum with repayment in equal monthly instalments of $\\mathsf { U S } \\$ 500,000$ commencing in January 2016. Drawdown of the full amount occurred on 19 December 2014. ",
+    "bbox": [
+      109,
+      671,
+      905,
+      750
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Condensed Consolidated Interim Financial Statements ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      30,
+      620,
+      61
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Notes to the Financial Statements ",
+    "bbox": [
+      95,
+      74,
+      359,
+      89
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "17. Review opinion ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      253,
+      121
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "The condensed consolidated interim financial statements of ZCI Limited for the six months ended 30 September 2014 have been reviewed by our auditors, KPMG Inc., who expressed an unmodified review conclusion. The auditor‟s report contained the following Emphasis of Matter paragraph: “Without qualifying our conclusion, we draw attention to note 5, which indicates that the Group incurred a loss for the six months ended 30 September 2014 of $\\mathsf { U S } \\$ 3.1$ million. This condition, along with other matters as set forth in the note, indicates the existence of a material uncertainty that may cast significant doubt on the ability of the company and its subsidiaries to continue as going concerns.” ",
+    "bbox": [
+      94,
+      135,
+      905,
+      236
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "A copy of the review report is available for inspection at the registered office of the Company (Clarendon House, 2 Church Street, Hamilton, Bermuda) and the offices of the sponsor, together with the financial statements identified in the auditor‟s report. ",
+    "bbox": [
+      92,
+      249,
+      907,
+      293
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Company secretary John Kleynhans ",
+    "bbox": [
+      92,
+      49,
+      260,
+      86
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Registered office ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      107,
+      240,
+      121
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Clarendon House, 2 Church Street, Hamilton, Bermuda ",
+    "bbox": [
+      92,
+      128,
+      529,
+      142
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Transfer secretary – South Africa ",
+    "bbox": [
+      94,
+      164,
+      374,
+      179
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Computershare Investor Services (Pty) Limited, 70 Marshall Street, Johannesburg, 2001, South Africa ",
+    "bbox": [
+      99,
+      185,
+      894,
+      200
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Transfer secretary – United Kingdom ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      221,
+      406,
+      236
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Computershare Investor Services PLC, The Pavilions, Bridgwater Road, United Kingdom ",
+    "bbox": [
+      95,
+      242,
+      788,
+      258
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Sponsor ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      279,
+      168,
+      293
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Bridge Capital Advisors (Pty) Limited, 27 Fricker Road, lllovo Boulevard, lllovo, 2196, South Africa ",
+    "bbox": [
+      94,
+      300,
+      862,
+      316
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Auditors ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      337,
+      169,
+      350
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "KPMG Inc, KPMG Crescent, 85 Empire Road, Parktown, 2193, Private Bag X9, Parkview, 2122, South Africa ",
+    "bbox": [
+      89,
+      357,
+      905,
+      387
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Website: www.zci.lu ",
+    "bbox": [
+      94,
+      401,
+      263,
+      416
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "ZCI Limited ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      429,
+      191,
+      444
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "(Bermuda registration number 661:1969) (South African registration number 1970/000023/10) JSE share code: ZCI ISIN: BMG9887P1068 Euronext share code: BMG9887P1068 (“ZCI” or “the Company” or “the Group”) ",
+    "bbox": [
+      94,
+      451,
+      502,
+      524
+    ],
+    "page_idx": 22
+  }
+]

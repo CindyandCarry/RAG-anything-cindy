@@ -1,0 +1,1364 @@
+[
+  {
+    "type": "text",
+    "text": "Structural Design and Experimental Investigation of A Medium Scale Composite Wind Turbine Blade Considering Fatigue Life ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      100,
+      872,
+      175
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "C. Kong\\*1,Y. Sugiyama\" and C.Soutis\\* ",
+    "bbox": [
+      316,
+      204,
+      635,
+      225
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Division of Aerospace and Naval Architectural Engineering,Chosun University, Kwangju,Korea E-mail: cdgong@mail.chosun.ac.kr \\*\\* Department of Aeronautics,Imperial College ofScience,Technology and Medicine,London, UK. \"Department of Aerospace Engineering, Osaka Prefecture University, Sakai-shi, Japan ",
+    "bbox": [
+      96,
+      242,
+      858,
+      309
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      210,
+      344,
+      303,
+      359
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The aim of this study was to make a structural design for development of a medium scale Eglass/epoxy composite wind turbine blade for a 750KW class horizontal axis wind turbine system. ",
+    "bbox": [
+      62,
+      380,
+      452,
+      448
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In this study， the various load cases specified by international specification IEC61400-1 andGL Regulations for the wind energy conversion system were considered,and a specific composite structure configuration which can effectively endure aerodynamic,centrifugal,hygro-thermal and mechanical loads and loads due to accumulation of ice was proposed.In order to evaluate the structure,a structural analysis for the composite wind turbine blade was performed using the finite element method (FEM). In the structural design，the acceptable blade structural configuration was determined through parametric studies,and the most dominant design parameters were confirmed.In the stress analysis using the FEM, it was confirmed that the blade structure was safe and stable in any of the various load cases.Moreover, the safety of the blade root joint with insert bolts,newly devised in this study,was checked against the design load and the fatigue. ",
+    "bbox": [
+      62,
+      452,
+      454,
+      791
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The fatigue life time over 20 years was estimated by using the well-known S-N linear damage equation,the load spectrum and Spera's empirical equations.With the results obtained from the structural design and analysis, the prototype composite blades were manufactured. The construction process and lay-up molding method developed in this study were employed to manufacture the prototype blades. ",
+    "bbox": [
+      63,
+      795,
+      454,
+      900
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      344,
+      891,
+      377
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Finally，a full-scale static structural test was performed with the simulated aerodynamic loads.From the experimental results, it was found that the designed blade had structural integrity.Furthermore， the measured results were in good agreement with the analytical results such as deflections,strains,the mass and the radial center of gravity. ",
+    "bbox": [
+      499,
+      381,
+      894,
+      502
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: composite wind turbine blade, structural design，load cases for wind turbine，fatigue life prediction, full scale static test ",
+    "bbox": [
+      499,
+      523,
+      892,
+      574
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      616,
+      614,
+      777,
+      630
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The fast progress in wind energy technology and wide spread usage of wind turbines necessitate standardization of the wind turbine's main components in order to achieve further cost reduction.This holds not only for large volume production and standardization of production methods but also for material test methods and design rules /1,2/. ",
+    "bbox": [
+      499,
+      650,
+      894,
+      773
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In South Korea, since the introduction of the“New and Renewable Source of Energy (NRSE) Development &Promotion Act”in 1987,the Korean government has invested considerably in the development of a new wind turbine system.One of these initiatives resulted in the design and manufacture of an E-glass/epoxy composite blade fora 75oKW medium-scale horizontal axiswind turbine system (HAWTS) /3/. The first author and his co-workershave contributed considerably to the structural design and analysis, manufacturing and structural testing of this medium scale composite blade /4-9/. ",
+    "bbox": [
+      500,
+      775,
+      894,
+      899
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Author to whom correspondence should be addressed. ",
+    "bbox": [
+      63,
+      927,
+      443,
+      943
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      886,
+      939,
+      896,
+      951
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      110,
+      91,
+      502,
+      177
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This study proposed a specific structural design and test procedure for the medium scale E-glass/epoxy compositewindturbinebladebyperforming aerodynamic design,dynamic and static load analyses, structural design, securing structural strength by static structural analysis,prediction of fatigue life from the random load spectrum,a modal analysis to prevent resonance,structural testing with specific test rigs, fixtures and measuring equipment, etc. ",
+    "bbox": [
+      110,
+      181,
+      500,
+      340
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Furthermore,this study describes a specific blade root joint with insert bolts and a specific structural configuration such as the cell box type using the skinspar-foam sandwich structure not only to minimize the blade weight but also to obtain structural stability against buckling and vibration. ",
+    "bbox": [
+      110,
+      342,
+      500,
+      448
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. GENERAL CONSIDERATION IN COMPOSITE WIND TURBINE BLADE DESIGN ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      488,
+      492,
+      523
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Thebladehasa skin-spar-foamsandwich construction with a total length of $2 3 . 3 \\mathfrak { m }$ ，maximum chord length of $2 . 1 \\mathsf { m }$ ，tip chord length of $0 . 5 \\mathsf { m }$ and a twisting angle of $1 2 ^ { \\circ }$ .For simplicity,it has no coning angle and no blade-to-shaft hinge,but has a full active pitch control to reduce cyclic aerodynamic loads. The blade is manufactured with a straight leading edge and a straight and tapered trailing edge for ease of construction and the modified thick NACA 63-xxx airfoil is used at the blade root for good structural performance.For weight reduction structure,an insert bolt type joint structure is introduced,resulting in smoothgeometryandlowstressconcentration. Provision for lightning strike protection is made and round blade tip is used to minimize wake effect and noise.An appropriate gel coat is applied to minimize aerodynamic drag，penetration of humidity and solar deterioration. Fig. 1 shows schematically the crosssectional configuration at the root of the blade,which is similar to that of references /10,11/. ",
+    "bbox": [
+      110,
+      543,
+      502,
+      903
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In operation, the wind turbine may experience different loads such as aerodynamic and inertial loads, loads due to accumulation of ice,hygro-thermal and mechanical loads.A cell-box type with a skin-spar-foam sandwich construction was thought to sustain these complex loads quite effectively.In Fig.l,the spar flange ismanufactured using unidirectional E-glass/epoxy tape; the spar webs are of a sandwich construction with a urethane foam core and a $\\pm 4 5 ^ { \\circ } .$ -fabric skin, similar to the construction of the outer sandwich shell of the blade. The E-glass/epoxy composite material was chosen because of low cost,appropriate fatigue lifetime, desirable specific strength and stiffness and ease of manufacture. Table l shows the mechanical properties of materials used /12/. ",
+    "bbox": [
+      132,
+      905,
+      502,
+      920
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/996ac83ed2c8d2596e800286d100174d51de20038c725fbe4d160a224ce7a7e5.jpg",
+    "image_caption": [
+      "Fig.1. Cross-section at the root of the rotor blade "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      552,
+      86,
+      934,
+      229
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      549,
+      307,
+      941,
+      556
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Structural design requirements such as the minimum clearance limits between the blade tip and the tower wall,the strain limits along the fiber direction，the surface stress limit,and fatigue life time over 20 years, were specified by the design requirements of the IEC61400-1internationalspecificationandthe Germanischer-Lloyd (GL） regulations /13,14/.Various design load cases including aerodynamic,centrifugal, gravitational,thermal and ice loads and operating conditions such as stand-by,start up,power production, and shut-down due to faults were analyzed and compared with GL Regulations for the certification of wind energy conversion systems. ",
+    "bbox": [
+      547,
+      560,
+      937,
+      592
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/f24c27cc1893190abbb1e007773796bff7be162871b959b57a0c801c50774a58.jpg",
+    "table_caption": [
+      "Table 1 Material mechanical properties /12/ "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>MaterialProperty</td><td rowspan=1 colspan=1>UD Tape-GFRP</td><td rowspan=1 colspan=1>Fabric-GFRP</td><td rowspan=1 colspan=1>UrethaneFoam</td></tr><tr><td rowspan=1 colspan=1>E(N/mm2)</td><td rowspan=1 colspan=1>35700</td><td rowspan=1 colspan=1>22147</td><td rowspan=1 colspan=1>60.86</td></tr><tr><td rowspan=1 colspan=1>E2(N/mm2)</td><td rowspan=1 colspan=1>10600</td><td rowspan=1 colspan=1>2658</td><td rowspan=1 colspan=1>59.86</td></tr><tr><td rowspan=1 colspan=1>G12 (N/mm2）</td><td rowspan=1 colspan=1>2810</td><td rowspan=1 colspan=1>1617</td><td rowspan=1 colspan=1>19.18</td></tr><tr><td rowspan=1 colspan=1>V12</td><td rowspan=1 colspan=1>0.324</td><td rowspan=1 colspan=1>0.3</td><td rowspan=1 colspan=1>0.2</td></tr><tr><td rowspan=1 colspan=1>X,(N/mm²)</td><td rowspan=1 colspan=1>711.0</td><td rowspan=1 colspan=1>367.3</td><td rowspan=1 colspan=1>2.63</td></tr><tr><td rowspan=1 colspan=1>X. (N/mm²)</td><td rowspan=1 colspan=1>1200.0</td><td rowspan=1 colspan=1>411.0</td><td rowspan=1 colspan=1>1.41</td></tr><tr><td rowspan=1 colspan=1>Y,(N/mm²)</td><td rowspan=1 colspan=1>38.0</td><td rowspan=1 colspan=1>40.0</td><td rowspan=1 colspan=1>2.49</td></tr><tr><td rowspan=1 colspan=1>Y.(N/mm2)</td><td rowspan=1 colspan=1>183.0</td><td rowspan=1 colspan=1>141.0</td><td rowspan=1 colspan=1>1.41</td></tr><tr><td rowspan=1 colspan=1>S (N/mm²)</td><td rowspan=1 colspan=1>65.7</td><td rowspan=1 colspan=1>52.8</td><td rowspan=1 colspan=1>0.71</td></tr><tr><td rowspan=1 colspan=1>p(g/cm3)</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.87</td><td rowspan=1 colspan=1>0.1197</td></tr></table>",
+    "bbox": [
+      549,
+      670,
+      939,
+      917
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FatigueLifein Wind Turbine Blade ",
+    "bbox": [
+      715,
+      46,
+      936,
+      57
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Vol.10,No.1,2002 ",
+    "bbox": [
+      110,
+      45,
+      234,
+      56
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      108,
+      945,
+      120,
+      956
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      65,
+      90,
+      457,
+      284
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3. STRUCTURAL DESIGN AND ANALYSIS ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      329,
+      435,
+      345
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the current design approach,the optimal blade structural configuration was determined through a parametric study using a finite element method /15/. The skin thickness,thickness and width of the spar flange and thickness,location and length of the front and rear spar web were varied until design criteria were satisfied. ",
+    "bbox": [
+      67,
+      362,
+      459,
+      484
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The finite element program used for the structural analysis is a well-known commercial code: NISA II (Numerically Integrated Element for System Analysis) $/ 1 6 /$ .The element types used for the static stress analysis are the 3-D laminated composite shell element and the 3-D laminated sandwich element with 12 nodes.In this investigation，it was shown that the most dominant design parameters are: the thickness of the spar flange and skin for weight reasons,the thickness of the spar flange and the location of the front and rear spar web for sustaining maximum stress and/or strain,the thickness and the width of the spar flange for the blade tip clearance and the location of the front spar web for minimizing the distortion angle. On performing the linear static stress analysis,modal analysis,buckling analysis and the additional stress analysis related to ice and thermal loading,it was confirmed that the blade structure is safe and stable operating under the various load cases described above.The blade root joint with the insert bolts is a new design concept. It was also proved by the finite element stress analysis that the joint is safe against the design load and fatigue loading conditions.Fig.2 to Fig.5 shows detailed dimensions at the joint，root,middle and tip of the blade.Table 2 presents the stress analysis results of four design lad cases,which are the rated wind speed condition of $1 2 . 5 \\mathrm { m } / \\mathrm { s }$ (load case 1),the rated wind speed plus the extreme gust condition of $\\mathfrak { s m } / \\mathfrak { s }$ (load case 2), the cut out wind speed of ${ 2 5 } \\mathbf { m } / \\mathbf { s }$ plus the extreme wind speed condition (load case 3),and the stationary limit load condition in a storm of ${ \\mathfrak { s s m } } / { \\mathfrak { s } }$ (load case 4).Where load cases l to 3 are considered in wind direction, changes between $\\mathtt { - 4 0 }$ to $\\mathtt { + 4 0 }$ degrees at maximum rotational wind speed of 35 rpm are in operation. ",
+    "bbox": [
+      67,
+      488,
+      459,
+      920
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/119824c98f79ff8f3e1cc535f1c69b7fedb78a5db9355b0b65969d4474038bfe.jpg",
+    "image_caption": [
+      "Fig.2: Cut-view of the blade root (0.076R \\~ 0.225R station) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      504,
+      92,
+      901,
+      280
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/c54fed827a193641f126aab9573497769ac423569004bd9fd60ca3829c24932a.jpg",
+    "image_caption": [
+      "Fig.3: Cross-section of the blade at 0.286R station "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      506,
+      350,
+      903,
+      555
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/07818fc290ce798dfe088a376a6ffeeaa3879c69ca4332ea36e7f0b8a40fa0aa.jpg",
+    "image_caption": [
+      "Fig.4: Cross-section of the blade at 0.598R station "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      506,
+      606,
+      899,
+      807
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      506,
+      865,
+      901,
+      917
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Scienceand Engineering ofComposite Materials ",
+    "bbox": [
+      588,
+      47,
+      896,
+      60
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "C. Kong, Y. Sugiyama and C. Soutis ",
+    "bbox": [
+      67,
+      45,
+      291,
+      57
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      891,
+      942,
+      901,
+      953
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/97fb2116b9f113087fcf37207c2e23a188c24b20a6814460669a6e98486c9a45.jpg",
+    "image_caption": [
+      "Fig.5: Cross-section of the blade tip,1.00oR station "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      115,
+      90,
+      509,
+      291
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/c11302c02195a13d2951c17c13ee7fa60205c9c74404fb200374695797f42068.jpg",
+    "table_caption": [
+      "Table 2 Results of linear static stress analysis "
+    ],
+    "table_footnote": [
+      "x : length from the leading edge [m], y : length from the root [m] (-:compressive, $^ +$ : tensile) "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=3>Load CaseAnalysis</td><td rowspan=1 colspan=1>Case一</td><td rowspan=1 colspan=1>Case2</td><td rowspan=1 colspan=1>Case3</td><td rowspan=1 colspan=1>Case4</td></tr><tr><td rowspan=4 colspan=1>Max.Stress[MPa]</td><td rowspan=2 colspan=1>Skin(15tply)</td><td rowspan=1 colspan=1>x=0.811y=12.76</td><td rowspan=1 colspan=1>-16.4</td><td rowspan=1 colspan=1>-22.6</td><td rowspan=1 colspan=1>-23.8</td><td rowspan=1 colspan=1>-14.6</td></tr><tr><td rowspan=1 colspan=1>x=0.797y=13.10</td><td rowspan=1 colspan=1>18.2</td><td rowspan=1 colspan=1>24.3</td><td rowspan=1 colspan=1>26.9</td><td rowspan=1 colspan=1>14.7</td></tr><tr><td rowspan=2 colspan=1>Spar(15thply)</td><td rowspan=1 colspan=1>x=0.642y=13.10</td><td rowspan=1 colspan=1>-53.0</td><td rowspan=1 colspan=1>-74.9</td><td rowspan=1 colspan=1>-82.1</td><td rowspan=1 colspan=1>139.7</td></tr><tr><td rowspan=1 colspan=1>x=0.466y=13.10</td><td rowspan=1 colspan=1>73.5</td><td rowspan=1 colspan=1>97.6</td><td rowspan=1 colspan=1>105.3</td><td rowspan=1 colspan=1>63.1</td></tr><tr><td rowspan=1 colspan=3>Max.displacement attip（m）</td><td rowspan=1 colspan=1>1.21</td><td rowspan=1 colspan=1>1.64</td><td rowspan=1 colspan=1>1.77</td><td rowspan=1 colspan=1>1.03</td></tr><tr><td rowspan=1 colspan=3>Clearance from tower</td><td rowspan=1 colspan=1>69%</td><td rowspan=1 colspan=1>57%</td><td rowspan=1 colspan=1>55%</td><td rowspan=1 colspan=1>74%</td></tr><tr><td rowspan=1 colspan=3>Safety Factor(Tsai-Wu failurecriterion)</td><td rowspan=1 colspan=1>4.6</td><td rowspan=1 colspan=1>3.5</td><td rowspan=1 colspan=1>3.0</td><td rowspan=1 colspan=1>7.1</td></tr><tr><td rowspan=2 colspan=2>max.strain%in fibredirection</td><td rowspan=1 colspan=1>Tension</td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>0.34</td><td rowspan=1 colspan=1>0.19</td></tr><tr><td rowspan=1 colspan=1>Comp.</td><td rowspan=1 colspan=1>0.16</td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>0.25</td><td rowspan=1 colspan=1>0.13</td></tr></table>",
+    "bbox": [
+      110,
+      402,
+      506,
+      769
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      850,
+      507,
+      921
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      554,
+      92,
+      946,
+      144
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Fig.6 shows the stress contours of $\\sigma _ { 1 1 }$ along the fibre direction developed in the $1 ^ { \\mathfrak { s t } }$ ply $( \\pm 4 5 ^ { \\circ } )$ of the skin during design load case 2. ",
+    "bbox": [
+      554,
+      148,
+      946,
+      198
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/2c4fb3d53942764fc4accc9055fb2ee71dd48b62f3eaf5c2f711342b5bb6f645.jpg",
+    "image_caption": [
+      "Fig. 6: $\\sigma _ { 1 1 }$ (fibre direction) stress contours in the $1 ^ { \\mathfrak { s t } }$ ply of the $\\pm 4 5 ^ { 0 }$ skin (design load case 2). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      556,
+      211,
+      949,
+      439
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As shown in Table 2,the blade structure satisfies the design criteria such as blade tipclearance limit from the tower of $50 \\%$ ，strain limit of $0 . 2 5 \\%$ in compression and $0 . 3 5 \\%$ in tension and strength safety factor of 2.7. ",
+    "bbox": [
+      552,
+      512,
+      946,
+      583
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Table 3 presents the results of the modal analysis that calculates natural frequencies for the first and second flap-wise and chord-wise bending modes and the first twisting mode. In this investigation,it was found that there is no resonance between the blade itself and excitation loadings. ",
+    "bbox": [
+      552,
+      586,
+      946,
+      692
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/8086e9e5e8f2a3276973b34429609f99d4d6ef1dc7865f08f60e31fb32d585d5.jpg",
+    "table_caption": [
+      "Table 3 Results of modal analysis "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Mode shape</td><td rowspan=1 colspan=1>Naturalfrequency(Hz)</td></tr><tr><td rowspan=1 colspan=1>First flap-wise bending (F-1)</td><td rowspan=1 colspan=1>1.856</td></tr><tr><td rowspan=1 colspan=1>First chord-wise bending(L-1)</td><td rowspan=1 colspan=1>2.034</td></tr><tr><td rowspan=1 colspan=1>Second flap-wise bending(F-2)</td><td rowspan=1 colspan=1>5.280</td></tr><tr><td rowspan=1 colspan=1>Second chord-wise bending (L-2)</td><td rowspan=1 colspan=1>6.610</td></tr><tr><td rowspan=1 colspan=1>First torsional (T-1)</td><td rowspan=1 colspan=1>18.08</td></tr><tr><td rowspan=1 colspan=1>First tower bending(TB-1)</td><td rowspan=1 colspan=1>0.659</td></tr></table>",
+    "bbox": [
+      552,
+      748,
+      943,
+      920
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "FatigueLifeinWindTurbine Blade ",
+    "bbox": [
+      720,
+      47,
+      944,
+      60
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Vol.10,No.1,2002 ",
+    "bbox": [
+      115,
+      46,
+      241,
+      57
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      110,
+      944,
+      120,
+      954
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The buckling load factors for the first to the fifth buckling modes of the blade are shown in Table 4.The most important buckling mode is the first mode (the critical mode) and its load safety factor is 3.43. ",
+    "bbox": [
+      74,
+      88,
+      469,
+      158
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/b4428982b0773d2bfe0d7306431204eb2f88339d2c62f04ebf279f2a4157edd9.jpg",
+    "table_caption": [
+      "Table 4 Buckling load factors "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Mode shape</td><td rowspan=1 colspan=1>Load factor</td></tr><tr><td rowspan=1 colspan=1>1st mode</td><td rowspan=1 colspan=1>3.43</td></tr><tr><td rowspan=1 colspan=1>2ndmode</td><td rowspan=1 colspan=1>3.54</td></tr><tr><td rowspan=1 colspan=1>3rdmode</td><td rowspan=1 colspan=1>4.28</td></tr><tr><td rowspan=1 colspan=1>4hmode</td><td rowspan=1 colspan=1>4.39</td></tr><tr><td rowspan=1 colspan=1>5hmode</td><td rowspan=1 colspan=1>4.60</td></tr></table>",
+    "bbox": [
+      74,
+      231,
+      468,
+      354
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4. FATIGUE DESIGN ",
+    "text_level": 1,
+    "bbox": [
+      186,
+      391,
+      357,
+      407
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fatigue life time over 20 years was estimated by using the S-N linear damage equation，Goodman diagrams,the load spectrum and Spera's empirical formulae /17-19/.By this method,a dynamic structural problem for fatigue of the blade can be converted into a static structural design problem $/ 1 9 /$ ",
+    "bbox": [
+      74,
+      426,
+      468,
+      534
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.1 Fatigue load estimation ",
+    "text_level": 1,
+    "bbox": [
+      75,
+      563,
+      295,
+      579
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Spera proposed empirical equations which were based on a set of test data broad enough in scope to include the sizes and types of rotors and towers,the types of terrain，and the types of wind conditions expected for future HAWT power stations.Calculating dynamic loads with these equations，therefore,is essentially a process of interpolation rather than extrapolation,and structural-dynamic computer models are not required.With the equations presented by Spera, the log-normal probability distributions of the following four important dynamic loads can be calculated from the basic configuration and site data:(l） Blade cyclic flapwise moments,(2) blade cyclic chordwise moments, (3） generator cyclic power density,and (4) rotor cyclic thrust density [19]. ",
+    "bbox": [
+      75,
+      590,
+      469,
+      859
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "However,we are interested in the blade design only, blade cyclic flapwise and chordwise moments only will be calculated in this study.Table 5 shows calculation results for blade flapwise and chordwise cyclic bending moments $( \\delta M _ { \\mathbf { y } , \\mathfrak { n } }$ and $\\delta M _ { \\mathbf { z } , \\mathbf { n } , }$ ). ",
+    "bbox": [
+      74,
+      860,
+      469,
+      913
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      514,
+      90,
+      910,
+      125
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/4e2e3bf1e80d545e092d0343a8f0cf20bd47d948a5fea950b4dcdec4e7922102.jpg",
+    "table_caption": [
+      "Table 5 Blade flapwise and chordwise cyclic bending moment calculated by Spera /19/ "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>n</td><td rowspan=1 colspan=1>δMyn(kN-m)</td><td rowspan=1 colspan=1>δMz,n (kN-m)</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>76.63</td><td rowspan=1 colspan=1>269.54</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>119.15</td><td rowspan=1 colspan=1>276.34</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>186.33</td><td rowspan=1 colspan=1>288.67</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>395.17</td><td rowspan=1 colspan=1>328.72</td></tr></table>",
+    "bbox": [
+      514,
+      212,
+      910,
+      314
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "n: number of standard deviation, $\\scriptstyle \\mathtt { n } = 0$ for the $5 0 ^ { \\mathfrak { d } }$ percentile load, $\\mathbf { n } { = } 1$ for the $8 4 ^ { \\mathfrak { h } }$ percentile load, $\\scriptstyle \\mathtt { n } = 2$ for the 98 percentile load,and $\\scriptstyle \\mathtt { n } = 3$ for $9 9 . 9 ^ { \\mathfrak { n } }$ percentile load. ",
+    "bbox": [
+      514,
+      317,
+      911,
+      386
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4.2 Allowable fatigue stress ",
+    "text_level": 1,
+    "bbox": [
+      516,
+      414,
+      739,
+      431
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "One of the simplest models of the accumulation of fatigue damage during repeated cycles of stress is the linear damage hypothesis,proposed by Palmgren /17/ and Miner $/ 1 8 /$ ",
+    "bbox": [
+      514,
+      443,
+      910,
+      512
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Based on this model,the allowable fatigue stress $S _ { \\mathrm { m a x m a x } }$ for the loading condition can be calculated by /19-21/: ",
+    "bbox": [
+      512,
+      516,
+      910,
+      567
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/a794fc37ade0ddbe80766470f6b8e4ed0b637bb61f388cabce2632e40ead5d59.jpg",
+    "text": "$$\nS _ { \\mathrm { m a x m a x } } = S ^ { * } ; \\left[ N _ { f } \\frac { \\sum { n _ { i } s _ { i } } ^ { - \\frac { 1 } { \\alpha } } } { \\sum { n _ { i } } } \\right] ^ { \\alpha }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      514,
+      569,
+      739,
+      630
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where ",
+    "bbox": [
+      516,
+      645,
+      561,
+      658
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$\\mathbf { \\nabla } _ { \\mathbf { } } S _ { I } ^ { \\prime } =$ modified empirical stress coefficient $S _ { i } =$ stress parameter in the cycle $N _ { f } =$ fatigue life time $( 3 . 7 2 \\times 1 0 ^ { 8 }$ cycles) $N _ { i } { = }$ fatigue life time at a constant stress level $n _ { i } =$ number of cycles applied at stress level ",
+    "bbox": [
+      514,
+      662,
+      829,
+      750
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Therefore, the allowable fatigue stresses based on laboratory specimens are 218.8MPa for tensile stresses and 366.0MPa for compressive stresses. ",
+    "bbox": [
+      516,
+      752,
+      910,
+      804
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Forpracticalvaluesofallowablestresses, knockdown facts should be considered.In this study a knockdown factor is assumed to be 0.7,i.e.allowable fatigue stresses are l80.74MPa for tensile stress and 302MPa for compressive stress. ",
+    "bbox": [
+      516,
+      806,
+      911,
+      894
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This value of $S _ { \\mathrm { m a x m a x } }$ becomes the allowable fatigue stress for the loading condition. The structural dynamic analysis of load has been converted into a static structural design problem by this method. ",
+    "bbox": [
+      540,
+      895,
+      910,
+      912
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "C.Kong,Y.Sugiyama andC. Soutis ",
+    "bbox": [
+      74,
+      41,
+      300,
+      55
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Scienceand Engineering ofComposite Materials ",
+    "bbox": [
+      597,
+      43,
+      906,
+      56
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      939,
+      911,
+      951
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      103,
+      86,
+      497,
+      139
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.3 Evaluation of fatigue life ",
+    "text_level": 1,
+    "bbox": [
+      105,
+      166,
+      336,
+      182
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In order to make a comparison between the allowable fatigue stress for 2O year fatigue life and the estimated fatigue stress by the type II fatigue load from Spera's empirical equations, the calculated maximum flapwise and chordwise bending moments in Table 5 $( n { = } 2 )$ , is applied to the finite element model of the wind turbine rotor blade. ",
+    "bbox": [
+      105,
+      194,
+      497,
+      318
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "According to the analysis results,the maximum tensile and compressive stresses were 62.87MPa and -55.19MPa，respectively.Allowable fatigue stresses were 180.74MPa for tensile stress and 302MPa for compressive stress. Since the safety factors for the allowable fatigue stresses are 3.5 for tensile and 6.6 for compressive,the designed wind turbine blade satisfies the design criteria fora fatigue lifeof 20 years. ",
+    "bbox": [
+      103,
+      320,
+      497,
+      462
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5. MANUFACTURING ",
+    "text_level": 1,
+    "bbox": [
+      210,
+      556,
+      390,
+      570
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In this study，two manufacturing processes were used,i.e.,(i) contact molding $/ 1 0 /$ for the spar webs,in which the dry reinforced fiber is laid up on a mold and is then impregnated with resin and consolidated,and (ii) prepreg molding to the skins and the spar flanges,in which the impregnated UD tapes or fabrics are laid up on a mold and consolidated with the proper temperature and pressure.Before manufacturing the blade, the molds should be manufactured.In this study, the master molds for the GFRP molds are made of wood. The whole length of the master mold for the blade is divided into eight pieces,and each piece is manufactured with many blade profile templates. The surface of the assembled master mold is then well polished and coated with gel. The manufacturing molds are fabricated by laying-up the GFRP fabric prepregs on the master mold with proper stiffeners. Fig.7 shows a view of the lower part of the blade during laying-up of foam cores for the skin. ",
+    "bbox": [
+      103,
+      591,
+      499,
+      916
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/59589b786f7fba915f98cccfcc7fb7b66ebafcb783e18e4ba30bb4f360898ab2.jpg",
+    "image_caption": [
+      "Fig.7: Laying-up foam cores for the skin sandwich on the lower part mold of the blade "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      549,
+      88,
+      937,
+      305
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6. STRUCTURAL TEST ",
+    "text_level": 1,
+    "bbox": [
+      654,
+      398,
+      839,
+      413
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In this static strength test,the load case 1 is discussed.As mentioned earlier, this load case includes the aerodynamic load at the rated wind speed reached in practical operation including wind direction change and gust.Moreover this load will be used for the qualification test of the final full-size blades to be massproduced. In order to simulate the aerodynamic load, three concentrated loads are applied $^ { 1 2 2 , 2 3 / }$ Fig.8 illustrates the deflected blade under bending. ",
+    "bbox": [
+      545,
+      434,
+      937,
+      592
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Aprototype E-glass/epoxy blade wastested statically and results used for comparison with the analytical model based on the laminate plate theory and the Tsai-Wu failure criterion. In the bending test of the full-size bladeno local failure,debonding,delamination or local buckling were observed up to the maximum design load. The previous manufacturing and testing experiences helped us to perform careful experiments for material characterisation and improve the final manufacturing process,procedures that are now well established in our laboratory.Accurate fibre volume fraction $( \\mathbf { v _ { f } } )$ measurements are essential in the stress analysis calculations,since large variations could result in inaccurate estimates. In coupon tests of an actual blade,their average fiber volume fraction was $5 2 . 5 \\%$ ， comparedto $60 \\%$ suggested by the materials manufacturer.Axial strength and modulus are strongly dependent on the fiber volume fraction, so these values were adjusted /24/.Table 6 shows both measured and predicted results for the mass of the blade,the location of radial centre of gravity，and the tip defection measured at the blade tip.The difference is between 2.3 and $4 \\%$ . ",
+    "bbox": [
+      545,
+      596,
+      937,
+      628
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/5c539a211e7d2e1fd8bf62a14ec247ec2f73dc621c3668acaeaf5d8232612a5c.jpg",
+    "image_caption": [
+      "Fig.8:Full-size blade under lateral loading "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      545,
+      663,
+      937,
+      880
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "FatigueLifeinWindTurbine Blade ",
+    "bbox": [
+      709,
+      41,
+      934,
+      54
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Vol.10,No.1,2002 ",
+    "bbox": [
+      105,
+      41,
+      231,
+      52
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      105,
+      940,
+      117,
+      952
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      67,
+      91,
+      461,
+      465
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/7a5387b571052bda4f73c2211c3cb11a873c8cdd695d5f0d27ab8566a7609474.jpg",
+    "table_caption": [
+      "Table 6 Measured and predicted values of the blade "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Mass of blade (kg)</td><td>Radial center of mass (m)</td><td>Tip deflection</td></tr><tr><td>Measured</td><td>2951</td><td>8.451</td><td>(mm) 1978.6</td></tr><tr><td>Predicted</td><td>2883</td><td>8.786</td><td>1921.0</td></tr><tr><td>Error (%)</td><td>2.36</td><td>3.81</td><td>3.0</td></tr></table>",
+    "bbox": [
+      74,
+      534,
+      445,
+      658
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Fig.9 and Table 7 present the measured and predicted deflections at the maximum thickness of the blade profile along the spanwise stations when the maximum design load is applied.There is a small difference between the measured and predicted results when the reference fiber volume fraction of $60 \\%$ is used in the analysis.However,good agreement is achieved when the actual fiber volume fraction of $5 2 . 5 \\%$ is employed, Table 8. ",
+    "bbox": [
+      65,
+      759,
+      459,
+      921
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/9aa2fbe131978a47a8c65032e97c7aa025294bb63c8a4d7a96963033f823b880.jpg",
+    "image_caption": [
+      "Fig.9: Comparison between measured and predicted deflections along the blade at maximum load "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      516,
+      90,
+      882,
+      262
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/6e63d41ec93216eaa07bcadfc391ad05d7999b1d124db0c7b9787416e777a262.jpg",
+    "table_caption": [
+      "Table 7 Comparison between measured and predicted deflections along the blade at maximum load "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1>Distance [m]</td><td rowspan=2 colspan=1>Test Result[mm]</td><td rowspan=1 colspan=1>FEMAnalysisResult</td></tr><tr><td rowspan=1 colspan=1>Vf: 52.5% [mm]</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>525.6</td><td rowspan=1 colspan=1>470.9</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>809,0</td><td rowspan=1 colspan=1>737.3</td></tr><tr><td rowspan=1 colspan=1>18.13</td><td rowspan=1 colspan=1>1012.6</td><td rowspan=1 colspan=1>892.1</td></tr><tr><td rowspan=1 colspan=1>19.97</td><td rowspan=1 colspan=1>1331.9</td><td rowspan=1 colspan=1>1215</td></tr><tr><td rowspan=1 colspan=1>23.9</td><td rowspan=1 colspan=1>1978.6</td><td rowspan=1 colspan=1>1921</td></tr></table>",
+    "bbox": [
+      506,
+      412,
+      901,
+      559
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Fig l0 and Table 8 show the comparison between measured and predicted strain results for the upper part of the blade.Three different locations at the maximum thickness positions of the blade profile, $0 . 2 3 6 \\mathrm { r } / \\mathrm { R }$ $( 5 . 5 6 \\mathrm { m } )$ ， $0 . 4 9 3 \\mathrm { r } / \\mathrm { R }$ $( 1 1 . 5 9 \\mathrm { m } )$ and $\\phantom { - } 0 . 5 7 4 \\mathbf { r } / \\mathbf { R }$ $( 1 3 . 4 3 \\mathrm { m } )$ ,are presented when the applied load is $20 \\%$ ， $40 \\%$ ， $6 0 \\%$ ， $80 \\%$ and $100 \\%$ of the maximum design load.The theoretical valuesagree well with experimental measurements. ",
+    "bbox": [
+      504,
+      578,
+      901,
+      649
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/b30c488f728f1146b33178b4e8255cbdbeefdc903cfcf2e363a22c568f294381.jpg",
+    "image_caption": [
+      "Fig.10:Comparison between measured and predicted strains on the upper part of the blade. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      514,
+      680,
+      887,
+      875
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Science and Engineering ofComposite Materials ",
+    "bbox": [
+      588,
+      47,
+      898,
+      60
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "C.Kong, Y.Sugiyama and C. Soutis ",
+    "bbox": [
+      65,
+      45,
+      291,
+      57
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      891,
+      943,
+      901,
+      954
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_4971670/auto/images/fe3ae30bbd323429fa14ca55d8dbd2e39669a75c38401a161391f72e7de34d49.jpg",
+    "table_caption": [
+      "Table 8 Comparison between measured and predicted strains $( \\sigma _ { 1 1 } )$ on the upper part of the blade "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=3>5.56m</td><td rowspan=1 colspan=3>11.59m</td><td rowspan=1 colspan=3>13.43m</td></tr><tr><td rowspan=1 colspan=1>Test</td><td rowspan=1 colspan=1>FEMe</td><td rowspan=1 colspan=1>error</td><td rowspan=1 colspan=1>Test</td><td rowspan=1 colspan=1>FEM</td><td rowspan=1 colspan=1>error</td><td rowspan=1 colspan=1>Test</td><td rowspan=1 colspan=1>tFEMe</td><td rowspan=1 colspan=1>error</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>-57</td><td rowspan=1 colspan=1>-45</td><td rowspan=1 colspan=1>-21%</td><td rowspan=1 colspan=1>-21%-181</td><td rowspan=1 colspan=1>-1671</td><td rowspan=1 colspan=1>-8%</td><td rowspan=1 colspan=1>-189</td><td rowspan=1 colspan=1>-1531</td><td rowspan=1 colspan=1>-19%</td></tr><tr><td rowspan=1 colspan=1>40%</td><td rowspan=1 colspan=1>-163</td><td rowspan=1 colspan=1>-141</td><td rowspan=1 colspan=1>1-13%</td><td rowspan=1 colspan=1>-360</td><td rowspan=1 colspan=1>-392</td><td rowspan=1 colspan=1>9%</td><td rowspan=1 colspan=1>-368</td><td rowspan=1 colspan=1>-350</td><td rowspan=1 colspan=1>-5%</td></tr><tr><td rowspan=1 colspan=1>品</td><td rowspan=1 colspan=1>-275</td><td rowspan=1 colspan=1>-263</td><td rowspan=1 colspan=1>-4%</td><td rowspan=1 colspan=1>-522</td><td rowspan=1 colspan=1>-577</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>-537</td><td rowspan=1 colspan=1>-550</td><td rowspan=1 colspan=1>2%</td></tr><tr><td rowspan=1 colspan=1>国</td><td rowspan=1 colspan=1>-323</td><td rowspan=1 colspan=1>-369</td><td rowspan=1 colspan=1>14%</td><td rowspan=1 colspan=1>-655</td><td rowspan=1 colspan=1>-755</td><td rowspan=1 colspan=1>15%</td><td rowspan=1 colspan=1>-687</td><td rowspan=1 colspan=1>-730</td><td rowspan=1 colspan=1>6%</td></tr><tr><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>-428</td><td rowspan=1 colspan=1>-482</td><td rowspan=1 colspan=1>13%</td><td rowspan=1 colspan=1>-878</td><td rowspan=1 colspan=1>-966</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>-896</td><td rowspan=1 colspan=1>-940</td><td rowspan=1 colspan=1>5%</td></tr></table>",
+    "bbox": [
+      103,
+      155,
+      512,
+      399
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      425,
+      507,
+      512
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "skin for weight,the thickness and the location of front and rear spar webs for maximum stress and strain, the thickness and the width of spar flange for the blade tip clearance and the location of front spar web for the distortion angle.The fatigue life time over 20 years was estimated by using the well-known S-N linear damage equation， the load spectrum and Spera's empirical equations. With the results obtained from all the structural design and analysis, the prototype composite blades were manufactured. The construction process and lay-up molding method developed through this study were employed to manufacture the prototype blades. ",
+    "bbox": [
+      554,
+      90,
+      944,
+      320
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Finally，a ful-scale static structural test was performed with the simulated aerodynamic loads. From the experimental results,it was found that the designed blade had structural integrity.Prediction for the mass of the blade,the radial centre of gravity,and the blade tip deflection from the model was in good agreement with the measured values with an error of less than $4 \\%$ Furthermore the measured strain results agreed well with the analytical results. ",
+    "bbox": [
+      554,
+      324,
+      944,
+      483
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "7. CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      240,
+      557,
+      378,
+      573
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "An E-glass/epoxy composite blade for a 750kW medium scale horizontal axis wind turbine system was designed, manufactured, tested and evaluated with the proposed design flow. ",
+    "bbox": [
+      112,
+      594,
+      507,
+      666
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this study,the various load cases specified by the IEC61400-1 internationalspecification and GL Regulations for the wind energy conversion system were considered,and a specific composite structure configuration which can effectively endure various loads such as aerodynamic,centrifugal,hygro-thermal, and mechanical loads and loads due to accumulation of ice was proposed.In order to evaluate the structure,a structural analysis for the composite wind turbine blade was performed using the finite element method (FEM). ",
+    "bbox": [
+      113,
+      668,
+      507,
+      846
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "An acceptable blade structural configuration was determined through parametricstudies. Inthis investigation,it was found that the most dominant design parameters are the thickness of spar flange and ",
+    "bbox": [
+      113,
+      849,
+      509,
+      918
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8. REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      678,
+      521,
+      816,
+      537
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "1.T. Ackermann and L. Soder. Wind energy technology and current status,Renewable and Sustainable Energy Reviews,4,315-374 (2000).   \n2．Windpower Monthly， Industrial Magazine,ISSN   \n0901-7318,Monthly published 1985-1995.   \n3.J.S.Kim. Renewable energy development and supply in Korea. Report of Ministry of Commerce, Industry and Energy and Korean Energy Management Corporation, 2000.   \n4.C.Kong,J.Bang and H. Kim.A study on aerodynamic analysis and starting simulation for horizontal axis wind turbine blade.J.of KSPE,3 (3),40-46 (1999).   \n5.C.Kong and J. Jeong. Improvement of design by structural test for 750kw HAWT composite blade. J.of KSPE,4 (3),22-29 (2000).   \n6.C.Kong,J. Bang,S.Jeong, J. Ryu and Y. Kim. Structural design of medium scale composite wind turbine blade,in:Proceedings of the Third Asian-Pacific Conference on Aerospace Technology and Science (APCATS2000),2000; pp.376-384.   \n7．C.Kong, S.Jeong,B.Jang and J. Bang. Design improvement on wind turbine blade of medium scale HAWT by considering.J. of KSPE,4 (3),29- 37 (2000).   \n8．C.Kong and J.Kim. Structural design of medium scale composite wind turbine blade. KSAS International J,1,1 (2000).   \n9.C.Kong, J. Bang,M. Kang,S. Jeong and J.Yoo. Structural design of medium scale composite wind turbine blade,in: 13th International Conference on CompositeMaterials (ICCM-13),2001.   \n10.R.M. Mayer. Design of Composite Structures Against Fatigue: Applications to Wind Turbine Blades,Anthony Rowe Ltd.,1996; pp.195-208.   \n11.D.L.E.Gourieres. Wind Power Plants Theory and Design,Pergamon Press,1982.   \n12.C. Kong,H. Kim and J. Kim. A study on structural and aerodynamic design of composite blade for large scale HAWT system. Final Report,Hankuk Fiber Ltd.,2000.   \n13. Technical Note:IEC 1400-1 GL Test Regulation, 2000.   \n14.GermanischerLloyd, Regulationsforthe Certification of Wind Energy Conversion System, 1999.   \n15．M.E.Bechly and P.D.Clausent. Technical note: Structural design of a composite wind turbine bladeusing finite element analysis. Computer and Structures, 63 (3),639-646 (1997).   \n16.EMRC,NISAII - User's Manual,version 5.2, 1992.   \n17．A.Palmgren.Die Lebendauer von Kugellgern, Zeitschrift vonDeutscheIngenierring,68,339-341 (1924).   \n18.M.A.Miner. Cumulative damage in fatigue, Journal of Applied Mechanics,12，A159-A164 (1945).   \n19．D.A. Spera.Dynamic loads in horizontal-axis wind turbines,Part I: Empirical equations.Windpower, 93,282-289 (1993).   \n20. J.F. Mandell,R.M. Reed and D.D. Samborsky. Fatigue of fibreglass wind turbine blade materials, Sandia National Laboratories,Albuquerque,New Mexico, SAND92-7005 (1992).   \n21．P.S. Veers,C.H. Lange and S.R. Winterstein. FAROW:A tool for fatigue and reliability of wind turbines,Windpower,93,342-349 (1993).   \n22．D.R.V.Delft, D.C. Corbet and J.L. van Leeuwe. Full scale fatigue tests of wood-epoxy blades, Amsterdam:EWEC,1991.   \n23.N. Inomata,K. Tsuchiya and S. Yamada. Measurement of stress on blade of NEDO's 500 kw prototype wind turbine. Renewable Energy,16, 912-915 (1999).   \n24.C. Zweben，H.H. Thomas and T.W.Chou. Mechanical Behavior and Properties ofComposite Materials, Vol.1.Technomic Publishing Co.,Inc., 1989. ",
+    "bbox": [
+      564,
+      557,
+      946,
+      918
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "FatigueLifeinWindTurbineBlade ",
+    "bbox": [
+      718,
+      43,
+      941,
+      55
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Vol.10,No.1,2002 ",
+    "bbox": [
+      112,
+      42,
+      238,
+      54
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      115,
+      943,
+      126,
+      954
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      95,
+      476,
+      630
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      519,
+      92,
+      917,
+      615
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Science and Engineering ofComposite Materials ",
+    "bbox": [
+      601,
+      46,
+      910,
+      60
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "C. Kong, Y. Sugiyama and C. Soutis ",
+    "bbox": [
+      79,
+      46,
+      305,
+      59
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      905,
+      940,
+      918,
+      952
+    ],
+    "page_idx": 8
+  }
+]

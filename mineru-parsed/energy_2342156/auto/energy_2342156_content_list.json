@@ -1,0 +1,1408 @@
+[
+  {
+    "type": "text",
+    "text": "District Heating Network Design and Configuration Optimization with Genetic Algorithm ",
+    "text_level": 1,
+    "bbox": [
+      205,
+      114,
+      867,
+      152
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Hongwei $L i ^ { * }$ , Svend Svendsen Civil Engineering Department Technical University of Denmark, Lyngby, Denmark e-mail: hong@byg.dtu.dk ",
+    "bbox": [
+      356,
+      164,
+      717,
+      222
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cite as: Li, H., Svendsen, S., District Heating Network Design and Configuration Optimization with Genetic Algorithm, J. sustain. dev. energy water environ. syst., 1(4), pp 291-303, 2013, DOI: http://dx.doi.org/10.13044/j.sdewes.2013.01.0022 ",
+    "bbox": [
+      179,
+      235,
+      870,
+      272
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      286,
+      275,
+      302
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In this paper, the configuration of a district heating network which connects from the heating plant to the end users is optimized. Each end user in the network represents a building block. The connections between the heat generation plant and the end users are represented with mixed integer and the pipe friction and heat loss formulations are non-linear. In order to find the optimal district heating network configuration, genetic algorithm which handles the mixed integer nonlinear programming problem is chosen. The network configuration is represented with binary and integer encoding and it is optimized in terms of the net present cost. The optimization results indicates that the optimal DH network configuration is determined by multiple factors such as the consumer heating load, the distance between the heating plant to the consumer, the design criteria regarding the pressure and temperature limitation, as well as the corresponding network heat loss. ",
+    "bbox": [
+      216,
+      310,
+      818,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "KEYWORDS ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      488,
+      285,
+      504
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "District Heating Network, Optimization, Genetic Algorithm. ",
+    "bbox": [
+      216,
+      512,
+      662,
+      526
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      542,
+      327,
+      557
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "District heating (DH) benefits from economy of scale with mass production of heat from central heating plants. It is an energy efficient and environmentally benign solution when compared with decentralized heat generation. In many countries, district heating has been actively promoted as an important component in the national strategic energy planning [1]. ",
+    "bbox": [
+      166,
+      564,
+      880,
+      646
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A DH system includes heat generation, distribution and utilization. The heat generated in a heating plant is delivered through the DH network to the end users. Due to the high investment and the long payback period, successful implementation of a DH system requires deliberated design, good maintenance and economical operation. ",
+    "bbox": [
+      166,
+      648,
+      880,
+      712
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Optimal planning of the DH system has been arousing great interest in recent decades. Numerous optimization works have been carried out which focused on different aspects including the DH plant configuration optimization [2], the optimal dispatch in a DH plant [3], the search for an optimal mix of renewable and non-renewable based energy supply in the DHC (district heating and/or district cooling) network [4] and in the urban energy supply infrastructure [5], as well as the search for the desirable mix of building types with diverse daily heating/cooling load patterns [6], etc. Furthermore, the optimal planning of DH in the future renewable-based energy system has been investigated through the integrated energy planning approach to evaluate the entire energy system including heating and electricity generation as well as end user energy consumption and energy savings [7]. ",
+    "bbox": [
+      164,
+      713,
+      880,
+      859
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\\* Corresponding author ",
+    "bbox": [
+      193,
+      901,
+      351,
+      915
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Page 291 ",
+    "bbox": [
+      492,
+      931,
+      551,
+      941
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      156,
+      49,
+      878,
+      76
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      121,
+      85,
+      833,
+      117
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In a DH system, the DH pipeline cost accounts for a significant part of the whole system investment. The optimal routing of the DH pipeline and the optimal pipe diameter based on the design and operation conditions are essential to achieve economic savings and energetic/exergetic consumption reduction. Kalinci et al. determined the optimal DH pipe diameter for a geothermal plant by solving the derivative of the formulated objective function [8]. Li et al. applied the genetic algorithm to find the optimal DHC network pipe diameter for a seawater-source heat pump plant [9]. The optimal DH network configuration has been studied by several researchers. Chan et al. [10] studied the approach to find the optimal routing in a DC system using the genetic algorithm. Dobersek and Goricanec [11] performed optimization work with non-linear programming based on Simplex method to find the optimal routing and pipe diameter in a tree-structured DH network. Soderman [12] formulated a mixed integer linear programming problem to find the optimal production and storage unit locations and the DH pipeline connection. ",
+    "bbox": [
+      119,
+      118,
+      833,
+      347
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In this paper, the configuration of a DH network is optimized based on a low temperature DH (LTDH) system with a network supply/return temperature at $5 5 ^ { \\mathrm { ~ o } } \\mathrm { C } / 2 5$ $^ \\mathrm { o } \\mathrm { C }$ . The LTDH concept carried out in Denmark utilizes a network supply temperature close to the end user required temperature at around $5 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ [13]. The reduced network supply temperature has the advantages to reduce the network heat loss, increase CHP plant power generation capability, and utilize waste and renewable heat in various spectrums. In the analysis, the influence on the optimal network configuration due to the hydraulic and thermal constraints is emphasized through detailed network hydraulic and thermal modelling. ",
+    "bbox": [
+      117,
+      348,
+      833,
+      494
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "NETWORK HEAT LOSS ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      510,
+      349,
+      526
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the existing literature, the DH network design and configuration optimization works have mainly formulated the objective function as the summation of pipeline investment and the pumping cost. The heat loss along the DH network, however, was often neglected in the network routing and pipeline diameter optimization process. Depending on the DH network supply/return temperature, the pipeline diameter and length, the network heat loss may account for a significant part of the total network input energy, and thus plays the role in determining the optimal network configuration. This can be illustrated in the following example. ",
+    "bbox": [
+      119,
+      532,
+      833,
+      664
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "As shown in Figure 1, there are two possible connection routes between consumers $B$ , $C$ to the heating plant $A$ : route $A B / B C$ and route AC-CB. The following assumptions are made regarding the heating demand and the network geometry: ",
+    "bbox": [
+      119,
+      665,
+      835,
+      713
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/ce118dd495deae53613eec68be3e239d99fe80d3306a90dc269c840837858248.jpg",
+    "text": "$$\nL _ { A B } > L _ { A C }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      403,
+      730,
+      495,
+      750
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/98875fa9b9382f6f595805d14f7ddd231a4e8c31e9f1f6f575a447cc3c0b8eca.jpg",
+    "text": "$$\nL _ { C B } = L _ { B C }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      401,
+      763,
+      495,
+      783
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/6b0637cd325aa178a7e4740b5512539cc2fc6f5eef22753624b6bd422c584dad.jpg",
+    "text": "$$\nQ _ { B } \\gg Q _ { C }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      405,
+      796,
+      490,
+      815
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      119,
+      48,
+      831,
+      78
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Page 292 ",
+    "bbox": [
+      447,
+      931,
+      507,
+      942
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Though the total length for route $A B / B C$ is longer than that of AC-CB, due to the larger diameter, thus higher heat loss in section $C B$ than that in the section $B C$ , the incurred operational cost is higher in route $A C { \\mathrm { - } } C B$ , which may exceed the economical saving due to the shorter pipe length. ",
+    "bbox": [
+      166,
+      85,
+      880,
+      151
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/094bda633553c43b42ca380f2f00cfecb781b9cb094253740fcdf57bedb9acee.jpg",
+    "image_caption": [
+      "Figure 1. Example for pipe heat loss influencing on the network configuration "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      332,
+      166,
+      736,
+      360
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Furthermore, the DH network is designed based on the design winter condition. During the season with low heating demand as in the summer when the heating load only comes from the domestic hot water demand, the temperature drop due to the reduced network flow rate makes the supply temperature at the consumer end lower than the required value. In this case, extra flow is required from the plant to compensate the temperature drop through the thermal by-pass system. The by-pass flow will increase the return water temperature thus further increase the network heat loss [14, 15]. This situation becomes worse for the larger pipe diameter than the smaller pipe diameter. Therefore, the network heat loss and the heat loss due to network thermal by-pass should be counted in the identification of the DH network optimal configuration. ",
+    "bbox": [
+      164,
+      410,
+      880,
+      574
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "PROBLEM DESCRIPTION ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      588,
+      413,
+      605
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The DH network is designed with one heating plant and 10 end users. Each end user in the network represents a building block. The topology of the heating plant and the end users are shown in Figure 2 where the circle represents the heating plant and the squares represent the end users. ",
+    "bbox": [
+      164,
+      612,
+      880,
+      676
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The DH network is designed with twin pipes with the supply and return pipes placed in the same casing. Based on the market available products [16], two different types of twin pipes are considered in the simulation: AluFlex multilayer flexible pipe and straight steel pipe. The AluFlex is a multi-layer ‘sandwiched’ type pipe containing aluminium and PEX (cross-linked polyethylene) which has the advantages both of flexibility and durability. The DH pipes are selected from continuous dimension ranging from Alx14 to 32 for AluFlex pipe and DN 32 to DN80 for straight steel pipes. Table 1 shows the pipe inner diameter, roughness and the unit price. The heat transfer coefficients under different ambient temperatures are calculated with the analytical solution developed from the multi-pole method [17]. ",
+    "bbox": [
+      164,
+      678,
+      880,
+      841
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      163,
+      48,
+      878,
+      77
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page 293 ",
+    "bbox": [
+      492,
+      931,
+      552,
+      941
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/64cd8b911df341999337c872b2d9b582ee5fbd879381342f41655eaac91f8595.jpg",
+    "image_caption": [
+      "Figure 2. Topology of the heating plant and end users "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      156,
+      89,
+      810,
+      324
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/1b26a6a555f2fca015599b85fbaa1aee0fb7423421051d2664f7a1ee3e1f8223.jpg",
+    "table_caption": [
+      "Table 1. Available commercial district heating pipes "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Type</td><td>Inner Diameter, mm</td><td>Roughness Factor, mm</td><td>Price, $/m</td></tr><tr><td rowspan=\"5\">AluFlex</td><td>Alx 14/14</td><td>10</td><td>0.02</td><td>233</td></tr><tr><td>Alx 16/16</td><td>11.6</td><td>0.02</td><td>233</td></tr><tr><td>Alx 20/20</td><td>15</td><td>0.02</td><td>238</td></tr><tr><td>Alx 26/26</td><td>20</td><td>0.02</td><td>298</td></tr><tr><td>Alx 32/32</td><td>26</td><td>0.02</td><td>303</td></tr><tr><td rowspan=\"4\">Steel</td><td>Tws-DN32</td><td>37.2</td><td>0.1</td><td>345</td></tr><tr><td>Tws-DN40</td><td>43.1</td><td>0.1</td><td>354</td></tr><tr><td>Tws-DN50</td><td>54.5</td><td>0.1</td><td>385</td></tr><tr><td>Tws-DN65</td><td>70.3</td><td>0.1</td><td>397</td></tr></table>",
+    "bbox": [
+      109,
+      390,
+      843,
+      583
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In order to reduce the pipe geometry, the pipeline is designed with network supply temperature at $7 0 ~ \\mathrm { { } ^ { \\circ } C }$ instead of $5 5 ~ \\mathrm { { ^ \\circ C } }$ , by assuming that the plant is able to temporarily supply the network at higher temperature during the design peak heating load condition. ",
+    "bbox": [
+      117,
+      600,
+      836,
+      648
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The design heating load for each building block is shown in Table 2. The annual heating load is divided into 8 periods. The load factors are assigned to each period, as shown in Table 3. ",
+    "bbox": [
+      117,
+      650,
+      835,
+      696
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/472977e5e234f6c1116b4cefa7bfbbd7cc4eb7df955f001325e58765578cca36.jpg",
+    "table_caption": [
+      "Table 2. Building design heating load "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Building Nodes</td><td>Design Load, kW</td></tr><tr><td>1</td><td>35</td></tr><tr><td>2</td><td>45</td></tr><tr><td>3</td><td>45</td></tr><tr><td>4</td><td>55</td></tr><tr><td>5</td><td>100</td></tr><tr><td>6</td><td>60</td></tr><tr><td>7</td><td>70</td></tr><tr><td>8</td><td>60</td></tr><tr><td>9</td><td>80</td></tr><tr><td>10</td><td>50</td></tr></table>",
+    "bbox": [
+      109,
+      727,
+      835,
+      908
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water and Environment Systems ",
+    "bbox": [
+      124,
+      51,
+      458,
+      76
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page 294 ",
+    "bbox": [
+      447,
+      931,
+      507,
+      942
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Year 2013 Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      636,
+      51,
+      830,
+      76
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/a3d10755258526acec34bf56361407e87028edec4a5bac258fcb80ccc9321019.jpg",
+    "table_caption": [
+      "Table 3. Building heating load factors "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Periods</td><td>Load factor</td></tr><tr><td>1</td><td>0.62</td></tr><tr><td>2</td><td>0.49</td></tr><tr><td>3</td><td>0.41</td></tr><tr><td>4</td><td>0.34</td></tr><tr><td>5</td><td>0.26</td></tr><tr><td>6</td><td>0.17</td></tr><tr><td>7</td><td>0.11</td></tr><tr><td>8</td><td>0.07</td></tr></table>",
+    "bbox": [
+      154,
+      114,
+      889,
+      271
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "MATHEMATICAL FORMULATION ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      299,
+      500,
+      317
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Objective function ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      324,
+      315,
+      341
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The aim of the network configuration optimization is to find the optimal network pipeline connections and optimal pipe diameters so that the total investment and operational cost can be minimized. The net present cost (NPC) value is formulated as the objective function. The technical lifetime and the depreciation time are 30 years for the DH pipe and 20 years for the main pump. The interest rate is set as $6 \\%$ . ",
+    "bbox": [
+      163,
+      343,
+      882,
+      424
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The annual operational cost includes the cost due to network heat loss, the pumping power cost, the maintenance cost and the emission cost. ",
+    "bbox": [
+      161,
+      425,
+      877,
+      457
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/0c23d0daeeb3947cbee4a052c1f6269963144561f1dc7d5e3237cc7efbc48996.jpg",
+    "text": "$$\nC _ { o p e r a t i o n } = \\sum _ { t = 1 } ^ { p e r i o d s } C _ { h e a t \\_ l o s s , t } + C _ { p u m p , t } + C _ { C O 2 , t + } C _ { m a i n t a i n , t } \\quad \\forall t\n$$",
+    "text_format": "latex",
+    "bbox": [
+      216,
+      473,
+      773,
+      527
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The unit prices for the heating and electricity are $\\$ 59/0$ and $\\$ 108/\\mathrm { M W h }$ , respectively, according to the average value between 2010 and 2030 in Danish conditions [18]. Similarly, the $\\mathrm { C O } _ { 2 }$ emission cost is $\\$ 37$ /ton with the emission factors $1 7 7 \\mathrm { k g / M W h }$ for DH and $8 6 2 \\mathrm { k g / M W h }$ for electricity at the end user [18]. The DH maintenance cost is taken as $\\$ 2.3$ per MWh heating energy production [19]. ",
+    "bbox": [
+      163,
+      541,
+      884,
+      623
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The annual operational cost is converted to the NPC through the discount factor: ",
+    "bbox": [
+      186,
+      623,
+      845,
+      639
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/9813145d6b434ff88546a72a91adae7203ce2ba4bd51b716bb5d49056469e85b.jpg",
+    "text": "$$\n{ \\cal D } F = \\sum _ { k = 1 } ^ { 3 0 } \\frac { 1 } { ( 1 + d ) ^ { k } } { \\quad \\forall k }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      379,
+      653,
+      606,
+      707
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "According to the design flow rate, the Grundfoss CRI 15-9 is selected. Two pumps will be used during the DH system lifetime with $\\$ 4,025$ per pump [20]. The pipeline cost is shown in Table 1. The NPC is the summation of total investment cost and the total annual operational cost expressed as the present value. In order to calculate the pipe investment, the connectivity between two different nodes in the network is represented by the binary decision variable $x _ { i , j }$ . ",
+    "bbox": [
+      163,
+      719,
+      882,
+      820
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/febaa9871ef53c6e769b816a2e7b2eca9f122632324fc7a4ae590a1898e36937.jpg",
+    "text": "$$\n\\begin{array} { r } { N P C = D F \\cdot C _ { o p e r a t i o n } + C _ { p u m p } + \\displaystyle \\sum _ { i = 1 } ^ { n - 1 } \\sum _ { j = i + 1 } ^ { n } \\chi _ { i j } C _ { p i p e , i j } \\quad \\forall i , j , \\chi _ { i j } \\in \\{ 0 , 1 \\} } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      181,
+      832,
+      810,
+      888
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page 295 ",
+    "bbox": [
+      492,
+      931,
+      552,
+      942
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      154,
+      48,
+      880,
+      77
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Constraints ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      85,
+      215,
+      99
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The objective function is subjected to the constraints of network hydraulic and thermal conditions, the network maximum allowable pressure and temperature drop, the pipeline maximum allowable velocity and the available commercial pipeline diameters. ",
+    "bbox": [
+      119,
+      104,
+      835,
+      153
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/191106269b206e03d877a52c234fd62150a448e91541d580b95640e2c6be6481.jpg",
+    "text": "$$\nA M = Q\n$$",
+    "text_format": "latex",
+    "bbox": [
+      406,
+      165,
+      485,
+      183
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/0a2564f4a7ea22aaf5d5b87d7cde9358681bf39345f3a57755c5b4d53b5d96e1.jpg",
+    "text": "$$\nA ^ { T } P = \\Delta P\n$$",
+    "text_format": "latex",
+    "bbox": [
+      398,
+      196,
+      494,
+      215
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/2f42a6c9e08b1263cac7262034804c843aaca47720b7f67ff70c249e4bfa008c.jpg",
+    "text": "$$\n\\Delta P = S | M ^ { \\alpha - 1 } | M - P _ { h }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      351,
+      230,
+      542,
+      249
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/6666ccc442bfbbe5dd6c69b9f2bac157ee07b7cb65198f017a5c1fd32d3e5812.jpg",
+    "text": "$$\n\\sum _ { i = 1 } ^ { C T } \\sum _ { j = i + 1 } ^ { D } \\chi _ { i j } = n - 1 \\forall i , j\n$$",
+    "text_format": "latex",
+    "bbox": [
+      326,
+      262,
+      559,
+      336
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/4af5e6d9ddb34dc437e1b87a3f4d71e9731624cd365e8034f4ee5a677ab6752d.jpg",
+    "text": "$$\nm _ { j } > 0 \\ \\forall j\n$$",
+    "text_format": "latex",
+    "bbox": [
+      398,
+      382,
+      495,
+      403
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/2e9e29739005142b1b6828d3d069d8ad6c7a45dcaf405b135aa5ff21feb46e5f.jpg",
+    "text": "$$\nP _ { i } < P _ { c r t i c a l } ~ \\forall i\n$$",
+    "text_format": "latex",
+    "bbox": [
+      376,
+      417,
+      517,
+      437
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/1f6e39dd4ce14faafbcdd0687a32fe2e26cffd2b2e098d680ce03cc295918a54.jpg",
+    "text": "$$\nv _ { j } < v _ { l i m i t } \\forall j\n$$",
+    "text_format": "latex",
+    "bbox": [
+      383,
+      449,
+      514,
+      469
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/1e6f5a995eea428afbb81994afd8dcb2c9e1ee6fb165976dce28df786abb465a.jpg",
+    "text": "$$\nT _ { i } > T _ { s e t \\_ b y p a s s } \\forall i\n$$",
+    "text_format": "latex",
+    "bbox": [
+      359,
+      483,
+      537,
+      505
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/5f86d513d03a4fdc33f2fb7c5003bbed048e3bce2e4cc45d8fda05d1eafb7942.jpg",
+    "text": "$$\nd _ { m i n } < d _ { j } < d _ { m a x } \\ \\forall j\n$$",
+    "text_format": "latex",
+    "bbox": [
+      351,
+      518,
+      542,
+      538
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Equations 9-11 show the mass continuity and hydraulic balance in the network. $A$ is the incident matrix determined by the network topology. As the studied network has a tree-shaped structure, $A$ is a square matrix $( n - 1 ) \\times ( n - 1 ) . M$ is the column vector for pipeline flow rate. $Q$ is the column vector for the flow rate at each node. $P _ { h }$ is the vector to describe the pump head. $S$ is a diagonal matrix with an order $( n \\mathrm { - } 1 )$ which represents the friction coefficient for each pipeline. ",
+    "bbox": [
+      119,
+      554,
+      835,
+      652
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "No isolated loop is allowed in the network and the number of pipes equals $n$ -1. Eq. 14 is formulated to prevent the isolated loop so that each node connects at least once with other nodes. According to the constraint in Eq. 15, the flow direction is enforced as positive according to the encoding scheme presented in Table 4. The network is designed with 10 bar limit and the plant holding pressure is set as 2 bar. The pressure drop at each end user is assumed as 2 bar. The maximum allowable network velocity is set as $2 \\mathrm { m / s }$ which gives the constraint in Eq. 17. The velocity in each pipe section is initially set as 1 $\\mathrm { m } / \\mathrm { s }$ and is adjusted to maximally exploit the allowable network pressure drop at each separate route. ",
+    "bbox": [
+      117,
+      653,
+      835,
+      800
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The network supply temperature at each end user is ensured through the inequality, Eq. 18. An iterative approach is adopted to gradually increase the network mass flow rate until the supply temperature at the end user exceeds the set point by-pass temperature. The DH pipeline is selected from the market-available commercial products. The product which has the diameter that is larger and closest to the calculated pipe diameter is selected as the design pipe diameter. ",
+    "bbox": [
+      117,
+      801,
+      835,
+      898
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      114,
+      48,
+      835,
+      78
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Page 296 ",
+    "bbox": [
+      447,
+      931,
+      505,
+      942
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/e4bbf11994d9693d0f4addc68cb9fb22e5a4ec3a5820ac5c3ebd9b21f459fc2b.jpg",
+    "table_caption": [
+      "Table 4. DH network configuration encoding "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>PipeSection</td><td rowspan=1 colspan=1>Pipe No</td><td rowspan=1 colspan=1>UpNode</td><td rowspan=1 colspan=1>DownNode</td><td rowspan=1 colspan=2>U_Limitm/s</td><td rowspan=1 colspan=1>PipeSection</td><td rowspan=1 colspan=1>PipeNo</td><td rowspan=1 colspan=1>UpNode</td><td rowspan=1 colspan=1>DownNode</td><td rowspan=1 colspan=2>U_Limitm/s</td></tr><tr><td rowspan=1 colspan=1>11-10</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=1>8-3</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=1>8-2</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-8</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>8-1</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-10</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-9</td><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-8</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>11-4</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>7-6</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>11-3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-5</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>11-2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-4</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>11-1</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-3</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-9</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-2</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-8</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7-1</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-7</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-10</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-6</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-9</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-8</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-4</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-7</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>10-3</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6-5</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>10-2</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-4</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>10-1</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-3</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-10</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-2</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-8</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6-1</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-7</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-10</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-6</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-9</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-5</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-8</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>9-4</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-7</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-3</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-6</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-2</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-4</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>9-1</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-3</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>8-10</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-2</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>8-9</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5-1</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>8-7</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4-10</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>8-6</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4-9</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>8-5</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4-8</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>8-4</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4-7</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>4-6</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2-8</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>4-5</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2-7</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>4-3</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2-6</td><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>4-2</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2-5</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>4-1</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2-4</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>3-10</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2-3</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>3-9</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2-1</td><td rowspan=1 colspan=1>91</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>3-8</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-10</td><td rowspan=1 colspan=1>92</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>3-7</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1-9</td><td rowspan=1 colspan=1>93</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>3-6</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-8</td><td rowspan=1 colspan=1>94</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>3-5</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-7</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>3-4</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-6</td><td rowspan=1 colspan=1>96</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>3-2</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-5</td><td rowspan=1 colspan=1>97</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>3-1</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-4</td><td rowspan=1 colspan=1>98</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>2-10</td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-3</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>1</td></tr><tr><td rowspan=1 colspan=1>2-9</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1-2</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>1</td></tr></table>",
+    "bbox": [
+      164,
+      114,
+      882,
+      789
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The network supply temperature at each end user is ensured through the inequality, equation 18. An iterative approach is adopted to gradually increase the network mass flow rate until the supply temperature at the end user exceeds the set point by-pass temperature. The DH pipeline is selected from the market-available commercial products. The product which has the diameter that is larger and closest to the calculated pipe diameter is selected as the design pipe diameter. ",
+    "bbox": [
+      164,
+      803,
+      880,
+      902
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      161,
+      48,
+      878,
+      77
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Page 297 ",
+    "bbox": [
+      492,
+      931,
+      552,
+      941
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "OPTIMIZATION APPROACH",
+    "text_level": 1,
+    "bbox": [
+      119,
+      85,
+      396,
+      102
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Figure 3. Flow chart for district heating network configuration optimization shows the flow chart for the DH network configuration optimization. The connection between the heat generation plant and the end users can be represented with mixed integer and the node head and temperature are formed as non-linear. In order to find the optimal DH network pipeline configuration, optimization algorithm that handles the mixed integer nonlinear programming problem is chosen. ",
+    "bbox": [
+      119,
+      109,
+      835,
+      206
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Genetic Algorithm (GA) is applied to find the minimum NPC based on the design and operational conditions. The GA is inspired by Darwin’s theory to mimic the process of natural evolution. It is a stochastic search algorithm to find the optimal or near optimal value through successive selection, mutation and reproduction. It has been widely applied in recent years for energy system optimization [9, 10, 21]. ",
+    "bbox": [
+      119,
+      208,
+      835,
+      288
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The pipe network configuration is encoded as a vector of integers. The length of the vector equals the number of pipes which is $n { - } 1$ . Each integer in the vector represents a uni-directional connection between two different nodes. The integer is numbered in a sequential way from 1 to maximum $\\left( n - 1 \\right) ^ { 2 }$ . ",
+    "bbox": [
+      119,
+      290,
+      835,
+      355
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/d3c65c8215bf9fe49dfa7752d6bff66c670335445904ba00290261953abcf3bf.jpg",
+    "image_caption": [
+      "Figure 3. Flow chart for district heating network configuration optimization "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      151,
+      384,
+      882,
+      725
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RESULTS AND DISCUSSION ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      788,
+      389,
+      804
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Figure 4 shows the optimal position of the heating plant and its connections with each consumer node. The plant position moves from the initial location $( 0 , 0 )$ to the location (3, 3). Table 5 shows the information of the network. The pipe types range from Alx 20 to Tws-DN40 with a total length of $1 9 2 7 \\mathrm { m }$ . The maximum network velocity is $1 . 3 8 \\mathrm { m } / \\mathrm { s }$ in the pipe section 9. ",
+    "bbox": [
+      119,
+      812,
+      835,
+      894
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      115,
+      48,
+      831,
+      78
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Page 298 ",
+    "bbox": [
+      115,
+      928,
+      833,
+      948
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/18c6872030212821f47a90a40f52052b68645047cb542cb5fe8f7912be276a1d.jpg",
+    "image_caption": [
+      "Figure 4. Optimal district heating network configuration "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      200,
+      85,
+      857,
+      372
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/6da3fdd4e3d9a86104d186e64ba0cf71c39515c37667d9a5e33010d38752e2c8.jpg",
+    "table_caption": [
+      "Table 5. Information on network configuration "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Pipe No</td><td>Type</td><td>Diameter, mm</td><td>Length, m</td><td>Velocity, m/s</td><td>Up Node</td><td>Down Node</td></tr><tr><td>2</td><td>Alx 26/26</td><td>20</td><td>291.5476</td><td>1.382</td><td>Plant</td><td>9</td></tr><tr><td>31</td><td>Tws-DN32</td><td>37.2</td><td>200</td><td>0.8989</td><td>8</td><td>7</td></tr><tr><td>38</td><td>Alx 26/26</td><td>20</td><td>223.6068</td><td>0.8634</td><td>7</td><td>10</td></tr><tr><td>6</td><td>Alx 32/32</td><td>26</td><td>158.1139</td><td>1.3804</td><td>Plant</td><td>5</td></tr><tr><td>7</td><td>Alx 32/32</td><td>26</td><td>158.1139</td><td>1.0224</td><td>Plant</td><td>4</td></tr><tr><td>71</td><td>Alx 20/20</td><td>15</td><td>141.4214</td><td>1.3817</td><td>4</td><td>3</td></tr><tr><td>9</td><td>Alx 20/20</td><td>15</td><td>254.951</td><td>1.3819</td><td>Plant</td><td>2</td></tr><tr><td>3</td><td>Tws-DN32</td><td>37.2</td><td>158.1139</td><td>1.1988</td><td>Plant</td><td>8</td></tr><tr><td>41</td><td>Alx 26/26</td><td>20</td><td>141.4214</td><td>1.0363</td><td>7</td><td>6</td></tr><tr><td>64</td><td>Alx 20/20</td><td>15</td><td>200</td><td>1.0745</td><td>5</td><td>1</td></tr></table>",
+    "bbox": [
+      178,
+      467,
+      865,
+      702
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The optimized DH network includes 6 separate routes. Figure 5 shows the pressure head distribution at each consumer node along different routes. A small velocity limit is pre-assumed for each pipe as the initial guess value to calculate the pressure distribution at each node. The allowable network pressure drop is exploited by continuously increasing the velocity limit in the pipelines until the pressure drop from the plant to the critical user (who has the lowest supply pressure head at the network) exceeds the allowable network pressure drop. The minimum pressure head occurs at node 1 which is the critical user in the optimized DH network. ",
+    "bbox": [
+      164,
+      718,
+      882,
+      848
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water and Environment Systems ",
+    "bbox": [
+      169,
+      51,
+      502,
+      76
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Page 299 ",
+    "bbox": [
+      492,
+      931,
+      552,
+      941
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Year 2013 Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      680,
+      51,
+      877,
+      76
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/562b6d6424de30c9f091306465e6b7a59fa4289a61f09654f104e735f3c12301.jpg",
+    "image_caption": [
+      "Figure 5. Pressure distribution along each route "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      196,
+      92,
+      764,
+      326
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The temperature along the network drops due to the pipeline heat loss to the ground. When there has no thermal bypass at the end user, excessive temperature drop may occur during low heating load seasons and makes the supply temperature at the consumer node lower than the minimum required value. In the study, a set-point temperature of $5 2 ^ { \\circ } \\mathrm { C }$ is assumed. ",
+    "bbox": [
+      117,
+      370,
+      835,
+      451
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As shown in Fig. 6 (top left), without thermal by-pass, the supply temperature at some consumer node drops below $4 7 ^ { \\mathrm { { \\circ } } } \\mathrm { C }$ in the low heating load seasons. By using the by-pass, the minimum node supply temperature is raised to higher than $5 2 ~ ^ { \\circ } \\mathrm { C }$ (Fig. 6: top right). However, as the by-pass water does not go through the consumer heating units, but instead flows back to the return line and mixes with the return water directly, it will increase the return water temperature. Fig. 6 (bottom left) shows the return water temperature at each consumer node. When the by-pass is used, the return water temperature at some consumer node reaches as high as $4 5 ~ \\mathrm { { ^ \\circ C } }$ . This increases the heat loss along the return pipe. ",
+    "bbox": [
+      117,
+      453,
+      835,
+      600
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2342156/auto/images/fdce6567005bd18628b849c5fb5846d664066c756d0f43ebcd4b967e3bd0526b.jpg",
+    "image_caption": [
+      "Figure 6. Temperature variation at different consumer nodes. Top left: Supply water temperature without by-pass Top right: Supply water temperature with by-pass Bottom left: Return water temperature with by-pass "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      163,
+      615,
+      818,
+      844
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Page 300 ",
+    "bbox": [
+      447,
+      931,
+      507,
+      941
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water and Environment Systems ",
+    "bbox": [
+      122,
+      51,
+      457,
+      76
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Year 2013 Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      636,
+      49,
+      830,
+      76
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In this study, the network heat loss due to increased network return temperature does not change the network configuration. However, it is worth knowing that the DH utility prefers large network temperature difference and sometimes imposes fines on consumers who have high network return temperature. Considering such extra cost into the objective function, it might be possible to change the network connection to a configuration which results in lower network return temperature or less use of the thermal by-pass. ",
+    "bbox": [
+      164,
+      85,
+      880,
+      183
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      198,
+      304,
+      214
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The genetic algorithm is applied to find a DH network optimal configuration based on the design and operational conditions. The possible routes between two nodes are represented as integers and the existence of the connection is determined through a binary decision variable. The algorithm optimizes both the pipe connections and the position of the heating plant. The NPC is formulated as the objective function to be minimized, subjected to the network hydraulic and thermal constraints. ",
+    "bbox": [
+      164,
+      221,
+      880,
+      318
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The effect of thermal by-pass is analysed. Thermal by-pass increases the return water temperature and thus causes extra network heat loss. In the analysis, this extra heat loss does not influence the optimal DH pipe connections. However, additional cost due to fines on excessive high network return temperature may change the optimal network configuration. ",
+    "bbox": [
+      164,
+      321,
+      880,
+      401
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "NOMENCLATURE ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      416,
+      342,
+      431
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$C$ - cost, $\\$ 9$   \n$d$ - inner pipe diameter, mm   \n$f$ - friction coefficient, -   \n$L$ - length, m   \n$M$ - mass flow, kg/s   \n$N$ - node number, -   \n$P$ - pressure, kPa   \n$Q$ - heating demand, kW   \n$T$ - temperature, $^ \\mathrm { o } \\mathrm { C }$   \n$U$ - thermal transmittance, $\\mathrm { w } / \\mathrm { m } ^ { 2 } \\mathrm { K }$   \n$V$ - velocity, $\\mathrm { m } / \\mathrm { s }$ ",
+    "bbox": [
+      163,
+      439,
+      445,
+      619
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Greek letter ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      634,
+      263,
+      650
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$\\rho$ - density, $\\mathrm { k g / m } ^ { 3 }$ $\\varepsilon$ - internal roughness of pipe, mm $\\mu$ - dynamic viscosity, $\\mathrm { ~ N ~ s ~ } / \\mathrm { m } ^ { 2 }$ $\\chi$ - binary decision variable, - ",
+    "bbox": [
+      164,
+      655,
+      445,
+      724
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Subscripts and superscripts ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      739,
+      393,
+      755
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$d$ - downstream   \ng - ground   \ni - node   \n$j$ - pipe   \nu - upstream ",
+    "bbox": [
+      163,
+      759,
+      292,
+      839
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Abbreviations ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      854,
+      280,
+      870
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "DF - discount factor DH - district heating ",
+    "bbox": [
+      164,
+      875,
+      334,
+      907
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Page 301 ",
+    "bbox": [
+      492,
+      931,
+      551,
+      941
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      157,
+      48,
+      877,
+      77
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "GA - genetic algorithm NPC - net present cost in $\\$ 9$ ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      85,
+      337,
+      117
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      133,
+      257,
+      147
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1. Lund, H., Moller, B., Mathiesen, B.V., Dyrelund, A., The Role of District Heating in Future Renewable Energy Systems, Energy, Vol. 35, pp 1381-1390, 2010. http://dx.doi.org/10.1016/j.energy.2009.11.023   \n2. Burer, M., Tanaka, K., Favrat, D., Yamada, K., Multi-Criteria Optimization of A District Cogeneration Plant integrating A Solid Oxide Fuel Cell-Gas Turbine Combined Cycle, Heat Pumps and Chillers, Energy, Vol. 28, pp 497-518, 2003. http://dx.doi.org/10.1016/S0360-5442(02)00161-5   \n3. Sakawa, M., Kato, K., Ushiro, S., Inaoka, M., Operation Planning of District Heating and Cooling Plants Using Genetic Algorithms for Mixed Integer Programming, ApplSoft Comput., Vol .1, pp 139-150, 2001.   \n4. Soderman, J., Optimization of Structure and Operation of District Cooling Networks in Urban Regions, ApplTherm Eng., Vol. 27, pp 2665-2676, 2007. http://dx.doi.org/10.1016/j.applthermaleng.2007.05.004   \n5. Weber, C., Shah, N., Optimization Based Design of A District Energy System for AN Eco-Town in the United Kingdom, Energy., Vol. 36, pp 1292-1308, 2011. http://dx.doi.org/10.1016/j.energy.2010.11.014   \n6. Chow, T.T., Chan, A.L.S., Song, C.L., Building-Mix Optimization in District-Cooling System Implementation, ApplEnerg., Vol. 77, pp 1-13, 2004.   \n7. Sperling, K., Moller, B., End-use Energy Savings and District Heating Expansion in ALocal Renewable Energy System – A Short-Term Perspective, ApplEnerg, Vol.92, pp 831-842, 2012. http://dx.doi.org/10.1016/j.apenergy.2011.08.040   \n8. Kalinci, Y., Hepbasli, A., Tavman, I., Determination of Optimum Pipe Diameter Along with Energetic and Exergetic Evaluation of Geothermal District Heating System: Modelling and Application, Energ Buildings., Vol. 40, pp 742-755, 2008. http://dx.doi.org/10.1016/j.enbuild.2007.05.009   \n9. Li, L.X., L, D., Wen, S.H., Optimal Design of District Heating and Cooling Pipe Network of Seawater-Source Heat Pump, Energ. Buildings., Vol. 42, pp 100-104, 2010. http://dx.doi.org/10.1016/j.enbuild.2009.07.016   \n10. Chan, A.L.S., Hanby, V.I., Chow, T.T., Optimization of Distribution Piping Network in District Cooling System Using Genetic Algorithm with Local Search, Energ Convers and Manage., Vol. 48, pp 2622-2629, 2007. http://dx.doi.org/10.1016/j.enconman.2007.05.008   \n11. Dobersek, D., Goricanec, D., Optimization of Tree Path Pipe Network with Nonlinear Optimization Method, ApplTherm Eng., Vol. 29, pp 1584-1591, 2009. http://dx.doi.org/10.1016/j.applthermaleng.2008.07.017   \n12. Soderman, J., Pettersson, F., Structural and Operational Optimisation of Distributed Energy Systems, ApplTherm Eng., Vol. 26, pp 1400-1408, 2006. http://dx.doi.org/10.1016/j.applthermaleng.2005.05.034   \n13. Olsen P.K., et.al., A New Low-Temperature District Heating System for Low-Energy Buildings, The ${ l } { I ^ { t h } }$ International Symposium on District Heating and Cooling, Reykjavik, Iceland, 2008.   \n14. Li, H, Rosa, A., Svendsen, S., Design of a low temperature district heating network with supply recirculation, 12th International Symposium on District Heating and Cooling, Tallinn, Estonia, 2010.   \n15. Li, H., Svendsen, S., Energy and Exergy Analysis of Low Temperature District Heating Network, Energy, Vol. 45, pp 237-246, 2012. http://dx.doi.org/10.1016/j.energy.2012.03.056   \n16. www.logstor.com, Logstor, [Accessed: 20-Jun-2011]   \n17. Walleten, P., Steady-state heat loss from insulated pipes, Ph.D. Thesis, Lund Institute of Technology, Sweden, 1991.   \n18. www.ens.dk, Forudsætninger for Samfundsøkonomiske Analyser På Energiområdet (Prerequisites for Macroeconomic Analysis On Energy), [Accessed: 15-Jul-2011]   \n19. Nagla, I., Profitability of Low Energy District Heating for Areas with Low Energy Buildings, M. Sc. Thesis, Technical University of Denmark, 2010.   \n20. Grundfos Industrial Products Price List, Grundfos, Oct, 2010.   \n21. Li, H., Nalim, R., Haldi, P-A., Thermal-Economic Optimization of A Distributed Multi-Generation Energy System—A Case Study of Beijing, ApplTherm Eng., Vol 26, pp 709-719, 2006. http://dx.doi.org/10.1016/j.applthermaleng.2005.09.005 ",
+    "bbox": [
+      117,
+      145,
+      833,
+      920
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      114,
+      48,
+      833,
+      78
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Page 302 ",
+    "bbox": [
+      447,
+      931,
+      505,
+      942
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      163,
+      85,
+      884,
+      249
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Paper submitted: 16.04.2013 Paper revised: 27.05.2013 Paper accepted: 28.05.2013 ",
+    "bbox": [
+      684,
+      348,
+      880,
+      388
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Page 303 ",
+    "bbox": [
+      492,
+      931,
+      552,
+      941
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Journal of Sustainable Development of Energy, Water Year 2013 and Environment Systems Volume 1, Issue 4, pp 291-303 ",
+    "bbox": [
+      163,
+      49,
+      878,
+      77
+    ],
+    "page_idx": 12
+  }
+]

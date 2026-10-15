@@ -1,0 +1,1987 @@
+[
+  {
+    "type": "text",
+    "text": "Measuring happiness increases happiness ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      135,
+      612,
+      157
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Jannik Roessler1 $\\textcircled{1}$ · Peter A. Gloor2 ",
+    "bbox": [
+      113,
+      178,
+      476,
+      198
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Received: 19 December 2019 / Accepted: 5 March 2020   \n$\\circledcirc$ The Author(s) 2020 ",
+    "bbox": [
+      113,
+      220,
+      498,
+      249
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      283,
+      202,
+      298
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Happiness has been an overarching goal of mankind at least since Aristotle spoke of Eudaimonia. However measuring happiness has been elusive and until now has almost exclusively been done by asking survey questions about self-perceived happiness. We propose a novel approach, tracking happiness and stress through changes in body signals with a smartwatch, the “Happimeter”. It predicts individual emotions from sensor data collected by an Android Wear smartwatch, such as acceleration, heartbeat, and activity. The Happimeter was used over three months in the innovation lab of a bank with 22 employees to measure individual happiness, activity, and stress. The participants were randomly divided into an experimental and a control group of similar size. Both groups wore the watch and entered their subjective happiness, activity and stress levels several times a day. The user-entered ratings were then used to train a machine learning system using the sensors of the smartwatch to subsequently automatically predict happiness, activity, and stress. The experimental group received ongoing feedback about their mood and which activity, sensor signals, or other people, made them happier or unhappier, while the control group did not get any feedback about their predicted and manually entered emotions. Just like in quantum physics we observed a “Heisenberg Efect”, where the participants made aware of their measurements changed their behavior: Members of the experimental group that received happiness feedback were $1 6 \\%$ happier, and $2 6 \\%$ more active than the control group at the end of the experiment. No efect was observed for stress. ",
+    "bbox": [
+      113,
+      301,
+      886,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords Emotion prediction $\\cdot$ Wearable technology $\\cdot$ Smartwatch $\\cdot$ Machine learning $\\cdot$ Heisenberg efect ",
+    "bbox": [
+      116,
+      698,
+      822,
+      732
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science https://doi.org/10.1007/s42001-020-00069-6 ",
+    "bbox": [
+      113,
+      48,
+      432,
+      75
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "RESEARCH ARTICLE ",
+    "bbox": [
+      113,
+      84,
+      617,
+      102
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "updates ",
+    "bbox": [
+      815,
+      93,
+      883,
+      138
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "123456789)1 3",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Published online: O8 April 2020 ",
+    "bbox": [
+      113,
+      936,
+      369,
+      950
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\\* Jannik Roessler roessler@wim.uni-koeln.de Peter A. Gloor pgloor@mit.edu Cologne Institute for Information Systems, University of Cologne, Cologne, Germany 2 Center for Collective Intelligence, Massachusetts Institute of Technology, Boston, USA ",
+    "bbox": [
+      111,
+      797,
+      788,
+      912
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      84,
+      257,
+      102
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Most people think they know when they are happy, sad, or stressed. However, emotional awareness is far from given [1]. People are notoriously bad of recognizing when they are sad or stressed. Being aware of one’s own emotions is of great help in coping with the challenges of daily life. Fear gets the driver on the highway to slam on the brakes when the truck is getting too close, but it can also be a powerful inhibitor when there is no reason to be fearful [2]. On the positive emotional side, striving for happiness is one of the biggest and most important goals of human beings [3]. In general, happiness increases productivity [4], work performance [5], career success [6] as well as health and other social factors [6]. On the other hand, unhappiness hampers efciency because employees start acting sloppily [4]. Further, a negative mood can lower expectancy, instrumentality, and valence for rewards and thus lead to a worse work performance [7]. ",
+    "bbox": [
+      113,
+      121,
+      886,
+      336
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "But how do we know when we are happy? Previous studies mainly surveyed and interviewed individuals in order to access their overall well-being [5, 6, 8]. However, all of these approaches sufer from problems of self-assessment and cognitive bias [9]. Further, such methods are not only time-consuming and expensive, but they also lack the ability of real-time analysis and actions. ",
+    "bbox": [
+      113,
+      337,
+      886,
+      427
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A system is required which automatically tracks the mood of a person at any time of the day to circumvent these limitations of surveys and interviews. Thanks to the rise of wearable sensor technologies such as smartwatches and wristbands, we get access to the most important source of emotional information: the body. Not only do smartwatches count the steps and give immediate feedback to the wearer on the display, but their built-in sensors access body and context information like heart rate, noise, or acceleration. Previous studies have shown that machine learning can be used to extract high-level features from body sensors that achieve high accuracy in diferent areas like activity recognition [10] or emotion recognition via an “Emotive Couch” [11]. Further, Blanchfower and Oswald [12] showed that physiological information i.e. blood pressure can be used to assess well-being. Thus, in this paper we introduce an alternative way to measure emotions through machine learning using body sensors from a smartwatch. ",
+    "bbox": [
+      113,
+      429,
+      886,
+      660
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "To make individuals aware of their emotions and increase their well-being we employ a process called “virtual mirroring”. It has been introduced in [13], referring to a process in which individuals are shown metrics of their own communication behavior while they are told which communication behavior is desirable. In earlier work doing virtual mirroring by analyzing e-mail communication, it has been shown that individuals will change their behavior to be more collaborative, productive, and innovative [14]. Thus, through virtual mirroring organizations can enhance their performance and outcome. ",
+    "bbox": [
+      113,
+      662,
+      886,
+      804
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Heisenberg’s uncertainty principle states that two complementing characteristics, such as location and movement, cannot be determined simultaneously. Trying to measure a defnite position will make the measurement of the movement less accurate, and vice versa [15]. Gloor [16] has concluded that the same applies to humans. When a group of people is observed and if they know this, their self-refection is triggered which leads to a change in behavior. Furthermore, the measurement is not correct anymore due to people’s change in behavior. ",
+    "bbox": [
+      113,
+      807,
+      883,
+      896
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      84,
+      881,
+      120
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Based on these fndings, it is therefore desirable to (a) measure and predict happiness, stress, and activity to make individuals aware of their positive or negative feelings, and (b) fnd ways to increase individual well-being. ",
+    "bbox": [
+      113,
+      121,
+      883,
+      174
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Related work ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      208,
+      261,
+      228
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Being happy is fundamental for most humans, and in most societies, happiness is a highly valued goal [17]. “In all periods in history, and in all countries, a large majority of people expresses their desire to live a happy life” [3]. However, it is hard to describe the term happiness because there exists a wide variety of defnitions [18]. Robertson and Cooper [6] describe happiness in terms of physical, social and psychological (mental) well-being. Further, the authors allege that the latter consists of two components: First, experiencing positive emotions and a feeling of happiness. Second, experiencing purpose and meaning in what we are doing with our lives. Frey and Alois [3] claim that well-being “refers to the satisfaction people gain when they reach desired goals”. Moreover, the authors provide diferent determinants of happiness e.g. income, autonomy, creativity, personal relationships, health, to be involved in decision making processes and socio-demographic factors. From an organizational research perspective, happiness-related constructs are spread over several levels, from transient level to personal level to unit level [19]. At the transient level, individuals experience happiness as a result of an instantaneous action or an event e.g. the enjoyment of a task or the momentary mood at work. The personal level characterizes individuals’ happiness in general such that individuals can be differentiated from each other e.g. typical mood at work or job satisfaction. The unit level describes happiness of groups of individuals such as a team or the organization as a whole e.g. covering collective job satisfaction or the group mood. Further, Fisher [19] alleges that all these levels not only vary in stability over time but also depend on their specifc context. ",
+    "bbox": [
+      113,
+      247,
+      886,
+      641
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Most studies use self-report questionnaires to measure happiness [6]. One of the key instruments is a survey of subjective life-satisfaction which assesses an individual’s overall subjective well-being by asking questions such as “Taken overall, how satisfed are you with the life you lead on a scale from 0 (totally dissatisfed) to 10 (totally satisfed)?” [3]. Another method is the U-Index, which measures the time during the day when the individual was in an unpleasant state. In contrast to the survey of subjective life satisfaction, this approach has no personal scale because one’s individual intensity of unpleasantness is not taken into account [9]. Other methods, such as the Day Reconstruction Method (DRM) [20] or the Experience Sampling Method [3] try to measure emotional aspects in moment-to-moment situations. The latter asks individuals randomly and multiple times a day about their well-being while in DRM each participant needs to list their activities of the previous day, including information about the time, place and feld of activity. To determine the emotions during each activity, participants have to select the intensity of predefned emotions on an ordinal scale. ",
+    "bbox": [
+      113,
+      644,
+      886,
+      912
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      61
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Another measurement is the Positive and Negative Afect Schedule [21]. It contains two 10-item scales to measure positive and negative efects. Participants are then asked to provide a ranking for each item on a fve-point scale of 1 (very slightly) to 5 (extremely). Several studies have attempted to elucidate the complex relationship between happiness and work performance using the aforementioned approaches. The results are various ramifcations of happiness, especially for businesses. ",
+    "bbox": [
+      113,
+      84,
+      883,
+      208
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For example, Amabile et  al. [5] concluded that being happy at work is associated with more creativity and proactivity. The authors conducted a multi-study longitudinal research program with 222 students. The participation ranged from 9 to 38 weeks due to individual projects length. Each individual had to answer a demographic questionnaire in the beginning as well as one questionnaire per day. The authors employed the Electronic Event Sampling Methodology [22] which is an adaptation of the Experience Sampling Methodology [3]. ",
+    "bbox": [
+      113,
+      210,
+      886,
+      336
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Further, in [4] 713 individuals were exposed to four diferent experiments, each investigating if happiness is increasing productivity. In their experiments the authors used comedy movie clips, chocolate, fruit and drinks as well as talking about tragedies in order to make people more or less happy. As expected, the results show that happiness is indeed increasing productivity. Other studies confrm these fndings e.g. [5, 20]. Amabile and Kramer [23] found that “People do better work when they are happy”. ",
+    "bbox": [
+      113,
+      337,
+      886,
+      462
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Robertson and Cooper [6] showed that higher levels of well-being are not just linked to higher levels of income, better work performance and higher career success, but also to higher levels of more successful marriages and friendships and better health. The authors used several case studies to underpin their fndings, describing them all would go beyond the scope of this work. ",
+    "bbox": [
+      113,
+      463,
+      886,
+      552
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "According to Baron et al. [24], happy employees have less interpersonal conficts. This fnding was confrmed by two studies. In the frst study, 87 students were either provoked or not during a business case. Afterwards the participants were exposed to one of fve treatments: control, gift, self-deprecation, fattery or excessive fattery. In a last step, individuals completed a questionnaire about reactions and feelings to the negotiation as well as about their happiness. The results show that conficts may sometimes be reduced through happiness triggered by positive incentives such as fattery, gift or self-deprecating remarks by an opponent. However, the authors conducted another study to further support the argument. Again, the task was to negotiate a business case but this time, each participant was treated with either humor, fattery or nothing (control). Each treatment was presented three times: before, during and after the negotiation. In a last step, the students completed a questionnaire similar to the one of the frst study. ",
+    "bbox": [
+      113,
+      554,
+      886,
+      785
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Although all of these cases assessed happiness, they sufer from problems of selfassessment and cognitive bias [9]. Further, such questionnaire-based methods are not only time-consuming and expensive, but they also lack the ability of real-time analysis and actions. Often, questionnaire results are enriched by taking into account information obtained from interviews with individuals [6], which makes the analysis even more time-consuming and expensive. Finally, the results can be unreliable if employees fear that the boss will read the questionnaire [25]. ",
+    "bbox": [
+      113,
+      788,
+      886,
+      912
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A few studies exist which used the abundance of information collected by wearable devices, but they were never tested in a real world, working environment. For example, Khan and Lawo [26] collected various physiological information by using a pulse sensor and an eHealth platform, including the following sensors: 2D accelerometer, blood pressure, oxygen in the blood, body temperature, airfow, electrocardiogram (ECG), electromyography and GSR. While wearing these devices, the 24 participants were shown 100 images one after another. These images were divided into four emotional subgroups, namely: Joy, dislike, sad and stress. After looking at fve images of the same subgroup, the participants had to choose one emotion from the aforementioned emotional states, extended by the terms ‘normal’ and ‘no idea’. Subsequently, the authors created models for recognizing diferent emotional states by considering the provided answers from the participants and body sensor information. ",
+    "bbox": [
+      113,
+      84,
+      886,
+      316
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Nguyen et al. [27] built an application for emotion prediction by using a Mio Link Heart Rate Wristband, which was connected to a smartphone by Bluetooth Low Energy (BLE). The device collected the heart rate continuously in the background, while the fve participants recorded their emotions via the application whenever possible. Nguyen et al. considered six diferent emotional states including: Fear, anger, sadness, disgust, neutral and happiness. Further, they distinguished between three diferent subgroups: negative emotions (fear, anger, disgust, and sadness), neutral emotions (neutral) and positive emotions (happiness). They created diferent feature sets by calculating maximum, mean, median as well as discrete wavelet transformation and Mel-frequency cepstral coefcients (MFCC) from the heart rate. ",
+    "bbox": [
+      113,
+      319,
+      886,
+      496
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The most similar work to ours is [25]. The authors used various sensors i.e. accelerometer, location, sound-level, infra-red signals, and temperature combined in a badge which was worn on the chest. The badges were worn by 468 ofce workers from 10 organizations for 5000 days. They used the Center for Epidemiologic Studies Depression Scale which asks about typical symptoms of depression to assess happiness. Participants had to answer 20 questions by using a four-point scale. The authors discovered a correlation between physical motion and collective happiness. However, the work is diferent from ours in three points. First, happiness was measured on an organizational level rather than on an individual level. Second, happiness was measured weekly rather than multiple times a day. Third, instead of using a complex questionnaire, we implemented an Experience-based Sampling Method [3] with only three questions directly asked to the user on the watch. ",
+    "bbox": [
+      113,
+      500,
+      886,
+      714
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Research methodology ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      749,
+      373,
+      768
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The happimeter ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      786,
+      266,
+      804
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Happimeter [28] is a system for tracking and predicting human’s mood. It provides feedback to individuals about their mood and what infuences it. Our hypothesis to be tested in this experiment is if this feedback will make them actually happier. The Happimeter uses a smartwatch for collecting the necessary information and a website, as well as a phone application for providing detailed insights. ",
+    "bbox": [
+      113,
+      822,
+      883,
+      912
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      61
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/8cba64667eefe713539fedac7455e9409ff79560290b3dd41cb7abb9eb80ae97.jpg",
+    "image_caption": [
+      "Fig. 1 The three diferent questions asked by the watch. Users can either confrm or deny and correct the suggested mood "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      118,
+      85,
+      879,
+      252
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The smartwatch is the most important component of the system as it is responsible for collecting the body sensing data. For the experiment described in this paper, users were equipped with either a Mobvoi TicWatch S2, a Mobvoi TicWatch E2 or a Mobvoi Ticwatch S. These watches were running on WearOS. All three kinds of watches had the following sensors. First, an accelerometer sensor which measured the acceleration force in $\\mathrm { m } / \\mathrm { s } ^ { 2 }$ on three physical axes, namely: x, y, and z. Thus, when the user moved the watch, e.g. shaking or tilting it, an acceleration to one of the given axes was caused. Second, a step counter which recorded the number of steps since the last sensor measurement. Third, a heart rate sensor which collected the heart signals in beats per minute. Fourth, a microphone which recorded the noise expressed by the amplitude; and fnally, a position sensor which determined the user’s location by localizing the longitude, latitude, and altitude. Each sensor was running automatically for 30 s every $2 0 \\mathrm { m i n }$ trying to collect as many measurements as possible. Further, exogenous variables i.e. weather data and time-related data were added by the system based on the GPS information provided by the watch. ",
+    "bbox": [
+      113,
+      328,
+      886,
+      597
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In order to build a customized individual model for each user, not only the physiological information is necessary but also subjective information about the user’s mood to train the system. Thus, a survey is integrated into the Happimeter application which asks users approximately every two hours about their activity level, happiness and stress. Simultaneously, this survey is predicting the mood level, providing the wearers with information about what the system thinks how they feel. Users can either confrm or reject and correct the suggested mood. For example, users are asked: “Your happiness prediction is 1 of 2. Is this prediction correct?” If not, they can enter the correct value on a sliding scale from zero to two, where zero is representing that the user is not happy, one that the user is happy, and two that the user is very happy. The same applies for activity and stress (see Fig. 1 for an illustration). ",
+    "bbox": [
+      113,
+      599,
+      886,
+      795
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The predictions are based on a machine learning algorithm which uses the user-entered mood and smartwarch sensor data. While new users start with a generic model for the prediction, individualized models are trained over time based on the feedback of the user. The diference between a generic model and an individualized model is that the latter is based on the user’s mood input and the former uses the mood input of every user in the system. Note that users can enter their sensor and mood data manually in addition to the predictions generated automatically, further increasing the accuracy of the system. ",
+    "bbox": [
+      113,
+      797,
+      886,
+      905
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      60
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/7275890d67e33b856f46ee748fb268e8a92b1ba2b85ee5e1f1aa58cd67bb197d.jpg",
+    "image_caption": [
+      "Fig. 2 Illustration of the Happimeter smartphone app. From left to right. a Users have an overview over their last survey inputs. For example, on the $2 4 \\mathrm { t h }$ of June the user has been mostly happy. Further, they can see the location and mood of their friends. The big letters are representing the user’s friends. b Users can name places where they usually make inputs. c For each place they receive detailed information such as the average of their happiness, activity, and stress "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      118,
+      85,
+      876,
+      441
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      554,
+      876,
+      588
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A second key component of the Happimeter system for conducting virtual mirroring is the smartphone application which is available for Android and Apple. Although users can also enter their mood data there, the primary purpose of this component is to monitor emotions and to manage the social network. Users can look at their past survey inputs examining how happy they have been on a specifc day (see Fig. 2a). Further, users can evaluate their mood input associated with the geolocation. They can label specifc places like “Home” or “Friends Place”. Such a function allows users to accurately analyze how they felt in certain places (see Fig. 2b, c). ",
+    "bbox": [
+      113,
+      590,
+      886,
+      750
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Furthermore, the app can be used for managing the social network including functions such as accepting friend requests, sending friend requests, controlling privacy options for mood sharing and unfriend somebody. Users have not only access to a friend’s happiness, activity, and stress level but can also be given access to the geolocation (see Fig. 2a). ",
+    "bbox": [
+      113,
+      752,
+      886,
+      840
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Finally, the application is sending notifcations to the user if she or he is not happy according to the Happimeter predictions. Based on the system’s prediction of happiness, activity, and stress, diferent notifcations are sent. For example, if the system predicts that the user is very unhappy, very active and very stressed, it suggests taking a long nap. The default interventions are shown in Fig. 10. ",
+    "bbox": [
+      113,
+      842,
+      886,
+      894
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      113,
+      48,
+      394,
+      60
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      84,
+      883,
+      120
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The last component of the Happimeter system is the website. It can be used for reviewing the collected measures and mood inputs. On the dashboard users can see their mood inputs over the last 30  days (see Fig.  11), as well as the system’s prediction based on the user’s last sensor data. Another function is to provide insights about the driver of a user’s mood. Users can see what variables infuence their mood the most (see Fig. 12). Further, they can see by whom they are infuenced and on whom they exert infuence (see Fig. 13). Moreover, the website can be utilized for modifying the default interventions such that each user can incorporate individual notifcations. Finally, a user can create a team consisting of multiple users. For each team the mood inputs are aggregated, the average is calculated, and the information is displayed on the website. ",
+    "bbox": [
+      113,
+      121,
+      886,
+      316
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Experimental setup ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      340,
+      300,
+      358
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "A real-world experiment was conducted with 22 full-time employees of the Sparkassen Innovation Hub (S-Hub) in Hamburg, Germany from May 1, 2019 to August 19, 2019. Due to allergic reactions with the strap, four employees aborted the experiment prematurely after one month leading to 18 remaining participants, of whom 16 $( 8 8 . 8 9 \\% )$ were male and 2 $( 1 1 . 1 1 \\% )$ female. Every participant was equipped with a smartwatch at the beginning of the experiment. After setting up the watches each participant was given a few days to get used to the system. Furthermore, this time was necessary to replace the generic happiness prediction models with individualized ones. ",
+    "bbox": [
+      113,
+      376,
+      886,
+      537
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To verify the reliability of happiness, activity, and stress prediction, one model was created for each question for each user. Sensor data of each participant was collected approximately every twenty minutes during working hours. Note that sometimes the participants forgot to wear their watches or the sensors failed to record any information because of hardware or software issues. Further, the watch was asking participants approximately every two hours about their happiness, activity, and stress. Both sensor and mood data were used to create models by using diferent machine learning algorithms i.e. Decision tree, gradient boosting with decision trees, random forest, support vector machine (SVM), feedforward neural network and long short-term memory (LSTM) models. Due to the availability of user-entered information about the user’s mood, the algorithms could easily be evaluated by comparing real mood values and predicted mood values. ",
+    "bbox": [
+      113,
+      540,
+      886,
+      753
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To explore if feedback and recommendations afect happiness, stress and activity—i.e. the Heisenberg efect through virtual mirroring indeed exists—the participants were equally divided into two groups, a control group and an experimental group. The latter had access to all functionalities mentioned above. Members of the experimental group received recommendations, based on their predictions. These recommendations were sent approximately every three hours during business hours. Further, they had insights about their drivers, past mood inputs and geolocations, as well as they could use the social network functionalities. In contrast, the control group had none of the Happimeter functionalities. Users were just asked to wear the watches to provide sensor data and to answer the questions to provide mood data. Their access to the website was denied. Functionalities in the application on the phone were restricted such that participants could not see their last mood inputs. Further, when asking about the mood the watch did not provide any predictions. Instead members of the control group were only asked about their happiness, activity and stress levels (see Fig. 3 for an illustration). ",
+    "bbox": [
+      113,
+      756,
+      886,
+      899
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/42007e23c82e8723e762aa548a05d0eba34873f7bab842dff9e22a8d190cbf4a.jpg",
+    "image_caption": [
+      "Fig. 3 Comparison of control and experimental group. While the experimental group had access to all of the Happimeter’s feature like receiving mood predictions, receiving interventions and monitoring emotions, members of the control group did not have access to any functionalities except for receiving questions about mood and collecting sensor data "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      207,
+      87,
+      790,
+      429
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      534,
+      886,
+      660
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Feature selection ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      696,
+      277,
+      713
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Feature selection is crucial in machine learning, as it can have a signifcant impact on the outcome of the algorithms. In this paper recursive feature elimination (RFE) [29] was used to create a feature set. In RFE, the classifer is frst trained with all features. Next, the least important feature is removed. That procedure is repeated until a single feature is left. The best feature set is the one that achieves the highest accuracy. For the creation of the fnal feature set, a decision tree was used as an estimator. This algorithm can return the feature importance of each feature, which, in turn, can be used for determining the best features. ",
+    "bbox": [
+      113,
+      732,
+      886,
+      875
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "RFE was applied on all available features including the nine features which resulted from the fve sensors of the Mobvoi smartwatches described above, plus weather information, i.e. temperature, humidity, pressure, wind, clouds, and weather, as well as time-related information, i.e. hour, weekday and session. The latter determined the part of the day.The best feature set using RFE based on a decision tree is presented in Table 1. ",
+    "bbox": [
+      111,
+      878,
+      883,
+      911
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      113,
+      48,
+      394,
+      60
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/ffd2cfdade452adbc05f826c370549eebf28d55c1c7dec9ed6c3a2863648267f.jpg",
+    "table_caption": [
+      "Table 1 Best feature set using RFE "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Method</td><td>Sensor</td></tr><tr><td>Minimum,maximum</td><td>Heart rate,microphone AccelerometerX,accel-</td></tr><tr><td>Average</td><td>erometer Y, acceler- ometer Z,heartrate, microphone</td></tr><tr><td>Magnitude</td><td>Number of steps, temperature,humidity, pressure,hour, week- day, session</td></tr></table>",
+    "bbox": [
+      375,
+      84,
+      883,
+      261
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      291,
+      886,
+      360
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "One model was built for each question for each user, i.e., each user had three diferent models: One for predicting happiness, one for predicting activity, and one for predicting stress. In order to build these models, it was necessary to apply some preprocessing steps. These steps are explained in the following. ",
+    "bbox": [
+      113,
+      363,
+      886,
+      433
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To create the training and testing instances, each mood data entry was combined with one instance of sensor data, by searching for the closest timestamp in the sensor data that matched the mood data. Unfortunately, a match could not always be found between mood and sensor data, and thus, some information could not be considered while ftting the models. The answers for the diferent questions were used as labels. ",
+    "bbox": [
+      113,
+      435,
+      886,
+      524
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "During the preprocessing step, those columns, which either had more ‘not-anumber’ (nan) values than numerical values or where the standard deviation of the column was zero, were dropped. Remaining nan values in columns which had not been dropped were replaced with the mean of the respective column. Further, one weather variable had to be encoded such that the values were numerical. To cope with the imbalanced dataset, cost-sensitive learning [29] was taken into account when building the models. Additionally, tenfold cross-validation with stratifcation was used when evaluating the generalization performance of each algorithm. ",
+    "bbox": [
+      113,
+      525,
+      886,
+      668
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Performance measures ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      692,
+      330,
+      708
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Diferent performance metrics, i.e. accuracy, $F l$ -score and a combination of both were calculated based on the diferent feature-sets, periods and questions to evaluate and compare each algorithm. Although accuracy is a common evaluation metric, in this case it might not be a good indicator because when the class distribution in a dataset is skewed, the accuracy can be very high which leads to the assumption that the model is doing well [30]. The F1-score, a combination of precision1 and recall2 was used for evaluating the model to overcome the drawback of accuracy. Mathematically, it is expressed as: ",
+    "bbox": [
+      113,
+      728,
+      886,
+      834
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1 true positives+false positives true positives [29]. 2 true positives [29]. true positives+false negatives ",
+    "bbox": [
+      113,
+      869,
+      321,
+      909
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      84,
+      881,
+      118
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/06e1adea0d62d56706bbe0d0cab1a5093d3bb5421142c677509c601216aca7ca.jpg",
+    "text": "$$\n2 \\times { \\frac { { \\mathrm { p r e c i s i o n ~ } } \\times { \\mathrm { r e c a l l } } } { { \\mathrm { p r e c i s i o n ~ } } + { \\mathrm { r e c a l l } } } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      391,
+      130,
+      605,
+      169
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Finally, to compare diferent models, a single number metric was necessary, which takes into account accuracy and F1-score equally. Without such a metric, one model could be superior w.r.t accuracy while another could be superior w.r.t F1-score. The combination was simply the mean of both metrics: ",
+    "bbox": [
+      113,
+      181,
+      886,
+      253
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/d6a4dbd5a1268ed63f2ed37db1618e392f7014c24094d425f13e7d430dfaf2dc.jpg",
+    "text": "$$\n\\frac { \\mathrm { A c c u r a c y } + \\mathrm { F } 1 } { 2 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      423,
+      262,
+      574,
+      301
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The metrics were calculated for all three models of each user. However, for the fnal evaluation, the various performances of each user were summarized, and the average was taken. ",
+    "bbox": [
+      113,
+      312,
+      886,
+      364
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "It was necessary to build a baseline against which the models’ performance could be compared to infer the meaning of these metrics. Such a baseline can evince performance improvements while pointing out superior algorithms. Due to the highly imbalanced dataset it was reasonable to use a majority classifer, also called zeroR, as a baseline classifer. It is a naïve classifer that always predicts the most frequent class in the training set [30]. In the bottom line all the learned models should at least outperform the majority classifer. ",
+    "bbox": [
+      113,
+      366,
+      886,
+      490
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Data analysis and results ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      533,
+      391,
+      551
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Evaluate prediction ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      570,
+      300,
+      587
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In total, 10,830 sensor data items were recorded during the experiment. 4845 sensor data items were collected by the experimental group, and 5985 sensor data items were collected by the control group. ",
+    "bbox": [
+      113,
+      606,
+      886,
+      659
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In contrast to the sensor data, the mood data was manually entered by the user. As already described above, users were asked about their happiness, stress, and activity. The answers along with the question id and other information such as timestamp, longitude, and latitude were sent to the server. In total 6844 mood data entries were recorded, 2123 happiness answers, 2126 activity answers and 2115 stress answers. 4034 mood data records were collected by the experimental group, and 2810 mood data records were collected by the control group. Note that the answers, given by the users, were imbalanced such that most of the users stated that they had been active, happy and stressed. The answers’ ratios for activity, happiness, and stress were 341:1191:594, 192:1325:606, 811:1122:182, respectively. ",
+    "bbox": [
+      113,
+      662,
+      886,
+      839
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Table  2 shows the key performances of each algorithm for predicting activity. The random forest was most accurate. Its combined value of $7 6 . 1 2 \\%$ was $1 4 { , } 2 5 \\%$ higher than the baseline performance as mentioned in section  2.4 and $1 . 7 2 \\%$ higher than the combined value of the second-best algorithm, namely, gradient boosting. While the F1-score of random forest and gradient boosting was almost the same, they difered in the achieved accuracy. Here, the latter was outperformed by $3 . 3 1 \\%$ . Decision tree, FFNN, and LSTM performed worst, and they were mere slightly above the baseline performance. ",
+    "bbox": [
+      113,
+      842,
+      883,
+      912
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      396,
+      61
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/94f8ccfa614606ea8d63f885845736bffd7bdab61ea1affa64182b161cd45e55.jpg",
+    "table_caption": [
+      "Table 2 Performance metrics of each algorithm for predicting activity "
+    ],
+    "table_footnote": [
+      "The best metrics are written in bold "
+    ],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Activity</td></tr><tr><td>Accuracy (%）F1-score (%）Combination (%)</td><td></td></tr><tr><td>Baseline</td><td>67.75 55.99</td><td>61.87</td></tr><tr><td>Decision tree</td><td>68.54 66.75</td><td>67.65</td></tr><tr><td>Gradient boosting</td><td>75.78 73.02</td><td>74.40</td></tr><tr><td>Random forest</td><td>79.06 73.18</td><td>76.12</td></tr><tr><td>SVM</td><td>77.42 69.79</td><td>73.60</td></tr><tr><td>FFNN</td><td>68.07 68.07</td><td>68.07</td></tr><tr><td>LSTM</td><td>69.57 68.97</td><td>69.27</td></tr></table>",
+    "bbox": [
+      375,
+      84,
+      886,
+      271
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/2b4c5e4beff4e0563b7f4fab38fcb3b60fe146ebae28fdd2275e02c696ad67cd.jpg",
+    "table_caption": [
+      "Table 3 Performance metrics of each algorithm for predicting happiness "
+    ],
+    "table_footnote": [
+      "The best metrics are written in bold "
+    ],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Happiness</td></tr><tr><td>Accuracy(%）F1-score (%)</td><td>Combination (%)</td></tr><tr><td>Baseline</td><td>82.87</td><td>79.46</td></tr><tr><td>Decision tree</td><td>83.54</td><td>83.20</td></tr><tr><td>Gradient boosting</td><td>87.42</td><td>86.27</td></tr><tr><td>Random forest</td><td>88.42</td><td>87.30</td></tr><tr><td>SVM</td><td>87.42</td><td>84.89</td></tr><tr><td>FFNN</td><td>64.74</td><td>64.74</td></tr><tr><td>LSTM</td><td>49.45</td><td>48.68</td></tr></table>",
+    "bbox": [
+      375,
+      331,
+      886,
+      519
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      572,
+      886,
+      644
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Table  3 lists the best performance metrics of each algorithm for predicting happiness. Again, random forest performed the best. Its combined value with $8 7 . 3 0 \\%$ was superior to the combined value of the baseline majority classifer by $7 . 8 4 \\%$ . Although the accuracy of the baseline performance was already very high, the random forest outperformed it with $5 . 5 5 \\%$ . Gradient boosting was barely inferior of random forest. The deep learning algorithms performed worst. Both algorithms achieved a combined value even worse than the combined value of the baseline performance. ",
+    "bbox": [
+      113,
+      644,
+      886,
+      786
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Table 4 lists the performance metrics of each algorithm for predicting stress. Here, SVM was the best algorithm. This classifer was exceeding the baseline performance by $9 . 9 7 \\%$ w.r.t the combined value. Interestingly, SVM’s F1-score was worse than most other algorithms. However, its accuracy was outperforming the accuracy of the other algorithms and thus, in sum its performance was slightly superior. However, gradient boosting, random forest, decision tree, and ",
+    "bbox": [
+      113,
+      788,
+      886,
+      896
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/e75c25f3e476cd43a421e87cea98bad343675369bf03d994e7dc781399ce64f7.jpg",
+    "table_caption": [
+      "Table 4 Performance metrics of each algorithm for predicting stress "
+    ],
+    "table_footnote": [
+      "The best metrics are written in bold "
+    ],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Stress</td></tr><tr><td>Accuracy (%)</td><td>F1-score (%)</td><td>Combination (%)</td></tr><tr><td>Baseline</td><td>65.10</td><td>52.39</td><td>58.74</td></tr><tr><td>Decision Tree</td><td>67.41</td><td>66.51</td><td>66.96</td></tr><tr><td>Gradient Boosting</td><td>70.45</td><td>66.85</td><td>68.65</td></tr><tr><td>Random Forest</td><td>70.09</td><td>66.46</td><td>68.28</td></tr><tr><td>SVM</td><td>73.94</td><td>63.47</td><td>68.71</td></tr><tr><td>FFNN</td><td>66.11</td><td>66.11</td><td>66.11</td></tr><tr><td>LSTM</td><td>54.19</td><td>52.09</td><td>53.14</td></tr></table>",
+    "bbox": [
+      111,
+      100,
+      886,
+      288
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/c2d699e71f28861e57f05cab5233a038f7271e9793065117219f1ea12454d6f3.jpg",
+    "table_caption": [
+      "Table 5 Happiness comparison between experimental $\\left( N { = } 9 \\right)$ ) and control group $\\left( N { = } 9 \\right)$ "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Average happi- ness</td><td>Shap- iro-Wilk (p-value)</td><td>Mann Whitney U (p-value)</td><td>Number of observa- tions</td><td>Standard devia- tion</td><td>Minimum</td><td>Maximum</td></tr><tr><td>Self-reported</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Experimen- tal group</td><td>1.26</td><td>1.17e-41</td><td>5.30e-09</td><td>1218</td><td>0.54</td><td>0</td><td>2</td></tr><tr><td>Control group</td><td>1.10</td><td>2.53e-33</td><td></td><td>905</td><td>0.62</td><td>0</td><td>2</td></tr><tr><td>Predicted</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Experimen- tal group</td><td>1.29</td><td>0</td><td>0</td><td>89,684</td><td>0.57</td><td>0</td><td>2</td></tr><tr><td>Control group</td><td>1.13</td><td>0</td><td></td><td>87,084</td><td>0.62</td><td>0</td><td>2</td></tr></table>",
+    "bbox": [
+      109,
+      349,
+      886,
+      579
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "FFNN just performed slightly worse than the SVM. The second worst algorithm—ignoring the baseline—was the FFNN which achieved a combined value of $6 6 , 1 1 \\%$ . The diference in the combined value makes clear how close the algorithms were to each other: The FFNN was excelled by merely $2 . 6 \\%$ . ",
+    "bbox": [
+      113,
+      599,
+      886,
+      669
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Evaluating Heisenberg’s efect ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      711,
+      400,
+      729
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To investigate whether receiving feedback about what drives one’s dissatisfaction, and suggestions about how to improve it will increase employee happiness, the average happiness of experimental and control group was calculated. The assumption was that feedback is making the user more conscious of his/her feelings while the recommendations should actively help the user to become happier and more satisfed. Consequently, happiness should be higher in the experimental group than in the control group. Although some of the participants had worn the watches outside of working hours, only business days from 4 am to $1 0 ~ \\mathrm { p m }$ were included in this analysis, leaving 6364 mood data entries. ",
+    "bbox": [
+      113,
+      747,
+      886,
+      909
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      61
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/c11f0ddf4d6c5468fa778d16c702c20b991c9b0ab52032af9c03e827f1376147.jpg",
+    "image_caption": [
+      "Fig. 4 Self-reported happiness per business hour "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      205,
+      84,
+      790,
+      268
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Happiness ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      318,
+      211,
+      336
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Table  5 resumes the diferences in happiness between experimental and control group, with happiness values both manually entered, and predicted by the machine learning system. We fnd that, indeed as hypothesized, the experimental group, which had been getting detailed happiness feedback on watch, phone app, and website, shows $1 5 \\%$ higher happiness. This means the virtual mirroring seems to work, and getting happiness feedback will indeed increase happiness. ",
+    "bbox": [
+      113,
+      354,
+      886,
+      462
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Figure 4 showing the average happiness per business hour, illustrates this fnding. The experimental group was always happier than the control group with one exception: At $8 ~ \\mathrm { p m }$ the control group was slightly happier than the experimental group. Note that this illustration looks more skewed because, at very early or late business hours, the number of employees making a mood input was signifcantly smaller than during the day. This made the happiness average more dependent on outliers among individuals rather than on the entire group. ",
+    "bbox": [
+      113,
+      463,
+      886,
+      588
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Figure  5 illustrates happiness averaged over days and weeks, supporting the hypothesis too. Both graphics underline that on average the experimental group was happier than the control group. Further, two other characteristics are conspicuous. First, the control group experienced a happiness low on August 2nd, August 6th, and August 8th (see also the week from 5 to 9 August). Second, in the last week of the observation, the average happiness in both groups increased rapidly. ",
+    "bbox": [
+      113,
+      590,
+      886,
+      696
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Activity ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      734,
+      184,
+      750
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "A similar picture emerges for activity (Table 6). Again, average activity over the total observation period in the experimental group was 0.26 higher than in the control group (1.23 and 0.97, respectively). ",
+    "bbox": [
+      113,
+      770,
+      886,
+      824
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Figure 6 illustrates how the activity changed during the business hours for both groups. The experimental group was always more active than the control group. Both groups experienced an activity low at the end of the day. ",
+    "bbox": [
+      113,
+      824,
+      886,
+      878
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Figure 7 compares the average activity of both groups in diferent temporal perspectives. Again, the results support the hypothesis since, in both graphics, the experimental group was more active than the control group. Only between July 8th and July 17th the control group was more active. Further, at the end of the experiment, the experimental group was much more active on average than the control group. ",
+    "bbox": [
+      113,
+      878,
+      881,
+      914
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      60
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/6d0b9b95225fb656f226190c6be6cd99d85d06956ecc8f8491151d3deafc67ce.jpg",
+    "image_caption": [
+      "Fig. 5 Comparison of average self-reported happiness over time. a Average happiness per day. b Average happiness per week "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      202,
+      87,
+      792,
+      480
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/625dad491fe872340b826ab9c6dbba6454c835c56fc882397f30897fb86c531d.jpg",
+    "table_caption": [
+      "Table 6 Activity comparison between experimental $( N { = } 9$ ) and control group $( N { = } 9$ ) "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Average activity</td><td>Shap- iro-Wilk (p-value)</td><td>Mann Whitney U (p-value)</td><td>Number of observa- tions</td><td>Standard devia- tion</td><td>Minimum</td><td>Maximum</td></tr><tr><td>Self-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>reported Experi- mental</td><td>1.23</td><td>9.05e-40</td><td>2.05e-18</td><td>1219</td><td>0.58</td><td>0</td><td>2</td></tr><tr><td>group Control</td><td>0.97</td><td>1.87e-31</td><td></td><td>907</td><td>0.71</td><td>0</td><td>2</td></tr><tr><td>group Predicted</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Experi- mental</td><td>1.14</td><td>0</td><td>0</td><td>89,681</td><td>0.49</td><td>0</td><td>2</td></tr><tr><td>group Control group</td><td>0.95</td><td>0</td><td></td><td>87,085</td><td>0.63</td><td>0</td><td>2</td></tr></table>",
+    "bbox": [
+      109,
+      558,
+      883,
+      833
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      845,
+      886,
+      917
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      113,
+      48,
+      394,
+      60
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/af0a178dc38b2a7bda10d8316dbadeb70db3f41d9d07889d915b5e08dd5bd52f.jpg",
+    "image_caption": [
+      "Fig. 6 Self-reported activity per business hour "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      205,
+      84,
+      790,
+      268
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/2cb682ce63167910d010ba37f9f776d4a13dd7b8c2d7cec87f9973c47ec31544.jpg",
+    "image_caption": [
+      "Fig. 7 Comparison in average self-reported activity over time. a Average activity per day. b Average activity per week "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      202,
+      319,
+      792,
+      711
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Stress ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      788,
+      170,
+      803
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Finally, the stress average over the total observation time was calculated for both groups. While the experimental group obtained an average stress value of 0.69, the control group achieved an average stress value of 0.72. Although users of the control group experienced more stress than the users of the experimental group, the diference was not signifcant (Table 7). ",
+    "bbox": [
+      113,
+      824,
+      886,
+      912
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      60
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/6b5f3966cf93fc659e337e0045444e750c90d55f9da7dc9d65f799920e39eeed.jpg",
+    "table_caption": [
+      "Table 7 Stress comparison between experimental $( N { = } 9 )$ ) and control group $( N { = } 9 )$ "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>Average stress</td><td>Shap- iro-Wilk (p-value)</td><td>Mann whitney U (p-value)</td><td>Number of observa- tions</td><td>Standard devia- tion</td><td>Minimum</td><td>Maximum</td></tr><tr><td>Self-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>reported Experi- mental</td><td>0.69</td><td>7.62e-40</td><td>0.66</td><td>1213</td><td>0.58</td><td>0</td><td>2</td></tr><tr><td>group Control</td><td>0.72</td><td>3.11e-33</td><td></td><td>902</td><td>0.66</td><td>0</td><td>2</td></tr><tr><td>group Predicted</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Experi- mental</td><td>0.67</td><td>0</td><td>0</td><td>89,779</td><td>0.60</td><td>0</td><td>2</td></tr><tr><td>group Control group</td><td>0.75</td><td>0</td><td></td><td>87,173</td><td>0.60</td><td>0</td><td>2</td></tr></table>",
+    "bbox": [
+      109,
+      100,
+      883,
+      373
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/58575ebe723cd3427bc2ce61eafdcf2e8884f754efa2d4ede29f4adc3144faf6.jpg",
+    "image_caption": [
+      "Fig. 8 Average stress during business hours "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      205,
+      409,
+      790,
+      594
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "As Fig. 8 illustrates, the stress levels of the control group and the experimental group were running mostly in parallel during business hours. Again, in this illustration, the diferences between the experimental and control group look more extreme. However, not all users reported stress values at every business hour. Thus, the stress average could have been dependent on individual persons rather than on the entire group. ",
+    "bbox": [
+      113,
+      645,
+      886,
+      753
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Figure  9a and b show more clearly that the stress curves of both groups were approximately the same. Figure 9a shows the change of stress over the days of the entire observation period. It can be seen that sometimes, the stress in the experimental group was higher than in the control group and vice versa. Figure 9b shows the change of stress over the weeks of the entire observation period. This graph clearly shows how little the two groups difered from each other. ",
+    "bbox": [
+      113,
+      755,
+      886,
+      861
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      60
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/ce7be767f1667821801f1b6776506a98a0e8204f2e67b7cdbd34ff184f13be52.jpg",
+    "image_caption": [
+      "Fig. 9 Comparison in average self-reported stress over time. a Average stress per day. b Average stress per week "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      202,
+      85,
+      792,
+      475
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      552,
+      232,
+      572
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "In this research, a smartwatch-based system was introduced, which used physiological information, such as heart rate or ambient noise, exogenous variables such as weather, and machine learning algorithms, to reliably predict people’s satisfaction in terms of happiness, activity, and stress. Moreover, it was shown, that predictions, made by the system, can be used to provide feedback and recommendation, which, in turn, can increase satisfaction by increasing happiness and activity. ",
+    "bbox": [
+      113,
+      590,
+      886,
+      698
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The results of this work demonstrate practical implications of such a system for managers. It was shown that sensor-based systems reliable predict happiness, activity, and stress. This information can be used to make employees more satisfed with their job due to diferent factors. First, managers can use our approach to make employees happier and more active either by mirroring back to people what makes them happy and active like we did in the experiment or by observing the employees and recommending interventions for increasing personal satisfaction. The same approach can also be used to make the employees less stressed. Ultimately, such a working environment, were everybody is aware of what makes them happy, active and less stressed, will increase productivity and foster organizational benefts. Additionally, companies can get rid of surveys and time-consuming interviews by using an automated system like the one described in this paper which can predict employee satisfaction automatically. This not only saves money but also enables real-time satisfaction tracking. Nevertheless, companies need to be aware of the sensibility of the data. They not only have to ensure data security and privacy, but they also must be careful not to misuse the information in any, for the employees, harmful way. ",
+    "bbox": [
+      113,
+      699,
+      886,
+      914
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      605,
+      48,
+      883,
+      60
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      113,
+      84,
+      883,
+      154
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "It seems that physiological information as well as weather- and time-related information can be used to assess human’s mood. Further, Heisenberg’s uncertainty principle and virtual mirroring might be used to change the behavior of individuals by triggering their self-refection. Note that the participants were neither forced to read the feedback nor to actively put the interventions into practice. No mechanism was implemented to control how the users perceived the recommendations. Participants in our experiment were enthusiastic about our system, but the question remains how other, more conservative companies might be encouraged to use similar systems. ",
+    "bbox": [
+      113,
+      157,
+      883,
+      298
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "There are some weaknesses of the current study. First, it might be that the participants of the control group were less happy and less active than the participants of the experimental group only because they did not receive any feedback and recommendation. It might be that the participants of the control group felt inferior because of such an experimental set up, which led to more unhappiness and inactivity. However, we assume that this would overrate the infuence of our Happimeter system, as the work in the ofce should be the focus and key infuence on employee satisfaction. Second, the number of participants was limited. More attendees would have reinforced the signifcance of the result. Further, the number of male participants was higher than the number of female participants. Thus, other experiments, with better gender balance, are needed in order to further verify the relationship between physiological information and activity, happiness and stress across all genders. Finally, the system did not operate perfectly. Some information got lost because of hardware malfunction or software issues. ",
+    "bbox": [
+      113,
+      301,
+      886,
+      533
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In future work, the Happimeter system should be implemented in other companies and with more participants. The system should be further developed to reliably predict happiness, activity, and stress. Maybe, the system could also be put in another context such as using physiological information to predict whether somebody is going to buy a car or not. Also, it would be interesting to see how another smartwatch and thus, other sensors, could be used in combination with the system. ",
+    "bbox": [
+      113,
+      536,
+      883,
+      641
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements Open Access funding provided by Projekt DEAL. This research has been supported by a grant from Signify N.V. We would like thank Meg Smith from Signify, and Rob Laubacher from MIT for their support and their creative ideas. ",
+    "bbox": [
+      116,
+      659,
+      886,
+      702
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licen ses/by/4.0/. ",
+    "bbox": [
+      113,
+      717,
+      886,
+      845
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      61
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Appendix ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      84,
+      225,
+      103
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "See Figs. 10, 11, 12, 13. ",
+    "bbox": [
+      113,
+      121,
+      334,
+      138
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/f356f918943a207fa55026238ef09f0a1f5f3656365e1a9c9461feaa7c74e2be.jpg",
+    "image_caption": [
+      "Fig. 10 Default suggestions for increasing happiness based on low stress, activation, happiness levels "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      125,
+      156,
+      879,
+      888
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/c1e46a8d1b69d6305f4909c0cf543b531eb35285470cc6fb18db5d3fbff861c0.jpg",
+    "image_caption": [
+      "Fig. 11 Overview of last mood inputs on the website. The white lines represent the individual values manually entered by the user, and the grey line represents the average of all users in the system "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      118,
+      87,
+      879,
+      483
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      60
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/d39a197d176f1ba9a2e996af2938889526bfba7a97e0be91b64042e3654829a1.jpg",
+    "image_caption": [
+      "Fig. 12 Website showing drivers of activity, happiness, and stress "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      120,
+      87,
+      876,
+      471
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      209,
+      953
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_6543180/auto/images/2b3b0612c3dfdc0e1fb68b466a4ea8e2d2533abb70be6cf6df021fcf72a09b48.jpg",
+    "image_caption": [
+      "Fig. 13 Website shwing who is infuencing the mood of a person "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      118,
+      84,
+      876,
+      483
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      113,
+      549,
+      239,
+      567
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "1. Ekman, P. (Ed.). (2008). Emotional awareness: Overcoming the obstacles to psychological balance and compassion: A conversation between the Dalai Lama and Paul Ekman. New York: Times Books.   \n2. Lazarus, R. S. (1991). Emotion and adaptation. Oxford: Oxford University Press.   \n3. Frey, B. S., & Stutzer, A. (2018). Economics of happiness. New York: Springer International Publishing.   \n4. Oswald, A. J., Proto, E., & Sgroi, D. (2015). Happiness and Productivity. Journal of Labor Economics, 33(4), 789–822.   \n5. Amabile, T. M., Barsade, S. G., Mueller, J. S., & Staw, B. M. (2005). Afect and creativity at work. Administrative Science Quarterly, 50(3), 367–403.   \n6. Robertson, I., & Cooper, C. (2011). Well-being: Productivity and happiness at work. London: Palgrave Macmillan.   \n7. Judge, T. A., & Kammeyer-Mueller, J. D. (2011). Happiness as a societal value. Academy of Management Perspectives, 25(1), 30–41.   \n8. Sharifzadeh, M., & Almaraz, J. (2014). Happiness and productivity in the workplace. American Journal of Management, 14(4), 19–26.   \n9. Kahneman, D., & Krueger, A. B. (2006). Developments in the measurement of subjective wellbeing. Journal of Economic Perspectives, 20(1), 3–24.   \n10. Wang, J., Chen, Y., Hao, S., Peng, X., & Hu, L. (2019). Deep learning for sensor-based activity recognition: A survey. Pattern Recognition Letters, 119, 3–11.   \n11. Rus, S., Joshi, D., Braun, A., & Kuijper, A. (2018). The emotive couch: Learning emotions by capacitively sensed. Procedia Computer Science, 130, 263–270.   \n12. Blanchfower, D. G., & Oswald, A. J. (2011). International happiness: A new view on the measure of performance. Academy of Management Perspectives, 25(1), 6–22.   \n13. Gloor, P. A. (2017). Sociometrics and human relationships: Analyzing Social networks to manage brands, predict trends, and improve organizational performance (1st ed.). Bingley: Emerald Publishing.   \n14. Gloor, P., Colladon, A. F., Giacomelli, G., Saran, T., & Grippa, F. (2017). The impact of virtual mirroring on customer satisfaction. Journal of Business Research, 75, 67–76.   \n15. Heisenberg, W. (1927). Über den anschaulichen: Inhalt der quantentheoretischen Kinematik und Mechanik. Zeitschrift für Physik, 43(3–4), 172–198.   \n16. Gloor, P. A. (2017). Swarm leadership and the collective mind: Using Collaborative innovation networks to build a better business. Bingley: Emerald Publishing.   \n17. Diener, E. (2000). Subjective well-being: The science of happiness and a proposal for a national index. American psychologist, 55(1), 34.   \n18. Kesebir, P., & Diener, E. (2009). In pursuit of happiness: Empirical answers to philosophical questions. In The science of well-being (pp. 59–74). Dordrecht: Springer.   \n19. Fisher, C. D. (2010). Happiness at work. International Journal of Management Reviews, 12(4), 384–412.   \n20. Kahneman, D., Krueger, A. B., Schkade, D. A., Schwarz, N., & Stone, A. A. (2004). A survey method for characterizing daily life experience: The day reconstruction method. Science, 306(5702), 1776–1780.   \n21. Watson, D., Clark, L. A., & Carey, G. (1988). Positive and negative afectivity and their relation to anxiety and depressive disorders. Journal of Abnormal Psychology, 97(3), 346.   \n22. Amabile, T. M., Whitney, D., Weinstock, J., Miller, L., & Fallang, C. (1997). “What Really Happens in Creative Projects: Event Sampling Through Electronic Data Collection.” Harvard Business School Working Paper, No. 98-036.   \n23. Amabile, T., & Kramer, S. (2011). The progress principle: Using small wins to ignite joy, engagement, and creativity at work. Boston: Harvard Business Review Press.   \n24. Baron, R. A., Fortin, S. P., Frei, R. L., Hauver, L. A., & Shack, M. L. (1990). Reducing organizational confict: The role of socially-induced positive afect. International Journal of Confict Management., 1, 133–152.   \n25. Yano, K., Akitomi, T., Ara, K., Watanabe, J., Tsuji, S., Sato, N., … Moriwaki, N. (2015, June). Profting from IoT: The key is very-large-scale happiness integration. In 2015 Symposium on VLSI Technology (VLSI Technology) (pp. C24-C27). IEEE.   \n26. Khan, A. M., & Lawo, M. (2016, September). Developing a system for recognizing the emotional states using physiological devices. In 2016 12th International Conference on Intelligent Environments (IE) (pp. 48–53). IEEE.   \n27. Nguyen, N. T., Nguyen, N. V., Tran, M. H. T., & Nguyen, B. T. (2017, October). A potential approach for emotion prediction using heart rate signals. In 2017 9th International Conference on Knowledge and Systems Engineering (KSE) (pp. 221–226). IEEE.   \n28. Gloor, P. A., Colladon, A. F., Grippa, F., Budner, P., & Eirich, J. (2018). Aristotle said “happiness is a state of activity”—Predicting mood through body sensing with smartwatches. Journal of Systems Science and Systems Engineering, 27(5), 586–612.   \n29. Witten, I. H., Frank, E., & Hall, M. A. (2011). Data mining: Practical machine learning tools and techniques (3rd ed.). Amsterdam: Elsevier/Morgan Kaufmann.   \n30. Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking (1st ed.). Sebastopol, CA: O’Reilly Media. ",
+    "bbox": [
+      118,
+      584,
+      886,
+      899
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      785,
+      935,
+      883,
+      953
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      116,
+      48,
+      394,
+      61
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      111,
+      81,
+      886,
+      744
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afliations. ",
+    "bbox": [
+      111,
+      756,
+      883,
+      785
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "1 3 ",
+    "bbox": [
+      113,
+      935,
+      211,
+      953
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Journal of Computational Social Science ",
+    "bbox": [
+      603,
+      48,
+      883,
+      61
+    ],
+    "page_idx": 23
+  }
+]

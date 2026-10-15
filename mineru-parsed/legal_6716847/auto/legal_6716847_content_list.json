@@ -1,0 +1,3168 @@
+[
+  {
+    "type": "text",
+    "text": "legisway essentials ",
+    "text_level": 1,
+    "bbox": [
+      628,
+      42,
+      941,
+      71
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/c021e6d7070b4173ea10cb3ae2878d922742bf1bec62be1249ad78d306cc137c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      55,
+      97,
+      951,
+      765
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contracts ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      840,
+      376,
+      883
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      636,
+      706,
+      825,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Wolters Kluwer ",
+    "bbox": [
+      50,
+      29,
+      309,
+      63
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "User Manual ",
+    "bbox": [
+      60,
+      799,
+      238,
+      820
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Preface ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      87,
+      221,
+      109
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "With this manual, you will gain a basic understanding of the way the Legisway Essentials system is structured and how this impacts the way you use it in its entirety. Following this manual in order will allow you to quickly start populating your system with Contracts. ",
+    "bbox": [
+      117,
+      129,
+      882,
+      172
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "You need to be an Editor or an Administrator to make use of these instructions so please contact your Legisway Essentials Administrator if you do not have a username and password. If you require further assistance with logging in, please contact Legisway Essentials Support team. ",
+    "bbox": [
+      117,
+      187,
+      882,
+      230
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Page | 2 ",
+    "bbox": [
+      825,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Table of contents ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      87,
+      363,
+      110
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction 4 ",
+    "bbox": [
+      107,
+      143,
+      766,
+      158
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Legisway Essentials Best Practice 5 ",
+    "bbox": [
+      147,
+      174,
+      763,
+      189
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 Dashboards 6 ",
+    "bbox": [
+      114,
+      203,
+      764,
+      218
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3.1 Contracts Overview dashboard 6   \n3.2 Sub-dashboards: Contract Types 7   \n3.2.1 Sub-dashboard: Business 7   \n3.2.2 Sub-dashboard: NDAs 8   \n3.2.3 Sub-dashboard: Purchase 9 ",
+    "bbox": [
+      110,
+      225,
+      764,
+      253
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      110,
+      258,
+      764,
+      299
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "4 Create and add information 10 ",
+    "bbox": [
+      115,
+      316,
+      764,
+      329
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "4.1 Create a Business agreement 10   \n4.2 Create a Non-Disclosure Agreement 11   \n4.3 Create a Purchase agreement 13 ",
+    "bbox": [
+      114,
+      336,
+      764,
+      381
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      741,
+      336,
+      1000,
+      381
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "5 Standard Features 15 ",
+    "text_level": 1,
+    "bbox": [
+      105,
+      397,
+      764,
+      410
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      741,
+      397,
+      1000,
+      410
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "5.1 New Document 15   \n5.1.1 Drag and Drop or mail 15   \n5.1.2 Manually add a document 16   \n5.1.3 PDF preview 17   \n5.2 New Task 18   \n5.3 New Note 18   \n5.4 New Risk 19   \n5.5 Make Confidential 20   \n5.6 Invite user as viewer 22 ",
+    "bbox": [
+      92,
+      416,
+      786,
+      554
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "6 Managing a dossier 24 ",
+    "bbox": [
+      104,
+      568,
+      761,
+      582
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "6.1 Change the dossier status 24   \n6.2 Delete information 24 ",
+    "bbox": [
+      104,
+      589,
+      764,
+      619
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "7 Standard Reports & Alerts 25 ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      634,
+      764,
+      648
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      742,
+      634,
+      1000,
+      648
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "7.1 Reports 25   \n7.2 Alerts 26 ",
+    "bbox": [
+      127,
+      655,
+      766,
+      682
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page | 3 ",
+    "bbox": [
+      825,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In this manual we focus on Contracts. The main purpose of this manual is to help you, as a user, successfully complete the following tasks: ",
+    "bbox": [
+      115,
+      129,
+      858,
+      158
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Creating Contracts   \nManaging your Contracts   \nAdding information to your Contracts dossier.   \nCollecting information from a Contracts into one or multiple reports. Making use of alerts when applicable. ",
+    "bbox": [
+      146,
+      173,
+      648,
+      246
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/6dcfd74094107c2eadfdceeea9cbc4a98170c6b62943e721cd8a4d9b1171213c.jpg",
+    "image_caption": [
+      "Figure 1: Main Legal Management dashboard "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      259,
+      885,
+      332
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "From the main Legal Management dashboard, select Contracts (figure 1). ",
+    "bbox": [
+      117,
+      363,
+      620,
+      378
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page | 4 ",
+    "bbox": [
+      825,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "bbox": [
+      119,
+      87,
+      336,
+      109
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Before you can start populating your system, it is important to know that each Contract within Legisway Essentials is always based on a 3-layer data model. In order to get an idea of this model, a simplified Entity Relation Diagram (ERD) is presented below (figure 2). It is important to become familiar with this logic since it will help you to populate your system correctly. ",
+    "bbox": [
+      115,
+      129,
+      868,
+      186
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This image below is an example of a relationship model of the information types within the Legisway Essentials database. Any ‘Dossier’ information type will be directly linked to a Group Company. This links the dossier to the corporate information, which may already be present in your system. ",
+    "bbox": [
+      115,
+      200,
+      877,
+      244
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Any dossier will automatically be linked to ‘Documents’, ‘Risks’, ‘Tasks’ and ‘Notes’.   \nAll are ‘Content’ information types. ",
+    "bbox": [
+      115,
+      259,
+      687,
+      288
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A design is always based on a 3-layer data model: Entities, Dossier and Content. ",
+    "bbox": [
+      115,
+      303,
+      662,
+      318
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/02a5122453223234af8d7aeb0c9cfbb6bcaa2f09193b470e01a87a419468f417.jpg",
+    "image_caption": [
+      "Figure 2: Entity Relation Diagram (ERD) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      336,
+      848,
+      689
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Specific sub-types may be used to provide a single line in reporting, but allow for separate access and/or entry fields. E.g. a Contract may have subtypes: Business, NDA & Purchase. ",
+    "bbox": [
+      115,
+      734,
+      870,
+      763
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page | 5 ",
+    "bbox": [
+      825,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2 Legisway Essentials Best Practice ",
+    "bbox": [
+      117,
+      87,
+      615,
+      110
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 Dashboards ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      89,
+      329,
+      111
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This chapter explains the structure of the theme dashboards. In the Contracts theme there are three dossier types: Business contracts, NDAs and Purchase contracts. Your organization can have different roles within these dossier types, for example: A Group company or a Counterparty. This could vary according to your wishes. ",
+    "bbox": [
+      115,
+      130,
+      858,
+      187
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.1 Contracts Overview dashboard ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      205,
+      420,
+      221
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Selecting the Contracts theme from the main Legal Management dashboard will take you to a dashboard which provides you with several useful reports and quick links to keep track of your and your colleagues’ activity (figure 3). ",
+    "bbox": [
+      115,
+      237,
+      880,
+      282
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/faea0c2c193328204da83e30f285ba6dceb2b3d546b3dfb41d2d2b1656823ace.jpg",
+    "image_caption": [
+      "Figure 3: Dashboard Contracts overview "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      297,
+      877,
+      519
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Overviews ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      550,
+      193,
+      563
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Due $\\mathtt { < 9 0 }$ days: A view of dossiers and content with an expiration or review date coming up. ",
+    "bbox": [
+      119,
+      564,
+      737,
+      579
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Statistics: Each dashboard lets you track active and past dossiers for all parties involved: Group Companies, Counterparties, Departments, Editors, Business Owners, and more. ",
+    "bbox": [
+      115,
+      594,
+      852,
+      624
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Risks ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      642,
+      154,
+      653
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Get a quick overview of all active Risks registered within the theme, as well as the mitigating measures undertaken and risk levels. Risks are sorted in descending order of Assessment Date, so newly identified potential risks are immediately apparent. ",
+    "bbox": [
+      117,
+      656,
+      830,
+      700
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Data Quality ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      718,
+      208,
+      730
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Formerly part of the Data Quality dashboard, those reports allow Administrators to perform quick checks over the quality and consistency of their legal information across a single theme. For Contracts, the following reports are shown: ",
+    "bbox": [
+      117,
+      732,
+      870,
+      775
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Inactive Business Owners with Active Contracts Inactive Editors with Active Contracts Inactive Group Companies with Active Contracts ",
+    "bbox": [
+      146,
+      777,
+      509,
+      819
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This dashboard also lets you add Contract Models, which can be used as a repository of Standard documents for users to download and use. To add Contract Models, click [New Contract Model]. ",
+    "bbox": [
+      114,
+      835,
+      865,
+      864
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Page | 6 ",
+    "bbox": [
+      825,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.2 Sub-dashboards: Contract Types ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      85,
+      431,
+      99
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As shown in the Contracts overview dashboard, there are three sub-dashboards: Business contracts, NDAs and Purchase contracts. Each contract dashboard is explained in paragraphs below. ",
+    "bbox": [
+      115,
+      115,
+      873,
+      145
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.2.1 Sub-dashboard: Business ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      162,
+      341,
+      175
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/3e0914b73410a59731b5cf58c5ad2e289a643edcc84418170cad1d10a2088c9e.jpg",
+    "image_caption": [
+      "Figure 4: Sub-dashboard Business Agreements "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      190,
+      885,
+      600
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Part 1: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      631,
+      166,
+      644
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The module dashboard contains a blue ‘New’ button, which allows you to start quickly populating the system with information. ",
+    "bbox": [
+      146,
+      644,
+      872,
+      671
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Part 2: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      688,
+      164,
+      701
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "On the left side of the dashboard, you see some standard Status reports. These let you automatically filter Dossiers by status. Clicking one of the buttons will show you the report directly on the right. The colored square next to each Status report is reminiscent of the colors shown in Dossiers. ",
+    "bbox": [
+      163,
+      702,
+      875,
+      745
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Part 3: ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      762,
+      164,
+      774
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Below, you see some standard Overview reports. From here, you can view dossiers with an expiration or review date coming up, recently added content, open tasks, and risks. ",
+    "bbox": [
+      163,
+      776,
+      873,
+      803
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Part 4: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      820,
+      164,
+      832
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "If you decide to compose your own report, you can use the custom report buttons as shown here. You may also use the Personal Reporting feature, which is located on the upper-right hand corner. ",
+    "bbox": [
+      163,
+      834,
+      877,
+      862
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Page | 7 ",
+    "bbox": [
+      825,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/c33768d87f0811f1cca26ce4738e99a3b954957176693dddf1b23773e17c204a.jpg",
+    "image_caption": [
+      "Figure 5: Sub-dashboard Non-Disclosure Agreements "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      114,
+      887,
+      510
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Part 1: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      543,
+      166,
+      557
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The module dashboard contains a blue ‘New’ button, which allows you to start quickly populating the system with information. ",
+    "bbox": [
+      141,
+      557,
+      872,
+      585
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Part 2: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      602,
+      164,
+      614
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On the left side of the dashboard, you see some standard Status reports. These let you automatically filter Dossiers by status. Clicking one of the buttons will show you the report directly on the right. The colored square next to each Status report is reminiscent of the colors shown in Dossiers. ",
+    "bbox": [
+      159,
+      615,
+      875,
+      658
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Part 3: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      675,
+      164,
+      687
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "You will see some standard Overview reports below. From here you can view dossiers with an expiration or review date coming up, recently added content, open tasks, and risks. ",
+    "bbox": [
+      163,
+      688,
+      825,
+      717
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Part 4: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      733,
+      164,
+      745
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "If you decide to compose your own report, you can use the custom report buttons as shown here. You may also use the Personal Reporting feature, which is located on the upper-right hand corner. ",
+    "bbox": [
+      161,
+      746,
+      877,
+      775
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Page | 8 ",
+    "bbox": [
+      825,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.2.2 Sub-dashboard: NDAs ",
+    "bbox": [
+      117,
+      85,
+      314,
+      97
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/b0263b5edb92c0dd3d998ee546550706aadc4572b49058eccc6123f8e41a3491.jpg",
+    "image_caption": [
+      "Figure 6: Sub-dashboard Purchase contracts "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      112,
+      884,
+      560
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Part 1: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      594,
+      166,
+      607
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The module dashboard contains a blue ‘New’ button, which allows you to start quickly populating the system with information. ",
+    "bbox": [
+      139,
+      607,
+      872,
+      634
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Part 2: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      652,
+      164,
+      664
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "On the left side of the dashboard, you see some standard Status reports. These let you automatically filter Dossiers by status. Clicking one of the buttons will display the report directly on the right. The colored square next to each Status report is reminiscent of the colors shown in Dossiers. ",
+    "bbox": [
+      159,
+      665,
+      873,
+      708
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Part 3: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      725,
+      164,
+      737
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Below, you see some standard Overview reports. From here, you can view dossiers with an expiration or review date coming up, recently added content, open tasks, and risks. ",
+    "bbox": [
+      164,
+      738,
+      873,
+      766
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Part 4: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      783,
+      164,
+      795
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "If you decide to compose your own report, you can use the custom report buttons as shown here. You may also use the Personal Reporting feature, which is located on the upper-right hand corner. ",
+    "bbox": [
+      164,
+      796,
+      877,
+      825
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Page | 9 ",
+    "bbox": [
+      825,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.2.3 Sub-dashboard: Purchase ",
+    "bbox": [
+      117,
+      85,
+      341,
+      97
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In this chapter you will learn how to build different Contract dossier types. These types will be specifically explained in paragraphs below. ",
+    "bbox": [
+      114,
+      129,
+      838,
+      156
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The ability to add a new Contract to your Legisway Essentials system is dependent on your level of access. Generally, only Administrators and Editors can add data to a system. Navigate to the dashboard for the dossier type which you want to create content for. From there, a “New” button will be visible in blue above reports. Clicking the button will forward you to a ‘Create’ screen with some data entry fields. The data entry fields come in a wide variety, from drop-down lists where a user can select pre-determined values, to free text areas to enter data. ",
+    "bbox": [
+      115,
+      172,
+      878,
+      260
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "A list and explanation of each of these fields can be found below. Fields marked with a red asterisk $( ^ { * } )$ are required fields, trying to save the input without entering these fields will result in an error message that tells what information is missing. ",
+    "bbox": [
+      115,
+      274,
+      863,
+      319
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "When the form is filled in, click on the button [Save] to finalize the data and proceed to the created dossier. [Save & New] finalizes the data and creates a new, empty create form. [Save & Copy] finalizes the data and shows an identical, pre-filled create form. Click [Cancel] to cancel the creation of a new dossier. ",
+    "bbox": [
+      117,
+      335,
+      853,
+      381
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4.1 Create a Business agreement ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      399,
+      403,
+      413
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Navigate to the Business Contract dashboard from the Contracts Overview dashboard. On the left side, you see the blue menu item to create content. Clicking it will take you to the following Create form: ",
+    "bbox": [
+      115,
+      430,
+      868,
+      473
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/1cd08a45d5ba6fe5af819a904a8832c5c9ff24af8ef1059d00614bd6548b1a2e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      126,
+      488,
+      710,
+      953
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Page | 10 ",
+    "bbox": [
+      816,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4 Create and add information ",
+    "bbox": [
+      115,
+      87,
+      544,
+      110
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Status: When creating a new dossier, for instance a contract, the user can now select if the contract should be set as Active or as Draft from the start. These statuses can be changed on a later date. Selecting ‘Draft’ will make the Effective date optional. Editor (list): The person who is responsible for filling in this form. Group company: This a drop-down list of all Group companies previously entered. You can select multiple if needed. To search, simply type the name of the company you are looking for in the search area and click the search button underneath as shown below.   \n• Counterparty: This field allows you to either search your system for previously created companies and persons or create a new one. Generally, it is best to first search, even if you are quite sure the Counterparty you need is yet to be created. This way you avoid creating duplicates. To search, simply type the name of the company or person you are looking for in the search area and click the search button underneath as shown below.   \n• Business Owner: The person responsible for this contract on the Business side. This person will receive alerts.   \n• Applicable Law: The law applicable for this contract. Select or Search within existing jurisdictions.   \n• Department: Pre-defined drop-down list with departments or create one.   \n• Policy: Pre-defined drop-down list with Policies, for example Code of Conduct or EU competition Law   \n• Category: Pre-defined drop-down list with Categories, for example Consultancy or Sales Title: the title of the contract. For example; ‘Contract Management Software’ would be a suitable Title for the license Agreement you have with Legisway Essentials.   \n• Short Description: A short description of the contract. Amount: Final negotiated or proposed price of a contract. Term: Pre-defined drop-down list with Term options, for example Fixed or Rolling.   \n• Automatic renewal: Whether manually renewed or not, the contract automatically renews after the (initial) term.   \n• Termination notice: The limitations given for termination, e.g.; 2 months written notice. Renewal options: Options given for renewal after the (initial) term, e.g.: Automatic renewal with 12 months. Notice date: This is the date created by withdrawing the Termination term (e.g. 2 months) from the Expiration date. For contracts without an expiration date this would be a date at which you want to review the contract. This date is used by the system to send automated email notifications (Alerts). See for more information chapter 7. Expiration date: The date stating the end of term of the contract. Effective date (date field): Date on which the contract took effect. ",
+    "bbox": [
+      144,
+      112,
+      878,
+      624
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4.2 Create a Non-Disclosure Agreement ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      637,
+      460,
+      651
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Navigate to the NDAs dashboard from the Contracts Overview dashboard.   \nOn the left side, you will see the blue menu item to create content. Clicking it will take you to the following Create form (figure 8): ",
+    "bbox": [
+      115,
+      667,
+      850,
+      711
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Page | 11 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/17d778e6a625e4f51e35339325dc733a9c31d307ac291bf60daba8aa116beb56.jpg",
+    "image_caption": [
+      "Figure 8: Create a Non-Disclosure Agreement "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      183,
+      78,
+      768,
+      505
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Status: When creating a new dossier, for instance a contract, the user can now select if the contract should be set as Active or as Draft from the start. These statuses can be changed on a later date. Selecting ‘Draft’ will make the Effective date optional. ",
+    "bbox": [
+      147,
+      539,
+      862,
+      582
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Editor (list): The person who is responsible for filling in this form. ",
+    "bbox": [
+      147,
+      583,
+      618,
+      598
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Group company: This a drop-down list of all Group companies previously entered. You can select multiple if needed. To search, simply type the name of the company you are looking for in the search area and click the search button underneath as shown below. ",
+    "bbox": [
+      146,
+      599,
+      872,
+      642
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Counterparty: This field allows you to either search your system for previously created companies and persons or create a new one. Generally, it is best to first search, even if you are quite sure the Counterparty you need is yet to be created. This way you avoid creating duplicates. To search, simply type the name of the company or person you are looking for in the search area and click the search button underneath as shown below. ",
+    "bbox": [
+      146,
+      643,
+      877,
+      714
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Business Owner: The person responsible for this contract on the Business side. This person will receive alerts. ",
+    "bbox": [
+      147,
+      717,
+      878,
+      744
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Applicable Law: The law applicable for this contract. Select or Search within existing jurisdictions. ",
+    "bbox": [
+      154,
+      746,
+      840,
+      759
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Department: Pre-defined drop-down list with departments or create one. ",
+    "bbox": [
+      151,
+      762,
+      692,
+      775
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Title: the title of the contract. For example; ‘Contract Management Software’ would be a suitable Title for the license Agreement you have with Legisway Essentials. ",
+    "bbox": [
+      146,
+      777,
+      877,
+      804
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Short Description: A short description of the contract. ",
+    "bbox": [
+      151,
+      807,
+      544,
+      819
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Amount: Final negotiated or proposed price of a contract. ",
+    "bbox": [
+      144,
+      822,
+      569,
+      835
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Term: Pre-defined drop-down list with Term options, for example Fixed or Rolling. ",
+    "bbox": [
+      147,
+      837,
+      742,
+      850
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Automatic renewal: Whether manually renewed or not, the contract automatically renews after the (initial) term. ",
+    "bbox": [
+      149,
+      852,
+      860,
+      879
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Termination notice: The limitations given for termination, e.g. 2 months written notice. ",
+    "bbox": [
+      151,
+      882,
+      778,
+      896
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Page | 12 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Renewal options: Options given for renewal after the (initial) term, e.g.: Automatic renewal with 12 months. • Notice date: This is the date created by withdrawing the Termination term (e.g. 2 months) from the Expiration date. For contracts without an expiration date this would be a date at which you want to review the contract. This date is used by the system to send automated email notifications (Alerts). See for more information chapter 7. Expiration date: The date stating the end of term of the contract. Effective date (date field): Date on which the contract took effect. ",
+    "bbox": [
+      142,
+      85,
+      860,
+      203
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "4.3 Create a Purchase agreement ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      221,
+      408,
+      235
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Navigate to the Purchase Contract dashboard from the Contracts Overview dashboard. On the left side, you see the blue menu item to create content. Clicking it will take you to the following Create form (figure 9): ",
+    "bbox": [
+      115,
+      250,
+      872,
+      294
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/09bded7c25262b4371840a5423505111637f6a0fdf3f06feebd75edca6def137.jpg",
+    "image_caption": [
+      "Figure 9: Create a Purchase agreement "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      309,
+      791,
+      768
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Status: When creating a new dossier, for instance a contract, the user can now select if the contract should be set as Active or as Draft from the start. These statuses can be changed on a later time. Selecting ‘Draft’ will make the Effective date optional.   \nEditor (list): The person who is responsible for filling in this form.   \nGroup company: This a drop-down list of all Group companies previously entered. You can select multiple if needed. To search, simply type the name of the company you are looking for in the search area and click the search button underneath as shown below.   \n• Counterparty: This field allows you to either search your system for previously created companies and persons or create a new one. It is recommended to search first, even if you are quite sure the Counterparty you need is yet to be created, in order to avoid creating duplicates. To search, simply type the name of the company or person you are looking for in the search area and click the search button underneath as shown below.   \n• Business Owner: The person responsible for this contract on the Business side. Will get alerts.   \n• Applicable Law: The law applicable for this contract. Select or Search within existing jurisdictions.   \n• Department: Pre-defined drop-down list with departments or create one. Title: the title of the contract. For example; ‘Contract Management Software’ would be a great Title for the license Agreement you have with Legisway Essentials.   \n• Short Description: A short description of the contract.   \n• Amount: Final negotiated or proposed price of a contract.   \n• Payment Terms: Terms according to which the amount will be paid.   \n• Incoterms: Relevant contractually agreed Incoterms if any.   \n• Term: Pre-defined drop-down list with Term options, for example Fixed or Rolling.   \n• Automatic renewal: Whether manually renewed or not, the contract automatically renews after the (initial) term.   \n• Termination notice: The limitations given for termination, e.g.; 2 months written notice. Renewal options: Options given for renewal after the (initial) term, e.g.: Automatic renewal with 12 months.   \n• Effective date (date field): Date on which the contract took effect. Notice date: This is the date created by withdrawing the Termination term (e.g. 2 months) from the Expiration date. For contracts without an expiration date this would be a date at which you want to review the contract. This date is used by the system to send automated email notifications (Alerts). See for more information chapter 7. Expiration date: The date stating the end of term of the contract. Remarks: A free text area allowing you to add extensive additional information ",
+    "bbox": [
+      146,
+      800,
+      872,
+      903
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Page | 13 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      144,
+      98,
+      877,
+      501
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Page | 14 ",
+    "bbox": [
+      816,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "5 Standard Features ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      87,
+      416,
+      109
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "You are now able to create a dossier with general information and extra information. In every dossier there are also some standard features available. With this feature you can add extra content to the dossier. This chapter contains an explanation of each feature. ",
+    "bbox": [
+      117,
+      129,
+      877,
+      172
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.1 New Document ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      190,
+      295,
+      205
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "This section will give you an explanation about uploading documents to your dossier. ",
+    "bbox": [
+      117,
+      221,
+      697,
+      235
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.1.1 Drag and Drop or mail ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      253,
+      321,
+      267
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Drag and Drop allows you to quickly add one or multiple files (all types of files are supported) from your computer to a dossier, as shown in below (figure 10). ",
+    "bbox": [
+      114,
+      281,
+      830,
+      311
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/3b9c22851e91996ad90830959bb5fd2fb22563bfcc28ec8d04e8f294293b032d.jpg",
+    "image_caption": [
+      "Figure 10: Add documents to a dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      325,
+      884,
+      497
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "To drop a document, click and hold the document from your computer and drag it to the box “Drag and drop documents here or mail”. This will start uploading the document(s). The progress of the upload is indicated at the top of the screen. ",
+    "bbox": [
+      115,
+      527,
+      872,
+      570
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NOTE: It is not possible to drag a file from an email. It needs to be saved on your computer, before you can upload it to Legisway Essentials. ",
+    "bbox": [
+      114,
+      587,
+      850,
+      615
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NOTE: It is possible to add multiple documents to the same dossier or folder. However, we suggest that you limit this to five at a time as not all browsers can handle an amount greater than that. ",
+    "bbox": [
+      114,
+      630,
+      853,
+      658
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "To mail a document, mail the document from your mail account to the referred mail address in the red box.   \nThis will automatically add the document to the dossier. ",
+    "bbox": [
+      115,
+      674,
+      855,
+      702
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Once added, the document(s) will appear under the ‘Documents’ tab (figure 11). ",
+    "bbox": [
+      117,
+      717,
+      668,
+      731
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/2b99a11bf14ff171735e7953eaa4a4b6962af721034ffa56a7c1b67421337dd5.jpg",
+    "image_caption": [
+      "Figure 11: Added documents is a dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      745,
+      877,
+      894
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Page | 15 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.1.2 Manually add a document ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      116,
+      351,
+      129
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "To manually create a new document, go to the dossier page and click [Add Document] at the right menu of the screen. ",
+    "bbox": [
+      112,
+      145,
+      875,
+      173
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      139,
+      206,
+      284,
+      224
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Clicking the button will forward you to a ‘Create’ screen which is quite similar in its functionality to other create screens in the system. An explanation of each field is given below (figure 12). ",
+    "bbox": [
+      115,
+      261,
+      878,
+      291
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/2f366c9e15cbd7309ca178f9c0176231c801c2c3c48615dfd4e9d394156e6fa2.jpg",
+    "image_caption": [
+      "Figure 12: Create a Document "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      304,
+      884,
+      495
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "• Dossiers: Pre-defined text containing the agreement to where the document will be created   \n• Name: name of the document   \n• Date: Date of when the contract/ agreement in the file was signed. (Or upload date of the file attached)   \n• File: Browse and upload a file to attach it as a document to the contract/ agreement ",
+    "bbox": [
+      146,
+      525,
+      818,
+      600
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "When finished, click on the [Save] button, the newly created document is visible on the Documents tab (figure 13). Or if you want to upload more documents, click [Save & New] or [Save & Copy]. Click [Cancel] to cancel the creation of a new document. ",
+    "bbox": [
+      119,
+      614,
+      877,
+      658
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/9c9ce07b493218e6890f2ff745414f3dc9536562b9105fd79441cc1c29d477e1.jpg",
+    "image_caption": [
+      "Figure 13: Documents is a dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      671,
+      882,
+      891
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Page | 16 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "5.1.3 PDF preview ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      85,
+      253,
+      98
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "If you added some documents to the dossier, it is possible to have a quick look by using the tab PDF preview (figure 14). ",
+    "bbox": [
+      115,
+      114,
+      862,
+      142
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/90c2bdca5f2705e89e7886623a7f347adfa577c4c82c16db392fa68bee878959.jpg",
+    "image_caption": [
+      "Figure 14: PDF previewer "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      156,
+      882,
+      456
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The PDF preview function offers various navigation buttons and tools, each of them are explained below. ",
+    "bbox": [
+      115,
+      487,
+      835,
+      502
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/dfe21f2ed02a9940777183c412c820b53323026432741b950610691c64baa48b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      127,
+      517,
+      710,
+      557
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/03a0e61d386dd6551af4f3a346741227ff6ca7db7a9874b5491cd095402c5000.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      183,
+      570,
+      749,
+      833
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Page | 17 ",
+    "bbox": [
+      816,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5.2 New Task ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      85,
+      245,
+      99
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "You can find a detailed manual on how to use the new Tasks and Task Workflows here. ",
+    "bbox": [
+      115,
+      115,
+      712,
+      130
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "It could be that the Workflow manager is disabled for your system. Please contact your consultant or Account manager to Activate this. ",
+    "bbox": [
+      114,
+      145,
+      868,
+      173
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "5.3 New Note ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      192,
+      250,
+      206
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "To create a new note, go to any dossier page and click [Add Note] at the right menu of the screen. ",
+    "bbox": [
+      114,
+      222,
+      786,
+      236
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      124,
+      263,
+      196,
+      278
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Clicking the button will forward you to a ‘Create’ screen which is quite similar in its functionality to other ‘Create’ screens in the system. An explanation of each field is given below (figure 15). ",
+    "bbox": [
+      117,
+      309,
+      835,
+      337
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/fc502feafc4cd157b392c46246a41a1d728237f771b790be839a305cdc1cf63a.jpg",
+    "image_caption": [
+      "Figure 15: Create a new Note "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      353,
+      880,
+      551
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "• Matter: Pre-defined text containing the dossier name to where the note will be created. • Note: A free text area allowing you to add extensive additional information about the not ",
+    "bbox": [
+      146,
+      582,
+      789,
+      611
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "When finished, click on the [Save] button, the newly created note is visible on the ‘Notes’ tab (figure 16). Or if you want to create more notes, click [Save & New] or [Save & Copy]. Click [Cancel] to cancel the creation of a new note. This feature is more commonly used to give status updates about this dossier. That way anyone navigating to this dossier can track its progress. ",
+    "bbox": [
+      115,
+      626,
+      870,
+      684
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/b5e176a68726bc009a3308d2450328f398c04f6b8c44f6c142dd287f59aa38f0.jpg",
+    "image_caption": [
+      "Figure 16 : Add notes to a dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      697,
+      877,
+      810
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Page | 18 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "5.4 New Risk ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      85,
+      242,
+      98
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Risks can be added from every Dossier in the same manner by using the “Add Risk” button in the right-hand panel: ",
+    "bbox": [
+      117,
+      117,
+      857,
+      146
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      134,
+      174,
+      203,
+      189
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/699a997c24b56c22d59f4d155ae452d54c57d1c0b5ad742f6c82419b8e08446c.jpg",
+    "image_caption": [
+      "Figure 17: Create a Risk "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      218,
+      884,
+      510
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "• Dossier: The Dossier for which the Risk is added. This is filled automatically.   \n• Title: Give the Risk a short, clear title. This will be shown in reports.   \n• Risk Type: Select a category for the Risk. As standard, Risks can be Legal, Financial, or Operational.   \n• Assessment Date: The Date on which the Risk was identified and assessed.   \n• Risk Level: Attribute a Risk level to the Risk. This determines a priority for it.   \n• Mitigating Measures: Write out a descriptive explanation of the mitigating measures undertaken. ",
+    "bbox": [
+      144,
+      545,
+      850,
+      636
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Once you are done filling in the form, click “Save” to register the Risk. It will appear in reports throughout the system so users can keep track of them. ",
+    "bbox": [
+      115,
+      651,
+      867,
+      681
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Page | 19 ",
+    "bbox": [
+      816,
+      941,
+      882,
+      953
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "5.5 Make Confidential ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      84,
+      317,
+      99
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Each dossier type can be set as confidential for one or more persons by using the button [Make Confidential] at the right menu of the screen. This can be used as a very flexible way of setting some dossiers aside for those who are not allowed to see. ",
+    "bbox": [
+      115,
+      115,
+      880,
+      159
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Clicking the button will show you a notification. If you decide to invite the persons who need access to this dossier, click the [Submit] button (figure 18). ",
+    "bbox": [
+      115,
+      236,
+      848,
+      266
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/ba0a63d284acfec6b6b540123d1141a257adf647c0d4325d2336a0e93f26e8ea.jpg",
+    "image_caption": [
+      "Figure 18: Notification after making a dossier confidential "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      279,
+      880,
+      394
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "To invite users, go to the dossier page and click [Invite Users as viewer] at the right menu of the screen. Clicking the button will forward you to a screen in which you can select or search a person(s) to invite to this confidential item (figure 19). ",
+    "bbox": [
+      115,
+      425,
+      882,
+      468
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/3b7b7e82a8e98e47ab43af8e9d8c297cca4bc20c465823db46c80141da25c72e.jpg",
+    "image_caption": [
+      "Figure 19: Invite users to a confidential dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      115,
+      482,
+      878,
+      695
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Select the persons who may see this dossier. ",
+    "bbox": [
+      117,
+      727,
+      423,
+      740
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "When finished, click the [Submit] button. The person will receive an invitation automatically by e-mail to view the dossier. Clicking the button [View dossier] will redirect the user to the dossier. ",
+    "bbox": [
+      114,
+      756,
+      868,
+      784
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Page | 20 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      119,
+      173,
+      401,
+      221
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/ac6f5922b6edc027c86332c502257e494936f0355d1de17230b99912d79ce234.jpg",
+    "image_caption": [
+      "Figure 20: Email that is sent to users allowed to see a confidential dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      83,
+      615,
+      310
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "A new field, “Confidential” appears on the left side of the factsheet as well as a tab with the Users who have access to this dossier (figure 21). ",
+    "bbox": [
+      114,
+      344,
+      858,
+      373
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/35490d96a8e0b3a0dfc2e9e8f65097b72a66dc5be0b045b7ce3d58e17c6b551b.jpg",
+    "image_caption": [
+      "Figure 21: A confidential dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      388,
+      884,
+      520
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Access: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      552,
+      169,
+      564
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Only the Editor responsible and the people who are invited to this dossier will be able to see it. The responsible Editor is now the one who can manage data for this file or dossier. Therefore, all other invitees can track its progress. The big exception however is the person(s) with the Editor+ Admin role. Users with this role can always see the confidential items and can change the confidential status. ",
+    "bbox": [
+      117,
+      567,
+      878,
+      623
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "How to change the confidential status: ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      639,
+      388,
+      652
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "If, for some reason, one of the users may not view the dossier anymore, the responsible Editor can decide to remove the user with access out of the tab (figure 22). ",
+    "bbox": [
+      115,
+      653,
+      862,
+      682
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/9ba02ba69a8fe30b86911f76b4546f83bb1c7d8be30b2d3a04207d8b62233980.jpg",
+    "image_caption": [
+      "Figure 22: List with users with access to a confidential dossier "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      695,
+      880,
+      839
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "If the dossier needs to be accessible for everyone, the responsible Editor can decide to make this dossier public by clicking [Make Public] at the right menu of the screen. ",
+    "bbox": [
+      114,
+      871,
+      877,
+      901
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Page | 21 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Clicking this button will display a screen like the picture below (figure 23). ",
+    "bbox": [
+      117,
+      141,
+      621,
+      155
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/15aba7b1ca0ce60fc5b7c911356018ab34b615af5d18b1b51d23286944a07e0a.jpg",
+    "image_caption": [
+      "Figure 23: Notification when making a confidential dossier public "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      168,
+      882,
+      286
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "If you are sure about to change the status to public, click the [Submit] button. The dossier can now be viewed by other users. The red confidential text has disappeared. ",
+    "bbox": [
+      110,
+      317,
+      867,
+      346
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "5.6 Invite user as viewer ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      378,
+      332,
+      393
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "The [Invite users as viewer] feature can be used on confidential as well as non-confidential dossiers and folders. ",
+    "bbox": [
+      114,
+      410,
+      878,
+      424
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "The main purpose of this functionality is to allow you to share specific dossiers with others without granting them access to all dossiers of the type. Situations might occur where this feature could be useful: ",
+    "bbox": [
+      117,
+      439,
+      858,
+      470
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "E.G. Through Access Control, administrators have assigned access rights based on modules (e.g. contracts) or matter types (e.g. sales agreement). Ideally, a sales colleague should have been granted access to matter type: sales agreement. Meaning, he/she will be able to view all sales agreements if no additional limitations have been set. However, if it is an IT-related sales agreement, we might want to grant an IT-colleague access to that specific agreement without granting access to all sales agreement. ",
+    "bbox": [
+      115,
+      485,
+      877,
+      561
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "In another example, users might want to grant access to a matter (one specific non-disclosure agreement) without granting access to all matters (all non-disclosure agreements). In order to do so, administrators and editors can invite additional users as viewers. As a result, colleagues can follow the progress and developments of important matters when needed. ",
+    "bbox": [
+      115,
+      577,
+      878,
+      637
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "In your Legisway Essentials environment, please navigate to a specific dossier and click on [Invite users as viewers]: ",
+    "bbox": [
+      112,
+      652,
+      838,
+      682
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/f846f8c64bd4dc55f64937c86bac86354a98e82ad8bb60e4d93aa68707719c26.jpg",
+    "image_caption": [
+      "Figure 24: Invite users as viewer button "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      696,
+      448,
+      739
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Page | 22 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      119,
+      83,
+      381,
+      124
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "In the next screen, you will able to search for specific users and select them accordingly. When finished, click on the submit button: ",
+    "bbox": [
+      115,
+      84,
+      880,
+      114
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/cd32787adc993d0edf5a6407b022782d79e2cb215aa6afb5cba1f6eb4bfa055c.jpg",
+    "image_caption": [
+      "Figure 25: User selection screen "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      129,
+      877,
+      282
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Subsequently, the invited user will receive an email notification that will direct them to the dossier: ",
+    "bbox": [
+      115,
+      313,
+      796,
+      328
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/e39d54e4950492db2de5d6dfdb28c454622c09a5ce1edf37a9b49cb7de57ffd8.jpg",
+    "image_caption": [
+      "Figure 26: email notification to invited user "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      341,
+      615,
+      570
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Ultimately, a new tab will appear on the dossier [Users with access] that provides an overview of all invited users. Within this tab, you can also revoke the access rights by simply clicking the cross button. ",
+    "bbox": [
+      114,
+      604,
+      852,
+      632
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/bfc4dc92751f61b9d6c6ef67d5d911ae41f36fdbc44fbe7bb7d242606d4f3465.jpg",
+    "image_caption": [
+      "Figure 26: Users with access overview "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      121,
+      646,
+      880,
+      791
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Important to note; once access rights have been revoked, users will be notified by another email notification that they no longer can access the dossier. ",
+    "bbox": [
+      114,
+      822,
+      865,
+      851
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Page | 23 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Managing a dossier ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      87,
+      430,
+      111
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "After reading this chapter you know how to manage a dossier and delete data from your system. ",
+    "bbox": [
+      117,
+      129,
+      779,
+      143
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "6.1 Change the dossier status ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      161,
+      378,
+      177
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Each dossier data will be managed by the Editor of the dossier. He or she will be able to: ",
+    "bbox": [
+      117,
+      192,
+      721,
+      206
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Edit information by using the pencil button. When satisfied with the changes, click [Save] to finalize the update. All reports and screens in the system containing this data will automatically be updated. ",
+    "bbox": [
+      146,
+      221,
+      616,
+      279
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/3110eb8e676eabc146c7b9faf2806680573be79ae0e46407ebbe2e3c3db9fec1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      642,
+      221,
+      880,
+      281
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Change the status of the dossier: ",
+    "bbox": [
+      147,
+      309,
+      405,
+      322
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "o Set as draft: For example, if the effective date of the dossier is unknown.   \no Make Inactive: If the dossier can be archived.   \no Make Active: If all the necessary information within the dossier is presented.   \no Mark as cancelled: If the dossier no longer needs to be in the system. ",
+    "bbox": [
+      206,
+      323,
+      621,
+      425
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/9dea30d69d699383fc97a78b0bae6c38a25c28936e75f5813b44fd6c7a157319.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      642,
+      304,
+      880,
+      365
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/fe6eb92373f236f2146d83823557b946a487666278ef15cdfc70b09f0333f330.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      642,
+      376,
+      880,
+      434
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "6.2 Delete information ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      470,
+      322,
+      486
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "When you delete information, no history of the subject remains in the system. Keep in mind that archiving information is preferable in most situations. Only delete information when the information itself was added incorrectly or when the information should not be available ever again. ",
+    "bbox": [
+      115,
+      502,
+      858,
+      545
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "If a user deletes information from the database it will create a ‘hole’ in the database information. It is important to note that the retrieval of deleted or missing information can cost upwards of €500 due to how the system is set up, hence why it is best to archive if unsure. ",
+    "bbox": [
+      115,
+      560,
+      878,
+      604
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "When you are sure about not needing information again, an explanation about how and when deleting information can be carried out is provided below. For example, a wrong contract/ agreement needs to be deleted from the database. Jump to the factsheet that needs to be deleted and choose [Delete] in the menu at the right. ",
+    "bbox": [
+      115,
+      618,
+      878,
+      676
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Only the factsheet will be deleted, all other information will still be available in the database such as the previously linked Group company, Counterparty, Department, Documents, Notes, Risks and Tasks. The Legisway Essentials system will always ask a user if they are completely sure about deleting the information in a second screen. ",
+    "bbox": [
+      115,
+      690,
+      882,
+      749
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      164,
+      783,
+      253,
+      803
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/974f37e9349981cb943cb474873fc543b5759f1eb5e75f37b34b8150c4db4d2c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Remove subject</td></tr><tr><td></td></tr><tr><td>Removal of asubject cannotbe undone!</td></tr></table>",
+    "bbox": [
+      514,
+      762,
+      805,
+      827
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Page | 24 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "7 Standard Reports & Alerts ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      89,
+      522,
+      111
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Not only can you easily search for information within the system, it’s also possible to compile important information into one overview, also known as a report. Next to the well-known Custom report button, each dashboard contains some standard reports which are available on the left side of your screen. ",
+    "bbox": [
+      117,
+      130,
+      882,
+      173
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "7.1 Reports ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      192,
+      231,
+      206
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "These reports contain valuable information and can be reviewed on the right side of your screen, immediately after clicking one of the buttons. This functionality works very quickly and effortlessly, an explanation of each report is given below. ",
+    "bbox": [
+      117,
+      222,
+      882,
+      265
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Status Reports: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      281,
+      221,
+      296
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 1, 2, 3, 4: Active, Draft, Inactive, Cancelled ",
+    "bbox": [
+      117,
+      310,
+      465,
+      324
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "An overview of all the Active, Draft, Inactive or Cancelled dossiers within the theme. ",
+    "bbox": [
+      146,
+      340,
+      653,
+      368
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Overviews: ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      386,
+      194,
+      399
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 1: Added $\\$ 30$ days ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      414,
+      299,
+      429
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "• An overview containing all Dossiers added within the last month. ",
+    "bbox": [
+      146,
+      444,
+      621,
+      458
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 2: Due $\\textless 9 0$ days ",
+    "bbox": [
+      117,
+      473,
+      285,
+      487
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "An overview containing all Dossiers with an expiration or review date in less than 90 days. ",
+    "bbox": [
+      146,
+      504,
+      653,
+      531
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 3: Open Tasks ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      546,
+      267,
+      560
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "An overview containing all open tasks related to Dossiers within the theme. ",
+    "bbox": [
+      146,
+      576,
+      653,
+      604
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 4: Risks ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      620,
+      223,
+      634
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "• An overview containing all Risks related to Dossiers within the theme. ",
+    "bbox": [
+      147,
+      650,
+      653,
+      664
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/11001ca87b303f37ae74ad550e90fa93416c62c3346688629560812c8c34d163.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td> Status</td></tr><tr><td>Active</td></tr><tr><td>Draft</td></tr><tr><td>Inactive</td></tr><tr><td>Cancelled</td></tr><tr><td> Overviews</td></tr><tr><td> Added &lt;30 Days</td></tr><tr><td>Due &lt; 90 days</td></tr><tr><td>Open Tasks Risks</td></tr><tr><td></td></tr><tr><td>Custom Report Custom Report</td></tr></table>",
+    "bbox": [
+      672,
+      315,
+      892,
+      664
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Custom Report: ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      680,
+      225,
+      694
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Report 1: Custom Report ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      709,
+      292,
+      722
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Use this button if you want to create your own report. You can also use the Personal Reporting feature. ",
+    "bbox": [
+      147,
+      740,
+      878,
+      755
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Page | 25 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "7.2 Alerts ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      85,
+      215,
+      99
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "One of the powerful functionalities within Legisway Essentials is the Alert. Alerts are automatically generated email messages to a predefined group of Users on a predefined alert date. For example, a contract/ agreement needs to be reviewed on time, otherwise your contract/ agreement will expire. Expiration of the contract/ agreement can be avoided by configuring an alert. ",
+    "bbox": [
+      117,
+      115,
+      882,
+      173
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "The number of times the system will send an alert depends on the configured frequency. For example, a frequency of 30 days means that the system will send an alert to the receivers every month. ",
+    "bbox": [
+      115,
+      189,
+      880,
+      216
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "A commonly used Alert is the “Contract with an alert date $\\mathtt { < 9 0 }$ days” alert. The example below gives you an explanation how it works. All alerts work the same way and the field that triggers them is indicated. ",
+    "bbox": [
+      115,
+      231,
+      878,
+      260
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Example: ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      277,
+      183,
+      288
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "The contract(s) must be reviewed on 31/01/2018 (Figure). The editor will receive the first Alert mail, 90 days before the review date. This means that if the frequency is set to 30 days, the Editor and Business Owner will receive 3 Alert mails. This e-mail contains the contract or contracts that need to be reviewed (figure 24). ",
+    "bbox": [
+      117,
+      290,
+      884,
+      332
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/551562423446a1acf9557e44a400c07a83cd58765ef60b6bd14dbae7188c4b16.jpg",
+    "image_caption": [
+      "Figure 24: Email that contains an Alert "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      346,
+      882,
+      545
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "How to stop the Alert mail? ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      579,
+      312,
+      593
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "If you no longer wish to receive an alert mail, you can stop this notification by simply archiving the contract using the button [Make inactive] (figure 25). ",
+    "bbox": [
+      114,
+      607,
+      882,
+      636
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/4e6c46c295563e3055950c8d08693ba0490c826ab20c5c2834a857bcb533cf19.jpg",
+    "image_caption": [
+      "Figure 25: Stopping an alert "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      650,
+      884,
+      873
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Page | 26 ",
+    "bbox": [
+      816,
+      940,
+      882,
+      953
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Clicking the button [Make Inactive] will forward you to a pop-up screen. Here you can set the Inactive as of date.   \nIf you click at the button [Submit], the contract will be archived automatically (figure 26). ",
+    "bbox": [
+      115,
+      83,
+      878,
+      112
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_6716847/auto/images/d9919b078f36452656de8c7aa1737e075b024105d9e550002409c489d7ab9fc5.jpg",
+    "image_caption": [
+      "Figure 26: Notification when making a dossier inactive "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      126,
+      884,
+      300
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Page | 27 ",
+    "bbox": [
+      816,
+      941,
+      880,
+      953
+    ],
+    "page_idx": 26
+  }
+]

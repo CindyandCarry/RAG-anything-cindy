@@ -1,0 +1,1758 @@
+[
+  {
+    "type": "text",
+    "text": "How Monitoring Systems Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      95,
+      869,
+      229
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103   \nRevision 0 ",
+    "bbox": [
+      81,
+      258,
+      330,
+      301
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "by Dennis Bouley ",
+    "bbox": [
+      83,
+      334,
+      264,
+      353
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Executive summary ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      511,
+      401,
+      534
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Surprise incidences of downtime in server rooms and remote wiring closets lead to sleepless nights for many IT managers. Most can recount horror stories about how bad luck, human error, or just simple incompetence brought their server rooms down. This paper analyzes several of these incidents and makes recommendations for how a basic monitoring system can help reduce the occurrence of these unanticipated events. ",
+    "bbox": [
+      112,
+      544,
+      545,
+      702
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contents ",
+    "text_level": 1,
+    "bbox": [
+      647,
+      491,
+      758,
+      507
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Click on a section to jump to it ",
+    "bbox": [
+      647,
+      510,
+      838,
+      523
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction 2 ",
+    "bbox": [
+      650,
+      536,
+      942,
+      551
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Simple or complex? 2 ",
+    "bbox": [
+      650,
+      568,
+      942,
+      584
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The nature of human error 4 related downtime ",
+    "bbox": [
+      648,
+      598,
+      942,
+      628
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Tales of the unexpected 5 ",
+    "bbox": [
+      650,
+      642,
+      942,
+      657
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Monitoring system 5 components ",
+    "bbox": [
+      648,
+      671,
+      942,
+      702
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "More battle tales 10 ",
+    "bbox": [
+      648,
+      717,
+      941,
+      731
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Conclusion 11 ",
+    "bbox": [
+      651,
+      746,
+      941,
+      760
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Resources 12 ",
+    "bbox": [
+      651,
+      775,
+      944,
+      790
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Schneider ",
+    "bbox": [
+      745,
+      911,
+      928,
+      957
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "white papers are now part of the Schneider Electric white paper library produced by Schneider Electric’s Data Center Science Center DCSC@Schneider-Electric.com ",
+    "bbox": [
+      93,
+      920,
+      609,
+      959
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "> ",
+    "bbox": [
+      116,
+      511,
+      140,
+      531
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      47,
+      108,
+      210,
+      130
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Human error reduction can be accomplished through intelligent monitoring at multiple levels ",
+    "bbox": [
+      47,
+      497,
+      243,
+      553
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Many IT managers recount stories of unexpected downtime events that occurred in their distributed server rooms and remote wiring closets. When analyzing these stories, a common thread emerges: lack of information. This lack of information leads to human error which causes the downtime. Stress levels are high because operators and administrators have no real-time data at their disposal and therefore, cannot prevent the human error from occurring. ",
+    "bbox": [
+      290,
+      114,
+      913,
+      204
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/600b911e50175f0ada651e136823947ae1e2f2d872e0973809c4783d97be4fb1.jpg",
+    "image_caption": [
+      "Figure 1 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      300,
+      390,
+      919,
+      748
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Consider the following two statistics: ",
+    "bbox": [
+      294,
+      219,
+      539,
+      234
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "• According to estimates, there are 2.9 million server rooms and wiring closets in the United States alone1 • Over $70 \\%$ of reported data center outages are directly attributed to human error2 ",
+    "bbox": [
+      310,
+      251,
+      893,
+      299
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This paper details common distributed server room and remote wiring closet downtime incidents. Then recommendations are proposed for how monitoring & automation software integrated with video surveillance and sensors can reduce the occurrence of human errorrelated downtime problems in these small, distributed environments (see Figure 1). ",
+    "bbox": [
+      292,
+      319,
+      906,
+      380
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Two issues present themselves whenever monitoring systems are proposed for small, remote computing environments like wiring closets and server rooms. The first issue involves installation. How complex is it to install a monitoring system? That is, how much time does it take to capture information about the characteristics of the devices to be monitored and how much time is spent performing data entry of this information (consider hundreds of devices in a multiple site scenario)? How does the system know which devices are cameras, air ",
+    "bbox": [
+      292,
+      789,
+      926,
+      880
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 IDC, Building, Planning, and Operating the Next-Generation Data Center, Michelle Bailey, 2008 2 Uptime Institute, Data Center Site Infrastructure Tier Standard: Operational Sustainability, 2010 ",
+    "bbox": [
+      290,
+      901,
+      877,
+      931
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      333,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 2 ",
+    "bbox": [
+      707,
+      957,
+      897,
+      969
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Simple or complex? ",
+    "bbox": [
+      45,
+      785,
+      174,
+      829
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "conditioners, UPS, heat sensors etc, and how are IP addresses generated so that the devices can communicate back their status? The second issue addresses the unknown amount of work involved whenever changes are made to power, cooling, and environmental monitoring equipment residing in the remote site. For example, how is a new firmware upgrade performed and how is a temperature threshold modified? ",
+    "bbox": [
+      292,
+      68,
+      913,
+      143
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Over the last several years, monitoring software packages have evolved to the point where users can choose either to self install or to enlist an outside service for installation assistance. The outside service can usually have the user up and running within 1-2 days. ",
+    "bbox": [
+      292,
+      160,
+      908,
+      204
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Monitoring software packages can be delivered either as distributable/downloadable code or as a rack-mounted server with preloaded software. The system can be installed either remotely or in a central data center (if, for example, dozens or hundreds of wiring closets need to be managed). Once the management server is plugged in, the client can be downloaded onto a laptop so that the operator can begin the process of identifying the power, cooling and environmental equipment, and the human activity that needs to be monitored. Most modern UPSs, cooling systems and security cameras come standard with the network interface cards (NIC) that are required for communication. The operator defines an IP address or range of IP addresses to be utilized by the devices to be monitored. An example of this is shown in Figure 2. Some systems can then automatically search the network and locate all of the power, cooling, and security devices to be monitored. This ability to “autodiscover” devices, greatly simplifies the challenge of system installation and start up. Once “discovered” the system begins to monitor the remote devices. ",
+    "bbox": [
+      292,
+      219,
+      916,
+      416
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Device Discovery ",
+    "text_level": 1,
+    "bbox": [
+      379,
+      455,
+      524,
+      469
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SNMPv1 Discovery Settings ",
+    "text_level": 1,
+    "bbox": [
+      357,
+      479,
+      599,
+      496
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Enter the network settings for this SNMPv1 device discovery, ",
+    "bbox": [
+      366,
+      501,
+      767,
+      515
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Figure 2 ",
+    "text_level": 1,
+    "bbox": [
+      47,
+      558,
+      117,
+      573
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "IP or IP Range ",
+    "bbox": [
+      369,
+      554,
+      468,
+      566
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "85.219.\\*.\\* ",
+    "text_level": 1,
+    "bbox": [
+      482,
+      553,
+      557,
+      565
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SNMPv1 Settings ",
+    "text_level": 1,
+    "bbox": [
+      375,
+      592,
+      488,
+      603
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "161 ",
+    "bbox": [
+      421,
+      618,
+      488,
+      633
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/0096593acc36d5e8750604e2c44e2c1a0feb0632a83449491582d66f17a0f48b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      552,
+      616,
+      880,
+      636
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Read Community Name ",
+    "bbox": [
+      385,
+      656,
+      540,
+      670
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "public ",
+    "bbox": [
+      560,
+      656,
+      598,
+      667
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Trap Registration ",
+    "text_level": 1,
+    "bbox": [
+      372,
+      707,
+      490,
+      719
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Register for Priority Scanning (SNMP Trap Directed Polling) ",
+    "bbox": [
+      416,
+      733,
+      802,
+      747
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Write Community Name ",
+    "bbox": [
+      387,
+      768,
+      540,
+      781
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "private ",
+    "bbox": [
+      562,
+      768,
+      609,
+      780
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Some monitoring $\\&$ automation systems also allow for devices to be grouped either by location, by row within a location, or by device type (e.g., grouping all cooling devices, all PDUs, all meters, all cameras etc.). This grouping exercise allows the user to set up policies and thresholds for that group. Common threshold parameters could include temperature, humidity, and designation of an open or closed status (e.g., doors of racks). ",
+    "bbox": [
+      290,
+      847,
+      921,
+      922
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      334,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 3 ",
+    "bbox": [
+      707,
+      957,
+      897,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      387,
+      731,
+      408,
+      746
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      354,
+      452,
+      372,
+      468
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Setting up of IP addresses for multiple devices can be as easy as typing in a range of numbers (sample screen extracted from the Schneider Electric InfraStruxure Central application) ",
+    "bbox": [
+      45,
+      580,
+      245,
+      693
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The thresholds, when exceeded, should trigger an alarm that is communicated to the systems administrator via email or text message. Care must be taken that only major changes to the remote environment trigger an alarm. If not, the administrator would be faced with the prospect of multiple alarms several times an hour. In this case, the administrator could become “numb” to the alarms and ignore them. Therefore a delicate balance needs to be maintained so that any alarm that comes through to the systems administrator is deemed as meaningful or important. ",
+    "bbox": [
+      292,
+      83,
+      924,
+      189
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Updates to the server room or wiring closet, such as an update to firmware, are also simplified when a modern day monitoring system is in place. No longer does the data center manager have to send personnel out to remote locations to install firmware upgrades. Many monitoring systems are capable of performing mass configuration, which allows changes to be sent out over the network from the central location. ",
+    "bbox": [
+      292,
+      205,
+      918,
+      280
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The nature of human error - related downtime ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      324,
+      225,
+      411
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Distributed server rooms and remote wiring closets do not garner the same amount of investment and attention as large mission critical data center sites. The large, central sites are staffed with experts and are often equipped with the latest in security technology and an abundance of built-in redundancies. Distributed server rooms and remote wiring closets on the other hand, are staffed by individuals with multiple responsibilities, one of which might be to keep an eye on the wiring closet or server room. These spaces often have few security measures in place and are subject to more unwelcome outages than the larger, more sophisticated spaces. No matter how well a server room or wiring closet is planned, the risk for unanticipated downtime is always present. Some IT managers think they have every angle covered. They are proud of their server room design. Then along comes an innocuous-looking, uninformed technician or custodian that defeats the entire plan in less than five seconds. ",
+    "bbox": [
+      292,
+      325,
+      921,
+      507
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Figure 3 ",
+    "text_level": 1,
+    "bbox": [
+      47,
+      592,
+      117,
+      608
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The phrase “an accident waiting to happen” is apt for small and remote server rooms ",
+    "bbox": [
+      47,
+      616,
+      225,
+      671
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/f2747934f19bfcdf0629590b65d4de3a13f17167b9a309c856856eeff7cb4400.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      302,
+      531,
+      913,
+      758
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The list of incidences described below illustrates how the lack of a simple monitoring & automation system can lead to downtime in wiring closets and server rooms. In these environments, either no one is on site, or the person who is on site is not always capable of alerting systems administrators to a failure. An hour delay in the discovery of a cooling failure can make the difference in avoiding a complete outage. Fast, real time alerts enable administrators to supervise a switch over which can avoid loss of service. ",
+    "bbox": [
+      292,
+      810,
+      913,
+      901
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      333,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 4 ",
+    "bbox": [
+      707,
+      957,
+      897,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Consider the following summary of human error-related events: ",
+    "bbox": [
+      292,
+      98,
+      720,
+      113
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• A systems administrator responsible for a remote branch office server room went in to find out why the servers in the room went down. He discovered that the remodeling contractors during renovations had wrapped racks with shrink wrap plastic to keep dust away from the servers. The contractors neglected to inform IT that they would be doing this, so all the servers were on when they wrapped them up. The servers overheated and shut themselves down. ",
+    "bbox": [
+      310,
+      128,
+      924,
+      213
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• A senior business manager decided to take matters into his own hands when he was having trouble accessing the Internet. He went into the server room, took cabling from the router and connected his laptop directly to the Internet thus bypassing all firewall services and encryption and exposing the entire system to outside viruses and other malware. ",
+    "bbox": [
+      310,
+      219,
+      919,
+      287
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• As part of a repair, a plumber drilled a hole in the ceiling directly above an Exchange server. He then did a poor job of repairing the pipe joint he was working on. In the middle of the night, water began leaking from the pipe. Nature took its course and the water flowed to the hole in the ceiling and poured onto the Exchange server beneath, causing permanent damage to the server. ",
+    "bbox": [
+      310,
+      295,
+      919,
+      364
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• Cleaning people were sent into the server room. They saw pockets of dust not just around the server racks, but inside of them as well, and rack doors were partially opened. The cleaning people did what cleaning people do: they cleaned inside the racks and inside of the servers using window cleaner. No one gave them clear instructions regarding cleaning protocol. ",
+    "bbox": [
+      310,
+      371,
+      921,
+      440
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• A vendor was working in a halon protected area. He lit a propane torch without notifying anyone and without shutting down the halon system. ",
+    "bbox": [
+      308,
+      446,
+      915,
+      474
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• A vendor shut down a PDU so that he could add a breaker to it. The PDU was feeding a key branch server. Many server room visitors may not know what that can and cannot do in that particular location. ",
+    "bbox": [
+      308,
+      481,
+      916,
+      522
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Monitoring system components ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      569,
+      214,
+      636
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "When designing a monitoring system whose primary role is to limit the occurrence of human error in remote server rooms, four key components need to be considered: video surveillance, sensors, intelligent rack outlets, and monitoring and automation software. Table 1 provides a summary of the solutions described in this section. ",
+    "bbox": [
+      292,
+      573,
+      915,
+      633
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Video surveillance and sensors ",
+    "text_level": 1,
+    "bbox": [
+      294,
+      662,
+      573,
+      679
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "What can help when it comes to these situations? Scalable monitoring & automation systems are available in the marketplace and are capable of collecting, organizing, and distributing critical alerts and surveillance videos. An example of this is shown in Figure 4. By monitoring power, cooling, the backs and fronts of racks, and the environment, these systems can generate instant fault notification, enable quick assessment of the situation, and provide resolution of critical infrastructure events that can adversely affect IT system availability. ",
+    "bbox": [
+      292,
+      689,
+      926,
+      779
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the case of the human miscommunication examples listed above, consider how such a monitoring & automation system could have helped: ",
+    "bbox": [
+      292,
+      795,
+      897,
+      824
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• A physical infrastructure monitoring & automation system, supplemented by a video camera-based security system which would be panning human activity in the rows, would have recorded whenever the motion detectors were activated. Thus, even though no IT person was on site, the activity of the contractors wrapping up the servers, for example, would have been recorded and an alert sent out to the authorized administrator. Upon witnessing what was going on, the administrator could have issued an order of “cease and desist” and the downtime could have been avoided. ",
+    "bbox": [
+      310,
+      840,
+      905,
+      910
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      333,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 5 ",
+    "bbox": [
+      707,
+      957,
+      895,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Tales of the unexpected ",
+    "bbox": [
+      47,
+      98,
+      204,
+      142
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      331,
+      68,
+      900,
+      95
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Example of video monitoring triggered by motion detection can help limit instances of human error (sample screen extracted from the APC by Schneider Electric InfraStruxure Central application) ",
+    "bbox": [
+      47,
+      207,
+      240,
+      318
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/ba3398e071eed69f46c5ffed4bbfe9d0af4cda3ebae3583ffb44d07bce60694b.jpg",
+    "image_caption": [
+      "Figure 4 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      290,
+      112,
+      910,
+      405
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "• A monitoring $\\&$ automation system could also turn devices on or off utilizing low current dry contact output switch closures. Such an approach can be utilized to control locks on racks (see Figure 5). Output relay actions can be executed manually or can be configured as automatic alert actions in response to a threshold event or other alarms. In the case of the cleaning people, knowing that they are coming in to clean during the after-hours, the system could be programmed to have all racks locked after $6 { : } 0 0 ~ \\mathsf { p m }$ . They could be opened manually or remotely by an authorized individual, but they would be locked to anyone else until the next morning. ",
+    "bbox": [
+      310,
+      429,
+      924,
+      541
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Camera systems make sense especially if the server room is supporting credit card transaction applications. Payment Card Industry (PCI) compliance is becoming an important issue. Some state governments are requiring that businesses notify their customers whenever a data breach occurs. As time goes on, the definition of what data is considered personal information will expand to include credit card numbers. Once credit card information is classified as personal information, punitive measures will be forced upon companies with negligent / non-existent security practices. In the future, direct financial incentives may be granted to companies with evolved levels of security who are recognized as PCI compliant. Video surveillance is one of those requirements under the PCI compliance umbrella. ",
+    "bbox": [
+      292,
+      565,
+      913,
+      702
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A camera management system typically allows for tracking of facilities personnel, vendors, security personnel, custodians and other visitors who come into the server room or remote wiring closet. The system can determine who was in the room, at what time, and can detect whether the visitor unplugged an existing piece of equipment or plugged in a new piece of equipment. A camera management system could be programmed to record data when it detects motion. On the other hand, an administrator may want to remotely log into the system, activate the camera that is nearest to the visitor and observe his actions. In fact, some of these systems can be equipped with speakers so that the administrator can project his voice from his laptop microphone to either deliver instructions or to provide warnings to the visitor (e.g., “Whatever you do, don’t touch that red button!”). ",
+    "bbox": [
+      292,
+      717,
+      915,
+      868
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      331,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 6 ",
+    "bbox": [
+      707,
+      957,
+      897,
+      969
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Figure 5 ",
+    "text_level": 1,
+    "bbox": [
+      47,
+      217,
+      116,
+      232
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Rack security can be remotely controlled to ward off unwanted entry ",
+    "bbox": [
+      47,
+      239,
+      223,
+      281
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/d4d4942a53faae742911aefae0ac91d548d18e906d215589ef1d595e31026618.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      457,
+      71,
+      794,
+      453
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Intelligent rack outlets ",
+    "text_level": 1,
+    "bbox": [
+      292,
+      481,
+      501,
+      497
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Intelligent rack outlets are long thin strips of electrical outlets mounted to the inside back of a rack (see Table 1). Also known as “rack-mounted PDUs” these devices can be managed by allowing users to remotely recycle power to locked-up equipment. This minimizes downtime by quickly restarting equipment, and any travel time to the remote site for rebooting is avoided. ",
+    "bbox": [
+      292,
+      506,
+      919,
+      580
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "These devices also allow users to configure the sequence in which power is turned on or off for each outlet. This sequencing allows users to predetermine which piece of equipment is turned on first so other equipment dependent on that unit will function properly. In start-up situations the in rack intelligent power distribution helps to avoid an initial overload of power rushing in which can cause overloaded circuits and further load drops. ",
+    "bbox": [
+      292,
+      597,
+      916,
+      671
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In the case of overloaded circuits, the monitoring system prevents overloads by projecting graphical displays of average and peak power usage and by measuring actual consumption through metered rack PDUs (intelligent rack outlets). Therefore the systems administrator has visibility to the power usage of each rack and can make an intelligent decision of where to place the additional equipment that needs to be installed. ",
+    "bbox": [
+      292,
+      688,
+      913,
+      763
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Monitoring and automation software ",
+    "text_level": 1,
+    "bbox": [
+      292,
+      795,
+      629,
+      811
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A management $\\&$ automation system provides the administrator with a wealth of data that will allow for reductions in human error-related downtime. Listed below are a few examples of some of the monitoring $\\&$ automation management system capabilities available in the market for server rooms and remote data wiring closets: ",
+    "bbox": [
+      292,
+      820,
+      926,
+      881
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      331,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 7 ",
+    "bbox": [
+      707,
+      957,
+      895,
+      969
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3341761/auto/images/2fbf506eaa4d129bebdc87fd78f66743037e1993b5f2f07aaa89b9c375f2023e.jpg",
+    "table_caption": [
+      "Table 1 Solution Summary "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Solutioncomponent</td><td rowspan=1 colspan=1>Role</td><td rowspan=2 colspan=2>Benefit                         Example illustrationsUser-set thresholds generate alarms via textmessage,email,or system postings whenconditions such as temperature and humidityrise beyond accepted levels                        nGenerates multiple levels of historical datareports in order to spot problematic trends early             onAbility to mass configure similar systemcharacteristics (e.g.rack locks,temperaturethresholds)to similar devices all at onceAbility to reboot hung equipment from remotelaptop</td></tr><tr><td rowspan=1 colspan=1> Monitoring &amp; automation</td><td rowspan=1 colspan=1>AlarmingEquipment StatusReportingConfigurationControl</td></tr><tr><td rowspan=1 colspan=1> Video surveillance equipment</td><td rowspan=1 colspan=1> Observe humanactivity</td><td rowspan=1 colspan=1>Video storage prompted by motion or alertDetects and records motion,allowing a visualrecord to be paired with an access or environ-mental alert, which speeds root cause analysisStorage of error or security breach detection dataprevents subsequent occurrences</td><td rowspan=1 colspan=1>APCOOO  APC高</td></tr><tr><td rowspan=1 colspan=1> Intelligent rack outlets</td><td rowspan=1 colspan=1>Remote startupand shutdown ofserversMeasured powerconsumption</td><td rowspan=1 colspan=1>Ensures data integrity is maintained during anextended outageRemotely manages outlets so users can turnoutlets off that are not in use (prevent overloads)or recycle power to locked-up equipment(minimize costly downtime and avoid travel time to equipment)Allows users to configure the sequence in whichpower is turned on or off for each outlet-thishelps avoid in-rushes at start-up,which cancause overloaded circuits and dropped loads</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1> Sensors</td><td rowspan=1 colspan=1>Door locks, racklocks,fuiddetection,temperaturemonitoring,airquality monitoring</td><td rowspan=1 colspan=1>Detects access by unauthorized personnel viadoor switchDetects the presence of water or high humidityDetects smoke and particlesMonitors temperatures in key locations</td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1></td><td></td><td></td></tr></table>",
+    "bbox": [
+      60,
+      128,
+      924,
+      921
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      970
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      334,
+      26,
+      926,
+      39
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 8 ",
+    "bbox": [
+      707,
+      955,
+      897,
+      969
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The administrator can then immediately identify “ which UPSs are supporting ‘illegal’ loads and can issue the ‘cease and desist’ order before any of the retail POS systems go down. ， ",
+    "bbox": [
+      45,
+      449,
+      246,
+      564
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Alarming and notification – The alarms set up in a system serve as a trigger. If, for example, a temperature threshold is set at ${ \\tt G 2 ^ { \\circ } \\sf F }$ $( 1 6 ^ { \\circ } \\mathsf { C } )$ for the bottom of a rack, exceeding that threshold creates an alarm. That alarm then sends out alerts in a number of userdefined ways. An alert could come in the form of an email, a text message, a posting to a web site, or a ring on the phone. These alerts can be as sophisticated as an email to a blackberry containing a graph of the last four hours of temperature in the server room. Or the alert can be as simple as an email indicating that a particular rack door, which shouldn’t be open, has been open for more than two minutes. ",
+    "bbox": [
+      292,
+      68,
+      924,
+      189
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Equipment status – A basic monitoring system configuration consists of software and a dedicated physical server. The server acts as a central repository that logs information on all configured server room equipment. Information from sensors and cameras is gathered and catalogued as are all the system profiles and thresholds. The level of monitoring can be quite detailed. For example each rack can contain three temperature sensors, one for the bottom, one for the middle and one for the top of the rack, as these temperatures are often quite different from one another. ",
+    "bbox": [
+      292,
+      205,
+      926,
+      310
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The status alerts are also useful for monitoring batteries. The failure of a single battery can result in the loss of the critical load. Faulty batteries should be replaced as quickly as possible, but oftentimes no one is keeping track of the age of UPS batteries in remote sites. The cost of replacing one or two batteries is minimal compared to experiencing a failure that causes the closet or server to crash. Basic monitoring can avoid these situations. ",
+    "bbox": [
+      292,
+      325,
+      916,
+      395
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Reporting analytics – The data gathered by a monitoring system can be converted into customized reports for the IT administrator to review. In the past, in order to determine temperatures at odd hours in remote server rooms, administrators relied on security personnel or other outsiders to read and manually record information from thermometers on the walls. Now, the administrator can look to the historical data and realize that the temperature has been fluctuating by 10° F ( $1 2 ^ { \\circ } \\mathrm { C } )$ at night. By reviewing 48 hour reports, 1 week reports or longer time interval reports, the administrator can recognize the problem and then make the case to the building facilities department for the problem to be resolved (if the building comfort system is being used to partially or fully cool the server room). The data gathered by the IT room monitoring system can document that an issue exists and that it could be symptomatic of a bigger problem. From a security perspective, the reports generated by a system also can help the IT administrator quickly determine who has been in which particular rack and for how long. ",
+    "bbox": [
+      292,
+      416,
+      923,
+      612
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In the case of retail POS stations, for example, a monitoring system can examine the UPSs in the field and produce a report regarding much load is being placed on each individual UPS. If the IT administrator deems that all of the UPSs should be at $50 \\%$ load, then those that exceed that limit are easily identified. The administrator can then immediately identify which UPSs are supporting “illegal” loads and can issue the “cease and desist” order before any of the retail POS systems go down. ",
+    "bbox": [
+      292,
+      627,
+      924,
+      718
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Mass configuration – Upon initial installation, all devices linked into the central monitoring & automation system are logged and profiled into the system. This enables the administrator to configure or initiate mass change (one change affecting multiple devices) later on. Consider the example of door locks on the server room racks. Every single rack door lock does not need to be configured individually. Only one security configuration needs to be pushed to all 50 rack doors (front and back) if that’s the decision the administrator chooses to make. ",
+    "bbox": [
+      292,
+      734,
+      924,
+      824
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Control – Administrators feel under much less pressure having access to detailed monitoring $\\&$ automation system data. For example, a system can map the power path and physical system relationships and dependencies. This helps to avoid a mad scramble when a problem occurs to find out where the source of the problem lies. Some systems can also recommend the best location for placement of new equipment based on available power and network ports. This avoids the problem of experiencing an unanticipated shortage of power in a ",
+    "bbox": [
+      292,
+      840,
+      926,
+      930
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      333,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 9 ",
+    "bbox": [
+      707,
+      957,
+      897,
+      969
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "particular rack. A system may also illustrate the consequence of device failure on rack-based equipment for instant identification of critical business application impacts. This allows the administrator to formulate a plan ahead of time in case a problem occurs, so that any downtime experienced is minimized. ",
+    "bbox": [
+      292,
+      69,
+      926,
+      128
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "More control over the environment, more alerting, and more historical data can help to foster an environment of less stress. If an investment in video surveillance and centralized monitoring & automation is already being made, then the addition of temperature control, humidity control, dew point data, and other environmental alarms represents a minor additional cost. The evaluation of environmental trends and the review of video surveillance data help the administrator to nip problems at the bud, so that human error is kept to a minimum. ",
+    "bbox": [
+      292,
+      148,
+      918,
+      253
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "More battle tales ",
+    "text_level": 1,
+    "bbox": [
+      47,
+      295,
+      263,
+      315
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Power and cooling systems are particularly vulnerable to human error because of a lack of knowledge concerning these systems. The incidences below detail some of the risks involved. ",
+    "bbox": [
+      292,
+      299,
+      906,
+      343
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• In one incident, the UPS overheated because packages of toilet paper were piled high on top of the unit and obstructed the air circulation. ",
+    "bbox": [
+      308,
+      361,
+      915,
+      388
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• A small server room for a temporary project had been set up in an upstairs area of an office building. The team who had set up the room made sure that everything installed was cheap but per spec. They used one of their domestic air conditioners for the cooling, as it had the right thermal rating to match the heat dissipation required for the gear in the room. It wasn't long before a service call had to be placed because of hardware failure. An engineer was sent out, and it was discovered that the temperature was about $1 1 0 ^ { \\circ }$ F $( 4 3 ^ { \\circ } \\mathsf { C } )$ in the computer room. Unfortunately, the installation team installed the air intake and air outflow of the air conditioner in the same tiny room. ",
+    "bbox": [
+      310,
+      395,
+      919,
+      506
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• An unused convenience outlet is like a magnet for anyone who wanders into a server room or wiring closet. Many server rooms have been knocked off-line because of problems with unauthorized equipment plugged into convenience outlets. Vacuum cleaners and drills are perfect examples of what should NOT be plugged into a UPS-powered outlet. In one case, there was a short in the drill which caused a breaker to trip on ground fault, which took down a significant portion of the server room. ",
+    "bbox": [
+      310,
+      512,
+      926,
+      594
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• A large retailer had no one at the store site knowledgeable about how the server room or wiring closet functioned. The cashiers came to work and found that their cash registers were down. The headquarters advised them to bypass the UPS and run their systems on street power until a battery could be drop shipped. . Once the battery arrived, a knowledgeable individual had to be sent out to install the battery. Thousands of dollars in transactions were lost that day with the potential for much more if a power outage had occurred. ",
+    "bbox": [
+      310,
+      602,
+      923,
+      698
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• Another retail operation was running into problems maintaining uptime on point of sale (POS) stations. This became a major issue, because each time the systems went down, the scales used for weighing goods to be shipped would have to be recalibrated, which would significantly extend the downtime. Upon investigation, the IT manager discovered that employees at the retail sites were “illegally” plugging devices like space heaters and fans into the UPS that were supporting the POS. Since the systems were only designed to handle the normal electrical loads of the POS stations, the overloads caused by the unanticipated extra loads were bringing the systems down. ",
+    "bbox": [
+      310,
+      704,
+      924,
+      816
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• A rack of servers was lost because an IT administrator unintentionally overloaded an already maxed out power strip. ",
+    "bbox": [
+      308,
+      821,
+      906,
+      849
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Anyone who has spent time managing remote server rooms, in all likelihood, can add human error stories to the list presented in this paper. Fortunately, a number of monitoring tools are available that can help ease the concerns of operators who worry about unanticipated downtime in these remote environments. ",
+    "bbox": [
+      292,
+      872,
+      919,
+      931
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      334,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 10 ",
+    "bbox": [
+      707,
+      957,
+      905,
+      969
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      109,
+      191,
+      130
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Server rooms and small, remote closets are prolific and are often subject to downtime caused by human error. Managing these smaller data centers is time consuming and problematic. Many of these facilities are unattended IT rooms that are minimally supervised. ",
+    "bbox": [
+      292,
+      114,
+      926,
+      159
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "A four-pronged approach consisting of a monitoring $\\&$ automation software system, video technology, intelligent rack outlets, and sensor technology can greatly reduce the incidences of human error in these small environments. These systems place critical data in the hands of knowledgeable administrators who can manage remotely and identify problems before they result in downtime. ",
+    "bbox": [
+      292,
+      174,
+      926,
+      250
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "About the author ",
+    "text_level": 1,
+    "bbox": [
+      356,
+      765,
+      576,
+      786
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Dennis Bouley is a Senior Research Analyst at Schneider Electric's Data Center Science Center. He holds bachelor’s degrees in journalism and French from the University of Rhode Island and holds the Certificat Annuel from the Sorbonne in Paris, France. He has published multiple articles in global journals focused on data center IT and physical infra-structure environments and has authored several white papers for The Green Grid. ",
+    "bbox": [
+      323,
+      791,
+      885,
+      856
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      333,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 11 ",
+    "bbox": [
+      707,
+      957,
+      901,
+      969
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      305,
+      752,
+      348,
+      782
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      969
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Contact us ",
+    "text_level": 1,
+    "bbox": [
+      361,
+      750,
+      508,
+      768
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For feedback and comments about the content of this white paper: ",
+    "bbox": [
+      320,
+      779,
+      797,
+      795
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Data Center Science Center DCSC@Schneider-Electric.com ",
+    "bbox": [
+      349,
+      809,
+      581,
+      837
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "If you are a customer and have questions specific to your data center project: ",
+    "bbox": [
+      318,
+      851,
+      867,
+      866
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Contact your Schneider Electric representative ",
+    "bbox": [
+      359,
+      880,
+      704,
+      893
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "How Monitoring Solutions Reduce Human Error in Distributed Server Rooms and Remote Wiring Closets ",
+    "bbox": [
+      331,
+      27,
+      926,
+      39
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "White Paper 103 Rev 0 12 ",
+    "bbox": [
+      707,
+      955,
+      905,
+      969
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "White Paper Library whitepapers.apc.com ",
+    "bbox": [
+      264,
+      200,
+      473,
+      236
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "? TradeOff Tools™ tools.apc.com ",
+    "bbox": [
+      266,
+      273,
+      447,
+      309
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Resources Click on icon to link to resource ",
+    "bbox": [
+      44,
+      66,
+      246,
+      138
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      305,
+      734,
+      354,
+      767
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      923,
+      642,
+      946,
+      919
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Schneider Electric – Data Center Science Center ",
+    "bbox": [
+      290,
+      957,
+      637,
+      970
+    ],
+    "page_idx": 11
+  }
+]

@@ -1,0 +1,2495 @@
+[
+  {
+    "type": "text",
+    "text": "November 23, 2020 ",
+    "bbox": [
+      251,
+      156,
+      410,
+      171
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Date: To: From: ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      156,
+      197,
+      219
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Interested Person ",
+    "bbox": [
+      251,
+      181,
+      393,
+      195
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Lois Jennings, Land Use Services 503-865-6433 or lois.jennings@portlandoregon.gov ",
+    "bbox": [
+      250,
+      204,
+      661,
+      234
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "NOTICE OF A TYPE Ix DECISION ON A PROPOSAL IN YOUR NEIGHBORHOOD ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      258,
+      867,
+      305
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Bureau of Development Services has approved a proposal in your neighborhood. The mailed copy of this document is only a summary of the decision. ",
+    "bbox": [
+      143,
+      319,
+      869,
+      351
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The reasons for the decision are included in the version located on the BDS website http://www.portlandonline.com/bds/index.cfm?c=46429. Click on the District Coalition then scroll to the relevant Neighborhood, and case number. If you disagree with the decision, you can appeal. Information on how to do so is included at the end of this decision. ",
+    "bbox": [
+      143,
+      363,
+      866,
+      439
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CASE FILE NUMBER: LU 20-185832 LDP ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      454,
+      651,
+      477
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "GENERAL INFORMATION ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      494,
+      403,
+      512
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Applicant/ Owner/ Agent: ",
+    "bbox": [
+      145,
+      527,
+      271,
+      558
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Stacey Strade and Joe Squires   \nAdmiral Properties, LLC   \n820 SE Washington St   \nPortland OR 97214   \nPhone# 503-252-1609 or joe@squiresElectric.com ",
+    "bbox": [
+      321,
+      527,
+      723,
+      602
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Representative: ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      617,
+      281,
+      632
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Danelle Isenhart   \nEmerio Design   \n6445 SW Fallbrook Place   \nSuite 100   \nBeaverton, OR 97008   \nPhone#: 503-746-8812 or danelle@emeriodesign.com ",
+    "bbox": [
+      321,
+      617,
+      748,
+      705
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Site Address: ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      720,
+      258,
+      734
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "4531 NE GARFIELD AVE ",
+    "bbox": [
+      321,
+      720,
+      526,
+      734
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Legal Description: Tax Account No.: State ID No.: Quarter Section: ",
+    "bbox": [
+      143,
+      750,
+      302,
+      809
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BLOCK 2&5 TL 17300, HIGHLAND PL   \nR384090430   \n1N1E22AD 17300   \n2530 ",
+    "bbox": [
+      320,
+      750,
+      629,
+      809
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Neighborhood: Business District: District Coalition: ",
+    "bbox": [
+      145,
+      824,
+      299,
+      869
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Plan District: Zoning: ",
+    "bbox": [
+      143,
+      883,
+      259,
+      914
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "King, contact Sarah Moses at sarah.kingnapdx@gmail.com   \nSoul District Business Association, contact at Info@nnebaportland.org   \nNortheast Coalition of Neighborhoods, contact Jessica Rojas at   \njessica@necoalition.org   \nNone   \nR2.5 -Residential (1 unit per 2,500) with an $\\ \" { \\bf { a } } ^ { \\prime }$ -Alternative Design   \nDensity Overlay ",
+    "bbox": [
+      321,
+      824,
+      887,
+      929
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1900 SW4th Avenue,Suite #5000,Portland,OR97201 ",
+    "bbox": [
+      318,
+      943,
+      710,
+      957
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "国",
+    "bbox": [
+      148,
+      40,
+      334,
+      114
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "City of Portland,Oregon Bureau of Development Services Land Use Services FROM CONCEPT TO CONSTRUCTION ",
+    "bbox": [
+      375,
+      31,
+      658,
+      125
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dan Ryan,Commissioner Rebecca Esau,Director Phone:(503)823-7300 Fax:(503)823-5630 TTY:(503)823-6868 www.portland.gov/bds ",
+    "bbox": [
+      735,
+      37,
+      883,
+      119
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Case Type: Procedure: ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      56,
+      238,
+      85
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "LDP- Land Division Partition   \nType Ix, an administrative decision with appeal to the Oregon Land Use Board of Appeals (LUBA). ",
+    "bbox": [
+      320,
+      56,
+      861,
+      101
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Proposal: The applicant is proposing to divide the subject site into two (2) parcels for attached housing. Parcels 1 and 2 will each be 2,800 s.f. in area. The R2.5 zone allows detached housing or attached housing. This proposal is for two narrow lots. This vacant property was identified as Tract 1 under the recorded and approved property line adjustment under City Case File # 2019-143987 PR. The applicant’s preliminary site and utility plan shows services (sanitary, stormwater and water) will be provided for each lot. ",
+    "bbox": [
+      145,
+      114,
+      872,
+      204
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This partition is reviewed through a Type Ix land use review because: (1) the site is in a residential zone; (2) fewer than four lots are proposed; (3) none of the lots, utilities, or services are proposed within a Potential Landslide Hazard or Flood Hazard Area, and; (4) no other concurrent land use reviews (such as an Adjustment, Design Review, or Environmental Review) are requested or required (see 33.660.110). ",
+    "bbox": [
+      145,
+      218,
+      882,
+      292
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "For purposes of State Law, this land division is considered a partition. To partition land is to divide an area or tract of land into two or three parcels within a calendar year (See ORS 92.010). ORS 92.010 defines “parcel” as a single unit of land created by a partition of land. The applicant’s proposal is to create two units of land (2 parcels). Therefore, this land division is considered a partition. ",
+    "bbox": [
+      145,
+      308,
+      879,
+      382
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "RELEVANT APPROVAL CRITERIA: ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      397,
+      385,
+      411
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In order to be approved, this proposal must comply with the approval criteria of Title 33. The relevant criteria are found in Section 33.660.120, Approval Criteria for Land Divisions in Open Spaces and Residential Zones. ",
+    "bbox": [
+      145,
+      412,
+      854,
+      457
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FACTS ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      469,
+      892,
+      489
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Site and Vicinity: The site is interior vacant lot on the west side of NE Garfield Avenue. Remnants of masonary fence remains and borders the front lot line of this property. The house that existed on the site was removed under building permit# 19-213666 RS. The driveway associated to the previous house currently still exists and provides access from NE Garfield Avenue to the site. ",
+    "bbox": [
+      145,
+      503,
+      887,
+      578
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The surrounding area is mostly 1- 2-story single-family residences. There are a few duplexes and apartment buildings mixed in this residential area. The R2.5 residential zoning is north, south and west of this site, but directly to the east the zoning changes to CM2 along properties that abut NE Martin Luther King Boulevard. Commercial and multi-family residential development are located along NE Martin Luther King Boulevard. Martin Luther King Elementary school and park are approximately 800-1000-ft. northeast of the site. ",
+    "bbox": [
+      145,
+      592,
+      885,
+      683
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Infrastructure: ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      696,
+      272,
+      710
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Streets – The site has approximately 56-feet of frontage on NE Garfield Avenue. At this location, NE Garfield Avenue is classified as a Neighborhood Walkway and a Local Service Street for all other modes in the Transportation System Plan (TSP). NE Garfield Avenue has a 36-foot curb to curb paved surface within a 60-foot rightof-way with parking on both sides. Along the 56-foot wide site frontage the pedestrian corridor includes a 3.5-foot wide planter area, curb, 6-foot sidewalk and a 2-foot wide buffer at the back of the sidewalk (4-6-2 configuration). Tri-Met provides transit service at NE Martin Luther King Boulevard & NE Prescott Street via Bus line $\\# 6$ or via Bus Line $\\# 4 4$ on N. Williams and NE Wygant Street Boulevard. • Water Service – There is an existing 8-inch CI water main in NE Garfield Avenue. ",
+    "bbox": [
+      169,
+      712,
+      885,
+      924
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      63,
+      29,
+      343,
+      40
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      861,
+      29,
+      911,
+      41
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Water Bureau Fire Flow Information: The nearest fire hydrant is at the SE corner of NE Going Street and NE Garfield Avenue with an estimated flow of $2 , 3 0 0 \\ { \\mathrm { g p m } }$ and a minimum residual pressure of 20 psi. There is also another fire hydrant in the vicinity at the NE corner of NE Going Street and NE Mallory Avenue with an estimated flow of 2,200 gpm and a minimum residual pressure of 20 psi. ",
+    "bbox": [
+      174,
+      55,
+      883,
+      130
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Sanitary Service - There is an existing 12inch public combination sewer line in NE Garfield Avenue (BES as-built #21271). Sanitary Service availability for the future lots is discussed further under Section 33.652 approval criterion. ",
+    "bbox": [
+      174,
+      145,
+      880,
+      189
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Stormwater Disposal – There is no public storm-only sewer currently available to this property. The applicant is proposing to provide on-site stormwater management facility for the proposed development, which is discussed later in this report under 33.653.030. ",
+    "bbox": [
+      173,
+      204,
+      885,
+      263
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Zoning: The R2.5 designation is one of the City’s single-dwelling zones which is intended to preserve land for housing and to promote housing opportunities for individual households. Both detached and attached single dwellings are allowed. The zone implements the comprehensive plan policies and designations for single-dwelling housing. ",
+    "bbox": [
+      147,
+      279,
+      885,
+      339
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The “a” overlay is intended to allow increased density that meets design compatibility requirements. It fosters owner-occupancy, focuses development on vacant sites, preserves existing housing stock, and encourages new development that is compatible with the surrounding residential neighborhood. This land division is not using any provisions of the “a” overlay. ",
+    "bbox": [
+      145,
+      353,
+      877,
+      428
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Land Use History: City records show no prior land use history for this site; however, the following application was made to establish the subject property in its current configuration: ",
+    "bbox": [
+      150,
+      441,
+      882,
+      472
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "19-143897 PR: Approval of a property line adjustment at this site. This property’s current lot configuration is the result of this approved and recorded property line adjustment. ",
+    "bbox": [
+      171,
+      473,
+      883,
+      517
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Agency Review: Several Bureaus have responded to this proposal and relevant comments are addressed under the applicable approval criteria. Exhibits $^ { 6 6 } \\mathrm { E } ^ { 3 3 }$ contain the complete responses. ",
+    "bbox": [
+      145,
+      531,
+      879,
+      577
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Neighborhood Review: A Notice of Proposal in Your Neighborhood was mailed on October 4, 2020. No written responses have been received from the Neighborhood Association or notified property owners in response to the proposal. ",
+    "bbox": [
+      145,
+      590,
+      875,
+      636
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ZONING CODE APPROVAL CRITERIA ",
+    "text_level": 1,
+    "bbox": [
+      140,
+      664,
+      885,
+      683
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "APPROVAL CRITERIA FOR LAND DIVISIONS IN OPEN SPACE AND RESIDENTIAL ZONES 33.660.120 THE Preliminary Plan for a land division will be approved if the review body finds that the applicant has shown that all the following approval criteria have been met. ",
+    "bbox": [
+      143,
+      696,
+      869,
+      757
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Due to the specific location of this site, and the nature of the proposal, some of the criteria are not applicable. The following table summarizes the criteria that are not applicable. Applicable criteria are addressed below the table. ",
+    "bbox": [
+      143,
+      757,
+      872,
+      803
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/50d84c29567d0903342a7c53df00b6c68a73c380692bf25c0b822ca5a238ea22.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Criterion</td><td colspan=\"1\" rowspan=\"1\">Code Chapter/Sectionand Topic</td><td colspan=\"1\" rowspan=\"1\">Findings: Not applicable because:</td></tr><tr><td colspan=\"1\" rowspan=\"1\">B</td><td colspan=\"1\" rowspan=\"1\">33.630-Tree Preservation</td><td colspan=\"1\" rowspan=\"1\">There is a 16-inch Sycamore Maple that straddlesthe western rear lot line of this property. TheArborist report (Exhibit A.4) has identified the tree as a Sycamore Maple (Acer Psuedoplantanus)which is considered a nuisance tree per thePortland Plant List and is exempt from treepreservation. Therefore, the tree preservation is</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">not applicable to this land division proposal.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C</td><td colspan=\"1\" rowspan=\"1\">33.631 -Flood Hazard Area</td><td colspan=\"1\" rowspan=\"1\">The site is not within the flood hazard area.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">D</td><td colspan=\"1\" rowspan=\"1\">33.632-PotentialLandslide Hazard Area</td><td colspan=\"1\" rowspan=\"1\">The site is not within the potential landslidehazard area.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">E</td><td colspan=\"1\" rowspan=\"1\">33.633-Phased LandDivision or Staged FinalPlat</td><td colspan=\"1\" rowspan=\"1\">A phased land division or staged final plat has notbeen proposed.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">F</td><td colspan=\"1\" rowspan=\"1\">33.634 -Recreation Area</td><td colspan=\"1\" rowspan=\"1\">The proposed density is less than 4O units.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">H</td><td colspan=\"1\" rowspan=\"1\">33.636 - Tracts andEasements</td><td colspan=\"1\" rowspan=\"1\">No tracts or easements have been proposed or willbe required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">J</td><td colspan=\"1\" rowspan=\"1\">33.640 - Streams, Springs, Seeps and Wetlands</td><td colspan=\"1\" rowspan=\"1\"> No streams, springs, seeps or wetlands are evidenton the site.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">L</td><td colspan=\"1\" rowspan=\"1\">33.654.110.B.2 - Dead endstreets</td><td colspan=\"1\" rowspan=\"1\">No dead-end streets are proposed.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.110.B.3-Pedestrian connections inthe I zones</td><td colspan=\"1\" rowspan=\"1\">The site is not located within an I zone.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.110.B.4 - Alleys inall zones</td><td colspan=\"1\" rowspan=\"1\">No alleys are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.120.C.3.c -Turnarounds</td><td colspan=\"1\" rowspan=\"1\">No turnarounds are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.120.D - CommonGreens</td><td colspan=\"1\" rowspan=\"1\">No common greens are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.120.E - PedestrianConnections</td><td colspan=\"1\" rowspan=\"1\">There are no pedestrian connections proposed orrequired.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.120.F - Alleys</td><td colspan=\"1\" rowspan=\"1\">No alleys are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.120.G - SharedCourts</td><td colspan=\"1\" rowspan=\"1\">No shared courts are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.130.B- Existing public dead-end streetsand pedestrian connections</td><td colspan=\"1\" rowspan=\"1\">No public dead-end streets or pedestrianconnections exist that must be extended onto thesite.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.130.C - Futureextension of dead-end streets and pedestrianconnections</td><td colspan=\"1\" rowspan=\"1\"> No dead-end street or pedestrian connections areproposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.654.130.D - Partialrights-of-way</td><td colspan=\"1\" rowspan=\"1\">No partial public streets are proposed or required.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">33.655 - School District Enrollment Capacity</td><td colspan=\"1\" rowspan=\"1\">The proposal is for less than 11 lots or is not inthe David Douglas School District.</td></tr></table>",
+    "bbox": [
+      135,
+      815,
+      903,
+      953
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page 3 ",
+    "bbox": [
+      825,
+      27,
+      875,
+      40
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      135,
+      47,
+      905,
+      665
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Applicable Approval Criteria are: ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      674,
+      423,
+      690
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A. Lots. The standards and approval criteria of Chapters 33.605 through 33.612 must be met. ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      704,
+      890,
+      734
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Findings: Chapter 33.611 contains the density and lot dimension requirements applicable in the R2.5 zone. Based on the applicant’s survey, the site area is 5,601 square feet. The maximum density in the R2.5 zone is one unit per 2,500 square feet. Minimum density is one unit per 5,000 square feet based on 80 percent of the site area. ",
+    "bbox": [
+      143,
+      747,
+      875,
+      809
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The site has a maximum density of 2 units and a minimum required density of 1 unit. The applicant is proposing two single dwelling parcels. The density standards are therefore met. ",
+    "bbox": [
+      142,
+      821,
+      879,
+      853
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/d4b5b45a68688b7d79369f3f2b86ba8ea21ab9da87852272cc2cbb871f82d96c.jpg",
+    "table_caption": [
+      "The lot dimensions required and proposed are shown in the following table: "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Min. LotArea(squar</td><td rowspan=1 colspan=1>Max. Lot Area(squarefeet)</td><td rowspan=1 colspan=1>Min. LotWidth*(feet)</td><td rowspan=1 colspan=1>Min. Depth(feet)</td><td rowspan=1 colspan=1>Min. Front Lot Line(feet)</td></tr></table>",
+    "bbox": [
+      197,
+      882,
+      766,
+      944
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page 4 ",
+    "bbox": [
+      825,
+      26,
+      875,
+      40
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/e1b4478610ed08aefdebc63ce87ea02604ef0bcb4f07bbb8d3aba5cdf094aa14.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>e feet)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>R2.5 Zone</td><td rowspan=1 colspan=1>1,600</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>30</td></tr><tr><td rowspan=1 colspan=1>Parcel 1</td><td rowspan=1 colspan=2>2.800</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>28</td></tr><tr><td rowspan=1 colspan=1>Parcel 2</td><td rowspan=1 colspan=2>2,800</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>28</td></tr></table>",
+    "bbox": [
+      196,
+      54,
+      766,
+      117
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "\\* Width is measured by placing a rectangle along the minimum front building setback line specified for the zone. The rectangle must have a minimum depth of 40 feet, or extend to the rear of the property line, whichever is less. ",
+    "bbox": [
+      148,
+      118,
+      879,
+      161
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Narrow Lots (less than 36-ft. wide): ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      176,
+      444,
+      190
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Parcels 1 and 2 are narrower than the minimum width for the R2.5 zone, as shown in the table above. The Zoning Code, however, allows narrower lots if the following regulations of Section 33.611.200.C.2.a-f are met (discussed below). ",
+    "bbox": [
+      145,
+      191,
+      880,
+      236
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "a) On balance, the proposed lots will have dimensions that are consistent with the purpose of the Lot Dimension Regulations. ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      250,
+      872,
+      280
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The purpose of Lot dimension regulations are as follows: ",
+    "bbox": [
+      145,
+      295,
+      598,
+      310
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The lot dimension requirements ensure that: (1) each lot has enough room for a reasonablysized attached or detached house; (2) lots are of a size and shape that development on each lot can meet the development standards of the R2.5 zone; (3) lots are not so large that they seem to be able to be further divided to exceed the maximum allowed density of the site in the future; (4) each lot has room for at least a small, private outdoor area; (5) lots are wide enough to allow development to orient toward the street; (6) each lot has access for utilities and services; (7) lots are not landlocked; (8) lots don’t narrow to an unworkable width close to the street; (9) lots are compatible with existing lots while also considering the purpose of this chapter; and (10) lots are regularly shaped. ",
+    "bbox": [
+      145,
+      310,
+      883,
+      444
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The applicant has demonstrated that the proposed Parcel 1 and Parcel 2 are consistent with the purpose of lot dimension regulations for the following reasons: ",
+    "bbox": [
+      148,
+      458,
+      882,
+      488
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The applicant has provided an example of a conceptual building footprint (Exhibit C.2) that meets all applicable setback requirements and is oriented towards the street. Therefore, they have demonstrated that the proposed lot can accommodate a reasonably sized house, while meeting the development standards of the zoning code. The applicant has provided a preliminary utility plan (Exhibit C.2) that demonstrates that each lot will have access for utilities and services   \nEach lot will have room for an outdoor area, which meets the minimum outdoor area standard for the R2.5 zone.   \nThe proposed lots are not landlocked, nor do they narrow to an unbuildable width close to the street.   \nParcels 1 and 2 are compatible with existing lots within this neighborhood which range in lot area from 2,498 s.f.-5,000 s.f. or greater. There are a few existing lots within this neighborhood which have a lot width of 25-ft, 30-ft. and $3 3 \\ 1 / 3$ as reflected on the tax assessors’ maps (Exhibit G.4). The applicant’s narrative (Exhibit A.7) addresses the narrow lot standards gives examples of lots within neighborhood with similar lot areas and widths. These narrow lots within the neighborhood have detached houses and attached houses developed on them.   \nThe R2.5 zone allows lots to vary in size and shape to provide for the planned intensity of this zone and promotes development opportunities for housing.   \nTherefore, these lot dimensions and areas meet the purpose of the zone.   \nParcels 1 and 2 are regularly shaped. ",
+    "bbox": [
+      173,
+      488,
+      887,
+      805
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "b) The minimum width for lots that will be developed with detached houses may not be reduced below 25 feet ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      819,
+      887,
+      849
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Findings: Parcels 1 and 2 are 28-feet in width and could be developed with detached houses. The applicant’s proposal is for attached housing development. ",
+    "bbox": [
+      169,
+      863,
+      869,
+      893
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "c) If the lot abuts an alley, then vehicle access is allowed only from the alley ",
+    "text_level": 1,
+    "bbox": [
+      151,
+      907,
+      825,
+      922
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Findings: The site is not adjacent to an alley, so this requirement does not apply. ",
+    "bbox": [
+      165,
+      938,
+      830,
+      953
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page 5 ",
+    "bbox": [
+      825,
+      26,
+      875,
+      40
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      40
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "d) Lots must be configured so that development on the site will be able to meet the garage limitation standard of Subsection 33.110.253.D at the time of development ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      69,
+      870,
+      113
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Findings: Bureau of Transportation publishes a map annually which meets the service thresholds for sites close to a transit street that provide frequent transit service or transit station that provides frequent service. This site is located on this map (Exhibit G.6) and therefore no on-site parking is required for either housing types, attached or detached houses. ",
+    "bbox": [
+      174,
+      128,
+      875,
+      203
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The applicant has demonstrated via the preliminary proposed improvement, Exhibit C.2, that future attached housing development could be built with an attached house that is 23-feet in width and will be able to accommodate a garage that will occupy no more than $50 \\%$ of the length of the street facing façade (Exhibit A.7 & A.12). The garage limitation standards of Subsection 33.110.253.D can be met. ",
+    "bbox": [
+      174,
+      217,
+      887,
+      291
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Development of an 18-ft. wide street-facing façade of a detached single-family house on the 28-ft. wide lots would not allow for an attached garage per 33.110.253.D.3.b without a Planned development being proposed with this land division. However, the lots are wide enough to configure a layout with a detached house with a detached garage to the rear of the property with vehicle access provided to the to the detached garage from a shared driveway along the common interior lot (Exhibit G.5). Therefore, the lot configuration does provide the ability for future development to meet the garage limitation standard if a detached garage was developed in association with a detached house. ",
+    "bbox": [
+      174,
+      306,
+      883,
+      440
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "As stated above no parking is required for future development on this site since site is close to frequent transit service on Martin Luther King Boulevard. The applicant is proposing to develop the future lots with attached houses with shared driveway required by PBOT. The R2.5 zone allows for either detached house or attached houses to be developed. To meet the garage limitation for detached houses to be developed on these lots would require on-site vehicle access via a shared driveway along the common interior lot line to provide on-site parking to rear of the lots. ",
+    "bbox": [
+      174,
+      454,
+      885,
+      559
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the event onsite parking is provided, the lots are configured in a manner that can accommodate development that meets the garage limitation standard for either attached or detached house. Therefore, at the time of development if on-site parking is proposed a shared driveway is required and a reciprocal access easement and maintenance agreement will be required to be provided for the shared driveway. This reciprocal access easement and maintenance agreement for the shared driveway must be provided prior to building permit approval. ",
+    "bbox": [
+      173,
+      573,
+      885,
+      678
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "e) Lots that will be developed with attached houses must be configures so that 60 percent of the area between the front lot line and the front building line can be landscaped at the time of development; ",
+    "text_level": 1,
+    "bbox": [
+      148,
+      691,
+      869,
+      737
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Findings: The applicant has demonstrated via the preliminary proposed improvement and utility plan, Exhibit A12, the landscape area of 60-percent can be met at the time of development on the lot. ",
+    "bbox": [
+      173,
+      751,
+      883,
+      795
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "f) In areas where parking is not required by this Title, lots may be proposed that will not accommodate on-site vehicles access and parking. Such lots do not have to meet the requirements of subparagraphs 2.c and d. As a condition of approval of the land division, the property owner must execute a covenant with the City. The covenant must: ",
+    "bbox": [
+      143,
+      810,
+      888,
+      883
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(1) State that the owner will develop the property without parking, and that a driveway for access to on-site parking may not be created in the future, unless it is in conformance with regulation at the time; ",
+    "bbox": [
+      171,
+      886,
+      887,
+      929
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(2) Meet the requirements of Section 33.700.060, covenant with the City; and ",
+    "bbox": [
+      169,
+      929,
+      851,
+      945
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      138,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Page 6 ",
+    "bbox": [
+      826,
+      27,
+      875,
+      40
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(3) Be attached to and recorded with the deed for the new lot. ",
+    "text_level": 1,
+    "bbox": [
+      176,
+      54,
+      712,
+      70
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Findings: This site is located on the Bureau of Transportation Map (Exhibit G.) which shows the site is within close to frequent transit service per 33.266.110. No parking would be required at this location. The applicant is not proposing to utilize this provision of the code to create narrow lots, since the lots are wide enough to accommodate on-site vehicle access and parking via a shared driveway. As such this criterion does not apply. ",
+    "bbox": [
+      173,
+      98,
+      887,
+      172
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The proposed lot dimensions and lot areas would allow for either a detached or attached housing to be developed on the site. If on-site parking is proposed on these narrow lots, then the applicant shall provide a shared driveway and prior to building permit approval, a reciprocal access easement and maintenance agreement shall be provided for the shared driveway along the common lot line. The findings above show that the applicable density and lot dimension standards are met. ",
+    "bbox": [
+      147,
+      195,
+      890,
+      285
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "With this condition, this criterion is met. ",
+    "bbox": [
+      145,
+      299,
+      472,
+      314
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "G. Clearing, Grading and Land Suitability. The approval criteria of Chapter 33.635, Clearing, Grading and Land Suitability must be met. ",
+    "bbox": [
+      143,
+      328,
+      867,
+      359
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Findings: ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      375,
+      233,
+      390
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Clearing and Grading: In this case, the site is primarily flat and is not located within the Potential Landslide Hazard Area. No significant clearing or grading will be required on the site to make the new lots developable (Exhibit C.4). In addition, the applicant’s arborist report (Exhibit A.13 & A.23) has identified a Sycamore Maple Tree, a nuisance tree, which straddles the rear lot line and is within 15 feet of potential disturbance area on the proposed lot. As a nuisance species, the tree is not required to be retained, but the arborist recommended tree protection measures for the tree that will occur at the time of development on the site. This criterion is met. ",
+    "bbox": [
+      145,
+      390,
+      887,
+      508
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Land Suitability: The site is currently in residential use, and there is no record of any other use in the past. As indicated above, the site is relatively flat and contains no known geological hazards. Therefore, there are no anticipated land suitability issues and the new lots can be considered suitable for new development. This criterion is met. ",
+    "bbox": [
+      145,
+      522,
+      885,
+      583
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "I. Solar access. If single-dwelling detached development is proposed for the site, the approval criteria of Chapter 33.639, Solar Access, must be met. ",
+    "bbox": [
+      145,
+      597,
+      883,
+      627
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Findings: The solar access regulations encourage variation in the width of lots to maximize solar access for single-dwelling detached development and minimize shade on adjacent properties. ",
+    "bbox": [
+      145,
+      641,
+      883,
+      685
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The R2.5 zone allows detached or attached houses to be developed on this site. If Parcels 1 and 2 were developed with detached houses, then these lots are on the west side of a northsouth oriented street and are considered interior lots (not a corner lot). In this context there is no preference that any one lot be wider or narrower than the other lots. ",
+    "bbox": [
+      145,
+      700,
+      879,
+      760
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "This approval criterion would not apply to attached housing development on these parcels. ",
+    "bbox": [
+      142,
+      775,
+      870,
+      790
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "This criterion is met. ",
+    "bbox": [
+      147,
+      804,
+      312,
+      819
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "K. Transportation impacts. The approval criteria of Chapter 33.641, Transportation Impacts, must be met; and, ",
+    "bbox": [
+      142,
+      834,
+      872,
+      864
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "33.641.020, Traffic Impacts, Approval Criterion ",
+    "text_level": 1,
+    "bbox": [
+      171,
+      883,
+      581,
+      898
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A. The transportation system must be capable of supporting the proposed development in addition to the existing uses in the area. Evaluation factors include safety, street capacity, level of service, connectivity, transit availability, availability of pedestrian and bicycle networks, on-street parking impacts, access restrictions, neighborhood impacts, impacts on pedestrian, bicycle, and transit circulation. Evaluation factors may be balanced; a finding of failure in one or more factors may be acceptable if the failure is not a result of the proposed development, and any additional impacts on the system from the proposed development are mitigated as required by 33.641.020.B ",
+    "bbox": [
+      173,
+      900,
+      879,
+      943
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Page 7 ",
+    "bbox": [
+      825,
+      27,
+      874,
+      40
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      200,
+      54,
+      874,
+      142
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "B. Measures proportional to the impacts of the proposed use are proposed to mitigate on- and off-site transportation impacts. Measures may include transportation improvements to on-site circulation, public street dedication and improvement, private street improvements, intersection improvements, signal or other traffic management improvements, additional transportation and parking demand management actions, street crossing improvements, improvements to the local pedestrian and bicycle networks, and transit improvements. ",
+    "bbox": [
+      174,
+      157,
+      866,
+      262
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Development Review Section of the Portland Bureau of Transportation (PBOT) has reviewed the application against the evaluation factors and has provided the following findings (see Exhibit E.2) below: ",
+    "bbox": [
+      147,
+      281,
+      838,
+      327
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Findings: The applicant provided a detailed analysis of each evaluation factor (Exhibit A.7). Staff concurs with the applicant’s findings. The existing roadway and sidewalk networks are complete in this area. Connectivity meets City standards. The area is served by multiple transit lines and multiple bicycle routes. Based on information in the City’s database on Portland Traffic Deaths and Injuries since 2008, there have been no fatal accidents on NE Garfield Ave between NE Alberta St. and NE Fremont St. There have been four injury accidents, one each at the intersections of NE Garfield St. with NE Fremont St, NE Skidmore St, and NE Going St. plus one mid-block crash between NE Skidmore Ave. and NE Mason St. All were injuries to a person riding a bicycle. While this is a higher than ideal crash rate, it does not rise to the level of safety concern which should limit development in conformance with the base zone. ",
+    "bbox": [
+      147,
+      340,
+      890,
+      503
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The site is well served by transit and is mapped as being exempt from vehicle parking per 33.266.110.B.1. A single shared driveway is proposed to serve both lots. This will allow the retention of curb space for on-street parking while still accommodating some vehicles off street. To staff’s knowledge, PBOT has not identified any level of service concerns with this segment in the TSP or other planning documents. It is believed this segment functions well for travel via all modes and has capacity to absorb the anticipated vehicle trips from one additional residential lot. ",
+    "bbox": [
+      145,
+      518,
+      885,
+      622
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "No off-site mitigation is required for the proposed development. No dedication is required to provide a standard sidewalk corridor. It is anticipated the existing sidewalk corridor will be damaged or destroyed during the construction of the proposed new dwellings. Reconstruction of the sidewalk will be required at the time of building permit. ",
+    "bbox": [
+      145,
+      637,
+      883,
+      696
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Further, though the applicant proposes a shared driveway design, no easement or maintenance agreement for the shared driveway has been proposed. Therefore, to ensure impacts to on-street parking is minimized and future development will remain consistent with PBOT’s driveway policy, addressed in Technical Standards Section, below, the following condition will be applied: ",
+    "bbox": [
+      145,
+      712,
+      887,
+      786
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "If on-site parking is proposed on these narrow lots, then the applicant shall provide a shared driveway to the satisfaction of Portland Bureau of Transportation; and prior to building permit approval, a reciprocal access easement and maintenance agreement shall be provided for the shared driveway. ",
+    "bbox": [
+      145,
+      800,
+      890,
+      859
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "With such a condition, these criteria will be met. ",
+    "bbox": [
+      145,
+      875,
+      534,
+      890
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "L. Services and utilities. The regulations and criteria of Chapters 33.651 through 33.654, which address services and utilities, must be met. ",
+    "bbox": [
+      147,
+      897,
+      857,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Page 8 ",
+    "bbox": [
+      826,
+      27,
+      875,
+      40
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Findings: Chapters 33.651 through 33.654 address water service standards, sanitary sewer disposal standards, stormwater management, utilities and rights of way. The criteria and standards are met as shown in the following table: ",
+    "bbox": [
+      145,
+      54,
+      887,
+      99
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "33.651 Water Service standard – See Exhibit E.3 & E.4 for detailed bureau comments. ",
+    "bbox": [
+      147,
+      109,
+      859,
+      126
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Water Bureau has indicated that service is available to the site, as noted on page 2 of this report. Water Bureau notes Parcel 2 may use the existing 5/8-inch metered domestic service. If the existing service is used for new development, the meter will be reviewed for adequacy as part of the building permit review process. If the service is not used for the new development, it must be removed at the time new services are installed. ",
+    "bbox": [
+      151,
+      132,
+      910,
+      207
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Fire Bureau has reviewed and verified the Fire Flow information (Exhibit A.5) from the nearest fire hydrant has adequate capacity to serve the proposed development. ",
+    "bbox": [
+      155,
+      220,
+      885,
+      252
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The water service standards of 33.651 have been verified. ",
+    "bbox": [
+      153,
+      265,
+      614,
+      281
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "33.652 Sanitary Sewer Disposal Service standards – See Exhibit E.1 for detailed comments. ",
+    "text_level": 1,
+    "bbox": [
+      153,
+      295,
+      836,
+      325
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Bureau of Environmental Services (BES) has indicated that public sanitary service is available to the site, as noted on page 3 of this report. ",
+    "bbox": [
+      147,
+      327,
+      882,
+      356
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The applicant is proposing each parcel will be served by a new connection to the combined sewer in NE Garfield Avenue within its frontage. ",
+    "bbox": [
+      151,
+      369,
+      883,
+      400
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "BES reviewed the applicant’s narrative (Exhibit A.9) and site utility plan (Exhibit C.2) and determined the applicant’s proposed sanitary sewer service is acceptable for the purpose of reviewing the preliminary land division application against the sanitary sewer disposal approval criterion. ",
+    "bbox": [
+      153,
+      415,
+      887,
+      474
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The sanitary sewer service standards of 33.652 have been verified. ",
+    "bbox": [
+      153,
+      488,
+      686,
+      503
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "33.653.020 & .030 Stormwater Management criteria and standards – See Exhibits E.1 ",
+    "text_level": 1,
+    "bbox": [
+      151,
+      525,
+      887,
+      541
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "No stormwater tract is proposed or required. Therefore, criterion A is not applicable. ",
+    "bbox": [
+      151,
+      547,
+      834,
+      563
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The applicant proposing the following: ",
+    "bbox": [
+      155,
+      584,
+      460,
+      601
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Parcels 1 and 2: Stormwater from these lots will be directed to individual drywells that will treat the water and slowly infiltrate it into the ground. Each of these lots has enough area for a stormwater facility that can be adequately sized and located to meet setback ",
+    "bbox": [
+      153,
+      607,
+      887,
+      652
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Bureau of Environmental Services (BES) reviewed the applicant’s stormwater management narrative, (Exhibit A.7), and Simplified Approach Form (Exhibit A.3) and determined the proposed stormwater management plan (Exhibit C.2) is acceptable for reviewing the land division against the stormwater management approval criterion. ",
+    "bbox": [
+      153,
+      672,
+      883,
+      734
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "These criteria and standards are met. ",
+    "bbox": [
+      155,
+      748,
+      455,
+      763
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "33.654.110.B.1 Through streets and pedestrian connections -See Exhibit E.2 for bureau comments ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      777,
+      905,
+      809
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Generally, through streets should be provided no more than 530 feet apart and pedestrian connections should be provided no more than 330 feet apart. Through streets and pedestrian connections should generally be at least 200 feet apart. ",
+    "bbox": [
+      151,
+      823,
+      905,
+      868
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The site is located within an established grip block pattern for this neighborhood. However, the block on which the subject property is located does not meet the noted spacing requirements. Yes as noted in Portland Bureau of Transportation (PBOT) response, the site is approximately 70-feet south of an existing intersection of two public rights-of-way, so ",
+    "bbox": [
+      153,
+      882,
+      897,
+      943
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      140,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Page 9 ",
+    "bbox": [
+      825,
+      27,
+      875,
+      40
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "additional connections are neither required nor desired at this location. ",
+    "bbox": [
+      150,
+      55,
+      728,
+      70
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In addition, the site is not within an area that has an adopted Master Street Plan, so criterion d. does not apply. ",
+    "bbox": [
+      151,
+      84,
+      838,
+      116
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For the reasons described above, this criterion is met. ",
+    "bbox": [
+      151,
+      128,
+      586,
+      143
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "33.654.120.B & C Width & elements of the right-of-way – See Exhibit E.2 for bureau comments: ",
+    "text_level": 1,
+    "bbox": [
+      148,
+      159,
+      897,
+      188
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In reviewing this land division, Portland Transportation relies on accepted civil and traffic engineering standards and specifications to determine if existing street improvements for motor vehicles, pedestrians and bicyclists can safely and efficiently serve the proposed new development. Portland Bureau of Transportation (PBOT) comments are summarized below: ",
+    "bbox": [
+      151,
+      189,
+      890,
+      248
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "At this location NE Garfield Avenue is classified as a Pedestrian Walkway and Local Service for all other modes of transportation per the City’s Transportation System Plan (TSP). Properties directly to the east of this property are within the Alberta/Martin Luther King Blvd Pedestrian District. ",
+    "bbox": [
+      151,
+      262,
+      901,
+      321
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Existing Conditions: ",
+    "text_level": 1,
+    "bbox": [
+      155,
+      337,
+      318,
+      352
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "NE Garfield Avenue: NE Garfield is improved with approximately 36-ft. paved roadway with curbs and sidewalks within a 60-ft. wide right-ft. frontage zone. The sidewalk corridor consists of a 0.5-ft curb, 3.5-ft furnishing zone, 6-ft sidewalk, and 2-ft frontage zone. ",
+    "bbox": [
+      153,
+      353,
+      900,
+      397
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Standard Improvements: ",
+    "text_level": 1,
+    "bbox": [
+      155,
+      412,
+      354,
+      425
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In the R2.5 zone, for a Local Service street outside of a pedestrian district, the City’s Pedestrian Design Guide recommends an 11-ft pedestrian corridor consisting of a 0.5-ft curb, 4-ft furnishing zone, 6-ft sidewalk, and a .5-ft frontage zone. The corridor width along NE Garfield Ave. exceeds the overall corridor width requirement but does not meet the standard configuration due to furnishing zone width. The site does not qualify for consideration under TRN 1.22 due to the east side of the right-of-way being within a Pedestrian District. As such, the sidewalk will be required to be rebuilt to the standard configuration with a 4-ft furnishing zone at the time of permit. In this case, the excess 1-ft of right-of-way should be allocated to the frontage zone, resulting in a 0.5-ft curb, 4-ft furnishing zone, 6-ft sidewalk, and 1.5-ft frontage zone. It is anticipated this work can be accommodated via a Minor Improvement Permit associated with the building permit for the new attached houses. ",
+    "bbox": [
+      151,
+      426,
+      905,
+      589
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "With the improvement of the sidewalk corridor along this frontage at the time of development, PBOT determined the elements within these rights-of-way will be sufficient to accommodate the proposed development, existing development and expected users within this neighborhood. This criterion is met. ",
+    "bbox": [
+      153,
+      604,
+      890,
+      662
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "33.654.120.H – Standards for Street Trees – see Exhibit E.6 for bureau comments ",
+    "bbox": [
+      151,
+      684,
+      800,
+      700
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The City Forester reviews this land division proposal for its impact on existing trees, heritage trees, street tree requirements and related mitigation, in accordance with Title 11, Tree Code. One street tree must be planted or retained for each full increment of 25 linear feet (11.50.060.C.1). Street trees are required to be planted through building permit ",
+    "bbox": [
+      151,
+      707,
+      903,
+      767
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Existing Street Conditions: ",
+    "text_level": 1,
+    "bbox": [
+      155,
+      782,
+      387,
+      796
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "NE Garfield Avenue: The site has approximately 56-feet street frontage. The right-ofway is improved with pavement, curbs, planter strip and sidewalks. There are no overhead high voltage power lines. There are no street trees. ",
+    "bbox": [
+      181,
+      797,
+      903,
+      842
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Urban Forestry comments are summarized below: ",
+    "text_level": 1,
+    "bbox": [
+      156,
+      858,
+      576,
+      871
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Street trees will be required to be planted through the building permit review process. Urban Forestry has no objections to this proposal. ",
+    "bbox": [
+      155,
+      872,
+      903,
+      901
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "33.654.130.A - Utilities (defined as telephone, cable, natural gas, electric, etc.) ",
+    "bbox": [
+      151,
+      922,
+      826,
+      939
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      138,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Page 10 ",
+    "bbox": [
+      816,
+      26,
+      875,
+      40
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Any easements that may be needed for private utilities that cannot be accommodated within the adjacent right-of-ways can be provided on the final plat. At this time no specific utility easements adjacent to the right-of-way have been identified as being necessary. Therefore, this criterion is met. ",
+    "bbox": [
+      148,
+      54,
+      893,
+      114
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "DEVELOPMENT STANDARDS ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      128,
+      887,
+      147
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Development standards that are not relevant to the land division review, have not been addressed in the review. Unless specifically required in the approval criteria listed above, this proposal does not have to meet the development standards in order to be approved during this review process. The plans submitted for a building or zoning permit must demonstrate that all development standards of Title 11 can be met, and those of Title 33 can be met, or have received an Adjustment or Modification via a land use review prior to the approval of a building or zoning permit. ",
+    "bbox": [
+      145,
+      161,
+      888,
+      266
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Future Development ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      281,
+      323,
+      295
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Among the various development standards that will be applicable to this lot, the applicant should take note of the following development standards if detached houses are developed on these parcels: ",
+    "bbox": [
+      145,
+      296,
+      870,
+      339
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Narrow Lots-- development on Parcels 1 and 2 will be subject to the following   \nstandards at the time of development permitting:   \nHeight of the structures will be limited to 1.5 times the width of structure, up to the   \nmaximum height limit listed in Table 1103, per 33.110.215.B.2; and   \nGarages can be no wider than $50 \\%$ of the width of the front façade of the house, per   \n33.110.253.D.3.a   \nAttached garages are not permitted where the street facing façade of a unit that will   \nbe less than 22 feet per 33.110.253.D.3.b ",
+    "bbox": [
+      178,
+      340,
+      883,
+      462
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Attached Housing Development Standards (see 33.110.240.C.2): ",
+    "bbox": [
+      140,
+      477,
+      663,
+      492
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Building Setbacks. ",
+    "bbox": [
+      174,
+      492,
+      356,
+      506
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "(1) Perimeter building setbacks. The front, side, and rear building setbacks around the perimeter of an attached housing project are those of the base zone.   \n(2) Interior building setbacks. The side building setback on the side containing the common wall is reduced to zero. The reduced setback extends the full length of the lot line that contains the common or abutting wall. ",
+    "bbox": [
+      204,
+      507,
+      879,
+      580
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "• Landscape Standards. ",
+    "bbox": [
+      174,
+      582,
+      383,
+      595
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "(1) All street facing facades must have landscaping along the foundation. There must be at least one three-gallon shrub for every 3 lineal feet of foundation; and   \n(2) Sixty percent of the area between the front lot line and the front building line must be landscaped. At a minimum, the required landscaped area may be for recreational use, or for use by pedestrians. Examples include walkways, play areas, or patios. ",
+    "bbox": [
+      200,
+      597,
+      879,
+      685
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Existing development that will remain after the land division. The site is currently vacant, so the division of the property will not cause the structures to move out of conformance or further out of conformance with any development standard applicable in the R2.5 zone. Therefore, this land division proposal can meet the requirements of 33.700.015. ",
+    "bbox": [
+      143,
+      700,
+      888,
+      760
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "OTHER TECHNICAL REQUIREMENTS ",
+    "text_level": 1,
+    "bbox": [
+      140,
+      767,
+      883,
+      786
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Technical decisions have been made as part of this review process. These decisions have been made based on other City Titles, adopted technical manuals, and the technical expertise of appropriate service agencies. These related technical decisions are not considered land use actions. If future technical decisions result in changes that bring the project out of conformance with this land use decision, a new land use review may be required. The following is a summary of technical service standards applicable to this preliminary partition proposal. ",
+    "bbox": [
+      145,
+      795,
+      877,
+      900
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/850208d41ec4620b84659b472d4943e63a43d2010b805ca75458579ac2061359.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Bureau</td><td>Code Authority and Topic</td></tr><tr><td>Development Services/503-823-7300</td><td>Title 24 - Building Code, Flood plain</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> www.portlandonline.com/bds</td><td colspan=\"1\" rowspan=\"1\">Title 10 - Erosion Control, Site Development Administrative Rules for Private Rights-of-Way</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Environmental Services/503-823-7740www.portlandonline.com/bes</td><td colspan=\"1\" rowspan=\"1\">Title 17 - Sewer Improvements 2008 Stormwater Management Manual</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Fire Bureau/503-823-3700www.portlandonline.com/fire</td><td colspan=\"1\" rowspan=\"1\">Title 31 Policy B-1 - Emergency Access</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Transportation/503-823-5185www.portlandonline.com/transportation</td><td colspan=\"1\" rowspan=\"1\">Title 17 - Public Right-of-Way ImprovementsTransportation System Plan</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Urban Forestry (Parks)/503-823-4489 www.portlandonline.com/parks</td><td colspan=\"1\" rowspan=\"1\">Title 11 -Trees</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Water Bureau/503-823-7404www.portlandonline.com/water</td><td colspan=\"1\" rowspan=\"1\">Title 21-Water availability</td></tr></table>",
+    "bbox": [
+      150,
+      911,
+      913,
+      945
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Page 11 ",
+    "bbox": [
+      816,
+      26,
+      872,
+      40
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      143,
+      54,
+      913,
+      236
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "As authorized in Section 33.800.070 of the Zoning Code conditions of approval related to these technical standards have been included in the Administrative Decision on this proposal. ",
+    "bbox": [
+      145,
+      243,
+      861,
+      287
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Building Code (Life Safety Section of BDS Exhibit E.7): A separate building permit is required for the future development or for any demolition permits to remove existing structures on the site. These requirements are based on the technical standards of the Oregon Residential Specialty Code (ORSC), henceforth Building Code.   \nThe applicant at the time of development must meet the requirements of the Fire Bureau regarding addressing requirements; fire apparatus access, including aerial access. These requirements are based on the technical standards of Title 31 and Fire Bureau Policy B-1.   \nDriveways & Curb Cuts (Section 17.28): Curb cuts and driveway construction must meet the requirements in Title 17. The following is a summary of PBOT’s comments (Exhibit E.2 and PBOT RFC memo response Exhibit E.2.a): Based on the applicant’s narrative and submitted plan, a single shared driveway proposed. PBOT policy requires lots that are 18-ft to 28-ft wide to provide a shared driveway with a 14-ft throat with an on-site taper. Please note this will affect the depth required to accommodate the driveway and will likely impact the design the structures should the owners choose to provide vehicle parking. The shared driveway requirements are intended to minimize the impact to on-street parking from attached housing. The objective is to provide at least 15-ft of full-height curb along the frontage of each dwelling unit, or at least 15-ft of full height curb between driveways. The Title 17 driveway requirements will be enforced during the review of building permits or public works permits ",
+    "bbox": [
+      166,
+      289,
+      888,
+      603
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSIONS ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      609,
+      887,
+      628
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The applicant has proposed a two-parcel partition for narrow lots, as shown on the attached preliminary plan (Exhibit C.1). As discussed in this report, the relevant standards and approval criteria have been met, or can be met with conditions. ",
+    "bbox": [
+      143,
+      637,
+      885,
+      681
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The R2.5 zone allows for detached houses or attached houses to be developed. Each lot proposed meets the lot dimension standards to be developed with a detached house or attached house. If on-site parking is proposed at the time of development of these lots, then a shared driveway and a reciprocal access easement and maintenance agreement for the shared driveway must be provided. Fire Bureau requires addressing and fire apparatus access including aerial access to be met at the time of development. ",
+    "bbox": [
+      145,
+      690,
+      883,
+      780
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "With conditions of approval that address these requirements this proposal can be approved. ",
+    "bbox": [
+      142,
+      787,
+      882,
+      804
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "ADMINISTRATIVE DECISION ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      810,
+      882,
+      829
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Approval of a Preliminary Plan for a two-parcel partition, that will result in two narrow lots as illustrated with Exhibit C.1, subject to the following conditions: ",
+    "bbox": [
+      138,
+      838,
+      877,
+      868
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A. The following conditions are applicable to site preparation and the development of individual lots: ",
+    "text_level": 1,
+    "bbox": [
+      142,
+      877,
+      882,
+      907
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1. The applicant must meet the Fire Bureau requirements for addressing and aerial fire department access. Aerial access applies to buildings that exceed 30 feet in height from the fire access as measured to the bottom of the eave of the structure or the top of the parapet for a flat roof. ",
+    "bbox": [
+      143,
+      915,
+      875,
+      946
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Page 12 ",
+    "bbox": [
+      816,
+      26,
+      875,
+      40
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      165,
+      54,
+      867,
+      84
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2. If on-site parking is proposed on these narrow lots, then the applicant shall provide a shared driveway to the satisfaction of Portland Bureau of Transportation; and prior to building permit approval, a reciprocal access easement and maintenance agreement will be required to be provided for the shared driveway. ",
+    "bbox": [
+      143,
+      93,
+      882,
+      152
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Staff Planner: Lois Jennings ",
+    "bbox": [
+      145,
+      161,
+      398,
+      176
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Decision rendered by: ",
+    "bbox": [
+      143,
+      207,
+      331,
+      219
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/0d507ac5449c7b9003bd7cc77245ebe61ad3bd996d72a9522b95b16e5fb66f16.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      375,
+      181,
+      629,
+      219
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "on November 20, 2020 ",
+    "bbox": [
+      691,
+      207,
+      885,
+      220
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "By authority of the Director of the Bureau of Development Services ",
+    "bbox": [
+      313,
+      220,
+      743,
+      233
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Decision mailed November 23, 2020 ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      243,
+      459,
+      258
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "About this Decision. This land use decision is not a permit for development. A Final Plat must be completed and recorded before the proposed lots can be sold or developed. Permits may be required prior to any work. Contact the Development Services Center at 503-823-7310 for information about permits. ",
+    "bbox": [
+      143,
+      273,
+      877,
+      333
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Procedural Information. The application for this land use review was submitted on August 31, 2020, and was determined to be complete on September 30, 2020. ",
+    "bbox": [
+      145,
+      342,
+      825,
+      372
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Zoning Code Section 33.700.080 states that Land Use Review applications are reviewed under the regulations in effect at the time the application was submitted, provided that the application is complete at the time of submittal, or complete within 180 days. Therefore this application was reviewed against the Zoning Code in effect on August 31, 2020. ",
+    "bbox": [
+      145,
+      380,
+      879,
+      440
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ORS 227.178 states the City must issue a final decision on Land Use Review applications within 120-days of the application being deemed complete. The 120-day review period may be waived or extended at the request of the applicant. In this case, the applicant did not waive or extend the 120-day review period. Unless further extended by the applicant, the 120 days will expire on: January 28, 2021. ",
+    "bbox": [
+      145,
+      448,
+      879,
+      523
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Some of the information contained in this report was provided by the applicant. ",
+    "bbox": [
+      148,
+      531,
+      830,
+      546
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "As required by Section 33.800.060 of the Portland Zoning Code, the burden of proof is on the applicant to show that the approval criteria are met. The Bureau of Development Services has independently reviewed the information submitted by the applicant and has included this information only where the Bureau of Development Services has determined the information satisfactorily demonstrates compliance with the applicable approval criteria. This report is the decision of the Bureau of Development Services with input from other City and public agencies. ",
+    "bbox": [
+      145,
+      547,
+      885,
+      650
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Conditions of Approval. If approved, this project may be subject to a number of specific conditions, listed above. Compliance with the applicable conditions of approval must be documented in all related permit applications. Plans and drawings submitted during the permitting process must illustrate how applicable conditions of approval are met. Any project elements that are specifically required by conditions of approval must be shown on the plans, and labeled as such. ",
+    "bbox": [
+      143,
+      659,
+      872,
+      748
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "These conditions of approval run with the land, unless modified by future land use reviews. As used in the conditions, the term “applicant” includes the applicant for this land use review, any person undertaking development pursuant to this land use review, the proprietor of the use or development approved by this land use review, and the current owner and future owners of the property subject to this land use review. ",
+    "bbox": [
+      143,
+      756,
+      880,
+      832
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This decision, and any conditions associated with it, is final. It may be appealed to the Oregon Land Use Board of Appeals (LUBA), within 21 days of the date the decision is mailed, as specified in the Oregon Revised Statute (ORS) 197.830. Among other things, ORS 197.830 requires that a petitioner at LUBA must have submitted written testimony during the comment period for this land use review. Contact LUBA at 775 Summer St NE Suite 330, Salem, OR 97301-1283 or phone 1-503-373-1265 for further information. ",
+    "bbox": [
+      145,
+      840,
+      888,
+      929
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      137,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Page 13 ",
+    "bbox": [
+      816,
+      26,
+      875,
+      40
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The file and all evidence on this case are available for your review by appointment only. Please call the Request Line at our office, 1900 SW Fourth Avenue, Suite 5000, phone 503- 823-7617, to schedule an appointment. I can provide some information over the phone. Copies of all information in the file can be obtained for a fee equal to the cost of services. Additional information about the City of Portland, city bureaus, and a digital copy of the Portland Zoning Code is available on the internet at www.portlandonline.com. ",
+    "bbox": [
+      143,
+      54,
+      879,
+      143
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Recording the land division. The final land division plat must be submitted to the City within three years of the date of the City’s final approval of the preliminary plan. This final plat must be recorded with the County Recorder and Assessors Office after it is signed by the Planning Director or delegate, the City Engineer, and the City Land Use Hearings Officer, and approved by the County Surveyor. The approved preliminary plan will expire unless a final plat is submitted within three years of the date of the City’s approval of the preliminary plan. ",
+    "bbox": [
+      143,
+      151,
+      888,
+      257
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "EXHIBITS NOT ATTACHED UNLESS INDICATED ",
+    "text_level": 1,
+    "bbox": [
+      362,
+      265,
+      671,
+      295
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "A. Applicant’s Statement 1. Original Approval Criteria Narrative 2. Original Plans 3. Original Stormwater Information 4. Original Arborist Report 5. Fire Hydrant Information from Water Bureau 6. Applicant’s response to incomplete letter 7. Revised Narrative addressing approval criteria 8. Tree Table submitted September 30, 2020 9. Tree Plan submitted September 30, 2020 10. Plan Cover Sheet 11. Preliminary Plat Site plan submitted September 30, 2020 12. Preliminary Site improvement and Utility Plan submitted September 30, 2020 13. Preliminary Grading and Erosion Control plan 14. Multnomah County Intake Work Order for Property Line Adjustment   \nB. Zoning Map (attached)   \nC. Plans/Drawings: 1. Preliminary Land Division Site Plan (attached) 2. Preliminary Site Improvement & Utility Plan   \nD. Notification information: 1. Mailing list 2. Mailed notice   \nE. Agency Responses: 1. Bureau of Environmental Services 2. Portland Bureau of Transportation(PBOT) Engineering and Development Review a. PBOT RFC response 3. Water Bureau 4. Fire Bureau 5. Site Development Review Section of BDS 6. Bureau of Parks, Forestry Division   \nF. Correspondence: None   \nG. Other: 1. Original Land Use Application 2. Expedited Land Division Acknowledgement form 3. Incomplete Letter 4. Tax Assessor Map 5. Example of Narrow Lots with detached garages and shared driveway 6. Close to Transit map ",
+    "bbox": [
+      142,
+      295,
+      849,
+      863
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The Bureau of Development Services is committed to providing equal access to information and hearings. Please notify us no less than five business days prior to the event if you need special accommodations. Call 503-823-7300 (TTY 503-823-6868). ",
+    "bbox": [
+      143,
+      867,
+      874,
+      933
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Decision Notice for LU 20-185832 LDP ",
+    "bbox": [
+      138,
+      26,
+      416,
+      39
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Page 14 ",
+    "bbox": [
+      816,
+      26,
+      874,
+      40
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/082e2748ecd41e441f1b3fe93343e1d1121295426ec8ae4409c1cde928bbe894.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      70,
+      73,
+      946,
+      837
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1/4 Section 2530 Scale 1inch=200 feet StateID 1N1E22AD17300 Exhibit B Sep 01,2020 ",
+    "bbox": [
+      624,
+      815,
+      929,
+      920
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "ZONING NORTH ",
+    "bbox": [
+      75,
+      814,
+      305,
+      852
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_2928102/auto/images/520eaa0ef45b2685d41c633b3dc32b867257bd5011b7cb32da16b8290566a19c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      199,
+      132,
+      808,
+      930
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      545,
+      53,
+      872,
+      59
+    ],
+    "page_idx": 15
+  }
+]

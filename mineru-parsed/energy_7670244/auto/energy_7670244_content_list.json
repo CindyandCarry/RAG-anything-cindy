@@ -1,0 +1,1340 @@
+[
+  {
+    "type": "text",
+    "text": "Simple Solution-Processed Approach for Nanoscale Coverage of Perovskite on Textured Silicon Surface Enabling Highly Efficient Perovskite/Si Tandem Solar Cells ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      84,
+      909,
+      172
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Jiayuan Wang, Chao Gao, Xin Wang, Yangrunqian Wang, Zhendong Cheng, Hong Liu, and Wenzhong Shen\\* ",
+    "bbox": [
+      80,
+      190,
+      912,
+      232
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Existing methods toward the preparation of perovskite deposited on textured silicon surfaces are technically complicated for perovskite/Si monolithic tandem solar cells (TSCs). Herein, a handy solvent engineering approach of introducing starch additive in $M A P b \\mathsf { I } _ { 3 }$ -based one-step spin coating at room temperature is reported. The effect of different starch contents in perovskite precursor solution on morphological, structural, optical, and photovoltaic properties of the perovskite films is investigated. The starch enhances the solution viscosity and establishes hydrogen bonds with $C H _ { 3 } N H _ { 3 } +$ , leading to the formation of almost same perovskite crystal structure films suitable for textured silicon surfaces. ",
+    "bbox": [
+      84,
+      276,
+      611,
+      423
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The perovskite film with a starch concentration of $5 u t \\%$ realizes full coverage on the textured silicon surface with an average thickness around $6 0 0 \\mathsf { n m }$ . Both the perovskite film and corresponding plane solar cell exhibit stable crystal structure and device performance due to the starch molecules located at the perovskite grain boundaries to lock the water molecules. The potential of pairing the yielded quasiconformal nanoscale coverage of perovskite layers with textured silicon surfaces is evaluated, and the uniform light absorption in perovskite layers and good match of the current density in perovskite/Si monolithic TSCs, with the best-calculated cell efficiency exceeding $29 \\%$ , are demonstrated. ",
+    "bbox": [
+      84,
+      425,
+      611,
+      572
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Recently, perovskite/c-Si monolithic tandem solar cells (TSCs) have attracted extensive attention. Perovskite is considered to be the ideal top cell material because of its tunable bandgaps, high absorption coefficient, and various preparation methods.[3] The efficiency of devices has quickly increased from $3 . 8 \\%$ to $2 5 . 2 \\%$ .[4,5] Si solar cells have the advantages of intense short-circuit current and high absorption in longwave, suitable as the bottom cell. Perovskite/ c-Si TSCs combine Si cells with a bandgap of $1 . 1 2 \\mathrm { e V }$ and perovskite cells with a tunable bandgap of $1 . 5 { - } 2 . 3 \\mathrm { e V }$ to achieve spectral distribution absorption.[6–8] In theory, the ultimate efficiency of two-junction cells with full-spectrum matching can reach $43 \\%$ , which is the dawn of the future photovoltaic industry.[9] In the past 5 years, the PCEs of the perovskite/c-Si monolithic TSCs have sharply increased from an initial $1 3 . 7 \\%$ to a recently certified $2 9 . 1 5 \\%$ , exhibiting the enormous potential of TSCs.[5,10] ",
+    "bbox": [
+      647,
+      263,
+      919,
+      589
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      618,
+      203,
+      635
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Nowadays, crystalline silicon (c-Si) solar cells account for more than $90 \\%$ of the photovoltaic market due to the advantages of nonpollution, popularization of raw materials, low levelized cost, and high power conversion efficiencies (PCEs). The efficiency of c-Si solar cells based on the heterojunction back contact structure has reached up to $2 6 . 6 \\%$ .[1] For single-junction solar cells, it is difficult to further improve their PCEs attributed to the Shockley–Queisser limit, which is $2 9 . 4 \\%$ for c-Si solar cells.[2] ",
+    "bbox": [
+      84,
+      647,
+      490,
+      760
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The early studies on perovskite/Si TSCs were carried out on the front surfacepolished silicon cells as the perovskite preparation process was mostly based on flat substrates.[10-18] However, nontextured surface could cause severe optical losses. To maximize the absorption of the solar spectrum and avoid the surface polishing step, many researchers have now joined in studying the growth of perovskite films on the fully textured silicon surfaces.[19–22] The incompatibility of silicon and perovskite solar cell (PSC) manufacturing processes has brought new challenges and opportunities for photovoltaic community. The difficulty lies in the large undulations of the silicon surface, and the ordinary solution route will cause serious enrichment of the perovskite precursor in the Si pyramid valley, which results in exposure of the Si pyramid tip. Moreover, due to the different wettability of perovskite precursor solutions to different substrate morphologies, the Si pyramid induces new difficulties for the growth of perovskite controllable film thickness. ",
+    "bbox": [
+      512,
+      590,
+      919,
+      845
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Up to now, the growth of perovskite on the fully pyramidtextured silicon surface can be summarized into three types: 1) Micrometer-thick perovskite full coverage;[19,20] 2) Dual-source coevaporation method combined with solution method;[21] and 3) Mechanical stacking.[22] For the first scenario, Hou et al. used concentrated $( 1 . 6 5 { - } 1 . 7 5 \\mathrm { { M } ) }$ precursors to prepare micrometerthick perovskites with $2 { \\mathrm { - } } 4 \\mu \\mathrm { m }$ grains. To overcome the problem of electrical degradation, they anchored the self-limiting passivator on the surface of the perovskite which tripled the depletion width at the valley of the Si pyramid and suppressed phase segregation, and the PCE has achieved $2 5 . 7 \\%$ .[19] In contrast, Chen et al. used the nitrogen-assisted scraper process to deposit a conformal hole-transport material and a planarized micrometer-thick perovskite that completely covered the textured Si cell. They achieved a PCE of $2 6 \\%$ by adding a light-scattering layer (polydimethylsiloxane, PDMS) on top of the tandem structure to reduce the reflectivity of the front surface.[20] Using micrometer-thick perovskite to cover the whole pyramids is the simplest and direct scheme, but disadvantages are that the thick perovskite makes the carrier collection of pyramid valley become difficult, and the flat front surface of perovskite causes serious optical loss. For the second scenario, Sahli et al. adopted a combination of dual-source coevaporation and solution route. The perovskite film was prepared by coevaporating cesium bromide (CsBr) and lead (II) iodide $( \\mathrm { P b } _ { 2 } )$ templates before spin-coating organic halide formamidinium bromide (FABr) and formamidinium iodide (FAI) solutions. The organic halide solution penetrates into the pores of the $\\mathrm { P b I } _ { 2 }$ and CsBr scaffold, whereas the remaining solution is sprayed out of the substrate during the spin-coating process. This effect can prevent organic halides from accumulating in the pyramid valley and achieved a PCE of $2 5 . 2 \\%$ .[21] The advantage is that the uniform and conformal growth of nanoscale perovskites can be realized, but the highly toxic lead compound gas is generated during the deposition process, and the preparation steps are also relatively complicated. For the third scenario, Lamanna et al. proposed a mechanically stacked two-terminal (2T) perovskite/Si TSC. The back electrode of the mesoscopic perovskite top cell is connected in series with the front metal grid of the textured Si bottom cell by bonding. By optimizing the functional layer to minimize optical and electrical losses, the champion tandem cell shows an efficiency of $2 6 . 3 \\%$ . The subcells of this scheme are independently manufactured and optimized, but its shortcomings are the complexity of the preparation process, the optical loss caused by the bonding of Ag metal fingers, and the increased cost of manufacturing.[22] ",
+    "bbox": [
+      512,
+      846,
+      919,
+      916
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Energy Technolog! Generation,Conversion, Storage, Distributic Check for www.entechnol.d updates ",
+    "bbox": [
+      781,
+      11,
+      988,
+      69
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2000778 (1 of 10) ",
+    "bbox": [
+      443,
+      943,
+      557,
+      956
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      85,
+      945,
+      247,
+      955
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "FULL PAPER ",
+    "bbox": [
+      84,
+      26,
+      216,
+      43
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      784,
+      945,
+      919,
+      955
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/ente.202000778. ",
+    "bbox": [
+      84,
+      874,
+      492,
+      897
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "J. Wang, C. Gao, X. Wang, Y. Wang, Z. Cheng, Dr. H. Liu, Prof. W. Shen Institute of Solar Energy, and Key Laboratory of Artificial Structures and Quantum Control (Ministry of Education), School of Physics and Astronomy Shanghai Jiao Tong University Shanghai 200240, P. R. China E-mail: wzshen@sjtu.edu.cn ",
+    "bbox": [
+      84,
+      785,
+      489,
+      867
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "DOI: 10.1002/ente.202000778 ",
+    "bbox": [
+      84,
+      904,
+      275,
+      916
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      84,
+      485,
+      667
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Herein, we report a simple, effective, and solution-processed approach to reach full coverage of nanoscale perovskite on textured silicon surface by introducing starch as an additive to adjust the viscosity of the perovskite precursor solution. Comparing with other approaches such as dual-source coevaporation and mechanical stacking,[21,22] the solution-processed method is easier and lower cost to solve the deposition problems for highly efficient perovskite/Si TSCs. The nanoscale coverage, structural, optical, and photovoltaic characteristics of perovskite with variable starch concentrations have been systematically evaluated. We have further calculated the perovskite/Si monolithic TSCs relying on experimental results, and implemented optimization of configuration parameters for achieving the tandem cell efficiency over $2 9 \\%$ . This investigation offers a fresh perspective on one-step precursor solution deposition of quasiconformal perovskite layer in combination with standard silicon solar cell technology enabling highly efficient perovskite/Si monolithic TSCs. ",
+    "bbox": [
+      78,
+      664,
+      485,
+      916
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Results and Discussion ",
+    "text_level": 1,
+    "bbox": [
+      507,
+      88,
+      717,
+      103
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.1. Perovskite Precursor Solution Viscosity and Coverage on Pyramid-Textured Silicon Surface ",
+    "text_level": 1,
+    "bbox": [
+      507,
+      112,
+      894,
+      140
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We proposed here that the growth difficulty of perovskite films on fully textured silicon surfaces can be solved by simply solvent engineering, which achieved uniform film coverage by adjusting the viscosity of the perovskite precursor solution.[23,24] The dimethyl sulfoxide (DMSO) solution system exhibits viscidity due to the existence of corn starch, during dissolution starch undergone gelatinization and disruption of crystallinity.[23,25–29] The starch molecules formed a viscous matrix, and the perovskite precursor was dispersed and interacted with it via hydrogen bonds.[23,30] The influence of starch concentration on the viscosity of the perovskite precursor/DMSO solution was systematically investigated. a shows the viscosity of solution Figure 1as a function of the starch concentration. By increasing the starch content from 0 to $1 0 \\mathrm { w t \\% }$ , the viscosity of the perovskite $^ +$ starch precursor solution increases rapidly from ${ \\approx } 5 . 5 7$ to ${ \\approx } 4 5 7 . 7 5 \\mathrm { m P a } \\mathrm { s }$ . Due to the transition of the liquor from Newtonian solution to non-Newtonian solution, the experiment is measured to provide the average value and standard deviation.[24] More significantly, the addition of starch has a striking impact on the growth of perovskite on pyramid-textured silicon surfaces. ",
+    "bbox": [
+      507,
+      156,
+      914,
+      452
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We used the scanning electron microscope (SEM) technique to immediately observe the morphology change by introducing starch in the perovskite layer. Figure 1b–i and  shows the 2top-view and cross-sectional SEM images of perovskite films on pyramid-textured silicon surfaces by varying the starch ratio from 0 to $1 0 \\mathrm { w t } \\%$ , respectively. The pure textured silicon surface in Figure 1b and 2a shows $1 { - } 2 \\mu \\mathrm { m }$ -sized faceted pyramids. Clearly, as shown in Figure 1c and 2b, the pristine perovskite precursors, without starch, deposited by one-step spin coating resulted in the pyramids being exposed. Such exposed perovskite films would lead to the short circuit of perovskite/Si TSC. For fixed (1 M) $\\mathrm { M A P b I } _ { 3 }$ perovskite precursor in DMSO solution, the ratio of corn perovskite $^ +$ starch in precursor was tuned from 1 to $1 0 \\mathrm { w t \\% }$ . Obviously, a more uniform coverage of the textured silicon substrate was observed with the increase in starch concentration. The pyramids in Figure 1d–f and 2c–f, corresponding to the starch concentrations of $1 { - } 4 \\mathrm { w t } \\%$ , were still exposed with surface coverage of perovskite to reach about $90 \\%$ . However, further increasing the starch concentration to $6 \\mathrm { w t \\% }$ (shown in Figure 1h and 2h), the perovskite film was quite thick and poor. As the starch concentration further increased to $1 0 \\mathrm { w t \\% }$ , the morphology in Figure 1i and 2i resembled a flake with bundles and obvious cluster phenomenon. It was deduced that the cluster in perovskite particles might be caused by the entanglement of long chains of high starch concentration. ",
+    "bbox": [
+      509,
+      453,
+      914,
+      804
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "a shows the statistical results of the perovskite $^ +$ Figure 3starch film thickness and uncovered height of textured silicon surface in relationship with the starch concentration. These statistical results were obtained from 10 samples under the same conditions. The perovskite $^ +$ starch film thickness increased steadily with the starch content. On the contrary, the uncovered height of textured silicon surface declined gradually, implying that the pyramids were less exposed. It is found that the uncovered height equals to nearly $0 \\mathrm { n m }$ at a starch concentration of $5 \\mathrm { w t \\% }$ , where the perovskite $^ +$ starch film almost realizes full coverage on the textured silicon surface and the observed surface morphology in Figure 1g and $2 \\mathrm { g }$ is uniform with an average perovskite $^ +$ starch film thickness of ${ \\approx } 6 0 0 \\mathrm { n m }$ . Figure 3b,c shows the 3D atomic force microscope (AFM) images of pure pyramid-textured ${ \\mathsf { c } } { \\mathsf { - } } { \\mathsf { S i } }$ surface and perovskite $+ 5 \\mathrm { w t } \\%$ starch film deposited on textured silicon substrate, respectively. The root-mean-square (RMS) roughness of initial textured c-Si is $1 7 6 . 6 \\mathrm { n m }$ . By depositing perovskite $+ 5 \\mathrm { w t } \\%$ starch film, the surface becomes smoother with a roughness of only $5 2 . 8 \\mathrm { n m }$ . The reduced RMS roughness after depositing the perovskite $^ +$ starch film on the textured silicon surface is beneficial for the perovskite/Si TSC fabrication with excellent electrical contact between perovskite layer and subsequent carrier transport layer. As we know, the rheology of the precursor solution is related to the starch concentration and is the key factor for the formation of the perovskite film. The viscosity, along with the hydrogen bonds between starch molecules and perovskite precursors, contributes to yield a uniform perovskite film during perovskite crystallization process.[23,30,31] Figure 3d further shows the cross-sectional SEM and energy-dispersive X-ray spectroscopy (EDS) mapping of perovskite $+ 5 \\mathrm { w t \\% }$ starch film on textured silicon surface, demonstrating the excellent contact of perovskite layer and silicon region. Analyzing the EDS element mapping of Pb, I, and Si in the structure, the perovskite particles were uniformly distributed on textured silicon surface. The interface characteristics of perovskite and textured silicon surface confirmed the perovskite was deposited uniformly, and there was no accumulation of interfering elements, nor material absence at the facets of the Si pyramids. ",
+    "bbox": [
+      507,
+      805,
+      914,
+      916
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation,Conversion, Storage, Distrition www.entechnol.de ",
+    "bbox": [
+      776,
+      31,
+      915,
+      65
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      77,
+      19,
+      255,
+      66
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2000778 (2 of 10) ",
+    "bbox": [
+      440,
+      943,
+      552,
+      956
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      78,
+      945,
+      243,
+      955
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      779,
+      945,
+      914,
+      955
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/18d8af920b7ee13d13195c3a5aea6a00f9578ff448880c7bf9243746367fe036.jpg",
+    "image_caption": [
+      "Figure 1. a) Viscosity of the perovskite precursor solution by increasing the starch concentration from 0 to $10 \\mathrm { { w t \\% } }$ . Top-view SEM images of b) pure pyramid-textured silicon surface and the pyramid-textured silicon surface covered by perovskite films at different starch ratios of c) $0 \\mathrm { { w t \\% } }$ , d) $1 \\mathrm { w t \\% }$ , e) $3 \\mathrm { w t \\% }$ , f ) $4 \\mu \\tau \\%$ , g) $5 \\mathrm { w t \\% }$ , h) $6 \\mu \\tau \\%$ , and i) $10 \\%$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      163,
+      88,
+      840,
+      482
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      552,
+      490,
+      916
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      551,
+      919,
+      621
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.2. Perovskite $^ +$ Starch Film Characteristics and Solar Cell Performance ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      645,
+      885,
+      673
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To better understand the structural and optical properties of perovskite $^ +$ starch films at different starch ratios, we conducted the related experiments on perovskite $^ +$ starch films with the fluorine-doped tin oxide (FTO)-coated glass substrate. a shows the crystal structure of the perovskite $^ +$ starch Figure 4films using X-ray diffractometer (XRD) technique. The XRD pattern exhibited several strong diffraction peaks at $2 \\theta$ of $1 4 . 1 ^ { \\circ }$ , $2 8 . 4 ^ { \\circ }$ , $3 2 . 0 ^ { \\circ }$ , and $4 3 . 3 ^ { \\circ }$ , which could be separately indexed to (110), (220), (312), and (330) planes of octahedral perovskite film, in consistence with the lattice structure of $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ .[32] The peaks at $2 \\theta$ of $2 6 . 6 ^ { \\circ }$ and $3 8 . 0 ^ { \\circ }$ were attributed to the existence of FTO substrate.[33] It is clear that the addition of starch maintained the crystallinity of the perovskite material without destroying the crystal structure. Moreover, by partial zoom-in of the XRD peaks at the main peak $( \\approx 1 4 ^ { \\circ }$ peak), it was found that there was a slight decrease in the crystal size, as shown in Figure S1 and Table S1, Supporting Information. A moderate decrease in crystal size is beneficial to the improvement of film coverage. Figure S2, Supporting Information, shows the ",
+    "bbox": [
+      512,
+      689,
+      919,
+      918
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      80,
+      17,
+      258,
+      66
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      786,
+      30,
+      921,
+      66
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2000778 (3 of 10) ",
+    "bbox": [
+      443,
+      943,
+      557,
+      956
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      85,
+      945,
+      247,
+      955
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      784,
+      945,
+      919,
+      955
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/c90ebb48f085873e17ca8e8f069e96d3ab867de2c22bcdd21385472ef05b9b1b.jpg",
+    "image_caption": [
+      "Figure 2. Cross-sectional SEM images of a) pure pyramid-textured silicon surface and the pyramid-textured silicon surface covered by perovskite films at different starch ratios of b) $0 \\mathrm { { w t \\% } }$ , c) 1 wt%, d) 2 wt%, e) $3 \\mathrm { w t \\% }$ , f ) 4 wt%, g) 5 wt%, h) 6 wt%, and i) $10 \\%$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      157,
+      90,
+      835,
+      480
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/adf134e529c77355789b5b79eb6a0b7a1934cca779c371ce4cfddffb20d29e2c.jpg",
+    "image_caption": [
+      "Figure 3. a) Dependence of the perovskite $^ +$ starch film thickness and uncovered height of textured silicon surface on starch concentration. 3D AFM images of b) pure pyramid-textured silicon surface and c) the pyramid-textured silicon surface covered by perovskite $+ 5 \\mathrm { w t } \\%$ starch film. d) Cross-sectional SEM and EDS mapping images of perovskite $+ 5 \\mathrm { w t } \\%$ starch film on the textured silicon surface, presenting the interface distribution of silicon (Si, green), iodide (I, blue) and lead (Pb, yellow). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      110,
+      531,
+      880,
+      795
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      77,
+      874,
+      485,
+      916
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "UV–vis–near infrared (NIR) absorption spectra of the perovskite $^ +$ starch films. Comparing with the pristine perovskite film, the perovskite $^ +$ starch films demonstrated enhanced light absorption after the addition of merely $1 \\mathrm { w t } \\%$ starch. The film absorption increased significantly by adding $3 \\mathrm { w t \\% }$ starch, and the optimal absorption performance was obtained with a starch concentration of $5 \\mathrm { - } 6 \\mathrm { w t \\% }$ . This reveals that the higher starch additive concentration can lead to highly absorbing capacity due to the thicker perovskite films whose average thickness were increased from 121.2 to $7 6 7 . 3 \\mathrm { n m }$ at the starch ratios of 0 to $6 \\mathrm { w t \\% }$ , as shown in Figure 3a. Meanwhile, the optical bandgap of the perovskite $^ +$ starch films from the Tauc plot is shown in Figure 4b.[34] ",
+    "bbox": [
+      507,
+      874,
+      914,
+      916
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      776,
+      30,
+      915,
+      66
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS. www.advancedsciencenews.com ",
+    "bbox": [
+      75,
+      17,
+      257,
+      66
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2000778 (4 of 10) ",
+    "bbox": [
+      438,
+      943,
+      552,
+      956
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      78,
+      945,
+      243,
+      955
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      779,
+      945,
+      914,
+      955
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/9e0dcb7e38572ce62a83a3e4cb1e43d4b2aacdacbc3b649fd39562821fb78cc7.jpg",
+    "image_caption": [
+      "Figure 4. a) XRD spectra, b) Tauc plot, c) steady-state PL spectra, and d) TRPL spectra of perovskite $^ +$ starch films by varying the starch content from 0 to $6 \\mu \\tau \\%$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      231,
+      88,
+      766,
+      423
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      475,
+      489,
+      617
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The steady-state photoluminescence (PL) and time-resolved photoluminescence (TRPL) attenuation spectra of these perovskite $^ +$ starch films are shown in Figure 4c,d, respectively. Particularly, a slight redshift of the absorption and PL were observed, which could be attributed to the different morphology of the perovskite crystal of each film sample. It deduced that the crystal size of perovskite decreases and higher disordering in films with more grains, resulting in a larger scattering effect.[35] We have further shown in Figure 4d about the double exponential function (solid curves) to quantitatively compare PL decay of the perovskite $^ +$ starch films. It can be calculated that the average carrier lifetime was ${ \\approx } 2 . 3$ ns for the pristine perovskite film.[36] By increasing the starch content to 1, 3, 5, and $6 \\mathrm { w t \\% }$ , the average carrier lifetime were 8.0, 21.9, 75.8, and 332.5 ns, respectively. Longer carrier lifetime indicates the viscous matrix of starch molecules as a template for the perovskite growth stemming the diffusion path of carriers, suppressing charge recombination and therefore retarding the luminescence decay in the perovskite grain boundary interface.[28,36] ",
+    "bbox": [
+      84,
+      618,
+      490,
+      888
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "To evaluate the solar cell performance based on perovskite $^ +$ starch and pristine perovskite, we fabricated the PSCs with the typical plane p-i-n structure, contained several layers of FTO glass, $\\mathrm { N i O } _ { x } ,$ $\\mathrm { M A P b I } _ { 3 } +$ starch, PCBM and Ag. As shown in a, the cross-sectional SEM image of the PSC with perov-Figuskite $+ 5 \\mathrm { w t \\% }$ starch film exhibit uniformly deposited films and highly distinct interfacial condition, which is in accordance with the schematic diagram. Figure S3, Supporting Information, and Figure 5b shows that the $J { - } V$ performance of PSCs become inferior with increasing the starch content. It is found that the addition of starch leads to obvious change in open-circuit voltage $( V _ { \\mathrm { O C } } )$ that decreased from $1 . 0 8 \\mathrm { V }$ (without starch) to $0 . 7 9 \\mathrm { V }$ (with $6 \\mathrm { w t \\% }$ starch), short-circuit current density $( J { \\mathrm { s c } } )$ from 22.43 to $2 0 . 8 4 \\mathrm { m A c m } ^ { - 2 }$ , fill factor (FF) from $6 9 . 1 3 \\%$ to $4 4 . 8 5 \\%$ and the device PCE from $1 6 . 8 1 \\%$ to $7 . 3 6 \\%$ . Figure S4, Supporting Information, shows the electrical conductivity of perovskite $^ +$ starch films with different starch concentrations. As we know, excessive starch content has the adverse effects that the perovskite $^ +$ starch films own poor electrical conductivity and stem the partial transport path of carriers. Combined with the above results of morphology, coverage, and photoelectric characteristics, the starch concentration is set to be $5 \\mathrm { w t \\% }$ in the following experiments. The corresponding PSC exhibits the $V _ { \\mathrm { O C } }$ of $1 . 0 6 \\mathrm { V }$ $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of $2 0 . 9 7 \\mathrm { m A c m } ^ { - 2 }$ , FF of $5 5 . 3 9 \\%$ , and PCE of $1 2 . 3 3 \\%$ . ",
+    "bbox": [
+      84,
+      890,
+      489,
+      916
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      475,
+      919,
+      789
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The long-term stability of PSCs is still a crucial research orientation.[37,38] The humidity stability of films based on reference pristine perovskite and perovskite $+ 5 \\mathrm { w t } \\%$ starch was compared by measuring the XRD spectra. Films were exposed to dark environment with a moisture content of ${ \\approx } 7 0 \\%$ and a temperature of ${ \\approx } 2 5 ~ { } ^ { \\circ } \\mathrm { C }$ for several days before test. The XRD spectra of the pristine perovskite film in Figure 5c show a dramatical increase in the intensity of the $\\mathrm { P b I } _ { 2 }$ peak $( 2 \\theta = 1 2 . 6 ^ { \\circ } )$ ) with increasing the exposed days, even higher than $\\mathrm { M A P b I } _ { 3 }$ reflection $( 2 \\theta = 1 4 . 1 ^ { \\circ } )$ . Simultaneously, the intensity of perovskite peaks is greatly reduced or even disappeared, indicating the decomposition of the pristine perovskite. In contrast, the intensity of $\\mathrm { P b I } _ { 2 }$ peak only slightly increased and remained much lower than the main perovskite reflections in the perovskite $^ +$ starch film (Figure 5d). ",
+    "bbox": [
+      514,
+      790,
+      919,
+      918
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      80,
+      17,
+      262,
+      66
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      784,
+      30,
+      921,
+      66
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2000778 (5 of 10) ",
+    "bbox": [
+      443,
+      943,
+      557,
+      956
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      85,
+      945,
+      247,
+      955
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      784,
+      945,
+      919,
+      955
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/4a1a668e045008b976ef6422a1e3fcbb0388cca3c116a65da2b2c44a16765292.jpg",
+    "image_caption": [
+      "Figure 5. a) Schematic diagram of the solar cell architecture and cross-sectional SEM images of the device. b) $J { - } V$ curves of PSCs based on perovskite $^ +$ starch films at a starch concentration of 0, 1, 3, 5, and $6 \\mathrm { { w t \\% } }$ . XRD spectra of the c) pristine perovskite and d) perovskite $+ 5 \\mathrm { w t } \\%$ starch films at different days. e) Normalized photovoltaic parameter evolution as a function of time based on a neat perovskite and perovskite $+ 5 \\mathrm { w t } \\%$ starch solar cells. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      221,
+      83,
+      766,
+      648
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      719,
+      485,
+      790
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The moisture stability of the perovskite $^ +$ starch films was also reflected in the corresponding PSC experiment. Figure 5e shows the variation trend of normalized photovoltaic parameters of the solar cells stored in dark ambient (i.e., humidity ${ \\approx } 5 0 \\%$ and temperature ${ \\approx } 2 5 ^ { \\circ } \\mathrm { C }$ ) up to 60 days. Obviously, the air-processed PSC based on pristine perovskite film undergone a sharp PCE decay of $7 0 \\%$ within 15 days and of almost $1 0 0 \\%$ after 30 days, whereas the perovskite $^ +$ starch device could retain $2 2 . 3 \\%$ of its initial PCE even after 60 days in humid ambient. In the trial, the perovskite $^ +$ starch based device showed more robust with a slight reduction of the VOC $( \\approx 3 0 \\% )$ , of the $J _ { \\mathrm { S C } } ~ ( { \\approx } 4 8 \\% )$ , and FF $( \\approx 3 9 \\% )$ after moisture exposure of 60 days, superior to the pristine PSC. The long-chain starch structure can stabilize the PSCs in humid environment due to the strong hygroscopicity property of starch.[23,39] ",
+    "bbox": [
+      78,
+      791,
+      485,
+      916
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      721,
+      914,
+      804
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We summarize the aforementioned observation of using starch as an additive in the perovskite synthesis process. The starch molecules that dissolve in DMSO system form a viscous matrix to tune the viscosity of perovskite precursor solution (Figure 1a), which is beneficial to the formation of perovskite film on pyramid-textured silicon surface via single-step spincoating (Figure 1 and 2). The starch additive leads to the formation of a uniform and thicker thus high absorbing capacity perovskite film (Figure 4b). The improved stability of the PSC device (Figure 5e) can be attributed to excellent hygroscopicity of the starch molecules,[23,39] in moisture ambient, the starch molecules can absorb water efficiently to form a moisture barrier around perovskite crystal grains with little water penetrating into the film. The starch matrix, due to hydrogen bonds with the $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } ^ { + }$ cation, finally locates at the grain boundaries between perovskite polycrystals,[23,30] does not destroy the perovskite crystal structure (Figure 4a). Nevertheless, the recombination of the perovskite will be reduced along with amorphous nature of starch molecules, which in turn increases the luminescence lifetime (Figure 4d) and declines the solar cell performance (Figure 5b). ",
+    "bbox": [
+      507,
+      805,
+      914,
+      916
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      776,
+      30,
+      915,
+      65
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      75,
+      17,
+      257,
+      66
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2000778 (6 of 10) ",
+    "bbox": [
+      440,
+      943,
+      552,
+      956
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      78,
+      945,
+      243,
+      955
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      779,
+      945,
+      914,
+      955
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      88,
+      490,
+      259
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2.3. Perovskite $^ +$ starch/Si Monolithic TSC Simulation ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      88,
+      853,
+      102
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To assess the potential performance of the 2T perovskite/Si tandem device, the perovskite $^ +$ starch/Si monolithic TSC was modeled by our proposed composite method combining finitedifference time-domain (FDTD) software and light path analysis to acquire the optical properties of each layer and calculate the TSC electrical characteristics.[40] The FDTD is an easier and convenient method that uses a finite difference approximation to solve Maxwell’s equations, acquiring the photoelectric response simulation and ignoring diffraction and local electric field effects. Light path analysis prefers to modify the effective long wavelength, making absorption of the simulation approximate to external quantum efficient. The structure of perovskite/ Si monolithic TSCs was designed referring to our previous works,[40,41] as shown in  a: LiF (150 nm)/top indium tin oxide (ITO, $1 5 0 \\mathrm { n m } ) / \\mathrm { P C } _ { 6 0 } \\mathrm { B M }$ $( 1 0 \\mathrm { n m } ) ,$ /perovskite/NiO $( 2 8 \\mathrm { n m } ) / \\mathrm { I T O }$ $( 2 0 \\mathrm { n m } ) / \\mathrm { c } { \\cdot } \\mathrm { S i }$ $( 2 8 0 \\mu \\mathrm { m } ) / \\mathrm { S i }$ nanoparticle (NP) $( 3 0 0 \\mathrm { n m } ) / \\mathrm { A g }$ $2 0 0 \\mathrm { n m } )$ . $\\mathrm { M A P b I } _ { 3 }$ was selected as active material with the bandgap of ${ \\approx } 1 . 5 6 \\mathrm { e V }$ , and the refractive index and extinction coefficient of the perovskite material was obtained from literatures.[40] In the simulation, it was assumed that the perovskite top cell was closely attached to the silicon pyramids. The incident light was set as a plane wave propagating in the negative $_ z$ -direction, and its wavelength covers the AM1.5G solar spectrum from 300 to $1 2 0 0 \\mathrm { n m }$ . It is assumed that each absorbed photon produces an effective electron–hole pair, regardless of recombination during the calculation. ",
+    "bbox": [
+      512,
+      116,
+      919,
+      259
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/6e36d63f3a03ea4e1648f8d5821be1ab21638ed6bb1a2199e43a25642020f646.jpg",
+    "image_caption": [
+      "Figure 6. a) Schematic diagram of perovskite/Si TSC with pyramid-textured surface. b) Light distribution profiles of $\\lambda = 6 0 0 \\mathsf { n m }$ for perovskite/c-Si structure. Red solid curves indicate the distribution of the absorbed photon numbers by the integral of the vertical axis, red dashed lines define the absorption region with tip and side. c) Absorption proportion of the perovskite side and tip parts at different pyramid angle differences ( $\\underline { { \\Delta \\alpha } } ,$ , defined as $\\alpha - \\alpha ^ { \\prime } )$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      178,
+      276,
+      821,
+      873
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation,Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      783,
+      30,
+      919,
+      65
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2000778 (7 of 10) ",
+    "bbox": [
+      443,
+      943,
+      559,
+      956
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      82,
+      19,
+      260,
+      66
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      84,
+      945,
+      248,
+      955
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      784,
+      945,
+      919,
+      955
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      88,
+      485,
+      315
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In general, the geometry of the perovskite layer mainly influences the absorption in perovskite material. The characteristic base angle $\\alpha$ of the pyramid structure was set to $5 0 ^ { \\circ }$ in the simulation according to the work of Baker-Finch et al.[42] Previous research only reported the uniform coverage of perovskite top materials on the pyramid-textured surface.[40,41,43-46] However, it is disadvantageous for the uniform light trapping of perovskite layer, and in combination with the morphology investigation shown in Figure 3d, we achieved fully coverage, and quasiconformal perovskite layer on the textured silicon surface. Therefore, as an adjustable structural parameter, the influence of $\\alpha ^ { \\prime }$ (Figure 6a) on the optical performance of the TSC was further studied. To simplify the simulation, the pyramid angle difference $\\Delta \\alpha$ (defined as $\\alpha - \\alpha ^ { \\prime } )$ was used instead of varying $\\alpha ^ { \\prime }$ , and the vertical distance between the perovskite and the top of the silicon pyramid was set to be $3 0 0 \\mathrm { n m }$ . Figure 6b shows the light absorption distribution at $6 0 0 \\mathrm { n m }$ with varying $\\Delta \\alpha$ . It is clear that the absorption of perovskite side part gradually increased with the increase in $\\Delta \\alpha$ , which was mainly due to the gradual thickening of the perovskite side part layer. Figure 6c shows that the absorption proportion of the tip part gradually decreased from $5 6 . 2 \\%$ to $3 9 . 1 \\%$ , with increasing $\\Delta \\alpha$ from $0 ^ { \\circ }$ to $2 0 ^ { \\circ }$ . When the $\\Delta \\alpha$ was close to $1 0 ^ { \\circ }$ , it is achieved that perovskite layer absorbs light uniformly. This observation demonstrates that the coverage shape of the perovskite layer influences the absorption distribution in the perovskite top cell, which guides the 2T perovskite/Si tandem device design. ",
+    "bbox": [
+      78,
+      317,
+      485,
+      500
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      88,
+      914,
+      286
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We have specifically modeled, in $\\mathrm { 7 a }$ , various perovskite/Si TSCs with $\\Delta \\alpha$ ranging from $0 ^ { \\circ }$ ureto $2 0 ^ { \\circ }$ and perovskite layer thickness ranging from 100 to $1 5 0 0 \\mathrm { n m }$ . As the thickness of perovskite layer increased, we observed an increment of the absorption on perovskite layer, and thus leading to an increase in the $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of the perovskite layer and a decrease in the $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of the silicon layer. Meanwhile, large $\\Delta \\alpha$ results in an increasing trend in PCE, whereas enlarging continuously will lead to lower PCE. It is beneficial to light absorption only by changing $\\Delta \\alpha$ in moderation, further enlarging $\\Delta \\alpha$ will enhance the reflectivity. Therefore, when introducing the premise that the perovskite layer is quasiconformal on the textured silicon surface, there exists an optimal combination region of $\\Delta \\alpha$ at $1 0 ^ { \\circ }$ and the thickness of $5 0 0 \\mathrm { n m }$ , of which the $J _ { \\scriptscriptstyle \\mathrm { S C } }$ in the perovskite top cell can be matched well with that in the Si bottom cell to achieve the best performance. Figure $\\mathrm { ^ { 7 b } }$ shows the corresponding absorption spectra of the optimal device in the $3 0 0 { - } 1 2 0 0 \\mathrm { n m }$ range. The integrated $J _ { \\scriptscriptstyle \\mathrm { S C } }$ from the simulated absorption is $1 9 . 8 2 \\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ . Based on optical data of the perovskite and Si cells, we simulated the photovoltaic performance of monolithic devices shown in Figure 7c. The perovskite top cell efficiency was $1 7 . 1 7 \\%$ with $V _ { \\mathrm { O C } }$ of $1 . 0 6 \\mathrm { V }$ , $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of $1 9 . 8 2 \\mathrm { m A c m } ^ { - 2 }$ , and FF of $8 1 . 6 8 \\%$ . The Si bottom cell efficiency was $1 1 . 8 7 \\%$ with $V _ { \\mathrm { O C } }$ of $0 . 7 3 \\mathrm { V } , J _ { \\mathrm { S C } }$ of $1 9 . 8 2 \\mathrm { m A c m } ^ { - 2 }$ , and FF of $8 1 . 7 5 \\%$ . Thus, a 2T tandem cell efficiency of $2 9 . 0 4 \\%$ was achieved with $V _ { \\mathrm { O C } }$ of $1 . 7 9 \\mathrm { V }$ , $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of $1 9 . 8 2 \\mathrm { m A c } \\mathrm { \\dot { m } } ^ { - 2 }$ , and FF of $8 1 . 7 1 \\%$ . These results will provide helpful guidelines for further experimental investigation of perovskite $^ +$ starch/Si monolithic TSCs. ",
+    "bbox": [
+      507,
+      289,
+      914,
+      500
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_7670244/auto/images/882f26f2d0a4323e7a6e80070bd6e2ee40368a0e75c6323b426af0c23f497e38.jpg",
+    "image_caption": [
+      "Figure 7. a) The PCE contour of perovskite/Si TSCs as a function of pyramid angle difference ( $\\Delta \\alpha ,$ defined as $\\alpha - \\alpha ^ { \\prime } )$ and perovskite thickness. b) Simulated absorption spectra of perovskite/Si TSC. c) J–V curves and device parameters of perovskite top cell, single silicon cell, bottom silicon cell, and 2T perovskite/Si TSC. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      171,
+      517,
+      816,
+      868
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      77,
+      17,
+      255,
+      66
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2000778 (8 of 10) ",
+    "bbox": [
+      438,
+      943,
+      552,
+      956
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      78,
+      945,
+      243,
+      955
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      779,
+      945,
+      914,
+      955
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      778,
+      30,
+      915,
+      66
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      88,
+      490,
+      271
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3. Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      295,
+      203,
+      312
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In summary, we have proposed a simple solution-processed approach featuring starch modifier towards an improved perovskite film applied in perovskite/Si monolithic TSC configuration. We have conducted a detailed investigation on the morphological, structural, optical, and photovoltaic properties of the starch as an additive into the solution-processed pristine $\\mathrm { M A P b I } _ { 3 }$ perovskite films. As the starch enhanced the viscosity of the perovskite precursor solution and established the hydrogen bonds with the $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } ^ { + }$ cation, the modified perovskite film exhibited almost the same crystal structure as traditional perovskite, but realized quasiconformal full coverage on the textured silicon surface with the average thickness around $6 0 0 \\mathrm { n m }$ under the starch concentration of $5 \\mathrm { w t \\% }$ . Because the starch molecules located at the grain boundaries between perovskite polycrystals and locked the water molecules before they contacted with $\\mathrm { M A P b I } _ { 3 }$ , the PSC moisture stability was improved significantly, retaining output for up to 60 days’ exposure in humid environment $5 0 \\%$ humidity). We have also demonstrated that the yielded quasiconformal nanoscale coverage of perovskite layer is helpful for the uniform light absorption in perovskite layers and good match of the current density in perovskite/Si monolithic TSCs. The best-calculated PCE of $2 9 . 0 4 \\%$ with $V _ { \\mathrm { O C } }$ of $1 . 7 9 \\mathrm { V }$ , $J _ { \\scriptscriptstyle \\mathrm { S C } }$ of $1 9 . 8 2 \\mathrm { m A c m } ^ { - 2 }$ , and FF of $8 1 . 7 1 \\%$ was achieved under the perovskite layer has a thickness of $5 0 0 \\mathrm { n m }$ and a $1 0 ^ { \\circ }$ inclination angle difference with the silicon pyramid structure. Further research needs to be carried out to validate the practice feasibility of the novel solution-processed perovskite approach for highly efficient perovskite/Si monolithic TSCs. ",
+    "bbox": [
+      84,
+      324,
+      490,
+      717
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "4. Experimental Section ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      744,
+      273,
+      759
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Materials and Preparation of Perovskite $^ +$ Starch Solution: The FTO-coated glass $( 8 \\Omega \\square ^ { - 1 }$ , $2 . 2 \\mathsf { m m }$ thick) substrates and methylammonium iodide $( \\mathsf { C H } _ { 3 } \\mathsf { N H } _ { 3 } |$ , $9 9 . 5 \\%$ ) were purchased from Shanghai Materwin New Materials Co., Ltd. $\\mathsf { P b l } _ { 2 }$ $( 9 9 . 9 \\% )$ and phenyl-C61-butyic acid methyl ester (PCBM, $9 9 . 5 \\%$ ) were purchased from Xi’an Polymer Light Technology Corp. Corn starch was supplied by Unilever. Nickel nitrate hexahydrate aqueous $( \\mathsf { N i } ( \\mathsf { N O } _ { 3 } ) _ { 2 } { \\cdot } 6 \\mathsf { H } _ { 2 } \\mathsf { O }$ , $9 9 \\%$ ) was acquired from InnoChem. DMSO $( 9 9 . 8 \\% )$ and anhydrous chlorobenzene (CB, $9 9 . 5 \\% )$ were purchased from Sigma-Aldrich and Aladdin, respectively. The perovskite $^ +$ starch solution was prepared by dissolving 1 mmol of $\\mathsf { P b l } _ { 2 }$ and 1 mmol ${ \\mathsf { C H } } _ { 3 } { \\mathsf { N H } } _ { 3 } |$ in $\\rceil \\mathsf { m L }$ DMSO, followed by adding the corresponding corn starch in the perovskite mixed solution at different mass fractions $( 0 - 1 0 \\mathrm { w t \\% } )$ . To obtain a clear solution, the perovskite $^ +$ starch solution was stirred on a hot plate at $6 0 ^ { \\circ } \\mathsf { C }$ for $1 2 \\mathsf { h }$ . ",
+    "bbox": [
+      84,
+      771,
+      489,
+      916
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      89,
+      917,
+      112
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "PSC Fabrication: PSC fabrication was completed in glovebox. The device architecture is: FTO glass $/ \\mathsf { N i O } _ { x } / \\mathsf { M A P b l } _ { 3 } +$ starch/PCBM/Ag layers. The FTO glass substrates were sequentially cleaned by ultrasonication with deionized water $( 1 8 . 2 5 \\mathsf { M } \\Omega \\mathsf { c m } )$ ), acetone (Sinopharm, AR, $2 9 9 . 5 \\%$ ), isopropanol (Sinopharm, AR, $2 9 9 . 7 \\%$ and ethyl alcohol absolute (Sinopharm, AR, $2 9 9 . 7 \\%$ for $7 5 \\mathsf { m i n }$ at each step, followed by being dried with nitrogen $( 9 9 . 9 9 \\% )$ and irradiated by UV–ozone cleaner (BZS250GF-TS, Hwotech). $\\mathsf { N i O } _ { x }$ film was deposited on FTO glass by electrochemical deposition process in a two-electrode, with nickel nitrate solution (dissolved in deionized water with a molar concentration of $0 . 0 2 \\ : \\mathsf { M } \\}$ ) as the electrolyte, FTO glass substrate as the working electrode and nickel foil as the counter electrode. The $\\mathsf { N i O } _ { x }$ film was developed by energizing a constant current density of $0 . 0 2 \\mathsf { m A c m } ^ { - 2 }$ for $9 0 \\thinspace s$ with the electrochemical workstation (CS350H, Correst, China). Finally, the $\\mathsf { N i O } _ { x }$ film was crystallized by annealing in a muffle furnace at $3 0 0 ^ { \\circ } \\mathsf C$ for $^ { 2 \\mathsf { h } }$ . The prepared $\\mathsf { N i O } _ { x }$ was a mixture of NiO and ${ \\sf N i } _ { 2 } { \\sf O } _ { 3 }$ . [47] ",
+    "bbox": [
+      514,
+      113,
+      919,
+      309
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Perovskite precursor solution with a volume of ${ 8 0 \\mu \\ L }$ was spin coated onto the $\\mathsf { N i O } _ { x }$ film at 500 rpm for $_ { 1 2 s }$ and then 4000 rpm for $6 0 s$ . During the spin-coating process, $1 5 0 \\mu \\mathrm { L }$ anhydrous CB was rapidly dropped. The perovskite layer was further annealed in ${ \\Nu } _ { 2 }$ -protected muffle furnace at $1 0 0 ^ { \\circ } \\mathsf { C }$ for 10 min. PCBM solution was prepared by dissolving in anhydrous CB at a concentration of $2 0 m g { \\sf m } \\mathrm { L } ^ { - 1 }$ . The PCBM solution was spin-coated on the perovskite layer at 2000 rpm for $3 0 s$ and then dried at $1 0 0 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathsf { m i n }$ . Finally, the sliver film with a thickness of $1 2 0 \\mathsf { n m }$ was deposited by thermal evaporation (PECVD350, Shenyang Xinlantian Vacuum Technology Co., Ltd) in high vacuum. The effective area of the PSC devices is $0 . 2 5 \\mathsf { c m } ^ { 2 }$ defined by a mask covered on top. ",
+    "bbox": [
+      514,
+      310,
+      919,
+      445
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Characterization of Perovskite þ Starch Films and Solar Cells: The viscosity of the perovskite precursor solution was measured by rotary viscometer (NDJ-8S, LiChen). The microscopic morphologies of the perovskite $^ +$ starch films were observed by SEM (Zeiss Ultra Plus) and AFM (Nanoscope IIIa Multimode). The structural characteristics of the films were obtained by XRD (D8 Advance Da Vinci, Bruker). The optical absorption and transmission spectra of the perovskite $^ +$ starch films were performed by the UV–vis–NIR spectrophotometer (LAMDA950, PerkinElmer). For the devices, the current density–voltage $( J - V )$ curves were obtained using Keithley 2400 Sourcemeter and solar simulator (Oriel Sol-2A, Newport) under 1 sun (AM 1.5G, $1 0 0 \\mathsf { m w } \\mathsf { c m } ^ { - 2 } )$ illumination at room temperature. The steady-state PL of the samples was measured by Raman spectrometer (LABRAM HR800, Horiba Jobin Yvon system) with an excitation at $5 7 4 . 5 \\mathsf { n m }$ using an argon-ion laser, and TRPL was measured by fluorescence spectrometer $( Q \\mathsf { M } / \\mathsf { T M } / \\mathsf { I M } ,$ PTI) with an excitation wavelength of $5 7 0 \\mathsf { n m }$ . Before instability evaluation on pure perovskite and perovskite $^ +$ starch films, the prepared films were exposed to atmosphere with an air humidity of almost $70 \\%$ and a temperature of $2 5 ^ { \\circ } \\mathsf { C }$ for 7 days. The humidity stability was assessed under environmental conditions (i.e., humidity ${ \\approx } 5 0 \\%$ , temperature ${ \\approx } 2 5 ^ { \\circ } \\mathrm { C } )$ for several days (up to 60 days), in dark condition and without encapsulating. The structural changes of the films were obtained by XRD spectra, and all the samples were scanned in a $_ { 2 \\theta }$ range of $1 0 ^ { \\circ } - 5 0 ^ { \\circ }$ . The influence of decomposition on cell performance was analyzed from the tested $J { - } V$ curves. ",
+    "bbox": [
+      514,
+      445,
+      919,
+      751
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Supporting Information ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      786,
+      700,
+      803
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Supporting Information is available from the Wiley Online Library or from the author. ",
+    "bbox": [
+      512,
+      810,
+      919,
+      835
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      868,
+      667,
+      884
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This work was supported by the National Natural Science Foundation of China (Nos. 11834011 and 11974242). ",
+    "bbox": [
+      514,
+      892,
+      921,
+      916
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS_ www.advancedsciencenews.com ",
+    "bbox": [
+      82,
+      19,
+      258,
+      66
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "2000778 (9 of 10) ",
+    "bbox": [
+      443,
+      943,
+      557,
+      956
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      85,
+      945,
+      247,
+      955
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      786,
+      945,
+      919,
+      955
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation,Conversion,Storage, istribtion www.entechnol.de ",
+    "bbox": [
+      783,
+      30,
+      919,
+      65
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Conflict of Interest ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      88,
+      231,
+      104
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The authors declare no conflict of interest. ",
+    "bbox": [
+      80,
+      111,
+      321,
+      124
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Keywords ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      168,
+      156,
+      185
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "perovskites, solution-processed approaches, tandem solar cells, textured silicon ",
+    "bbox": [
+      77,
+      191,
+      485,
+      216
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Received: September 2, 2020   \nRevised: October 31, 2020   \nPublished online: November 27, 2020 ",
+    "bbox": [
+      270,
+      226,
+      485,
+      264
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "[1] K. Yoshikawa, H. Kawasaki, W. Yoshida, T. Irie, K. Konishi, K. Nakano, T. Uto, D. Adachi, M. Kanematsu, H. Uzu, K. Yamamoto, Nat. Energy 2017, 2, 17032. [2] W. Shockley, H. J. Queisser, J. Appl. Phys. 1961, 32, 510.   \n[3] G. A. Al-Dainy, S. E. Bourdo, V. Saini, B. C. Berry, A. S. Biris, Energy Technol. 2017, 5, 373. [4] A. Kojima, K. Teshima, Y. Shirai, T. Miyasaka, J. Am. Chem. Soc. 2009, 131, 6050.   \n[5] National Renewable Energy Laboratory, Best Research-Cell Efficiencies, https://www.nrel.gov/pv/cell-efficiency.html (accessed: August 2020). [6] M. Jošt, L. Kegelmann, L. Korte, S. Albrecht, Adv. Energy Mater. 2020, 10, 1904102.   \n[7] T. Leijtens, K. A. Bush, R. Prasanna, M. D. McGehee, Nat. Energy 2018, 3, 828. [8] E. Köhnen, M. Jošt, A. B. Morales-Vilches, P. Tockhorn, A. Al-Ashouri, B. Macco, L. Kegelmann, L. Korte, B. Rech, R. Schlatmann, B. Stannowski, S. Albrecht, Sustainable Energy Fuels 2018, 3, 1995.   \n[9] Z. S. Yu, M. Leilaeioun, Z. Holman, Nat. Energy 2016, 1, 16137.   \n[10] J. P. Mailoa, C. D. Bailie, E. C. Johlin, E. T. Hoke, A. J. Akey, W. H. Nguyen, M. D. McGehee, T. Buonassisi, Appl. Phys. Lett. 2015, 106, 121105.   \n[11] S. Albrecht, M. Saliba, J. P. Correa Baena, F. Lang, L. Kegelmann, M. Mews, L. Steier, A. Abate, J. Rappich, L. Korte, R. Schlatmann, M. K. Nazeeruddin, A. Hagfeldt, M. Grätzel, B. Rech, Energy Environ. Sci. 2016, 9, 81.   \n[12] K. A. Bush, S. Manzoor, K. Frohna, Z. J. Yu, J. A. Raiford, A. F. Palmstrom, H.-P. Wang, R. Prasanna, S. F. Bent, Z. C. Holman, M. D. McGehee, ACS Energy Lett. 2018, 3, 2173.   \n[13] B. Chen, Z. S. Yu, K. Liu, X. P. Zheng, Y. Liu, J. W. Shi, D. Spronk, P. N. Rudd, Z. Holman, J. S. Huang, Joule 2019, 3, 177.   \n[14] D. Kim, H. J. Jung, I. J. Park, B. W. Larson, S. P. Dunfield, C. Xiao, J. Kim, J. Tong, P. Boonmongkolras, S. G. Ji, F. Zhang, S. R. Pae, M. Kim, S. B. Kang, V. Dravid, J. J. Berry, J. Y. Kim, K. Zhu, D. H. Kim, B. Shin, Science 2020, 368, 155.   \n[15] T. Leijtens, K. A. Bush, R. Prasanna, M. D. McGehee, Nat. Energy 2018, 3, 828.   \n[16] F. Sahli, B. A. Kamino, J. Werner, M. Bräuninger, B. Paviet-Salomon, L. Barraud, R. Monnard, J. P. Seif, A. Tomasi, Q. Jeangros, A. Hessler-Wyser, S. De Wolf, M. Despeisse, S. Nicolay, B. Niesen, C. Ballif, Adv. Energy Mater. 2018, 8, 1701609.   \n[17] J. Werner, C.-H. Weng, A. Walter, L. Fesquet, J. P. Seif, S. De Wolf, B. Niesen, C. Ballif, J. Phys. Chem. Lett. 2016, 7, 161.   \n[18] J. Xu, C. C. Boyd, Z. J. Yu, A. F. Palmstrom, D. J. Witter, B. W. Larson, R. M. France, J. Werner, S. P. Harvey, E. J. Wolf, W. Weigand, S. Manzoor, M. F. A. M. van Hest, J. J. Berry, J. M. Luther, Z. C. Holman, M. D. McGehee, Science 2020, 367, 1097. B. Chen, H. Chen, B. Bahrami, A. H. Chowdhury, A. Johnston, S.-W. Baek, Z. R. Huang, M. Y. Wei, Y. T. Dong, J. Troughton, R. Jalmood, A. J. Mirabelli, T. G. Allen, E. Van Kerschaver, M. I. Saidaminov, D. Baran, Q. Q. Qiao, K. Zhu, S. De Wolf, E. H. Sargent, Science 2020, 367, 1135.   \n[20] B. Chen, Z. J. Yu, S. Manzoor, S. Wang, W. Weigand, Z. Yu, G. Yang, Z. Ni, X. Dai, Z. C. Holman, J. Huang, Joule 2020, 4, 850.   \n[21] F. Sahli, J. Werner, B. A. Kamino, M. Bräuninger, R. Monnard, B. Paviet-Salomon, L. Barraud, L. Ding, J. J. Diaz Leon, D. Sacchetto, G. Cattaneo, M. Despeisse, M. Boccard, S. Nicolay, Q. Jeangros, B. Niesen, C. Ballif, Nat. Mater. 2018, 17, 820.   \n[22] E. Lamanna, F. Matteocci, E. Calabrò, L. Serenelli, E. Salza, L. Martini, F. Menchini, M. Izzi, A. Agresti, S. Pescetelli, S. Bellani, A. E. Del Río Castillo, F. Bonaccorso, M. Tucci, A. Di Carlo, Joule 2020, 4, 865.   \n[23] A. Giuri, S. Masi, A. Listorti, G. Gigli, S. Colella, C. Esposito Corcione, A. Rizzo, Nano Energy 2018, 54, 400.   \n[24] A. Giuri, E. Saleh, A. Listorti, S. Colella, A. Rizzo, C. Tuck, C. Esposito Corcione, Nanomater. 2019, 9, 582.   \n[25] C. G. Biliaderis, T. J. Maurice, J. R. Vose, J. Food Sci. 1980, 45, 1669.   \n[26] C. L. De Vasconcelos, M. R. Pereira, J. L. C. Fonseca, J. Appl. Polym. Sci. 2001, 80, 1285.   \n[27] F. Lionetto, A. Maffezzoli, M.-A. Ottenhof, I. A. Farhat, J. R. Mitchell, Starch-Stärke 2005, 57, 16.   \n[28] F. Lionetto, A. Maffezzoli, M.-A. Ottenhof, I. A. Farhat, J. R. Mitchell, J. Food Eng. 2006, 75, 258.   \n[29] A. Giuri, S. Colella, A. Listorti, A. Rizzo, C. Esposito Corcione, J. Therm. Anal. Calorim. 2018, 134, 549.   \n[30] S. Masi, A. Rizzo, F. Aiello, F. Balzano, G. Uccello-Barretta, A. Listorti, G. Gigli, S. Colella, Nanoscale 2015, 7, 18956.   \n[31] S. Masi, A. Rizzo, R. Munir, A. Listorti, A. Giuri, C. Esposito Corcione, N. D. Treat, G. Gigli, A. Amassian, N. Stingelin, S. Colella, Adv. Energy Mater. 2017, 7, 1602600.   \n[32] S. W. Wang, H. Y. Li, B. W. Zhang, Z. Guo, H. Bala, S. J. Yao, J. Y. Zhang, C. Chen, W. Y. Fu, J. L. Cao, G. Sun, Z. Y. Zhang, Org. Electron. 2020, 83, 105734.   \n[33] Y. Fu, F. Meng, M. B. Rowley, B. J. Thompson, M. J. Shearer, D. Ma, R. J. Hamers, J. C. Wright, S. Jin, J. Am. Chem. Soc. 2015, 137, 5810.   \n[34] G. A. Al-Dainy, F. Watanabe, G. K. Kannarpady, A. Ghosh, B. Berry, A. S. Biris, S. E. Bourdo, ACS Omega 2020, 5, 1887.   \n[35] H. Fu, H. Liu, W. Z. Shen, Nanoscale Res. Lett. 2014, 9, 631.   \n[36] B. Luo, Y.-C. Pu, Y. Yang, S. A. Lindley, G. Abdelmageed, H. Ashry, Y. Li, X. Li, J. Z. Zhang, J. Phys. Chem. C 2015, 119, 26672.   \n[37] Ç. Odabaşı, R. Yıldırım, Sol. Energy Mater. Sol. Cells 2020, 205, 110284.   \n[38] Z. D. Cheng, D. Ding, J. N. Song, F. Liu, T. Wang, C. Hu, L. X. Ba, J. Y. Wang, H. Liu, W. Z. Shen, Adv. Funct. Mater. 2020, 30, 2004652.   \n[39] Y. C. Zhao, J. Wei, H. Li, Y. Yan, W. Zhou, D. Yu, Q. Zhao, Nat. Commun. 2016, 7, 10228.   \n[40] L. X. Ba, H. Liu, W. S. Shen, Prog. Photovolt. Res. Appl. 2018, 26, 924933.   \n[41] L. X. Ba, T. Wang, J. Y. Wang, W. Z. Shen, J. Phys. Chem. C 2019, 123, 28659.   \n[42] S. C. Baker-Finch, K. R. McIntosh, Prog. Photovolt. Res. Appl. 2012, 21, 960.   \n[43] R. Santbergen, R. Mishima, T. Meguro, M. Hino, H. Uzu, J. Blanker, K. Yamamoto, M. Zeman, Opt. Express. 2016, 24, A1288.   \n[44] D. Shi, Y. Zeng, W. Z. Shen, Sci. Rep. 2015, 5, 16504.   \n[45] K. Jäger, L. Korte, B. Rech, S. Albrecht, Opt. Express 2017, 25, A473.   \n[46] M. M. Lunardi, A. W. Y. Ho-Baillie, J. P. Alvarez-Gaitan, S. Moore, R. Corkish, Prog. Photovolt. Res. Appl. 2017, 25, 679.   \n[47] T. Wang, D. Ding, X. Wang, R. R. Zeng, H. Liu, W. Z. Shen, ACS O 2018. 3,18434. ",
+    "bbox": [
+      77,
+      277,
+      487,
+      916
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      505,
+      106,
+      915,
+      907
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Energy Technology Generation, Conversion, Storage, Distribution www.entechnol.de ",
+    "bbox": [
+      778,
+      30,
+      915,
+      66
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "2000778 (10 of 10) ",
+    "bbox": [
+      435,
+      943,
+      557,
+      956
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Energy Technol. 2021, 9, 2000778 ",
+    "bbox": [
+      78,
+      945,
+      243,
+      955
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "© 2020 Wiley-VCH GmbH ",
+    "bbox": [
+      779,
+      945,
+      914,
+      955
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "ADVANCED SCIENCENEWS. www.advancedsciencenews.com ",
+    "bbox": [
+      77,
+      19,
+      257,
+      66
+    ],
+    "page_idx": 9
+  }
+]

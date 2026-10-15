@@ -1,0 +1,747 @@
+[
+  {
+    "type": "text",
+    "text": "MUSINGS FROM HARLEY BASSMAN: ",
+    "bbox": [
+      318,
+      215,
+      683,
+      231
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Convexity Maven ",
+    "bbox": [
+      285,
+      237,
+      714,
+      282
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Value Concepts from the BAS/ML Trading Desk July 23, 2010 ",
+    "bbox": [
+      553,
+      284,
+      813,
+      308
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "“The Best Laid Plans of Mice and Men…..” ",
+    "text_level": 1,
+    "bbox": [
+      225,
+      351,
+      771,
+      375
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Robert Burns 1785 ",
+    "bbox": [
+      648,
+      375,
+      761,
+      386
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/6cc3ad0ce622fb27bbfc9249923db148212a4644f250aa0b135297bc44f19fda.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      406,
+      401,
+      594,
+      545
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "But Mouse, you are not alone, In proving foresight may be vain:   \nThe best laid schemes of mice and men Go often askew,   \nAnd leaves us nothing but grief and pain, For promised joy! ",
+    "bbox": [
+      352,
+      570,
+      647,
+      651
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Earlier this year we accused the Government of tolerating a “Reverse Robin Hood” situation where they effectively robbed from the “not rich” (the average taxpayer) to give to the “not poor” (MBS bondholders). [See Musings: Reverse Robin Hood, February 9,2010] ",
+    "bbox": [
+      145,
+      685,
+      844,
+      761
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "How ? When the GSEs delayed “buying out” upwards of $\\$ 2000$ delinquent loans underlying high coupon MBS bonds, they paid out nearly $\\$ 130n$ in coupon cash annually to bondholders instead of funding themselves at a cost of $\\$ 400 m m$ via the Discount Note market. Fortunately, our readership must be quite broad since nary a day later the GSEs announced plans to rectify this situation via an accelerated buyout program. ",
+    "bbox": [
+      145,
+      777,
+      854,
+      888
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      493,
+      939,
+      503,
+      952
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      460,
+      108,
+      534,
+      194
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Today we place pen to paper again to highlight another public policy injustice along with our recommendations. I apologize in advance if my prescription harms your portfolio, but sometimes we need to look beyond our own wallets. ",
+    "bbox": [
+      145,
+      90,
+      825,
+      145
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Although possibly subject to dispute, we believe the key rationale for the FED’s Large Scale Asset Purchase program (LSAP), also known as Quantitative Easing (QE), was to lower borrowing costs for the consumer. Since the largest debt the average person has is his mortgage, lowering the MBS rate would be the most powerful tool. The transmission mechanism would be the standard Refinance process whereby homeowners can significantly lower their monthly payments by reducing the rate they pay on their home loan. These savings could then be used to either pay-down other personal debt or to increase consumer purchases. Either one of these outcomes would be a winner from the Government’s point of view. If credit card or student loan debt was repaid, the household leverage ratio would be reduced. If these savings were redirected toward spending, then retails sales, the largest component of GDP, would be supported. This looked to be a win-win for the FED. ",
+    "bbox": [
+      145,
+      164,
+      849,
+      401
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "As shown in the chart below, the FED swiftly accomplished Plan A as the Secondary Par MBS Rate quickly declined from above $5 . 5 \\%$ to below $4 . 0 \\%$ . ",
+    "bbox": [
+      145,
+      420,
+      799,
+      457
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/b717524c8c6cb6b6f58977b385bdc2752f5c558c7ab35d6f850c0ac14c69071b.jpg",
+    "image_caption": [
+      "All charts, unless otherwise noted, are sourced from BAC/MER data "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      196,
+      496,
+      769,
+      773
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Another almost equally important goal the FED had was to return liquidity to the capital markets. If you recall, soon after Lehman Brothers imploded, the markets lost all liquidity and Implied Volatility exploded as nobody knew if their counter-party would be able (or be around) to settle a trade in the days ahead. ",
+    "bbox": [
+      145,
+      820,
+      846,
+      895
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      939,
+      504,
+      952
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Particularly hard hit was the largest sector of the Fixed-Income market – MBS bonds. ",
+    "bbox": [
+      143,
+      90,
+      821,
+      127
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As shown in the next chart, spreads on Par MBS bonds expanded violently from their long-term 60bp to 80bp range to nearly 200bps over the Ten year Swap rate. However, soon after the announcement of the LSAP, spreads narrowed. So not only did the FED’s program reduce the absolute level of MBS rates, it also contracted this “risk vector” back to its historical level with its concurrent increase in “trader confidence”. ",
+    "bbox": [
+      143,
+      145,
+      848,
+      256
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/6b2f05ad740e3fc3991b10f2b681cd4e8e0bbebaf15a7e95fb40f8fd7ca9bfde.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      197,
+      295,
+      771,
+      571
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "One might think that a cry of hosanna would greet the FED and other Government officials; yet it was soon revealed that flaws could be found in their best laid plans. ",
+    "bbox": [
+      145,
+      606,
+      843,
+      660
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For this plan to work, this lower MBS Secondary market rate needed to be transmitted to the homeowner focused Primary market. Traditionally, the spread between these two markets has revolved around 50bp to 60bps. This spread reasonably includes the fee of a GSE guarantee as well the MBS Originator’s cost of production and forward hedging. Since the homeowner needs at least 50bps to 75bps to economically Refinance, the Secondary rate needs to be at least 100bp to 125bps below the Primary loan rate. (This is why we picked 110bps for the Convexity Vortex calculation.) ",
+    "bbox": [
+      145,
+      679,
+      856,
+      827
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the chart on the next page, the –blue line- on the left scale is the Ten Year Treasury rate (inverted). The –red line- is the classic MBA Refinance Index. You will notice how lower rates initially increased Refinance activity. But ",
+    "bbox": [
+      145,
+      844,
+      852,
+      898
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      939,
+      504,
+      952
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "prepayments soon slowed even though there were still many loans that could economically Refinance. More interesting still is the fact that the recent 100bps decline in both the Treasury and MBS rates has NOT translated into an increase in Mortgage activity. One has to wonder what is happening ? ",
+    "bbox": [
+      143,
+      90,
+      841,
+      165
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/e838b2b115cb090e949c506bce2fcbc509a5b2aab56957c8738bd169b77fa378.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      196,
+      184,
+      777,
+      462
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The market has become fully aware that there is a serious flaw in the system and that someone has tossed a shovel of sand into the Refinance gearbox. In this next chart, the –blue line- on the right is the Treasury 10yr Rate (inverted) while the –red line- is the dollar price of FN $6 . 5 \\%$ MBS bonds. ",
+    "bbox": [
+      143,
+      483,
+      833,
+      558
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/91cb23b7f9ccdd32297180805d24b29a1fb493ce19c7879fa0f85a542fd29036.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      166,
+      592,
+      803,
+      893
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      939,
+      504,
+      950
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Notice that during the 2003 Refinance cycle FN 6.5s could not rise above 105-00 dollar price. In fact, that price level acted as a cap for most MBS bonds. At that level, most mortgages were economically Refinancable; as such, the call risk inhibited buyers from paying too great a premium over par. Presently, FN 6.5s are testing 110-00 while Par MBS rates are 100bps lower than 2003. This could not occur if the refinance process was operating properly. ",
+    "bbox": [
+      145,
+      90,
+      848,
+      200
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There are many reasons for the inability of homeowners with premium loan rates to Refinance; but most of the blame is a result of the Government’s inability to resolve conflicts within its Financial policies. ",
+    "bbox": [
+      145,
+      218,
+      852,
+      273
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the table below, we have isolated the largest issuance years (cohorts) for FN and FH thirty year MBS. The first few columns show the Issue Year, the secondary Coupon created, the total remaining Balance, the Gross Weighted Average Coupon (GWAC), the average Loan size, and the FICO score and LTV for the pools at issuance. ",
+    "bbox": [
+      145,
+      291,
+      852,
+      382
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The next column is the key driver; it is the average Case-Shiller index level for the year the cohort was created. The peak years of 2004 to 2007 are highlighted in purple. This compares to a current level of 144. ",
+    "bbox": [
+      145,
+      401,
+      826,
+      457
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_4274052/auto/images/c335befd64e81d6ad1152198c75250b9be6ff627b139351bd62e125a9cfca304.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Issue Year</td><td>Coupon</td><td>Balance</td><td>GWAC</td><td>Loan ss</td><td>FICO</td><td>LIV</td><td>C/Shiller</td><td>Adj LTV</td><td>Adj FICO</td></tr><tr><td>2009</td><td>4.0%</td><td>$178</td><td>4.60%</td><td>242</td><td>769</td><td>63%</td><td>143</td><td>63%</td><td>739</td></tr><tr><td>2010</td><td>4.5%</td><td>$143</td><td>4.95%</td><td>236</td><td>764</td><td>70%</td><td>144</td><td>70%</td><td>734</td></tr><tr><td>2009</td><td></td><td>$486</td><td>4.95%</td><td>230</td><td>763</td><td>68%</td><td>143</td><td>68%</td><td>733</td></tr><tr><td>2010</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2009</td><td>5.0%</td><td>$90 $149</td><td>5.36% 5.43%</td><td>206 195</td><td>742 748</td><td>76% 73%</td><td>144 143</td><td>76% 72%</td><td>712 718</td></tr><tr><td>2008</td><td></td><td>$110</td><td>5.64%</td><td>223</td><td>746</td><td>71%</td><td>165</td><td>81%</td><td>716</td></tr><tr><td>2005</td><td></td><td>$137</td><td>5.63%</td><td>178</td><td>732</td><td>71%</td><td>191</td><td>94%</td><td>702</td></tr><tr><td>2004</td><td></td><td>$72</td><td>5.52%</td><td>159</td><td>729</td><td>70%</td><td>166</td><td>81%</td><td>699</td></tr><tr><td>2003</td><td></td><td>$149</td><td>5.48%</td><td>142</td><td>731</td><td>68%</td><td>143</td><td>68%</td><td>701</td></tr><tr><td>2008</td><td>5.5%</td><td></td><td>6.03%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2007</td><td></td><td>$148 $133</td><td>6.12%</td><td>196 192</td><td>736 728</td><td>74%</td><td>165 197</td><td>85% 100%</td><td>706</td></tr><tr><td>2006</td><td></td><td>$67</td><td>6.14%</td><td>186</td><td>727</td><td>73% 71%</td><td>205</td><td>101%</td><td>698 697</td></tr><tr><td>2005</td><td></td><td>$116</td><td>5.96%</td><td>149</td><td>718</td><td>73%</td><td>191</td><td>97%</td><td>688</td></tr><tr><td>2004</td><td></td><td>$86</td><td>5.92%</td><td>136</td><td>718</td><td>73%</td><td>166</td><td>84%</td><td>688</td></tr><tr><td>2003</td><td></td><td>$134</td><td>5.92%</td><td>125</td><td>724</td><td>71%</td><td>143</td><td>71%</td><td>694</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2008 2007</td><td>6.0%</td><td>$74</td><td>6.51% 6.55%</td><td>167</td><td>722 713</td><td>78% 77%</td><td>165 197</td><td>89% 105%</td><td>692</td></tr><tr><td>2006</td><td></td><td>$148</td><td>6.53%</td><td>161</td><td>717</td><td>74%</td><td>205</td><td>105%</td><td>683</td></tr><tr><td></td><td></td><td>$119</td><td></td><td>158</td><td></td><td></td><td></td><td></td><td>687</td></tr></table>",
+    "bbox": [
+      150,
+      486,
+      846,
+      843
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The final two columns are adjustments we have made to update these cohorts to current conditions. In this next column, we assume that all houses have declined linearly with the CS Index and re-compute a “current LTV”. In the final column, we assume the power of the recession has uniformly lowered all FICO scores by 30 points. Though gross estimates, we believe that they are reasonable. Lastly, highlighted in red and orange, are the cohorts of interest to us. ",
+    "bbox": [
+      143,
+      869,
+      854,
+      906
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      939,
+      504,
+      952
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      145,
+      90,
+      844,
+      164
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Let’s take a closer look at this table before we draw any conclusions. Notice how the Loan Size uniformly rises over time. This occurs into 2008 to 2010 despite the fact that homes are declining in value. The average FICO score for 2009 and 2010 loans is much higher than those of 2005/6/7. Also, the LTV for new loans is lower than older loans. ",
+    "bbox": [
+      145,
+      181,
+      852,
+      273
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Clearly the GSEs have tightened their lending standards. In fact, the GSEs have defined this process via the creation of the Loan Level Pricing Adjustment (LLPA). It is a sliding scale of increasing costs based upon FICO and LTV. For borrowers with FICO scores above 740 or LTVs below 60, there are basically no added costs and obtaining a loan is relatively easy. But if a borrower has a score below that level, he can expect an additional rate cost of 50bps to 300bps or be required to buy Mortgage Insurance (PMI). Since the median FICO is 723 (with an average of 692), all but the most pristine borrowers may be subject to additional costs. ",
+    "bbox": [
+      145,
+      291,
+      854,
+      438
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This is where the rubber meets the road with respect to slow prepayment rates. Presently, the Par Secondary MBS rate is about $3 . 6 0 \\%$ . As such, any loan with a rate above $4 . 8 5 \\%$ should begin to be Refinancable; and certainly any cohort with a rate above $5 . 3 5 \\%$ should be experiencing speedy prepayments. Using this yardstick, over $\\$ 2$ Trillion of MBS bonds (FN/FH 5s and above) should be in the process of Refinance. ",
+    "bbox": [
+      145,
+      457,
+      852,
+      565
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Why is this not happening ? Using our estimates, over $\\$ 1$ Trillion (about half) have current LTVs above $85 \\%$ . To make matters worse, we estimate they could have a FICO below 700. Additionally, we estimate that another $\\$ 350 m m$ of loans with low LTVs are linked to borrowers with a FICO below 700. In $\\mathsf { f a c t } ,$ of the $\\$ 1,7320$ loans examined in this table that are mathematically Refinancable, fully $80 \\%$ have become “impaired” during the recession and would have a difficult time obtaining financing despite the fact that they are current on their loans. ",
+    "bbox": [
+      145,
+      584,
+      848,
+      731
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "When these borrowers try to Refinance, they are confronted with additional (Government) LLPA costs that effectively removes the Refinance incentive. ",
+    "bbox": [
+      147,
+      750,
+      807,
+      785
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Another Reverse Robin Hood ? ",
+    "text_level": 1,
+    "bbox": [
+      145,
+      804,
+      498,
+      825
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The US Government effectively owns the GSEs. Earlier this year, strictures the GSEs faced were modified, with the support of the Government, to allow them to buy-out $\\$ 2000$ in delinquent loans (and staunch the $\\$ 1$ 1bn/month bleed). These loans now reside directly on the GSE’s balance sheet as Real Estate Owned (REO). Since the politics of a Government mandated foreclosure are unpleasant, we can presume that all efforts are being made to modify these loans. So the Government is providing succor to borrowers who are delinquent. ",
+    "bbox": [
+      145,
+      843,
+      852,
+      898
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      493,
+      939,
+      504,
+      952
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      145,
+      90,
+      849,
+      164
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As a consequence of the buy-outs, nearly all of the loans left in high coupon FN/FH MBS are current. This means, for example, that there are 2.1mm families who are diligently paying their $6 . 5 3 \\%$ note rate (FN/FH 6s) despite the fact that most of them are probably “upside down” on their mortgage. ",
+    "bbox": [
+      147,
+      181,
+      849,
+      256
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To summarize: ",
+    "bbox": [
+      145,
+      273,
+      274,
+      292
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2) The Government helps those 3) The GSEs institute LLPA to m4) If efficiently Refinanced, borr $\\$ 1.25$ o NOT pay difficult for  would save who d their loans;   \nake it those who DO PAY to ReFi;   \nIf efficiently Refinanced, borrowers would save $\\$ 220n$ annually;   \n5) This $\\$ 220n$ is paid to “not poor” bondholders from “not rich” taxpayers;   \n6) This savings is about $\\$ 1,800$ annually per family. ",
+    "bbox": [
+      173,
+      310,
+      849,
+      421
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Our Recommendation: ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      457,
+      405,
+      478
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Government should immediately create CARP – the Corporation for the Accelerated Refinancing of Principal. The Government would instruct all GSE Servicers to insert a single page CARP authorization form into the next mortgage statement for all loans created before January 1, 2009 with a coupon rate above $5 . 4 9 \\%$ . This mitigates buy-out limitations for MBS bonds. Using a random number generator, these specified loans will be purchased out of the MBS, re-wrapped with no additional fees from the same GSE, and delivered into the TBA market. Randomness eliminates the risk of litigation from selection bias. CARP could be an arm of the FED to facilitate the funding and secondary marketing issues. The FED could sell TBAs forward for CARP’s benefit or execute a coupon swap and take delivery from CARP. Alternately, if the FED elected to resume the LSAP, they could simple fund the bonds on their balance sheet. Alternately, CARP could be part of HUD, capitalized by the Government, and transact with the FED at arm’s length. In any case, CARP should not earn revenues greater than their expected expenses nor should it provide a subsidy to borrowers. If rates rise by a sufficient amount to make a refinance noneconomic, then the process will stop until it becomes viable again. ",
+    "bbox": [
+      143,
+      498,
+      852,
+      809
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "One might think that the markets will take away this opportunity once CARP is announced, we beg to differ. As Bernanke implied at his recent congressional testimony, the FED will most likely keep rates low for an extended period. So it certainly seems unlikely that rates will be rising significantly any time soon. But even if MBS rates do increase by 50bps to 75bps, these two million high coupon loans are so far in the money they could all still refinance. ",
+    "bbox": [
+      147,
+      829,
+      841,
+      901
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      493,
+      939,
+      504,
+      950
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      143,
+      90,
+      843,
+      127
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Since there is no free lunch, who takes the hit ? Hard to believe, it is not the Government. Only $15 \\%$ of the $F E D + U S$ Treasury holdings are in 5.5s and 6.0s. Most of the MBS they own are in new production 4s and 4.5s, so they will not incur large prepayment losses. The losers will be speculators who have bet upon the ineffectiveness of the Government by bidding up premium MBS. And truth be told, this will not constitute a loss of capital but rather just a partial give back of the excess carry gains earned mostly due to an aggressive FED policy. ",
+    "bbox": [
+      145,
+      148,
+      852,
+      276
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In summary, CARP would provide savings to borrowers who are current on their loans, reduce GSE credit risk, increase liquidity in the MBS market by vastly expanding the float of par bonds, reduce household leverage and increase consumer spending. All at no cost to the Government (or implied Moral Hazard). Most importantly, it would squirt some oil into the MBS gearbox to allow FED policy to be efficiently transmitted to the markets, just as Milton Friedman had hoped. ",
+    "bbox": [
+      145,
+      295,
+      849,
+      422
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "While I am not a socialist (or a communist for that matter), I do believe that macro Government benefits should be showered fairly across the spectrum. ",
+    "bbox": [
+      145,
+      440,
+      812,
+      477
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "CARP will do precisely that. Let’s just hope that someone is listening. ",
+    "bbox": [
+      143,
+      496,
+      756,
+      515
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Bank of America Merrill Lynch ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      671,
+      331,
+      717
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Important Note to Investors ",
+    "bbox": [
+      147,
+      734,
+      269,
+      744
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The above commentary has been created by the Rates Strategy Group of Banc of America Securities LLC (BAS) for informational purposes only and is not a product of the BAS or Merrill Lynch, Pierce, Fenner & Smith (ML) Research Department. Any opinions expressed in this commentary are those of the author who is a member of the Rates Strategy Group and may differ from the opinions expressed by the BAS or ML Research Department. This commentary is not a recommendation or an offer or solicitation for the purchase or sale of any security mentioned herein, nor does it constitute investment advice. BAS, ML, their affiliates and their respective officers, directors, partners and employees, including persons involved in the preparation of this commentary, may from time to time maintain a long or short position in, or purchase or sell as market-makers or advisors, brokers or commercial and/or investment bankers in relation to the securities (or related securities, financial products, options, warrants, rights or derivatives), of companies mentioned in this document or be represented on the board of such companies. BAS or ML may have underwritten securities for or otherwise have an investment banking relationship with, companies referenced in this document. The information contained herein is as of the date referenced and BAS and ML does not undertake any obligation to update or correct such information. BAS and ML has obtained all market prices, data and other information from sources believed to be reliable, although its accuracy and completeness cannot be guaranteed. Such information is subject to change without notice. None of BAS, ML, or any of their affiliates or any officer or employee of BAS or ML or any of their affiliates accepts any liability whatsoever for any direct, indirect or consequential damages or losses from any use of the information contained in this document. ",
+    "bbox": [
+      145,
+      753,
+      852,
+      875
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Please refer to this website for BAS Equity Research Reports: ",
+    "bbox": [
+      147,
+      890,
+      411,
+      900
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      493,
+      939,
+      504,
+      950
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "http://www.bankofamerica.com/index.cfm?page=corp ",
+    "bbox": [
+      454,
+      890,
+      689,
+      900
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Harley S. Bassman BAS/ML US Rates Trading July 23, 2010 ",
+    "bbox": [
+      145,
+      569,
+      370,
+      625
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "TI ",
+    "bbox": [
+      333,
+      661,
+      397,
+      691
+    ],
+    "page_idx": 7
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "type": "text",
+    "text": "Spectrometer no. 3215.30 is an optical instrument, which can be used to determine the wavelength of light as well as the index of refraction of solids and liquids. ",
+    "bbox": [
+      92,
+      216,
+      487,
+      272
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The instrument is supplied with the following standard accessories: ",
+    "bbox": [
+      94,
+      279,
+      485,
+      307
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "- 1 ea. prism holder - 1 ea. grating holder ",
+    "bbox": [
+      95,
+      315,
+      260,
+      343
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The spectrometer consists in principle of a solid base with a turntable, a prism table, a collimator and a telescope. ",
+    "bbox": [
+      92,
+      350,
+      487,
+      392
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The turntable ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      414,
+      201,
+      428
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The turntable (2) is the major part of the instrument. It is mounted with a robust bearing, and it can be rotated around a vertical axis. It is provided with a circular scale (7) marked from 0 to 360 degrees at 0.5 degree intervals. There is a vertical axle in the center of the turntable which can rotate inde - pendently of the table. This axle extends beyond the top of the table and is terminated in a fitting (22) to which the prism table can be mounted. In addition the vertical axle is provided with a pair of nonius scales (8) which are concentric to the cirular scale. The turntable is supplied with a dust cover (3) with two windows for reading the two nonius scales which permit a reading accuracy of 0.1 degrees. ",
+    "bbox": [
+      92,
+      431,
+      485,
+      630
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The prism table ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      644,
+      220,
+      657
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The prism table (6) consists of two metal discs, which are held together with three spring-loaded adjustment screws (24) placed at the apexes of an equilateral triangle. A prism holder (25) or a grating support (27) can be mounted on the uppermost disc. The table is provided with an engraved marking at the center to assist in the correct placement of the prism. ",
+    "bbox": [
+      92,
+      659,
+      485,
+      774
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The axle, which is to be mounted in the fitting (22) on the vertical axle, is attached to the lowermost disc. The prism table can be locked in relation to the two nonius scales by means of the long adjustment screw (23) mounted in the fitting. The vertical axis supporting the nonius scales and the turntable can be locked by means of the adjustment screw, (20) which is placed on the spectrometer support. When the prism table and the nonius scales are locked, they can be rotated slowly using the fine adjustment knob (21) on the side of the spectrometer support. ",
+    "bbox": [
+      92,
+      775,
+      485,
+      845
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      216,
+      905,
+      300
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Collimator ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      315,
+      598,
+      328
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The collimator (5) consists of two concentric metal tubes with an adjustable vertical slit (19) at one end, and a convex lens (13) at the other. ",
+    "bbox": [
+      512,
+      331,
+      904,
+      373
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The collimator is attached to a support which is fixed to the supporting structure (1) of the instrument. The collimator can be adjusted around a horizontal axis (10) by means of two adjustment screws (17) which are mounted below the collimator tube. The distance between the slit and the lens can be adjusted by means of the focussing knob (18) on the side of the collimator. ",
+    "bbox": [
+      512,
+      374,
+      905,
+      487
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Telescope ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      501,
+      630,
+      514
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The telescope (4) which is attached to the arm of the prism table is an astronomical telescope with a cross-hair sighting device (15) and a Ramsden eyepiece (14) positioned at one end of two concentric tubes. There is a convex lens at one end. The telescope can be tipped up and down around a horizontal axis by mewans of two adjustment screws (9) beneath the telescope tube. The tele - scope can be locked in position by means of an adjustment knob located under the prism table arm (16). When the telescope is locked, it can be turned slowly by means of the fine adjustment screw (12) located on the side of the telescope arm. The position of the telescope can be read off the main scale by means of two nonius-scales. The telescope can be focussed by means of the focussing knob (11) on the right hand side of the telescope. ",
+    "bbox": [
+      512,
+      517,
+      905,
+      759
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Preparation of the Spectrometer ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      774,
+      774,
+      787
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "First adjust the ocular (14) so that the cross hairs can be clearly seen. No direct the telescope at a distant vertical object, and focus sharply using the the ad - justment knob (11). Rotate the cross hair unit so that it is vertical, i.e. parallel to the vertical object seen in the telescope. ",
+    "bbox": [
+      510,
+      789,
+      905,
+      846
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CFrederiksen ® ",
+    "bbox": [
+      667,
+      895,
+      904,
+      927
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "User manual for Spectrometer no. 3215.30 14.12.10 Ae 3215.30 ",
+    "bbox": [
+      94,
+      65,
+      905,
+      192
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A/S Søren Frederiksen, Ølgod Tel. $+ 4 5$ 7524 4966 info@frederiksen.eu Viaduktvej 35 · DK-6870 Ølgod Fax $+ 4 5$ 7524 6282 www.frederiksen.eu ",
+    "bbox": [
+      92,
+      902,
+      603,
+      928
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      64,
+      487,
+      92
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Adjust the collimator by placing the spectrometer in a dark room and rotating the telescope so that it is lined up with the collimator. The collimator slit (19) is opened slightly and illuminated e.g. with a sodium lamp. The distance between the slit and the collimator lens can be adjusted with the focussing knob (18) until the slit is sharply focussed and clearly visible in the telescope, and the image of the slit is aligned with the vertical line of the cross hair and the horizontal line is in the center of the image. If the image of the slit is rotated compared with the cross hair, then rotate it into the proper position. If the horizontal line in the cross hair is not in the center of the image, the telescope and collimator can be leveled by means of the adjustment screws (9) and (17). In this manner the axes of the collimator and the telescope can be brought into alignment. ",
+    "bbox": [
+      92,
+      92,
+      485,
+      335
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/a49d6e41a026e6595a96ca1c921f4b361bcecf393b9efd861a5637f63b5f6377.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      95,
+      349,
+      484,
+      500
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Spectrometer base.   \n2 Turntable.   \n3 Turntable cover.   \n4 Telescope.   \n5 Collimator.   \n6 Prism table.   \n7 Main scale.   \n8 Nonius scale   \n9 Telescope adjustment screws.   \n10 Horizontal axel.   \n11 Telescope focussing knob.   \n12 Fine adjustment for telescope.   \n13 Convex lens.   \n14 Ramsden eyepiece.   \n15 Cross hair unit.   \n16 Telescope locking screw.   \n17 Collimator leveling screw.   \n18 Collimator focussing knob.   \n19 Slit.   \n20 Collimator fine adjustment screw.   \n21 Nonius scale locking screw.   \n2 2 Bushing.   \n23 Prism table locking screw.   \n24 Prism table leveling screw.   \n25 Prism holder.   \n26 Prism (supplied separately).   \n27 Grating support.   \n28 Grating support mounting screws. ",
+    "bbox": [
+      92,
+      511,
+      374,
+      909
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Experiments with prisms ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      64,
+      712,
+      78
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Preparation of the prism table ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      86,
+      756,
+      101
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In order to find the angles of a prism set up the spectrometer as usual. When this is done a parallel beam of light will come from the collimator. The prism should now be placed on the prism table so that its refracting edge is parallel with the axis of rotation of the spectrometer. This is accomplished by rotating the telescope so that it makes an angle of 190 degrees with the collimator. The prism is positioned on the prism table so that its refracting edge is vertical, then the prism table is rotated until the light form the collimator is reflected into the telescope as shown in Figure 1. ",
+    "bbox": [
+      512,
+      103,
+      905,
+      273
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/ebf5f5e1b3240309850d225a9d991b059651713ae52295ba4cbeb935bfbc1aa2.jpg",
+    "image_caption": [
+      "Fig.1 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      598,
+      282,
+      816,
+      423
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "If the prism table is not adjusted correctly then the light will not be reflected into the telescope. If this is the case the prism is positioned so that one of its sides (AC in Figure 1) is normal to the line between the two leveling screws $\\textsf { Y }$ and Z on the prism table. Lines are marked on the prism table to ease placement. ",
+    "bbox": [
+      512,
+      448,
+      905,
+      548
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "With the telescope adjusted to receive reflected light from side AC, the adjustment screws X and Z are turned until the image of the slit is visible in the middle of the telescope. ",
+    "bbox": [
+      510,
+      549,
+      905,
+      605
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The prism table is now rotated so that light reflected from side AB enters the telescope. Screw Y is ad - justed until the slit image is visible in the center of the telescope field of view. When making this adjustment the side AC is only rotated in its own plane and there will therefore not be any change in direc - tion of the beam reflected from that side. ",
+    "bbox": [
+      512,
+      606,
+      905,
+      705
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In order to measure the refracting angle the following methods can be used: ",
+    "bbox": [
+      512,
+      706,
+      905,
+      733
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "a) Telescope rotation method: The light from the collimator is made to fall on two reflecting sides of the prism at once. The telescope is adjusted so that it receives reflected light from one side, and the telescope position on the scale in noted. Then it is rotated so that it receives the reflected light from the other surface. Note the position. The difference between the two positions is twice the refracting angle of the prism. See Figure 2. For an equilateral prism this angle would be 60 degrees. ",
+    "bbox": [
+      512,
+      734,
+      905,
+      877
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Frederiksen ",
+    "bbox": [
+      783,
+      935,
+      936,
+      957
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      92,
+      932,
+      105,
+      942
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/d6bd6e0a1864012bb10e50f58f0a9ec9a45d1a2214efcf33e467044f7f9758aa.jpg",
+    "image_caption": [
+      ""
+    ],
+    "image_footnote": [],
+    "bbox": [
+      152,
+      71,
+      420,
+      217
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "b) Rotating the table: The telescope is locked in position so that it is not parallel to the collimator. The prism table is rotated until the reflected ray enters the telescope. The angle of the prism table is read off the scale. The table is rotated further until the ray again enters the telescope. The new angle is noted. The difference between the two angles is called θ. The refracting angle of the prism is then $1 8 0 \\textrm { - } \\theta$ as shown in Figure 3. ",
+    "bbox": [
+      92,
+      239,
+      487,
+      367
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "incidence increases the angle of refraction will first decrease until it reaches a minimum before in - creasing. The telescope is rotated so that it receives the light at the minimum deviation angle. The prism is now in its primary position. The prism table and the nonius scales are locked by means of locking screws, and the fine adjustment screw is used to determine the exact value of he angle of minimum refraction. The position of the telescope is read off the scale. Then the second least angle of refraction is found, and the position of the telescope is again read off the scale. ",
+    "bbox": [
+      512,
+      64,
+      905,
+      235
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/5335ffd8b202623cd459fb95c738eddc3bbda6f08054a4a56770ba5b0748698c.jpg",
+    "image_caption": [
+      ""
+    ],
+    "image_footnote": [],
+    "bbox": [
+      203,
+      379,
+      371,
+      537
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The average of these two readings is found. The prism is now removed from the prism table, and the telescope is rotated so that it receives light directly from the collimator, and the position of the telescope is read off. The angle through which the telescope is rotated is the angle of minimum refraction, θ. ",
+    "bbox": [
+      512,
+      235,
+      905,
+      321
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "When θ is the angle of minimum deviation, the index of refraction R is given by: ",
+    "bbox": [
+      510,
+      328,
+      904,
+      356
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_0982243/auto/images/1b5865c39bc0daf956a5c8ad5dc63be63eb5acadc45a4385e39aa35562898db4.jpg",
+    "text": "$$\n\\mathsf { R } = ( \\mathsf { s i n } ( ( \\Theta + \\alpha ) / 2 ) ) / \\mathsf { s i n } ( \\alpha / 2 )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      509,
+      362,
+      712,
+      378
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where $\\alpha$ is the refracting angle of the prism. ",
+    "bbox": [
+      512,
+      384,
+      843,
+      399
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "NOTE: If the light source is not monochromatic, a numer of different colored images of the slit will be seen. The size of the angle of minimum deviation depends on the color of the light. This shows that the index of refraction is as well. ",
+    "bbox": [
+      510,
+      405,
+      905,
+      475
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "EXPERIMENT ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      565,
+      205,
+      579
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Index of refraction of a prism at a specific wavelength. ",
+    "bbox": [
+      94,
+      581,
+      485,
+      609
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The path of a ray of light which passes through a prism will be altered due to refraction. The magni - tude of the deviation depends upon the index of refraction of the prism material and the wavelength (color) of the beam of light. For this reason mo - nochromatic light should be used in the experiment. First the refracting angle of the prism should be found as described elsewhere. Then monochro matic light e.g. from a sodium lamp or a laser should be sent through the collimator slit. The prism is placed on the prism table so that the light passes through its refracting angle and the image of the slit can be seen with the naked eye. If this image is observed as the prism table is rotated, the image will first move in the same direction, quickly at first then slowly. At a certain point it will cease to move then reverse its movement. The precise position where the image of the slit stands still is called the primary position of the prism. ",
+    "bbox": [
+      92,
+      609,
+      487,
+      881
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For a given color the deviation of the ray depends upon the angle of incidence. When the angle of ",
+    "bbox": [
+      94,
+      881,
+      487,
+      909
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "EXPERIMENT ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      494,
+      623,
+      506
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Determination of the wavelength of light from a sodium lamp using an optical grating. ",
+    "bbox": [
+      510,
+      510,
+      905,
+      538
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "When the spectrometer has been set up, turn the telescope so that the image of the collimator slit coincides with the vertical cross hair. Now read off the angle and rotate the telescope 90 degrees so that it is normal to the collimator and lock it in place. Now place the grating in the grating holder on the prism table so that it is normal to the two adjustment screws Y and Z (see Figure 4) and so that the light from the collimator strikes the back side of the gra - ting. The prism table is turned until the reflected light from the prism is visible in the telescope. Now make a fine adjustment so that the edge of the slit coin cides with the vertical cross hair. Adjust the screws X and Y so that the image of the slit lies symme trically with respect to the horizontal cross hair. The position of the prism table is read off the scale then rotated 45 degrees so that the grating is normal to the beam of light from the collimator, and the grating faces the incident light. The prism table is locked and the telescope is turned to the left until the first order spectrum is visible. If the slit image is not symmetrical around the horizontal cross hair, then make adjustments using the screw Z. The telescope is rotated to the right until the first order spectrum appears. Adjust Z until the slit image is symmetrical around the horizontal cross hair. ",
+    "bbox": [
+      510,
+      541,
+      905,
+      908
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      894,
+      932,
+      905,
+      942
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Frederiksen ",
+    "bbox": [
+      100,
+      922,
+      255,
+      944
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Now rotate the telescope to the left to obtain a line in the first order image in the center of the cross hairs. Read the two nonius scales. Rotate the telescope to the right and again obtain a first order image of the same line in the center of the cross hairs. Read the two nonius scales again. The difference between the two readings equals twice the angle of diffraction for this spectral line, 2θ (Figure 5). ",
+    "bbox": [
+      92,
+      64,
+      487,
+      178
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/df7b38407ad6aab0b9c1275e4cbdfb9c839ffe0e2a2308332afbcf5a583d1eaa.jpg",
+    "image_caption": [
+      "Fig.4 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      95,
+      190,
+      221,
+      278
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_0982243/auto/images/4350203e75d9f567870b1b73566aebd01fed1d1e4287271b1a963baabb11f9ff.jpg",
+    "image_caption": [
+      "Fig.5 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      282,
+      187,
+      480,
+      282
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "EXPERIMENT ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      305,
+      205,
+      317
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Determining the dispersion and the index of dispersion. ",
+    "bbox": [
+      92,
+      321,
+      485,
+      348
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Dispersion in a prism (separation into different colors) occurs because the index of refraction R varies with the wavelength lambda. ",
+    "bbox": [
+      92,
+      349,
+      487,
+      391
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Because R is the ratio of the speed of light c in a vacuum and the speed of light ${ \\boldsymbol { \\mathsf { c } } } ^ { \\prime }$ in a given material, ",
+    "bbox": [
+      92,
+      392,
+      487,
+      420
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "R can also be defined as the wavelength dependent change in the speed of light ${ \\boldsymbol { \\mathsf { C } } } ^ { \\prime }$ . ",
+    "bbox": [
+      510,
+      64,
+      905,
+      92
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Light from a helium spectral lamp consists of seven different colors (wavelengths) corresponding in turn to seven spectral lines. If one first determines the refracting angle of the prism and thereafter the angles of deviation for red and green light with the prism positioned in the angle of minimum deviation, then the index of refraction can be calculated as de - scribed earlier. The dispersion D of the prism for these lines is defined as: ",
+    "bbox": [
+      510,
+      92,
+      905,
+      221
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_0982243/auto/images/c53c66a4eaedf0c7b255fb4a989a0e53fafb329ca30be4a4006d139186c5a0ff.jpg",
+    "text": "$$\n\\mathsf { D } = ( \\mathsf { R } _ { \\mathsf { g } } - \\mathsf { R } _ { \\mathsf { r } } ) / ( \\mathsf { R } { - } 1 )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      638,
+      227,
+      779,
+      243
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where $\\mathsf { R } _ { \\mathsf { 9 } }$ and $\\mathsf { R } _ { \\mathsf { r } }$ are the indices of refraction for green $( 4 8 6 . 1 ~ \\mathsf { n m } )$ and red $( 6 5 6 , 3 \\ \\mathsf { n m } )$ spectral lines, and R is the index of refraction for a yellow sodium line $( 5 8 9 , 3 \\ \\mathsf { n m } )$ . An approximate value for R can be found from $\\mathsf { R } = \\mathsf { \\Omega } ^ { 1 } / 2$ $\\left( \\mathsf { R } _ { \\mathsf { g } } + \\mathsf { R } _ { \\mathsf { r } } \\right)$ . ",
+    "bbox": [
+      510,
+      248,
+      905,
+      319
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The following table shows the indices of refraction Rr and Rv for crown glass and dense flint glass at the wavelengths 656.3 nm (red) and $4 0 4 . 7 \\ \\mathsf { n m }$ (violet). The table also provides values for ${ \\mathsf { d R } } / { \\mathsf { d } } \\lambda$ , dc’/dλ and ${ \\tt d } \\lambda$ . Within spectrometry it is customary to refer to the dispersion as ${ \\mathsf { d R } } / { \\mathsf { d } } \\lambda$ , while in theo - retical optics dc’/dλ is more commonly used. ",
+    "bbox": [
+      510,
+      321,
+      905,
+      420
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_0982243/auto/images/45b48d072c4c716fd53abe249c49e6fbb7963055055f4b603865184ab33a76f9.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>crown glassdenseflintglass</td><td rowspan=1 colspan=1>R(656.3 nm)1.51641.6936</td><td rowspan=1 colspan=1>R(404.7 nm)1.53341.7427</td><td rowspan=1 colspan=1>dR=Ry-RR0.01700.0491</td><td rowspan=1 colspan=1>dR/dλ(nm-1)-67 · 10-6-195 ·10-6</td><td rowspan=1 colspan=1>dc&#x27;/dλ(ms-1- nm-1)78·10469 ·104</td><td rowspan=1 colspan=1>d(nm)0.00170.0033</td></tr></table>",
+    "bbox": [
+      94,
+      443,
+      905,
+      596
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "It is apparent from the table that spectrometer prisms should be made of flint glass (to achieve good color separation), while glass for eyeglasses should (if made of glass) be made of crown glass. ",
+    "bbox": [
+      92,
+      613,
+      904,
+      643
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A/S Søren Frederiksen, Ølgod Tel. $+ 4 5$ 7524 4966 info@frederiksen.eu Viaduktvej 35 $\\cdot$ DK-6870 Ølgod Fax $+ 4 5$ 7524 6282 www.frederiksen.eu ",
+    "bbox": [
+      92,
+      890,
+      605,
+      919
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "CFrederiksen ? ",
+    "bbox": [
+      667,
+      894,
+      904,
+      927
+    ],
+    "page_idx": 3
+  }
+]

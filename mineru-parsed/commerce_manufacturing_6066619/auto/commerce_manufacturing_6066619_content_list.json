@@ -1,0 +1,4058 @@
+[
+  {
+    "type": "text",
+    "text": "TI Designs Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      54,
+      732,
+      123
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "text_level": 1,
+    "bbox": [
+      580,
+      147,
+      839,
+      172
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "TI Designs ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      209,
+      171,
+      224
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This TI design highlights the voice recognition capabilities of the C5535 and C5545 devices using the TI embedded speech recognition (TIesr) library and instructs how to run a voice triggering example that prints a preprogrammed keyword on the C5535eZdsp OLED screen, based on a successful keyword capture. This design also describes the steps to customize the trigger phrase. ",
+    "bbox": [
+      86,
+      231,
+      485,
+      343
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The speech recognition capability of the C5535 and C5545 devices showcases the performance and versatility of this low-power, low-cost DSP in embedded applications. ",
+    "bbox": [
+      84,
+      349,
+      464,
+      406
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Design Resources ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      416,
+      230,
+      431
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "TIDEP0066 TI Design Files TMDX5535eZdsp Tool Folder TMS320C5535 Product Folder TMS320C5545 Product Folder TLV320AIC3204 Product Folder ",
+    "bbox": [
+      88,
+      446,
+      341,
+      522
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Design Features ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      209,
+      638,
+      224
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Includes Software Source, Schematics, Bill of Materials, and Design Files.   \nApplicable to Any Application Requiring Voice Triggering.   \nOffers Customizable Trigger Words. ",
+    "bbox": [
+      508,
+      231,
+      870,
+      311
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Featured Applications ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      320,
+      684,
+      337
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Voice Triggering for Embedded Devices Acoustic Analysis . Wireless Audio Devices (for example, Headsets Microphones, and Speaker phones) Industrial Controls ",
+    "bbox": [
+      508,
+      342,
+      883,
+      426
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/be876d1897b096617a38dcdac30d2ba1a73559a4deda7b5030d446b751c56d02.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      573,
+      621,
+      861,
+      787
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "An IMPORTANT NOTICE at the end of this TI reference design addresses authorized use, intellectual property matters and other important disclaimers and information. ",
+    "bbox": [
+      94,
+      818,
+      903,
+      843
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      498,
+      945,
+      864,
+      958
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      349,
+      969
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      901,
+      945,
+      911,
+      955
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ASK Our E2E Experts TIE2E Community ",
+    "bbox": [
+      86,
+      536,
+      488,
+      593
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      179,
+      656,
+      482,
+      753
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "eZdsp, Code Composer Studio, PowerTune, DSP/BIOS are trademarks of Texas Instruments. Linux is a registered trademark of Linus Torvalds. MathWorks is a registered trademark of MathWorks Inc. Windows is a registered trademark of Microsoft Inc. microSD is a trademark of SD-3C, LLC. All other trademarks are the property of their respective owners. ",
+    "bbox": [
+      88,
+      866,
+      635,
+      935
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      524,
+      142,
+      568,
+      176
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 System Description ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      93,
+      305,
+      109
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The C5535/C5545 fixed-point DSP is based on the TMS320C55x DSP core. The $\\mathtt { C F S X }$ DSP architecture achieves high performance and low power through increased parallelism and focus on power savings. This low-cost DSP works well in embedded speech recognition applications and this reference design showcases this capability. The design contains reference C code and binaries to run a voice trigger demonstration that detects a keyword phrase spoken into the microphone of the C5535 eZdsp™ EVM. ",
+    "bbox": [
+      135,
+      116,
+      893,
+      186
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1.1 C5535 and C5545 Fixed-Pint Digital Signal Processors ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      202,
+      599,
+      219
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The C5535 and C5545 DSPs sample the incoming audio data and make decisions on whether the keyword phrase TI voice trigger has been recognized with the assistance of the TI embedded speech recognition (TIesr) software library. Section 3.2 describes the algorithm and the various threads the DSP handles. For more information, see Figure 1. ",
+    "bbox": [
+      135,
+      226,
+      895,
+      282
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/8a3727adbe6131ffe7f82294430abf8594c1ebfed6c06213c2b1899ddee70480.jpg",
+    "image_caption": [
+      "Figure 1. C5535 and C5545 SoC Architecture "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      281,
+      291,
+      717,
+      752
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "TeXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      910,
+      45
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "System Description ",
+    "bbox": [
+      88,
+      71,
+      215,
+      83
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      836,
+      73,
+      911,
+      83
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      133,
+      945,
+      500,
+      958
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      86,
+      946,
+      96,
+      955
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 Block Diagram ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      93,
+      263,
+      109
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Figure 2 shows the block diagram of the demonstration. ",
+    "bbox": [
+      132,
+      116,
+      542,
+      131
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/9b8218d02be000dfac9764298d18e4f34458bce3a4735c5aaf72af0ec4003061.jpg",
+    "image_caption": [
+      "Figure 2. Demonstration Block Diagram "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      348,
+      140,
+      651,
+      236
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.1 Highlighted Products ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      286,
+      320,
+      303
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The reference design features the following devices: ",
+    "bbox": [
+      133,
+      309,
+      516,
+      324
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.1.1 C5535 and C5545 DSP ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      342,
+      330,
+      357
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": ". Core: ",
+    "bbox": [
+      133,
+      361,
+      202,
+      375
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "High-performance, low-power, TMS320C55x fixed-point digital signal processor   \n• 20-, 10-ns instruction cycle time 50- (60- on C5545), 100-MHz clock rate One or two instructions executed per cycle Dual multiply-and-accumulate units (up to 200 million multiply-accumulates per second [MMACS]) Two arithmetic and logic units (ALUs) Three internal data and operand read buses and two internal data and operand write buses Software-compatible with $\\mathtt { C F S x }$ devices Industrial temperature devices available ",
+    "bbox": [
+      173,
+      378,
+      870,
+      536
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "– 320KB of zero-wait state on-chip RAM composed of the following: ",
+    "bbox": [
+      163,
+      540,
+      665,
+      556
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• 64KB of dual-access RAM (DARAM), 8 blocks of $4 \\mathsf { K } \\times 1 6$ bit • 256KB of single-access RAM (SARAM), 32 blocks of $4 \\mathsf { K } \\times 1 6$ bit • 128KB of zero wait-state on-chip ROM (4 blocks of $1 6 { \\mathsf { K } } \\times 1 6$ bit) ",
+    "bbox": [
+      181,
+      558,
+      681,
+      611
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "– Tightly coupled FFT hardware accelerator ",
+    "bbox": [
+      156,
+      614,
+      495,
+      628
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Peripheral: ",
+    "bbox": [
+      133,
+      632,
+      240,
+      647
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "– Direct memory access (DMA) controller • Four DMA with 4 channels each (16 channels total)   \nThree 32-bit general-purpose (GP) timers • One selectable as a watchdog or GP Two embedded multimedia cards (eMMCs) or secure digital (SD) interfaces Universal asynchronous receiver/transmitter (UART) Serial port interface (SPI) with four chip selects Master and slave inter-intergrated circuit ( $\\mathsf { I } ^ { 2 } \\mathsf { C }$ bus) Four inter-IC sound (I2S bus) for data transport Device USB port with integrated 2.0 high-speed PHY that supports the following: • USB 2.0 full- and high-speed devices LCD bridge with asynchronous interface 10-bit, 4-input successive approximation (SAR) analog-to-digital converter (ADC) IEEE-1149.1 (JTAG) boundary-scan-compatible 32 general-purpose I/O (GPIO) pins (multiplexed with other device functions) ",
+    "bbox": [
+      151,
+      651,
+      774,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      498,
+      945,
+      864,
+      958
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      84,
+      71,
+      161,
+      83
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Block Diagram ",
+    "bbox": [
+      813,
+      71,
+      913,
+      83
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      901,
+      945,
+      913,
+      957
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Configures up to 20 GPIO pins simultaneously ",
+    "bbox": [
+      181,
+      93,
+      549,
+      109
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• Power: ",
+    "bbox": [
+      133,
+      113,
+      212,
+      126
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "– Four core isolated power supply domains: ",
+    "bbox": [
+      150,
+      113,
+      491,
+      146
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• Analog   \n• RTC   \n• CPU and Peripherals   \n• USB ",
+    "bbox": [
+      183,
+      150,
+      367,
+      218
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "– Three I/O isolated power supply domains: ",
+    "bbox": [
+      156,
+      223,
+      490,
+      238
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "DVDDIO—Three integrated LDOs (DSP_LDO, ANA_LDO, and USB_LDO) to power the isolated domains: DSP core, Analog, and USB core, respectively ",
+    "bbox": [
+      169,
+      277,
+      908,
+      308
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "– 1.05-V core (50 MHz), 1.8-, 2.5-, 2.75-, or 3.3-V I/Os – 1.3-V core (100 MHz), 1.8-, 2.5-, 2.75-, or 3.3-V I/Os • Clock: – Real-time clock (RTC) with crystal input, separate clock domain, and separate power supply – Low-power software programmable phase-locked loop (PLL) clock generator ",
+    "bbox": [
+      156,
+      309,
+      570,
+      344
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      133,
+      347,
+      859,
+      400
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• Bootloader: On-chip ROM bootloader (RBL) to boot from SPI EEPROM, SPI serial flash or I2C EEPROM eMMC, SD, SDHC, UART, and USB ",
+    "bbox": [
+      135,
+      402,
+      859,
+      450
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "• Package: – 144-terminal Pb-free plastic ball grid array (BGA) (ZHH Suffix) ",
+    "bbox": [
+      135,
+      454,
+      638,
+      487
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For more information on each of these devices, see the respective product folders at www.TI.com. ",
+    "bbox": [
+      133,
+      492,
+      849,
+      508
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      911,
+      46
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Block Diagram ",
+    "bbox": [
+      86,
+      71,
+      186,
+      83
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      135,
+      946,
+      500,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      86,
+      946,
+      96,
+      955
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2.1.2 C5535 eZdsp USB Development Kit ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      93,
+      433,
+      108
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The TMDX5535eZdsp is a small form factor, low-cost USB-powered DSP development kit that includes hardware and software required to evaluate the C553x generation, which is the lowest-cost and lowestpower 16-bit DSP of the industry. This low-cost kit allows quick and easy evaluation of the advanced capabilities of the C5532, C5533, C5534, C5535 and C5545 processors. The kit has an on-board XDS100 emulator for full source-level debug capability and supports Code Composer Studio™ (CCS). ",
+    "bbox": [
+      133,
+      114,
+      908,
+      185
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Key features: ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      191,
+      233,
+      207
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Small form factor DSP development kit for the C5535 and C5545 processor TMS320C5535 fixed-point, ultra-low-power DSP   \n• Embedded XDS100 emulator   \n8-MB serial flash memory TLV320AIC3204 programmable low-power stereo audio codec USB 2.0 high speed   \n• microSD™ card slot with 2-GB micro SD card   \nLine-in/Mic-in and headphone-out audio jacks Earphone with mic 60-pin expansion connector $9 6 \\times 1 6$ -pixel OLED display Two push buttons ",
+    "bbox": [
+      133,
+      210,
+      707,
+      426
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/36a53ee33e052100481a6206f93c2d0e828d5f4b844c0fa1a9e5fb583b7a1606.jpg",
+    "image_caption": [
+      "Figure 3 shows the C5535 eZdsp kit. ",
+      "Figure 3. C5535 eZdsp Kit "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      339,
+      463,
+      658,
+      665
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      86,
+      73,
+      161,
+      83
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Block Diagram ",
+    "bbox": [
+      813,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      498,
+      945,
+      864,
+      958
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      901,
+      946,
+      911,
+      955
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.1.3 TLV320AIC3204 Ultra-Low-Power Stereo Audio Codec ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      93,
+      575,
+      108
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The TLV320AIC3204 device (also called the AIC3204) is a flexible, low-power, low-voltage stereo audio codec with programmable inputs and outputs, PowerTune™ capabilities, fixed predefined and parameterizable signal-processing blocks, integrated PLL, integrated LDOs, and flexible digital interfaces. ",
+    "bbox": [
+      132,
+      114,
+      900,
+      159
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Features: ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      165,
+      205,
+      179
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "• Stereo audio DAC with 100-dB SNR   \n• 4.1-mW stereo, 48-ksps DAC playback   \n• Stereo audio ADC with 93-dB SNR   \n• 6.1-mW stereo, 48-ksps ADC record   \n• PowerTune   \n• Extensive signal-processing options   \n• Six single-ended or three fully-differential analog inputs   \n• Stereo analog and digital microphone inputs   \n• Stereo headphone outputs   \n• Stereo line outputs   \n• Low-noise PGA Low-power analog bypass mode Programmable microphone bias Programmable PLL Integrated LDO 5 mm × 5 mm 32-pin QFN package ",
+    "bbox": [
+      133,
+      181,
+      563,
+      476
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "TeXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      910,
+      45
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Block Diagram ",
+    "bbox": [
+      86,
+      71,
+      184,
+      83
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      73,
+      911,
+      83
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      135,
+      946,
+      500,
+      958
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      86,
+      946,
+      96,
+      955
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3 System Design Theory ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      93,
+      331,
+      111
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The speech recognition reference demonstration uses the TI embedded speech recognition library (TIesr) and leverages the high-performance and low-power DSP core of the C5535 and C5545 devices to process the microphone input and respond to a preprogrammed phrase. The following sections present the theory of operation of the demonstration. ",
+    "bbox": [
+      135,
+      116,
+      901,
+      172
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.1 TI Embedded Speech Recognizer ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      189,
+      423,
+      205
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "TIesr is a Hidden Markov Model (HMM)-based automatic speech recognizer (ASR) that is speaker independent. TIesr contains an efficient fixed-point implementation of the grammar-based recognizer that requires reduced memory and processing. The algorithm contains excessive background noise suppression and compensation. It also contains confidence measuring to allow for flexibility in misrecognition. The voice activity detection decisions are based on the following: ",
+    "bbox": [
+      135,
+      212,
+      900,
+      282
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Energy in the signal   \nAutocorrelation   \n. Matching to silence acoustic models ",
+    "bbox": [
+      133,
+      286,
+      428,
+      338
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/0460b9eefb4617f8d27cd2cc1738fad840763a76aee252b10569927352eb1eb5.jpg",
+    "image_caption": [
+      "Figure 4 shows the TIesr API architecture. ",
+      "Figure 4. TIesr API Architecture "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      84,
+      369,
+      911,
+      750
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Features: ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      795,
+      205,
+      809
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• Fixed point representation: ",
+    "bbox": [
+      135,
+      813,
+      356,
+      828
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Offers10-mfcc, 10-delta, and 20-ms frames Offers representation in short or byte Offers dynamic byte scaling based on current active grammar ",
+    "bbox": [
+      156,
+      830,
+      635,
+      883
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "System Design Theory ",
+    "bbox": [
+      761,
+      71,
+      911,
+      84
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      84,
+      71,
+      161,
+      83
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      498,
+      945,
+      864,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      901,
+      945,
+      911,
+      955
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• Voice activity detection: ",
+    "bbox": [
+      135,
+      97,
+      333,
+      111
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Does not send features to recognizer if data not required   \nDecides based on the following:   \n• Energy in signal   \n• Autocorrelation Matching to silence acoustic models ",
+    "bbox": [
+      156,
+      114,
+      599,
+      204
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.2 Demonstration Software Architecture ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      219,
+      459,
+      236
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The C5535 and C5545 real-time TIesr demo functions by using TI-RTOS to divide various tasks into threads. Table 1 lists the summary of the demonstration software architecture. The demonstration is split into threads as listed in Table 1, ",
+    "bbox": [
+      133,
+      243,
+      898,
+      286
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/1dba382013954a34762883c6654c306d6fb14ad9daeed8d2d9659ac6ee20ec74.jpg",
+    "table_caption": [
+      "Table 1. Demonstration Software Architecture Summary "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Thread number</td><td rowspan=1 colspan=1>Priority (0 highest)</td><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Function</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>User Input</td><td rowspan=1 colspan=1>· START, STOP functions·Fired by timer ISRSAR polling rate fixed bytimer intr</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>Audio Data Collection</td><td rowspan=1 colspan=1>Ping pong buffer→ inputcircular bufferFired by DMA ISRRate fixed by DMA (I2Ssync) intrFires recognizer thread(for example, SWI_inc())</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Recognizer</td><td rowspan=1 colspan=1>Read audio frame frominput circular bufferRun recognizer on inputaudio frameIf recognition result, runJAC_update() and getrecognizer resultsFired by audio datacollection</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Output Display</td><td rowspan=1 colspan=1>Output results to LCDFired by recognitionthread (for example,SWI_post() orSEM_post())</td></tr></table>",
+    "bbox": [
+      132,
+      321,
+      916,
+      683
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      910,
+      46
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "System Design Theory ",
+    "bbox": [
+      86,
+      71,
+      238,
+      84
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      73,
+      911,
+      83
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      135,
+      945,
+      500,
+      958
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      86,
+      946,
+      96,
+      955
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "When the demonstration is executed, there are several states that the system enters based on the task.   \nThe following is a summary on the various tasks the demonstration executes. ",
+    "bbox": [
+      132,
+      93,
+      893,
+      122
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Idle ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      128,
+      166,
+      142
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "User Input active thread ",
+    "bbox": [
+      135,
+      150,
+      313,
+      165
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Waiting for user to input command from push-button (SW2) network. If START command is received, transition to Start Audio Data Collection state.   \n• If STOP command received, remain in Idle state. ",
+    "bbox": [
+      133,
+      169,
+      730,
+      220
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Audio Data Collection active thead ",
+    "bbox": [
+      133,
+      227,
+      390,
+      241
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• ADC output not written to input circular buffer. Input circular buffer is empty. ",
+    "bbox": [
+      132,
+      244,
+      709,
+      261
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Recognizer not active thread ",
+    "bbox": [
+      135,
+      267,
+      348,
+      281
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Recognizer state is up-to-date with respect to all previous recognition results. ",
+    "bbox": [
+      133,
+      285,
+      720,
+      300
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Output Display may be active thread ",
+    "bbox": [
+      133,
+      306,
+      403,
+      321
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Output of previous recognition results to LCD may be in progress. ",
+    "bbox": [
+      133,
+      324,
+      638,
+      340
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Start Audio Data Collection ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      345,
+      349,
+      361
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "User Input active thread ",
+    "bbox": [
+      135,
+      367,
+      312,
+      382
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Software controls updated for the following: – ADC output is written to input circular buffer. – Thread: Recognizer is notified when a new audio frame is available. ",
+    "bbox": [
+      135,
+      386,
+      679,
+      438
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Audio Data Collection active thread ",
+    "bbox": [
+      135,
+      444,
+      397,
+      459
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• ADC output is not written to input circular buffer. Input circular buffer is empty. ",
+    "bbox": [
+      132,
+      462,
+      727,
+      478
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Recognizer not active thead ",
+    "bbox": [
+      135,
+      484,
+      343,
+      498
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Recognizer state is up-to-date with respect to all previous recognition results. ",
+    "bbox": [
+      132,
+      502,
+      723,
+      517
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Output Display may be active thread ",
+    "bbox": [
+      135,
+      523,
+      403,
+      539
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Output of previous recognition results to LCD may be in progress. ",
+    "bbox": [
+      135,
+      541,
+      638,
+      558
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "System Design Theory ",
+    "bbox": [
+      761,
+      71,
+      913,
+      84
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      84,
+      71,
+      161,
+      83
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      498,
+      946,
+      864,
+      958
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      901,
+      946,
+      911,
+      955
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Recognizing ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      93,
+      235,
+      109
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "User Input active thread ",
+    "bbox": [
+      135,
+      116,
+      312,
+      130
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Waiting for user to input command from push-button network. • If START command is received, remain in Recognizing state. • If STOP command is received, transition to Idle state. ",
+    "bbox": [
+      133,
+      133,
+      609,
+      185
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Audio Data Collection active thread • ADC output is written to input circular buffer. ",
+    "bbox": [
+      135,
+      191,
+      397,
+      205
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      135,
+      210,
+      483,
+      224
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Recognizer active thread ",
+    "bbox": [
+      135,
+      232,
+      318,
+      246
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "• Recognizer is consuming audio frames from input circular buffer.   \nThe number of input audio frames received before previous recognition processing is completely transmitted to Recognizer thread through global variable or SWI mailbox (SWI_inc()) Recognizer thread remains in outer multiple utterance recognition loop until one of following conditions are met: – A STOP command is received. – All audio frames are processed. Recognizer thread remains in inner single utterance recognition loop (CallSearchEngine() and SpeechEnded()) until one of following conditions are met:   \n– A STOP command is received.   \n– All audio frames are processed and no recognition result is found.   \n– A recognition result is found. ",
+    "bbox": [
+      133,
+      250,
+      906,
+      366
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      133,
+      369,
+      848,
+      454
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "If the inner and outer loop terminated because a STOP command was received: ",
+    "bbox": [
+      142,
+      457,
+      746,
+      472
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1. Updates the software controls so the ADC output buffer is not written to circular buffer, and Thread: Recognizer is not notified when a new audio frame is available.   \n2. Clears the input circular buffer.   \n3. Exits the recognizer thread and transitions to an idle state.   \nIf the inner or outer loop terminated because all audio frames are processed and no recognition result is found, exit the recognizer thread and remain in the recognizing state.   \nIf the inner loop is terminated because a recognition result is found, perform recognition postprocessing:   \n1. Calls JAC_update().   \n2. Obtains and prepare recognition results for display.   \n3. Forwards the recognition results to Output Display thread. ",
+    "bbox": [
+      133,
+      472,
+      910,
+      662
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3.3 Hardware ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      678,
+      220,
+      694
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The C5535 and C5545 TIesr demonstration uses the C5535 ezdsp EVM. Speech is captured through the microphone connected to Stereo IN (J3) of the eZdsp. The speech is processed through the audio codec (AIC3204) and passed onto the I2S port of C5535 DSP through the Octal FET bus switch (SN74CBTLV3245A).The 5535 eZdsp is powered through the USB connector J2 that also has the XDS100 emulator for CCS debugging. ",
+    "bbox": [
+      133,
+      700,
+      901,
+      772
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "When the demonstration is executed as described in Section 5, the system waits for a button press from the user on SW2 to arm the system. LED DS2 flashes rapidly to indicate that the system is waiting for microphone input. When the keyword is recognized, the phrase is printed on the OLED. ",
+    "bbox": [
+      135,
+      777,
+      898,
+      820
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4 Getting Started Hardware ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      837,
+      356,
+      854
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This section lists all of the hardware required to get started. The parts used in this design can be ordered from http://www.ti.com. ",
+    "bbox": [
+      127,
+      861,
+      901,
+      890
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      910,
+      46
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "System Design Theory ",
+    "bbox": [
+      88,
+      71,
+      238,
+      84
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "10 Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      86,
+      945,
+      501,
+      958
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      73,
+      911,
+      83
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4.1 C5535 eZdsp USB Stick Development Kit ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      92,
+      490,
+      108
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To purchase the C5535 eZdsp USB Stick Development Kit, see http://www.ti.com/tool/tmdx5535ezdsp. The kit includes a microphone that is required to run the demonstration. The product page also contains links to schematics and other hardware related resources. For the C5535 eZdsp Voice Trigger demonstration setup, see Figure 5. ",
+    "bbox": [
+      135,
+      114,
+      890,
+      171
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/e03b8a3b62d07367859d1370cb217c4a7fa997c5f56eb72906230168d618e913.jpg",
+    "image_caption": [
+      "Figure 5. C5535 eZdsp Voice Trigger Demonstration Setup "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      142,
+      181,
+      857,
+      598
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5 Getting Started Firmware ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      650,
+      354,
+      667
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5.1 Running the Prebuilt Voice Trigger Demonstration ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      683,
+      568,
+      700
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "This section describes the steps to run the voice trigger demonstration on the C5535 ezdsp, using the prebuilt binary. Section 5.2 shows how to build and run this binary. Section 5.3 shows how to customize the trigger phrase. ",
+    "bbox": [
+      133,
+      707,
+      910,
+      750
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5.1.1 Software Requirements ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      766,
+      339,
+      781
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To get started with the demonstration, the following software is required: ",
+    "bbox": [
+      127,
+      787,
+      661,
+      803
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CCS (demonstration was tested with v6.1.2) TIesr Speech recognition software package ",
+    "bbox": [
+      133,
+      808,
+      482,
+      840
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5.1.2 Hardware Requirements ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      858,
+      346,
+      873
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To get started with the demonstration, the following hardware is required: ",
+    "bbox": [
+      120,
+      880,
+      669,
+      895
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "• A C5535 eZdsp device with a microphone • A PC with a Windows® 7 operating system ",
+    "bbox": [
+      135,
+      897,
+      472,
+      931
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Hardware ",
+    "bbox": [
+      743,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      500,
+      945,
+      867,
+      958
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      86,
+      73,
+      161,
+      83
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      88,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      895,
+      945,
+      910,
+      955
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5.1.3 Running the Demonstration in CCS ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      93,
+      431,
+      109
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To build and run the keyword trigger demonstration on the C5535 ezdsp, do as follows:   \n1. Open CCS.   \n2. Proceed to Section 5.2.3, Step 14. The voice trigger phrase TI voice trigger displays on the OLED. ",
+    "bbox": [
+      125,
+      114,
+      774,
+      186
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5.2 Building and Running the Voice Trigger Demonstration ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      200,
+      612,
+      218
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "This section describes how to build and run the voice trigger demonstration on the C5535 ezdsp and how to customize the trigger phrase. ",
+    "bbox": [
+      120,
+      224,
+      900,
+      253
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5.2.1 Software Requirements ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      271,
+      339,
+      286
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To get started with the demonstration, the following software components are required: ",
+    "bbox": [
+      129,
+      292,
+      767,
+      308
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CCS (the demonstration was tested with v6.1.2)   \nDSP/BIOS™ real-time operating system v5.42.0.7   \nTIesr Speech recognition software package   \nC55XCSL-LOWPOWER-3.00.00.02 (This design assumes the CSL is installed at the following   \nWindows path: C:\\c55xx_csl_3.00) ",
+    "bbox": [
+      133,
+      310,
+      851,
+      395
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Setting up and getting started with CCS is beyond the scope of this document. For more information, see the getting started guides on the CCS download page. TI assumes the user understands how to import, build, and run CCS projects. ",
+    "bbox": [
+      133,
+      401,
+      900,
+      445
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5.2.2 Hardware Requirements ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      462,
+      346,
+      478
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To get started with the demonstration, the following hardware components are required: ",
+    "bbox": [
+      88,
+      483,
+      774,
+      500
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• A C5535 eZdsp device with a microphone • A PC with a Windows 7 operating system ",
+    "bbox": [
+      133,
+      502,
+      467,
+      536
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      911,
+      46
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      88,
+      70,
+      253,
+      84
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12 Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      86,
+      945,
+      501,
+      958
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "5.2.3 Building and Running in CCS ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      93,
+      387,
+      109
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To build and run the keyword trigger demonstration on the C5535 eZdsp, do as follows: ",
+    "bbox": [
+      130,
+      114,
+      772,
+      131
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1. Open CCS. ",
+    "bbox": [
+      135,
+      132,
+      245,
+      148
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2. Navigate to /TIesr_src/TIesr_C55_demo. ",
+    "bbox": [
+      135,
+      151,
+      455,
+      166
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3. Import the following projects into the CCS workspace: ",
+    "bbox": [
+      133,
+      170,
+      553,
+      185
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "TIesrDemoC55   \n• TIesrEngineC55 ",
+    "bbox": [
+      155,
+      188,
+      823,
+      237
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "NOTE: Ensure that DSP/BIOS real-time operating system v5.42.0.7 is installed before building the project. ",
+    "bbox": [
+      156,
+      242,
+      813,
+      273
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "4. Navigate to the CSL source folder installed in Section 5.2.1. ",
+    "bbox": [
+      135,
+      279,
+      602,
+      294
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "5. Import the following projects into the CCS workspace: ",
+    "bbox": [
+      133,
+      297,
+      552,
+      313
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "• cslVC5505 • atafs_bios_drv_lib ",
+    "bbox": [
+      158,
+      315,
+      325,
+      349
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "6. Navigate to Properties Build C5500 Compiler Processor Options in atafs_bios_drv_lib. ",
+    "bbox": [
+      138,
+      353,
+      825,
+      368
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "7. Change Specify memory model to huge. ",
+    "bbox": [
+      135,
+      371,
+      454,
+      386
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Specify memory model (smal/arge/huge) (-memory_model) huge ",
+    "bbox": [
+      133,
+      397,
+      856,
+      425
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "8. Change Specify type size to hold results of pointer math to 32 if not specified inProperties Build C5500 Compiler→Advanced Options Runtime Model Options. ",
+    "bbox": [
+      135,
+      433,
+      776,
+      462
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Specify type size to hold results of pointer math (--ptrdiff_size) ",
+    "bbox": [
+      137,
+      477,
+      545,
+      494
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "9. Uncheck use large memory model if checked. ",
+    "bbox": [
+      135,
+      505,
+      493,
+      521
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "10. Repeat Steps 6 through 8 for cslVC5505. ",
+    "bbox": [
+      137,
+      523,
+      464,
+      540
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "11. Navigate to C:\\c55xx_csl_3.00\\inc\\csl_general.h change #define CHIP_C5517 to //#define CHIP_C5517. ",
+    "bbox": [
+      138,
+      541,
+      820,
+      571
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "12. Right-click on TIesrDemoC55. ",
+    "bbox": [
+      137,
+      575,
+      388,
+      590
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13. Select Build Project. ",
+    "bbox": [
+      135,
+      594,
+      310,
+      608
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This action creates TIesrDemoC55.out in the Debug folder. ",
+    "bbox": [
+      158,
+      612,
+      589,
+      642
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "NOTE: If there are build errors because of missing DSP/BIOS versions in atafs_bios_drv_lib or any of the other projects, ensure that CCS registers the previously installed DSP/BIOS real-time operating system v5.42.0.7 when it discovers newly installed products at start-up. Figure 6 shows the DSP/BIOS version used by atafs_bios_drv_lib under Properties→General. ",
+    "bbox": [
+      156,
+      647,
+      825,
+      705
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/ba6fe7904f63f6e2fc44239e81af2f46f1d3941822c49fcd2c381be63764781c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      155,
+      726,
+      831,
+      772
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Figure 6. Screenshot of DSP/BIOS Version in Project Properties ",
+    "text_level": 1,
+    "bbox": [
+      248,
+      789,
+      748,
+      806
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "14. Create a target configuration for the C5535ezdsp.   \n15. Launch the configuration with the microphone connected to STEREO IN J3.   \n16. Connect to the DSP core with the C5535 or C5545 GEL file initialized.   \n17. Navigate to Run Load Load Program.   \n18. Load /TIesr_src/TIesr_C55_demo/build/ccsv5/Debug/TIesrDemoC55.out on to the core.   \n19. Click Resume. ",
+    "bbox": [
+      133,
+      815,
+      807,
+      922
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      746,
+      71,
+      913,
+      83
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      500,
+      945,
+      867,
+      958
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      84,
+      71,
+      161,
+      83
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      895,
+      945,
+      911,
+      957
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The demonstration executes on the EVM. ",
+    "bbox": [
+      160,
+      93,
+      462,
+      108
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "20. Press the SW2 button. ",
+    "bbox": [
+      135,
+      112,
+      328,
+      126
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The DS2 LED flashes rapidly indicating the system is ready to accept the keyword (see Figure 7).   \nPress the SW2 button twice if, not registered the first time. ",
+    "bbox": [
+      148,
+      131,
+      869,
+      159
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/533631ab1be28157488a09ef210f0da22234502b8749838dad6d461043b26f3c.jpg",
+    "image_caption": [
+      "Figure 7. LED, Button, and Microphone Jack "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      290,
+      171,
+      707,
+      492
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "21. Say TI voice trigger into the microphone. ",
+    "bbox": [
+      135,
+      529,
+      459,
+      545
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "TeXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      910,
+      45
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      88,
+      71,
+      253,
+      83
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      73,
+      911,
+      83
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      93,
+      946,
+      500,
+      958
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      88,
+      946,
+      102,
+      955
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The OLED shows this phrase indicating that the system recognizes the keyword phrase. The system enters listening mode again after a few seconds (For the OLED display, see Figure 8). ",
+    "bbox": [
+      153,
+      93,
+      892,
+      122
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NOTE: Enunciate the trigger word, especially the T and I with short pauses in between. _FILL might also appear on the screen indicating that the _FILL word is recognized. This happens when a word that the recognizer does not understand is spoken or can be due to background noise. ",
+    "bbox": [
+      158,
+      143,
+      825,
+      198
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/b3de51b862a2f78e6aa4bfe40d5be6b8891e761788abe0730251f221da04db0c.jpg",
+    "image_caption": [
+      "Figure 8. OLED on C5535 eZdsp After the Keyword Phrase is Recognized "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      220,
+      217,
+      777,
+      385
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.3 Customizing the Trigger Phrase ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      435,
+      411,
+      454
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "This section describes how to customize the trigger phrase. ",
+    "bbox": [
+      132,
+      459,
+      570,
+      474
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.3.1 Software Requirements ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      492,
+      339,
+      507
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The TIesr speech recognition software package is required. ",
+    "bbox": [
+      132,
+      513,
+      568,
+      529
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.3.2 Hardware Requirements ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      546,
+      346,
+      561
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "This design requires the following hardware: ",
+    "bbox": [
+      133,
+      568,
+      459,
+      583
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• Linux® Desktop PC with Ubuntu 12.04 LTS • A PC with Windows 7 operating system ",
+    "bbox": [
+      133,
+      585,
+      475,
+      619
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      746,
+      71,
+      913,
+      83
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      86,
+      73,
+      161,
+      83
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      500,
+      945,
+      866,
+      958
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      946,
+      911,
+      955
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "5.3.3 Building the Modified TIesr Engine ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      93,
+      433,
+      109
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "To build a modified TIesr engine, do as follows: ",
+    "bbox": [
+      133,
+      114,
+      482,
+      130
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "2. Navigate to /TIesr_src/TIesr_model_build/ on the console. ",
+    "bbox": [
+      132,
+      151,
+      583,
+      166
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "3. Execute the following command: $\\$ 9$ make LinuxDebugGnu ",
+    "bbox": [
+      132,
+      170,
+      576,
+      185
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "This action creates a directory called Dist structured as shown in Figure 9. The model files are used in the following step to generate the trigger phrase .bin files. ",
+    "bbox": [
+      145,
+      189,
+      901,
+      218
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/ecfd15773989b1d6a2bd55ae10ef5c706a550835f011ec244f496850ac067861.jpg",
+    "image_caption": [
+      "Figure 9. Directory Structure of Dist ",
+      "Figure 10. build_files.sh Structure "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      277,
+      229,
+      714,
+      395
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "4. Open /TIesr_src/TIesr_model_build/build_files.sh for editing. ",
+    "bbox": [
+      133,
+      429,
+      598,
+      444
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "This file contains the grammar callers to feed into testTIesrflex to generate the .bin recognition files. Choose keywords or phrases that are long and contain rich acoustic content.Figure 10 shows a description of the build_files.sh contents. ",
+    "bbox": [
+      155,
+      448,
+      885,
+      491
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/de090d1d694187c3c4bc51d03406986a374202980f983100d3d550e5482a5291.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Dist/LinuxDebugGnu/bin/testiesrflex \\</td></tr><tr><td rowspan=1 colspan=1>&quot;start( WakeGram ).WakeGram ---&gt;（[_Fil] Phrase [_Fill]）|_Fill.Phrase ---&gt; t i voice trigger.&quot; \\</td></tr><tr><td rowspan=1 colspan=1>Data/GramDir \\</td></tr><tr><td rowspan=1 colspan=1>Data/filler_model\\</td></tr><tr><td rowspan=1 colspan=1>English\\</td></tr><tr><td rowspan=1 colspan=1>2010000</td></tr></table>",
+    "bbox": [
+      86,
+      500,
+      640,
+      657
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Location of testTIesrFlex ",
+    "bbox": [
+      645,
+      502,
+      787,
+      513
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Location of testTIesrFlex. _Fill is a special word made up of the filler model itself. ",
+    "bbox": [
+      647,
+      541,
+      874,
+      577
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Destination for binary grammar network and acoustic model files ",
+    "bbox": [
+      647,
+      585,
+      895,
+      608
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Directory holding pronunciation and model data ",
+    "bbox": [
+      647,
+      613,
+      911,
+      625
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Language. Only English is supported.   \nFlags. See key below. ",
+    "bbox": [
+      643,
+      633,
+      856,
+      660
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Flag Key: ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      695,
+      166,
+      709
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "max_pron: Maximum pronunciations per word to include in output grammar network inc_rule: Flag indicating to include decision tree rule pronunciation auto_sil: Flag indicating to include optional silence between words lit_end: Flag output files in little endian format byte_mean: Output acoustic probability mean vectors as byte data byte_var: Output acoustic probability variance vectors as byte data add_close: (optional; default enabled) Add closure phones prior to stop consonants ",
+    "bbox": [
+      104,
+      719,
+      607,
+      808
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Several phrases can also be used instead of a single phrase. The following is an example using multiple phrases as it would be written in build_files.sh. ",
+    "bbox": [
+      148,
+      840,
+      862,
+      869
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NOTE: TIesr engine is currently limited to a maximum of two keyword phrases. ",
+    "bbox": [
+      151,
+      890,
+      736,
+      905
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      911,
+      46
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      88,
+      71,
+      253,
+      84
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "16 Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      86,
+      945,
+      501,
+      958
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "\"start( WakeGram ). ",
+    "bbox": [
+      158,
+      93,
+      307,
+      108
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "WakeGram --- $\\cdot >$ ( [_Fill] Phrase [_Fill] ) | _Fill. ",
+    "bbox": [
+      161,
+      111,
+      486,
+      127
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Phrase $\\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad } \\mathrm { \\quad \\quad } \\mathrm { \\quad } \\mathrm { \\quad \\quad } \\mathrm { \\quad } \\mathrm { \\quad \\quad } \\mathrm { \\quad } \\mathrm { \\quad \\quad } \\mathrm { \\quad } \\mathrm { \\quad \\quad } \\mathrm { \\quad }$ t i voice trigger | ti technology.”\\ ",
+    "bbox": [
+      161,
+      131,
+      477,
+      146
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5. Run the build_files.sh script. ",
+    "bbox": [
+      133,
+      148,
+      366,
+      164
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The file permissions may need to be changed to run this script. The following code shows the console output if the script executes correctly. ",
+    "bbox": [
+      153,
+      167,
+      901,
+      195
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "\\$ ./build_files.sh   \nLoading language, grammar, and model data   \nParsing input grammar   \nWriting out binary grammar network and model files   \nGrammar network and model files output successfully ",
+    "bbox": [
+      158,
+      200,
+      563,
+      262
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/816ec47975a64c9fef5bb54abdb5a38d159a41be8efffe00b0c4c3c289c41553.jpg",
+    "image_caption": [
+      "This script outputs a file set like Figure 11 shows in /TIesr_src/TIesr_model_build/Data/GramDir. ",
+      "Figure 11. Files Generated After Running build_files.sh "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      308,
+      294,
+      692,
+      395
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "6. Navigate to /TIesr_src/TIesr_C55_demo/TIesrBintoASCII. ",
+    "bbox": [
+      132,
+      428,
+      575,
+      444
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "This directory contains the TIesrBintoASCII utility that convertd the .bin files generated in Step 5, to .c and .h files that CCS later uses to build the demonstration. ",
+    "bbox": [
+      142,
+      446,
+      898,
+      476
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "7. Run convert.sh (permission changes to run this script may be required). ",
+    "bbox": [
+      140,
+      479,
+      687,
+      494
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Running this script executed the TIserBintoASCII utility to convert the files and copy the generated .c and .h files into /TIesr_src/TIesr_C55_demo/C55xTIesrData/GramKWS. ",
+    "bbox": [
+      147,
+      497,
+      898,
+      526
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6066619/auto/images/4ea89d8d596078cb4a4b504aa7bdebafae518c521479310c6af2586994488ba9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      228,
+      537,
+      774,
+      681
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Figure 12. Files Generated at /TIesr_src/TIesr_C55_demo/C55xTIesrData/GramKWS after running convert.sh. ",
+    "text_level": 1,
+    "bbox": [
+      122,
+      690,
+      874,
+      719
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "8. If on a Windows PC, copy the files generated in the previous step to /TIesr_src/TIesr_C55_demo/C55xTIesrData/GramKWS. The following step uses this new file set in the CCS build.   \n9. Repeat Steps 12 through 24 in Section 5.2.3, Building and Running in CCS. The modified trigger word files are taken from GramKWS that was updated in the previous step.   \n10. Use this phrase in the demonstration. ",
+    "bbox": [
+      130,
+      728,
+      866,
+      833
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "5.3.4 Software Disclaimer ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      849,
+      313,
+      864
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The software provided is for demonstration purposes only. This software is not intended for production systems. For licensing information, see the manifest Software_manifest.html in the source root folder at /TIesr_src/. ",
+    "bbox": [
+      133,
+      872,
+      890,
+      914
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Getting Started Firmware ",
+    "bbox": [
+      746,
+      71,
+      913,
+      84
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      84,
+      73,
+      161,
+      83
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      500,
+      945,
+      867,
+      958
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      945,
+      911,
+      955
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Design Files ",
+    "text_level": 1,
+    "bbox": [
+      129,
+      93,
+      243,
+      109
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Schematics ",
+    "text_level": 1,
+    "bbox": [
+      135,
+      127,
+      238,
+      142
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "To download the schematics for the C5535 eZdsp, see http://www.ti.com/tool/TIDEP0066. ",
+    "bbox": [
+      133,
+      148,
+      789,
+      165
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Bill of Materials ",
+    "text_level": 1,
+    "bbox": [
+      127,
+      180,
+      272,
+      196
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "To download the bill of materials for the C5535 eZdsp, see http://www.ti.com/tool/TIDEP0066. ",
+    "bbox": [
+      133,
+      202,
+      818,
+      219
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "6.3 Gerber Files ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      234,
+      245,
+      251
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "To download the schematics for the C5535 eZdsp, see http://www.ti.com/tool/TIDEP0066. ",
+    "bbox": [
+      130,
+      257,
+      789,
+      273
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      132,
+      290,
+      233,
+      306
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "MathWorks® Introduction to Hidden Markov Models, http://www.mathworks.com/help/stats/hidden-markovmodels-hmm.html ",
+    "bbox": [
+      129,
+      313,
+      903,
+      342
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "8 Terminology ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      359,
+      246,
+      376
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "• TIesr: Texas Instruments Embedded Speech Recognition   \n• Filler_model: Speech model used by testTIesrflex to generate non-vocabulary speech data. • EVM: Evaluation module ",
+    "bbox": [
+      133,
+      380,
+      823,
+      431
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "9 About the Author ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      449,
+      285,
+      465
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "LALINDRA JAYATILLEKE is an embedded processing applications engineer at TI. ",
+    "bbox": [
+      129,
+      472,
+      743,
+      487
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "10 Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      505,
+      307,
+      521
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "LORIN NETSCH is currently with MSP430 embedded software development at TI. Lorin was part of the former speech and audio technologies laboratory that built the TIesr engine and it’s API. ",
+    "bbox": [
+      132,
+      527,
+      890,
+      556
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "FRANK LIVINGSTON is an embedded processing DSP engineer at TI. He is the original author of the TIesr $\\mathtt { C F S x }$ demonstration. ",
+    "bbox": [
+      132,
+      561,
+      885,
+      590
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "RAN KATZUR is an embedded processing applications engineer at TI He authored the BintoASCII utility that converts the TIesr generated bin files to source that CCS can use. ",
+    "bbox": [
+      132,
+      597,
+      897,
+      626
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "TEXAS INSTRUMENTS ",
+    "bbox": [
+      756,
+      13,
+      911,
+      46
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Design Files ",
+    "bbox": [
+      86,
+      71,
+      169,
+      84
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      650,
+      945,
+      911,
+      969
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "18 Speech Recognition Reference Design on the C5535 eZdsp™ ",
+    "bbox": [
+      86,
+      945,
+      501,
+      958
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      834,
+      71,
+      911,
+      83
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      367,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Revision History ",
+    "text_level": 1,
+    "bbox": [
+      426,
+      108,
+      571,
+      123
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NOTE: Page numbers for previous revisions may differ from page numbers in the current version. ",
+    "bbox": [
+      84,
+      126,
+      723,
+      140
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Changes from Original (March 2016) to A Revision ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      152,
+      441,
+      167
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Page ",
+    "bbox": [
+      874,
+      154,
+      911,
+      167
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "• Added Note. 16   \nUpdated Flag Key Phrase. ......... 17 ",
+    "bbox": [
+      84,
+      176,
+      915,
+      207
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "L TEXAS INSTRUMENTS ",
+    "bbox": [
+      88,
+      13,
+      241,
+      46
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Revision History ",
+    "bbox": [
+      803,
+      71,
+      913,
+      83
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      369,
+      967,
+      629,
+      978
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "TIDUBJ5A–March 2016–Revised May 2016 Submit Documentation Feedback ",
+    "bbox": [
+      86,
+      945,
+      348,
+      969
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Revision History ",
+    "bbox": [
+      766,
+      945,
+      864,
+      958
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "www.ti.com ",
+    "bbox": [
+      86,
+      71,
+      161,
+      83
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "19 ",
+    "bbox": [
+      785,
+      945,
+      916,
+      957
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "IMPORTANT NOTICE FOR TI REFERENCE DESIGNS ",
+    "text_level": 1,
+    "bbox": [
+      318,
+      93,
+      727,
+      108
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Texas Instruments Incorporated (‘TI”) reference designs are solely intended to assist designers (“Designer(s)”) who are developing systems that incorporate TI products. TI has not conducted any testing other than that specifically described in the published documentation for a particular reference design. ",
+    "bbox": [
+      94,
+      122,
+      900,
+      159
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "TI’s provision of reference designs and any other technical, applications or design advice, quality characterization, reliability data or other information or services does not expand or otherwise alter TI’s applicable published warranties or warranty disclaimers for TI products, and no additional obligations or liabilities arise from TI providing such reference designs or other items. ",
+    "bbox": [
+      96,
+      161,
+      895,
+      196
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "TI reserves the right to make corrections, enhancements, improvements and other changes to its reference designs and other items. ",
+    "bbox": [
+      101,
+      200,
+      867,
+      212
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Designer understands and agrees that Designer remains responsible for using its independent analysis, evaluation and judgment in designing Designer’s systems and products, and has full and exclusive responsibility to assure the safety of its products and compliance of its products (and of all TI products used in or for such Designer’s products) with all applicable regulations, laws and other applicable requirements. Designer represents that, with respect to its applications, it has all the necessary expertise to create and implement safeguards that (1) anticipate dangerous consequences of failures, (2) monitor failures and their consequences, and (3) lessen the likelihood of failures that might cause harm and take appropriate actions. Designer agrees that prior to using or distributing any systems that include TI products, Designer will thoroughly test such systems and the functionality of such TI products as used in such systems. Designer may not use any TI products in life-critical medical equipment unless authorized officers of the parties have executed a special contract specifically governing such use. Life-critical medical equipment is medical equipment where failure of such equipment would cause serious bodily injury or death (e.g., life support, pacemakers, defibrillators, heart pumps, neurostimulators, and implantables). Such equipment includes, without limitation, all medical devices identified by the U.S. Food and Drug Administration as Class III devices and equivalent classifications outside the U.S. ",
+    "bbox": [
+      89,
+      215,
+      903,
+      353
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Designers are authorized to use, copy and modify any individual TI reference design only in connection with the development of end products that include the TI product(s) identified in that reference design. HOWEVER, NO OTHER LICENSE, EXPRESS OR IMPLIED, BY ESTOPPEL OR OTHERWISE TO ANY OTHER TI INTELLECTUAL PROPERTY RIGHT, AND NO LICENSE TO ANY TECHNOLOGY OR INTELLECTUAL PROPERTY RIGHT OF TI OR ANY THIRD PARTY IS GRANTED HEREIN, including but not limited to any patent right, copyright, mask work right, or other intellectual property right relating to any combination, machine, or process in which TI products or services are used. Information published by TI regarding third-party products or services does not constitute a license to use such products or services, or a warranty or endorsement thereof. Use of the reference design or other items described above may require a license from a third party under the patents or other intellectual property of the third party, or a license from TI under the patents or other intellectual property of TI. ",
+    "bbox": [
+      89,
+      357,
+      905,
+      460
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "TI REFERENCE DESIGNS AND OTHER ITEMS DESCRIBED ABOVE ARE PROVIDED “AS IS” AND WITH ALL FAULTS. TI DISCLAIMS ALL OTHER WARRANTIES OR REPRESENTATIONS, EXPRESS OR IMPLIED, REGARDING THE REFERENCE DESIGNS OR USE OF THE REFERENCE DESIGNS, INCLUDING BUT NOT LIMITED TO ACCURACY OR COMPLETENESS, TITLE, ANY EPIDEMIC FAILURE WARRANTY AND ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF ANY THIRD PARTY INTELLECTUAL PROPERTY RIGHTS. ",
+    "bbox": [
+      91,
+      463,
+      905,
+      521
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "TI SHALL NOT BE LIABLE FOR AND SHALL NOT DEFEND OR INDEMNIFY DESIGNERS AGAINST ANY CLAIM, INCLUDING BUT NOT LIMITED TO ANY INFRINGEMENT CLAIM THAT RELATES TO OR IS BASED ON ANY COMBINATION OF PRODUCTS AS DESCRIBED IN A TI REFERENCE DESIGN OR OTHERWISE. IN NO EVENT SHALL TI BE LIABLE FOR ANY ACTUAL, DIRECT, SPECIAL, COLLATERAL, INDIRECT, PUNITIVE, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES IN CONNECTION WITH OR ARISING OUT OF THE REFERENCE DESIGNS OR USE OF THE REFERENCE DESIGNS, AND REGARDLESS OF WHETHER TI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ",
+    "bbox": [
+      91,
+      523,
+      905,
+      594
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "TI’s standard terms of sale for semiconductor products (http://www.ti.com/sc/docs/stdterms.htm) apply to the sale of packaged integrated circuit products. Additional terms may apply to the use or sale of other types of TI products and services. ",
+    "bbox": [
+      96,
+      598,
+      890,
+      622
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Designer will fully indemnify TI and its representatives against any damages, costs, losses, and/or liabilities arising out of Designer’s noncompliance with the terms and provisions of this Notice. ",
+    "bbox": [
+      94,
+      626,
+      888,
+      648
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Mailing Address: Texas Instruments, Post Office Box 655303, Dallas, Texas 75265 Copyright $\\circledcirc$ 2016, Texas Instruments Incorporated ",
+    "bbox": [
+      254,
+      667,
+      740,
+      691
+    ],
+    "page_idx": 19
+  }
+]

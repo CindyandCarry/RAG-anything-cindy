@@ -1,0 +1,1353 @@
+[
+  {
+    "type": "text",
+    "text": "Association of sustained virologic response with reduced progression to liver cirrhosis in elderly patients with chronic hepatitis C ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      123,
+      879,
+      224
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Chih-Wei Tseng1,2   \nTing-Tsung Chang3,4   \nShinn-Jia Tzeng5   \nYu-Hsi Hsieh',2   \nTsung-Hsing Hung1.2   \nHsiang-Ting Huang6   \nShu-Fen Wu7   \nKuo-Chih Tseng1,2 ",
+    "bbox": [
+      112,
+      309,
+      274,
+      450
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "'Department of Internal Medicine, Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Chia-Yi, ²School of Medicine,Tzuchi University, Hualien,³Department of Internal Medicine, National Cheng Kung University Medical College and Hospital, Infectious Disease and Signaling Research Center,National Cheng Kung University,Tainan, 5Department of Agronomy, National Chiayi University, Department of Nursing, Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation 7Institute of Molecular Biology, National_Chung Cheng University, Chia-Yi,Taiwan ",
+    "bbox": [
+      114,
+      458,
+      331,
+      661
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Objective: We studied the effect of sustained virologic response (SVR) after treatment with pegylated-interferon (PEG-IFN) plus ribavirin on the development of liver cirrhosis in elderly patients with chronic hepatitis C (CHC). ",
+    "bbox": [
+      357,
+      313,
+      911,
+      359
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Patients and methods: This retrospective study enrolled 145 elderly CHC patients (aged ${ \\geq } 6 5$ years) who were treatment-naive and were treated with PEG-IFN plus ribavirin for 6 months between January 2005 and December 2011.Abdominal sonography was performed and liver biochemistry was studied at baseline,at the end of treatment,and every 3-6 months thereafter.The development of liver cirrhosis and related complications was evaluated at the follow-ups.The aspartate aminotransferase-to-platelet ratio index was used as a noninvasive maker for fibrosis. ",
+    "bbox": [
+      359,
+      362,
+      913,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Results: The mean patient age was $6 9 . 1 { \\scriptstyle \\pm 3 . 3 }$ years,and the average follow-up time was 5.5 years (standard deviation: 2.5 years,range:1.1-12.3 years).Ninety-five patients $( 6 5 . 5 \\% )$ achieved SVR,and 26 ( $. 1 7 . 9 \\% )$ discontinued treatment. Twenty-seven patients $( 1 8 . 6 \\% )$ developed liver cirrhosis after treatment.Patients without SVR had significantly greater risk ofliver cirrhosis than those with SVR (hazard ratio [HR]: 3.39, $9 5 \\%$ confidence interval [C1]: $1 . 3 1 2 - 8 . 7 6 1 , P = 0 . 0 1 2$ ). The difference in 3-year cumulative incidence of liver cirrhosis was $2 4 . 8 \\%$ greater for patients without SVR ( $3 5 . 2 \\%$ $9 5 \\%$ CI: 13.0-57.5, $P { = } 0 . 0 1 2$ ） compared with those with SVR( $1 0 . 4 \\%$ ， $9 5 \\%$ CI: 3.1-17.7).There was a trend ofa higher baseline aspartate aminotransferase-to-platelet ratio index score in patients who progressed to liver cirhosis compared with those who did not progress $( 2 . 1 { \\pm } 1 . 2 $ vs $1 . 6 { \\pm } 1 . 3 $ ， $\\scriptstyle P = 0 . 0 5 5$ ),but the difference failed to reach significance by Cox regression (adjusted HR: 1.285, $9 5 \\%$ CI: 0.921-1.791, $P { = } 0 . 1 4$ ",
+    "bbox": [
+      359,
+      477,
+      913,
+      654
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Conclusion: An SVR following PEG-IFN combination treatment can reduce the risk of liver cirrhosis in elderly CHC patients. ",
+    "bbox": [
+      357,
+      657,
+      911,
+      688
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: hepatitis C,sustained virologic response,pegylated interferon, ribavirin, liver cirrhosis ",
+    "bbox": [
+      357,
+      690,
+      911,
+      719
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Background ",
+    "text_level": 1,
+    "bbox": [
+      359,
+      741,
+      488,
+      760
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Chronic hepatitis C(CHC) is a major cause of chronic liver disease and affects ${ > } 1 8 5$ million people worldwide.1 The most serious complications of CHC are high mortality from decompensated liver cirrhosis and hepatocellular carcinoma (HCC).2.3 Age and age at infection are two of the most important risk factors for the progression to liver cirrhosis during chronic hepatitis C virus (HCV) infection.4.5 Patient age seems to have a greater effect than age at infection,and is especially significant for patients older than 65 years. Many countries have aging cohorts of people with HCV infections because of previous peaks in the incidence of HCV infections.2,4 ",
+    "bbox": [
+      359,
+      762,
+      913,
+      900
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 20l6:Il 327-334 327 $\\boxed { ( \\mathrm { c c } ) } \\textcircled { \\dot { \\mathbf { \\acute { \\mathbf { \\acute { \\mathbf { \\varepsilon } } } } } } } $ $\\circledcirc$ 206seng/e BYNC di forcommercialuseof thiswork,pleaseseeparagraphs 4.and5ofourTerms (htps://wwdovepresscom/terms.pp). ",
+    "bbox": [
+      357,
+      925,
+      913,
+      974
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Correspondence: Kuo-Chih Tseng Department of Internal Medicine, Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, No 2, Ming-Shen Road, Dalin, Chia-Yi 622,Taiwan Tel $+ 8 8 6$ 5 264 8000 ext 524l Fax +886 5 264 8006 Email tsengkuochih@gmail.com ",
+    "bbox": [
+      112,
+      803,
+      325,
+      900
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dovepress open access to scientific and medical research ",
+    "bbox": [
+      689,
+      54,
+      911,
+      84
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging ",
+    "bbox": [
+      114,
+      53,
+      411,
+      71
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "a Open Access Full Text Article ",
+    "bbox": [
+      112,
+      99,
+      250,
+      114
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      185,
+      70,
+      657
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ORIGINAL RESEARCH ",
+    "bbox": [
+      696,
+      102,
+      913,
+      116
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "submit your manuscript | www.dovepress.com Dovepress http://dx.doi.org/10.2147/ClA.S97242 ",
+    "bbox": [
+      112,
+      926,
+      281,
+      960
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A sustained virologic response (SVR),achieved by interferon-based therapies, can slow the progression of liver fibrosis7-10 and reduce the development of HCC and liverrelated mortality.11-13 Thus,antiviral treatments may provide the greatest benefit for elderly patients. ",
+    "bbox": [
+      86,
+      65,
+      473,
+      151
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "However, the high prevalence of cirrhosis and comorbidities in elderly patients leads to higher rates of treatment discontinuation and dose reduction.14,15 In particular, the SVR rate is lower in elderly patients than young patients due to their poor tolerance to treatment.15 Thus, the decision of treatment for an elderly patient must consider the long-term benefits and the patient's life expectancy. Few studies have examined the occurrence rate of liver cirrhosis after achieving SVR in elderly patients with CHC. ",
+    "bbox": [
+      86,
+      155,
+      475,
+      310
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The aspartate aminotransferase-to-platelet ratio index (APRI) is a noninvasive marker that has been validated for the diagnosis of both significant fibrosis and cirrhosis.16,17 APRI is a useful marker for the prognosis in CHC patients. However, the prognostic value of APRI in elderly patients for predicting the occurrence of liver cirrhosis is uncertain. ",
+    "bbox": [
+      84,
+      313,
+      475,
+      416
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Objectives ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      434,
+      200,
+      452
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The aim of this study was to evaluate the risk of the progres-sion to liver cirrhosis after combined therapy consisting of pegylated interferon (PEG-IFN) plus ribavirin (RBV) in elderlypatients ( $\\scriptstyle \\geq 6 5$ years old) with CHC. ",
+    "bbox": [
+      84,
+      455,
+      475,
+      522
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patients and methods ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      537,
+      320,
+      555
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patient selection ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      559,
+      241,
+      574
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patients with HCV infection who were aged ${ \\geq } 6 5$ and underwent treatment with either PEG-IFN-α-2a or PEG-IFN-α-2b plusRBV from January 2005 to December 2011 were enrolled from the Dalin Tzu Chi General Hospital in this retrospective study.All the patients were positive for anti-hepatitis C antibody for ${ > } 6$ months,had alanine aminotransferase (ALT) levels higher than the upper limit of normal (ULN),and had detectable serum HCV RNA. Patients with decompensated liver cirhosis,malignant neoplasms,incomplete medical records,autoimmune diseases,HIV infection,neutropenia( $\\yen 1,500$ neutrophils/mL), thrombocytopenia ( $< 7 5 , 0 0 0$ platelets $ { \\mathrm { / m L } }$ ),anemia ( $( < 1 2 \\ \\mathrm { g }$ hemoglobin/dL in females and ${ < } 1 3 \\mathrm { g / d L }$ in males), or poorly controlled psychiatric diseases were excluded.Two hundred and twenty-five patients were initially enrolled (Figure 1). Fifty-three patients with compensated liver cirrhosis, five patients with HCC, 16 patients with posttreatment follow-up times $< 1$ year,and six patients without complete medical records were excluded.The remaining 145 patients were finally included. There were 801 person-years of follow-ups, and the average follow-up time was 5.5 years (standard deviation [SD]: 2.5 years,range:1.1-12.3 years). This study was approved by the Ethics Committee of Dalin Tzu Chi General Hospital (B10303008),all patients provided written consent,and the local ethics committee approved the consent process. ",
+    "bbox": [
+      86,
+      578,
+      475,
+      929
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      496,
+      65,
+      885,
+      169
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Treatment regimen ",
+    "text_level": 1,
+    "bbox": [
+      496,
+      186,
+      673,
+      205
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Oral RBV plus subcutaneous PEG-IFN-α-2a ( $1 8 0 ~ { \\mu \\mathrm { g } } .$ Pegasys@; Hoffmann-La Roche, Basel, Switzerland) or subcutaneous PEG-IFN- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\alpha ~ } }$ -2b( $1 . 5 \\mu \\mathrm { g / k g }$ ；PegIntron@; Schering-Plough Corp., Kenilworth, NJ, USA) was administered to eligible patients for 6 months.The fixed duration(6 months) without consideration of HCV genotypes is due to restrictions imposed by the reimbursement policy of the Bureau of National Health Insurance in Taiwan.The dose of oral RBV was $8 0 0 \\ \\mathrm { m g / d a y }$ for patients who weighed ${ < } 5 5 ~ \\mathrm { k g } .$ $1 , 0 0 0 \\ \\mathrm { m g / d a y }$ for patients who weighed $5 5 \\mathrm { - } 7 5 ~ \\mathrm { k g }$ and $1 , 2 0 0 ~ \\mathrm { m g / d a y }$ for patients who weighed ${ > } 7 5 ~ \\mathrm { k g }$ Dose adjustments of all drugs and administration of supplemental erythropoietin or blood transfusion were determined according to published practice guidelines.18-20 ",
+    "bbox": [
+      496,
+      208,
+      885,
+      452
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Clinical monitoring ",
+    "text_level": 1,
+    "bbox": [
+      496,
+      469,
+      674,
+      488
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The primary outcome was time to liver cirrhosis.All patients were given liver function tests (serum aspartate aminotransferase [AST],ALT, total bilirubin, creatinine,hemoglobin, white blood cell count,and platelets),and abdominal sonography was performed at the gastrointestinal outpatient clinic at baseline, end of treatment (6 months),24 weeks after the end of treatment, and every 3-6 months thereafter.Liver cirrho-sis and associated liver complications were evaluated every 3-6 months after the end of treatment. Liver cirrhosis was diagnosed by liver biopsy or radiologic cirrhosis.Radiologic cirhosis was defined as two documented ultrasonograms of liver cirrhosis (included coarse liver echotexture with nodularity and small liver size) combined with features of portal hypertension(splenomegaly,ascites,hepatic encephalopathy, or varices).21 Liver biopsy was an optional procedure and was performed in 108 patients $( 7 4 . 5 \\% )$ at baseline with consent. ",
+    "bbox": [
+      495,
+      489,
+      885,
+      768
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "HCV RNA was quantified at baseline and at 24 weeks after the end of treatment.A diagnosis of fatty liver was based on results from a biopsy and/or abdominal ultrasound. Other clinical factors,including diabetes mellitus,chronic hepatitis B,and alcoholism, were recorded by chart review. Chronic hepatitis B was diagnosed if a patient had seropositivity for hepatitis B surface antigen for at least 6 months.The APRI score was calculated as: [(AST/ULN)/platelet count $( 1 0 ^ { 9 } / \\mathrm { L } ) ] { \\times } 1 0 0$ 22 The APRI was used as a noninvasive maker for fibrosis. ",
+    "bbox": [
+      496,
+      772,
+      885,
+      928
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      681,
+      948,
+      882,
+      959
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Tseng et al ",
+    "bbox": [
+      86,
+      36,
+      145,
+      46
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      815,
+      36,
+      883,
+      46
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "328 submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      86,
+      946,
+      312,
+      969
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      190,
+      70,
+      656
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4476277/auto/images/e2a52816bab2768fb2c0e100fc6ee1c9f0e616a12907b4c13663faa648481a0f.jpg",
+    "image_caption": [
+      "Figure I Flow diagram representing the study cohort. Abbreviations: HCV, hepatitis C virus; F/U, follow-up; SVR,sustained virologic response. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      194,
+      65,
+      828,
+      483
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "HCV quantification and genotyping ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      539,
+      441,
+      559
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SerumHCVRNA was quantified atbaseline andat 24 weeks after the end of treatment by use ofreal-time polymerase chain reaction, which had a detection limitation of $1 5 \\ : \\mathrm { I U / m L }$ .23 The threshold for discriminating low and high baseline HCV RNA was $4 0 0 , 0 0 0 \\ \\mathrm { I U / m L }$ .16 HCV genotyping was performed by melting curve analysis (Roche LightCycler; Biotronics Tech Corp., Lowell, MA, USA).24 ",
+    "bbox": [
+      114,
+      560,
+      503,
+      681
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "and fatty liver), HCV RNA load, HCV genotype,and baseline APRI score were considered as potential confounders for cirrhosis progression.In order to identify risk factors for cirrhosis, the proportional hazards Cox regression model was used to control for those possible confounding factors, regardless of whether they were significant predictors in the univariate analyses.25 Results were shown as hazard ratios (HRs) with $9 5 \\%$ confidence intervals (CIs). A $P$ -value $< 0 . 0 5$ was considered significant in all analyses. ",
+    "bbox": [
+      524,
+      542,
+      913,
+      699
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Sustained virologic response ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      699,
+      377,
+      718
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SVR was defined as undetectable HCV RNA for at least 24 weeks after completion of the combined treatment. Patients who were positive for HCV RNA at week 24 after the end of treatment were considered non-SVR. ",
+    "bbox": [
+      114,
+      719,
+      501,
+      786
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Statistical analysis ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      805,
+      277,
+      824
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SPSS 19.0 for Windows (SPSS Inc, Chicago, IL,USA) was used for all statistical analyses. The chi-square test or Fisher's exact test was used for nominal variables.Continuous variables were compared using Student's $t \\cdot$ -test for two independent groups. Age, sex, diabetes, SVR, other risks of hepatitis (alcoholism, hepatitis B virus [HBV] coinfection, ",
+    "bbox": [
+      114,
+      827,
+      503,
+      929
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Results ",
+    "text_level": 1,
+    "bbox": [
+      524,
+      714,
+      602,
+      732
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Demographic and clinical characteristics ",
+    "text_level": 1,
+    "bbox": [
+      524,
+      734,
+      897,
+      752
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "There were 64 males and 81 females,and the mean patient age was $6 9 . 1 { \\scriptstyle \\pm 3 . 3 }$ years (Table 1). Eighty-nine of 145 patients $( 6 1 . 4 \\% )$ were infected with HCV genotype-1,and 56 patients $( 3 8 . 6 \\% )$ were infected with other HCV genotypes. Ninetyfive patients $( 6 5 . 5 \\% )$ , including 45 with HCV genotype-1 and 50 with other HCV genotypes, achieved SVR. Twenty-six patients $( 1 7 . 9 \\% )$ did not complete the full 6-month treatment, and the patients had mean treatment duration of 84 days.Two patients stopped treatment due to lack of virological response. Twenty-four patents did not accept complete treatment due to treatment side effect. Among those patients,anemia (11/24) was the most common side effect reported. There were no deaths or severe treatment-related complications during the treatment period. ",
+    "bbox": [
+      522,
+      756,
+      911,
+      928
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      114,
+      948,
+      316,
+      960
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SVR reduces cirrhosis in elderly HCV patients ",
+    "bbox": [
+      666,
+      36,
+      911,
+      46
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      114,
+      36,
+      181,
+      46
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "329 ",
+    "bbox": [
+      883,
+      948,
+      911,
+      959
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      179,
+      70,
+      661
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "submit your manuscript |www.dovepress.com Dovepress ",
+    "bbox": [
+      686,
+      948,
+      857,
+      968
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_4476277/auto/images/f04f3244d5295fdbabf6acd44f9973b3983098073e7358fa68e65b710a535b65.jpg",
+    "table_caption": [
+      "TablelBaselinecharacteristicsandoutcomes of patients with chronic hepatis Cwho progressedordidnot progres toliver cirrhosis after the end of treatment "
+    ],
+    "table_footnote": [
+      "Notes: +Data are expressed as mean $\\pm$ standarddeviation.\\*OtherrisksofhepatitisicudeHBVcoinfection,acoholismandfattyliver#Tresholdforlowvshghbaseline HCV RNA load: 400,000 IU/mL. Abeviatiosi aminotransferase-to-platelet ratio index. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>All patients (n=145)</td><td>No progression to cirrhosis (n=118)</td><td>Progression to cirrhosis (n=27)</td><td>P-value</td></tr><tr><td>Follow-up time (years)t</td><td>5.5±2.5</td><td>5.4±2.6</td><td>6.2±2.1</td><td>0.106</td></tr><tr><td>Age (years)t</td><td>69.1±3.3</td><td>68.9±3.3</td><td>70.2±3.3</td><td>0.069</td></tr><tr><td>BMI</td><td>24.5±2.95</td><td>24.6±2.93</td><td>24.2±3.1</td><td>0.961</td></tr><tr><td>Male (%)</td><td>64 (44.1)</td><td>64 (54.2)</td><td>10 (37.0)</td><td>0.410</td></tr><tr><td>SVR (%)</td><td>95 (65.5)</td><td>81 (68.6)</td><td>14 (51.9)</td><td>0.098</td></tr><tr><td>DM (%)</td><td>31 (21.4)</td><td>26 (22.0)</td><td>5 (18.5)</td><td>0.688</td></tr><tr><td>Other risks of hepatitis (%)*</td><td>71 (49.0)</td><td>59 (50.0)</td><td>12 (44.4)</td><td>0.602</td></tr><tr><td>HBV coinfection (%)</td><td>12 (8.3)</td><td>9 (7.6)</td><td>3 (11.1)</td><td>0.697</td></tr><tr><td>Alcoholism (%)</td><td>6 (4.1)</td><td>6 (5.1)</td><td>0(0)</td><td>0.584</td></tr><tr><td>Fatty liver (%)</td><td>61 (42.1)</td><td>51 (43.2)</td><td>10 (37.0)</td><td>0.667</td></tr><tr><td>Genotype-1 (%)</td><td>89 (61.4)</td><td>75 (63.6)</td><td>14 (51.9)</td><td>0.260</td></tr><tr><td>High HCV RNA load#</td><td>96 (66.2)</td><td>80 (67.8)</td><td>16 (59.3)</td><td>0.398</td></tr><tr><td>APRIt</td><td>1.7±1.3</td><td>1.6±1.3</td><td>2.1±1.2</td><td>0.055</td></tr></table>",
+    "bbox": [
+      83,
+      94,
+      883,
+      318
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      392,
+      475,
+      460
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Baseline characteristics and treatment outcomes ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      476,
+      441,
+      512
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Table 1 shows the baseline characteristics and treatment outcomes of patients who did and did not progress to liver cirrhosis. There were 80l person-years of follow-up data, and the average follow-up time was 5.5 years (SD: 2.5 years,range: 1.1-12.3 years). During the follow-up, 27 patients $( 1 8 . 6 \\% )$ developed liver cirrhosis,12 patients developed HCC,three patients developed varices, two patients developed ascites,and one patient developed spontaneous bacterial peritonitis. One death that was unrelated to liver disease occurred during the follow-up period.The average age of patients with liver cirrhosis was $7 0 . 2 { \\pm } 3 . 3 $ years,and 17 of these patients $( 6 2 . 9 \\% )$ were females.Among patients who progressed to cirrhosis $( \\mathrm { n } { = } 2 7$ ),14 patients $( 5 1 . 9 \\% )$ were infected with HCV genotype-1, and 14 patients $( 5 1 . 9 \\% )$ achieved SVR.Univariate analysis of patients who did and did not progress to cirrhosis indicated no significant differences in age, sex, diabetes,smoking,other risks of hepatitis (alcoholism, HBV coinfection,and fatty liver),HCV RNA load,HCV genotype, baseline APRI,and SVR.There was a trend of a higher baseline APRI score in patients who progressed to liver cirrhosis compared with those who did not progress $( 2 . 1 \\pm 1 . 2$ VS $1 . 6 { \\pm } 1 . 3 $ ， $\\scriptstyle P = 0 . 0 5 5$ ). ",
+    "bbox": [
+      84,
+      518,
+      473,
+      919
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Baseline characteristics and progression to cirrhosis ",
+    "text_level": 1,
+    "bbox": [
+      495,
+      390,
+      864,
+      428
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Table 2 shows the result of Cox regression analysis with adjustment for age,sex, diabetes,other risks of hepatitis (alcoholism,HBV coinfection,and fatty liver), HCVRNA load, HCV genotype,and baseline APRI. The results show a signifcant association between progression to liver cirrhosis and no SVR (HR: 3.39, $9 5 \\%$ CI: 1.312-8.761, $P { = } 0 . 0 1 2$ ). There was also a trend of an association between liver cirrhosis and low HCV RNA load (HR: 0.392, $9 5 \\%$ CI: $0 . 1 5 2 -$ 1.009, $\\scriptstyle P = 0 . 0 5 2$ ).There was no significant association between progression to liver cirrhosis and high baseline APRI by Cox regression (adjusted HR:1.285, $9 5 \\%$ CI: $0 . 9 2 1 \\mathrm { - } 1 . 7 9 1$ ， $P { = } 0 . 1 4$ ). Figure 2 shows the cumulative incidences of liver cirrhosis after treatment. The risk of liver cirrhosis was significantly greater in patients without SVR (3-year cumulative incidence: $3 5 . 2 \\%$ $9 5 \\%$ CI: 13.0-57.5, ${ P = } 0 . 0 1 2$ ） than in those with SVR (3-year cumulative incidence: $1 0 . 4 \\%$ ， $9 5 \\%$ CI: 3.1-17.7). This corresponds to a difference in the 3-year cumulative incidence of $2 4 . 8 \\%$ Decrease of progression to liver cirrhosis occurred in one patient for every four CHC patients who achieved SVR within 3 years. ",
+    "bbox": [
+      496,
+      431,
+      885,
+      710
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_4476277/auto/images/67523a43cffe7dc2874254506e43b9de397ae0d22ffa900cc5b3f78871a603b9.jpg",
+    "table_caption": [
+      "Table 2 Adjusted HRs for progression from chronic hepatitis C to liver cirrhosis with adjustment for sex,DM,other risks of hepatitis (hepatitis B virus coinfection,alcoholism,and fatty liver), and HCV genotype "
+    ],
+    "table_footnote": [
+      "Abbreviations:HR，hazard ratio；DM,diabetes melitus；HCV,hepatitis C virus;Cl, confidence interval; SVR,sustained virologic response; APRl,aspartate aminotransferase-to-platelet ratio index. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>HR</td><td>95% Cl</td><td>P-value</td></tr><tr><td>Age</td><td>1.087</td><td>0.970-1.219</td><td>0.152</td></tr><tr><td>HCV RNA load</td><td>0.392</td><td>0.152-1.009</td><td>0.052</td></tr><tr><td>Without SVR</td><td>3.390</td><td>1.312-8.761</td><td>0.012</td></tr><tr><td>APRI</td><td>1.285</td><td>0.921-1.791</td><td>0.140</td></tr></table>",
+    "bbox": [
+      495,
+      804,
+      885,
+      883
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      681,
+      948,
+      882,
+      959
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      815,
+      36,
+      883,
+      46
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Tseng et al ",
+    "bbox": [
+      86,
+      36,
+      145,
+      46
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "330 submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      86,
+      946,
+      313,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      184,
+      70,
+      655
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      65,
+      501,
+      151
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      167,
+      227,
+      186
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Patients older than 65 years are often excluded in clinical trials of HCV therapies because they often have significant comorbidities and experience adverse effects during or after treatment. Therefore,few studies have examined the progression of CHC in elderly patients.6,14,15,26-28 ",
+    "bbox": [
+      114,
+      190,
+      501,
+      275
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Previous research indicated that the progression of CHC to liver cirrhosis was associated with certain baseline host factors and time-dependent risk factors.2,3,29,30 The cumulative nature of fibrosis progression and the potential for more rapid progression in patients older than 40 years mean that cirrhosis is increasingly significant in elderly patients.2.5 In fact, previous research has documented that a longer duration of CHC infection and advanced patient age are associated with more rapid progression of CHC to liver cirrhosis.2,31 Our findings support the rapid progression of liver cirrhosis in patients aged 65 years and older. In particular, the 3-year cumulative risk of liver cirrhosis was $3 5 . 2 \\%$ in our elderly patients who had persistent viremia. ",
+    "bbox": [
+      114,
+      279,
+      503,
+      487
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      65,
+      911,
+      97
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Previous studies examined the eficacy of PEG-IFN plus RBV for treatment of CHC in elderly patients.4,15,26,28.32-35 Although such patients have higher rates of dose reduction and adverse effects,some of them achieve SVR.4,15,32,35 A recent meta-analysis indicated that the overall rate of SVR in elderly patients was significantly lower than in young patients based on intention-to-treat analysis $4 2 . 0 \\%$ VS $6 0 . 1 \\%$ ， $P { < } 0 . 0 0 0 0 1$ ） and per-protocol analysis( $5 4 . 4 \\%$ VS $6 7 . 4 \\%$ $P { = } 0 . 0 0 2$ ).15 The rates of drug discontinuation and RBV dose reduction in elderly patients were significantly higher than in younger patients.15 The poor SVR rate in elderly patients may be related to the high prevalence of liver cirrhosis and treatment intolerance.4,14,33 Our study demonstrated the efficacy of PEG-IFN plus RBV treatment in elderly patients. In particular, $6 5 . 5 \\%$ of patients overall achieved SVR,and this included $5 0 . 6 \\%$ of those with HCV genotype-1 and $8 9 . 3 \\%$ of those with other HCV genotypes. These data support the use of our treatment regimen in elderly patients with CHC who do not have liver cirrhosis or HCC.Furthermore, there were no deaths or severe treatment-related complications, and most patients who could not tolerate treatment stopped treatment near the beginning of the regimen (mean treatment duration: 84 days).This suggests that the standard PEG-IFN plus RBV treatment is safe in elderly patients if they are closely monitored. From our previous study, the patients who had absence of liver cirrhosis,low baseline HCV RNA levels,high baseline ALT level, no HCV genotype-1, or were treated with PEG-IFN-α-2a were good responders to PEG-IFN plus RBV treatments.36 Thus, it seems that treatment will be effective in selected elderly patients with CHC, such as those with good response predictors (genotype 2/3, low viral load, IL28B-CC), good performance status, and without major concomitant diseases. ",
+    "bbox": [
+      522,
+      102,
+      913,
+      486
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4476277/auto/images/1fa16bb7cda28ee61cc01bc30391b7fd1e4e3982e455950aa84a018b8c5b2e07.jpg",
+    "image_caption": [
+      "Figure 2 Cumulative risk of liver cirrhosis following treatment. Abbreviation: SVR,sustained virologic response. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      281,
+      518,
+      777,
+      887
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      114,
+      948,
+      316,
+      960
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "SVR reduces cirrhosis in elderly HCV patients ",
+    "bbox": [
+      666,
+      36,
+      911,
+      46
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      114,
+      36,
+      181,
+      46
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "331 ",
+    "bbox": [
+      883,
+      948,
+      910,
+      959
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      189,
+      70,
+      656
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      684,
+      946,
+      856,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      86,
+      65,
+      473,
+      256
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Previous long-term follow-up studies showed the benefits of SVR in patients with CHC.7-1 The achievement of an SVR through interferon-based therapy slows the progression from chronic hepatitis to liver fibrosis7-10 and reduces the subsequent development of HCC and liver-related mortality.1-13 These effects are universal and were stronger in patients with advanced fibrosis.11 ",
+    "bbox": [
+      84,
+      260,
+      473,
+      381
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A large-scale study that followed 1,386 patients with CHC but not liver cirrhosis over 5 years reported that the annual incidence of liver cirrhosis in untreated patients and patients treated with interferon-based therapy $( \\mathrm { n { = } } 8 9 2$ ） was $2 . 2 6 \\%$ and $1 . 1 1 \\%$ (nonresponders: $1 . 9 9 \\%$ ，sustained responders: $0 . 7 4 \\%$ ),respectively.9 In addition,the14.5-year cumulative incidence of cirrhosis was significantly lower in sustained responders $( 4 . 8 \\% )$ than in nonresponders $( 2 1 . 6 \\%$ ， $P { = } 0 . 0 0 0 7$ ） and in untreated patients ( $3 6 . 6 \\%$ $P { < } 0 . 0 0 0 1$ ). The present study showed that cirrhosis progressed rapidly and that an SVR slowed the progression to fibrosis in elderly patients with CHC.In particular, patients without SVR had a significantly higher risk of liver cirrhosis than those with SVR,and a significantly higher 3-year cumulative incidence of liver cirrhosis than those with SVR.These results suggest that suppression of HCV RNA can dramatically reduce the risk of liver cirrhosis in elderly patients. ",
+    "bbox": [
+      84,
+      382,
+      475,
+      681
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A previous study reported that high APRI score was associated with significant fibrosis or cirrhosis.22 Our patients also had elevated APRI scores $( \\mathrm { m e a n } \\pm \\mathrm { S D } \\colon 1 . 7 \\pm 1 . 3 )$ ,confirming the presence of advanced fibrosis at baseline and consistent with the rapid progression of fibrosis in elderly patients.In addition, there was a trend of a higher baseline APRI score in patients who progressed to liver cirrhosis than those who did not progress $( 2 . 1 { \\pm } 1 . 2 $ VS $1 . 6 { \\pm } 1 . 3 $ ， $\\scriptstyle P = 0 . 0 5 5$ ). Nonetheless,after adjusting for APRI score by Cox regres-sion, SVR remained the most important factor for progression to liver cirrhosis. ",
+    "bbox": [
+      86,
+      684,
+      473,
+      875
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Antiviral treatments for CHC have evolved since 2011, and several new drugs,including direct-acting antivirals and host-targeted agents,are marketed or under clinical development. Interferon-free regimens are expected to cure $> 9 0 \\%$ of patients with CHC,37 and the newly available drugs have fewer side effects than interferon-based regimens.This may improve compliance and reduce dropout rates.However, the new HCV therapies are very expensive and have not been thoroughly evaluated in elderly patients. Thus,additional research is needed to evaluate the costeffectiveness of these new therapies in elderly patients. Before adoption of the new therapies in elderly patients, the PEG-IFN plus RBV regimen should continue to be used to prevent the rapid progression to cirrhosis. ",
+    "bbox": [
+      84,
+      878,
+      473,
+      911
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      496,
+      65,
+      885,
+      273
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "There are several limitations in this study.First, this was a retrospective observational study. Some information such as age at infection, the number of patients who underwent therapy evaluation, the excluded patient number,and the reasons for excluding cannot be obtained from this study. However,it is diffcult to perform a prospective controlled trial in elderly patients, so our findings nonetheless provide important information regarding treatment decisions in this population. Second, only 108 patients $( 7 4 . 5 \\% )$ underwent liver biopsy at baseline,and we cannot provide paired biopsy data.Thus,most patients with cirrhosis were diagnosed using clinical criteria.However, our diagnostic criteria for cirrhosis included two documented ultrasonograms of liver cirrhosis with solid clinical end points (splenomegaly,ascites, hepatic encephalopathy,or varices).’ Although ultrasound is inaccurate in detecting the early stages of liver cirrhosis, combination of the morphologic finding can improve the performance of ultrasound to detect cirrhosis, reaching an accuracy of over $80 \\%$ 38 ",
+    "bbox": [
+      495,
+      277,
+      885,
+      609
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In conclusion,liver fibrosis progressed rapidly in elderly patients.An SVR following PEG-IFN combination treatment can reduce the risk of liver cirrhosis in elderly CHC patients. ",
+    "bbox": [
+      496,
+      613,
+      883,
+      681
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgments ",
+    "text_level": 1,
+    "bbox": [
+      496,
+      699,
+      696,
+      718
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The authors would like to thank their nursing departments for their assistance in procuring record. This study was funded by Dalin Tzu Chi General Hospital (DTCRD99(2)-E-13). ",
+    "bbox": [
+      495,
+      720,
+      885,
+      770
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Author contributions ",
+    "text_level": 1,
+    "bbox": [
+      496,
+      786,
+      725,
+      805
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Chih-Wei Tseng contributed to statistical analysis and drafting of the manuscript, and provided material support. Ting-Tsung Chang and Shu-Fen Wu were involved in critical revision of the manuscript for important intellectual content. Shinn-Jia Tzeng performed statistical analysis. Yu-Hsi Hsieh, Tsung-Hsing Hung,and Hsiang-Ting Huang provided material support. Kuo-Chih Tseng provided material support and was involved in critical revision of the manuscript for important intellectual content.All authors contributed toward data analysis, drafting and critically revising the paper and agree to be accountable for all aspects of the work. ",
+    "bbox": [
+      496,
+      809,
+      885,
+      911
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      681,
+      948,
+      882,
+      959
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      815,
+      36,
+      883,
+      46
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Tseng et al ",
+    "bbox": [
+      86,
+      36,
+      145,
+      46
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "332 submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      86,
+      946,
+      312,
+      969
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      39,
+      188,
+      70,
+      657
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      65,
+      503,
+      151
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Disclosure ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      171,
+      227,
+      188
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The authors declare no conflicts of interest in this work. ",
+    "bbox": [
+      116,
+      193,
+      477,
+      205
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      227,
+      232,
+      242
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1.Mohd Hanafiah K,Groeger J,Flaxman AD,Wiersma ST.Global epidemiology ofhepatitis C virus infection: new estimates of age-specific antibody to HCV seroprevalence.Hepatology.2013;57:1333-1342.   \n2.Hajarizadeh B,Grebely J,Dore GJ.Epidemiology and natural history of HCV infection.Nat Rev Gastroenterol Hepatol.2013;10:553-562.   \n3.Maasoumy B,Wedemeyer H. Natural history of acute and chronic hepatitis C.Best Pract Res Clin Gastroenterol.2012;26:401-412.   \n4.Huang CF, Chuang WL, Yu ML. Chronic hepatitis C infection in the elderly.KaohsiungJMed Sci.2011;27:533-537.   \n5.Thein HH, Yi Q,Dore GJ, Krahn MD.Estimation of stage-specific fibrosis progression rates in chronic hepatitis C virus infection: a metaanalysis and meta-regression. Hepatology.2008;48:418-431.   \n6.Thabut D,Le Calvez S,Thibault V,et al.Hepatitis C in 6,865 patients 65 yr or older: a severe and neglected curable disease? Am JGastroenterol.2006;101:1260-1267.   \n7.Bruno S,Battezzati PM,Bellati G,etal.Long-termbeneficialefects in sustained responders to interferon-alfa therapy for chronic hepatitis C. JHepatol.2001;34:748-755.   \n8.George SL,BaconBR,BruntEM,etal. Clinical,virologic,histologic, and biochemical outcomes after successful HCV therapy: a 5-year follow-up of 150 patients.Hepatology.2009;49:729-738.   \n9.Huang JF, Yu ML,Lee CM, et al. Sustained virological response to interferon reduces cirhosis in chronic hepatitis C:a1,386-patient study from Taiwan.Aliment Pharmacol Ther.2007;25:1029-1037.   \n10.Shiratori Y,Imazeki F,Moriyama M,et al. Histologic improvement of fibrosis in patients with hepatitis C who have sustained response to interferon therapy.Ann Intern Med.2000;132:517-524.   \n11. $\\mathrm { N g ~ V } _ { : }$ ,Saab S.Effects of a sustained virologic response on outcomes of patients with chronic hepatitis C.Clin Gastroenterol Hepatol.2011; 9:923-930.   \n12.Trapero-Marugan M,MendozaJ,Chaparro M, etal.Long-term outcome of chronic hepatitis C patients with sustained virological response to peginterferon plus ribavirin. World JGastroenterol.2011;17:493-498.   \n13.Morgan RL, Baack B, Smith BD,et al. Eradication of hepatitis C virus infection and the development of hepatocellular carcinoma: a meta-analysis of observational studies.Ann Intern Med.2013;158: 329-337.   \n14.Frei P,LeuchtAK,Held U,etal.Elderly age is nota negative predictive factor for virological response to therapy with pegylated interferonalpha and ribavirin inchronic hepatitis C virus patients.Liver Int.2014; 34:551-557.   \n15. Yang Z, Zhuang L, Yang L,et al. Efficacy and safety of peginterferon plus ribavirin for patients aged ${ \\geq } 6 5$ years with chronic hepatitis C: a systematic review and meta-analysis.Clin Res Hepatol Gastroenterol. 2014;38:440-450.   \n16.Gonzalez HC,Jafri SM,Gordon SC.Role of liver biopsy in the era of direct-acting antivirals.Curr Gastroenterol Rep.2013;15:307.   \n17.Lurie Y,Webb M,Cytter-KuintR,ShteingartS,LederkremerGZ.Noninvasive diagnosis ofliver fibrosis and cirrhosis.World JGastroenterol. 2015:21:11567-11583.   \n18.European Association for the Study of the Liver.EASL Clinical Practice Guidelines: management of hepatitis C virus infection.JHepatol. 2014;60:392-420.   \n19.Fried MW.Sideefects oftherapyofhepatitis Cand their management. Hepatology.2002;36:S237-S244.   \n20.Omata M, Kanda T,Yu ML,et al. APASL consensus statements and management algorithms for hepatitis C virus infection.Hepatol Int. 2012;6:409-435.   \n21.Wong GL,Chan HL,Mak CW,etal.Entecavirtreatment reduces hepatic events and deaths in chronic hepatitis B patients with liver cirrhosis. Hepatology.2014;58:1537-1547.   \n22.Wai CT,Greenson JK,Fontana RJ,et al.A simple noninvasive index can predict both significant fibrosis and cirrhosis in patients with chronic hepatitis C.Hepatology.2003;38:518-526.   \n23.Ratge D,ScheiblhuberB,Nitsche M,Knabbe C.High-speed detection of blood-borne hepatitis C virus RNA by single-tube real-time fluorescence reverse transcription-PCR with the LightCycler.Clin Chem. 2000;46:1987-1989.   \n24.Bullock GC,Bruns DE,Haverstick DM.Hepatitis C genotype determination by melting curve analysis with a single set of fluorescence resonance energy transfer probes. Clin Chem.2002;48:2147-2154.   \n25.KanwalF,KramerJR,Ilyas J,Duan Z,El-Serag HB.HCV genotype 3is associated with an increased risk of cirrhosis and hepatocellular cancer in a national sample ofUS Veterans with HCV.Hepatology.2014;60: 98-105.   \n26.Antonucci G,Longo MA,Angeletti C,et al. The effect of age on response to therapy with peginterferon alpha plus ribavirin in a cohort of patients with chronic HCV hepatitis including subjects older than 65 yr.Am JGastroenterol.2007;102:1383-1391.   \n27.Mindikoglu AL,Miller RR.Hepatitis C in the elderly: epidemiology, natural history,and treatment. Clin Gastroenterol Hepatol.2009;7: 128-134; quiz 124.   \n28. Oze T,Hiramatsu N, Yakushijin T,etal.Indications and limitations for aged patients with chronic hepatitis C in pegylated interferon alfa-2b plus ribavirin combination therapy.J Hepatol.2011;54:604-611.   \n29.SeeffLB.The history ofthe\"natural history\"ofhepatitis C(1968-2009). Liver Int.2009;29:89-99.   \n30.McCombs J,Matsuda T,Tonnu-Mihara I,et al. The risk of long-term morbidity and mortality in patients with chronic hepatitis C:results from ananalysis of data fromaDepartment ofVeterans Affairs Clinical Registry.JAMA Intern Med.2014;174:204-212.   \n31.Freeman AJ,Dore GJ,Law MG,etal.Estimating progression to cirrhosis in chronic hepatitis C virus infection. Hepatology.2001;34:809-816.   \n32.Honda T,Katano Y,Shimizu J,etal.Eficacy ofpeginterferon-alpha-2b plus ribavirin in patients aged 65 years and older with chronic hepatitis C. Liver Int.2010;30:527-537.   \n33.Huang CF, Yang JF,Dai CY,et al. Effcacy and safety of pegylated interferon combined with ribavirin for the treatment of older patients with chronic hepatitis C.JInfect Dis.2010;201:751-759.   \n34.MonicaF,LirussiF,Nassuato G,et al.Hepatitis C virus infection and related chronic liver disease in a resident elderly population: the Silea Study.JViral Hepat.1998;5:345-351.   \n35.Nishikawa H, Iguchi E,Koshikawa Y,etal. The effect of pegylated interferon-alpha2b and ribavirin combination therapy for chronic hepatitis C infection in elderly patients.BMC Res Notes.2012;5:135.   \n36. Tseng CW,Chen CY,Chang TT,et al.Peginterferon alfa-2a is associated with elevations in alanine aminotransferase at the end of treatment in chronic hepatitis C patients with sustained virologic response.PLoS One.2014;9:e100207.   \n37.Pawlotsky JM. New hepatitis Ctherapies: the toolbox,strategies,and challenges. Gastroenterology.2014;146:1176-1192.   \n38.Berzigotti A, Castera L. Update on ultrasound imaging of liver fibrosis. JHepatol.2013;59:180-182. ",
+    "bbox": [
+      114,
+      241,
+      503,
+      873
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      50,
+      913,
+      869
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      114,
+      948,
+      316,
+      959
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "SVR reduces cirrhosis in elderly HCV patients ",
+    "bbox": [
+      666,
+      36,
+      911,
+      46
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      114,
+      36,
+      181,
+      46
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "333 ",
+    "bbox": [
+      883,
+      948,
+      911,
+      959
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      686,
+      946,
+      856,
+      968
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      179,
+      70,
+      659
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging ",
+    "bbox": [
+      109,
+      806,
+      310,
+      819
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Publish your work in this journal ",
+    "text_level": 1,
+    "bbox": [
+      111,
+      824,
+      405,
+      840
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging is an international, peer-reviewed journal focusing on evidence-based reports on the value orlack thereof oftreatments intended to prevent or delay the onset of maladaptive correlates of aging in human beings.This journal is indexed on PubMed Central,MedLine, ",
+    "bbox": [
+      109,
+      847,
+      473,
+      888
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "CAS, Scopus and the Elsevier Bibliographic databases. The manuscript management system is completely online and includes a very quick and fair peer-reviewsystem,which isall easy touse.Visit http://www.dovepress. com/testimonials.php to read real quotes from published authors. ",
+    "bbox": [
+      495,
+      847,
+      859,
+      888
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Tseng et al ",
+    "bbox": [
+      86,
+      36,
+      145,
+      46
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      815,
+      36,
+      883,
+      46
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Clinical Interventions in Aging 2016:1l ",
+    "bbox": [
+      681,
+      948,
+      882,
+      959
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Submit your manuscript here: http://www.dovepress.com/clinical-interventions-in-aging-journa ",
+    "bbox": [
+      109,
+      904,
+      503,
+      912
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dovepress ",
+    "bbox": [
+      758,
+      806,
+      859,
+      823
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "334 submit your manuscript | www.dovepress.com Dovepress ",
+    "bbox": [
+      86,
+      946,
+      313,
+      969
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      37,
+      180,
+      70,
+      660
+    ],
+    "page_idx": 7
+  }
+]

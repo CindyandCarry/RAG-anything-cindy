@@ -1,0 +1,2306 @@
+[
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      80,
+      46,
+      184,
+      60
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "dynamics become a growth dividend oSouthern Africa’s credit outlook: Will the burden?demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      77,
+      68,
+      645,
+      139
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s middle-income countries will continue to miss out on the demographic opportunity of having above-average numbers of people of working age unless their governments better tackle unemployment, social inequalities, and high HIV rates. The countries’ credit outlooks are at risk from the faltering growth, sharpening social tensions and growing fiscal pressures which demographics, in the absence of the right policy mix, have accentuated for several years. ",
+    "bbox": [
+      50,
+      160,
+      662,
+      252
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Make-or-break demographics are most acute in South Africa, the economic lynchpin of the region on whose fortunes Eswatini, Lesotho and, to a lesser degree, Botswana and Namibia depend. ",
+    "bbox": [
+      50,
+      260,
+      662,
+      304
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The economy of South Africa has underperformed other emerging markets for years, with low employment, at $40 \\%$ of the working-age population, being a permanent feature. Growth fell below $2 \\%$ a year after the global financial crisis, while the economy contracted by almost $7 \\%$ in 2020 due to the Covid-19 pandemic. Low growth has contributed to rising public debt over the past decade, now at $7 7 \\%$ of GDP, up from $2 7 \\%$ in 2008 according to the IMF. Real GDP growth has also fallen below population growth since the middle of the last decade, leading to declines in people’s real living standards and a widening wealth gap with high-income countries, in contrast with the experience of China and India. ",
+    "bbox": [
+      50,
+      312,
+      662,
+      435
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We have examined growth drivers and the prospects for South Africa for the period 1995- 2045 with a focus on the demographic context. The first, “no policy progress”, scenario assumes flat labour productivity growth, similar to the average outcome in 2010-2020. The employment rate gradually recovers from the Covid-19 shock, but just to pre-crisis levels. In this case, average annual potential real GDP growth would slow to $1 \\%$ in the long term, with adverse consequences for growth, social stability, and public finances. ",
+    "bbox": [
+      50,
+      443,
+      662,
+      535
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The second scenario assumes annual average productivity growth of about $0 . 5 \\%$ as the government undertakes policies to make labour and product markets more effective and to strengthen human capital. Such measures lift long-term growth potential toward $2 . 3 \\%$ a year, easing pressure on public finances. Growth becomes more inclusive, with the employment rate rising slowly from about $45 \\%$ in 2015 to $5 5 \\%$ in 2045, providing some measure of a demographic dividend for South Africa and its neighbours. ",
+    "bbox": [
+      50,
+      543,
+      663,
+      633
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Evaluating the impact of demographics will be a critical component of Scope’s credit assessments of the countries in the region. ",
+    "bbox": [
+      50,
+      642,
+      660,
+      671
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/18855c8764c00088b200295d67d7d446cd44c66014beecfe82fada8cb2061207.jpg",
+    "image_caption": [
+      "Figure 1: Working-age population in southern Africa, sub-Saharan Africa (SSA) and globally (as a share of the total population) ",
+      "Source: UN, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      48,
+      715,
+      658,
+      869
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Analysts ",
+    "text_level": 1,
+    "bbox": [
+      699,
+      185,
+      764,
+      198
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dr. Zuzana Schwidrowski +49 69 6677389 48 z.schwidrowski@scoperatings.com ",
+    "bbox": [
+      697,
+      204,
+      934,
+      248
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Giulia Branz $+ 4 9$ 696677389 43 g.branz@scoperatings.com ",
+    "bbox": [
+      697,
+      258,
+      885,
+      302
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Team leader ",
+    "text_level": 1,
+    "bbox": [
+      699,
+      311,
+      789,
+      323
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dr. Giacomo Barisone +49 69 6677389 22 g.barisone@scoperatings.com ",
+    "bbox": [
+      697,
+      329,
+      904,
+      374
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Media ",
+    "text_level": 1,
+    "bbox": [
+      699,
+      384,
+      744,
+      395
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Matthew Curtin +49 30 27891 147 m.curtin@scopegroup.com ",
+    "bbox": [
+      697,
+      403,
+      880,
+      447
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Related Research ",
+    "text_level": 1,
+    "bbox": [
+      699,
+      470,
+      826,
+      482
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Governments, creditors need $\\scriptstyle { \\mathsf { D S S } } 1 +$ debt relief framework to tackle Africa’s solvency crisis ",
+    "bbox": [
+      697,
+      489,
+      909,
+      532
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "November 2020 ",
+    "bbox": [
+      699,
+      539,
+      810,
+      551
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sustainable long-term growth in advanced economies: the demographic challenge ",
+    "bbox": [
+      697,
+      557,
+      912,
+      601
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "September 2020 ",
+    "bbox": [
+      697,
+      607,
+      813,
+      620
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Scope Ratings GmbH ",
+    "text_level": 1,
+    "bbox": [
+      697,
+      667,
+      855,
+      680
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Neue Mainzer Straße 66-68 D-60311 Frankfurt am Main ",
+    "bbox": [
+      697,
+      686,
+      889,
+      715
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Phone +49 69 66 77 389 0 ",
+    "bbox": [
+      699,
+      724,
+      892,
+      737
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Headquarters ",
+    "text_level": 1,
+    "bbox": [
+      697,
+      755,
+      798,
+      766
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Lennéstraße 5 10785 Berlin ",
+    "bbox": [
+      697,
+      774,
+      798,
+      802
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Phone +49 30 27891 0   \nFax +49 30 27891 100 ",
+    "bbox": [
+      697,
+      810,
+      884,
+      839
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "info@scoperatings.com www.scoperatings.com ",
+    "bbox": [
+      697,
+      848,
+      858,
+      878
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "in y ",
+    "bbox": [
+      700,
+      889,
+      768,
+      909
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Bloomberg: RESP SCOP ",
+    "bbox": [
+      697,
+      915,
+      870,
+      928
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      60,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1/11 ",
+    "bbox": [
+      890,
+      957,
+      919,
+      969
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SCOPE Scope Ratings ",
+    "bbox": [
+      732,
+      71,
+      889,
+      135
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      179,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa misses out on demographic opportunity ",
+    "text_level": 1,
+    "bbox": [
+      326,
+      134,
+      826,
+      149
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Five southern African countries are relatively mature demographically ",
+    "bbox": [
+      58,
+      155,
+      289,
+      193
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Botswana, Eswatini, Lesotho, Namibia, and South Africa -- southern Africa’s middleincome countries – are relatively mature in demographic terms in contrast with the rest of sub-Saharan Africa which is mostly in early stages of the demographic transition. ",
+    "bbox": [
+      327,
+      158,
+      927,
+      203
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Average age of active population is rising ",
+    "bbox": [
+      58,
+      210,
+      218,
+      235
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The five countries have a high and rising share of the working age population in total populations (Figure 1, cover page). The share of young persons in the working-age population is declining. As the average age of the working-age segment increases, its members tend to save and invest more, which should support economic growth. ",
+    "bbox": [
+      327,
+      211,
+      929,
+      271
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Chronic unemployment persists ",
+    "bbox": [
+      60,
+      279,
+      231,
+      303
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "However, since the global financial crisis in 2008 and 2009 when economic growth in the region slowed sharply, these southern African countries have missed opportunities presented by their favourable demographics. The economies have instead recorded some of the world’s highest rates of unemployment, inequality, and HIV infection. Achieving inclusive growth without structural transformation has proven elusive in the context of their dual economies - a relatively small productive formal sector but a large and mostly subsistence informal sector – whose productivity is dampened by HIV. ",
+    "bbox": [
+      327,
+      279,
+      927,
+      387
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Weak growth in South Africa weighs down on the rest of the region ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      394,
+      284,
+      431
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Sluggish growth in South Africa, the region’s largest economy, has contributed to the government’s rising indebtedness and declining living standards, with spill-over effects for the rest of the region. The country’s inefficient labour markets and poor productivity have contributed to declines in economic growth during the past 10 years. South Africa’s growing population and low employment rate, the latter at around $44 \\%$ of people of working age in 2015-19, suggest the country faces rising joblessness, escalating social tensions and greater fiscal pressures – without much needed policy reforms. ",
+    "bbox": [
+      326,
+      395,
+      927,
+      502
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Government needs to reassess labour, health, education policy ",
+    "bbox": [
+      60,
+      510,
+      289,
+      535
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Reaping the demographic dividend requires supportive policies, both on the labour demand side (job creation, reducing barriers to entrepreneurship) and on the labour supply end (investment in health, education, training). Deepening and broadening financial markets to make them more conducive to higher savings and investment are also important. On the social policy front, investment in family planning and promoting equality through employment and basic services are needed. However, the inequality of income and opportunity, in South Africa along ethnic lines, complicates the gathering of support for needed structural reforms. A priority is making quality public education available to all, irrespective of socio-economic backgrounds. ",
+    "bbox": [
+      327,
+      511,
+      929,
+      649
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Africa’s demographics diverge; why Southern Africa stands out ",
+    "text_level": 1,
+    "bbox": [
+      327,
+      662,
+      889,
+      678
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Africa is a continent of demographic extremes ",
+    "bbox": [
+      60,
+      686,
+      226,
+      709
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In 2018, 42 out of 50 countries with the lowest life expectancies in the world were in Africa. In many of these countries, high mortality and fertility rates mean that the share of the working-age population is still low. At the same time, with sustained high fertility rates and still elevated, but falling, mortality rates, Africa’s total population is growing rapidly. ",
+    "bbox": [
+      327,
+      684,
+      937,
+      744
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The United Nation projects that the continent’s population growth will account for more than half of global population growth between 2020 and 2050. By 2050, an estimated one out of every four people in the world will live in Africa, up from one out of six as of 2015 (Figure 2, next page). A key question is whether these demographic trends will fuel economic growth or instead become a social and fiscal burden. ",
+    "bbox": [
+      327,
+      752,
+      936,
+      828
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2/11 ",
+    "bbox": [
+      889,
+      957,
+      919,
+      967
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      63,
+      36,
+      157,
+      103
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/fc1ccfa9f51074bd347c41dda5169f60e96efeb65ce7cfc79a39db321b9b2778.jpg",
+    "image_caption": [
+      "Figure 2: World population and its composition (millions of people) ",
+      "Source: UN, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      332,
+      156,
+      941,
+      294
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa is relatively mature, demographically ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      332,
+      260,
+      359
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In contrast with much of sub-Saharan Africa, southern Africa finds itself already at a more mature stage of its demographic transition, marked by i) a slower population growth, ii) an ageing population, and iii) a higher ratio of people of working age relative to the nonworking age population (Figures 3 and 4 and Annex I). ",
+    "bbox": [
+      326,
+      331,
+      937,
+      392
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "These trends present the potential for the “demographic dividend” in that economic growth spurred by the increased size of the labour force depends primarily on i) the age pyramid of the overall population, and in particular on the share and composition of the workingage population, and ii) supportive government policies. ",
+    "bbox": [
+      326,
+      401,
+      937,
+      461
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Working adults tend to save and work more ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      470,
+      262,
+      495
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The shape of the age pyramid is critical as savings tend to be high during adults’ working lives. In addition, as the age pyramid evolves, countries typically refocus their investments from childcare and schools to infrastructure, technology, and productive capital, which are more directly growth enhancing. While aging is often linked with reduced savings, extended longevity and later retirement create incentives to save longer. ",
+    "bbox": [
+      326,
+      469,
+      937,
+      545
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The policy mix is crucial for escaping demographic crunch ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      554,
+      282,
+      580
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "However, capturing the demographic dividend also relies on governments adopting the facilitative policies, both to foster demand for employment through job creation and reduce barriers to entrepreneurship and to properly equip the workforce through investment in health, education, and training. Developing financial markets conducive to savings and investment is as well important. So is investment in family planning and promoting equality through employment and basic services. ",
+    "bbox": [
+      326,
+      554,
+      937,
+      644
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/9ef6792c2512ca87531e9f9ac222bbb4dc6bec06a20d4fb02a7467b17ab8635c.jpg",
+    "image_caption": [
+      "Figure 3: Youth in total population in SSA regions, % ",
+      "Source: UN, Scope Ratings GmbH. Note: Youth is defined as population aged 15 – 24. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      687,
+      499,
+      850
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/4c3b7f0c1c68721c5819f29dc1129b7c176f6200afbff5ed20711171ecea82bf.jpg",
+    "image_caption": [
+      "Figure 4: People aged $\\pmb { 6 0 + }$ in the total population in SSA regions, $\\%$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      510,
+      688,
+      934,
+      848
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      60,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3/11 ",
+    "bbox": [
+      889,
+      957,
+      919,
+      967
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      65,
+      39,
+      157,
+      99
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      179,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "High unemployment stymies demographic benefits ",
+    "text_level": 1,
+    "bbox": [
+      326,
+      134,
+      778,
+      149
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Low labour utilisation drives a missing demographic dividend ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      156,
+      284,
+      181
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s longer-term economic prospects depend largely upon policy makers belatedly seizing the demographic opportunities of a youthful population and declining fertility rates. They have largely missed them so far. Unemployment, particularly among the young, is among the highest in the world (Figure 5). High joblessness is also a feature of staggering levels of poverty, inequality in income and opportunity, and HIV (Figure 6). In Eswatini and Lesotho, more than $30 \\%$ of the population lack access to drinking water, raising their vulnerabilities to disease particularly amid the Covid-19 pandemic. ",
+    "bbox": [
+      326,
+      155,
+      936,
+      261
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "5a. SSA regions: Total unemployment (% of labour force) ",
+    "bbox": [
+      57,
+      292,
+      477,
+      306
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/b358398fe2f0cde17418f3c4000a03927c4d1f7abc7709bf8a6a0cb5d5545c4e.jpg",
+    "image_caption": [
+      "Figure 5. Unemployment in southern Africa: Regional and Global Comparisons "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      62,
+      330,
+      489,
+      475
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/177ab47472b4c17dd2e2e286cae48a3c7f0dba0042128276dd2573ef2fd90bd3.jpg",
+    "image_caption": [
+      "5b. SSA regions: Youth unemployment $( \\%$ of labour force aged 15 – 24) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      517,
+      332,
+      934,
+      478
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/f5b2bfc8349a2ee6cbfccf2bf5c97ece565ff01e7ddc1ea35bf16a1ee0be8e1e.jpg",
+    "image_caption": [
+      "5c. Countries with highest unemployment globally (2020, $\\%$ of labour force) ",
+      "5d. Countries with highest youth unemployment globally (2019, $\\%$ of labour force aged 15-24) ",
+      "High inequality and HIV rates weigh on potential growth "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      532,
+      507,
+      678
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/e11f5846f7a5216f0e91a1dda136a29bb51170c403591ac535e72896cb141dd4.jpg",
+    "image_caption": [
+      "Source: International Labour Office database, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      532,
+      921,
+      680
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "These disturbing social outcomes constitute major obstacles to higher and more inclusive growth that could turn the situation around. For example, one of the consequences of high youth and total unemployment and elevated inequality is that (i) young people become economically independent later in life - after the age of 30 - than in other emerging market economies, and (ii) the consumption of older cohort (those aged $^ { 6 0 + }$ ) falls rapidly as they retire. The public sector has been acting as the employer of the last resort. Public sector employment in South Africa rose to $2 . 7 \\mathsf { m }$ in 2014 from $_ { 2 . 2 \\mathsf { m } }$ in 2008 at high cost to the budget and without clear improvements in public-sector spending effectiveness. ",
+    "bbox": [
+      326,
+      712,
+      937,
+      834
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The low incomes of the young (15 – 24) and the $^ { 6 0 + }$ age groups imply weakened domestic demand. High inequality necessitates social transfers at the expense of human and physical capital investment that the region needs to accelerate growth. Widespread poverty and youth unemployment, alongside income and opportunity inequalities, make southern Africa susceptible to social and political upheavals. ",
+    "bbox": [
+      327,
+      843,
+      937,
+      917
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      63,
+      36,
+      156,
+      104
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "6a. Countries with highest inequality, globally Gini coeff. (0 – 100, higher is more unequal) ",
+    "bbox": [
+      57,
+      155,
+      470,
+      185
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/b7ad6f3a0db6c69534513fa942e2f9d788adf543b92a0971172f6496c99ed20d.jpg",
+    "image_caption": [
+      "Figure 6: Inequality and HIV prevalence in southern Africa: global comparisons "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      58,
+      192,
+      485,
+      332
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/4acc41cf82ab9bdd2b1b3b3300c1fa29ea3331df380b6e5d73d7cdca5efd4f67.jpg",
+    "image_caption": [
+      "6b. Countries with the highest HIV rates, globally $( \\%$ of infected among those aged 15 – 49) ",
+      "NB: Figure 6b excludes countries with population of less than 1 m ",
+      "Source: World Bank World Development Indicators database "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      512,
+      193,
+      939,
+      329
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "High mortality from HIV rates led to “reverse transition” ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      368,
+      272,
+      393
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Another trend, which has inhibited southern Africa’s capacity to tap its full demographic potential has been the so called “reverse transition”: rising mortality rates among the working age population mostly due to a high HIV/AIDS prevalence. ",
+    "bbox": [
+      327,
+      368,
+      937,
+      412
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Death rates have fallen with the expanded availability of antiretroviral therapies, but the prevalence of HIV has curbed the region’s productivity. At the micro level, high HIV rates act as a “tax” on businesses and workers, as they jointly bear the cost of reduced employees’ productivity. At the macro level, high HIV infection rates can reduce growth in the region by up to 2 to 2.5 percentage points a year, according to a World Bank review. ",
+    "bbox": [
+      327,
+      420,
+      937,
+      497
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Raising South Africa´s growth vital for seizing demographic gains ",
+    "text_level": 1,
+    "bbox": [
+      327,
+      506,
+      907,
+      521
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "South Africa’s economy dominates the region ",
+    "bbox": [
+      60,
+      529,
+      235,
+      554
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "South Africa plays a pivotal role in the wider southern African region as the most developed and largest economy, with relatively sophisticated financial, transport and other infrastructure. Trade figures tell a large part of the story. Eswatini exports $70 \\%$ of its exports to South Africa, while Lesotho exports $49 \\%$ compared with the more commodityrich Namibia, $1 5 \\%$ , and Botswana, $10 \\%$ , according to the World Bank. Eswatini relies on South Africa for $78 \\%$ of its imports, Lesotho $7 1 \\%$ , Botswana $6 3 \\%$ and Namibia $4 4 \\%$ . ",
+    "bbox": [
+      327,
+      527,
+      937,
+      618
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "South Africa’s dominance also has adverse effects, particularly given the economy’s underperformance for at least a decade which has weighed down on the economies of its neighbours, dampening benefits from the potentially favourable demographics they face. ",
+    "bbox": [
+      327,
+      627,
+      937,
+      671
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Weak growth is a major drag on South Africa’s living standards ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      681,
+      290,
+      706
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A key weakness of South Africa’s credit profile since the aftermath of the global financial crisis has been low and declining real GDP growth (Figure 7). The economy has underperformed average annual growth in other emerging markets. Growth fell below $2 \\%$ a year after the global financial crisis, with the economy contracting by almost $7 \\%$ in 2020 due to the impact of the Covid-19 pandemic crisis (Table 1). ",
+    "bbox": [
+      326,
+      680,
+      937,
+      756
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Low growth has contributed to rising public debt to GDP over the past decade, now reaching $7 7 \\%$ of GDP, up from $2 7 \\%$ in 2008 according to the IMF. Growth has also fallen below population growth since the middle of the last decade, leading to a deterioration in people’s real living standards. In contrast with China and India, this has contributed to a wider wealth gap with advanced economies in terms of per capita GDP (Figure 8). ",
+    "bbox": [
+      327,
+      764,
+      937,
+      840
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      65,
+      38,
+      157,
+      102
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/b2680ea1915d4bbfca8d834d42e5832a09db9e0e5bedeaad39d2a31aa8841d5e.jpg",
+    "image_caption": [
+      "Figure 7: Real GDP growth in South Africa and other emerging markets (EMs), annual, $\\%$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      57,
+      174,
+      492,
+      312
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/04f60caafcd3518b1c28eceadf15f8f4cb1836421245bf32a1ac8a7f502f94cb.jpg",
+    "image_caption": [
+      "Figure 8: GDP per capita (constant PPP) in BRICS relative to G7 countries, $\\%$ , equal $\\mathbf { \\mu = 1 0 0 }$ ",
+      "Source: Macrobond, IMF, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      509,
+      171,
+      941,
+      307
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/d8c7b8259453e35ee24caa42d009836919a778a9caab759aeeeb68ee3bd294d4.jpg",
+    "table_caption": [
+      "Table 1. South Africa: Real annual GDP and income per capita growth "
+    ],
+    "table_footnote": [
+      "Source: World Bank and Levy et al. (2021) "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1> Real GDP growth</td><td rowspan=1 colspan=1>Growth in real percapita income</td><td rowspan=1 colspan=1>Private investment</td></tr><tr><td rowspan=1 colspan=1>Year</td><td rowspan=1 colspan=2>annual average,%</td><td rowspan=1 colspan=1>% of GDP</td></tr><tr><td rowspan=1 colspan=1>1990 - 1993</td><td rowspan=1 colspan=1>-0.6</td><td rowspan=1 colspan=1>-3.0</td><td rowspan=1 colspan=1>13.8</td></tr><tr><td rowspan=1 colspan=1>1994 - 2000</td><td rowspan=1 colspan=1>2.9</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>13.9</td></tr><tr><td rowspan=1 colspan=1>2001 - 2004</td><td rowspan=1 colspan=1>3.5</td><td rowspan=1 colspan=1>2.2</td><td rowspan=1 colspan=1>13.2</td></tr><tr><td rowspan=1 colspan=1>2005 - 2008</td><td rowspan=1 colspan=1>4.9</td><td rowspan=1 colspan=1>3.5</td><td rowspan=1 colspan=1>17.0</td></tr><tr><td rowspan=1 colspan=1>2009 - 2012</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>0.3</td><td rowspan=1 colspan=1>16.9</td></tr><tr><td rowspan=1 colspan=1>2013 - 2019</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>-0.3</td><td rowspan=1 colspan=1>16.2</td></tr></table>",
+    "bbox": [
+      329,
+      360,
+      937,
+      507
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Past and future growth drivers in two scenarios ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      560,
+      280,
+      585
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Examining South Africa’s growth prospects under two scenarios ",
+    "text_level": 1,
+    "bbox": [
+      327,
+      537,
+      897,
+      554
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We use the growth accounting framework (Annex II) to examine South Africa’s main growth drivers and prospects during 1995-2045 under two scenarios. ",
+    "bbox": [
+      327,
+      558,
+      937,
+      588
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The first is “no policy progress” scenario (Figure 9), which assumes flat labour productivity growth, similar to the average productivity outcomes in 2010-2020. The employment rate gradually rises after the 2020 crisis, but only to pre-crisis levels. In this case, the average annual potential real GDP growth would slow to $1 \\%$ in the long term. ",
+    "bbox": [
+      326,
+      596,
+      937,
+      657
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/3e9cef268d1a61c505dc32b9488b06f786eebaafbee5bd258ffe29d718c7dcc5.jpg",
+    "image_caption": [
+      "Figure 9: Growth accounting: no policy boost Annual average growth $( \\% ) ^ { \\star }$ ",
+      "\\*NB: data in natural logarithms to ensure additivity, see the Annex "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      721,
+      502,
+      871
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/3bbc5ea80033acf6a0ee17f19d2ad3274003aa923898ce8509d641a13efca50b.jpg",
+    "image_caption": [
+      "Figure 10: Growth accounting: policy boost Annual average growth $( \\% ) ^ { \\star }$ ",
+      "Source: Macrobond, UN, ILO, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      719,
+      947,
+      871
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      60,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6/11 ",
+    "bbox": [
+      887,
+      957,
+      919,
+      967
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      65,
+      38,
+      156,
+      103
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      179,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Creating too few productive jobs reinforces inequality ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      134,
+      262,
+      159
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The second scenario assumes annual average productivity growth of about $0 . 5 \\%$ due to policies aimed at making labour and product markets more efficient and strengthening human capital (Figure 10, previous page). Such a boost would lift long-term growth potential towards $2 . 3 \\%$ a year. Growth becomes more inclusive, with the employment rate gradually rising from about $45 \\%$ in 2015 to $5 5 \\%$ by 2045. ",
+    "bbox": [
+      326,
+      133,
+      937,
+      209
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Exploring past drivers of output growth shows that while growth of the working-age population contributed positively to real GDP growth, the employment rate remained broadly stable at low levels $( 4 0 ~ - ~ 4 5 \\% )$ , highlighting South Africa’s inefficient labour utilisation. Job creation was in line with working-age population growth, but with the low employment rate an increasing number of people have become jobless in absolute terms. These developments have offset demographic benefits and reinforced the high inequality along ethnic lines (Table 2). The unaddressed distributional imbalances fuel social tensions and put pressure on fiscal outlays, especially social grants. ",
+    "bbox": [
+      327,
+      217,
+      937,
+      338
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/c55a27aa8498fbbec162eae8b0fe11971604b70a0ed1bb811a7147b0a7c48e0b.jpg",
+    "table_caption": [
+      "Table 2. Income distribution of black South Africans "
+    ],
+    "table_footnote": [
+      "Source: Adapted from Levy et al. (2021). "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>1995</td><td rowspan=1 colspan=2>2010</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Number (000s)</td><td rowspan=1 colspan=1>%</td><td rowspan=1 colspan=1>Number (000s)</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1> Black South Africans (total)</td><td rowspan=1 colspan=1>31727</td><td rowspan=1 colspan=1>100,0</td><td rowspan=1 colspan=1>40001</td><td rowspan=1 colspan=1>100,0</td></tr><tr><td rowspan=1 colspan=1> In the top 10% of the country&#x27;s income distribution</td><td rowspan=1 colspan=1>871</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>1481</td><td rowspan=1 colspan=1>37</td></tr><tr><td rowspan=1 colspan=1> Above mean but below top 10%</td><td rowspan=1 colspan=1>3028</td><td rowspan=1 colspan=1>9.5</td><td rowspan=1 colspan=1>3888</td><td rowspan=1 colspan=1>9.7</td></tr><tr><td rowspan=1 colspan=1> Income below the country mean</td><td rowspan=1 colspan=1>27828</td><td rowspan=1 colspan=1>87,7</td><td rowspan=1 colspan=1>34638</td><td rowspan=1 colspan=1>86,6</td></tr></table>",
+    "bbox": [
+      62,
+      367,
+      936,
+      481
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Quality jobs are in short supply ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      504,
+      289,
+      517
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The only recent noticeable gains in the employment rate occurred during 2010-15, which included expansion of public sector employment among mostly less skilled workers. However, the aggregate labour productivity declined in this period, reducing the positive contribution from employment to growth. Policy makers will have to better foster human capital and complement it with the creation of productive and well-paying jobs in private and public sectors to reverse this trend. ",
+    "bbox": [
+      327,
+      502,
+      937,
+      594
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Covid-19 crisis has raised unemployment ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      604,
+      248,
+      629
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Covid-19 crisis led to a deeper recession last year than during the height of the global financial crisis. In South Africa, real GDP contracted by almost $7 \\%$ in 2020 and was accompanied by the abrupt loss of employment, which fell by $18 \\%$ between February and April 2020. By the end of 2020, the unemployment rate was approaching $3 5 \\%$ of the labour force, placing it among the highest globally. The same held for youth unemployment of $56 \\%$ , which increased challenges for policymakers. ",
+    "bbox": [
+      327,
+      602,
+      937,
+      693
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Cashing in on the remaining demographic dividend ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      703,
+      265,
+      728
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In our second scenario of “moderate $2 \\%$ growth over the longer term,” relatively effective policies both on the supply side (education) and the demand side (job creation) of the labour market boost growth through enhanced employment rates. Labour productivity would rise due to educational gains (reflected as improved labour quality in the growth accounting framework). Priority areas for reform are the improvement of the business environment and making quality public education available to the broad segment of the population, irrespective of socio-economic background. ",
+    "bbox": [
+      327,
+      702,
+      937,
+      808
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Figure 11 (next page), featuring the “employment quantity”, shows the composition of working age population between the employed, the unemployed and the inactive. It illustrates the poor labour utilisation that has become a pervasive feature of the South Africa’s economy, with a large share of the population left jobless (outside the labour force or unemployed). South Africa’s government currently prioritizes job creation across the skills spectrum, with special attention on the tech sector and IT infrastructure. ",
+    "bbox": [
+      327,
+      816,
+      939,
+      908
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7/11 ",
+    "bbox": [
+      889,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      63,
+      36,
+      156,
+      105
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      181,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Figure 12, focused on “employment quality”, shows the composition of employment by educational attainment, according to International Labour Office categorisation and data. The high share of the employed population with only basic educational attainment contributes to low aggregate labour productivity. It reflects the dual nature of the South African economy, in which a sophisticated formal sector (e.g., banking services) coexists with informal and often subsistence activities. The falling relative demand for less skilled jobs over the past 10 years emphasises the importance of quality education to boost growth, curb need for social allowances and reduce social tensions. ",
+    "bbox": [
+      326,
+      133,
+      937,
+      254
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/886a9c0799bacc80da213409b3fb734afd9bb953c5a814b3be33363f2ff58727.jpg",
+    "image_caption": [
+      "Figure 11: Working age population composition Thousands (LHS), $\\%$ (RHS) ",
+      "Source: Macrobond, IMF, UN, ILO, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      57,
+      304,
+      502,
+      453
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/3653bf7b05d6e6e9073bf621d3fdad9ec4d4d05fe9113766a2b9f6603c96a57b.jpg",
+    "image_caption": [
+      "Figure 12: Employment by education attainment $\\%$ of total ",
+      "Source: Macrobond, UN, ILO, Scope Ratings GmbH "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      529,
+      306,
+      941,
+      451
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Demographics and sovereign credit risk ",
+    "text_level": 1,
+    "bbox": [
+      326,
+      499,
+      682,
+      514
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Demographic trends influence fiscal sustainability ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      520,
+      280,
+      546
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this note, we have related demographic trends mostly to economic growth, which under the Scope’s sovereign rating methodology is a key factor for the assessment of countries’ economic strength and the overall sovereign credit risk. Besides growth, demographic trends have direct implications for fiscal sustainability captured in the public finance pillar of the sovereign risk assessment as well as for social risk in the ESG pillar. ",
+    "bbox": [
+      327,
+      520,
+      937,
+      595
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Capturing the demographic dividend in terms of higher growth has positive impact on fiscal sustainability and, if growth is inclusive, on containing social tensions and the risk of social unrest. In the opposite case, which currently characterises southern Africa, the large share of the unemployed and the idle working-age population will continue to pressure the budget through demand for social transfers. Unaddressed inequality imbalances can lead to social unrest. In more subtle ways, they also hinder structural reforms, leading to a viscous circle of low and narrowly-based growth, rising public debt and social tensions. ",
+    "bbox": [
+      327,
+      604,
+      937,
+      711
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Our scenarios for South Africa highlight the importance of raising both employment and productivity. Striving to reach inclusive growth and reduce social tensions, the South African government prioritises job creation across various skill levels. It aims to address the root causes of exclusion, entrenched in the unequal ownership of physical asset (especially land) and access to education and training. The experiences of South Africa are relevant for small middle-income countries in the region which, besides close trade and investment ties with South Africa, have similar economic structures and face similar challenges. ",
+    "bbox": [
+      326,
+      719,
+      937,
+      841
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      149,
+      969
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      62,
+      36,
+      156,
+      105
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      181,
+      42,
+      857,
+      104
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Annex ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      135,
+      121,
+      148
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "I: Southern Africa demographic transition ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      156,
+      430,
+      172
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Most sub-Saharan African countries are in the early stages of the demographic transition... ",
+    "bbox": [
+      58,
+      178,
+      255,
+      227
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "During the demographic transition, countries move from high birth and mortality rates towards much lower rates, leading to higher life expectancies and an older population structure. The initial decline in mortality rate is usually associated with decreases in child mortality, while the subsequent decline in fertility is linked to factors associated with economic development, such as urbanisation, improved educational outcomes and increased labour force participation among women. The developing regions of Latin America and Asia started to transition from high to low birth and death rates in the 1950s and 1960s. By contrast, most of Sub-Saharan Africa remains characterised by relatively high fertility rates in the context of still high mortality rates (Figure 1, Annex I). ",
+    "bbox": [
+      326,
+      178,
+      937,
+      315
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/beffc03b8f665bda0125417abdcb11a1b4cab5396d6137379447d33ce2fb5a0f.jpg",
+    "image_caption": [
+      "Figure 1 Annex I: Population dynamics in SSA (per 1000 people) ",
+      "NB: Crude birth rates and death rates are per 1000 people "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      53,
+      361,
+      489,
+      504
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/2c5a0122e846ed628de571416accfba85569e98f22ef18a7ffccce4d5a2eaba6.jpg",
+    "image_caption": [
+      "Figure 2 Annex I: Population dynamics in Southern Africa (per 1000 people) ",
+      "Source: Calculations based on United Nations Population Division data "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      507,
+      360,
+      934,
+      502
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "...but southern Africa is further along and faces unique demographic challenges. ",
+    "bbox": [
+      58,
+      536,
+      284,
+      574
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "While many sub-Saharan African countries are in the early stages of demographic transitions, in southern African (e.g., Botswana, Eswatini, Lesotho, Namibia, and South Africa) fertility rates have noticeably come down (Figure 2, Annex I). The demographic transition started in this region in the 1950s, but the legacy of the colonial economic systems has made it particularly difficult for broad segments of populations to benefit from the demographic dividend. More recently the rapid rise in mortality rates (especially around 2000s) due to HIV/AIDS has presented challenges. In these countries, population growth is lower and demographic - and in particular age - profiles are different from those in the rest of sub-Saharan Africa. Southern African countries are also projected to experience relatively low youth population growth in the coming decades, even though the share of youth (ages 15 – 24) in the working-age population is rising in most of the rest of sub-Saharan Africa. The southern Africa region reached its peak in terms of the youth share in the total population at $2 1 \\%$ in 2005, which is expected to fall to $1 5 \\%$ by 2050. ",
+    "bbox": [
+      326,
+      535,
+      937,
+      733
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/57cd1f162907406d68a1a9ef9835ccc8fc59e18f445ef46c97ee9345de028663.jpg",
+    "image_caption": [
+      "igure 3 Annex I: Working age relative to non-working age population, ratio ",
+      "Source: Calculations based on United Nations Population Division data "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      327,
+      760,
+      939,
+      907
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      889,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      63,
+      38,
+      157,
+      101
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      179,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Large working age group creates demographic opportunity ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      134,
+      242,
+      172
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Besides much slower population growth, southern Africa’s demographics differs from those of other SSA regions in the age structure. Other than a declining share of youth, this difference is reflected in at least two alternate structural characteristics: (i) South Africa’s much higher ratio of its working to its non-working age population (Figure 3, Annex I) and (ii) the relatively rapidly ageing population, as depicted via rising shares of those aged $^ { 6 0 + }$ and $^ { 8 0 + }$ in the total population). In contrast with other sub-Saharan Africa regions, southern Africa is already in the middle of demographic transition, albeit having missed part of the past dividend, but with a significant window of opportunity still ahead. ",
+    "bbox": [
+      326,
+      133,
+      936,
+      255
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "…but ageing is poised to accelerate and will start to weigh on budgets. ",
+    "bbox": [
+      60,
+      265,
+      252,
+      302
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Ageing is not a trend typically associated with SSA demographics. Southern Africa has been experiencing this trend for some time, but without adequate infrastructure (e.g., pension systems, health care, housing) to deal with it. In most developing countries, the rise in elderly populations has reflected a sharp decline in fertility rates, improved health care services, and increased life expectancies. However, in southern African countries, the rise in the share of the population aged $^ { 6 0 + }$ is in part due to a very high prevalence of HIV/AIDS, which impacted disproportionally adults of working age and led to a reduction in the working age population. However, the topic of ageing has received limited space in policy dialogues. It has not been sufficiently covered in the budgets yet but will draw enhanced attention in the decades ahead. ",
+    "bbox": [
+      326,
+      262,
+      936,
+      416
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "II: The model of GDP decomposition ",
+    "text_level": 1,
+    "bbox": [
+      52,
+      424,
+      371,
+      441
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Our starting point for linking growth performance to demographics is decomposing real GDP growth (g) into three demographic components: (i) real labour productivity growth (growth in real GDP per person employed, $\\pmb { g } _ { L P }$ ), (ii) labour utilisation growth (growth in the employment rate. $\\pmb { g } _ { L U }$ ) and (iii) working age (WA) population growth ${ \\pmb { g } } _ { W A P }$ ), which impacts the availability of labour input: ",
+    "bbox": [
+      50,
+      447,
+      936,
+      492
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/0ffcc89316ffe7551f0d90b57f5a997388913ec071b8c12bf26ea664a3a61e06.jpg",
+    "text": "$$\n{ \\pmb g } = { \\pmb g } _ { W A P } + { \\pmb g } _ { L P } + { \\pmb g } _ { L U }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      552,
+      502,
+      714,
+      516
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In addition, the age structure and the human capital level of the population affect labour productivity as well as investment and saving decisions. ",
+    "bbox": [
+      48,
+      523,
+      899,
+      552
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_6786265/auto/images/a09c902ee70d64666353fb42c74ef09df2967bc7025536e2d794e8609c6fc2d2.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      139,
+      560,
+      847,
+      634
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "A growth accounting model based on identities: ",
+    "text_level": 1,
+    "bbox": [
+      52,
+      661,
+      394,
+      674
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Growth accounting approaches can be based on a production function and/or a series of identities. We base our model on growth accounting identities only in order not to depend on assumptions regarding behavioural and technological functions. Still, we recognise that, by adopting such simplifications, we cannot disentangle the interactions among the factors of growth, which is an important limitation of such a model that can be used mainly as a starting point in quantifying sources of long-term growth. Another limitation of the growth accounting approach is that it does not shed light on how fundamentals (changes in preferences or technology) or government policies contribute to growth. ",
+    "bbox": [
+      50,
+      676,
+      937,
+      768
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Comparing logarithmic approximation with actual growth rates: ",
+    "text_level": 1,
+    "bbox": [
+      50,
+      783,
+      509,
+      796
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The approach adopted in this paper builds on a multiplicative decomposition of real GDP growth. To analyse growth dynamics, the growth rates of all components, as well as that of real GDP itself, are expressed in natural logarithms. The natural logarithmic form allows us to express the components of growth, which compound on one another, in an additive form, to obtain real output growth, thereby facilitating easier interpretation. However, estimates using the natural logarithmic approach only approximate actual growth rates. Our focus is on interpreting comparative contributions between growth components, while the values on cumulative growth figures should not be interpreted as precise values. ",
+    "bbox": [
+      50,
+      799,
+      936,
+      889
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      151,
+      969
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "10/11 ",
+    "bbox": [
+      882,
+      957,
+      919,
+      967
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "SCOPE ",
+    "bbox": [
+      65,
+      38,
+      156,
+      104
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Southern Africa’s credit outlook: Will the demographic dynamics become a growth dividend or social and fiscal burden? ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      42,
+      858,
+      104
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Scope Ratings GmbH ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      134,
+      252,
+      149
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Headquarters Berlin ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      164,
+      225,
+      177
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Paris ",
+    "text_level": 1,
+    "bbox": [
+      652,
+      164,
+      695,
+      175
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Frankfurt am Main Neue Mainzer Straße 66-68 D-60311 Frankfurt am Main ",
+    "bbox": [
+      356,
+      162,
+      569,
+      208
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Lennéstraße 5 D-10785 Berlin ",
+    "bbox": [
+      62,
+      180,
+      178,
+      206
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "23 Boulevard des Capucines F-75002 Paris ",
+    "bbox": [
+      652,
+      180,
+      870,
+      206
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $+ 4 9$ 30 27891 0 ",
+    "bbox": [
+      62,
+      215,
+      235,
+      228
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $+ 4 9$ 69 66 77 389 0 ",
+    "bbox": [
+      357,
+      215,
+      559,
+      228
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $\\yen 33$ 1 8288 5557 ",
+    "bbox": [
+      652,
+      215,
+      835,
+      229
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Oslo ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      243,
+      100,
+      255
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Madrid ",
+    "text_level": 1,
+    "bbox": [
+      357,
+      243,
+      415,
+      256
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Milan ",
+    "text_level": 1,
+    "bbox": [
+      653,
+      243,
+      697,
+      256
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Karenslyst allé 53 N-0279 Oslo ",
+    "bbox": [
+      62,
+      260,
+      196,
+      286
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Via Nino Bixio, 31 20129 Milano MI ",
+    "bbox": [
+      652,
+      260,
+      788,
+      287
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Edificio Torre Europa Paseo de la Castellana 95 E-28046 Madrid ",
+    "bbox": [
+      356,
+      260,
+      556,
+      300
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $+ 4 7$ 21 62 31 42 ",
+    "bbox": [
+      62,
+      294,
+      240,
+      307
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $+ 3 4$ 914 186 973 ",
+    "bbox": [
+      357,
+      307,
+      541,
+      322
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone $^ { + 3 9 }$ 02 30315 814 ",
+    "bbox": [
+      652,
+      294,
+      845,
+      309
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Scope Ratings UK Limited ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      368,
+      297,
+      384
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "111 Buckingham Palace Road London SW1W 0SR ",
+    "bbox": [
+      63,
+      391,
+      290,
+      418
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Phone +44020-7340-6347 ",
+    "bbox": [
+      62,
+      424,
+      260,
+      438
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "info@scoperatings.com www.scoperatings.com ",
+    "bbox": [
+      62,
+      473,
+      270,
+      502
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Disclaimer ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      706,
+      156,
+      719
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 Scope SE & Co. KGaA and all its subsidiaries including Scope Ratings GmbH, Scope Ratings UK Limited, Scope Analysis GmbH, Scope Investor Services GmbH, and Scope ESG Analysis GmbH (collectively, Scope). All rights reserved. The information and data supporting Scope’s ratings, rating reports, rating opinions and related research and credit opinions originate from sources Scope considers to be reliable and accurate. Scope does not, however, independently verify the reliability and accuracy of the information and data. Scope’s ratings, rating reports, rating opinions, or related research and credit opinions are provided ‘as is’ without any representation or warranty of any kind. In no circumstance shall Scope or its directors, officers, employees and other representatives be liable to any party for any direct, indirect, incidental or other damages, expenses of any kind, or losses arising from any use of Scope’s ratings, rating reports, rating opinions, related research or credit opinions. Ratings and other related credit opinions issued by Scope are, and have to be viewed by any party as, opinions on relative credit risk and not a statement of fact or recommendation to purchase, hold or sell securities. Past performance does not necessarily predict future results. Any report issued by Scope is not a prospectus or similar document related to a debt security or issuing entity. Scope issues credit ratings and related research and opinions with the understanding and expectation that parties using them will assess independently the suitability of each security for investment or transaction purposes. Scope’s credit ratings address relative credit risk, they do not address other risks such as market, liquidity, legal, or volatility. The information and data included herein is protected by copyright and other laws. To reproduce, transmit, transfer, disseminate, translate, resell, or store for subsequent use for any such purpose the information and data contained herein, contact Scope Ratings GmbH at Lennéstraße 5 D-10785 Berlin. ",
+    "bbox": [
+      62,
+      726,
+      924,
+      936
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "14 April 2021 ",
+    "bbox": [
+      62,
+      957,
+      149,
+      969
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11/11 ",
+    "bbox": [
+      882,
+      958,
+      919,
+      967
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      65,
+      39,
+      157,
+      99
+    ],
+    "page_idx": 10
+  }
+]

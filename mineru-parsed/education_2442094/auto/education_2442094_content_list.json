@@ -1,0 +1,1085 @@
+[
+  {
+    "type": "text",
+    "text": "Evaluation of isometric force production in L-sit cross in still rings among elite male artistic gymnasts ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      142,
+      883,
+      244
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BENJAMIN BANGO, ARCHIT NAVANDAR1 , IGNACIO GRANDE, MANUEL SILLERO-QUINTANA Facultad de Ciencias de la Actividad Física y del Deporte, Universidad Politécnica de Madrid, Madrid, Spain ",
+    "bbox": [
+      114,
+      277,
+      885,
+      323
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      452,
+      364,
+      544,
+      382
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The aim of the study was to obtain information about the proximity to perform the L-Sit Cross (LSC) element of strength hold in still rings. The production of isometric strength in the LSC in still rings in a group of twenty elite gymnasts was evaluated using a force platform (FP). The participants, who were seated on a FP, exerted a force on the rings to reach the LSC. The vertical force component extracted from the F / t curve $( 2 0 \\mathsf { H z } )$ was analyzed, which reflected the weight released when a force was applied in a period of maintenance of the maximum isometric force. The normalized maximum and mean isometric forces were extracted. Results showed large differences $( \\mathsf { p } { < } 0 . 0 0 1$ , Cohen’s ${ \\mathsf { d } } = 1 . 6 )$ between performer (P) and non-performer (NP) gymnasts of this element. $\\mathsf { P }$ gymnasts produced a greater isometric strength level owing to their greater experience in training this element. This information can be useful to coaches in order to determine how close a gymnast is to performing the LSC. Key words: GYMNASTICS, BIOMECHANICS, ISOMETRIC FORCE, RINGS, L-SIT CROSS. ",
+    "bbox": [
+      114,
+      397,
+      883,
+      588
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Original Article ",
+    "bbox": [
+      369,
+      47,
+      578,
+      85
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "VOLUME 12 | ISSUE 2 | 2017 | 257 ",
+    "bbox": [
+      593,
+      915,
+      866,
+      933
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1Corresponding author. Departamento de Deportes, FCAFYD-INEF, UPM, Calle Martin Fierro 7, 28040 Madrid, Spain E-mail: archit.navandar@upm.es Submitted for publication April 2017 Accepted for publication June 2017 JOURNAL OF HUMAN SPORT & EXERCISE ISSN 1988-5202 $\\circledcirc$ Faculty of Education. University of Alicante doi:10.14198/jhse.2017.122.02 ",
+    "bbox": [
+      120,
+      804,
+      833,
+      909
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cite this article as: Bango, B., Navandar, A., Grande, I., & Sillero-Quintana, M. (2017). Evaluation of isometric force production in L-sit cross in still rings among elite male artistic gymnasts. Journal of Human Sport and Exercise, 12(2), 257-266. doi:10.14198/jhse.2017.122.02 ",
+    "bbox": [
+      124,
+      642,
+      877,
+      713
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      84,
+      240,
+      102
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Gymnastics is one of the oldest Olympic sports (Arkaev & Suchilin, 2004). Araújo (2004) distinguishes the Artistic Gymnastics as a very complex modality, not only because it requires the use of differentiated mobility given the different apparatuses, but also because it has very high demands of execution. According to the competition rules in Artistic Gymnastics, men must perform free exercises in six events (García Carretero, 2003): vault, floor exercises, pommel horse, still rings, parallel bars and high bar. ",
+    "bbox": [
+      116,
+      118,
+      883,
+      207
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The still rings is the most unstable apparatus in artistic gymnastics because it presents balance difficulties in the performance and maintenance of static positions performed with the support of the upper limbs (Pastor, 2003) on mobile supports (Arkaev & Suchilin, 2004; Smolevskiy & Gaverdovskiy, 1996). Thus, in still rings the elements of force play the most important role (Fédération Internationale de Gymnastique, 2013). Strength is one of the most important physical qualities that elite gymnasts must possess. The weight of the gymnast is the biggest obstacle to performing the exercise. To move one's weight, one needs to apply force and perform mechanical work with a certain energy (Arkaev & Suchilin, 2004). Along with the technique, maximum strength, power and resistance to high demands of relative strength are very important in every gymnast, in both static and dynamic demonstrations (León-Prados, Gómez-Píriz, & González-Badillo, 2011; Leon Guzman, 1999). ",
+    "bbox": [
+      114,
+      223,
+      883,
+      397
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The International Gymnastics Federation (FIG) revises the Code of Points (CP), which governs the different international competitions, every four years coinciding with the completion of the Olympic Games. The modifications are always made in function of the history of the gymnastics and the prospects of its development (Leon Guzman, 1999). The CP regulates the score of the positions and, among other things, establishes the composition of the exercises. In still rings, a routine can include a maximum of seven strength hold elements which must be held in a perfect position for at least two seconds. All angular deviations and reduction of maintenance time will result in a deduction of points or non-recognition by the jury (Fédération Internationale de Gymnastique, 2013; Schärer & Hübner, 2016). ",
+    "bbox": [
+      116,
+      415,
+      883,
+      555
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within the CP there are different Element Groups (EG) established from which movements for the composition of a routine must be selected. In still rings, there are two of these groups involving positions where a sustained force (static force) must be held for at least 2 seconds (Gorosito, 2013). These are: (i) EG-II, strength and hold elements (2 s), and (ii) EG-III, swing to strength hold elements (2 s) (Fédération Internationale de Gymnastique, 2017). ",
+    "bbox": [
+      116,
+      571,
+      883,
+      660
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In both EG we can find the Iron Cross (IC), with the elbows extended, shoulders abducted to $9 0 ^ { \\circ }$ and maintaining the upper limbs horizontal (Bernasconi, Tordi, Parratte, Rouillon, & Monnier, 2004), appears in 31 of the 93 static strength positions (FIG, 2017), making it a very common (Position 14, Group II, Difficulty B) and symbolic position within gymnastics. The IC can be performed indistinctly with the body extended or angled, and one variation of this position is the L-Sit Cross. ",
+    "bbox": [
+      116,
+      676,
+      883,
+      763
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The L-Sit Cross (LSC) is a variation of the IC performed by flexing the hip $9 0 ^ { \\circ }$ with the lower limbs together and parallel to the floor, with the knees in full extension maintaining the position for 2 seconds (Figure 1). This position shares its classification in the CP with the IC (Position 14, Group II, Difficulty B)(Fédération Internationale de Gymnastique, 2017). ",
+    "bbox": [
+      116,
+      781,
+      882,
+      852
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Specificity and progression are fundamental principles of training, and specific relative maximum force is one of the most important objectives of still ring training (Schärer & Hübner, 2016). Indicators of muscle strength and force-velocity curve is important in gymnastics, normalized to the gymnast's weight (Arkaev & Suchilin, 2004). ",
+    "bbox": [
+      114,
+      869,
+      883,
+      905
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2017 University of Alicante ",
+    "bbox": [
+      696,
+      919,
+      870,
+      933
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      446,
+      59
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "258 | 2017 | ISSUE 2 | VOLUME 12 ",
+    "bbox": [
+      137,
+      916,
+      413,
+      933
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      84,
+      883,
+      119
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_2442094/auto/images/5dd28729fd0ad0f9fd0546ca79ea42b9aceb0cdbf8ba7e2b8c000623ed961935.jpg",
+    "image_caption": [
+      "Figure 1. A gymnast performing the L-Sit Cross on still rings. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      158,
+      136,
+      838,
+      479
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Traditionally, strength hold elements are trained with the help of the coach who guides the gymnast in the position or in the partial support of his body weight. It is a disadvantage that strength training intensity cannot be modulated optimally (Schärer & Hübner, 2016). ",
+    "bbox": [
+      116,
+      534,
+      883,
+      585
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "One of the drawbacks of the training process of strength hold positions is that the information on the progress and potential of the gymnast is unknown during a long period of preparation of the athlete. It is a major issue to obtain or establish valid field measurement systems (Bango, Sillero Quintana, & Grande Rodriguez, 2013; Bernasconi et al., 2004; Dunlavy et al., 2007; Gorosito, 2013; Hübner & Schärer, 2015). Some authors address this problem by means of an experimental approach, looking for measurement tools that can be applied as easily as possible in training. ",
+    "bbox": [
+      116,
+      603,
+      883,
+      708
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Carrara and Mochizuki (2009) compared the execution of the IC in support devices of the forearms and with the use of the belt with pulleys. In a similar line of thought, Gorosito (2013) proposed a predictive test for carrying it out on still rings basing it on the butterfly training system with the gymnast lying supine with dumbells. Hübner and Schärer (2015) studied the correlations between a maximal repetition (1RM) of the butterfly, face support and IC positions with different specific pre-conditioning exercises. They also analyzed the behavior of the maximum resistance increasing the time of maintenance of these positions through counterweights or additional weights on a belt (Schärer & Hübner, 2016). ",
+    "bbox": [
+      114,
+      724,
+      883,
+      848
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Electromyography (EMG) has been used to determine the specific muscular groups involved and their activation patterns in the accomplishment of a certain exercise by means of simulation devices. Bernasconi et al. (2004) found significant differences in muscle coordination in the execution of the IC with and without forearm support devices. Subsequently Bernasconi, Tordi, Parratte, Rouillon, and Monnier (2006) studied the differences in the execution of a version of the IC, with two different devices. Bernasconi, Tordi, Parratte, Rouillon, and Monnier (2009) differentiated specific muscle coordination for three different training methods of the Hirondelle. Campos, Sousa, and Lebre (2011) established the eight muscles whose coordinated action is responsible for the correct performance of the Hirondelle. ",
+    "bbox": [
+      112,
+      864,
+      887,
+      900
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "VOLUME 12 | ISSUE 1 | 2017 | 259 ",
+    "bbox": [
+      593,
+      915,
+      866,
+      933
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      447,
+      59
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      84,
+      883,
+      189
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "However, a force platform (FP) can precisely give quantitative information about the amount of specific force applied by the subject on its surface. Dunlavy et al. (2007) used two FPs to evaluate the performance of the force in a simulated IC, considering that in order to achieve the maintenance of a strength hold position in still rings, the gymnast must be able to produce a level of force equal to or greater than his own body weight in that position. They simulated the execution of the IC with the gymnast on the two FPs. Their analysis showed that the information obtained was sufficiently accurate to differentiate between Performers (P) and Non-Performers (NP) of the IC. Using a single PF for the evaluation of a position of force maintenance in rings; Bango et al. (2013) developed a methodology to measure the force applied in the execution of the Swallow (Hirondelle) position. ",
+    "bbox": [
+      114,
+      205,
+      883,
+      363
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In the present study, we hypothesized that a single platform could be used to differentiate between performers and non-performers of the L-sit Cross position. The aim was to obtain information about the proximity to perform this position of strength hold in still rings. ",
+    "bbox": [
+      116,
+      381,
+      883,
+      433
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "MATERIAL AND METHODS ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      449,
+      326,
+      468
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Participants ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      486,
+      210,
+      502
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Twenty male gymnasts of the Spanish national Artistic Gymnastics team (age: $2 0 . 1 5 \\pm 3 . 2 9$ years; body mass: $6 8 . 5 3 \\pm 6 . 9 9 \\mathrm { k g }$ ; height: $1 7 0 . 1 8 \\pm 6 . 3 8$ cm; experience: $1 4 . 1 \\pm 3 . 8 4$ years) volunteered to participate in the proposed test (Table 1). They signed an informed consent, approved by the university ethical committee, which informed them about the nature and protocol of the test to be carried out. They were divided into two groups (Table 1): Performers of the LSC $( n = 1 0 )$ and Non-Performers $( n = 1 0 )$ . The tests were conducted during the second part of a training session at the High-Performance Center (CAR) of the Consejo Superior de Deportes (CSD) in Madrid. ",
+    "bbox": [
+      116,
+      503,
+      883,
+      625
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_2442094/auto/images/c8b811552e4f063ec125cc258177c5606eb9abc51841a5da36a879848c769857.jpg",
+    "table_caption": [
+      "Table 1. Characteristics of the participants $( \\mathsf { M e a n } \\pm \\mathsf { S D } )$ ). "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Age (years)</td><td rowspan=\"2\">Height (cm)</td><td rowspan=\"2\">Body mass (kg)</td><td rowspan=\"2\">Experience (years)</td></tr><tr><td></td></tr><tr><td>Participants (n=20)</td><td>20.15± 3.29</td><td>170.18 ± 6.38</td><td>68.53 ± 6.99</td><td>14.10 ± 3.84</td></tr><tr><td>Non Performers (n=10)</td><td>18.50 ± 1.84</td><td>173.03 ± 5.76</td><td>70.49 ± 8.05</td><td>12.30 ± 2.31</td></tr><tr><td>Performers (n=10)</td><td>21.80 ± 3.68</td><td>167.05 ± 5.58</td><td>66.57 ± 5.46</td><td>15.90 ± 4.31</td></tr><tr><td>p</td><td>0,02</td><td>0.02</td><td>0.2</td><td>0,03</td></tr><tr><td>Cohen&#x27;s d</td><td>1,13</td><td>1,1</td><td>0,57</td><td>1.04</td></tr><tr><td>Power (1-β)</td><td>0,786</td><td>0,765</td><td>0.34</td><td>0,72</td></tr></table>",
+    "bbox": [
+      114,
+      662,
+      883,
+      861
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "260 | 2017 | ISSUE 2 | VOLUME 12 ",
+    "bbox": [
+      137,
+      915,
+      413,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2017 University of Alicante ",
+    "bbox": [
+      696,
+      917,
+      870,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      446,
+      59
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Instruments ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      87,
+      210,
+      101
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A Kistler portable force platform (Kistle $\\textcircled{8}$ , Switzerland) was used to record the components of the vertical force (Fz) at a sampling frequency of $2 0 \\mathsf { H z }$ . Specific software (BioWare, Kistler®, Switzerland) was used to record force measurements with respect to time. As complementary material, height-adjustable training rings, a plinth with a solid upper surface and a weighted belt (98 N) were used. For the test, the force platform was placed on the plinth (total height $= 6 2$ cm) in which a structure of wood and metal was placed to achieve a stable and solid surface. The built-in height provided conditions similar to the realization of the element, giving the gymnast a feeling of being suspended at a height above the ground. The platform was calibrated such that when the gymnast was placed on the FP with the extra weight added, the platform registered only his weight. No significant differences were found in the measurements of the noise recorded by the platform on the ground and at the height where it was placed. ",
+    "bbox": [
+      114,
+      103,
+      882,
+      276
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Protocol ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      295,
+      184,
+      309
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "To perform the test the gymnast, with the weighted belt, was placed in a sitting position in the central part of the platform. The gymnast was placed in a comfortable and suitable position to carry out the LSC, and the height of the rings to the gymnast's grip with horizontal and straight arms was adjusted, ensuring that his body was in contact with the FP only. After the gymnast's approval of his position, the gymnast started the test without exerting force on the rings and on an acoustic signal of the evaluator applied force explosively on the rings to achieve and maintain the position indicated in the shortest time possible. It was clearly indicated to the gymnasts that the application of the force had to be done quickly after the acoustic signal of the evaluator, that is, not to reach the maximum isometric force slowly and progressively, and to maintain the maximum force that they could develop for 5 seconds (Badillo & Serna, 2002). The test was repeated if the gymnast had a contact with any surface other than the force platform and the rings. Each gymnast performed two attempts with a rest period of approximately 3 to 5 minutes between them (Zatsiorsky, 1989) and the trial with the maximum force was selected for further analysis. ",
+    "bbox": [
+      114,
+      311,
+      882,
+      518
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The justification of the use of the weighted belts was based on trying to avoid the possibility of losing the record of vertical force (Fz) during the test if the gymnast was completely detached from the surface of the platform. The force recording time was programmed for 10 seconds. ",
+    "bbox": [
+      116,
+      537,
+      883,
+      588
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Variables ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      608,
+      189,
+      623
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The following variables were determined and calculated: ",
+    "bbox": [
+      116,
+      625,
+      519,
+      641
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Maximum Isometric Force (MxIF): On registering a movement in which the registered force decreases due to the liberation of the weight of the gymnast. Thus, the MxIF was the lowest value of force registered.   \nMean Isometric Force (MnIF): The average value of the isometric force calculated for a duration of 2 seconds in which the lowest standard deviation was registered (that is, the 2 second period in which the gymnast was the most stable). This duration corresponds to the regulation of the Score Code of the Male Artistic Gymnastics (Dunlavy et al., 2007; Fédération Internationale de Gymnastique, 2017). ",
+    "bbox": [
+      138,
+      660,
+      883,
+      801
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Both the MxIF and MnIF were normalized to the body mass of the gymnast, and their values expressed in N/kg. ",
+    "bbox": [
+      114,
+      818,
+      880,
+      853
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      446,
+      59
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "VOLUME 12 | ISSUE 1 | 2017 | 261 ",
+    "bbox": [
+      593,
+      915,
+      864,
+      933
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_2442094/auto/images/5569e9ad0bd3a5b3fbcc83b9d0cfcc29abe9917c01c3ea155c11eb8587a30f54.jpg",
+    "image_caption": [
+      "Figure 2. The initial position of the gymnast on the force platform and the hold of the rings without applying force. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      83,
+      880,
+      526
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Statistical analysis ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      580,
+      263,
+      597
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The data collected was organized based on the group the gymnast belonged to (P or NP) and a student ttest was carried out between the two groups using SPSS (IBM Technologies, Chicago, USA). A confidence interval of $9 5 \\%$ was assumed. Effect sizes were expressed based on Cohen´s d (Cohen, 1992) where ${ \\mathsf { d } } =$ 0.2, 0.6 and 0.8 represented thresholds for small, medium and large differences respectively. Statistical power $( 1 - \\beta )$ was determined using G\\*Power (Faul, Erdfelder, Lang, & Buchner, 2007). The value of statistical power varied from 0 to 1, with a value closer to 1 indicating a high power. ",
+    "bbox": [
+      116,
+      598,
+      882,
+      702
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "RESULTS ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      718,
+      192,
+      736
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Three phases were observed in the F-t curve (Figure 3): ",
+    "bbox": [
+      116,
+      755,
+      516,
+      772
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Phase 1. Basal weight register. An approximate recording time of 3 seconds before hearing the acoustic signal, in which the gymnast was sitting in the FP without applying force. The register appeared as a horizontal line with a value approximately similar to the weight of the gymnast. Phase 2. Explosive application of force. After the acoustic signal, the gymnast applied force explosively on the rings. It was reflected on the F-t graph as a slope that corresponds to a drop in the force registered, corresponding to the moment of release of weight by the gymnast. ",
+    "bbox": [
+      114,
+      790,
+      857,
+      897
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2017 University of Alicante ",
+    "bbox": [
+      696,
+      919,
+      870,
+      933
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "262 | 2017 | ISSUE 2 | VOLUME 12 ",
+    "bbox": [
+      137,
+      915,
+      413,
+      933
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      114,
+      45,
+      446,
+      59
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Phase 3. Isometric force application phase. In this phase, the gymnast reached his maximum isometric strength (MxIF) and tried to maintain this level for 5 seconds. Graphically, it was represented as a zone of registration close to the zero line. ",
+    "bbox": [
+      143,
+      85,
+      883,
+      138
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_2442094/auto/images/e99bd168c1f210180c5510c2cfdf25debf1c23999c0a55f31629054d2581991e.jpg",
+    "image_caption": [
+      "Figure 3. The Force-time curve for a gymnast performing the L-sit cross on the force platform. The different phases and the variables calculated are represented. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      140,
+      171,
+      839,
+      460
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_2442094/auto/images/8f4de6402a6ecd1fab795526b294c36a03ab145be3d578e3629102e0bfe78dd6.jpg",
+    "image_caption": [
+      "Figure 4. Normalized maximum and mean isometric forces for the performers (P) and non-performers (NP) of the L-sit Cross. \\*\\*Significant difference in force with $\\mathsf { p } < 0 . 0 0 1$ , \\*significant difference in force with $\\mathsf { p } < 0 . 0 5$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      169,
+      531,
+      812,
+      825
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "VOLUME 12 | ISSUE 1 | 2017 | 263 ",
+    "bbox": [
+      593,
+      915,
+      866,
+      933
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      114,
+      45,
+      447,
+      59
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The normalized force data for the performers and non-performers of the LSC are shown in Figure 4. Highly significant differences were observed in the maximum isometric force $( \\mathsf { p } < 0 . 0 0 1$ , ${ \\sf d } = 1 . 7 6$ , $1 - \\beta = 0 . 9 6$ , Figure 5) and the mean isometric force $( \\mathsf { p } = 0 . 0 0 2$ , ${ \\sf d } = 1 . 6 3$ , $1 - \\beta = 0 . 9 3 )$ . ",
+    "bbox": [
+      116,
+      84,
+      883,
+      137
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_2442094/auto/images/11571c326ef3c61358289a9661f129633f5f792ae8642e1fdeab66365b0586db.jpg",
+    "image_caption": [
+      "Figure 5. Distribution plot for Maximum Isometric Force, non-performers being represented by the continuous line and the performers by the discontinuous line. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      143,
+      152,
+      846,
+      357
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "DISCUSSION ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      429,
+      217,
+      448
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this study, a comparison of the isometric force generated on a force platform between performers and nonperformers of the LSC in still rings was done. Large differences were found between the performers and the non-performers, indicating that the force generation is an important factor when it comes to execute the LSC. ",
+    "bbox": [
+      116,
+      465,
+      882,
+      517
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The performers were able to generate a maximum isometric force which was slightly greater than the body weight of the gymnast (Figure 4). They were also able to sustain a greater amount of force in the determined duration of the test (Figure 4). These results were similar to those obtained by Bango et al. (2013) who compared the force production in the swallow position in still rings using a similar methodology. ",
+    "bbox": [
+      116,
+      535,
+      882,
+      604
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On comparing the characteristics of the P and NP gymnasts (Table 1), one observes that their body mass were similar and did not correlate with strength elements on still rings as previously shown (Bango et al., 2013; Schärer & Hübner, 2016). However, the P gymnasts were more experienced than the NP gymnasts, highlighting the role that expertise plays in the execution of the LSC, a finding similar to Bango et al. (2013) but contrary to (Hübner & Schärer, 2015) where a homogenous sample of gymnasts participated. A greater experience is probably linked to an improvement in strength levels, as the training of the static hold position is crucial for developing the required strength for elements on rings (Bango et al., 2013; Schärer & Hübner, 2016). Therefore, it appears that the non-performers liberated a much lower level of force (Bango et al., 2013) which indicates that an adequate amount of force is required to accomplish the correct element. ",
+    "bbox": [
+      114,
+      621,
+      883,
+      779
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The LSC requires a high level of relative maximum isometric force being applied in a strength hold positions in order to display a position in the set quality. In addition, this high level of force must be sustained for a period of two seconds to avoid penalisation according to the CP. The gymnastics “cross” is a held isometric strength position considered fundamental to all still rings athletes (Dunlavy et al., 2007). One must remember that according to the CP the LSC is considered the same as the IC, thus the information about the force applied in the LSC is equally important. Apart from offering an alternative of the development of cross, the hip flexion force directs us to a position that has a higher value in the CP, the V-sit Cross (VSC) (Position 15, Group II, Difficulty C) (Fédération Internationale de Gymnastique, 2017). ",
+    "bbox": [
+      116,
+      795,
+      882,
+      901
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      446,
+      59
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "264 | 2017 | ISSUE 2 | VOLUME 12 ",
+    "bbox": [
+      137,
+      916,
+      413,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2017 University of Alicante ",
+    "bbox": [
+      696,
+      919,
+      870,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      84,
+      887,
+      119
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "With adequate instruments a force-time curve in such situations of isometric strength can be obtained (Badillo & Serna, 2002). In gymnasts (Bango et al., 2013) have previously shown how a FP can be used in the gym and during the training process. ",
+    "bbox": [
+      116,
+      136,
+      882,
+      189
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The information provided by the proposed test can cover the needs of the coaches in terms of the information about the assimilation or learning of the technical position by the gymnast. This can be used as an important tool to give feedback to both the coach and the gymnast, and then they could use the information to improve their performance in this position. Hence using a force platform gives an indication of close or far the gymnast is to perform the LSC on still rings, and this study corroborates the use of a single force platform to distinguish between performer and non-performer gymnasts on still ring elements. ",
+    "bbox": [
+      116,
+      205,
+      882,
+      310
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Previous studies (Badillo & Serna, 2002; Bango et al., 2013) calculated the slope of the F-t curve, but this was not done in this study because the information provided by the rate of force development is less reliable from an isometric measurement (Badillo & Serna, 2002). In fact, the previous study on the force production in the swallow showed no significant differences between the performer and non-performer gymnasts. ",
+    "bbox": [
+      114,
+      327,
+      882,
+      397
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "However, the study had its limitations, the variables calculated require data processing which at presently does not allow one to provide instantaneous biofeedback to the gymnast. However, with the improvement and atomization of the data processing, this lengthy period can be reduced drastically. Also, the knowledge and management of software and analysis is important to correctly process the data and interpret the results. ",
+    "bbox": [
+      116,
+      415,
+      882,
+      484
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSIONS ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      501,
+      236,
+      520
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This study shows the difference between performers and non-performers of the L-Sit Cross on the still rings element in artistic gymnastics depends on the isometric strength production level by the gymnast, which was linked to the experience of the gymnasts. The use of a single force platform can provide the gymnast and coaches with sufficient information about how close a gymnast is to performing the LSC, and can be used to monitor the training process in the case of less experienced gymnasts. This paves the way for future studies to measure the isometric force in strength hold position in the V-sit Cross using a similar methodology. ",
+    "bbox": [
+      116,
+      536,
+      883,
+      642
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      659,
+      227,
+      676
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. Araújo, C. (2004). Manual de ayudas en gimnasia (Bicolor).   \n2. Arkaev, L., & Suchilin, N. G. (2004). How to create champions: the theory and methodology of training top-class gymnasts.   \n3. Badillo, J. J. G., & Serna, J. R. (2002). Bases de la programación del entrenamiento de fuerza (Vol.   \n308): Inde.   \n4. Bango, B., Sillero Quintana, M., & Grande Rodriguez, I. (2013). New tool to assess the force production in the swallow. Science of Gymnastics Journal, 5(3), 47-58.   \n5. Bernasconi, S., Tordi, N., Parratte, B., Rouillon, J. D., & Monnier, G. (2004). Surface electromyography of nine shoulder muscles in two iron cross conditions in gymnastics. J Sport Med Phys Fit, 44(3), 240. ",
+    "bbox": [
+      142,
+      694,
+      885,
+      868
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "VOLUME 12 | ISSUE 1 | 2017 | 265 ",
+    "bbox": [
+      593,
+      915,
+      866,
+      933
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      116,
+      45,
+      447,
+      59
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2017 University of Alicante ",
+    "bbox": [
+      696,
+      917,
+      870,
+      933
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "266 | 2017 | ISSUE 2 | VOLUME 12 ",
+    "bbox": [
+      137,
+      915,
+      413,
+      933
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF HUMAN SPORT & EXERCISE ",
+    "bbox": [
+      611,
+      45,
+      882,
+      58
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Bango et al. / Analysis of force production in L-Sit Cross ",
+    "bbox": [
+      114,
+      45,
+      447,
+      59
+    ],
+    "page_idx": 9
+  }
+]

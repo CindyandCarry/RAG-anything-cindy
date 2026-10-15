@@ -1,0 +1,2421 @@
+[
+  {
+    "type": "text",
+    "text": "Bioenergy utilization for a low carbon future in the UK: the evaluation of some alternative scenarios and projections ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      150,
+      747,
+      248
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Patrick E. Allen1 and Geoffrey P. Hammond1,2\\* ",
+    "bbox": [
+      92,
+      258,
+      433,
+      275
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      308,
+      171,
+      324
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Energy security and climate change mitigation are two of the most significant challenges facing governments in countries across the world. The United Kingdom (UK) government therefore passed the 2008 Climate Change Act that legally commits Britain to reducing ‘greenhouse gas’ (GHG) emissions by $8 0 \\%$ over 1990 levels by the year 2050. Bioenergy (as a potentially low carbon and renewable energy source) is recognised as having the potential to contribute to mitigating GHG emissions and, through utilising domestic biomass resources, can help Britain reduce its reliance on fuel imports and thereby enhance energy security. In order to help guide the UK towards achieving its ambitious targets, a number of forecasting studies have been carried out, each proposing different pathways to securing its 2050 GHG emissions reduction target. The extent to which bioenergy can contribute to future energy supply is appraised, given the biomass resources available to Britain. Analysis of three notable low or zero carbon energy scenario sets developed by, respectively, the British Government’s Department of Business, Energy and Industrial Strategy (BEIS), the UK Energy Research Centre (UKERC), and the Centre for Alternative Technology (CAT) enabled a comparative evaluation to be made of each projection and their realism. They reflect alternative modelling approaches that seek to meet the statutory 2050 carbon reduction target (BEIS and UKERC), to that (by CAT) of fully decarbonising Britain by 2030. The spotlight is on the use of dedicated energy crops and their implications, with a particular emphasis on the critical factors and issues of land availability, conversion technologies [including bioenergy carbon capture and storage (BECCS)], and foreign imports. Likewise, the deployment of bioenergy resources may have significant deleterious impacts in terms of direct and indirect land use change, loss of biodiversity and the impairment of eco-system services, and competition with food production. A ‘gap analysis’ leads to recommendations for the improvement of the next generation scenarios and forecasts in order to provide more realistic projections for bioenergy uptake in the UK, although the lessons learned are applicable across much of the industrialised world. It was found that while all three low or zero carbon scenario studies had internal shortcomings from a bioenergy perspective, the analysis by BEIS stood out as having the greatest level of realism due to the account given to many of the critical factors and underlying issues relating to bioenergy uptake. ",
+    "bbox": [
+      102,
+      331,
+      895,
+      681
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Bioenergy, Biofuels, Scenarios, Futures, Projections, Policy implications, Sustainability, United Kingdom ",
+    "bbox": [
+      102,
+      687,
+      865,
+      702
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\\* Correspondence: G.P.Hammond@bath.ac.uk 1 Department of Mechanical Engineering, University of Bath, Bath BA2 7AY, UK 2 Institute for Sustainable Energy & the Environment (I•SEE), University of Bath, Bath BA2 7AY, UK ",
+    "bbox": [
+      92,
+      827,
+      487,
+      884
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 BMC Energyhttps://doi.org/10.1186/s42500-019-0002-9 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      63
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BMC ",
+    "bbox": [
+      105,
+      892,
+      280,
+      929
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. ",
+    "bbox": [
+      300,
+      896,
+      875,
+      946
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "COMM EN TARY Open Access ",
+    "bbox": [
+      94,
+      110,
+      907,
+      134
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Check for updates ",
+    "bbox": [
+      833,
+      143,
+      904,
+      196
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BMC Energy ",
+    "bbox": [
+      670,
+      37,
+      907,
+      73
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      108,
+      191,
+      122
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Energy sources and climate change ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      125,
+      334,
+      137
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Energy services underpin human development, but they also put at risk the quality and longer-term viability of the biosphere as a result of unwanted or ‘second order’ effects [40]. Arguably the most significant of these side-effects emanate from changes in atmospheric concentrations of ‘greenhouse gases’ (GHGs) that affect the energy balance of the global climate system, and are arguably the key environmental burden constraining moves towards global sustainability. Carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ emissions represent the principal GHG having an atmospheric residence time of about 100 years [40]. Human activities have led to quite dramatic increases since 1950 in the ‘basket’ of GHG originally incorporated in the Kyoto Protocol; concentrations rising from $3 3 0 \\mathrm { p p m }$ to about $4 3 0 \\mathrm { p p m }$ presently [53]. The most recent (2013) scientific assessment by the Intergovernmental Panel on Climate Change (IPCC) asserts that it is ‘extremely likely’ that humans are the dominant influence on the observed global warming since the mid-twentieth century [53]. Thus, human activities lead to the emission of $\\mathrm { C O } _ { 2 }$ (and other GHGs) that, in turn, trap long-wave thermal radiation from the Earth’s surface in the atmosphere. The IPPC suggest that these are the main cause of rises in climatic temperatures [53]. The subsequent 2015 Paris Agreement following the COP21 meeting in that city aims to keep temperatures “well below $2 ^ { \\circ } \\mathrm { C }$ above pre-industrial levels and to pursue efforts to limit the temperature increase to $1 . 5 \\mathrm { ^ \\circ C }$ above pre-industrial levels” (see, for example, [5]). However, bottom-up pledges received by countries prior to the Paris Conference [the so-called ‘Intended Nationally Determined Contributions’ (INDCs)] for national GHG mitigation efforts are expected by analysts of the United Nations Framework Convention on Climate Change (UNFCCC) to result in a warming of around $2 . 7 ^ { \\circ } \\mathrm { C }$ . So the world still faces a significant challenge of reducing GHG emissions further in order to bring global warming into line with the aspirations in the Paris Agreement. ",
+    "bbox": [
+      94,
+      130,
+      487,
+      717
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "End-use energy demand from the domestic, service, industrial and transport sectors of the United Kingdom of Great Britain and Northern Ireland (UK) economy give rise to approximately $6 1 \\%$ of $\\mathrm { C O } _ { 2 }$ emissions [22]. [The transport sector is often separated from the energy system, but contributes around $2 5 \\%$ of these emissions.] In contrast, some $3 7 \\%$ of $\\mathrm { C O } _ { 2 }$ emissions can presently be attributed to energy and power supply-side. The UK Government’s Committee on Climate Change [10] – an expert, independent statutory public body – recommended the adoption of a target of an $8 0 \\%$ reduction in GHG emissions (against 1990 levels) by 2050 in order to militate against anthropogenic climate change from such human activities. This was incorporated in the Climate ",
+    "bbox": [
+      94,
+      717,
+      487,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Change Act 2008 [51], and is broadly consistent with $2 ^ { \\circ } \\mathrm { C }$ of global warming. Recently the UK Government asked the CCC to give it advice on possible tightening of the 2050 target in light of the Paris Agreement [5], and the aspiration of restricting global warming to $1 . 5 ^ { \\circ } \\mathrm { C }$ above pre-industrial levels. The CCC argued, in any event, that the steepest reductions in GHG emissions must occur before 2030. ",
+    "bbox": [
+      510,
+      108,
+      905,
+      229
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Looked at from a global perspective, human beings were almost completely dependent on finite fossil and nuclear fuels for energy resources at the turn of the Millennium [see Fig. 1 [47]]; amounting to about 77 and $7 \\%$ of primary energy needs respectively [27]. ‘Traditional’ renewable energy sources, such as burning fuelwood and dung or using water and windmills, accounted for $1 1 \\%$ of these worldwide requirements. Large-scale hydroelectric power contributed $3 \\%$ , and other renewables (including modern wind turbines and liquid biofuels) contributed just $2 \\%$ . Sustainable development in a strict sense requires a reversal of these roles, but it is unlikely that renewable energy technologies (RET) could meet a high proportion of industrial countries’ energy demand before at least the middle of the twenty-first century [79]. This is partly due to the conflict between the needs of environmental sustainability and the downward economic pressures on energy prices arising from moves towards energy market liberalisation in the industrialised world. However, the British policy incentives for RET have recently been significantly weakened with a result that Geels et al. [30] believe it is unlikely that the UK will meet its current renewable electricity target of $3 0 \\%$ by 2020 under the (pre-Brexit) European Union agreement. Likewise, the uptake of new nuclear power stations and carbon capture and storage (CCS) facilities coupled to fossil-fuelled power stations and industrial process plants have been significantly delayed in comparison with what was envisaged in the original version of the UK Carbon Plan [22]; superseded by the UK Government’s recent Clean Growth Strategy [14, 52]. ",
+    "bbox": [
+      510,
+      229,
+      904,
+      700
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The world has undergone various cycles or energy transitions between differing energy sources since the start of the Industrial Revolution (c. 1760–1840). These so-called Kondratieff long-waves [66, 71] are depicted in terms of world primary energy shares in Fig. 1 [47], alongside future pathways out to 2050 as suggested by the Shell ‘Dynamics as Usual’ Scenario [15]. ‘Traditional’ energy sources include animal manure, fuel wood, water wheels, and windmills. Over the forthcoming 30 years or so there could be a significant growth in energy demand, resulting mainly from the economic development of rapidly industrialising countries (such as China and India). The depletion of finite fossil fuel resources (like oil and natural gas), and the need for climate change mitigation, will therefore require to be offset by a portfolio of countervailing energy strategies: energy demand reduction and energy efficiency improvements, CCS from fossil fuel power plants, and a switch to other low or zero carbon energy sources; various sorts of renewables (including, potentially, liquid biofuels for transport) or nuclear power [see again Fig. 1 [47]]. ",
+    "bbox": [
+      510,
+      702,
+      905,
+      927
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Page 2 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/6d447bc1f169920a564606cc9d133a9a1eb166f4cc60facb3d32f3c6be07cdf2.jpg",
+    "image_caption": [
+      "Fig. 1 World primary energy shares 1850–2050: future projections based on the Shell ‘Dynamics as Usual’ Scenario. [Source: Hammond and Waldron [47]; produced from historic data collated by Nakicenovic et al. [71] and a futures scenario devised by Davis [15]] "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      115,
+      806,
+      455
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      503,
+      487,
+      593
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy resources for use in the UK energy and transport sectors ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      611,
+      433,
+      639
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In order to achieve the targets set out in the UK Climate Change Act [51], it is necessary to drastically reduce energy demand, whilst also moving away from a fossilfuelled energy system and towards the use of a much greater proportion of low carbon or renewable energy sources. One such renewable source is bioenergy; defined as energy from any fuel that is obtained from biomass resources [58]. The latter are organic matter derived from living, or recently living, organisms that could include both animal and plant or vegetable-derived material, including animal waste [61, 73]. The combustion of this biomass is sometimes considered to be ‘carbon neutral’, because the release energy is assumed to be equal to that sequestered from the atmosphere during its cultivation [1, 73]. Biomass provides two main routes to mitigating climate change: its growth removes $\\mathrm { C O } _ { 2 }$ from the atmosphere, and then stores it over long time periods in soils, trees and other plants [12]. In reality, this mitigation potential depends on whether or not the biomass is managed appropriately (i.e., ‘sustainably’). Only then can it deliver significant net reductions in $\\mathrm { C O } _ { 2 }$ emissions when compared to fossil fuels [1, 67]. Likewise, bioenergy has the potential to contribute to future UK energy services for heat, electricity and transport. These can constitute solid and liquid biofuels, as well as biogas. The so-called first generation biofuels (FGB) are produced mainly from food crops. They are restricted in terms of their ability to meet targets for oil-product substitution (without threatening food supplies and biodiversity), as well as reductions in GHG emissions [42, 73]. In contrast, more advanced or second generation biofuels (SGB) are generally produced from agricultural or crop ‘wastes’ [such as wheat straw [46]] and from non-food energy crops, which significantly reduces these negative impacts [42, 73]. Potential feedstocks and conversion routes [44] therefore need to be assessed against the full range of sustainability considerations and over the full life-cycle of the biofuel supply chain [25, 43, 81]: from ‘field-to-forecourt’ or ‘seed-to-wheel’. Only in this way will the true consequences of a given biofuel – environmental, economic and social - be determined [43]. ",
+    "bbox": [
+      94,
+      640,
+      487,
+      927
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      503,
+      904,
+      836
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Biomass electricity generation accounted for $6 \\%$ of the Britain’s power supply in 2017, whilst the corresponding heat generated from biomass was around $8 \\%$ of overall heat demand, with liquid biofuels accounting for some $3 \\%$ of the UK’s road transport fuel [17, 78]. Electricity generation from renewable sources in Britain was incentivised via the introduction of the Renewables Obligation, which obliges UK electricity suppliers to source a fixed percentage of their electricity from renewable sources [1, 72]. Bioenergy producers have been remunerated for supplying electricity to the distribution grid via a ‘Feed-in Tariff’ (FiT) since April 2010, and an analogous ‘Renewable Heat Initiative’ (RHI) from April 2011 [22]. The British Government set up the ‘Office for Renewable Energy Deployment’ (ORED) in July 2009 to co-ordinate actions aimed at achieving its 2020 renewable energy targets [1, 20]. ORED aims to stimulate investment and develop supply chains in all RETs, and has a specific objective to encourage and enable more use of ‘sustainable bioenergy’ [20]. The European Union (EU) have viewed adoption of liquid biofuels in the transport sector [44] as a policy intervention for meeting climate change mitigation targets, enhancing regional energy or fuel security, and contributing to rural development. The latter could be aided by the provision of an alternative source of income for, otherwise depressed, agricultural communities from the production of biomass. Such biomass resources can be converted into premiumquality liquid biofuels and biochemicals [36, 88]. Thus, bioethanol and biodiesel hold out the prospect of retaining the existing transport infrastructure (e.g., refuelling or ‘petrol’ stations), in contrast to other potentially low carbon options, such as hydrogen-fuelled or electric vehicles. That has significant benefits in terms of limiting capital expenditure and the potential speed of take-up. Nevertheless, the deployment of bio-based products may have significant deleterious impacts in terms of direct and indirect land use change, loss of biodiversity and the impairment of eco-system services [78, 81, 88], and competition with food production. ",
+    "bbox": [
+      510,
+      839,
+      904,
+      927
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Page 3 of 24 ",
+    "bbox": [
+      831,
+      39,
+      905,
+      50
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      106,
+      489,
+      624
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The issues considered ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      641,
+      243,
+      654
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In the light of the above discussion, the extent to which bioenergy can contribute to future UK energy supply is appraised, given the resources available to the Great Britain and Northern Ireland. Analysis of three notable low or zero carbon energy scenario or pathway sets produced by, respectively, the British Government’s Department of Energy $\\mathcal { E }$ Climate Change (DECC) [which was merged in 2016 with the then Department for Business, Innovation $\\mathcal { E }$ Skills (BIS) to form the Department for Business, Energy & Industrial Strategy (BEIS)] (the DECC 2050 Calculator; see [21]), the UK Energy Research Centre (the UKERC Energy 2050 Project; see [83]), and the Centre for Alternative Technology (the Zero Carbon Britain 2030 Project; see [8]) enabled a comparative evaluation to be made of each projection and their realism. They reflect alternative modelling approaches that seek to meet the statutory 2050 carbon reduction target (DECC/BEIS and UKERC) to that of fully decarbonising Britain by 2030 (CAT). The spotlight of the present study is on the use of dedicated energy crops and their implications, with a particular focus on land availability, conversion technologies, and foreign imports. A ‘gap analysis’ leads to recommendations for the improvement of the next generation forecasts, pathways or scenarios in order to provide more realistic projections for bioenergy uptake in the UK, although the lessons learned are applicable across much of the industrialised world. The findings are then analysed in the context of contemporary developments in energy, and particularly bioenergy, policies. ",
+    "bbox": [
+      94,
+      655,
+      487,
+      927
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      108,
+      904,
+      274
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Sustainable bioenergy – the policy landscape ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      291,
+      865,
+      305
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A simplified model of UK energy flows is illustrated in Fig. 2 [40]. It should be noted that heat is wasted and energy is ‘lost’ at each stage of energy conversion and distribution, particularly in the process of electricity generation. However, the schematic energy flow diagram shown in Fig. 2 hides many feedback loops in which primary energy sources (including fossil fuels, uranium ore, and hydro-electric sites) and secondary derivatives (such as fossil-fuelled and nuclear-generated electricity) themselves provide upstream energy inputs into the ‘energy transformation system’ [85]. The latter is that part of the economy where a raw energy resource is converted to useful energy, which can meet downstream ‘final’, or ‘end-use’ demand. ‘Renewable’ energy sources are taken to mean those that are ultimately solar-derived: mainly solar energy itself, biomass resources, and wind power. In 2016 natural gas amounted to around $3 9 . 8 \\%$ of UK inland energy consumption, whilst coal had fallen to just $6 . 4 \\%$ , primary electricity (mainly nuclear) amounted to $1 1 . 2 \\%$ , bioenergy and biogenic waste (that produced or brought about by living organisms) was $7 . 4 \\%$ [17]. Oil (i.e., ‘petroleum’) dominated the road transport sector (where it cannot easily be substituted by alternatives) with $3 5 . 3 \\%$ of total UK end-use consumption in 2016 [17]. Electricity as an energy vector currently make a relatively small contribution to the transport sector; around half the delivered energy for railway trains. It might be enabled by better energy storage devices [e.g., batteries [41]] and fuel cells, particularly for road transport, going forward. ",
+    "bbox": [
+      510,
+      308,
+      905,
+      744
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The UK Government’s Committee on Climate Change published a review of bioenergy use and its longer-term sustainability in a British context [11]. [This was recently updated [12].] Obviously, the focus of the CCC study was on the potential of bioenergy to contribute to achieving carbon targets in a way that is compatible with food supply, as well as other environmental and social objectives [11, 12]. The CCC observed that suitable biomass resources are relatively scarce in the UK, and should therefore be mainly reserved for carbon sequestration purposes. These included the use of wood in construction and in connection with CCS in industry and in power generation [bioenergy CCS (or BECCS) [33]]. It recommended that the British Government should plan for a bioenergy penetration of no more than around $1 0 \\%$ of primary energy demand out to 2050. The Committee on Climate Change argued in their initial Bioenergy Review [11] that the near-term use of biofuels for surface transport should be restricted to ‘sustainable’ (i.e., second generation) biofuels. In the longer term, they recommended that liquid biofuel use for transport should decrease, and that biomass resources should be diverted to higher-valued sectors (see also [36]). These recommendations are potentially controversial [42], and were followed by the UK Government’s revised ‘Bioenergy Strategy’ [23]. This suggested that about $8 \\mathrm { - } 1 1 \\%$ of UK primary energy demand might be met by sustainable bioenergy in 2020, and $1 2 \\%$ by 2050. But this would depend on getting the mix of low-risk bioenergy technologies correct, which in turn would require the establishment of improved sustainability standards to be agreed at the EU level, the boosting of feedstock production, and an incremental increase in impact monitoring. It was also acknowledged that estimates of future bioenergy penetration was highly depend on the availability of sustainable feedstocks, i.e., those that are not extracted from high carbon stock land (e.g., peatland or natural forests) or that are needed for competing purposes (such as food production). The ‘Bioenergy Strategy’ [23] was based around four ‘principles’ aimed at delivering genuine cost-effective, carbon reductions in Britain, whilst maximising overall benefits and minimising costs (including impacts on food security and biodiversity). This strategy advocated that such policies should be revisited at about five yearly intervals. The published document incorporates a response to the Committee on Climate Change’s Bioenergy Review [11] that was generally in agreement with the recommendations in the latter. The UK Government’s UK and Global Bioenergy Resource Model (an updated feedstock availability model) suggested that there are substantial quantities of indigenous biomass and biogenic waste available even accounting for the application of more stringent sustainability and land use criteria (see [76]). The total 2030 UK bioenergy resources might be equivalent to some 235–310 terawatt-hours (TWh); with accessible resources of perhaps 160–185 TWh. But many industrial sectors will be competing for this resource alongside, for example, power generation. This is likely, in any case, to drive up biofuel prices. The Committee subsequently argued [12] that the uptake of BECCS to produce power, hydrogen, aviation biofuels, or in industry applications would deliver more in terms of GHG abatement than its use in other energy systems (including road transport). Thus, the CCC reiterated that bioenergy resources could be produced and used in ways that are both low-carbon and sustainable [12]. However, they suggested that improved governance would be critical to ensuring that this happens in practice. In this way, bioenergy could make a significant contribution to mitigating climate change, but otherwise it risks being “worse for the climate than using fossil fuels”. Thus, the British Government has indicated that it will continue to evaluate the scope for future bioenergy penetration as it approached and moved beyond 2020 [23]. ",
+    "bbox": [
+      510,
+      748,
+      904,
+      926
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Page 4 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/ea294cc0ab87504ee601e25511d4865923d021753eb805d593236628340fdcec.jpg",
+    "image_caption": [
+      "Fig. 2 Simplified representation of the UK energy system. [Source: Hammond [40]] "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      112,
+      786,
+      481
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      520,
+      487,
+      927
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      521,
+      904,
+      927
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Page 5 of 24 ",
+    "bbox": [
+      831,
+      39,
+      905,
+      50
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      108,
+      487,
+      213
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy, agricultural land and feedstocks The availability of agricultural land ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      230,
+      433,
+      259
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "One of the most critical factors in projecting bioenergy resources to 2050 is the availability of agricultural land and its suitability for the cultivation of bioenergy crops [44, 56, 84, 86]. The definition of ‘availability’ itself is ambiguous and open to interpretation, while there are many uncertainties surrounding the uptake of bioenergy and the implications for land use in Britain. Bioenergy can be derived from a wide variety of biological resources, some of which do not directly require a significant uptake of land. Typically, energy derived from wastes, such as Municipal Solid Waste (MSW) and Commercial $\\mathcal { E }$ Industrial (C&I) Waste, do not have an associated land use. Similarly, agricultural slurries or farm wastes, such as animal manures, give rise to only indirect land use associated with the grazing livestock (e.g., cattle and sheep). These biogenic wastes will be disregarded here, because the focus is on land use from dedicated energy crops, such as Miscanthus and Short Rotation Coppice (SRC). ",
+    "bbox": [
+      94,
+      260,
+      487,
+      532
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "There exist a number of estimates of future land uptake for energy crops (e.g., [7, 84]). These indicate that the range of potential land use is broad and very uncertain. Table 1 provides an indication of the UK land available for bioenergy uptake from a number of sources available in the literature (at around the time of the publication of the UK energy scenario sets evaluated here). It is immediately apparent from this table that there is a significant variation in projections between these studies. The estimates of UK land available for bioenergy production vary from 1.0–5.5 million hectares (Mha). Hammond et al. [44] suggested that the land available to meet the automotive biofuels requirement for the UK Renewable Transport Fuel Obligation (RTFO) alone was in the region of 1.73 Mha, based on an early Defra [18] inventory. This disparity in land availability estimates was highlighted more recently by Slade et al. [84] and Spiers et al. [86], who discussed the reasons for the differences. Each study tended to take a resource focused approach, rather than one based on the likely market demand for co-products that could be produced on the land. They found that in previous studies, a large number of differing assumptions had been made about availability of agricultural land or resource inventories, the extent that could be employed for cultivating biomass, and the competition for land with other (particularly food) crops. Slade et al. [84] also found that the various studies utilised different definitions and boundary conditions, making comparisons between them extremely difficult (see also [86]). Thus, the range of resource estimations differ markedly between studies, despite many of them being based on the same underlying data sets. Consequently, later reports were found to be highly derivative of earlier ones. ",
+    "bbox": [
+      94,
+      535,
+      487,
+      715
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      108,
+      904,
+      426
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/eee1b2b68a26ee99ef4949abf428e18387883f7e88dcf921212b3b51a63071b9.jpg",
+    "table_caption": [
+      "Table 1 UK Bioenergy Land Availability Estimates/Projections "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Source</td><td>Available Land (Mha)</td><td>Time Frame</td><td>Comments</td></tr><tr><td>Defra [19]</td><td>1.1</td><td>2020 - Future</td><td>350,000 ha for the growth of perennial energy crops in addition to 740,000 ha arable crops for 50% of RTFO (5% of transport fuels by 2010)</td></tr><tr><td>EEA [26]</td><td>1.6</td><td>2030</td><td>Takes no account of conversion of permanent grassland</td></tr><tr><td>RCEP [80]</td><td>1.0-5.5</td><td>2050</td><td>More ambitious yields,conversion effciency and forest fuel availability will move figure towards 1 Mha</td></tr><tr><td>Haughton et al. [49]</td><td>3.1</td><td>Future</td><td>Models planting in &quot;environmentally acceptable locations thereby avoiding unsustainable trade-offs&quot;</td></tr><tr><td>Lovett et al. [63]</td><td>3.1</td><td>Future</td><td>Report solely focused on cultivation of Miscanthus,and filters out Grades 1 and 2agricultural land</td></tr><tr><td>ADAS [2]</td><td>4.2</td><td>Future</td><td>Comprehensive assessment of technical land availability from lower grade arable and marginal land. Highest possible scenario to be 4.2 Mha</td></tr></table>",
+    "bbox": [
+      90,
+      743,
+      907,
+      925
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Energy crops and crop yields ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      444,
+      707,
+      456
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Potential increases in yields are an important factor in determining the land that can be employed for the cultivation of dedicated energy crops, such as Miscanthus giganteus (hereafter termed ‘Miscanthus’), SRC Willow (Salix spp.), or Poplar (Populous spp.). The former is a woody, perennial, rhizamatous grass hybrid capable of growing between $2 . 5 \\mathrm { m }$ and $3 . 5 \\mathrm { m }$ in height. Its progenitor plants, Miscanthus sinensis and Miscanthus sacchariflorus, are native to Japan. Miscanthus retains nutrients well, and does not require large volumes of nitrogen fertilizer. It is suggested that in the future Miscanthus yields could be in excess of 15 oven-dry tonnes (odt) per hectare [82], although this is on the highest quality arable land that is most likely to be reserved for cultivating food crops. This represents a large improvement on current yield estimates that have been discussed by Bauen et al. [7], where a conservative estimate of baseline yield averages is given as ",
+    "bbox": [
+      510,
+      459,
+      905,
+      715
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Page 6 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "10 odt per hectare. The broad chemical composition of Miscanthus on a percentage basis is cellulose $4 4 \\%$ , hemicellulose $2 4 \\%$ , and lignin $1 7 \\%$ . It has a net calorific (or ‘lower heating’) value of about 17 GJ per odt. In contrast, SRC are tree species suitable for harvesting on a shortened cycle of between 2 and 5 years. McKendry [68] reviewed a range of European yields for SRC Willow of between 10 and 15 odt per hectare, while research by Aylott et al. [6] suggests figures of between 2 and 13.5 odt per hectare. The rough chemical composition of SRC willow is cellulose $4 0 \\%$ , hemicellulose $3 0 \\%$ , and lignin $3 0 \\%$ , with a net calorific value of around $1 8 . 5 \\ \\mathrm { G J }$ per odt. An increase in yield above 15 odt per hectare will clearly be beneficial for future bioenergy production. It is expected that yields for energy crops will increase through biotechnological and genetic engineering advances in the coming decades leading towards 2050 [82]. Whether crop yields would increase indefinitely into the future is difficult to say with any certainty, and is very much dependent on developments in crop genetics. These will give rise to second (and higher) generation biofuels. Obviously with a greater yield of a crop per hectare, more energy can be produced using the same land area or, alternatively, the required land area could be reduced whilst still achieving the same bioenergy production. ",
+    "bbox": [
+      94,
+      110,
+      487,
+      487
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Socio-economic implications of bioenergy developments ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      505,
+      477,
+      517
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Future bioenergy uptake will depend heavily on the reaction of the public to adopting new technologies that may have an effect on the landscape in the UK. In order for ambition to become reality, there needs to be a level of public acceptance and understanding and government support for bioenergy technologies [25]. If this fails to materialise, the result will be restricted land availability for cultivating bioenergy crops and increased pressure on other renewable options. One potential concern surrounding the uptake of bioenergy crops in the UK is the associated visual impact and change of landscape aesthetics. Miscanthus is not a crop native to the UK, and can grow to $3 . 5 \\mathrm { m }$ in height in a single year [77], it is suggested that the unfamiliarity of the crop in the UK may result in public objection [89]. However, experience in Austria and Sweden, where bioenergy use is well established, suggests that further uptake will be welcomed by broader society [80]. ",
+    "bbox": [
+      94,
+      518,
+      487,
+      791
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In addition to the concerns over public reactions to landscape changes and increased uptake of bioenergy, it is important that consideration is given to the incentives for potential suppliers to invest in developing bioenergy feedstocks, especially in the absence of certainty regarding their future. Research by the UK-based International Institute for Environment and Development suggested that it could be compounded by the fact that turning land over to perennial energy crops represents a long-term commitment of around 15–20 years. A supplier is then restricted to one crop throughout this period; as opposed to an arable crop that could be changed year-on-year based on its economic output [59]. Thus, support policies and incentives will inevitably be required in order to encourage bioenergy uptake into the future [80]. Adams et al. [1] also noted that financial considerations - the ability of farmers/producers to ‘make a profit’ - would be the most significant driver for the development of bioenergy, although uncertainty still surrounds the possible return available from biomass crops in the UK. ",
+    "bbox": [
+      94,
+      793,
+      489,
+      929
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      108,
+      904,
+      274
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy conversion processes Background ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      291,
+      761,
+      320
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy conversion processes are the methods by which the energy stored within biomass can be released [44, 69]. The complex and varied nature of bioenergy means that unlike other renewable energy sources, which have one set method of energy generation and mode of output, there are a wide range of bioenergy conversion processes which can deliver energy in many ways (see Fig. 3). These can result in solid, liquid and gaseous fuels, and provide energy across the end-uses of heat, electricity and transport [3]. Conversion processes for releasing the energy from biomass range from simple combustion (i.e., burning wood) to the complex formation of liquid biofuels for transport from lignocellulosic biomass feedstocks [57, 60, 70]. The conversion method used will primarily rely on the required end-use of the biomass; whether it is required to provide heat or power in-situ or to generate gaseous or liquid fuels for use elsewhere [69]. The development of increasingly efficient conversion processes into the future will be a key factor in deciding how limited biomass resources are best utilised. Thus, the conversion methods available are outlined below. Such bioenergy conversion processes can be characterised as thermo-chemical, biochemical and physical-chemical methods. ",
+    "bbox": [
+      510,
+      322,
+      904,
+      684
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Thermo-chemical conversion Direct combustion ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      702,
+      700,
+      730
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Provided a bioenergy feedstock has less than $5 0 \\%$ moisture content, it is suitable for direct combustion. Feedstocks of greater than $5 0 \\%$ moisture content are better suited to biological conversion processes [69]. Biomass combustion then releases thermal energy (i.e., heat) which can be used for various heating applications, such as in the conventional burning of wooden logs. Biomass can also be combusted in a large-scale boiler for electricity generation; often in co-firing with fossil fuels (traditionally coal). ",
+    "bbox": [
+      510,
+      732,
+      905,
+      867
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gasification ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      884,
+      589,
+      897
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gasification converts biomass into a gaseous fuel often referred to as syngas (see again Fig. 3), which can then be used in internal combustion engines, gas turbines, or co-fired in boilers. Biomass feedstock is heated to a high temperature, typically $8 0 0 { - } 9 0 0 ^ { \\circ } \\mathrm { C } ,$ in the presence of limited oxygen [69]. High gross calorific values (GCV), termed higher heating values (HHV) in North America, can be achieved in the product gas by using pure oxygen for the gasification process, but this is electricity intensive and the technology for the oxygen plant requires significant capital investment. Gasification products can also be used to produce liquid fuels through further processing via biomass-to-liquid technologies; allowing the generation of liquid transport fuels from ‘second generation’ lignocellulosic feedstocks, such as perennial grasses, woody perennials and municipal solid waste [45, 57, 60, 70]. ",
+    "bbox": [
+      510,
+      900,
+      904,
+      929
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Page 7 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/fd34fb7e2add9973f3a2226b3114794fef1a87a2339c6c70cc51ec55d9f0ed43.jpg",
+    "image_caption": [
+      "Fig. 3 Schematic representation of various biofuel conversion routes. [Source: Hammond et al. [44]; adapted from Hart et al. [48]] "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      211,
+      106,
+      791,
+      596
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      640,
+      487,
+      867
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Pyrolysis ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      884,
+      151,
+      897
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Similar to gasification, pyrolysis conversion requires the heating of biomass feedstock to high temperatures. ",
+    "bbox": [
+      92,
+      900,
+      487,
+      929
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "However, in this case, it is in the absence of oxygen. Pyrolysis conversion primarily yields liquid fuel (bio-oil; see again Fig. 3), which in some circumstances may be combusted. However, solid biochar and biogas may also be produced depending on the reaction conditions. Solid biochar may then be used as solid fuel for heating or electricity generation. There is potential for bio-oil to be further refined to yield a replacement for transport fuels, but this is not yet developed on a commercial scale [77]). ",
+    "bbox": [
+      510,
+      640,
+      904,
+      791
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Biochemical conversion ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      808,
+      670,
+      821
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Fermentation ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      825,
+      600,
+      836
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Fermentation is the process of producing alcohol from sugars. In the case of bioenergy, fermentation is primarily used to produce bioethanol from sugar and starch feedstocks, such as maize, wheat, sugarcane and sugarbeet (again see Fig. 3). Due to the low sugar content in cellulosic crops, such as perennial grasses or straw [42, 45, 57, 60, 70], bioethanol is more difficult to produce via fermentation. Nevertheless, progress in that direction has recently been made [16, 37, 46, 94]. In order to produce bioethanol from cellulosic crops, the cellulose must first be broken down into sugar through hydrolysis [9]. It is then possible to ferment these sugars in order to produce bioethanol. It has been suggested that hydrolysis of lignocellulosic biomass could lead to low cost and efficient production of bioethanol that may consequently become competitive with fossil fuels within 1–2 decades, or during 2020–2030 [28]. Extensive research on lignocellulosic bioethanol production has been conducted over recent years. This is reflected in a series of substantial published reviews, e.g., Chandel et al. [9]; Mabee et al. [64]; Mood et al. [70]; Gupta and Verma [38]; Khoo [57]; Kumar et al. [60]. ",
+    "bbox": [
+      510,
+      839,
+      904,
+      929
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Page 8 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      40,
+      374,
+      51
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      108,
+      487,
+      350
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Anaerobic digestion ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      375,
+      225,
+      388
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Anaerobic digestion (AD) is the production of biogas from biomass (generally of high moisture content) in the absence of oxygen. Under such anaerobic conditions, bacteria breaks down organic matter to produce biogas, which mainly consists of methane and $\\mathrm { C O } _ { 2 }$ . Biogas or biomethane (see Fig. 3) can then be combusted either to produce heat or electricity, or used as a substitute for natural gas following the removal of $\\mathrm { C O } _ { 2 }$ [69]. AD is particularly suited to wet biomass feedstocks, such as agricultural waste (manures), organic domestic wastes, and industrial wastes [particularly those from food and beverage industries [34]]. However, all biomass types can be digested anaerobically. AD plants are typically located on farms to serve small-scale applications, or on larger scales using waste from food and beverage industry processing to power plants and businesses [34]. There is also the possibility of co-processing waste from several farms along with organic matter redirected from MSW in large centralised AD systems [19]. ",
+    "bbox": [
+      94,
+      389,
+      487,
+      707
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Physical chemical processing Esterification ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      732,
+      289,
+      760
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In contrast to the production of bioethanol through fermentation of sugars, biodiesel – another substitute for liquid transport fuels – may be produced through the process known as esterification (see again Fig. 3). This process involves the extraction of natural oils from feedstocks, such as oilseed rape or the fruits of palm trees (palm oil). Recovered waste vegetable oils can also be used. The extracted oil is then reacted with alcohol to produce methyl ester, i.e., biodiesel [44]. Rapeseed (oily) methyl ester (RME) is currently produced in significant quantities in the EU [28]. ",
+    "bbox": [
+      94,
+      763,
+      487,
+      927
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Future developments in conversion technologies The future context ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      110,
+      842,
+      137
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "It is extremely difficult to say with any certainty which of the various conversion technologies will actually be in use for converting biomass to bioenergy by 2050. There are a large number of variables involved, and the end-use requirements are a key factor [69]. However, it is clear that in order to make the best use of scarce resources, bioenergy will be used for situations where renewable alternatives are not forthcoming [11, 12, 78]. A key area where other renewable technologies may not become available is in transport applications, particularly heavy goods vehicles, aviation and shipping. In order to provide biofuels for these and other transport applications, there is a key requirement to develop conversion processes that can efficiently and cost-effectively produce biofuels from second generation feedstocks. Two important areas for future biofuel development are Fischer Tropsch synthesis (FT) and cellulosic bioethanol. ",
+    "bbox": [
+      510,
+      139,
+      904,
+      396
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Fischer Tropsch synthesis ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      413,
+      675,
+      426
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "FT synthesis uses gases from biomass gasification to produce liquid biofuels that can directly substitute for biodiesel [44]. The advantage of this synthesis process is the possibility of using a wide variety of feedstocks, such as straw and wood residues, that do not compete with food crops [44]. FT synthesis also offers the opportunity to decarbonise the aviation sector as it is possible to create liquid fuels that can be substituted for current aviation fuels [55]. Production of FT liquids or bioethanol from lignocellulosic biomass will offer much better perspectives in the long-term [28]. Table 2 provides an indication of potential performance in the short and longer term of several first and second generation conversion processes for liquid transport fuels. In cases where values are given for fuel and power, it is assumed that by-products or wastes from the conversion process are used to generate heat or electricity. The data has been adapted and augmented from IEA [55] and Faaij [28]. It can be seen that both second generation cellulosic bioethanol and FT liquids are expected show improved efficiencies over the longer term, either through the fuel conversion process itself, or the availability of by-products for generating power. Both are seen (in Table 2) to have high GHG mitigation potential as compared to first generation bioethanol from beet sugar and biodiesel from RME. ",
+    "bbox": [
+      510,
+      430,
+      904,
+      820
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy imports ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      837,
+      657,
+      851
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Solid biomass imports ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      854,
+      662,
+      867
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Given the constraints on domestic bioenergy development in the UK [11, 12, 78], it is likely that future uptake will include a proportion of bioenergy to be imported from abroad. It is particularly difficult to gather complete evidence on the levels of bioenergy imports, but around 1.4 million tonnes of solid biomass are typically co-fired in the UK for electricity production, of which around $5 4 \\%$ was imported [19]. The imported feedstocks predominantly consisted of palm oil residues, olive residues, sunflower pellets and shea meal (SM) from Indonesia, Malaysia, Southern Europe and Africa. In addition to these imports, a significant proportion of the wood used for co-firing has been assumed to be imported, in pellet form, and to a lesser extent, as chippings. Imported palm residues, olive residues, and wood (sawdust pellets and chips) employed for co-firing give rise to the adverse or sustainability concerns summarised and incorporated into Table 3. ",
+    "bbox": [
+      509,
+      869,
+      905,
+      929
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Page 9 of 24 ",
+    "bbox": [
+      831,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/889e7d943d9939421332d119e0e9ec4d96ffd9b457c542706485044dc60840ac.jpg",
+    "table_caption": [
+      "Table 2 Bioenergy Conversion Technologies: Potential Future Developments "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Conversion Technology</td><td colspan=\"2\">Efficiency</td><td>GHG Reduction Contrasted to Conventional Fossil Fuel</td></tr><tr><td>First Generation Biofuels (FGB)</td><td>Short Term</td><td>Long term</td><td></td></tr><tr><td>Bioethanol from Beet sugar</td><td>43%</td><td>43%</td><td>Low-Moderate</td></tr><tr><td>Bioethanol from Sugar Cane</td><td>88 I/t feedstock</td><td>95 I/t feedstock</td><td>High</td></tr><tr><td>Biodiesel from Rapeseed (RME)</td><td>88%</td><td>88%</td><td>Moderate</td></tr><tr><td>Second Generation Biofuels (SGB)</td><td>Short Term</td><td>Long term</td><td></td></tr><tr><td>Cellulosic Bioethanol</td><td>46% (fuel) 4% (power)</td><td>53% (fuel) 8% (power)</td><td>High</td></tr><tr><td>Fischer Tropsch (FT) Liquids</td><td>45% (fuel)</td><td>45% (fuel) 10% (power)</td><td>High</td></tr></table>",
+    "bbox": [
+      90,
+      124,
+      907,
+      312
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      336,
+      487,
+      563
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Liquid biofuel imports ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      581,
+      245,
+      593
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Given the strong need to import biodiesel and bioethanol to meet the needs for transport fuels in the UK, it is now necessary to assess the implications of importing liquid biofuels, particularly palm oil produced in Indonesia and Malaysia, and bioethanol production mainly from sugarcane in Brazil and from corn (i.e., maize) in the USA. It is estimated that demand for biofuels is responsible for the $7 6 \\%$ increase in UK imports of palm, soya and rapeseed oils since around 2005 [74]. Palm oil production gives rise to similar concerns to those associated with solid palm residues (see Table 3), i.e., deforestation and loss of biodiversity, forest fires, air pollution and associated health impacts, and the abrogation of land and social rights. Likewise, bioethanol production creates burdens on the indigenous producer countries, including environmental degradation, food insecurity, and water profligacy. Many of the feedstocks for biofuel production raise concerns about the ‘carbon debt’ caused by release of $\\mathrm { C O } _ { 2 }$ into the atmosphere through the process of land clearing and subsequent cultivation for energy crops. Research by Fargione et al. [29] suggests, for example, that it takes 423 years to repay palm biodiesel $\\mathrm { C O } _ { 2 }$ emissions associated with peatland rainforest, in contrast to 48 years for corn bioethanol from abandoned cropland. ",
+    "bbox": [
+      94,
+      596,
+      487,
+      669
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      337,
+      904,
+      669
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/e68eb63a508a15f5d086057cf2c7f3fc67de9fbc132fabda988d9d9a5f839aae.jpg",
+    "table_caption": [
+      "Table 3 Solid Biomass Imported into the UK and Their Adverse Impacts "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Imported Feedstock</td><td>Sustainability Concerns</td><td>Sources</td></tr><tr><td>Olive residues</td><td>Competition for use to re-fertilise and preserve soil quality at the locality of production</td><td>[89]</td></tr><tr><td rowspan=\"3\">Palm residues</td><td>A by-product of palm oil production which gives rise to various environmental burdens, such as deforestation and loss of biodiversity,forest fires,air pollution</td><td>Present authors</td></tr><tr><td>and associated health impacts,and the abrogation of land and social rights Competition for use as animal (livestock and wildlife)</td><td>[74]</td></tr><tr><td>feedstock at the locality of production Concerns surround net &#x27;greenhouse gas&#x27; (GHG) balance</td><td>[89]</td></tr><tr><td rowspan=\"2\">Wood (chips/pellets)</td><td>after transportation</td><td></td></tr><tr><td>Sourcing from forestry residues may result in degradation of soil quality and threaten biodiversity</td><td>[90]</td></tr></table>",
+    "bbox": [
+      90,
+      715,
+      907,
+      926
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Page 10 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Low carbon futures for the UK energy and transport systems ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      108,
+      425,
+      137
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Low carbon options for the UK Several notable modelling exercises have been undertaken in recent years that were based on low or zero carbon UK energy scenario or pathway sets. These include those developed by the British Government’s former Department of Energy and Climate Change (the DECC 2050 Calculator; see [21]), the UK Energy Research Centre (the UKERC Energy 2050 Project; see the book-length discussion in [83]), and the Centre for Alternative Technology (the Zero Carbon Britain 2030 Project; see [8]; another book-length contribution, albeit self-published). [DECC was merged with the then Department for Business, Innovation & Skills (BIS) in 2016 to form the Department for Business, Energy & Industrial Strategy (BEIS)]. This enables a comparative evaluation to be made of each projection, which are based on alternative modelling approaches that seek to meet the 2050 GHG reduction target (an $8 0 \\%$ fall below 1990 levels in the case of DECC/BEIS and UKERC), to that of fully decarbonising Britain by 2030 (CAT). Nevertheless, Hammond [39] argued that energy projections involve a high degree of uncertainty - forecasting as a “black art”. [Indeed, he suggested that rolling projections using a rather broad, sectoral approach that is continuously updated at not greater than five-year intervals, in a similar manner to econometric forecasts, are more useful for energy planning purposes.] The DECC/BEIS 2050 Calculator is basically an engineering-based, Excel spreadsheet model [inspired by the late DECC/BEIS Chief Scientist, Sir David MacKay; 1967–2016] that is open source and arguably transparent. It is an online platform or tool that allows users to choose their own combination of technologies to attain an $8 0 \\%$ reduction in GHG emissions by 2050 against the 1990 baseline, whilst ensuring that energy supply and demand are balanced. The UKERC Energy 2050 Project [83] brought together a wide range of interdisciplinary researchers to explore the possible development of the UK energy system through to 2050. This involved a three-scenario core set that was underpinned by a cost-optimisation model: the UK MARKAL Elastic Demand [MED] model (the details of which are variously described in [4, 24, 83, 87, 91]). UKERC took “an eclectic approach to scenario building” [83] with a backcasting dimension to achieve a combination of UK energy sector resilience and climate change mitigation. In contrast, the Zero Carbon Britain 2030 (ZCB2030) Project [8] examined how to radically ‘PowerDown’ UK energy, heat and electricity demand – what they viewed as ‘high carbon living’ - through the take-up of a combination of new technology and efficient design within society (by motivating behavioural change), while the country will ‘PowerUp’ its economy by way of the use of renewables to supply the residual energy requirements. Forecasts by UKERC and DECC/BEIS both project scenarios out to 2050, which is the year by which the UK Government is legally committed to achieve $8 0 \\%$ reductions in GHG emissions below 1990 levels. In contrast, CAT’s ZCB2030 scenario only extends out to the year 2030, by which time it is envisaged that the UK can cut all emissions to zero. It is essentially linked to an ‘ethical construct’ that the per capita GHG emissions should ultimately be shared between the nation states of the world on an equal basis. Thus, Zero Carbon Britain offers a much ‘greener’ and more ambitious perspective than studies by UKERC and DECC, due to the ‘deep’ cuts in domestic emissions incorporated into ZCB2030 and also the ‘rapid’ or ‘constrained’ timeframe in which the target is to be achieved. Nevertheless, it will provide an interesting perspective and basis for comparison with the more conservative work of UKERC and DECC. ",
+    "bbox": [
+      92,
+      125,
+      489,
+      926
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      108,
+      905,
+      379
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The extent to which bioenergy can contribute to future UK energy supply is reflected in the three low or zero carbon energy scenario sets outlined above. They represent alternative modelling approaches that seek to achieve the statutory 2050 carbon reduction target [incorporated in the 2008 Climate Change Act [51]; DECC/BEIS and UKERC] to that of fully decarbonising Britain by 2030 (CAT). The spotlight of the present study is on the use of dedicated energy crops and their implications, with a particular focus on land availability, conversion technologies, and foreign imports. These energy scenarios take into account different levels of technical ambition and development across various energy subsectors (outlined, for example, by [40]); such as the development of CCS technology or other factors, including the potential social opposition to the widespread adoption of bioenergy. In order to provide a valuable basis for comparison, a range of pathways indicative of different levels of ambition (low, medium and extended) have been selected from each project or report. This is with the exception of CAT’s Zero Carbon Britain, as this provides only one core scenario – which can be considered to be of extended ambition. Consequently, the various scenarios that form the basis for comparison in the current study are as follows: ",
+    "bbox": [
+      510,
+      384,
+      905,
+      744
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Low ambition: DECC ‘Base’ and the UKERC ‘Reference’ (REF) cases Medium ambition: DECC ‘Spread Effort’ $( S E )$ and the UKERC ‘Carbon Ambition’ (CAM) cases Extended ambition: DECC ‘Solid Biofuel Focus’ (SBF), the UKERC ‘Carbon Super Ambition’ (CSAM), and the CAT ‘Zero Carbon Britain 2030’ cases ",
+    "bbox": [
+      522,
+      762,
+      895,
+      882
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "These scenarios are often referred to with abbreviated names in what follows. An outline of the analysed energy scenarios (and their abbreviations) are depicted in Table 4. The three UKERC core scenarios evaluated here [24, 83, 91] reflect the amount of carbon reduction over the target period out to 2050. Thus, their ‘Reference’ (REF), or ‘low ambition’, case includes “firm and funded” policies incorporated in the UK Government’s 2007 Energy White Paper [50]. It implies $3 0 . 3 \\mathrm { G t C O _ { 2 } }$ of cumulative emissions over the timescale of 2000–2050 [with 2050 total emissions of $5 8 3 . 5 \\ \\mathrm { M t C O _ { 2 } } ]$ . The corresponding values for the more ambitious (‘medium’ and ‘extended’) scenarios were: $C A M 2 0 . 3 9 \\mathrm { G t C O _ { 2 } }$ $[ 1 1 8 . 5 \\mathrm { M t C O _ { 2 } } ]$ and CSAM 17.98 $\\mathrm { G t C O _ { 2 } }$ $\\mathrm { [ 5 9 . 2 \\ M t C O _ { 2 } ] }$ respectively. This amounted in the CAM scenario to a $2 6 \\%$ carbon reduction by 2020 and $8 0 \\%$ by 2050, whereas the CSAM scenario was aimed at achieving a $3 2 \\%$ reduction by 2020 and $8 0 \\%$ by 2050. Similar levels of ambition were incorporated in the DECC scenarios [21], although the CAT ‘Zero Carbon Britain $2 0 3 0 ^ { \\circ }$ case [8] aspired to both ‘deep’ and rapid decarbonisation by 2030. ",
+    "bbox": [
+      510,
+      898,
+      905,
+      927
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Page 11 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/12aeabb6693451817f08fa4ff844ff9e4d8f63368f72c9fb23ede619fc543b8a.jpg",
+    "table_caption": [
+      "Table 4 Outline of the Analysed UK Energy Scenarios "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Scenario</td><td>Abbreviation</td><td>Comments (Sources)</td></tr><tr><td>DECC -&#x27;Base&#x27;</td><td>Base</td><td>Business as usual&#x27; scenario- does not achieve the UK 2050 decarbonisation target [21]</td></tr><tr><td>DECC-&#x27;Spread Effort&#x27;</td><td>SE</td><td>Effortand resources evenly spread across the various energy subsectors to meet 2050 targets [21]</td></tr><tr><td>DECC-&#x27;Solid Biofuel Focus&#x27;</td><td>SBF</td><td>A scenario with strong focus on cultivating solid biofuels for energy [21]</td></tr><tr><td>UKERC-&#x27;Reference&#x27;</td><td>REF</td><td>Continue with firm and funded&#x27; 2007 Energy White Paper policies ([50, 83])</td></tr><tr><td>UKERC -&#x27;Carbon Ambition</td><td>CAM</td><td>Achieves the UK 2050 targets-an 80% reduction in&#x27;greenhouse gas&#x27; (GHG) emissions [83]</td></tr><tr><td>UKERC-&#x27;Carbon Super Ambition&#x27;</td><td>CSAM</td><td>Achieve 90% reduction in GHG emissions by 2050 to mitigate international bunker fuels [83]</td></tr><tr><td>CAT-&#x27;Zero Carbon Britain&#x27;</td><td>ZCB2030</td><td>Reduce total UK COz emissions by 90%,and adopt ‘carbon sequestration&#x27; measures to remove the 10% of residual emissions to achieve net zero by 2030 [8].</td></tr></table>",
+    "bbox": [
+      90,
+      124,
+      907,
+      334
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      351,
+      487,
+      639
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The selected UK low carbon scenarios and projections DECC 2050 calculator ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      656,
+      458,
+      684
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The projected bioenergy contribution under the DECC Base scenario [[21]; see also the outline description given in Table 4] amounted to some 251 TWh, which appears relatively high in comparison to the equivalent scenario by UKERC (70 TWh in its ‘Base’ case). Nevertheless, it is close to the figure produced by the recent UK Government’s UK and Global Bioenergy Resource Model [76], and mentioned in Section 2 above. A majority of this DECC bioenergy resource is presumed to be sourced from waste. This biogenic waste accounts for 196 TWh of bioenergy under the Base scenario, either through combustion of solid wastes, or the collection of landfill gas. The quantity of waste in 2050 increases by $6 0 \\%$ in this low ambition scenario, and the total amount of waste to landfill correspondingly increases. In addition to municipal and landfill waste, the remaining bioenergy is sourced from agricultural wastes (37 TWh) and forests and biocrops (18 TWh). It is projected in the DECC Base scenario that livestock numbers rise by $1 0 \\%$ , which allows agricultural wastes (primarily manure) to contribute 37 TWh to bioenergy resourcing. In contrast to the increase in livestock numbers, the levels of energy crop and food production are presumed to remain similar to those today. A total area of 350,000 ha would be employed for cultivating energy crops; that amounts to a modest 18 TWh contribution in terms of forestry and biocrops. However, bioenergy imports fall to zero under the DECC Base scenario, as it is assumed that international bioenergy trade does not develop to a significant extent. This scenario performs particularly poorly with regard to GHG emissions, with 2050 emissions being only $1 \\%$ below 1990 emissions. ",
+    "bbox": [
+      94,
+      687,
+      487,
+      927
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      353,
+      904,
+      593
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In the DECC ‘Spread Effort’ $( S E )$ scenario [see the outline description given in Table 4] bioenergy contributes 516 TWh to primary energy; more than double the amount of bioenergy produced in its Base scenario. The quantity of waste is considered to be ‘stable’ and most is recycled; thereby minimising biodegradable waste to landfill. Improved waste management, recycling, and the reduction in the amount of waste to landfill means that the quantity of energy generated from waste in the DECC SE scenario declines to 134 TWh. The land available for cultivating energy crops is greatly increased to some 2.4 Mha. Thus, forests and biocrops account for a significantly higher contribution under the $S E$ scenario, accounting for 182 TWh: making it the largest single contributor to bioenergy. Despite a $1 0 \\%$ reduction in the number of livestock in the UK, energy production from agricultural waste is increased to 125 TWh as biogenic waste management is improved. Imports of bioenergy develop to contribute 70 TWh through 35 TWh liquid transport fuels and 35 TWh of solid biomass for thermal generation. This is considered to be $5 0 \\%$ of the UK market share. The end-use contribution of liquid biofuels for transport amounts to $1 2 \\%$ , while bioenergy for electricity and heat generation account for 47 and $4 1 \\%$ respectively. End-uses of bioenergy for heat and electricity are primarily served by solid biofuels with a minor contribution from biogas. ",
+    "bbox": [
+      510,
+      596,
+      904,
+      926
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Page 12 of 24 ",
+    "bbox": [
+      825,
+      39,
+      905,
+      50
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      108,
+      487,
+      183
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The DECC ‘Solid Biofuel Focus’ (SBF) scenario [see again the outline description given in Table 4] is the highest ambition scenario postulated by the Department (DECC, now BEIS) with the contribution of bioenergy more than double that under the DECC $S E$ scenario. A total of $1 0 6 2 ~ \\mathrm { T W h }$ bioenergy contributes to primary energy in this case: by far the largest amount of bioenergy projected under any of the pathways/scenarios examined here. The maximum possible energy recovery from waste takes place under the $S B F$ projection with the total volume of waste increasing by $3 0 \\%$ above 2007 levels. Following improvements in the collection and processing of waste, it is forecast that recycling, energy from waste, and energy from landfill methane and sewage gases all yield greater energy returns; raising the level of energy generation from wastes to 212 TWh. The land made available for energy cropping is increased yet further to approximately $1 7 \\%$ of UK land area equivalent to 4.2 Mha. It is assumed that this can yield close to 400 TWh of bioenergy from forests and biocrops; constituting $3 7 \\%$ of the total bioenergy contribution to primary energy. A $1 0 \\%$ increase in livestock numbers in addition to the land used for food crops will put pressure on land resources, especially when so much is attributed to energy crops. Energy recovery from agricultural wastes contributes 146TWh to the bioenergy make up. Due to the strong $S B F$ emphasis on bioenergy as a renewable resource, the level of imported bioenergy is increased again in solid form for energy generation, as well as liquid biofuel to help decarbonise the transport sector. ",
+    "bbox": [
+      94,
+      184,
+      489,
+      640
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The total contribution from imports is $2 5 9 \\ \\mathrm { T W h }$ , which is approximately $2 0 0 \\%$ of the UK’s share of the 2050 international bioenergy market (modelled by DECC). A breakdown of the end-uses of bioenergy available under the SBF scenario is depicted in Fig. 4, along with that for other high ambition scenarios [the UKERC ‘Carbon Super Ambition’ (CSAM) and CAT ‘Zero Carbon Britain’ (ZCB2030) forecasts respectively]. The general breakdown in end-uses is roughly similar to that of the DECC $S E$ scenario, although the proportion of imported liquid biofuel for transport is rather higher. DECC $S E$ and SBF projections diverge during 2010–2020, and SBF achieves greater bioenergy uptake through to 2050. ",
+    "bbox": [
+      510,
+      108,
+      905,
+      305
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "UKERC ENERGY 2050 pathways ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      322,
+      715,
+      335
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The UKERC Energy 2050 pathways [[83]; see again the outline description given in Table 4] appear, in general, to be more conservative in terms of the bioenergy resources used to meet primary energy supply. This is in part due to the reduced overall primary energy supply under the UKERC scenarios, but also due to uncertainty over the role of bioenergy in the 2050 energy mix and competition with other renewables. The UKERC REF scenario, much like the DECC Base scenario, is a continuation of government policies in place around 2010, and leads to very limited reductions in GHG emissions to 2050. The REF scenario achieves only a $2 \\%$ reduction on 1990 levels by 2050. End-use contributions from bioenergy resources in the UKERC REF scenario suggest that liquid biofuels for transport are the preferred use, although only marginally more so than solid biofuels for electricity generation. In line with the limited ambition for the development of domestically produced biofuels in the REF scenario, all the 20 TWh of bioenergy is used for transport fuels - bioethanol and biodiesel - by 2050. ",
+    "bbox": [
+      510,
+      337,
+      905,
+      639
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/f74a22a4b689c937ac692e24ce24b1b743656d45f28ddf939c1069d1bc583db1.jpg",
+    "image_caption": [
+      "Fig. 4 Bioenergy end-use under the three ‘extended ambition’ scenarios: UKERC ‘Carbon Super Ambition’ (CSAM), DECC ‘Solid Biofuel Focus’ (SBF) and CAT ‘Zero Carbon Britain’ (ZCB2030) respectively "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      99,
+      663,
+      900,
+      892
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Page 13 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "These resources are imported from abroad, as UK land available for bioenergy is assumed to decline to zero. A significant proportion of the final energy arising from biomass is made up from electricity generation through the utilisation of biowaste. It is assumed that this is in the form of methane collection and ‘energy recovery’ from landfill, and the anaerobic digestion (AD) of wet wastes [although an exact breakdown by source is unavailable (in [83])]. This amounts to around $4 \\%$ of the power generation mix in total under the UKERC REF scenario, with fossil fuels accounting for $\\sim 8 0 \\%$ . In addition to electricity generation and transport, heat provision using bioenergy makes only a minor contribution; providing the service sector with approximately 9 TWh of heat via woodchip fuel for combustion in boilers. Heat supply through biomass use in the residential sector is presumed to decline to zero around 2035. It is assumed that this applies to specific in-house biomass heating systems, rather than the use of woodfuel for heat (for example, ‘log fires’) in the home. ",
+    "bbox": [
+      94,
+      108,
+      487,
+      411
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The UKERC CAM scenario [see, once more, the outline description given in Table 4] achieves the early UK GHG emissions target under the 2008 Climate Change Act [51] of an $8 0 \\%$ reduction in $\\mathrm { C O } _ { 2 }$ emissions by 2050 [24, 83, 91]. Bioenergy contributes 317 TWh to the UK energy mix at this timeframe; equivalent to around $2 0 \\%$ of primary energy supply. In contrast to the UKERC REF pathway, the overwhelming majority of this biomass resources $( \\sim 8 0 \\% )$ are converted to liquid biofuels for transport. This increase in the demand for liquid transport fuels is largely met from domestically produced biomass (accounting for $6 6 \\%$ of all liquid biofuels) unlike the imported biofuels presumed under the UKERC REF pathway. The motivation for this change appears to be concern surrounding the sustainability of global biomass trade ([83, 84]; and see also Table 3). The increase in domestic biofuel production is made possible by an increase in the area of UK land attributed to bioenergy uses. Projections based on the UKERC CAM scenario suggest that the land take increases to approximately 1.7 Mha by 2050. Finally, a minor portion of the bioenergy resource under the CAM pathway is used for electricity generation. Again, as with the REF scenario above, it was assumed [83] that this is in the form of methane collection and ‘energy recovery’ from landfill, as well as AD processing of wet wastes. However, in contrast to the REF pathway, electricity generation using biowaste actually declines from 18 TWh to 11 TWh in the CAM scenario. This decline, coupled with the increase in other bioenergy end-uses (for heat and transport respectively), means that power supply counts for only $4 \\%$ of the total bioenergy resource in the UKERC CAM pathway. ",
+    "bbox": [
+      94,
+      412,
+      487,
+      897
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The UK Government’s independent Committee on Climate Change [11] believes that if international bunker fuels and non- $\\mathrm { . C O _ { 2 } }$ GHG emissions are excluded from UK mitigation targets, then the overall level of decarbonisation required from the remaining sectors of the economy would need to be closer to a $9 0 \\%$ reduction [in contrast to $8 0 \\%$ under the original 2008 Climate Change Act [51]]. To achieve this target, the most ambitious UKERC pathway [‘Carbon Super Ambition’ (CSAM)], foresees a contribution of 479 TWh from bioenergy to meet UK primary energy supply, as part of a strategy that achieves an overall reduction in $\\mathrm { C O } _ { 2 }$ emissions of $9 0 \\%$ compared to 1990 levels. Again, as with the CAM scenario, the majority of the bioenergy resource is presumed to be in the form of liquid biofuels to help decarbonise the transport sector; see again Fig. 4. However, the level of liquid transport fuel is significantly larger under UKERC CSAM pathway [83, 91], representing around $2 9 0 \\ { \\mathrm { T W h } } _ { \\mathrm { \\Omega } }$ , including 10 TWh of biokerosene. In order to accomplish this, domestic production of liquid biofuels is presumed to increase by just over $5 0 \\%$ with associated rise in the land required for cultivating the feedstocks. The UKERC book-length text [83] does not provide precise figures for land take associated with the UKERC CSAM pathway. However, an indicative calculation based on land requirements and the domestic production of liquid biofuel and wood pellets under the CAM scenario suggests an approximation for the land required as close to 3.1 Mha: see Fig. 5. Finally, it is interesting to note that under UKERC CAM and CSAM pathways, bioenergy only begins to develop rapidly around the 2025–2030 period, which is in contrast with corresponding DECC projections that indicate a relatively smooth uptake and development of bioenergy from the period 2010–2020. ",
+    "bbox": [
+      94,
+      900,
+      487,
+      927
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      106,
+      904,
+      610
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "CAT zero carbon Britain 2030 ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      626,
+      704,
+      639
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The final energy scenario included in the present comparison is CAT’s Zero Carbon Britain 2030 (ZCB2030) [[8]; see also the outline description given in Table 4]. In contrast with the two previous scenarios produced under the auspices of DECC/BEIS and UKERC, the timeframe for ZCB2030 is shorter by 20 years; reflecting a more ‘radical’ GHG emissions pathway to 2030 (rather than 2050). ZCB2030 only envisages one ‘core’ scenario, and postulates a ‘greener’ perspective for comparison with the DECC/BEIS and UKERC studies. Thus, ZCB2030 foresees bioenergy contributing in the region of 300 TWh to primary energy supply, which is nearly the same as the UKERC CAM scenario (with a bioenergy component of 317 TWh). Bioenergy end-uses within ZCB2030 are broken down into roughly similar shares between heat, electricity, and transport (see again Fig. 4), although energy use for transport is the highest $( 3 9 \\% )$ and heat has the lowest usage $( 2 6 \\% )$ . Liquid transport biofuels amount to 112 TWh, which are presumed to be produced domestically. This requires UK land take for liquid biofuel production alone in the region of 1.7 Mha; again a similar land area to that under the UKERC CAM pathway. Energy crops are assumed to provide an equivalent UK land area for heating and power generation of 5.4 Mha. This is by far the largest land take across all the UK energy scenarios examined here, and is partly explained by the strong emphasis by CAT in its ZCB2030 scenario places on growing biomass for sequestration – either for use in buildings or materials - or through ‘engineered silo storage’ to store carbon. In addition, a severe restriction on imports of either liquid or solid biofuels is incorporated in the ZCB2030 scenario on sustainability grounds [8], which means that more severe pressure is put on the availability of indigenous UK biomass resources. Alongside the relatively large volume of liquid transport biofuels for transport, ZCB2030 presumes the utilisation of solid biomass to produce biogas through gasification for subsequent electricity generation. This is primarily to ‘back up’ and balances the wind-based electricity grid via gasification of energy crops (Miscanthus and some types of forestry) and AD processing of agricultural grasses. A small amount of bio char is produced as a by-product of biogas generation, and this is used both to sequester $\\mathrm { C O } _ { 2 }$ and as an agricultural additive. Finally, $2 6 \\%$ of bioenergy under the ZCB2030 scenario is provided by solid biofuel, either for direct heat supply or via combined heat and power (CHP) plants; typically using woody biomass (such as Miscanthus or forestry residues). ",
+    "bbox": [
+      510,
+      640,
+      905,
+      927
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Page 14 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/69bedd8378ae4f117ebb91208d96be5d419cf88ee3e1fe49682966e873100076.jpg",
+    "image_caption": [
+      "Projected land take for UKERC CSAM Scenario ",
+      "Fig. 5 Projected land take under the UKERC ‘Carbon Ambition’ (CAM) and ‘Carbon Super Ambition’ (CSAM) pathways "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      127,
+      791,
+      432
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      472,
+      487,
+      927
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Comparative assessment of the three UK low carbon scenarios/projections ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      473,
+      862,
+      502
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The proposed contribution of bioenergy to UK primary energy supply under each of the assessed energy scenarios by the end of the respective timeframes is displayed in Fig. 6 (2050 for the DECC/BEIS and UKERC scenarios, and 2030 for the CAT ZCB2030 alternative). It is immediately apparent that there are significant variations in these forecasts. Projections by DECC/BEIS are the most ambitious of all, suggesting that under the SBF scenario bioenergy could contribute up to 1062 TWh to UK primary energy supply. Both the UKERC and CAT forecasts are more conservative in their projections, with the CSAM and ZCB2030 scenarios suggesting 479 TWh and around 300 TWh respectively to bioenergy contributions to UK primary energy supply (see again Fig. 6). It is also apparent that there is a large discrepancy between the low ambition projections of the various institutional studies, with DECC Base scenario projecting a contribution of 251 TWh compared to 70 TWh envisaged in the UKERC REF pathway. It can also be seen (Fig. 6) that the contribution of bioenergy to primary energy attributed in the CAT ZCB2030 scenario is comparable to that of UKERC CAM pathway, despite the timeframe of the former being shorter by 20 years. ",
+    "bbox": [
+      510,
+      503,
+      904,
+      851
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The projected UK land area required to produce indigenous biomass to satisfy the bioenergy requirements under each of the energy scenarios appraised here is depicted in Fig. 7 (particularly that needed for the cultivation of energy crops). This provides a partial insight into the discrepancies between the total contribution of bioenergy to meet UK primary energy under each scenario or pathway. Given that bioenergy can be derived from specific energy crops, each of which requires land of reasonable fertility, it follows that the larger the area attributed to energy crops, the greater the amount of primary energy that can be sourced. So in attributing 4.2 Mha for cultivating energy crops in the DECC ‘Solid ",
+    "bbox": [
+      510,
+      854,
+      904,
+      929
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Page 15 of 24 ",
+    "bbox": [
+      825,
+      39,
+      905,
+      50
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      373,
+      51
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/3d32b27f0af3f3580d4bc79d0c814bf86dc28c4bd3034c270ad77b9bec766dbe.jpg",
+    "image_caption": [
+      "Fig. 6 Bioenergy in UK primary energy supply; according to the DECC, UKERC and CAT pathways/scenarios: DECC ‘Base’, DECC ‘Spread Effort’ (SE), DECC ‘Solid Biofuel Focus’ (SBF), UKERC ‘Reference’ (REF), UKERC ‘Carbon Ambition’ (CAM), ‘Carbon Super Ambition’ (CSAM), and CAT ‘Zero Carbon Britain’ (ZCB2030) respectively "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      111,
+      794,
+      400
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      473,
+      489,
+      593
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Biofuel Focus’ (SBF) scenario [21], DECC/BEIS has projected almost twice as much land for energy crops as is available under the closest alternative scenario: the UKERC CSAM pathway [83]. By far the largest area of land attributed to the bioenergy requirements is that proposed in the ZCB2030 scenario [8]. This is in excess of $5 . 4 ~ \\mathrm { M h a }$ , including energy crops which are over 1 Mha more than the next greatest land use of 4.2 Mha in the DECC SBF scenario. A consequent breakdown of liquid biofuel imports is illustrated in Fig. 8. The comparison is limited to liquid biofuels because of the lack of available data for solid fuels across all of the energy scenarios evaluated in the present study. It is clear that as the contribution of bioenergy to UK primary energy rises higher under the DECC/BEIS 2050 Calculator scenarios [[21]; see also the outline description given in Table 4], which are the most ambitious (see again Fig. 6). The level of imported liquid biofuel follows roughly this elevation (Fig. 8), ranging from zero in the Base scenario to 140 TWh in the ‘Solid Biofuel Focus’ (SBF) scenario. A similar pattern is also true of UKERC scenarios, although to a more modest extent. As the UKERC scenarios progress in ambition, the level of imported liquid biofuel increases from 20 TWh under the REF pathway, to a peak of 73 TWh in the most ambitious CSAM scenario (see again Fig. 8). Interestingly, the volume of imported biofuel only increases by 5 TWh between the CAM and CSAM scenarios, despite the overall contribution of bioenergy to primary energy increasing by 162 TWh in total. However, domestic production of liquid biofuels increased by 70 TWh between the CAM and CSAM scenarios. As a result, liquid transport fuel - both domestically produced and imported - accounts for $7 5 ~ \\mathrm { T W h }$ , or $4 6 \\%$ of the 162 TWh increase in bioenergy supply from the UKERC CAM to CSAM pathways. The CAT ZCB2030 scenario presumes that all biofuels consumed in the UK are produced domestically, as noted above, and therefore imports of liquid biofuels are depicted as zero (see again Fig. 8). ",
+    "bbox": [
+      510,
+      473,
+      905,
+      593
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/e5607cfb919bb1c406748c235084337d298b7c0c449856d2b92441f2c8016b16.jpg",
+    "image_caption": [
+      "Fig. 7 Projected UK land use for biomass production; according to the DECC, UKERC and CAT pathways/scenarios (following the sequence in Fig. 6) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      612,
+      793,
+      891
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Page 16 of 24 ",
+    "bbox": [
+      825,
+      39,
+      905,
+      50
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/d0a3fc9cb718c3cfdc777452cd932aa63979f6942f8c461b25cf99ce22557354.jpg",
+    "image_caption": [
+      "Fig. 8 UK liquid biofuel imports; according to the DECC, UKERC and CAT pathways/scenarios (following the sequence in Fig. 6) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      206,
+      113,
+      793,
+      382
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      426,
+      487,
+      867
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Gap analysis ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      883,
+      193,
+      897
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "In order to draw lessons from the three UK energy forecasting studies, the strengths and limitations of their forecasts have been evaluated in terms of the salient issues facing bioenergy uptake. Thus, a ‘gap analysis’ (see Tables 5, 6, 7) leads firstly to the identification of weaknesses in the scenarios/pathways, and then in what follows to recommendations for the improvement of the next generation scenarios and forecasts. This is in order to provide more realistic projections for bioenergy uptake in the UK, although the lessons learned are applicable across much of the industrialised world. This analysis includes an examination of model performance in order to determine the differences between the three UK low carbon energy pathways/scenario sets. It was consequently found that all three studies had internal shortcomings from a bioenergy perspective. The pathways/scenario sets evaluated in the present study relate to the UK whole energy system, and consequently bioenergy resources were no doubt viewed by the respective institutional authors [8, 21, 83] as arguably a subsidiary matter. Nevertheless, the analysis by DECC/BEIS stood out as having the greatest level of realism, due to the account given to many of the critical factors and underlying issues relating to bioenergy uptake (see Table 5). Both the DECC $S E$ and $S B F$ scenarios within their 2050 Calculator exceed those of the other forecasting studies in terms of bioenergy contribution to final energy, although these projections are the best supported with the most detailed appraisal of key issues. Table 5 provides an indicative breakdown of the strengths and limitations of the DECC/BEIS analysis [21], and it is clear where there are shortcomings. The three areas where DECC analysis is lacking are in the dependency on increased yields to provide enough food and energy from available land, the weakness in modelling emissions that result from land use change, and the assumption that imports are ‘carbon zero’ – major oversimplification leading to unreliable estimates of GHG savings. The latter simplification is even more drastic when the large volumes of imports under the DECC/BEIS 2050 pathways [21] are considered. If further work can be done to address these issues, it is likely that the projections for bioenergy contribution to primary energy will be reduced, but as a result, they will be very close to what could be viewed as a realistic prediction. Nevertheless, the DECC/BEIS 2050 Calculator exhibits significant strengths in regard to their recognition of the potential for the uptake of SGB feedstocks, the detailed coverage of conversion technologies and their likely future development, the allowances made for the impact of increased energy crop deployment and their social implications, the need for financial incentives for suppliers (e.g., farmers) to invest in energy crops [31, 32, 93], the attempt to model the bioenergy resources available via international trade, and finally the need for sustainability criteria to regulate such imports. ",
+    "bbox": [
+      92,
+      900,
+      487,
+      927
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      426,
+      904,
+      927
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Page 17 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/544b26ccc7a4f192b1f12dda294a0e7ca5f7d5b1aeacc583c3e7ed31836e48c1.jpg",
+    "table_caption": [
+      "Table 5 Gap Analysis of the DECC/BEIS 2050 Calculator Pathways Analysis [21] "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Salient Issue</td><td>Strengths</td><td>Limitations</td></tr><tr><td>Land Availability</td><td>Widespread uptake of second generation feedstocks.</td><td>Projected increases in yields for energyand food crops area critical factor inachieving bioenergy land use targets. Positive and negative effects of land use</td></tr><tr><td rowspan=\"2\">Land use change</td><td></td><td>change are not elaborated. Assumed to balance out giving net zero effects-an oversimplification. No consideration of potential for land use</td></tr><tr><td>Underlying assumptions make allowances</td><td>changes outside the UK, despite considerable pressure on domestic land use.</td></tr><tr><td rowspan=\"4\"></td><td>for the impact of increased energy crop deployment and their social implications. Recognises the need for financial</td><td></td></tr><tr><td>incentives for suppliers (e.g., farmers) uptake.</td><td>Assumed that farmers are incentivised to develop bioenergy,athough discussion is limited.</td></tr><tr><td>Detailed coverage of conversion technologies, future developments,and levels of influence on scenarios.</td><td></td></tr><tr><td>Attempt made to model bioenergy available for international trade.</td><td>Assumes importsare &#x27;carbon zero&#x27;-major oversimplification leading to unreliable</td></tr><tr><td>Bioenergy Imports</td><td></td><td>estimates of &#x27;greenhouse gas&#x27; (GHG) savings. Simplification even more drastic when</td></tr><tr><td></td><td>Recognises the need for sustainability criteria</td><td>considering large volumes of imports under the DECC 2050 Pathways.</td></tr></table>",
+    "bbox": [
+      90,
+      125,
+      910,
+      500
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      94,
+      518,
+      487,
+      654
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      518,
+      904,
+      654
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/317dc4f50727502339ed6e4e2542a47a365b51d9185064c1a067b9e48e446b24.jpg",
+    "table_caption": [
+      "Table 6 Gap Analysis of the UKERC Energy 2050 Pathways [83] "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Salient lssue</td><td>Strengths</td><td>Limitations</td></tr><tr><td>Land Availability</td><td>Technical developments are assumed to give rise to yield increases,as wellas the take-up of SGB technologies.</td><td>This modelling is not incorporated into the core scenarios evaluated in the present study.Thus, while technical developments are considered within the book-length discussion,they have no bearing on the core scenarios. Modelling also envisages rapid increases in land take for bioenergy beyond 2030.</td></tr><tr><td>Land use change</td><td></td><td>Very limited discussion of the impact of land use change,either at a domestic or international level.</td></tr><tr><td>Socio- Eonomic factors</td><td>Attempts are made to model environmentally-sensitive scenarios where the bioenergy uptake is limited by public concerns and objections.</td><td>This modelling is not extended to the core scenarios. Consequently, these projections are free of the limitations that may be imposed. No discussion is given on the uncertainty surrounding supplier</td></tr><tr><td>Conversion</td><td>Technical developments in conversion processes are taken into</td><td>uptake. Developments in accelerated technologies are not incorporated</td></tr><tr><td>Bioenergy Imports</td><td>Technologies account within the book-length discussion. Sustainability concerns are assumed to give rise principally to the domestic production of biofuels.</td><td>into the core scenarios. There is a lack of consideration of the implications of modest imports.</td></tr></table>",
+    "bbox": [
+      90,
+      687,
+      909,
+      926
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Page 18 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_2357218/auto/images/4da9684fc1e896ced4972e297702a14770a4b338173f1ef5888f243b7a7f1742.jpg",
+    "table_caption": [
+      "Table 7 Gap Analysis of the CAT Zero Carbon Britain 2030 Scenarios [8] "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Salient Issue</td><td>Strengths</td><td>Limitations</td></tr><tr><td rowspan=\"2\">Land Availability</td><td>Land used entirely for second generation energy crops. Increased yields are desirable,but not as critical as in</td><td>Extremely ambitious domestic UK land turn over for bioenergy crops.</td></tr><tr><td>other studies.</td><td>Argues that effects of land use change will be positive - despite backing for supporting research.</td></tr><tr><td>Socio-economic factors</td><td></td><td>This is quite a significant oversimplification that requires further elaboration. Large lifestyle changes in terms of the reduction of</td></tr><tr><td rowspan=\"2\"></td><td>Driver behind changes assumed to be high &#x27;carbon prices&#x27;.</td><td>meat and dairy consumption - considered unavoidable. A simplifying statement that requires more consideration of potential public resistance to changes,as well as</td></tr><tr><td>FischerTropsch synthesis,lignocellulosic bioethanol,</td><td>incentives for suppliers (e.g., farmers). Success of scenario is heavily dependent on development</td></tr><tr><td>Conversion Technologies</td><td>and pyrolysis identified as key technologies for future.</td><td>of these technologies. Highly optimistic given the 2030 timeframe.</td></tr><tr><td>Bioenergy Imports</td><td>Impacts of unsustainable bioenergy production abroad are minimized by heavily restricting (i.e., eliminating) imports.</td><td>Modest imports are likely to be necessary given pressure on UK domestic resources - to completely restrict bioenergy imports is arguably unrealistic.</td></tr></table>",
+    "bbox": [
+      90,
+      124,
+      904,
+      403
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      427,
+      487,
+      472
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In contrast with those made by DECC/BEIS, the projections emanating from the UKERC Energy 2050 scenarios [83] are somewhat more conservative. However, despite the lower forecasts for bioenergy uptake, the UKERC studies appear, on the whole, to be less realistic as a result of the lack of a robust underpinning analysis. It can be seen from Table 6 that there are limitations in the coverage of all areas of discussion. Research underpinning the study, and the contextual background to possible future UK energy system evolution towards a secure low-carbon future (see [83]), includes a clear analysis of environmental sensitivities and of the prospects for accelerating bioenergy (and other low carbon) technologies. Allowances are also made for the impact of increased energy crop deployment and their social implications. However, these have not been included in the modelling of UKERC core scenarios and, as a result, the scenarios are weaker and arguably lack a certain amount realism. A key issue is the role of liquid biofuels in the transport sector. In the UKERC carbon ambition mitigation scenarios (CAM and CSAM) a range of technology options by mode are employed to ensure decarbonisation of transport, initially by electric (hybrid plug-in) and later by biofuel vehicles. Thus, transportation is not heavily decarbonised by 2035, although the MED modelling [4, 24, 83, 87, 91] facilitates a trade-off between the reduction of energy service demands, improved efficiency to further reduce final energy, and the use of zero-carbon transport fuels. Transport sector $\\mathrm { C O } _ { 2 }$ emissions are the lowest under the CSAM pathway, although its energy demand is higher than in CAM. This is a result of the adoption of larger consumption of biodiesel and bioethanol in the CSAM scenario. The efficiency of biodiesel-based vehicles is relatively low compared with the hybrid plug-in vehicles [24]. Cars are presumed to utilize plug-in hybrid vehicles in CAM, and then bioethanol (E85 blend) in CSAM. Buses switch to battery options, whilst heavy goods vehicles (HGV) and light goods vehicles (LGV) switch to biodiesel and then to hydrogen for HGV only; due to the limited refuelling network [83]. Short-distance buses move to electric vehicles, whilst trains switch over completely to electric carriers by 2050. Overall, there are a number of weaknesses in the UKERC scenarios. Positive and negative effects of land use change, for example, are not elaborated. These are assumed to balance out, thereby yielding ‘net zero’ effects that is an oversimplification. No consideration is given to the potential of land use changes outside the UK, despite considerable pressure on domestic land use. Farmers need to be incentivised to develop bioenergy, along the lines of the recent work of UK farm economics experts [31, 32, 93]. In order to make the modelling more robust, it is important that this sort of analysis is fully incorporated into the UKERC 2050 scenarios. ",
+    "bbox": [
+      94,
+      473,
+      487,
+      927
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      429,
+      905,
+      789
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The Zero Carbon Britain 2030 forecasting study by the Centre for Alternative Technology [8] is more ambitious or ‘radical’ than those of DECC/BEIS or UKERC. Land use for growing bioenergy crops is far greater than in other studies, but this is facilitated by shifts in livestock patterns and reductions in the level of meat and dairy consumption. However, growing energy crops is only ‘carbon neutral’ if they are produced without the use of fertilizers, pesticides and other chemical inputs. ",
+    "bbox": [
+      510,
+      792,
+      904,
+      927
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Page 19 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Likewise, they need to avoid destroying natural carbon sinks and creating large carbon sources by cutting down forests and turning other natural ecosystems into agricultural land; thereby creating biodiversity loss. On sustainability grounds, the ZCB2030 scenario seeks to eliminate the impacts of bioenergy production abroad and minimizes (i.e., effectively eliminating) imports. Nevertheless, modest biomass imports are likely to be necessary given pressure on UK domestic resources. A complete embargo on bioenergy imports is arguably unrealistic. In terms of the transport sector, the ZCB2030 scenario opts for electric or biofuel vehicles, much less flying and driving and more public transport. A ‘revolution’ in diets (particularly in regard to the eating of meat and dairy products) would cut out a 'huge' source of methane from livestock, and free up land to grow biofuels and crops which ‘sequester’ the remaining emissions in order to abate those from industry, soil degradation and other harder to eliminate sources. Given the particularly intrusive nature of these lifestyle changes, the level of discussion and consideration given to public opposition as a potential barrier to change is fairly limited (as described in Table 7). In addition, the heavy dependence of the scenario on currently unproven conversion technologies detracts from its credibility. For example, the success of ZCB2030 scenario is heavily dependent on development of key technologies, such as Fischer Tropsch (FT) synthesis, lignocellulosic bioethanol production, and pyrolysis conversion processing. This is highly optimistic given the 2030 timeframe. Thus, the aspirations of this scenario are likely to be especially difficult to achieve. ",
+    "bbox": [
+      94,
+      105,
+      487,
+      578
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Concluding remarks ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      594,
+      250,
+      610
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Bioenergy, as a potentially low carbon and a renewable energy source, is recognised as having the potential to contribute to climate change mitigation and, through the utilisation of domestic biomass resources, can help Britain to reduce its reliance on fuel imports and thereby enhance energy security. Such biofuels can be produced from either biomass (any purpose-grown material, such as crops, forestry, or algae) or biogenic waste (including household, food and commercial waste, agricultural or forestry waste, and sewage sludge). Sustainable bioenergy is a renewable resource that is often low carbon, and potentially leads to ‘negative emissions’ when coupled to CCS facilities: so-called BECCS systems [33]. The extent to which bioenergy and biofuels can contribute to future UK energy supply out to 2050 has been appraised. Analysis of three notable energy scenario sets developed by, respectively, the Department of Energy and Climate Change (the DECC/BEIS 2050 Calculator; see [21]), the UK Energy Research Centre (the UKERC Energy 2050 Project; see [83]), and the Centre for Alternative Technology (the Zero Carbon Britain Project; see [8]) enabled a comparative evaluation to be made of each projection and their realism. They reflect alternative modelling approaches that ultimately seek to meet the statutory 2050 carbon reduction target (DECC and UKERC), or to fully decarbonise Britain by 2030 (CAT). The spotlight of the present study has been on the use of energy crops and the associated implications. Such dedicated energy crops are a promising, ‘controlled’ source of bioenergy, but ‘energy from wastes’ (especially agricultural residues and animal manures) are likely to contribute significantly to bioenergy futures in industrialised countries - at least in the medium-term [44, 56, 84]. This is because wastes are considered an ‘uncontrolled’ source of energy, and the amount of waste available for bioenergy usage is likely to decline in future as better waste management practices and increased recycling become more prominent; in line with the so-called ‘waste hierarchy’ [23]. The present study has also concentrated on the forecast use of UK bioenergy resources with particular emphasis on land availability, conversion technologies, and foreign imports. A ‘gap analysis’ leads to recommendations for the improvement of the next generation scenarios and forecasts in order to provide more realistic projections for bioenergy uptake in the UK. All three low or zero carbon energy scenario studies evaluated here exhibited shortcomings from a bioenergy perspective, although the analysis by DECC stood out as having the greatest level of realism (due to the account taken of many of the critically important factors and underlying issues relating to bioenergy uptake: see, for example Tables 5, 6, 7). Nevertheless, it is recognised that futures research and technological forecasting in general have their limitations [65, 75, 92]. Indeed, in an earlier retrospective study of bottom-up, low energy projections for the UK made in the late 1970s (by [62]), Hammond [39] observed that long-term energy forecasting is something of a “black art”. This was based on a comparison of energy demand forecasts with statistical data for over two decades following the baseline date for the projections in the so-called Leach report [62]. Hammond [39] found that this influential study replicated the total primary energy consumption in Britain to the turn of the twentieth Century, but for reasons that were quite different from those originally postulated by the co-authors. ",
+    "bbox": [
+      94,
+      611,
+      487,
+      927
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      106,
+      904,
+      778
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Industrial subsectors, like the pulp and paper industry, have moved some way in the direction of a bio-based economy [35]. The Confederation of European Paper Industries [13], a Brussels-based non-profit-making organisation representing the European pulp and paper industry, has recommended the further conversion of industrial installations to low or zero carbon energy use, particularly from renewable sources. Indeed, the UK pulp and paper sector is already substantially invested in the use of biomass feedstock as both a raw material and fuel, although the ",
+    "bbox": [
+      510,
+      778,
+      905,
+      927
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Page 20 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Confederation of Paper Industries (CPI) – the UK trade association - has advocated further government support for the expansion of UK agricultural land use for woody biomass. On-site residuals from paper production (such as ‘black liquor, waste fibre, bark and fines) are used to generate a biogenic replacement (syngas) for natural gas via gasification. This can be obtained using a variety of feedstocks: solid recovered fuel (SRF), waste wood, and other waste materials. Some $2 . 2 \\ \\mathrm { T W h }$ is produced from biofuels - constituting $2 3 \\%$ of all fuels utilised in the sector. Indeed, the CPI have suggested to the UK Government that it could be a promising candidate for an above average share of biomass for electricity and heat $( > 7 \\%$ by 2030; see again [35]). That would be equivalent to a growth of biomass use of around $4 \\%$ per annum, or some $2 2 { , } 0 0 0 \\mathrm { t }$ of additional resource. According to the CPI, the main technological opportunities going forward are likely to be in the areas of CHP and, in the longer term, CCS [including BECCS [33]]. ",
+    "bbox": [
+      94,
+      108,
+      487,
+      396
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The three UK energy scenarios that have been evaluated in the present study have each made an important contribution to energy forecasting in the context of a low carbon future out to 2050 and beyond. They are likely to have considerable influence on policymakers [the DECC/BEIS 2050 Calculator [21] and the UKERC Energy 2050 Project [83]], and the engagement with the public (DECC/BEIS 2050 Calculator) or with environmental non-governmental organizations (NGOs) [CAT’s Zero Carbon Britain Project [8]. Decarbonisation targets will need to be tightened in the aftermath of the 2015 Paris Climate Change Agreement [5]. Indeed, the recent IPCC Special Report on Global Warming of $1 . 5 ~ ^ { \\circ } C$ [54] argue that emissions pathways limiting global warming to $1 . 5 ^ { \\circ } \\mathrm { C }$ (with no or limited overshoot) will require “rapid and far-reaching transitions in energy, land, urban and infrastructure (including transport and buildings), and industrial systems”. Bioenergy has only a peripheral role in the three UK energy pathways scenarios evaluated here. Clearly, there are weaknesses in this respect within all three of these UK low carbon pathways as identified via the comparative assessment and associated ‘gap analysis’. However, it is the projections by the DECC/BEIS that can be considered the most realistic based on the level of appraisal given to all the factors and underlying issues relating to the use of bioenergy resources considered in the present study. The UKERC projections rely on existing, unsustainable biofuel processing to produce relatively large amounts of domestic liquid and solid biofuels, as well as significant imports. Finally, the ZCB2030 projection by CAT represents an ‘ethical construct’ that implies equitable sharing of international carbon reduction commitments on a per capita basis by the nation states of the world. This is not reflected in UK climate change legislation or associated international strategies that commonly take 2050 as a practical target timeline. ZCB2030 leads to both ‘deep’ and rapid (2030) decarbonisation through ‘Powering Down’ by the adoption of new technologies and efficient designs, whilst ‘Powering Up’ using large and smaller-scale renewables. It is therefore arguably the least feasible (or unrealistic; perhaps ‘utopian’) low carbon pathway, due primarily to the required lifestyle and land use changes embraced by the scenario that are likely to meet public opposition. ",
+    "bbox": [
+      92,
+      397,
+      487,
+      930
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      510,
+      108,
+      904,
+      291
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Abbreviations ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      318,
+      588,
+      329
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "AD: Anaerobic digestion plant; BECCS: Bioenergy CCS; BEIS: The UK Government’s Department for Business, Energy & Industrial Strategy; CAM: The UKERC Carbon Ambition scenario; CAT: The Centre for Alternative Technology (Machynlleth, Wales, UK); CCC: The UK Government’s independent Committee on Climate Change; CCS: Carbon capture and storage facilities; CEPI: The Confederation of European Paper Industries; CHP: Combined heat and power (or ‘cogeneration’) plant; $C O _ { 2 } \\mathrm { { : } }$ Carbon dioxide; COP21: 21st Conference of Parties; the 2015 United Nations Climate Change Conference, held in Paris (France) over 30th November to 12th December 2015; CPI: Confederation of Paper Industries; a UK trade association; CSAM: The UKERC Carbon Super Ambition scenario; DECC: The UK Government’s former Department of Energy & Climate Change (merged in 2016 to form BEIS); Defra: The UK Government’s Department for Environment, Food and Rural Affairs; DfT: The UK Government’s Department for Transport; EU: The European Union; FGB: First generation biofuels; FiT: The UK Government’s Feed-in Tariff scheme; FT: The Fischer Tropsch process; GCV: Gross calorific value (of a fuel): British usage – corresponds to HHV; GHG: Greenhouse gas (emissions); HGV: Heavy goods vehicles; HHV: Higher heating value (of a fuel): American usage – corresponds to GCV; HMG: Her Majesty’s Government (of the UK); IEA: The International Energy Agency; IPCC: The Intergovernmental Panel on Climate Change; LGV: Light goods vehicles; MARKAL: MARKet Allocation linear programming optimisation model; MED: UK MARKAL Elastic Demand model; MSW: Municipal Solid Waste; Ofgem: The UK Office of Gas and Electricity Markets (regulator); ORED: The UK Government’s Office for Renewable Energy Deployment; POST: The UK Parliamentary Office of Science and Technology; RAEng: The UK Royal Academy of Engineering; RCEP: The former UK Royal Commission on Environmental Pollution; REF: The UKERC Reference (baseline) scenario; RET: Renewable energy technologies; RHI: The UK Government’s Renewable Heat Initiative scheme; RME: Rapeseed oily methyl ester; RTFO: The ( )UK Government’s Renewable Transport Fuel Obligation scheme; SBF: The DECC Solid Biofuel Focus scenario; SE: The DECC Spread Effort scenario; SGB: Second generation biofuels; SI: Système Internationale d’Unités (International System of Units); SRC: Short rotation coppice; an energy crop typically consisting of densely planted, high-yielding varieties of poplar or willow; SRF: Solid recovered fuel; UK: The United Kingdom (of Great Britain and Northern Ireland); UKERC: The UK Energy Research Centre; UNFCCC: The United Nations Framework Convention on Climate Change; ZCB2030: The CAT Zero Carbon Britain 2030 project/scenario ",
+    "bbox": [
+      510,
+      330,
+      902,
+      762
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Units ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      778,
+      539,
+      787
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "GJ: Gigajoules $( 1 0 ^ { 9 } \\rfloor )$ ; an SI derived unit of energy; ha: Hectare [equal to a square of land with $1 0 0 \\mathsf { m }$ sides (or $1 0 ^ { 4 } \\mathrm { m } ^ { 2 } ) ] i$ ; an SI accepted unit of area; m: Metre; the SI base unit of length; Mha: million hectares (of land); an SI derived unit of area; odt: Oven-dry tonnes (of a biomass resource); t: Tonne $( 1 0 ^ { 3 } \\mathsf { k g } )$ ; an SI derived unit of mass - commonly referred to as the “metric ton” in the North America; TWh: Terawatt-hours $( 1 0 ^ { 1 2 } \\mathsf { W h } ) ;$ an SI derived unit of energy ",
+    "bbox": [
+      510,
+      788,
+      899,
+      868
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      883,
+      620,
+      892
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Both authors are grateful to external colleagues for their role in the coordination of large consortia of university and other partners. The first author (Patrick Allen) wishes to thank the Higher Education Funding Council for ",
+    "bbox": [
+      510,
+      894,
+      904,
+      927
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Page 21 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "England (HEFCE) for financial support of his contribution to the present study. The authors are finally grateful to their former University of Bath colleague, Prof. Chris McMahon (now at the University of Bristol, and Guest Professor at the Technical University of Denmark), for his interest in the work at an early stage of the research. However, the views expressed in this paper are those of the authors alone, and do not necessarily reflect the policies of colleagues or their funding bodies. ",
+    "bbox": [
+      94,
+      111,
+      482,
+      191
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Funding ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      205,
+      139,
+      215
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "This work is part of a programme of research at the University of Bath on the technology assessment of energy (including bioenergy) systems and transition pathways to a low carbon future that is supported by a series of UK research grants and contracts awarded by various bodies that now form part of UK Research and Innovation (UKRI). Prof. Hammond was a Co-Investigator of the Biotechnology and Biological Sciences Research Council’s (BBSRC) Sustainable Bioenergy Centre (BSBEC), under the ‘Lignocellulosic Conversion to Ethanol’ (LACE) project [Grant Ref: BB/G01616X/1; 2009–2015]. Prof. Katherine Smart (now founder Director of the Surrey Copper Distillery and University Lecturer in Brewing and Distilling at Cambridge University) and Prof. Greg Tucker of the University of Nottingham sequentially led this consortium, whilst BSBEC was directed by Duncan Eggar (then the BBSRC Bioenergy Champion). [Prof. Hammond held an Honorary Professorship in Sustainable Bioenergy at the University of Nottingham (over 2010–2016) that was linked to this project in addition to his main post at Bath.] Prof. Hammond was also Principal Investigator (PI) and Co-Leader of a large consortium of university partners (jointly with Prof. Peter Pearson, now Emeritus Professor at Cardiff University and Honorary Professor at Imperial College London) funded via the strategic partnership between e.on UK (the German-owned electricity generator) and the UKRI Energy Programme to study the role of electricity within the context of ‘Transition Pathways to a Low Carbon Economy’ [under Grant EP/F022832/1; 2008–2012]. It was renewed as the ‘Realising Transition Pathways’ Consortium (2012–2016) with funding provided just by the UKRI Energy Programme (under Grant EP/ K005316/1; 2012–2016) for which Prof. Hammond was once more the PI and Co-Leader. ",
+    "bbox": [
+      92,
+      216,
+      485,
+      511
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Availability of data and materials ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      525,
+      277,
+      536
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "All data generated or analysed during this study are included in this published article or in the three primary sources for the energy scenarios [8, 21, 83]. ",
+    "bbox": [
+      92,
+      536,
+      482,
+      559
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Authors’ contributions ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      573,
+      218,
+      583
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "GPH conceived and initiated the study; PEA carried out the analysis of the three energy scenarios/projections. PEA and GPH both contributed to the comparative assessment, although GPH drafted, edit and approved the final manuscript. The authors’ names are listed alphabetically. All authors read and approved the final manuscript. ",
+    "bbox": [
+      92,
+      584,
+      489,
+      640
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Competing interests ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      655,
+      206,
+      665
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "The second, corresponding author (G.P.H.) is a BMC Energy journal Section Editor covering Energy Systems, Processes, Planning and Policy, although he had no influence over the peer review of the present contribution. Otherwise, the authors declare that they have no other competing interests. ",
+    "bbox": [
+      92,
+      665,
+      482,
+      711
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Publisher’s Note ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      730,
+      221,
+      743
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+    "bbox": [
+      94,
+      744,
+      448,
+      765
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Received: 17 December 2018 Accepted: 8 April 2019   \nPublished online:16 May 2019 ",
+    "bbox": [
+      94,
+      777,
+      374,
+      801
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      815,
+      154,
+      824
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "1. Adams PW, Hammond GP, McManus MC, Mezzullo WG. Barriers to and drivers for UK bioenergy development. Renew Sust Energ Rev. 2011;15(2):1217–27.   \n2. ADAS. Assessment of the availability of ‘marginal’ and ‘idle’ land for bioenergy crop production in England and Wales. Report 5(0207). Wolverhampton: ADAS UK Ltd.; 2010.   \n3. Allen SR, Hammond GP, McKenna RC. The thermodynamic implications of electricity end-use for heat and power. Proc. Instn Mech. Engrs Part A. 2017;231(6):508–25.   \n4. Anandarajah G, Strachan N, Ekins P, Kannan R, Hughes N. Pathways to a Low Carbon Economy: Energy Systems Modelling, UK energy Research Centre [UKERC] energy 2050 working paper 1 (2008/001). London: UKERC; 2008.   \n5. Ares E, Hirst D. 2015. Paris Climate Change Conference. Briefing paper CPB 7393. London: House of Commons Library; 2015.   \n6. Aylott MJ, Casella E, Tubby I, Street NR, Smith P, Taylor G. Yield and spatial supply of bioenergy poplar and willow short-rotation coppice in the UK. New Phytol. 2008;178(2):358–0.   \n7. Bauen AW, Dunnett AJ, Richter GM, Dailey AG, Aylott M, Casella E, et al. Modelling supply and demand of bioenergy from short rotation coppice and Miscanthus in the UK. Bioresour Technol. 2010;101(21):8132–43.   \n8. Centre for Alternative Technology [CAT]. Zero Carbon Britain 2030: A new energy strategy. Machynlleth: CAT Publications; 2010.   \n9. Chandel AK, Chandrasekhar G, Radhika K, Ravinder R, Ravindra P. Bioconversion of pentose sugars into ethanol: a review and future directions. Biotechnol Mol Biol Rev. 2011;6(1):8–20.   \n10. Committee on Climate Change [CCC]. Building a Low-Carbon Economy – The UK’s Contribution to Tackling Climate Change. London: The Stationary Office Limited; 2008.   \n11. Committee on Climate Change [CCC]. Bioenergy Review. London: CCC; 2011.   \n12. Committee on Climate Change [CCC]. Biomass in a Low Carbon Economy. London: CCC; 2018.   \n13. Confederation of European Paper Industries [CEPI]. The Forest Fibre Industry: 2050 Roadmap to a low-carbon bio-economy. Brussels: CEPI; 2011.   \n14. Cooper SJG, Hammond GP. ‘Decarbonising’ UK industry: towards a cleaner economy. Proc. Instn Civil. Engrs: Energy. 2018;171(4):147–57.   \n15. Davis G. Evolving sources or revolutionary technology – exploring alternative energy paths to 2050. London: Shell International Ltd.; 2001.   \n16. Davies SM, Linforth RS, Wilkinson SJ, Smart KA, Cook DJ. Rapid analysis of formic acid, acetic acid, and furfural in pretreated wheat straw hydrolysates and ethanol in a bioethanol fermentation using atmospheric pressure chemical ionisation mass spectrometry. Biotechnol Biofuels. 2011;4:28.   \n17. Department for Business, Energy & Industrial Strategy [BEIS]. Digest of United Kingdom Energy Statistics 2018. London: The Stationary Office Limited; 2018. (annual)   \n18. Department for Environment Food and Rural Affairs [Defra] and Devolved Administrations. Agriculture in the United Kingdom 2013. London: Defra; 2014.   \n19. Department for Environment Food and Rural Affairs [Defra]. UK Biomass Strategy 2007 - Working Paper 3: Anaerobic Digestion. London: Defra; 2007.   \n20. Department of Energy & Climate Change [DECC]. The UK Renewable Energy Strategy. Cm 7686. London: The Stationary Office Limited; 2009.   \n21. Department of Energy & Climate Change [DECC]. 2050 Pathways analysis. London: DECC; 2010.   \n22. Department of Energy & Climate Change [DECC]. The Carbon Plan: Delivering our low carbon future. London: DECC; 2011.   \n23. Department of Energy & Climate Change [DECC]. Department for Environment and Rural Affairs [Defra], and Department for Transport [DfT]. In: UK Bioenergy Strategy. London: DECC; 2012.   \n24. Ekins P, Anandarajah G, Strachan N. Towards a low-carbon economy: scenarios and policies for the UK. Clim Pol. 2011;11(2):865–82.   \n25. Elghali L, Clift R, Sinclair P, Panoutsou C, Bauen A. Developing a sustainability framework for the assessment of bioenergy systems. Energy Policy. 2007;35(12):6075–83.   \n26. European Environment Agency [EEA]. Estimating the environmentally compatible bioenergy potential from agriculture. Technical Report 12. Luxembourg: Office for Official Publications of the European Communities, Luxembourg; 2007.   \n27. Everett B, Boyle G, Peake S, Ramage R, editors. Energy systems and sustainability: power for a sustainable future. 2nd ed. Oxford: Oxford University Press; 2012.   \n28. Faaij A. Modern biomass conversion technologies. Mitig Adapt Strateg Glob Chang. 2006;11(2):343–75.   \n29. Fargione J, Hill J, Tilman D, Polasky S, Hawthorne P. Land clearing and the biofuel carbon debt. Science. 2008;319(5867):1235–8.   \n30. Geels FW, Kern F, Fuchs G, Hinderer N, Kungl G, Mylan J, et al. The enactment of socio-technical transition pathways: a reformulated typology and a comparative multi-level analysis of the German and UK low-carbon electricity transitions (1990–2014). Res Policy. 2016;45(4):896–913.   \n31. Glithero NJ, Ramsden SJ, Wilson P. Barriers and incentives to the production of bioethanol from cereal straw: a farm business perspective. Energy Policy. 2013;59:161–71.   \n32. Glithero NJ, Wilson P, Ramsden SJ. Optimal combinable and dedicated energy crop scenarios for marginal land. Applied Energy Policy. 2015;147:82–91.   \n33. Gough C, Thornley P, Mander S, Vaughan N, Lea-Langton A, editors. Biomass energy with carbon capture and storage (BECCS): unlocking negative emissions. Chichester: Wiley; 2018.   \n34. Griffin PW, Hammond GP, Norman JB. Industrial energy use and carbon emissions reduction: a UK perspective. WIREs Energy Environ. 2016;5(6):684–714.   \n35. Griffin PW, Hammond GP, Norman JB. Industrial decarbonisation of the pulp and paper sector: a UK perspective. Appl Therm Eng. 2018a;134:152–62.   \n36. Griffin PW, Hammond GP, Norman JB. Industrial energy use and carbon emissions reduction in the chemicals sector: a UK perspective. Appl Energy. 2018b;227:587–602.   \n37. Gross R, Leach M, Bauen A. Progress in renewable energy. Environ Int. 2003;29:105–22.   \n38. Gupta A, Verma JP. Sustainable bio-ethanol production from agro-residues: a review. Renew Sust Energ Rev. 2015;41:550–67.   \n39. Hammond GP. Alternative energy strategies for the United Kingdom revisited: market competition and sustainability. Technol Forecast Soc Chang. 1998;59(2):131–51.   \n40. Hammond GP. Energy, environment and sustainable development: a UK perspective. Trans. IChemE Part B: Process Saf Environ Prot. 2000;78(4):304–23.   \n41. Hammond GP, Hazeldine T. Indicative energy technology assessment of advanced rechargeable battery technologies. Appl Energy. 2015;138:559–71.   \n42. Hammond GP, Howard HR, Tuck A. Risk assessment of UK biofuel developments within the rapidly evolving energy and transport sectors. Proc. Instn Mech. Engrs Part O J Risk Reliability. 2012;226(5):526–48.   \n43. Hammond GP, Jones CI, 2011. Sustainability criteria for energy resources and technologies, in: Galarraga I, González-Eguino M, Markandya A, editors. Handbook of Sustainable Energy. Cheltenham: Edward Elgar; 2011. Ch. 2, 21–46.   \n44. Hammond GP, Kallu S, McManus MC. The development of biofuels for the UK automotive market. Appl Energy. 2008;85(6):506–15.   \n45. Hammond GP, Li B. Environmental and resource burdens associated with world biofuel production out to 2050: footprint components from carbon emissions and land use to waste arisings and water consumption. GCB Bioenergy. 2016;8(5):894–908.   \n46. Hammond GP, Mansell RV. A comparative thermodynamic evaluation of bioethanol processing from wheat straw. Appl Energy. 2018;224:136–46.   \n47. Hammond GP, Waldron R. Risk assessment of UK electricity supply in a rapidly evolving energy sector. Proc. Instn Mech. Engrs Part A: J Power Energy. 2008;222(7):623–42.   \n48. Hart D, Bauen A, Chase A, Howes J. Biofuels and Hydrogen from Renewable Resources in the UK to 2050: A Technical Analysis. Report (for the Department for Transport). London: E4tech (UK) Ltd.; 2003.   \n49. Haughton AJ, Bond AJ, Lovett AA, Dockerty T, Sünnenberg G, Clark SJ, et al. A novel, integrated approach to assessing social, economic and environmental implications of changing rural land use: a case study of perennial biomass crops. J Appl Ecol. 2009;46(2):315–22.   \n50. Her Majesty’s Government [HMG]. Meeting the Energy Challenge - A White Paper on Energy. London: The Stationary Office Limited; 2007.   \n51. Her Majesty’s Government [HMG]. Climate Change Act 2008. Chapter 27. London: The Stationary Office Limited; 2008.   \n52. Her Majesty’s Government [HMG]. The Clean Growth Strategy: Leading the Way to a Low Carbon Future. London: Department of Business, Energy and Industrial Strategy (BEIS); 2017.   \n53. Intergovernmental Panel on Climate Change [IPCC]. Climate Change 2013 - The Physical Science Basis. Cambridge: Cambridge University Press; 2013.   \n54. Intergovernmental Panel on Climate Change [IPCC]. Global Warming of $1 . 5 ^ { \\circ }$ C – Summary for Policymakers. Cambridge: IPCC; 2018.   \n55. International Energy Agency [IEA]. Energy Technology Perspectives. Paris: Organisation of Economic Co-operation and Development (OCED)/IEA; 2008.   \n56. International Energy Agency [IEA]. Technology Roadmap: Biofuels for Transport. Paris: Organisation of Economic Co-operation and Development (OCED)/IEA; 2011.   \n57. Khoo HH. Review of bio-conversion pathways of lignocellulose-to-ethanol: sustainability assessment based on land footprint projections. Renew Sust Energ Rev. 2015;46:100–19.   \n58. Koplow D. Biofuels - at what cost? Government support for ethanol and biodiesel in the United States. Geneva: Global Subsidies Initiative (GSI), International Institute for Sustainable Development (IISD); 2006.   \n59. Korhaliller S. The UK’s Biomass Energy Development Path. London: International Institute for Environment and Development (IIED); 2010.   \n60. Kumar R, Tabatabaei M, Karimi K, Horváth IS. Recent updates on lignocellulosic biomass derived ethanol - a review. Biofuel Research Journal. 2016;9:347–56.   \n61. Kutas G, Lindberg C, Steenblik R. Biofuels - at what cost? Government support for ethanol and biodiesel in the European Union. Geneva: Global Subsidies Initiative (GSI), International Institute for Sustainable Development (IISD); 2007.   \n62. Leach G, Lewis C, Romig F, van Buren A, Foley G. A low energy strategy for the United Kingdom. London: The International Institute for Environment and Development/Science Reviews Ltd.; 1979.   \n63. Lovett AA, Richter GM, Dailey AG, Riche AB, Karp A. Land use implications of increased biomass production identified by GIS-based suitability and yield mapping for Miscanthus in England. Bioenergy Res. 2009;2(1–2):17–28.   \n64. Mabee WE, McFarlane PN, Saddler JN. Biomass availability for lignocellulosic ethanol production. Biomass Bioenergy. 2011;35(11):4519–29.   \n65. Makridakis S, Wheelwright SC, Hyndman RJ. Forecasting: methods and applications. 3rd ed. New York: Wiley; 1998.   \n66. Matias JCO, Devezas TC. Consumption dynamics of primary-energy sources: the century of alternative energies. Appl Energy. 2007;84(7–8):763–70.   \n67. McCormick K, Kaberger T. Key barriers for bioenergy in Europe: economic conditions, know-how and institutional capacity, and supply chain coordination. Biomass Bioenergy. 2007;31(7):443–52.   \n68. McKendry P. Energy production from biomass (part 1): overview of biomass. Bioresour Technol. 2002a;83(1):37–46.   \n69. McKendry P. Energy production from biomass (part 2): conversion technologies. Bioresour Technol. 2002b;83(1):47–54.   \n70. Mood SH, Golfeshan AH, Tabatabaei M, Jouzani GS, Najafi GH, Gholami M, Ardjmand M. Lignocellulosic biomass to bioethanol, a comprehensive review with a focus on pretreatment. Renew Sust Energ Rev. 2013;27:77–93.   \n71. Nakicenovic N, Grubler A, McDonald A. Global energy perspectives. Cambridge: Cambridge University Press; 1998.   \n72. Office of the Gas and Electricity Markets [Ofgem]. Renewables Obligation: Annual Report 2010-2011. London: Ofgem; 2011.   \n73. Parliamentary Office of Science and Technology [POST]. Bioenergy. POSTnote 410. London: POST; 2012.   \n74. Perry M, Rosillo-Calle F. Recent trends and future opportunities in UK bioenergy: Maximising biomass penetration in a centralised energy system. Biomass Bioenergy. 2008;32(8):688–701.   \n75. Porter AL, Roper AT, Mason TW, Rossini FA, Banks J. Forecasting and Management of Technology. New York: Wiley; 1991.   \n76. Ricardo Energy & Environment. Biomass Feedstock Availability. Report ED 662421043 (for BEIS). Harwell, Didcot: Ricardo Energy & Environment; 2017.   \n77. Rowe RL, Street NR, Taylor G. Identifying potential environmental impacts of large-scale deployment of dedicated bioenergy crops in the UK. Renew Sust Energ Rev. 2009;13:271–90.   \n78. Royal Academy of Engineering [RAEng]. Sustainability of Liquid Biofuels. London: RAEng; 2017.   \n79. Royal Commission on Environmental Pollution [RCEP]. Twenty-second Report: Energy - The Changing Climate. London: The Stationary Office Limited; 2000.   \n80. Royal Commission on Environmental Pollution [RCEP]. Biomass as a renewable energy source. London: RCEP; 2004.   \n81. The Royal Society [RoySoc]. Sustainable Biofuels: Prospects and Challenges. Policy Document 01/08, No. 22. London: The Royal Society; 2008.   \n82. Sims REH, Hastings A, Schlamadinger B, Taylor $\\mathsf { G } ,$ Smith P. Energy crops: current status and future prospects. Glob Chang Biol. 2006; 12(11):2054–76.   \n83. Skea J, Ekins P, Winskel M, editors. Energy 2050: making the transition to a secure low carbon energy system for the UK. London: Earthscan/James & James; 2011.   \n84. Slade R, Gross R, Bauen A. Estimating bio-energy resource potentials to 2050: learning from experience. Energy Environ Sci. 2011;4(8):2645–57.   \n85. Slesser M. Energy in the economy. London: Macmillan; 1978.   \n86. Speirs J, McGlade C, Slade R. Uncertainty in the availability of natural resources: Fossil fuels, critical metals and biomass. Energy Policy. 2015;87:654–64.   \n87. Strachan N, Kannan R, Pye S. Scenarios and Sensitivities on Long-term UK Carbon Reductions using the UK MARKAL and MARKAL-Macro Energy System Models. UK Energy Research Centre [UKERC] Energy 2050 Working paper 2 (2008/002). London: UKERC; 2008.   \n88. Tester JW, Drake EM, Driscoll MJ, Golay MW, Peters WA. Sustainable energy: choosing among options. Cambridge: MIT Press; 2005.   \n89. Thornley P. Sustainability constraints on UK bioenergy development. Energy Policy 2009. 2009;37(12):5623 –35.   \n90. Stupak I, Asikainen A, Jonsell M, Karltun E, Lunnan A, Mizaraite D, et al. Sustainable utilisation of forest biomass for energy — Possibilities and problems: Policy, legislation, certification, and recommendations and guidelines in the Nordic, Baltic, and other European countries. Biomass and Bioenergy 2007;31(10):666 –684.   \n91. UK Energy Research Centre [UKERC]. Making the Transition to a Secure and Low-Carbon Energy System: Synthesis Report. (UKERC Energy 2050 Project.). London: UKERC; 2009.   \n92. Wills G, Wilson R, Manning N, Hildebrandt R. Technological forecasting: the art and its managerial implications. Harmondsworth: Penguin Books; 1972.   \n93. Wilson P, Glithero NJ, Ramsden SJ. Prospects for dedicated energy crop production and attitudes towards agricultural straw use: the case of livestock farmers. Energy Policy. 2014;74:101 –10.   \n94. Wimalasena TT, Darren Greetham D, Marvin ME, Liti G, Chandelia Y, Hart A, et al. Phenotypic characterisation of Saccharomyces spp yeast for tolerance to stresses encountered during fermentation of lignocellulosic residues to produce bioethanol. Microbial Cell Factories. 2014;13:47. ",
+    "bbox": [
+      92,
+      825,
+      482,
+      927
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      91,
+      905,
+      925
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Page 22 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      373,
+      51
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      90,
+      110,
+      487,
+      926
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      116,
+      907,
+      926
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Page 23 of 24 ",
+    "bbox": [
+      825,
+      39,
+      905,
+      51
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      92,
+      39,
+      373,
+      51
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      92,
+      110,
+      485,
+      396
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Ready to submit your research? Choose BMC and benefit from: ",
+    "text_level": 1,
+    "bbox": [
+      527,
+      782,
+      833,
+      792
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "·fast,convenient online submission   \n·thorough peer review by experienced researchers in your field   \n·rapid publication on acceptance   \n·support for research data,including large and complex data types   \n·gold Open Access which fosters wider collaboration and increased citations   \n·maximum visibility for your research: over 1ooM website views per year ",
+    "bbox": [
+      531,
+      805,
+      894,
+      878
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "At BMC, research is always in progress. ",
+    "text_level": 1,
+    "bbox": [
+      529,
+      891,
+      715,
+      901
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Learn more biomedcentral.com/submissions ",
+    "bbox": [
+      529,
+      910,
+      742,
+      920
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Page 24 of 24 ",
+    "bbox": [
+      825,
+      40,
+      905,
+      50
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "■BMC ",
+    "bbox": [
+      788,
+      896,
+      894,
+      918
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Allen and Hammond (2019) 1:3 ",
+    "bbox": [
+      94,
+      39,
+      374,
+      51
+    ],
+    "page_idx": 23
+  }
+]

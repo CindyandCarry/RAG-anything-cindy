@@ -1,0 +1,2319 @@
+[
+  {
+    "type": "text",
+    "text": "A new type of Maxwell stress in soft materials due to quantum mechanical-elasticity coupling ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      216,
+      799,
+      262
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Xiaobao Li a , Liping Liu b,c , Pradeep Sharma a,d,n a Department of Mechanical Engineering, University of Houston, Houston, TX 77204, USA b Department of Mathematics, Rutgers University, NJ 08854, USA c Department of Mechanical Aerospace Engineering, Rutgers University, NJ 08854, USA d Department of Physics, University of Houston, Houston, TX 77204, USA ",
+    "bbox": [
+      66,
+      270,
+      500,
+      291
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      297,
+      545,
+      343
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "a r t i c l e i n f o ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      373,
+      231,
+      388
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "a b s t r a c t ",
+    "text_level": 1,
+    "bbox": [
+      360,
+      374,
+      477,
+      388
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Article history:   \nReceived 1 June 2015   \nReceived in revised form   \n22 November 2015   \nAccepted 26 November 2015   \nAvailable online 28 November 2015   \nKeywords:   \nSoft material   \nQuantum mechanical-elasticity coupling   \nNanoactuator ",
+    "bbox": [
+      66,
+      402,
+      268,
+      471
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      479,
+      294,
+      524
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "All dielectrics deform when subjected to an electric field. This behavior is attributed to the so-called Maxwell stress and the origins of this phenomenon can be traced to geometric deformation nonlinearities. In particular, the deformation is large when the dielectric is elastically soft (e.g. elastomer) and negligible for most “hard” materials. In this work, we develop a theoretical framework which shows that a striking analog of the electrostatic Maxwell stress also exists in the context of quantum mechanical-elasticity coupling. The newly derived quantum-elastic Maxwell stress is found to be significant for soft nanoscale structures (such as the DNA) and underscores a fresh perspective on the mechanics and physics of polarons. We discuss potential applications of the concept for soft nano-actuators and sensors and the relevance for the interpretation of opto-electronic properties. ",
+    "bbox": [
+      360,
+      402,
+      924,
+      530
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2015 Elsevier Ltd. All rights reserved. ",
+    "bbox": [
+      674,
+      532,
+      924,
+      544
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      603,
+      183,
+      617
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The electrostatic Maxwell stress represents a peculiar one-way electromechanical coupling. All dielectrics deform under the action of an electric field.1 For conventional crystalline dielectrics, e.g. Silicon, this deformation is negligible. Maxwell's stress therefore is of little significance in hard materials. Qualitatively, the mechanical strain due to the Maxwell's stress scales as ${ \\sim } \\epsilon E ^ { 2 } / 2 Y$ where $\\epsilon$ is the permittivity of the material, E indicates the magnitude of the electric field and Y represents the elastic stiffness of the dielectric. Evidently a softer material is more susceptible to the Maxwell stress and experiments indicate that strains of $1 0 0 \\%$ and even more may be achieved in soft dielectrics like elastomers (see Fig. 1) (Pelrine et al., 2000; Keplinger et al., 2010; Li et al., 2013). ",
+    "bbox": [
+      66,
+      632,
+      926,
+      731
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Numerous works, both classics and modern expositions, have contributed to our understanding of the Maxwell stress and related matters. For example, some of the earlier works are (Toupin, 1956; Eringen, 1963; Pao, 1978; Eringen and Maugin, 1989) and more recently, the topic has been revisited by many groups: (Dorfmann and Ogden, 2005; McMeeking and Landis, 2005; Suo et al., 2008; Zhao and Suo, 2008; Liu, 2013, 2014). The modern impetus for this topic arises due to the rather tantalizing applications of soft multifunctional materials. Unlike their hard counterparts, soft materials are usually lighter, cheaper, easily fabricated and are capable of large deformations. The potential advantages of soft materials as artificial muscles, actuators, optical fiber switches, energy harvesters, and even as medical devices, are well-documented (Fraysse et al., 2002). The many clever applications of the Maxwell stress concept in the context of soft multifunctional materials, that range from energy harvesting to soft loud speakers, are well-illustrated recently by the works of Koh et al. (2011), Zhao et al. (2007), Zhao and Suo (2010), and Li et al. (2013). In particular, Maxwell stress may be combined with the notion of electrets to design novel kinds of apparently piezoelectric materials (Kacprzyk et al., 1995; Paajanen et al., 2000; Bauer et al., 2004; Wegener and Bauer, 2005; Hillenbrand and Sessler, 2008; Deng et al., 2014a,b; Alameh et al., 2015). ",
+    "bbox": [
+      66,
+      731,
+      926,
+      816
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Contents lists available at ScienceDirect Journal of the Mechanics and Physics of Solids journal homepage: www.elsevier.com/locate/jmps ",
+    "bbox": [
+      64,
+      70,
+      926,
+      180
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "http://dx.doi.org/10.1016/j.jmps.2015.11.009 0022-5096/& 2015 Elsevier Ltd. All rights reserved. ",
+    "bbox": [
+      66,
+      898,
+      356,
+      921
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of the Mechanics and Physics of Solids 87 (2016) 115–129 ",
+    "bbox": [
+      323,
+      44,
+      694,
+      55
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Crossmark ",
+    "bbox": [
+      819,
+      218,
+      924,
+      249
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "n Corresponding author at: Department of Mechanical Engineering, University of Houston, Houston, TX 77204, USA. E-mail address: psharma@uh.edu (P. Sharma). 1 The electromechanical coupling is one-way in the sense that although an electric field deforms the material, a mechanical force does not induce a polarization at the absence of an external field. ",
+    "bbox": [
+      66,
+      840,
+      926,
+      886
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/5e7ed4da5761d2fcd88588928c92e23bbf654e66cb1be54b6349c08b7f175db4.jpg",
+    "image_caption": [
+      "Fig. 1. The figure on the left shows the initial state (reference configuration) of the dielectric in the absence of an external electric field. The figure on the right shows the areal expansion and the reduction in the thickness due to the Maxwell stress produced by an applied electric field (current configuration). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      202,
+      74,
+      801,
+      214
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/3a0a62a95e18d8e828c96987f8beef0efc0efdd843afd57e2a36b9a34db67c02.jpg",
+    "image_caption": [
+      "Fig. 2. A charge carrier is injected/activated into the small scale soft material and is trapped at a certain location. The charge carrier together with localized surrounding deformation forms the quasi-particle called polaron. The strain field depends on the electron–acoustic coupling strength. Once a polaron is formed, any stimuli that disturbs the quantum field (wave function) will alter the strain field thus causing additional mechanical deformation. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      273,
+      269,
+      727,
+      466
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      71,
+      522,
+      935,
+      610
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In parallel to electrostatics, significant research also exists on the effect of mechanical strain on the quantum mechanical state of materials (Jiang and Singh, 1997; Johnson et al., 1998; Stier et al., 1999; Maranganti and Sharma, 2006). This topic, in particular, was strongly revitalized with the advent of the modern semiconductor technology in the early seventies. Strain is now widely used to tweak the electronic structure of quantum dots, wires and related structures—the band gap for instance. Such quantum structures, in turn, find applications in next generation lighting (Arakawa, 2002; Nakamura et al., 2002), lasers (Bhattacharya, 2000; Deppe and Huffaker, 2000) and sensors (Bhattacharya et al., 2002) among others (Grundmann et al., 1995; Tersoff et al., 1996; Bimberg et al., 1999; Williamson and Zunger, 1998; Bimberg, 1999; Bandhyopadhyay and Nalwa, 2003). ",
+    "bbox": [
+      71,
+      610,
+      935,
+      726
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Aside from the effect of mechanical strain on the quantum state of materials, the converse effect also exists. Such an effect was first explicitly pointed out by Zhang et al. (2007) although other groups have alluded to this as well (Campbell et al., 1982; Conwell and Rakhmanova, 2000; Verissimo-Alves et al., 2001; Cristiano, 2009; Zhang et al., 2009). The central notion is that provided the structure is small enough for quantum effects to be apparent, not only does the strain impact the electronic signature of the nanostructure but also that any change in its electronic structure or quantum state may lead to a spontaneous deformation. Specifically Zhang et al. (2007, 2009) reported that the mechanical strain can be induced by solely changing the quantum field, or more generally, the electronic structure of quantum dots. Others have shown that spontaneous local deformation (distortion or tension) can be induced in some one-dimensional materials, e.g. polymer chain and carbon nanotubes (Campbell et al., 1982; Conwell and Rakhmanova, 2000; Verissimo-Alves et al., 2001; Cristiano, 2009). The physical origin of the induced deformation is the electron–acoustic phonon coupling which is also referred to as acoustic polaron.2 For small enough nano structures, injecting a charge carrier may form a polaron—which may be understood in rather simplistic terms as a charge carrier surrounded by a “cloud” of strain (or in the terminology of physicists, “frozen” phonons). Any stimuli that interacts with the charge carrier will then disturb the surrounding strain field and hence cause deformation (Fig. 2). ",
+    "bbox": [
+      71,
+      727,
+      933,
+      885
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 There are many other types of electron–phonon coupling such as the electron–piezoelectric polaron or electron–optical phonon couplings which are discussed in other contexts (Mahan and Hopfield, 1964; McCombe and Kaplan, 1968). ",
+    "bbox": [
+      68,
+      909,
+      931,
+      933
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      44,
+      643,
+      55
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "116 ",
+    "bbox": [
+      73,
+      45,
+      93,
+      55
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      72,
+      926,
+      115
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "All prior works have exclusively worked in the realm of small deformation—for good reasons. Their intended application materials (conventional semiconductors, nanotubes) are elastically stiff. However, both experimental and theoretical research have shown that polarons are a significant contributor to the charge transport properties of soft nano structures such as DNA and polymer chains. Since the concept of electrostatic Maxwell's stress emerges from the correct accounting of geometrically nonlinear deformation in the context of electric-field elasticity interaction, we were inspired to explore a similar possibility in the case of quantum-elasticity coupling. In this work, we propose that analogous to the electrostatic Maxwell's stress, there exists a nonlinear stress that emerges out of the coupling between quantum field and elasticity. Our theoretical model ties the quantum-mechanical Maxwell stress to acoustic polarons. We present illustrative examples which suggest that the aforementioned effect is significant for soft nanostructures like DNA and polymer chains. ",
+    "bbox": [
+      66,
+      115,
+      926,
+      243
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The paper is organized as follows. The theoretical framework for the quantum Maxwell stress is developed in Section 2. In Section 3, we present both an analytical method and a numerical approach which are used to solve two illustrative examples—one pertaining to hard materials (carbon nanotube) and the other for a soft nanostructure (DNA). In Section 4, we also present the quantum Maxwell stress effect for polaron-induced bending of DNA. We conclude in Section 5, where we also discuss potential future research directions. ",
+    "bbox": [
+      66,
+      245,
+      924,
+      315
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2. Maxwell stress due to quantum mechanical-elasticity coupling ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      346,
+      553,
+      361
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In what follows, we develop a mathematical framework to reveal the existence of the quantum Maxwell stress. Our general approach to couple elasticity with quantum mechanical effects (or electronic structure) is in the spirit of envelope function and k p. . approach (Singh, 1992; Davies, 2000). The envelope function approach is simple and provides significant computational advantages for electronic structure calculations of quantum dots, bulk semiconductors and their heterostructures. For example, if only a single band (conduction and one of the valence bands) are accounted for, this approach amounts to simply solving a single Schrödinger's equation with a renormalized electron mass and effective potential. We adopt this approach in the interest of transparency and analytical tractability. The chosen approach does not impact the central message of our work. Other formalisms such as Kohn–Sham Density Functional Theory (DFT) could have also been employed, but the key ideas are most clearly presented in the envelope function approach. ",
+    "bbox": [
+      66,
+      373,
+      926,
+      502
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Consider an extra charge carrier (electron or hole) introduced into a dielectric body. Experimentally, there are many techniques to introduce extraneous charge, such as doping, injection and ionizing radiation. The change in the total energy functional pertaining to this charge carrier includes three contributions: kinetic energy of the charge carrier; the interaction energy due to the electron–acoustic phonon coupling; and the elastic strain energy due to the deformation of the dielectric body. Here, we neglect the kinetic energy of lattice motion by assuming that the time scale dictating the relaxation of the extra charge carrier is sufficiently rapid compared to atoms and is able to adjust to the instantaneous positions of the atoms (Emin and Holstein, 1976). We also restrict ourselves to a non-spin energy calculation throughout this work. ",
+    "bbox": [
+      66,
+      504,
+      926,
+      602
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Our starting point is the formulation of the Hamiltonian of the coupled system in terms of the wave function of the extra charge carrier and the elastic deformation. To define the deformation of the body, it is necessary to choose a reference configuration $\\mathcal { Q } _ { R } \\subset \\mathbb { R } ^ { 3 }$ of the body. Though the choice of reference configuration can be arbitrary and has no physical consequence, in elasticity the reference configuration is conventionally chosen to be the natural stress-free state. Let $\\chi \\colon { \\mathcal { Q } } _ { R } \\to { \\mathcal { Q } }$ be the deformation of the body and ψ: $\\varOmega  \\mathbb { C }$ be the electronic wave function which describe the state of the system. Alternatively, we can describe the state of the system by the displacement u: $\\Omega _ { R } \\to \\mathbb { R } ^ { 3 }$ and wave function $\\psi$ : $\\varOmega _ { R }  \\mathbb { C }$ in the reference configuration: ",
+    "bbox": [
+      66,
+      603,
+      926,
+      702
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/1b4cc492f50b91affc1a8f9999599fff130d5135af06a26b2a5d67f0e3374933.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathbf { x } = \\chi ( \\mathbf { X } ) { = } { : } \\mathbf { X } + \\mathbf { u } ( \\mathbf { X } ) , \\quad \\psi ( \\mathbf { x } ) { = } { : } \\psi ( \\mathbf { X } ) . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      707,
+      349,
+      723
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Here and subsequently, we denote by $\\mathbf { x }$ (resp. $\\mathbf { x }$ ) the spatial/Eulerian (resp. material/Lagrangian) coordinates, and by grad/ div and Grad/Div the gradient/divergence operator with respect to $\\mathbf { x }$ and $\\mathbf { x }$ , respectively. Also, we denote by ",
+    "bbox": [
+      64,
+      731,
+      931,
+      761
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/8d7cdf2dc4c51415b9ce0a5d29e7e2cd7f50057df1a4ea7587740d0c8d4e82e2.jpg",
+    "text": "$$\n{ \\bf F } = \\mathrm { G r a d } \\chi , J = \\operatorname * { d e t } { \\bf F } , { \\bf C } = { \\bf F } ^ { T } { \\bf F }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      766,
+      343,
+      784
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "the deformation gradient, the Jacobian, and the Cauchy–Green strain tensor, respectively. The quantum mechanical normalization condition must also be satisfied: ",
+    "bbox": [
+      62,
+      792,
+      931,
+      820
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/b4641e29ad987a1794a399017ed9348cd042e27e631b2728fc4707c1ec86b765.jpg",
+    "text": "$$\n\\int _ { \\Omega } | \\psi ( \\mathbf { x } ) | ^ { 2 } \\mathrm { d } \\mathbf { v } = \\int _ { \\Omega _ { R } } J | \\mathcal { V } ( \\mathbf { X } ) | ^ { 2 } \\mathrm { d } \\mathbf { V } = N = 1 .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      826,
+      387,
+      853
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We are interested in the effects of elastic strain on the quantum mechanical state of the material. To this end, we phenomenologically postulate that the Hamiltonian of the system is given by (Holstein, 1959) ",
+    "bbox": [
+      68,
+      861,
+      933,
+      890
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/72324d6631f8af07ca843e411f0f47006c3e1a5e681123f55ffc8353f99cd7df.jpg",
+    "text": "$$\nH [ \\Psi , \\chi ] = \\int _ { \\it { 2 R } } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } J | \\mathbf { F } ^ { - 1 } \\operatorname { G r a d } \\varPsi | ^ { 2 } + | \\varPsi | ^ { 2 } \\boldsymbol { \\mathrm { J } } \\boldsymbol { \\mathrm { U } } ( \\mathbf { F } ) + W \\left( \\mathbf { F } \\right) \\right] \\mathrm { d } \\mathsf { V } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      894,
+      512,
+      929
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      634,
+      55
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      904,
+      45,
+      924,
+      53
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "where $m ^ { * }$ is the effective mass of the charge carrier, the first term is precisely the kinetic energy of the charge carrier since ",
+    "bbox": [
+      62,
+      72,
+      935,
+      87
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/954a1d167b2e7ee6c8468731fecccb76ec490664aba08a1a905cfb9c3c84776e.jpg",
+    "text": "$$\n\\int _ { \\Omega _ { R } } { \\frac { \\hbar ^ { 2 } } { 2 m * } } J | \\mathbf { F } ^ { - 1 } \\operatorname { G r a d } \\varPsi | ^ { 2 } \\mathrm { d V } = \\int _ { \\Omega } { \\frac { \\hbar ^ { 2 } } { 2 m * } } | \\operatorname { g r a d } \\psi | ^ { 2 } \\mathrm { d } \\mathbf { v } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      94,
+      454,
+      123
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "the term $U \\colon \\mathbb { R } ^ { 3 \\times 3 }  \\mathbb { R }$ models the potential due to strain as seen by the charge carrier since ",
+    "bbox": [
+      64,
+      132,
+      720,
+      146
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/44d38c2eceff6d0abe09c4a90f67a9ada2cb82d36288d95307b3f58a503ac935.jpg",
+    "text": "$$\n\\int _ { \\varOmega _ { R } } | \\psi | ^ { 2 } \\mathrm { J U } ( \\mathbf { F } ) \\mathrm { d V } = \\int _ { \\varOmega } | \\psi | ^ { 2 } U \\mathrm { d V } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      152,
+      330,
+      180
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "and the last term W: $\\mathbb { R } ^ { 3 \\times 3 }  \\mathbb { R }$ is the elastic strain energy density. ",
+    "bbox": [
+      71,
+      188,
+      538,
+      202
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The ground state of the system is determined by the minimization problem ",
+    "bbox": [
+      86,
+      203,
+      623,
+      216
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/696f24509f9f0b62213e84bb43947b6ca12a5b68943405e954b1f56ab137efe9.jpg",
+    "text": "$$\n\\operatorname* { m i n } _ { ( \\psi _ { \\chi } ) \\in { \\cal S } } H [ \\psi , \\chi ] ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      223,
+      220,
+      246
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where the admissible space $s$ for $( \\psi , \\chi )$ requires that ",
+    "bbox": [
+      71,
+      254,
+      452,
+      269
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/ef518dba645dc9c8668f226fb902752460c0d09840b4162e2fdad4c97558e8c2.jpg",
+    "text": "$$\nS = \\{ ( { \\mathcal { V } } , \\chi ) \\colon \\operatorname* { s u p } _ { \\varOmega _ { R } } | { \\mathrm { G r a d } } \\chi | < + \\infty , \\ \\int _ { \\varOmega _ { R } } J | { \\mathcal { W } } | ^ { 2 } { \\mathrm { d V } } = 1 \\ { \\mathrm { a n d } } \\ { \\mathcal { W } } | _ { \\partial \\varOmega _ { R } } = 0 \\} .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      276,
+      566,
+      307
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We remark that the integrability conditions in the above equation are necessary for defining the Hamiltonian (4). ",
+    "bbox": [
+      68,
+      312,
+      891,
+      327
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To explore possible nontrivial polaron solutions to (5), we now calculate the associated Euler–Lagrangian equations. Assuming that $( \\psi , \\chi )$ minimize $H [ \\psi , \\chi ] ,$ , we consider variations $\\delta \\in \\mathbb R$ and $\\delta \\ll )$ ): ",
+    "bbox": [
+      71,
+      328,
+      931,
+      358
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/0337e1fab2ac6f990cbdd2b7e02811a7b51f26a0d5f4ce3b30e2f0106cf5a5c9.jpg",
+    "text": "$$\n\\chi _ { \\delta } = \\chi + \\delta \\tilde { \\chi } , ~ \\psi _ { \\delta } = \\psi + \\delta \\tilde { \\psi } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      365,
+      306,
+      382
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where $\\tilde { \\chi }$ and $\\tilde { \\psi }$ are the admissible variations. Then the first variation of $H$ will vanish for all admissible variations $( \\tilde { \\psi } , \\tilde { \\chi } )$ : ",
+    "bbox": [
+      73,
+      389,
+      928,
+      405
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/74a31b6cc74c3cd7951b27fc2e5a9212864f66c5f2e28031026da419710a0ad5.jpg",
+    "text": "$$\n\\left. { \\frac { d } { d \\delta } } I _ { \\delta } \\right| _ { \\delta = 0 } = 0 \\quad { \\bigg ( } I _ { \\delta } { : } = H [ \\varPsi _ { \\delta } , \\chi _ { \\delta } ] - \\lambda \\int _ { \\varOmega _ { R } } J _ { \\delta } | \\varPsi _ { \\delta } | ^ { 2 } \\mathrm { { d V } } { \\bigg ) } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      412,
+      437,
+      447
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where the second term in $I _ { \\delta }$ arises from the normalization condition (3) and $\\lambda$ is the associated Lagrange's multiplier. Though standard, the explicit calculations of first variations are presented for readers' convenience. First, we consider variations of wave function: $\\chi _ { \\delta } = \\chi$ and $\\psi _ { \\delta } ^ { \\prime } = \\psi + \\delta \\tilde { \\psi }$ . Then ",
+    "bbox": [
+      69,
+      455,
+      930,
+      501
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/a3f6ec09b1c52d14474bede105ef2c84614a47a55bc6e8e69e276b8a16343525.jpg",
+    "text": "$$\n\\begin{array} { r } { \\frac { \\mathrm { d } \\mathrm { I } _ { \\delta } } { d \\delta } \\Bigg \\vert _ { \\delta = 0 } = \\int _ { \\mathcal { Q } _ { R } } \\Bigg [ \\frac { \\hbar ^ { 2 } } { 2 m * } J \\mathrm { G r a d } \\varPsi \\cdot \\mathbf { C } ^ { - 1 } \\mathrm { G r a d } \\varPsi + \\varPsi \\mathrm { J } \\mathrm { U } ( \\mathbf { F } ) \\varPsi - \\lambda J \\varPsi \\varPsi + c . c . \\Bigg ] \\mathrm { d } \\mathsf { V } } \\\\ { = \\int _ { \\mathcal { Q } _ { R } } \\Bigg \\{ \\Bigg [ - \\frac { \\hbar ^ { 2 } } { 2 m * } \\mathrm { D i v } ( J \\mathbf { C } ^ { - 1 } \\mathrm { G r a d } \\varPsi ) + \\varPsi \\mathrm { J } \\mathsf { U } ( \\mathbf { F } ) - \\lambda J \\varPsi \\Bigg ] \\varPsi + c . c . \\Bigg \\} \\mathrm { d } \\mathsf { V } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      506,
+      608,
+      582
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "where the second equality follows from the divergence theorem and c c . . refers to the “complex conjugate”. Since the above quantity vanishes for arbitrary $\\tilde { \\psi }$ , an equilibrium state necessarily satisfies the first Euler–Lagrange equation: ",
+    "bbox": [
+      69,
+      587,
+      935,
+      618
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/751a135e0562f0891cf35f3efead92fa2b1958e78bb9c9ba1a61c24d556e71d1.jpg",
+    "text": "$$\n- { \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } } \\operatorname { D i v } [ J \\mathbf { C } ^ { - 1 } \\operatorname { G r a d } \\varPsi ] + \\operatorname { J U } ( \\mathbf { F } ) \\varPsi = \\lambda J \\varPsi \\quad { \\mathrm { i n ~ } } \\varOmega _ { R }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      623,
+      437,
+      654
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Alternatively, by change of variables $\\mathbf { X } \\to \\mathbf { x } = { \\boldsymbol { \\chi } } ( \\mathbf { X } )$ we rewrite the first line in (8) as ",
+    "bbox": [
+      73,
+      661,
+      665,
+      677
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/f678f3ea1de78a0a81c6975369bafbb06d64b1e4e67638a931a7aeb21f829fd8.jpg",
+    "text": "$$\n\\frac { \\mathrm { d } I _ { \\delta } } { d \\delta } \\bigg | _ { \\delta = 0 } = \\int _ { \\mathcal { Q } } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\mathrm { g r a d } \\psi \\cdot \\mathrm { g r a d } \\bar { \\psi } + \\psi I \\bar { \\psi } - \\lambda \\psi \\bar { \\psi } + c . c . \\right] \\mathrm { d } \\mathbf { V } = \\int _ { \\mathcal { Q } } \\left\\{ \\left[ - \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\mathrm { d i v } ( \\mathrm { g r a d } \\psi ) + \\psi I - \\lambda \\psi \\right] \\bar { \\psi } + \\mathrm { d } I _ { \\delta } \\mathbf { V } \\mathrm { d } \\psi \\right\\} .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      117,
+      683,
+      810,
+      721
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "which implies the familiar Schrödinger's equation in the current configuration: ",
+    "bbox": [
+      71,
+      727,
+      632,
+      743
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/8c9dc79e63d53c1269cb7ff2c5c43164cd425fd71d795d5e87771cc9ebb765ca.jpg",
+    "text": "$$\n\\left[ - { \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } } \\nabla ^ { 2 } + U \\right] \\psi = \\lambda \\psi \\quad { \\mathrm { i n ~ } } \\Omega .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      110,
+      749,
+      318,
+      784
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We remark that the above equation also follows from (9) by the change of variables $\\mathbf { X } \\to \\mathbf { X }$ . ",
+    "bbox": [
+      73,
+      791,
+      720,
+      807
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Next, we consider variations of deformation: $\\chi _ { \\delta } = \\chi + \\delta \\tilde { \\chi }$ and $\\psi _ { \\delta } = \\Psi$ . Though the wave function $\\boldsymbol { \\Psi }$ is not varied as seen from the reference configuration, the kinetic energy and interaction energy in the Hamiltonian (4) do change because the spatial wave function $\\psi ( \\mathbf { x } ) = \\psi ( \\chi _ { \\delta } ^ { - 1 } ( \\mathbf { x } ) )$ does vary. To compute their contributions in changes of Hamiltonian, we recall the algebraic identities $( \\tilde { \\mathbf { F } } = \\mathbf { G r a d } \\tilde { \\chi }$ ) : ",
+    "bbox": [
+      71,
+      807,
+      935,
+      867
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/d513bd0ada377f21111281af9eb5817123e3d6cb4a789d3658a9228f2344c093.jpg",
+    "text": "$$\n\\begin{array} { r l } & { \\mathbf { F } _ { \\delta } = \\mathbf { F } + \\delta \\tilde { \\mathbf { F } } + o ( \\delta ) , \\quad \\mathbf { F } _ { \\delta } ^ { - 1 } = \\mathbf { F } ^ { - 1 } - \\delta \\mathbf { F } ^ { - 1 } \\tilde { \\mathbf { F } } \\mathbf { F } ^ { - 1 } + o ( \\delta ) } \\\\ & { J _ { \\delta } = J [ 1 + \\delta \\operatorname { T r } ( \\mathbf { F } ^ { - 1 } \\tilde { \\mathbf { F } } ) ] + o ( \\delta ) , \\quad \\mathbf { C } _ { \\delta } ^ { - 1 } = \\mathbf { C } ^ { - 1 } - \\delta ( \\mathbf { F } ^ { - 1 } \\tilde { \\mathbf { F } } \\mathbf { C } ^ { - 1 } + \\mathbf { C } ^ { - 1 } \\tilde { \\mathbf { F } } ^ { T } \\mathbf { F } ^ { - T } ) + o ( \\delta ) , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      873,
+      613,
+      912
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "and introduce the following quantities: ",
+    "bbox": [
+      71,
+      919,
+      351,
+      933
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. $/ J .$ Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      43,
+      645,
+      56
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "118 ",
+    "bbox": [
+      73,
+      44,
+      93,
+      55
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/394bdc0d9447d2ada6f2e42bd595c137b731c06e06599cc9b47220ec61c73842.jpg",
+    "text": "$$\n\\begin{array} { l } { { \\displaystyle \\boldsymbol { \\Sigma } _ { \\mathrm { i n t } } = | \\mathcal { V } | ^ { 2 } \\frac { \\partial | \\boldsymbol { \\mathsf { U } } ( \\boldsymbol { \\mathsf { F } } ) } { \\partial \\boldsymbol { \\mathsf { F } } } , \\quad \\boldsymbol { \\Sigma } _ { \\mathrm { m e c h } } = \\frac { \\partial W ( \\boldsymbol { \\mathsf { F } } ) } { \\partial \\boldsymbol { \\mathsf { F } } } , \\quad \\boldsymbol { \\Sigma } _ { \\mathrm { c h e m } } = \\mathrm { ~ - ~ } \\lambda J \\boldsymbol { \\mathsf { F } } ^ { - T } | \\mathcal { H } | ^ { 2 } , } } \\\\ { { \\displaystyle \\sigma _ { \\mathrm { i n t } } = \\frac { 1 } { J } \\boldsymbol { \\Sigma } _ { \\mathrm { i n t } } \\boldsymbol { \\mathsf { F } } ^ { T } , \\quad \\sigma _ { \\mathrm { m e c h } } = \\frac { 1 } { J } \\boldsymbol { \\Sigma } _ { \\mathrm { m e c h } } \\boldsymbol { \\mathsf { F } } ^ { T } , \\quad \\sigma _ { \\mathrm { c h e m } } = \\frac { 1 } { J } \\boldsymbol { \\Sigma } _ { \\mathrm { c h e m } } \\boldsymbol { \\mathsf { F } } ^ { T } = \\mathrm { ~ - ~ } \\lambda | \\boldsymbol { \\psi } | ^ { 2 } \\boldsymbol { \\mathsf { I } } . } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      72,
+      573,
+      134
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the classic continuum mechanics, the quantities in the first line of (12) can be identified as the Piola–Kirchhoff stress (of various physical origins) whereas the quantities in the second line are the Cauchy stress. Then we have that ",
+    "bbox": [
+      64,
+      140,
+      935,
+      171
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/a7b3ef2bb86322c38d4687f25d75a3ef26ba08881cd32fe761b6c3e553bdd27c.jpg",
+    "text": "$$\n\\left. \\frac { d } { d \\delta } I _ { \\delta } \\right| _ { \\delta = 0 } = : T 1 + T 2 + T 3 + T 4 ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      175,
+      314,
+      208
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where terms T T T 1, 2, 3 and T 4 arise from the 1st, 2nd, 3rd term on the right-hand side of (4) and Lagrange's multiplier term in (7), respectively. Tedious but straightforward calculations yield that ",
+    "bbox": [
+      66,
+      215,
+      931,
+      245
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/a6290d16e5277579ff282601a4c1a737c51978ced43fecca2f628ccc1f9ddace.jpg",
+    "text": "$$\n\\begin{array} { l } { { \\displaystyle T 1 = \\int _ { \\it { \\Omega } _ { R } } \\frac { \\hbar ^ { 2 } J } { 2 m * \\tilde { \\langle } } \\bigg \\langle [ 1 { \\bf F } ^ { - T } \\mathrm { G r a d } ~ \\psi { \\boldsymbol { | } } ^ { 2 } { \\bf I } - ( { \\bf F } ^ { - T } \\mathrm { G r a d } ~ \\psi ) \\otimes ( { \\bf F } ^ { - T } \\mathrm { G r a d } ~ \\psi * ) } } \\\\ { ~ - ( { \\bf F } ^ { - T } \\mathrm { G r a d } ~ \\psi * ) \\otimes ( { \\bf F } ^ { - T } \\mathrm { G r a d } ~ \\psi ) ] { \\bf F } ^ { - T } , \\mathrm { G r a d } ~ \\tilde { \\chi } ~ \\bigg \\rangle \\mathrm { d V } }  \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      249,
+      545,
+      318
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/ca8ad7a971b35cda6d0829c0ebba49453a8a835043efbb5adfebb7c246c3d41c.jpg",
+    "text": "$$\n\\begin{array} { r l } & { = \\displaystyle \\int _ { \\varOmega } \\frac { \\hbar ^ { 2 } } { 2 m * } \\Bigg \\langle | \\mathrm { g r a d } \\psi | ^ { 2 } \\mathbf { I } - \\mathrm { g r a d } \\psi \\otimes \\mathrm { g r a d } \\psi * - \\mathrm { g r a d } \\psi * \\otimes \\mathrm { g r a d } \\psi , \\mathrm { g r a d } \\tilde { \\chi } \\Bigg \\rangle \\mathrm { d v } , } \\\\ & { \\displaystyle T 2 = \\int _ { \\varOmega _ { R } } \\Sigma _ { \\mathrm { i n t } } \\cdot \\mathrm { G r a d } \\tilde { \\chi } \\mathrm { d V } = \\int _ { \\varOmega } \\sigma _ { \\mathrm { i n t } } \\mathrm { g r a d } \\tilde { \\chi } \\mathrm { d v } , } \\\\ & { \\displaystyle T 3 = \\int _ { \\varOmega _ { R } } \\Sigma _ { \\mathrm { m e c h } } \\cdot \\mathrm { G r a d } \\tilde { \\chi } \\mathrm { d V } = \\int _ { \\varOmega } \\sigma _ { \\mathrm { m e c h } } \\cdot \\mathrm { g r a d } \\tilde { \\chi } \\mathrm { d v } , } \\\\ & { \\displaystyle T 4 = \\int _ { \\varOmega _ { R } } \\Sigma _ { \\mathrm { c h e m } } \\cdot \\mathrm { G r a d } \\tilde { \\chi } \\mathrm { d V } = \\int _ { \\varOmega } \\sigma _ { \\mathrm { c h e m } } \\cdot \\mathrm { g r a d } \\tilde { \\chi } \\mathrm { d v } , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      104,
+      334,
+      630,
+      452
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where $\\langle , \\rangle$ denotes the inner product over a complex field, and the second equalities in the above equations follow from the change of variables $\\mathbf { X } \\to \\mathbf { x }$ . In analogy with T T T2, 3, 4, we rewrite the first of (14) by introducing the quantum Maxwell stress3 ",
+    "bbox": [
+      66,
+      460,
+      926,
+      501
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/f0cf8dd77d44519bcbb2e83f6082ba4483a9d33852909d13824513b8f790cd23.jpg",
+    "text": "$$\n\\Sigma _ { \\mathsf { Q M } } = { \\frac { \\hbar ^ { 2 } J } { 2 m ^ { * } } } [ | \\mathbf { F } ^ { - T } \\operatorname { G r a d } \\ \\psi | ^ { 2 } \\mathbf { I } - ( \\mathbf { F } ^ { - T } \\operatorname { G r a d } \\ \\psi ) \\otimes ( \\mathbf { F } ^ { - T } \\operatorname { G r a d } \\ \\psi _ { * } ) - ( \\mathbf { F } ^ { - T } \\operatorname { G r a d } \\ \\psi _ { * } ) \\otimes ( \\mathbf { F } ^ { - T } \\operatorname { G r a d } \\ \\psi ) ] \\mathbf { F } ^ { - T }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      508,
+      755,
+      537
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Collecting all terms in (13), by (7) and (14) and the divergence theorem we have the second Euler–Lagrange equation: ",
+    "bbox": [
+      62,
+      544,
+      908,
+      560
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/db2e55a7fa09be973a5303dca7b77c0d66a6fccd40e2a7dc26ec603ed477087f.jpg",
+    "text": "$$\n\\mathrm { D i v } [ \\Sigma _ { \\mathrm { m e c h } } + \\Sigma _ { \\mathrm { i n t } } + \\Sigma _ { \\mathrm { c h e m } } + \\Sigma _ { \\mathrm { Q M } } ] = 0 \\quad \\mathrm { i n ~ } \\Omega _ { R } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      564,
+      415,
+      582
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "and boundary condition: ",
+    "bbox": [
+      66,
+      590,
+      240,
+      603
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/ba8d0eb7055e7aa88209435cdc8692133a42b590b427104ea621f175028f0bbb.jpg",
+    "text": "$$\n( \\Sigma _ { \\mathrm { m e c h } } + \\Sigma _ { \\mathrm { i n t } } + \\Sigma _ { \\mathrm { c h e m } } + \\Sigma _ { \\mathrm { Q M } } ) { \\bf N } = 0 \\quad \\mathrm { o n } \\ \\partial \\Omega _ { R } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      609,
+      415,
+      625
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where $\\mathbf { N }$ is the unit outward normal on $\\partial \\Omega _ { R }$ . By a direct change of variables $\\mathbf { X } \\to \\mathbf { x }$ , in the current configuration we can rewrite the quantum Maxwell stress as ",
+    "bbox": [
+      58,
+      633,
+      931,
+      663
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/bd95975c774c8069f4f09762d0eb871e1deb33c0e1202900a188fea3046a9e42.jpg",
+    "text": "$$\n\\sigma _ { \\mathrm { Q M } } = \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\{ | \\ \\mathrm { g r a d } \\ \\psi | ^ { 2 } \\mathbf { I } - \\mathrm { g r a d } \\ \\psi \\otimes \\ \\mathrm { g r a d } \\ \\psi ^ { * } - \\mathrm { g r a d } \\ \\psi ^ { * } \\otimes \\ \\mathrm { g r a d } \\ \\psi ]\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      668,
+      555,
+      698
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "and (16) and (17) as ",
+    "bbox": [
+      66,
+      706,
+      211,
+      721
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/1ac8594c1dbc66dada54d21e44d46e51625247d0203dfd027d0523a599b5db30.jpg",
+    "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathrm { d i v } [ \\sigma _ { \\mathrm { m e c h } } + \\sigma _ { \\mathrm { i n t } } + \\sigma _ { \\mathrm { c h e m } } + \\sigma _ { \\mathrm { Q M } } ] = 0 } & { \\mathrm { i n ~ } \\varOmega , } \\\\ { ( \\sigma _ { \\mathrm { m e c h } } + \\sigma _ { \\mathrm { i n t } } + \\sigma _ { \\mathrm { c h e m } } + \\sigma _ { \\mathrm { Q M } } ) \\mathbf { n } = 0 } & { \\mathrm { o n ~ } \\partial \\varOmega . } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      106,
+      726,
+      415,
+      764
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We remark that Eqs. (16) and $( 1 9 ) _ { 1 }$ are the mechanical equilibrium equation in the reference and current configurations, respectively. As demonstrated in the above calculations, the quantum Maxwell stress $\\pmb { \\Sigma } _ { \\mathrm { Q M } } / \\sigma _ { \\mathrm { Q M } }$ emerges through the consideration of large deformation and geometric nonlinearities. Those familiar with the origins of the electro-static Maxwell's stress will note the striking analogy. Beside the new derived quantum Maxwell stress, there are stresses due to electron– acoustic phonon interaction and the external applied force. It is seen that the quantum Maxwell stress arises purely from quantum mechanical-elasticity coupling which implies that even for the materials with a very weak electron–phonon coupling constant, the quantum Maxwell stress will still be present and may cause deformation. ",
+    "bbox": [
+      64,
+      770,
+      926,
+      828
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 This terminology is ours. To the best of our knowledge, this particular stress has not been previously identified in the literature. Given the close analogy to the well-established electrostatic Maxwell stress, this terminology appears to be quite appropriate. Moreover, the proposed concept is consistent with previous works as discussed in Ref. Fock (1930), Nielsen and Martin (1983), and Maranganti and Sharma (2010), where the quantum stress is defined as the variation of the total Hamiltonian with respect to strain of the system. We emphasize that the stress (the conjugate variable of deformation gradient for the total energy) we identify here is based on classic field mechanics instead of the microscopic molecular dynamical models where the stress is defined based on discrete microscopic models (Liu and Qiu, 2009; Xu and Liu, 2009). We think both approaches are acceptable in classic and quantum mechanics. No matter which starting models one starts, the stress we defined here should always exist. ",
+    "bbox": [
+      64,
+      850,
+      926,
+      933
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. $/ J .$ Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      43,
+      636,
+      56
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "119 ",
+    "bbox": [
+      904,
+      44,
+      926,
+      55
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/30bc546e33d8f190981bf759ecdb8e91637f7d977cbc2a5c11812e482382f535.jpg",
+    "image_caption": [
+      "Fig. 3. A charge carrier is injected/activated into an 1D nanoscale soft dielectric such as a quantum wires or a nanotube. The charge carrier causes loca deformation. The material experiences tension or compression depending on the electron–acoustic coupling. If several polarons are formed, a macroscopically observable deformation occurs (e.g. ΔL). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      277,
+      74,
+      727,
+      187
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      69,
+      246,
+      935,
+      291
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "For reasonable physical behavior, the Hamiltonian must be invariant under rigid rotations and conform to the underlying material symmetries: ",
+    "bbox": [
+      66,
+      292,
+      931,
+      320
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/704216aaee8f8c58d084b0a7aa41eeca449c70d6364c5e46987487dc4aef7950.jpg",
+    "text": "$$\n\\left\\{ \\begin{array} { l l } { U ( \\mathbf { Q } \\mathbf { F } ) = U ( \\mathbf { F } ) \\mathrm { ~ a n d ~ } W ( \\mathbf { Q } \\mathbf { F } ) = W ( \\mathbf { F } ) \\forall \\mathbf { \\Sigma } \\mathbf { \\Phi } \\mathbf { Q } \\in \\mathrm { S O } ( 3 ) , \\mathbf { \\Sigma } \\mathbf { F } \\in \\mathbb { R } ^ { 3 \\times 3 } } \\\\ { U ( \\mathbf { F } \\mathbf { R } ) = U ( \\mathbf { F } ) \\mathrm { ~ a n d ~ } W ( \\mathbf { F } \\mathbf { R } ) = W ( \\mathbf { F } ) \\forall \\mathbf { \\Sigma } \\mathbf { \\Phi } \\mathbf { R } \\in \\mathcal { G } , \\mathbf { \\Phi } \\mathbf { F } \\in \\mathbb { R } ^ { 3 \\times 3 } , } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      331,
+      527,
+      370
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "where $\\mathcal { G }$ denotes the point group of the material. Also, we anticipate that the non-polaron trivial state at the absence of charge carrier, ",
+    "bbox": [
+      66,
+      382,
+      933,
+      412
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/8a6042de912a841ef4a5b6b594dc8fc5d503ff1bed17b7663642ec53ca3556f3.jpg",
+    "text": "$$\n\\varPsi = 0 \\quad \\mathrm { a n d } \\quad \\mathbf { x } = \\mathbf { X } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      113,
+      421,
+      257,
+      438
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "must be a critical point of the Hamiltonian $H [ \\psi , \\chi ] ,$ , implying that ",
+    "bbox": [
+      71,
+      451,
+      538,
+      466
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/9dca6086b67fa63c6dded050ff15659c32b7cbb59629a066e0c6d231434ea81a.jpg",
+    "text": "$$\n\\pmb { \\Sigma } _ { \\mathrm { m e c h } } | _ { \\mathbf { F } = \\mathbf { I } } = \\frac { \\partial W ( \\pmb { \\mathbf { F } } ) } { \\partial \\pmb { \\mathbf { F } } } | _ { \\mathbf { F } = \\mathbf { I } } = 0 .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      475,
+      301,
+      505
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Eqs. (20) and (21) place useful restrictions on the possible form of deformation potential $U ( \\mathbf { F } )$ and strain energy density. For example, if the material is (statistically) isotropic $\\mathcal { G } = \\mathsf { S O } ( 3 )$ , the only possible linearized deformation potential must be of form $U = \\alpha \\nabla \\cdot \\mathbf { u }$ . ",
+    "bbox": [
+      71,
+      517,
+      933,
+      563
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3. Polaron induced elongation and compression ",
+    "text_level": 1,
+    "bbox": [
+      77,
+      603,
+      433,
+      619
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Obtaining solutions to the highly nonlinear three-dimensional equations derived in the preceding section is a non-trivial endeavor. However, polarons are known to occur in one-dimensional nano structures such as polymer chains (Campbell et al., 1982; Basko and Conwell, 2002), macromolecules like the DNA (Conwell and Rakhmanova, 2000; Wang et al., 2006; Zekovic et al., 2011) and nanotubes like carbon nanotubes (CNTs) (Verissimo-Alves et al., 2001; Cristiano, 2009). In this section, we fruitfully use this fortuitous observation to obtain insights into the newly derived quantum Maxwell-stress by solving some illustrative one-dimensional problems. ",
+    "bbox": [
+      71,
+      632,
+      935,
+      723
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "To explore the ramification of quantum Maxwell stress in materials, we first consider one dimensional (1D) materials/ structures such as quantum wires under tension or compression (Fig. 3). In this case, it suffices to describe the deformation by longitudinal displacement u: $( \\mathbf { \\nabla } - L , L ) \\to \\mathbb { R }$ . Let $\\gamma = 1 + u _ { x }$ be the stretching. For simplicity, we stipulate that only axial stretching and axial length changes are possible,4 and assume that the deformation potential is given by $U = \\alpha \\varepsilon$ $\\mathit { \\Pi } _ { \\mathcal { E } } ^ { ' } = \\gamma - 1$ is the strain) and strain energy density function is given by $\\begin{array} { r } { W = \\frac { 1 } { 2 } k \\varepsilon ^ { 2 } } \\end{array}$ for some $k > 0$ . Then by (4) the Hamiltonian of the system can be written as ",
+    "bbox": [
+      71,
+      723,
+      935,
+      815
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/71c86bba4db9880195d106c50051bd6f3402e687fd86aa02166ee28697999d23.jpg",
+    "text": "$$\nH [ u , \\mathcal { F } ] = \\int _ { - L } ^ { L } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\frac { 1 } { \\gamma } | \\mathcal { F } _ { \\mathcal { X } } | ^ { 2 } \\mathrm { d } \\mathrm { X } + \\gamma U ( \\gamma ) | \\mathcal { F } | ^ { 2 } \\mathrm { d } \\mathrm { X } + \\frac { 1 } { 2 } k ( \\gamma - 1 ) ^ { 2 } \\right] \\mathrm { d } \\mathrm { X } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      826,
+      564,
+      859
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "By (9) and (16) (or (11) and (19)), the associated Euler–Lagrange equations can be written as ",
+    "bbox": [
+      69,
+      870,
+      727,
+      886
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4 Realistically, certainly for soft nanostructure, off-axis deformation involving bending, twisting that is coupled to elongation/compression is also possible. We defer such complexities for a future work although we will separately consider bending in later in the next section ",
+    "bbox": [
+      68,
+      909,
+      933,
+      933
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      44,
+      643,
+      55
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "120 ",
+    "bbox": [
+      73,
+      44,
+      95,
+      55
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/27ebd29e3d8526b8269ee5d23e1eeed84f1ca60849c783505e585848fa16c516.jpg",
+    "text": "$$\n\\begin{array} { l } { \\displaystyle \\left\\{ - \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\bigg [ \\frac { 1 } { \\gamma } \\psi _ { , X } \\bigg ] _ { , X } + \\gamma U ( \\gamma ) \\varPsi = \\lambda \\gamma \\varPsi , \\right. } \\\\ { \\displaystyle \\left[ \\bigg [ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\bigg ( \\frac { 1 } { \\gamma } \\varPsi _ { , X } \\bigg ) ^ { 2 } - \\frac { \\partial ( \\gamma U ) } { \\partial \\gamma } | \\varPsi | ^ { 2 } - \\frac { \\partial W } { \\partial \\gamma } + \\lambda | \\varPsi | ^ { 2 } \\right] _ { , X } = 0 } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      104,
+      74,
+      446,
+      154
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "in the reference configuration, or equivalently in the current configuration, ",
+    "bbox": [
+      66,
+      163,
+      595,
+      177
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/5f0c664cace119f1dc3b2ddd21e16d6ea6020ee280b88ef291f31514e2bc36ea.jpg",
+    "text": "$$\n\\begin{array} { l } { \\displaystyle \\left\\{ - \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\psi _ { , \\mathrm { x x } } + U ( \\gamma ) \\psi = \\lambda \\psi , \\right. } \\\\ { \\displaystyle \\left\\{ \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } ( \\psi _ { , x } ) ^ { 2 } - \\frac { \\partial \\gamma U } { \\partial \\gamma } | \\psi | ^ { 2 } - \\frac { \\partial W } { \\partial \\gamma } + \\lambda | \\psi | ^ { 2 } \\right] _ { , x } = 0 . \\right. } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      104,
+      183,
+      408,
+      252
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The boundary conditions for free boundaries are ",
+    "bbox": [
+      64,
+      260,
+      409,
+      274
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/e249fcee45e6f55031efc48793f494c38b50cd993504f94880c7d0a0c6c14ade.jpg",
+    "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\psi = 0 } & { \\mathrm { a t ~ } x = \\pm L , } \\\\ { \\displaystyle - \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\left( \\frac { 1 } { \\gamma } \\psi _ { , X } \\right) ^ { 2 } + \\frac { \\partial ( \\gamma U ) } { \\partial \\gamma } | \\psi | ^ { 2 } + \\frac { \\partial W } { \\partial \\gamma } - \\lambda | \\psi | ^ { 2 } = 0 } & { \\mathrm { a t ~ } x = \\pm L . } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      104,
+      280,
+      522,
+      335
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.1. Analytical solution ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      371,
+      226,
+      386
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The boundary value problem (23)–(25) is nonlinear and not amenable to an exact solution. We will find approximate solutions by a variational method. To obtain some physical insights about the solution to the derived equations and interpretation of the numerical results (presented in the next section), we consider the model system depicted in Fig. 3—that of a nanowire, chain or a nanotube. We use, as an initial trial solution, the known exact solution to the nonlinear Schrö- dinger's equation (for the case when the quantum Maxwell stress is neglected): ",
+    "bbox": [
+      64,
+      400,
+      924,
+      471
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/8e9f65b339f02684a86360df4517ee0c71fcb5643faa818aac8af5b76456105a.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathcal { V } ( X ) = b \\mathrm { ~ s e c h } ( \\mathsf { a X } ) , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      477,
+      240,
+      493
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "where $a$ and $b$ are adjustable parameters to be determined by minimization of the total energy. The parameter “a” may be physically interpreted to be the inverse polaron length. This trial function satisfies the requisite boundary conditions (25) if $L { \\gg } 1 / a$ . We remark here that Ref. Verissimo-Alves et al. (2001) have solved this problem for the case of a carbon nanotube (without, however, the quantum Maxwell stress). Unfortunately, their derivation of the equations is incorrect. In their work, they minimized the total energy functional with respect to the strain $\\varepsilon$ rather than the displacement. Based on the known results (that neglect quantum Maxwell stress), we stipulate that ",
+    "bbox": [
+      64,
+      501,
+      926,
+      587
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/17e3daaf62f9d4ab41671e2871ede68b73c0a5820dad464b545bb9f40cdf0c3a.jpg",
+    "text": "$$\n\\varepsilon = c \\psi { * } ( X ) \\psi ( X )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      591,
+      218,
+      607
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "where the parameter $c$ is to be determined by the minimization problem. With the two trial functions (26) and (27) thus defined, we substitute them in the 1D version of energy formulation (22) and the normalization condition specified in (3). In particular, the normalization condition $\\int _ { - L } ^ { L } \\gamma | \\mathcal { V } | ^ { 2 } \\mathrm { d } \\mathrm { X } = 1$ implies that ",
+    "bbox": [
+      64,
+      615,
+      928,
+      664
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/031ab4bfbc9fd66f3bdca02116297efe267f21d8eb1fce65d4f3071f3d93c033.jpg",
+    "text": "$$\nc = { \\frac { 3 ( a - 2 b ^ { 2 } ) } { 4 b ^ { 4 } } } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      668,
+      216,
+      698
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Moreover, upon evaluating the Hamiltonian (22) we can write the energy of these trial solutions as a function of $a , b$ : $E = E ( a , b )$ , and determine the parameters $a , b$ by ",
+    "bbox": [
+      62,
+      704,
+      928,
+      735
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/e0fbd0343e62c4dc2b4cbc2878a1be6b369ebbf5d63c8ebaf53d3275710169db.jpg",
+    "text": "$$\n\\frac { \\partial E } { \\partial a } = 0 , \\quad \\frac { \\partial E } { \\partial b } = 0 .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      739,
+      235,
+      768
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The explicit expression of $E ( a , b )$ and analytical solutions of a b, are too lengthy to be presented here. We will numerically solve the above algebraic equations (29) in Section 3.3. By comparing with the full numerical solutions to the nonlinear boundary value problem (23) and (25), we will see that the trial solutions (26) and (27) provide sufficient accuracy to the problems considered in this work. ",
+    "bbox": [
+      66,
+      776,
+      926,
+      832
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.2. Numerical solution ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      849,
+      229,
+      862
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In this section, we present the direct numerical solutions to the two coupled Euler–Lagrange equations (23) and compare with the variational analytical approximation. The so-called “imaginary time propagation method” is employed. The reader is referred to Bao and Du (2004), Knoll and Keyes (2004), and Lehtovaara et al. (2007) for further details. We briefly summarize the central idea behind the numerical scheme. The imaginary time method is based on using the corresponding time-dependent Schrödinger's equation in imaginary time (by mapping time $t  \\ - \\ i \\tau )$ ): ",
+    "bbox": [
+      66,
+      876,
+      926,
+      933
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. $/ J .$ Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      634,
+      56
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "121 ",
+    "bbox": [
+      902,
+      44,
+      922,
+      55
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/7a18f1c5cc5969bb81b27ed7936b3875881ba68a8268cdb9a9488def11df9fca.jpg",
+    "image_caption": [
+      "Fig. 4. For CNT, the electronic probability density distribution is not significantly affected by the quantum Maxwell stress. Furthermore, our numerical results match well with the approximate analytical results, both with and without the quantum Maxwell stress, therefore the distinct curves in the figure are not distinguishable. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      72,
+      727,
+      299
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      71,
+      355,
+      683,
+      370
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/a032c8e2ba7ec654c959ce447436cf0ca85fb5d0ddc6eb438230f599bd47de89.jpg",
+    "text": "$$\n{ \\frac { \\partial { \\boldsymbol { \\varPsi } } ( { \\boldsymbol { X } } , \\tau ) } { \\partial \\tau } } = \\mathrm { ~ - ~ } { \\frac { \\delta H [ u , { \\boldsymbol { \\Psi } } ] } { \\delta { \\boldsymbol { \\Psi } } } } , \\quad { \\frac { \\partial u } { \\partial \\tau } } = \\mathrm { ~ - ~ } { \\frac { \\delta H [ u , { \\boldsymbol { \\Psi } } ] } { \\delta u } } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      376,
+      431,
+      405
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We use the forward Euler method for the time discretization and a second-order central finite difference for the spatial derivatives. As a starting point for the numerical scheme, we must provide a “reasonable” initial guess (a Gaussian function) at $\\tau = 0$ for the wave function $\\psi _ { \\cdot }$ , stretch ratio $\\gamma$ and the deflection w respectively. We then use an iterative procedure—in each iteration we substitute the $\\gamma$ and $\\boldsymbol { \\Psi }$ into Schrödinger's equation and mechanical equilibrium equation to calculate the new $\\boldsymbol { \\Psi }$ and $\\gamma$ as the initial guess for next iteration. Convergence is achieved when $\\tau \\to \\infty$ . For our case, after a number of tests, we selected $\\Delta \\tau = 1 0 ^ { - 3 } s$ and $\\Delta x = 0 . 5 \\mathring { \\mathsf { A } }$ and ran sufficient time steps until total energy change was less than $1 0 ^ { - 4 } \\mathrm { e V }$ . Throughout the numerical calculations, the wave function is normalized at every time step and the satisfaction of the boundary conditions is ensured. It is worthwhile to emphasize that by trying different initial guesses, we ensure that the minimum of the total energy and corresponding wave function and deformation are obtained. The numerical scheme is reasonable for 1-D systems and may also suffice for some simple 2D geometries. For full three-dimensional calculations with complex geometry and boundary conditions, newly developed innovative computational methods may be more suitable (Motamarri et al., 2013; Suryanarayana et al., 2010) ",
+    "bbox": [
+      71,
+      412,
+      933,
+      584
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In what follows, we first present results for elongation/compression in a hard material (carbon nanotube) and then for a soft one (DNA) to highlight what role the quantum Maxwell stress plays or does not play in the mechanical deformation. We also the effect of quantum Maxwell stress effect as a function of some pertinent material properties. ",
+    "bbox": [
+      73,
+      586,
+      933,
+      628
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.3. Polarons in carbon nanotubes ",
+    "text_level": 1,
+    "bbox": [
+      75,
+      646,
+      308,
+      659
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Carbon nanotubes are heavily researched 1D materials due to their unusual mechanical and electronic properties (Saito et al., 1998). They also exhibit interesting electro-mechanical coupling behavior which make them candidates for nano actuators (Baughman et al., 1999; Fraysse et al., 2002). Applied mechanical strain can modify their electronic properties (Park et al., 1999; Mazzoni and Chacham, 2000). In particular, it has been also found that semiconducting CNTs experience simultaneous radial distortion and axial tension (contraction) due to polaron formation (Verissimo-Alves et al., 2001; Cristiano, 2009). These works theoretically explored the mechanism of deformation caused by electron–acoustic phonon coupling. For comparison purposes, (11,0) CNT is selected as the model system, whose stiffness constant (axial direction) $k$ is $6 4 4 \\mathrm { e V } / { \\mathring { A } } .$ . The electron–acoustic phonon coupling constant $( \\alpha )$ in axial direction is $- 8 . 2 9 \\mathrm { e V }$ as reported in Ref. Verissimo-Alves et al. (2001). All other material parameters are the same as used in Ref. Verissimo-Alves et al. (2001). To simplify the problem, we did not consider the radial distortion in this example, however, it can be trivially accounted for (if desired). ",
+    "bbox": [
+      71,
+      673,
+      933,
+      818
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In Figs. 4 and 5, we show that with and without the new quantum Maxwell stress, the probability density distribution and strain distribution are essentially identical. The physical implication is that the quantum Maxwell stress has a negligible effect in CNTs. This is somewhat anticipated following the analogy with the electrostatic Maxwell stress since Young's modulus of CNTs is quite high and the deformations are small. The maximum strain is $\\varepsilon _ { \\mathrm { { m a x } } } = \\operatorname* { m a x } [ { \\mathrm { c b } } ^ { 2 } { \\mathrm { S e c h } } ( { \\mathrm { a x } } ) ^ { 2 } ] ,$ , about $1 . 4 6 \\times 1 0 ^ { - 5 }$ for both cases indicating that the deformation is mainly induced by the electron–acoustic phonon interaction and the quantum Maxwell stress does not have much effect. The polaron length $( 1 / a )$ is $4 4 \\mathrm { n m }$ in this case which is consistent with the reported value in the literature (Verissimo-Alves et al., 2001; Cristiano, 2009). The binding energy is $- 2 . 0 2 \\times 1 0 ^ { - 2 } \\mathrm { m e V }$ . This value is different from two other prior works (Verissimo-Alves et al., 2001; Cristiano, 2009), however, we note that they reported the total polaron energy instead of the binding energy. The binding energy is defined as the change in the ground state energy due to the charge-lattice coupling which is same as in Osipov (1995) and Alexandre et al. (2003). Our total polaron energy is $0 . 0 6 1 \\mathrm { \\ m e V }$ which is close to those in the last two references. As shown in this section, our reported quantities match well with prior work. ",
+    "bbox": [
+      71,
+      819,
+      933,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      44,
+      645,
+      55
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "122 ",
+    "bbox": [
+      73,
+      45,
+      95,
+      55
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/1a79aac50a3d331e63f087b8940b5a786981bd57d093fdcc746d30cb3e14ac9b.jpg",
+    "image_caption": [
+      "Fig. 5. For CNT, the strain distribution does not change with and without the quantum Maxwell stress. The induced strain from numerical and analytical calculations are identical. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      270,
+      72,
+      718,
+      301
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/770f39104e38bde53cd3e002f1b2c2991b24b978174f9c4b0c5fa732b797febd.jpg",
+    "image_caption": [
+      "Fig. 6. Probability density distribution $( | \\psi | ^ { 2 } )$ and strain distribution $\\left( \\varepsilon \\right)$ along the DNA chain. The deformation is localized at the mean location of the charge carrier. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      270,
+      354,
+      720,
+      623
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      66,
+      669,
+      924,
+      727
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.4. Polarons in DNA ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      746,
+      211,
+      760
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "For the illustration of the quantum Maxwell stress in soft materials, we select a dry DNA chain as a representative 1D soft polymer. The effective stiffness constant $\\left( k _ { 0 } \\right)$ of DNA is $0 . 8 5 \\mathrm { e V } / \\mathring { \\mathsf { A } } ^ { 2 }$ as used in other works (Conwell and Rakhmanova, 2000), which is one twenty-fourth of polyacetylene. It is necessary to mention that we picked dry DNA because we intend to focus on the effect of pure quantum mechanical-elasticity coupling. As has been discussed elsewhere (Conwell and Basko, 2003), the polarizable environment such as water and other solutions can affect the polaron properties as well as deformation. In that case, the formulation has to be changed to include environment interaction—certainly beyond the scope of the current work. We will make further remarks regarding the applicability of the current model for DNA and its broader implications in the discussion section. ",
+    "bbox": [
+      66,
+      773,
+      926,
+      889
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In DNA, the effective mass of charge carrier can be obtained from the transfer integral through the tight-binding method. It is known that the transfer integral depends on the DNA geometry as well as environment (Conwell, 2005). Both density functional theory (DFT) calculations and theoretical methods estimate that the transfer integral is within range 0.02–0.3 eV (Conwell and Rakhmanova, 2000; Voityuk et al., 2001; Chang et al., 2005). The effective mass is therefore written as ",
+    "bbox": [
+      66,
+      890,
+      928,
+      933
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      636,
+      55
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "123 ",
+    "bbox": [
+      902,
+      44,
+      924,
+      55
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/5a1b72aa278389872ccf1fe5468ada7c5d12d7f9b9bdc009c81ad8f666232edc.jpg",
+    "image_caption": [
+      "Fig. 7. For DNA, the maximum probability density distribution is reduced because of the quantum Maxwell stress. $t _ { 0 }$ and $\\alpha _ { 0 }$ are set as $0 . 3 \\ : \\mathrm { e V }$ and 0.6 eV/Å respectively for this calculation. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      74,
+      727,
+      293
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/142740c15e43812c6d38e74ff16f97151cf8baaeccf5e3cc431c7dba36c8c75a.jpg",
+    "image_caption": [
+      "Fig. 8. The distribution of the deformation along the DNA is shown with and without quantum Maxwell stress. The local compression is reduced when quantum Maxwell stress is included. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      283,
+      355,
+      726,
+      583
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      69,
+      629,
+      898,
+      644
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/b9bd29461ef00a6e7e71d217bad01db763ad394d1c0e13155692b2c58ef14bbd.jpg",
+    "text": "$$\nm * = \\hbar ^ { 2 } / 2 t _ { 0 } a ^ { 2 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      650,
+      213,
+      667
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "where $t _ { 0 }$ is the transfer integral in thermal equilibrium and a is the lattice parameter $( 3 . 4 \\mathring { \\mathsf { A } } )$ . The explicit electron–phonon coupling constant dependence on transfer integral is not fully clear yet (Conwell and Rakhmanova, 2000). The simple assumption has been made in the past is that transfer integral is linearly dependent on the net displacement through $t _ { n + 1 , n } = t _ { 0 } - \\alpha _ { 0 } ( u _ { n + 1 } - u _ { n } )$ (Conwell and Rakhmanova, 2000; Basko and Conwell, 2002) where $\\alpha _ { 0 }$ is effective electron–phonon coupling constant and $u _ { n }$ is lattice displacement at each site. Without loss of any generality, given our intent here, we treat the transfer integral and coupling constant as a fixed value for the DNA. We note that, since our model is based on the Holstein model, the coupling constant has the following correspondence: $\\alpha = 4 a \\alpha _ { 0 }$ and $k = 4 k _ { 0 } a$ . We will shortly discuss the dependence of the quantum Maxwell stress dependence on those parameters. ",
+    "bbox": [
+      71,
+      673,
+      933,
+      789
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As shown in Fig. 8, the quantum Maxwell stress has a significant effect on the deformation in DNA. It tends to reduce the compression. The maximum strain is reduced from $- 1 4 . 7 \\%$ to $- 1 0 . 7 \\%$ which corresponds to the total length change of $0 . 7 1 \\mathring { \\mathsf { A } }$ and $0 . 6 6 \\mathring { \\mathsf { A } }$ respectively. Polaron length is increased from 2.41 Å to $3 . 0 8 \\mathring { \\mathsf { A } }$ which occupies about 4–6 lattice sites as seen from Fig. 7. Binding energy is decreased from $- 0 . 2 \\mathrm { e V }$ to $- 0 . 1 5 \\mathrm { e V }$ due to the quantum Maxwell stress—this is much larger than the thermal fluctuation energy and thus of significance. The deformation is localized at the position where charge carrier is trapped as shown in Fig. 6 and reaches the maximum value at the mean location of the carrier. Since the deformation depends on charge probability density distribution, it is predicted that the deformation field will move together with charge carriers when subjected to an external field. Thus, despite the simplicity of the example, it is wellevident that the quantum Maxwell stress provides a route to actuate (and conversely sense) deformation and alterations in electronic structure. ",
+    "bbox": [
+      71,
+      789,
+      933,
+      933
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      44,
+      643,
+      55
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "124 ",
+    "bbox": [
+      73,
+      45,
+      95,
+      55
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/ae27cb7247983df9373f366500603985355c6fea4165d546c1d9954761ad3335.jpg",
+    "image_caption": [
+      "Fig. 9. The dashed lines denote mechanical strain when the quantum Maxwell stress is accounted for while the solid lines indicate the strain calculated using models that have excluded the quantum Maxwell stress. The black color, blue color, red color and pink color represents different Young's modulus respectively. Different curves show strain dependence on the dimensionless coupling constant. (For interpretation of the references to color in this figure caption, the reader is referred to the web version of this paper.) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      266,
+      74,
+      722,
+      326
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Evidently, the overall deformation caused by a single polaron (both when including or excluding the quantum Maxwell stress) is small. The deformation is expected to be much larger if multiple polarons are considered. For instance, if 20 polarons formed, where we assume that the polarons are sufficiently far away from each other such that the interaction between them can be ignored, the length change can be $1 . 3 2 \\mathrm { n m }$ $( 2 0 \\times 0 . 6 6 \\mathring { \\mathsf { A } } )$ . ",
+    "bbox": [
+      64,
+      394,
+      924,
+      451
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To present more general insights, we now turn to how the quantum mechanical Maxwell stress depends on material parameters. In Fig. 9, we choose a broad range of parameters that likely cover the gamut from hard crystalline materials on one end to soft RNA chains on the other end of the spectrum. As shown in Fig. 9, the quantum Maxwell stress effect becomes quite significant when the effect of the quan $\\frac { \\alpha ^ { 2 } } { \\mathrm { k t } _ { 0 } }$ increases. The term mechanical Maxw $\\frac { \\alpha ^ { 2 } } { \\mathrm { k t } _ { \\Omega } }$ is a non-dimensional measure of the strength of the coupling. As expected,stress is startlingly large for soft materials like the RNA, for instance. It is worthwhile to note that the continuum assumption may break for the very strong coupling case, however qualitatively our prediction should still hold. ",
+    "bbox": [
+      66,
+      452,
+      926,
+      552
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4. Polaron induced bending ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      583,
+      277,
+      598
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We have so far restricted ourself to the case that the charge-acoustic phonon coupling only causes the axial length changes. Since the bending of DNA is important for genome packaging and the interaction between proteins and DNA chain, it will be of interest to investigate the bending mechanism arising from the charge-acoustic phonon interaction. In this section, we consider the interaction between the extra charge carrier and the bending degrees of freedom of a long DNA chain. Indeed, we show that polaron-induced-bending of the DNA further acts as the effective trap for the charge. We also illustrate the effect of the quantum Maxwell stress effect on DNA bending. ",
+    "bbox": [
+      64,
+      610,
+      926,
+      698
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Kinematically, the bending of DNA is described by the transverse deflection w: $( \\mathbf { \\nabla } - L , L ) \\to \\mathbb { R }$ . Let $\\gamma = \\sqrt { 1 + w ^ { \\prime } ( X ) ^ { 2 } }$ be the local stretching, and ",
+    "bbox": [
+      64,
+      698,
+      926,
+      726
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/80adda1a8fe6dbb8b0298919a27193c9435fb5bcb7c707f8f7e3e5afcb5f9eaf.jpg",
+    "text": "$$\n\\kappa = \\frac { W ^ { \\prime \\prime } } { [ 1 + W ^ { \\prime 2 } ] ^ { 3 / 2 } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      731,
+      222,
+      762
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "be the curvature. Neglecting the elastic stretching energy and assuming $\\gamma \\sim 1$ , we postulate that the Hamiltonian of our system is given by ",
+    "bbox": [
+      60,
+      769,
+      930,
+      800
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/6b84a92c45a6d72192ce7552b4aa264de70a96f8d7a4c6679f0cce832ddab622.jpg",
+    "text": "$$\nH [ w , \\psi ] = \\int _ { - l } ^ { l } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } | \\psi _ { , x } | ^ { 2 } + U ( \\kappa ) | \\psi | ^ { 2 } \\right] \\mathrm { d } \\mathbf { x } + \\int _ { - l } ^ { l } \\frac { 1 } { 2 } k _ { b } \\kappa ^ { 2 } \\mathrm { d } \\mathbf { X } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      108,
+      804,
+      503,
+      838
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "where 2l is the deformed chain length. The symbol $\\kappa$ represents the curvature, $k _ { b }$ is the bending stiffness of the DNA chain. According to Gaididei et al. (2006), $k _ { b } = l _ { p } \\times k _ { B } T = 1 0 0 \\times 3 . 4 \\times 0 . 0 2 = 6 . 8 \\mathrm { e V } \\mathring { \\mathsf { A } }$ , where $l _ { p }$ is the persistence length in units of number of the DNA lattice and $k _ { B } T \\approx 0 . 0 2 \\ : \\mathrm { e V }$ at room temperature. ",
+    "bbox": [
+      64,
+      845,
+      928,
+      889
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To proceed, we assume that the charge-lattice interaction energy is $U ( \\kappa ) = \\alpha \\kappa$ in the undeformed configuration, where $\\alpha$ is the coupling constant. We remark that the above Hamiltonian breaks the up-down bending symmetry. The precise value of the charge-curvature coupling constant is not available experimentally, however it may be estimated to be 6 eV Å using ",
+    "bbox": [
+      64,
+      890,
+      926,
+      933
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      636,
+      55
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "125 ",
+    "bbox": [
+      902,
+      45,
+      924,
+      55
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/0bc22033829bdc767813eb5fe24b66de2447e22243feb8ebfcb50b2138a251e6.jpg",
+    "image_caption": [
+      "Fig. 10. Polaron induced DNA bending. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      273,
+      72,
+      733,
+      180
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/ad10bbfacd7837be0493294c72bcd01e122bb761305295ba32fe5bedbb4b4e00.jpg",
+    "image_caption": [
+      "Fig. 11. Probability density distribution along the DNA beam; the distribution does not change much due to the quantum Maxwell stress. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      229,
+      731,
+      451
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "the approach presented in Gaididei et al. (2006). In the reference configuration (i.e. unbent DNA beam configuration), the Hamiltonian (33) reads ",
+    "bbox": [
+      71,
+      486,
+      928,
+      517
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/39402967e271dad6d80c353674b74290094a79a896cdd37a05dd50dc22d47225.jpg",
+    "text": "$$\nH [ { \\pmb w } , \\Psi ] = \\int _ { - L } ^ { L } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } \\gamma } | \\varPsi _ { , X } | ^ { 2 } + \\gamma U ( \\kappa ) | \\varPsi ( X ) | ^ { 2 } + \\frac { 1 } { 2 } k _ { b } \\kappa ( X ) ^ { 2 } \\right] \\mathrm { d } \\mathrm { X } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      524,
+      527,
+      557
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "where $\\psi ( X )$ is the wave function in the undeformed DNA beam configuration. The first variation of total energy subject to the normalization constraint (3) leads to ",
+    "bbox": [
+      73,
+      564,
+      937,
+      595
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/c6ac588a593558efe7f33823f98afba5e671df5078b13504d1e4252d3b684dfc.jpg",
+    "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle - \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\frac { d } { \\mathrm { d X } } \\bigg [ \\varPsi _ { , X } \\frac { 1 } { \\gamma } \\bigg ] + \\alpha \\gamma \\boldsymbol { W } ^ { \\prime \\prime } \\varPsi = \\lambda \\gamma \\varPsi , } \\\\ { \\displaystyle \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\frac { d } { \\mathrm { d X } } [ \\varPsi _ { , X } ^ { 2 } \\gamma ^ { - 3 } \\boldsymbol { W } ^ { \\prime } ] - \\alpha \\frac { d } { \\mathrm { d X } } [ \\kappa | \\varPsi | ^ { 2 } \\gamma ^ { - 1 } \\boldsymbol { W } ^ { \\prime } ] + \\alpha \\frac { d ^ { 2 } } { \\mathrm { d X } ^ { 2 } } [ \\varPsi ^ { 2 } \\gamma ^ { - 2 } ] } \\\\ { \\displaystyle \\quad + 3 \\alpha \\frac { d } { \\mathrm { d X } } [ \\varPsi ^ { 2 } \\gamma ^ { - 4 } \\boldsymbol { W } ^ { \\prime } \\boldsymbol { W } ^ { \\prime \\prime } ] + k _ { b } \\boldsymbol { W } ^ { \\prime \\prime \\prime } + \\lambda \\frac { d } { \\mathrm { d X } } [ | \\varPsi | ^ { 2 } \\gamma ^ { - 1 } \\boldsymbol { W } ^ { \\prime } ] = 0 , } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      602,
+      490,
+      700
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "where $w ^ { \\prime } , w ^ { \\prime \\prime }$ and $w ^ { \\prime \\prime \\prime \\prime }$ are the first, second and fourth derivative with respect to $X$ . ",
+    "bbox": [
+      77,
+      707,
+      665,
+      722
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For small deflections, $w ^ { \\prime } ( X ) \\not \\ll 1$ , the curvature may be approximated as $\\kappa = w ^ { \\prime \\prime } ( X )$ . The total Hamiltonian simplifies to ",
+    "bbox": [
+      79,
+      723,
+      919,
+      737
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/fa9e8effc40cd56c744580fcdb2df79c79800e6e10fbcadf3fc40b494239c1ed.jpg",
+    "text": "$$\n{ \\cal H } [ w , \\Psi ] = \\int _ { - L } ^ { L } \\left[ \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } | \\varPsi _ { , X } | ^ { 2 } + U ( \\kappa ) | \\varPsi | ^ { 2 } + \\frac { 1 } { 2 } k _ { b } \\kappa ^ { 2 } \\right] \\mathrm { d } X\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      743,
+      466,
+      777
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The final small-deflection equations are ",
+    "bbox": [
+      71,
+      785,
+      354,
+      800
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/5cdc00055d898658faf711ee95deaf6c720a61c0459aa5b20fdad934cb251142.jpg",
+    "text": "$$\n\\left\\{ \\begin{array} { l l } { - \\displaystyle \\frac { \\hbar ^ { 2 } } { 2 m ^ { * } } \\boldsymbol { \\mathcal { F } } _ { , \\mathrm { X X } } + \\alpha W ^ { \\prime \\prime } \\boldsymbol { \\mathcal { F } } = \\lambda \\boldsymbol { \\mathcal { F } } , } \\\\ { \\alpha \\displaystyle \\frac { d } { { \\mathrm { d } } \\mathrm { X } ^ { 2 } } | \\boldsymbol { \\mathcal { F } } | ^ { 2 } + k _ { b } W ^ { \\prime \\prime \\prime } = 0 . } \\end{array} \\right.\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      807,
+      303,
+      870
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In the results presented in the next section, we use the fixed-fixed ends configuration (see Fig. 10). The boundary conditions at both ends are then ",
+    "bbox": [
+      71,
+      877,
+      937,
+      908
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/499d1f7b40f4d139b3734ae5a2712908e4a1837b13fce1e15d81fd7e1003be8a.jpg",
+    "text": "$$\nw = 0 , \\quad w ^ { \\prime } = 0 , \\quad \\psi = 0 \\quad { \\mathrm { a t ~ } } X = \\mathbf { \\psi } - L \\& L .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      115,
+      913,
+      400,
+      928
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      360,
+      44,
+      643,
+      55
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "126 ",
+    "bbox": [
+      73,
+      44,
+      95,
+      55
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_4455078/auto/images/dd3920ebbb619a9b84c0cbaa09a25692c1641ab5c3873c8d6fa5d92a930b2a3d.jpg",
+    "image_caption": [
+      "Fig. 12. Bending of the DNA due to polaron formation. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      268,
+      75,
+      722,
+      304
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We employ the same numerical procedure as in the last section (30) (but use $\\begin{array} { r } { \\frac { \\partial w } { \\partial \\tau } = - \\frac { \\partial H [ w , \\boldsymbol { \\psi } ] } { \\partial w } ) } \\end{array}$ to solve the above set of equations (35) and (37) for both large and small deflection cases. From Fig. 11, we can see that the quantum Maxwell stress does not appreciably change the charge probability distribution and the polaron spreads over about 6 DNA sites which is consistent with when only tension was considered. However, it is found that the maximum deflection is reduced from $4 . 6 \\mathring { \\mathsf { A } }$ to $3 . 7 \\mathring { \\mathsf { A } }$ due to the existence of quantum Maxwell stress as shown in Fig. 12. Moreover, the binding energy is changes from $- 0 . 1 1 7 \\mathrm { e V }$ (without quantum Maxwell stress) to $- 0 . 0 9 6 \\mathrm { e V }$ (when it is included). The binding energy is in reasonable range $( 0 . 0 3 \\mathrm { e V } \\sim 0 . 3 \\mathrm { e V } )$ (Conwell, 2005) for the polaron formation in DNA which also indicates the coupling constant we estimated is suitable for illustration of the quantum Maxwell stress effect in the bending of the DNA. ",
+    "bbox": [
+      66,
+      351,
+      926,
+      467
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "5. Concluding remarks ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      494,
+      238,
+      509
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In summary, we have pointed out the existence of the quantum Maxwell stress which is analogous to the well-known, electroelastic Maxwell stress. Aside from the mathematical formulation, we have presented some simple illustrative examples using properties of 1D materials like carbon nanotube and the DNA. Not surprisingly, we find that the incorporation of the quantum Maxwell stress is significant for soft materials like the DNA but not for carbon nanotubes. Our results are somewhat conservative since we restricted ourselves to simple deformation modes and ignored the possibility of torsion and other coupled deformation modes of DNA. Finally, the newly defined quantum-Maxwell stress can also be shown to lead to a spatial variation in the so-called “deformation potential constant” in nanoscale soft materials (Li et al., 2015). ",
+    "bbox": [
+      66,
+      522,
+      926,
+      621
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "One of the early experimental works by Schuster and co-workers suggests that a hole forms a polaron in DNA (Henderson et al., 1999). Since then, numerous attempts have been made to use polaron theory to explain the charge transfer mechanism in DNA. Although studies on polarons in polymers used discrete models such as Su–Schrieffer–Heeger (SSH) model (Su et al., 1980; Alexandre et al., 2003; Wang et al., 2006; Kosevich and Smirnov, 2011) have used the continuum approach (Holstein, 1959)—as in our work. It has been proven that continuum version of SSH model and Holstein model are qualitatively similar. In the weakly bound polaron limit, these two models are even quantitatively same (Campbell et al., 1982). The consideration of the quantum Maxwell stress to assess the polaron induced charge-transfer mechanisms in DNA is likely to be an intriguing future topic. We also note that many potential applications of the DNA have been proposed, in particular, designing it as an electron-optical device, biosensor and/or nanoactuator (Liedl et al., 2007). Charge transport is critical to these applications which is closely related to electron–phonon coupling behavior. One of the implications of this work is that we can remotely change actuation behavior of a sufficient soft material by simply exposing it to light. The latter will certainly alter the electronic structure of the soft object (provided it is small enough). ",
+    "bbox": [
+      66,
+      622,
+      926,
+      791
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In this work, we applied our model to study the stationary properties of polaron, such as polaron length and polaron binding energy, in one-dimensional systems like the DNA. As shown in Sections 3 and 4, the quantum Maxwell stress can significantly affect the lattice distortion (both elongation and bending) of a DNA chain. It also tends to reduce the polaron binding energy. This effect is opposite to that of polarized environments which have been shown to act as charge carrier traps (Conwell, 2005). As was pointed out in other works (Conwell, 2004, 2005; Berashevich et al., 2008; Zekovic et al., 2011), the polaron motion in DNA is expected to be either by drift or by hopping depending on the polaron size and charge localization. There are many other factors such as DNA structure disorder, electron–phonon coupling, as well as environment (Yoo et al., 2001; Conwell, 2005; Conwell and Bloch, 2006; Berashevich et al., 2008) that also affect the transport properties. As evident in Fig. 7, the charge carrier spreads over more number of DNA sites because of the influence of the quantum Maxwell stress. This can be interpreted as the delocalization of the polaron. As addressed in Berashevich et al. ",
+    "bbox": [
+      66,
+      792,
+      926,
+      933
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      634,
+      55
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      904,
+      45,
+      924,
+      53
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "(2008), the DNA conductance is mostly determined by polaron size and we therefore propose that if one find a way to tune the quantum Maxwell stress such that the charge is delocalized, the DNA conductance can be increased. By the fact that the same charge density distribution can be obtained by using electron–phonon constant of $3 . 2 \\mathrm { e V }$ without considering quantum Maxwell stress and $4 . 0 8 \\ : \\mathrm { e V }$ (when including its effect) we believe that the quantum Maxwell stress has the potential to impact charge transport. Specifically, it leads to an effective decrease of the electron–phonon coupling constant, which has been proved to increase the DNA conductance. Moreover, as shown in Berashevich et al. (2008), a large polaron has higher velocity but less tolerance to electric field. ",
+    "bbox": [
+      73,
+      72,
+      933,
+      171
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgment ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      198,
+      202,
+      211
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "We gratefully acknowledge the support from the NSF Grant CMMI-1161163 and the M.D. Anderson Professorship. L.L. gratefully acknowledges the support of NSF CMMI-135156 DMS-1410273, and NSFC-1152800009. X. Li acknowledges helpful discussions with Dr. Qian Deng. ",
+    "bbox": [
+      71,
+      227,
+      931,
+      269
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      299,
+      152,
+      312
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Alameh, Z., Deng, Q., Liu, L., Sharma, P., 2015. Using electrets to design concurrent magnetoelectricity and piezoelectricity in soft materials. J. Mater. Res. 30, 93–100.   \nAlexandre, Simone S., Artacho, Emilio, Soler, Jose M., Chacham, H., 2003. Small polarons in Dry DNA. Phys. Rev. Lett. 91, 108105.   \nArakawa, Y., 2002. Progress in GaN-based quantum dots for optoelectronics applications. Sel. Top. Quant. Electron. IEEE J. 8, 823–832.   \nBandhyopadhyay, S., Nalwa, H.S., 2003. Quantum Dots and Nano-Wires. American Scientific Publishers, California.   \nBao, W., Du, Q., 2004. Computing the ground state solution of Bose–Einstein condenstates by a normalized gradient flow. SIAM J. Sci. Comput. 25, 1674–1697.   \nBasko, D.M., Conwell, E.M., 2002. Self-trapping versus trapping: application to hole transport in DNA. Phys. Rev. E 65, 061902.   \nBasko, D.M., Conwell, E.M., 2002. Stationary polaron motion in a polymer chain at high electric fields. Phys. Rev. Lett. 88, 056401.   \nBauer, S.R., Gerhard-Multhaupt, R., Sessler, G.M., 2004. Ferroelectrets: soft electroactive foams for transducers. Phys. Today 57, 37–43.   \nBaughman, R.H., Cui, C., Zakhidov, A.A., lqbal, Z., Barisci, J.N., Spinks, G.M., Wallace, G.G., Mazzoldi, A., Rossi, D.D., Rinzler, A.G., Jaschinski, O., Roth, S., Kertesz, M., 1999. Carbon nanotube actuators. Science 284, 1340–1344.   \nBerashevich, Julia A., Bookatz, Adam D., Chakraborty, Tapash, 2008. The electric field effect and conduction in the Peyrard–Bishop–Holstein model. J. Phys.: Condens. Matter 20, 035207.   \nBhattacharya, P., Stiff-Roberts, A.D., Krishna, S., Kennerly, S., 2002. Quantum dot infrared detectors and sources. Int. J. High Speed Electron. Syst. 12, 969–994.   \nBhattacharya, P., 2000. Quantum well and quantum dot lasers: from strained-layer and self-organized epitaxy to high-performance devices. Opt. Quant. Electron. 32, 211–225.   \nBimberg, D., Grandmann, M., Lendenstov, N.N., 1999. Quantum Dot Heterostructures. Wiley, New York.   \nBimberg, D., 1999. Quantum dots: paradigm changes in semiconductor physics. Semiconductors 33 (9), 951–955.   \nCampbell, D.K., Bishop, A.R., Fesser, K., 1982. Polarons in quasi-one-dimensional systems. Phys. Rev. B 26, 6862.   \nChang, Chun-Min, CastroNeto, A.H., Bishop, A.R., 2005. Long-range charge transfer in periodic DNA through polaron diffusion. Proc. Natl. Acad. Sci. 303, 189–196.   \nConwell, E.M., Basko, D.M., 2003. Polarons and conduction in DNA. Synth. Metals 137, 1381–1383.   \nConwell, E.M., Bloch, Steven M., 2006. Base sequence effects on transport in DNA. J. Phys. Chem. B 110, 5801–5806.   \nConwell, E.M., Rakhmanova, S.V., 2000. Polarons in DNA. Proc. Natl. Acad. Sci. 97, 4556–4560.   \nConwell, E.M., 2004. Polarons and Transport in DNA. Top. Curr. Chem. 237, 73–102.   \nConwell, Esther M., 2005. Charge transport in DNA in solution: the role of polarons. Proc. Natl. Acad. Sci. 102, 8795–8799.   \nCristiano, Nisoli, 2009. Polaron-induced deformations in carbon nanotubes studied using the bicontinuum model. Phys. Rev. B 80, 113406.   \nDavies, J.H., 2000. The Physics of Low-Dimensional Semiconductors: An Introduction. Cambridge University Press, Cambridge.   \nDeng, Q., Liu, L.P., Sharma, P., 2014a. Electrets in soft materials: nonlinearity, size effects, and giant electromechanical coupling. Phys. Rev. E 40, 1735.   \nDeng, Q., Liu, L.P., Sharma, P., 2014b. Flexoelectricity in soft materials and biological membranes. J. Mech. Phys. Solids 62, 209–227.   \nDeppe, D.G., Huffaker, D.L., 2000. Quantum dimensionality, entropy, and the modulation response of quantum dot lasers. Appl. Phys. Lett. 77, 3325–3327.   \nDorfmann, A., Ogden, R.W., 2005. Nonlinear electroelasticity. Acta Mech. 174, 167–183.   \nEmin, David, Holstein, T., 1976. Adiabatic theory of an electron in a deformable continuum. Phys. Rev. Lett. 36, 323.   \nEringen, A.C., Maugin, G.A., 1989. Electrodynamics of Continua. Springer, New York.   \nEringen, A.C., 1963. On the foundations of electroelastostatics. Int. J. Eng. Sci. 1, 127–153.   \nFock, V., 1930. Bemerkung zum Virialsatz. Z. Phys. 63, 855–858.   \nFraysse, J., Minett, A.I., Jaschinski, O., Duesberg, G.S., Roth, S., 2002. Carbon nanotubes acting like actuators. Carbon 40, 1735–1739.   \nGaididei, Yu.B., Christiansen, P.L., Zakrzewski, W.J., 2006. Conformational transformations induced by the charge-curvature interaction: mean-field approach. Phys. Rev. E 74, 021914.   \nGrundmann, M., Stier, O., Bimberg, D., 1995. InAs/GaAs pyramidal quantum dots: strain distribution optical phonons and electronic structure. Phys. Rev. B 52 (16), 11969.   \nHenderson, P.T., Jones, D., Hampikian, G., Kan, Y., Schuster, G.B., 1999. Long-distance charge transport in duplex DNA: the phonon-assisted polaron-like hopping mechanism. Proc. Natl. Acad. Sci. U.S.A. 96, 8353–8358.   \nHillenbrand, J., Sessler, G.M., 2008. DC-biased ferroelectrets with large piezoelectric d33-coefficients. J. Appl. Phys. 103, 074103.   \nHolstein, T., 1959. Studies of polaron motion. Ann. Phys. (Paris) 8, 325–342.   \nJiang, H., Singh, J., 1997. Strain distribution and electronic spectra of InAs/GaAs self-assembled dots: an eight-band study. Phys. Rev. B 56 (8), 4696.   \nJohnson, H.T., Freund, L.B., Akyuz, C.D., Zaslavsky, A., 1998. Finite element analysis of strain effects on electronic and transport properties in quantum dots and wires. J. Appl. Phys. 84 (7), 3714–3725.   \nKacprzyk, R., Motyl, E., Gajewski, J.B., Pasternak, A., 1995. Piezoelectric properties of nonuniform electrets. J. Electrost. 35, 161–166.   \nKeplinger, C., Kaltenbrunner, M., Arnold, N., Bauer, S., 2010. Rontgen's electrode-free elastomer actuators without electromechanical pull-in instability. Proc. Natl. Acad. Sci. U. S. A. 107, 4505–4510.   \nKnoll, D.A., Keyes, D.E., 2004. Jacobian-free Newton–Krylov methods: a survey of approaches and applications. J. Comput. Phys. 193, 357–397.   \nKoh, S.J.A., Li, T., Zhou, J., Zhao, X., Hong, W., Zhu, J., Suo, Z., 2011. Mechanisms of large actuation strain in dielectric elastomers. J. Polym. Sci. Part B: Polym. Phys. 49, 504–515.   \nKosevich, Yuriy A., Smirnov, Valeri V., 2011. Wandering acoustic-polaron soliton model of charge transport in double-strand DNA. ENOC, Rome, Italy.   \nLehtovaara, L., Toivanen, J., Eloranta, J., 2007. Solution of time-independent Schrodinger equation by the imaginary time propagation method. J. Comput. Phys. 221, 148–157.   \nLi, T., Keplinger, C., Baumgartner, R., Bauer, S., Yang, W., Suo, Z., 2013. Giant voltage-induced deformation in dielectric elastomers near the verge of snapthrough instability. J. Mech. Phys. Solids 61, 611–628.   \nLi, X., Liu, L., Sharma, P., 2015. Geometrically nonlinear deformation and the emergent behavior of polarons in soft matter. Soft Matter, 11, 8042–8047.   \nLiedl, Tim, Sobey, Thomas L., Simmel, Friedrich C., 2007. DNA based nanodevices. Nanotoday 2, 36–41.   \nLiu, B., Qiu, X., 2009. How to compute the atomic stress objectively. J. Comput. Theoret. Nanosci. 6, 1081–1089.   \nLiu, L., 2013. On energy formulations of electrostatics for continuum media. J. Mech. Phys. Solids 61 (4), 968–990.   \nLiu, L., 2014. An energy formulation of continuum magneto-electro-elastics with applications. J. Mech. Phys. Solids 63, 451–480.   \nMahan, G.D., Hopfield, J.J., 1964. Piezoelectric polaron effects in Cds. Phys. Rev. Lett. 12, 241.   \nMaranganti, R., Sharma, P., 2006. Handbook of Theoretical and Computational Nanotechnology, vol. 118. Forschungszentrum Karlsruhe, Germany.   \nMaranganti, R., Sharma, P., 2010. Revisiting quantum notions of stress. Proc. R. Soc. A 466, 2097–2116.   \nMazzoni, M.S.C., Chacham, H., 2000. Atomic restructuring and localized electron states in a bent carbon nanotube: a first-principles study. Phys. Rev. B 61, 7312.   \nMcCombe, B.D., Kaplan, R., 1968. Effects of electron-optical-phonon interaction in the combined resonance spectra of InSb. Phys. Rev. Lett. 21, 756–759.   \nMcMeeking, R.M., Landis, C.M., 2005. Electrostatic forces and stored energy for deformable dielectric materials. J. Appl. Mech. 72, 581–590.   \nMotamarri, P., Nowak, M.R., Leiter, K., Knap, J., Gavini, V., 2013. Higher-order adaptive finite-element methods for Kohn–Sham density functional theory. J. Comput. Phys. 253, 308–343.   \nNakamura, S., Pearton, S., Fasol, S., 2002. The Blue Laser Diode: The Complete Story. Springer, Berlin.   \nNielsen, O.H., Martin, R.M., 1983. First-Principles Calculation of Stress. Phys. Rev. Lett. 50 (9), 697–700.   \nOsipov, V.A., 1995. Polaron-type states in dislocated crystals: a gauge-theory approach. Phys. Rev. B 51, 8614–8616.   \nPaajanen, M., Valimaki, H., Lekkala, J., 2000. Modelling the electromechanical film (EMFi). J. Electrost. 48, 193–204.   \nPao, Y.H., 1978. Electromagnetic Forces in Deformable Continua Mechanics Today. Nemat-Nasser, Pitman, Bath, UK.   \nPark, C.J., Kim, Y.H., Chang, K.J., 1999. Band-gap modification by radial deformation in carbon nanotubes. Phys. Rev. B 60, 10656.   \nPelrine, R., Kornbluh, R., Pei, Q., Joseph, J., 2000. High-speed electrical actuated elastomers with strain greater than 100%. Science 287, 836–839.   \nSaito, R., Dresselhaus, G., Dresselhaus, M.S., 1998. Physical Properties of Carbon Nanotubes. Imperial College Press, London.   \nSingh, J., 1992. Physics of Semiconductors and their Heterostructures. McGraw-Hill Higher Education, New York.   \nStier, O., Grundmann, M., Bimberg, D., 1999. Electronic and optical properties of strained quantum dots modeled by 8-band k.p theory. Phys. Rev. B 59 (8), 5688–5701.   \nSu, W.P., Schrieffer, J.R., Heeger, A.J., 1980. Soliton excitations in polyacetylene. Phys. Rev. B. Condens. Matter 22, 2099–2111.   \nSuo, Z.G., Zhao, X.H., Greene, W.H., 2008. A nonlinear field theory of deformable dielectrics. J. Mech. Phys. Solids 56, 467–486.   \nSuryanarayana, P., Gavini, V., Blesgen, T., Bhattacharya, K., Ortiz, M., 2010. Non-periodic finite-element formulation of Kohn–Sham density functional theory. J. Mech. Phys. Solids 58 (2), 256–280.   \nTersoff, J., Teichert, C., Lagally, M.G., 1996. Self-organization in growth of quantum dot superlattices. Phys. Rev. Lett. 76 (10), 1675–1678.   \nToupin, R.A., 1956. The elastic dielectric. J. Ration. Mech. Anal. 5, 849–915.   \nVerissimo-Alves, M., Capaz, R.B., Koiller, Belita, Artacho, Emilio, Chacham, H., 2001. Polarons in carbon nanotubes. Phys. Rev. Lett. 86, 3372.   \nVoityuk, A.A., Jortner, J., Bixon, M., Rosch, N., 2001. Electronic coupling between Watson–Crick Pairs for hole transfer and transport in desoxyribonucleic acid. J. Chem. Phys. 114 (13), 5614–5620.   \nWang, Y., Fu, L., Wang, K., 2006. Extended Holstein small polaron model for charge transfer in dry DNA. Biophys. Chem. 119, 107–114.   \nWegener, M., Bauer, S., 2005. Microstorms in cellular polymers: a route to soft piezoelectric transducer materials with engineered macroscopic dipoles. Chem. Phys. Chem. 6, 1014–1025.   \nWilliamson, A.J., Zunger, A., 1998. Effect of interfacial states on the binding energies of electrons and holes in InAs/GaAs quantum dots. Phys. Rev. B 58 (11), 6724–6727.   \nXu, R., Liu, B., 2009. Investigation on the applicability of various stress definitions in atomistic simulation. Acta Mech. Solida Sin. 22, 644–649.   \nYoo, K.-H., Ha, D.H., Lee, J.-O., Park, J.W., Kim, Jinhee, Kim, J.J., Lee, H.-Y., Kawai, T., Choi, Han Yong, 2001. Electrical conduction through poly(dA)-poly(dT) and poly(dG)-poly(dC) DNA molecules. Phys. Rev. Lett. 87, 198102.   \nZekovic, S., Zdravkovic, S., Ivic, Z., 2011. Charge transfer in DNA: the role of large polarons. J. Phys.: Conf. Ser. 329, 012015.   \nZhang, X., Sharma, P., Johnson, H.T., 2007. Quantum confinement induced strain in quantum dots. Phys. Rev. B 75, 155319.   \nZhang, X., Gharbi, M., Sharma, P., Johnson, H.T., 2009. Quantum confinement induced strains in nanostructures and prospects for optical actuation. Int. J. Solid Struct. 46, 3810–3824.   \nZhao, X.H., Suo, Z.G., 2008. Electrostriction in elastic dielectrics undergoing large deformation. J. Appl. Phys. 104, 123530.   \nZhao, X.H., Suo, Z.G., 2010. Theory of dielectric elastomers capable of giant deformation of actuation. Phys. Rev. Lett. 104, 178302.   \nZhao, X.H., Hong, W., Suo, Z.G., 2007. Electromechanical hysteresis and coexistent states in dielectric elastomers. Phys. Rev. B 76, 134113. ",
+    "bbox": [
+      71,
+      319,
+      935,
+      936
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      362,
+      44,
+      643,
+      55
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "128 ",
+    "bbox": [
+      73,
+      45,
+      95,
+      55
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      62,
+      70,
+      928,
+      652
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "X. Li et al. / J. Mech. Phys. Solids 87 (2016) 115–129 ",
+    "bbox": [
+      354,
+      44,
+      634,
+      55
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "129 ",
+    "bbox": [
+      902,
+      44,
+      924,
+      55
+    ],
+    "page_idx": 14
+  }
+]

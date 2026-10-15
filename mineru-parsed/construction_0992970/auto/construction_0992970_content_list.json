@@ -1,0 +1,1734 @@
+[
+  {
+    "type": "text",
+    "text": "An Experimental Study on Nonlinear Response of Concrete Filled Steel Tubular Copmposite Columns under Axial Loading ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      84,
+      860,
+      127
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Vinayagam Ponnusamy1\\*, Janani Selvam 2 and Amiya Bhaumik3 ",
+    "bbox": [
+      220,
+      160,
+      779,
+      179
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1\\*Post-Doctoral Fellowship,Lincoln University College, Malaysia. 2,3Lincoln University College, Malaysia. drpvinayagam@gmail.com ",
+    "bbox": [
+      250,
+      185,
+      751,
+      246
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      453,
+      274,
+      546,
+      290
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Concrete Filled Steel Tubular (CFST) composite columns have been used as bridge piers and columns in multistory buildings etc.. It is now widely accepted that concrete filled steel tubular composite columns are well suited as compression members in high-rise buildings, long span, heavy loading and seismic structures. However there are limitations to its applications mainly due to lack of design guidance. This paper deals with the confinement effects of concrete filled steel tubular composite column subjected to different axial loading conditions and the effect of slenderness. The columns were circular in cross-section with constant D/t and slenderness ratio varies from 3 to 12. The experimental study includes for the confinement effect that the axial load applying on the steel only, on the concrete core only and both the concrete and steel. The bond between the steel and internal core concrete was critical in determining the formation of local buckling. In slenderness effect when the slenderness ratio is very low the column fails due to yielding of the steel and crushing. When the slenderness ratio is large, the column fails by elastic buckling. ",
+    "bbox": [
+      117,
+      294,
+      882,
+      516
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Confinement effect, Slenderness ratio, Concrete filled steel tubular, Composite column. ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      541,
+      801,
+      557
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      583,
+      282,
+      600
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Concrete filled steel rounded segments address a class of construction where the best properties of steel and cement are utilized to their most extreme benefit [5]. CFST segments have become the favored structure for hefty stacking conditions and numerous seismic safe constructions under serious flexural over load like, connect wharfs subject to affect from traffic, segments to help huge amounts of capacity tanks decks of rail routes, and segments in skyscraper places of business. Subsequently, CFST sections lessen generously the measure of costly steel needed to help given burden, while the elements of the segment are more modest than those of a built up concrete solid segment of a similar strength there by expanding the accessible floor space [4]. The overall term 'Composite Column' alludes to any pressure part in which a steel component acts compositely with the solid component, so the two components oppose compressive powers or all in all by definition a steel-solid segment is a part with a cross area comprising or a steel segment (or areas) and solid which act together to oppose pivotal pressure [3]. Two basic sorts of composite segment are being used cement encased steel segments or cement filled steel cylindrical areas. ",
+    "bbox": [
+      117,
+      607,
+      884,
+      896
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2303 ",
+    "bbox": [
+      786,
+      947,
+      820,
+      958
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      84,
+      882,
+      127
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The fascination for composite phase is that the pricey steel skeleton will be engineered 1st, and this could uphold the dead masses and development masses. ensuing cementing builds the limit staggeringly, and therefore the composite sections, that produce once the solid solidifies, ar cheap for opposing additional live stacking even as dead masses. afterwards, composite segments reduce significantly the live of pricey steel required to assist a given arrange load, whereas the elements of the phase ar smaller than those of a engineered up solid section of the same strength, consequently increasing the accessible floor house. the advantages that accure to the event interaction itself ar axiomatic [15]. ",
+    "bbox": [
+      117,
+      134,
+      884,
+      323
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The utilization of spherical, sq. and rectangular sections have gotten all the a lot of for the foremost half embraced for styles and there area unit likewise of distinctive interest in cylindrical phase to the creator from a tasteful perspective and to the creator from a primary adequacy perspective [7]. ",
+    "bbox": [
+      117,
+      330,
+      884,
+      423
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "REVIEW OF LITERATURE ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      453,
+      378,
+      470
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Until the 1950's steel bolsters were usually incased in low strength concrete primarily to grant fireplace assurance, however the enlargement in strength managed by the solid wasn't evaluated till the 1950's (Faber 1956, Steven 1959). Current set up of composite sections utilizes each the strength and also the impermeableness to fireside of cement and therefore offers a additional economical style from that time forward, exploration and use of composite segments has progressed and that they have currently discovered wide unfold application within the development business within the course of the foremost recent decade. ",
+    "bbox": [
+      117,
+      478,
+      884,
+      644
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/50a9fb9632736ab56ed69006fa2fc0eb8b8e4586178ac842b0a0502d0872bec3.jpg",
+    "image_caption": [
+      "Figure 1. Comparison of RC, SRC, S & CFST "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      226,
+      677,
+      741,
+      847
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Thorough survey of international analysis work covering the timeframe from the first tests till 1960 was distributed by Viest and a comparable audit by Johnson lined the timeframe 1962 to 1969. The acutely aware utilization of composite activity among steel and cement most likely been created shortly when the first check work completed in European nation and North American nation in 1922, but the applying was presumptively with solid enclosure of steel segments which might are slighter than remotely magnified steel'. In associate degree business not particularly addicted to amendment the reception of another strategy is maybe planning to be moderate notwithstanding whether or not the technique may be incontestable to be conservative. ",
+    "bbox": [
+      136,
+      887,
+      878,
+      904
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2304 ",
+    "bbox": [
+      786,
+      946,
+      820,
+      958
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      84,
+      885,
+      273
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Seismic Response of CFST Columns ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      305,
+      433,
+      323
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "CFST composite Structural framework segments were exposed to totally different stacking tests to appear at their underlying conduct. These enclosed hub pressure tests and flexural cutting tests underneath crucial burdens. due to the solid compelled by the cylinder, a CFST primary framework section keeps up its high come back strength and misshapening limit till inbound at the large even twisting space. This in lightweight of \"Consolidated impact\" of the steel cylinder and solid acting along. ",
+    "bbox": [
+      117,
+      331,
+      885,
+      472
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/b756fe9dee43e7e7b3baa17221dd4ad679139ebe00066421458703232df1f80d.jpg",
+    "image_caption": [
+      "Figure 2. Seismic response of CFST columns "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      258,
+      507,
+      667,
+      689
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "METHODOLOGY ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      749,
+      289,
+      765
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In a short pivotally stacked cement crammed steel tube, the solid center of the section is exposed to a limiting pressure, and consequently the phase will convey imposingly larger hub powers than if the solid was unconfined. the results of tri-pivotal tests on concrete have represented this, wherever cement exposed to a parallel limiting pressing issue will convey a additional distinguished hub load than unconfined cement. Obviously, this can be employed in supported solid development wherever spirally engineered up sections provides a horizontal pressure that builds the polar burden sent by the solid center. Anyway the conduct of a pivotally stacked steel tube loaded up with solid can shift as indicated by technique during which the finishes of the half area unit stacked. Basically, there area unit 5 in an exceedingly general sense varied techniques for applying the stacking, and these area unit talked concerning beneath. ",
+    "bbox": [
+      117,
+      772,
+      884,
+      915
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2305 ",
+    "bbox": [
+      786,
+      946,
+      820,
+      958
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      83,
+      884,
+      199
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(A) Load the concrete and not the steel (Core only loaded)   \n(B) Load the steel and concrete (Fully loaded)   \n(C) Load the steel and not the concrete   \n(D) Load the hallow steel tube   \n(E) Load the plain cement concrete ",
+    "bbox": [
+      176,
+      208,
+      655,
+      324
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(A) Load the concrete and not the steel ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      355,
+      445,
+      372
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This is the foremost nice stacking technique because the steel does not avoid polar burden, nevertheless simply offers a keeping pressure to the solid in a very much akin to thanks to a spirally engineered up solid section. ",
+    "bbox": [
+      117,
+      380,
+      882,
+      447
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(B)Load the steel and concrete ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      454,
+      376,
+      470
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This is the technique often practiced much speaking. within the event that the steel is pivotally pushed in pressure even as circumferentially because of the event of the solid, it'll be exposed to a condition of biaxate pressure which can decrease the yield pressure the circumferential manner. This brings down the proscribing impact, and consequently lessens the best burden on the solid. ",
+    "bbox": [
+      117,
+      478,
+      884,
+      594
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "(C)Load the steel and not the concrete ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      601,
+      438,
+      618
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This state of stacking might not build the hub load limit of section over that of the steel tube alone, on the grounds that the Poisson's impact causes the steel cylinder to isolate from the solid once the association between the solid and steel has been surpassed. The section can for the foremost half come back up short at the best burden that the empty steel tube alone will convey, nevertheless the solid center could can generally prorogue the section neighborhood clasping. Consequently stacking the steel alone did not build the frustration load a lot of over that for associate degree empty steel tube. ",
+    "bbox": [
+      117,
+      625,
+      884,
+      791
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "CONFINEMENT AND SLENDERNESS EFFECT ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      797,
+      561,
+      815
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The specialised case for utilization of the composite cylindrical section (i.e, a steel tube with a solid or grout infill that acts compositely) is that the steel is place in its best scenario, with a coat of steel externally, essentially associate degree possibility in distinction to the normal bar support, the inside phase of cement is ensured against spalling enduring associate degree onslaught conditions. Then again, the solid offers additional impermeability to fireplace to the cylinder and may significantly expand its neighborhood clasping strength. it'll likewise work on higher anxieties visible of the tri-pivotal regulation provide by the steel tube. ",
+    "bbox": [
+      117,
+      822,
+      884,
+      915
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2306 ",
+    "bbox": [
+      786,
+      946,
+      820,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      83,
+      882,
+      174
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The money case for the employment of the composite cylinder is basically to try to to with its low by and enormous expense, that is just somewhat known with the specialised edges. In varied new applications in elevated structures the fabric and direct work expenses of composite cylinders seem to be similar with designed up concrete but area unit aligned with the advantages for the event cycle which will come back from the employment of steel work. There area unit a handful of primary contemplations that ought to be borne at the highest of the priority list once analyzing the crucial conduct of incased segments and RC sections. ",
+    "bbox": [
+      117,
+      183,
+      884,
+      372
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Initially, concrete-filled cylinders ar overwhelmed to neighborhood clasping of the steel skin, that by and huge is dainty. the next purpose relates to the tri-pivotal management given by the cylinder to the event of the solid center in pressure, and it's been half-track down that this repression upgrades extensively the strength of a brief section, nonetheless is inconsequential in skinny segments. ",
+    "bbox": [
+      117,
+      379,
+      884,
+      495
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Thirdly, the steel skin controls the flight of soddenness that adds to creep and shrinkage impacts, therefore assessment into noticing the time-subordinate distortions of concrete - crammed chambers has exhibited reduced wet blanket and shrinkage - started response. Finally, the essential legitimization the essential gathering of cased fragments was for fireplace security of the steel [9]. this does not occur with crammed steel tubes, that need to usually be coated with extra fireplace-contradicting material to urge the best fire rating. to boot, very little openings area unit often trained into the steel skin to permit steam to maneuver removed from once the cased sturdy focus is warm in an exceedingly fireplace, during this approach decreasing the chance of risky disenchantment achieved by packed steam made up of the widely saturated concrete. ",
+    "bbox": [
+      117,
+      502,
+      884,
+      741
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/19a7c847ea83faf403a130ac23b87da4d9434c1a1819205523369d6d98c69f7b.jpg",
+    "image_caption": [
+      "Figure 3. Stress condition for steel and concrete "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      124,
+      783,
+      823,
+      957
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Longitudinal stress, $\\mathbf { \\nabla } ^ { \\left. \\right|} f \\mathbf { s }  ^ { \\circ }$ is developed due to axial load and bending moment, whereas a circumferential stress, ‘ƒsh’ develops due to concrete confinement. The two stresses define the yield criteria as outlined by Von Mises yield criteria. ",
+    "bbox": [
+      117,
+      166,
+      884,
+      233
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/1c0ec8c83831caee00ec1d7cddb57dc402f52eea4c135c1a5f33533d49c9b7e6.jpg",
+    "text": "$$\nf _ { \\mathrm { { s l } } } ^ { 2 } + f _ { \\mathrm { { ~ s h } } } ^ { 2 } + f _ { \\mathrm { { s h } } } f _ { \\mathrm { { s l } } } = f _ { \\mathrm { { y } } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      297,
+      237,
+      484,
+      259
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Where $\\cdot _ { f _ { \\mathrm { y } } } ,$ is the yield stress of steel jacket. ",
+    "bbox": [
+      242,
+      265,
+      594,
+      282
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the solid crammed spherical areas, the impact of repression is attenuate as bowing minutes area unit applied. this can be due to the mean compressive strain within the solid (and the connected sidelong extension) is then attenuate. It likewise lessens with increasing slightness of the phase, since parallel diversion before disappointment builds the bowing minutes and diminishes the mean compressive strain within the solid. The restriction could happen for sections wherever cement is press preceding close clasping of steel and this might for the foremost half be valid for segments wherever the plate slightness limit is small. The impact of management resolve as way as proscribing pressing issue as circumferential pressure. Steel coat would be exposed to biaxate condition of pressure as incontestible in Figure.3. ",
+    "bbox": [
+      117,
+      310,
+      884,
+      549
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "EXPERIMENTAL INVESTIGATION ",
+    "text_level": 1,
+    "bbox": [
+      121,
+      556,
+      457,
+      574
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Three series of CFST column specimens of steel outer diameter $1 1 4 ~ \\mathrm { m m }$ , thickness $2 \\mathrm { m m }$ was cast and tested under different axial loading conditions to study the confinement effect. For slenderness effect four series of CFST column and four series of RC column specimens of various $\\mathrm { L } / \\mathrm { d }$ ratio of 3, 6, 9 and 12. Concrete of grade M25 and diameter was kept constant for all the specimens. Apart from above one series of hollow steel tube and one series of plain cement concrete also tested. ",
+    "bbox": [
+      117,
+      580,
+      884,
+      721
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The examples were control vertically between 2 sturdy plates as a semi inflexible condition to reenact the real construction. The section head features a distinctive set up for the viable burden move to the section. The section head was modified per the stacking conditions. The heap cell was used that rigorously shows the stacking and it had been place within the middle of the jack and head. Horizontal avoidances were calculable at the middle tallness of the section utilizing direct issue removal transducers (LVDT), that demonstrates the dislodging rigorously. Longitudinal diversions of the sections were calculable utilizing deflectometers with least tally of zero.01 mm. The strains created on the surface of the steel packaging ar calculable within the middle tallness utilizing dial sit down with least tally of $0 . 0 2 \\mathrm { m m }$ . ",
+    "bbox": [
+      117,
+      728,
+      884,
+      894
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2308 ",
+    "bbox": [
+      786,
+      946,
+      821,
+      958
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      84,
+      882,
+      151
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Complete check discovered utilised for each one in all the examples ar appeared in Figure four. The testing ways for each one in all the examples were same. The section was assail the bottom of the stage and fittingly targeted for stacking pivotally. before beginning the check, all the strain measures were checked and therefore the underlying estimations at strain estimating focuses were taken. In every check, initially the section was stacked with very little burden augmentation and subsequently delivered to envision the adequacy of the instrument set-up and stacking. At that time the examples were exposed to a cycle of monotonic crucial stacking up to the best burden. At each addition of stacking, the readings of avoidances, strain and hub shortening were calculable. The swelling, breaks in RC sections were to boot detected. The stacking on the section was proceeded until the last breakdown of the examples. From that time forward, the heap augmentations were controlled looking forward to the apparent redirection limit of the section. ",
+    "bbox": [
+      117,
+      160,
+      515,
+      495
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/0f96cb014ccc1b984a4463ce18131227a6e91ff65dcc058a0f584126abab08ed.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      526,
+      167,
+      848,
+      480
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      502,
+      885,
+      618
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "FINITE ELEMENT ANALYSIS ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      625,
+      405,
+      643
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Business restricted part programming ANSYS Revision five.4 was used during this mathematical investigation. Prier to dissecting the post-clasping conduct of construction, a straight clasping investigation is 1st performed on examples to accumulate its clasping mode form. Following this, the non-direct post clasping investigation is completed to anticipate the heap versus finish shortening trademark bends and extreme burden limit. ",
+    "bbox": [
+      117,
+      650,
+      884,
+      766
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The part sort used could be a 8-noded three-dimensional block sturdy part with six levels of chance at each hub. Versatile shell elements square measure used within the restricted part model for straight clasping investigation. A high cross section thickness can build the preciseness of the outcomes no heritable to the hurt of calculation time whereas low lattice thickness will prompt real blunders. The limit conditions for all restricted part models square measure picked to mimic real conditions within the trial arrangement. Steel finish plates were stuck to each end of each example throughout the analysis to forestall the stacked closures of the examples from moving on the facet. thrust of finish support so accomplished was viewed as a close-by estimation to easy facilitate condition. ",
+    "bbox": [
+      117,
+      772,
+      884,
+      915
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2309 ",
+    "bbox": [
+      786,
+      946,
+      820,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      84,
+      884,
+      151
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/84633cb55f8c7bd191c41925e825923249ff0e67a2512e8e757d89339300adb7.jpg",
+    "image_caption": [
+      "Figure 5. Meshed model "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      156,
+      164,
+      492,
+      359
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/ab4969cd1da2e38916ca7893431bf222dc77d73ec408b38fc782c434fddc8fd4.jpg",
+    "image_caption": [
+      "Figure 6. Stress distribution "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      534,
+      161,
+      838,
+      346
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The outcomes from Finite component Analysis (FEA) utilizing ANSYS ar for the foremost half nearer to the trial results and hypothetic expectations. A definitive burdens no inheritable from this investigation. The heap versus finish shortening and burden versus strain bends no inheritable from the FEA ar dependably close to the check and hypothetic bends. throughout the underlying phases of stacking, each one of the bends show a right away association between the heap and therefore the end-shortening. because the end-shortening increments and surpasses the essential clasping stacking, the sections enter the post clasping vary wherever non straight conduct overwhelms. At a definitive burden, the sections fizzled and lost its capability to convey any stacking. on these lines, the heap bend diminishes with finish shortening past a definitive burden. The work model and stress dissemination structure at breakdown load is appeared in Figure.5 and 6 respectively. ",
+    "bbox": [
+      117,
+      429,
+      884,
+      693
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RESULTS AND DISCUSSION ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      699,
+      389,
+      717
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The structural action of short composite columns may be described as follows. At the first stage of loading and before the start of in core concrete, the steel tube has no dominant the solid center, which carries the load as an longitudinal reinforcement (loading cases A and ",
+    "bbox": [
+      114,
+      724,
+      882,
+      741
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      749,
+      524,
+      840
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "cracking impact on ordinary C). ",
+    "bbox": [
+      786,
+      750,
+      882,
+      839
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/de936d882b9769e8fc6dd1fd20b79fd7dcb5fbb134ce719dff97a7a1186c3002.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      534,
+      751,
+      776,
+      998
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/c9feb397c41823e470300b37b3df765a87dae78b09001edb4399d361d1740e11.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      887,
+      420,
+      1000
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2310 ",
+    "bbox": [
+      784,
+      946,
+      821,
+      958
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/ba1ba230a15b6bb940367bc46f1928b0fbeb864643d699731d6fd15795e4c7ce.jpg",
+    "image_caption": [
+      "Figure 7. CFST specimen of core only loaded column ",
+      "Figure 9. Local buckling and bulging failure at the ends of CFST steel only "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      184,
+      187,
+      435,
+      432
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/695205cc4270b578a3b84858c565583211002cea482e04388db23dcd47258621.jpg",
+    "image_caption": [
+      "Figure 8. Formation of luder lines and bulging failure of CFST of fully ",
+      "Figure 10. Bulging failure of hollow steel tubular column specimen "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      547,
+      189,
+      778,
+      430
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "As the longitudinal strain of core concrete increases, micro cracks develop in concrete. The concrete bears out against the steel tube, which applies then a confining reaction to the concrete. An spread pressing issue at the steel-solid interface creates band strain within the cylinder. as a result of contact at the steel-solid interface, longitudinal pressure is likewise incited within the steel tube (stacking case A). At this stage and later, in all loading cases, the solid center is concentrated on tri-pivotally and also the steel tube biaxate. ",
+    "bbox": [
+      117,
+      491,
+      884,
+      655
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "When steel yields, there is Associate in Nursing exchange of burden from the cylinder deeply. The longitudinal pressure in steel is decreasing with increasing of band malleable pressure. Consequently, this builds the strength of cement. At last, disappointment of the section happens once the resultant compressive power sent by the steel tube and also the solid center arrives at a definitive. ",
+    "bbox": [
+      117,
+      662,
+      884,
+      778
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/557d3723f5f4496cf7b5b90269ed93420d97c883b5ba71d01e07543aa60c08df.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      127,
+      796,
+      477,
+      957
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/aecb96a282fcba4f9f55a12e19505ea277f9ea51eb78c0c8be179a85915cf8e8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      517,
+      788,
+      862,
+      950
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      33,
+      640,
+      60
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "2311 ",
+    "bbox": [
+      786,
+      947,
+      820,
+      958
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The reaction of slender steel tubes in composite sections to the applied stacking is amendment distinctive in respect to the conduct of empty cylinders underneath compressive powers. this suggests that vacant shells underneath compressive powers could encounter bowing even as layer distortion. The pivot of the steel tube in spherical stuffed cylindrical le to the affiliation between the steel and solid associate outward revolution will happen. Also, the inward pressing issue between the steel and solid interface facilitates the outward revolution of steel tube. The steel tube is thick enough the detachment of the steel tube from the solid could occur when the head load. ",
+    "bbox": [
+      117,
+      158,
+      884,
+      249
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      494,
+      256,
+      884,
+      299
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      305,
+      884,
+      372
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In slender columns when the thinness proportion is big, the segments discontinue by versatile clasping and Euler's direction is material. From the compression test on short composite columns $\\mathrm { ( L / D } { = } 3 )$ ), up to an average load of $2 0 0 \\mathrm { K N }$ , and after that the deflection is approximately the same up to $4 0 0 \\mathrm { K N }$ . The composite columns failed completely by crushing and bulging as shown in Figure 11. The deflections increased considerably for L/D ratio $\\scriptstyle 1 = 1 2$ and the specimens failed due to excessive buckling. ",
+    "bbox": [
+      117,
+      380,
+      884,
+      520
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Between the regions of short and long columns, there is a range of intermediate slenderness too small to be governed by elastic stability and too large to be governed by strength considerations alone. Such medium length columns buckle inelastic ally. Theoretically to predict the failure load, the modified Euler’s formula may be used replacing the constant modulus E by the tangent modulus Eε. Additionally the conduct of a skinny phase is actually influenced by flaws like introductory bend of the section, ineluctable unconventionalities within the use of the heap, defective finish conditions, non homogeneity of the materials then forth. The graphs presented from Figure 13 to Figure 16 clearly show the relationship between the load-lateral deflection and load-axial strain of column in various stages of loading. ",
+    "bbox": [
+      117,
+      527,
+      884,
+      766
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/36fd0e91a39c992a9cc4bdb1a70c4084530473347dacd2d06a39ab230fb9b79f.jpg",
+    "image_caption": [
+      "se nts, in any case, is forestalled attribFigure 12. Failure pattern of RC in Fce, and ocolumn the bond is brspecimen for ${ \\bf L } / { \\bf D } = 3$ ",
+      "http://annalsofrscb.ro "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      129,
+      797,
+      450,
+      938
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/d8189e22f1a034ce9e533c5ebad02d8984b6522bf18c9581778b49189c7ef761.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      552,
+      799,
+      862,
+      946
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "n of CFST $\\mathfrak { s }$ for $\\mathbf { L } / \\mathbf { D } = 3$ ",
+    "bbox": [
+      0,
+      246,
+      105,
+      279
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "2312 ",
+    "bbox": [
+      786,
+      950,
+      820,
+      958
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/82ac2038c66ae906db046390b8a70e0bf98b6d8baf9470261ee3d252b6e739c9.jpg",
+    "image_caption": [
+      "Figure 13. Load vs Lateral deformation of CFST for different loading conditions ",
+      "Figure 15. Load vs Lateral deformation of CFST for different $\\mathrm { L } / \\mathrm { D }$ ratio "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      139,
+      217,
+      468,
+      370
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/93eefccb5888de06b01d62ae7cb3850fca679655822127f4ac1136695e090f47.jpg",
+    "image_caption": [
+      "Figure 14 Load vs Axial strain of CFST for different loading conditions ",
+      "Figure 16 Load vs Axial strain of CFST for different $\\mathrm { L } / \\mathrm { D }$ ratio "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      551,
+      205,
+      836,
+      354
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/18cb0963d9b839c5a3cccedc6253274f7de6f23d7c697f2a9950a58bdd7b52b4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      461,
+      880,
+      638
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0992970/auto/images/eede5dd716e9424b8a8c4aa60194db2a9aa096d6af75a74d314e530d3108485f.jpg",
+    "image_caption": [
+      "Figure 17 Ultimate strength of CFST for loading conditions ",
+      "Figure 18 Comparison of ultimate load different L/D for CFST composite column "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      129,
+      455,
+      495,
+      640
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The ultimate loads obtained by finite element analysis using ANSYS, theoretical and experimental results are compared in Figures 17 and 18. These traditionalist expectations area unit applicable for the arrange of CFST sections. ",
+    "bbox": [
+      117,
+      722,
+      882,
+      789
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSIONS ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      821,
+      270,
+      838
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The conclusions drawn based on the experimental investigation carried out to study confinement effects columns are discussed below. ",
+    "bbox": [
+      117,
+      846,
+      880,
+      888
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2313 ",
+    "bbox": [
+      784,
+      946,
+      820,
+      958
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Fully loaded CFST column carries 2.45 $( 2 4 5 \\%$ ) times the load carried by the composite steel only loaded case.   \nUltimate load capacity of composite core loaded CFST column is higher than that of the specimen which is loaded through the steel tube and concrete together.   \nThe composite core loaded specimen has adequate ductility. The elephant foot buckling is avoided when load is applied through the core.   \nUltimate load capacity of steel only loaded composite column is 1.28 ( $( 1 2 8 \\% )$ ) times that of hollow steel tube loaded column. In such situations concrete can be filled so that local buckling can be avoided   \nIn the experimental study, concrete core only loading and composite steel only loading tests have been conducted. The practical application of core loading is to be examined. Both steel and concrete loaded column has 1.38 ( $1 3 8 \\%$ ) times the load capacity of plain concrete and hollow steel tube individually loaded cases.   \nFor composite section with concrete stuffed roundabout areas, the constrainment impact of solid builds the protection from hub load.   \nIn the at the present acknowledged cutoff state reasoning wherever numerous material strength decrease factors square measure applied to cement and steel, distinctive burden factors square measure to be applied to support burden and extreme burden stages.   \nObservations of tests on laterally confined concrete are applicable to concrete in the ",
+    "bbox": [
+      164,
+      86,
+      885,
+      570
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "core of CFST, in a qualitative manner. The sidelong restriction provided by the shell of CFST, logically increments with the heap level and is to boot systematically applied. ",
+    "bbox": [
+      168,
+      551,
+      882,
+      619
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The conclusions drawn based on the experimental investigation carried out to study slenderness effects of columns are discussed below. ",
+    "bbox": [
+      166,
+      626,
+      882,
+      668
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The clasping disappointment is stayed faraway from and also the heap conveyancing limit is expanded by transfer down the thinness proportion for CFST and RC segments. ",
+    "bbox": [
+      168,
+      675,
+      882,
+      718
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The ultimate axial compressive failure load of the CFST composite columns was 363 percent more when compared with the ultimate axial compressive failure load of the conventional RC columns of same size. ",
+    "bbox": [
+      168,
+      724,
+      884,
+      790
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "It was observed from the tests, that the failure mode of the CFST composite column depends on slenderness ratio. When the slenderness ratio is very less, the column fails due to yielding of steel and crushing of concrete under direct compression. When the slenderness ratio is large, the column fails by elastic buckling. ",
+    "bbox": [
+      168,
+      797,
+      884,
+      890
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "2314 ",
+    "bbox": [
+      786,
+      947,
+      820,
+      958
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      121,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The deflection is low, where L/D ratio is 3. The deflection rate considerably increased when L/D ratio is 12 compared with the ratios of 6 and 9 respectively. ",
+    "bbox": [
+      168,
+      84,
+      882,
+      127
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The general conclusions are ",
+    "bbox": [
+      136,
+      159,
+      364,
+      175
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The strains and deformations of CFST and fully steel encased RCFST composite columns were found to be more than those of the conventional RC columns of same size. Hence, these composite columns are more ductile than RC columns. It was found that the variations between the experimental and ANSYS failure loads were around 15 percent. This variation occurred due to the stiffer models created in ANSYS. It is also due to the assumption of perfect bond at the steel concrete interface of CFST columns, which is not the case in practice. Moreover, the modules of elasticity of the loading plate at top and plate at bottom support were not determined experimentally. Also honeycombing during concreting might also be attributed to these causes. ",
+    "bbox": [
+      132,
+      184,
+      885,
+      425
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": " The ultimate axial failure load of CFST composite columns were found to be more than the theoretical value calculated by the EC4. Hence, the Euro code 4 underestimates the ultimate axial load carrying capacity of CFST composite columns.   \n Results of the numerical simulations were compared with the experimental findings. Apparently, good agreement has been obtained from the comparison showing that the proposed numerical simulation method is applicable for analyzing similar structures.   \n The material models used for steel tube and in-filled concrete columns predict the failure load, load-lateral deflection, load-axial shortening and stress-strain response up to service load with higher confidence.   \n A study of bi-axially stressed steel shell had shown that shell, when supplying confining pressure on the core, is stressed in the lateral direction and hence cannot sustain its full compliment of longitudinal load. However, taking into account the enhanced strength of the laterally confined core, it was decided that the loss in longitudinal load carrying capacity of shell can be ignored without loss of accuracy. Hence a perfect elastic-plastic relationship for steel is acceptable.   \n Comparing the behaviour of reinforced concrete columns and concrete filled steel tubular columns strain similarity and complete communication among steel and cement square measure on the market ludicrous scope of stacking within the previous, while, strain similarity and composite activity square measure missing up to bound heap level ",
+    "bbox": [
+      131,
+      353,
+      885,
+      908
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2315 ",
+    "bbox": [
+      786,
+      947,
+      820,
+      958
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "within the later. Therefore, the middle of CFST is horizontally unbroken at innovative phases of stacking simply and at the previous phases of stacking it's underneath a uniaxial condition of pressure. ",
+    "bbox": [
+      169,
+      84,
+      882,
+      152
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Finite element simulations of steel encased composite columns subjected to different loading conditions over entire range of loading are performed to evaluate the confinement effects. Finite element analysis can during this manner be investigated utilizing ANSYS additional to verify its convenience as another choice and reciprocal strategy to the arrange of CFST composite phase style to foresee a definitive burden with wise truth. ",
+    "bbox": [
+      117,
+      183,
+      884,
+      299
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      380,
+      257,
+      397
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1) Amir Mirmiran, Mohen Shahawy and Thomas Beitleman, &quot;Slenderness Limit for HyBrid FRP - concrete columns&quot;, Journal of composites for construction, volume. 5, No.1, February, 2001, pp - 26 - 34. ",
+    "bbox": [
+      117,
+      404,
+      882,
+      472
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "2) Brain UY., : &quot;Strength of conrete filled steel Box columns INcorporating local Buckling&quot;, Journal of STructural Engineering, vol.126, No.3, March 2000, pp 341-352. ",
+    "bbox": [
+      117,
+      478,
+      884,
+      544
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "3) Chou.S.M, Chai.G.B and Ling.L&quot;, Finite element technique for design of stub columns&quot;, Thin - walled structures 37, 2000, pp- 97 - 112. ",
+    "bbox": [
+      117,
+      551,
+      884,
+      595
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4) Eurocode 4 ( 1994) Design of composite steel and concrete structures DDENV 1994- 1, Draft for development. ",
+    "bbox": [
+      121,
+      600,
+      880,
+      643
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "5) Gregory A.MacRae and Kazuhiko Kawashima, &quot;Seismic Behaviour of Hollow stiffened steel Bridge Columns, Journal of Bridge Engineering Vol.6, No.2. March/ April 2001, pp-110-119. ",
+    "bbox": [
+      117,
+      650,
+      884,
+      718
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "6) He Ruoquan, &quot;Behaviour of long concrete filled Steel columns, proceedings of an Engineering foundation conference Newyork, June 7-12, 1987, pp - 729-737. ",
+    "bbox": [
+      117,
+      724,
+      884,
+      766
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "7) Kvedaras D.Mykolaitis and A.Sapalas &quot;Projects in hollow concrete - filled steel tubular structures&quot;, Tubular structures VII, Farkas &amp; Jarmai (eds) - 1996. Balkema - 1996, pp-341-348. ",
+    "bbox": [
+      117,
+      772,
+      882,
+      840
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "8) Saw.H.S and Richard Liew.J.Y, &quot;Assessment of current methods for the design of composite columns in buildings, Journal of Constructional Steel Research, 53, - 2000, pp-121-147. ",
+    "bbox": [
+      117,
+      846,
+      884,
+      915
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      945,
+      273,
+      959
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "2316 ",
+    "bbox": [
+      784,
+      946,
+      821,
+      958
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      640,
+      60
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Annals of R.S.C.B., ISSN:1583-6258, Vol. 25, Issue 6, 2021, Pages. 2303-2317 Received 25 April 2021; Accepted 08 May 2021. ",
+    "bbox": [
+      119,
+      32,
+      642,
+      61
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "9) Shanmugam.N.E and Lakshmi.B, &quot;State of the art report on steel - concrete composite columns, Journal of constructional Steel Research 57, 2001, pp-1041– 1080 ",
+    "bbox": [
+      117,
+      84,
+      885,
+      127
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "10) Shams.M and Saadegh vaziri.M.A, &quot;Nonlinear Response of concrete - filled steel tubular columns under Axial loading,&#39; ACI Structural Journal, November - December - 1999, pp 1009 - 1017. ",
+    "bbox": [
+      117,
+      133,
+      884,
+      200
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "11) Song.Y.L and Chen.J.F &quot;Structural behvaiour of short steel - concrete composite spun Tubular columns&quot;, Magazine of concrete Research 52 (No.6) Dec-2000, pp - 411 - 418. ",
+    "bbox": [
+      115,
+      206,
+      885,
+      274
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "12) jozsef farkas &amp; karoli jarmai, University of Miskolc, Hungary – ‘Tubular Structures VII’, – Seventh International Symposium on Tubular Structures, August 1996. ",
+    "bbox": [
+      115,
+      280,
+      884,
+      324
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "13) c.dale buckner &amp; ivan m.viest, New England College, Henniker, new hampshire– ‘composite construction in Steel and Concrete’ – June 7–12, 1987. ",
+    "bbox": [
+      112,
+      330,
+      877,
+      373
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "14) lyold c.p.yam, Head of Structural Design Division, Building Research Station, ",
+    "bbox": [
+      154,
+      379,
+      880,
+      398
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Garston, U.K. – ‘Design of Composite Steel – Concrete Structures’ – 1981. ",
+    "bbox": [
+      127,
+      404,
+      842,
+      422
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "15) Rangachari Narayanan, “Testing Resource on structural steel design,” INSDAG, Volume 2, pp- 25-1 to 25-3-2000 ",
+    "bbox": [
+      119,
+      429,
+      877,
+      472
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "http://annalsofrscb.ro ",
+    "bbox": [
+      121,
+      946,
+      273,
+      959
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "2317 ",
+    "bbox": [
+      784,
+      947,
+      820,
+      958
+    ],
+    "page_idx": 14
+  }
+]

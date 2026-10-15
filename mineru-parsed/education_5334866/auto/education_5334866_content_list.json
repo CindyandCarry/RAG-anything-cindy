@@ -1,0 +1,1772 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/3ea27c0ab941f3d63f1e85a1c017f2aaefb75a11ad9cb981b560d0ed9f2a5135.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      67,
+      46,
+      934,
+      463
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Arts,   \nculture & creativity: a guide for   \ngoverning boards ",
+    "bbox": [
+      522,
+      479,
+      927,
+      747
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Providing high quality arts, culture and creativity education in schools ",
+    "bbox": [
+      524,
+      760,
+      921,
+      800
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "National n g a Governance Association ",
+    "bbox": [
+      334,
+      906,
+      588,
+      956
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      65,
+      875,
+      174,
+      952
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Foreword 2 ",
+    "bbox": [
+      57,
+      198,
+      937,
+      218
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Introduction 3 ",
+    "bbox": [
+      68,
+      234,
+      932,
+      249
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "How cultural education contributes to a broad and balanced curriculum 4 ",
+    "bbox": [
+      67,
+      263,
+      932,
+      284
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "How governing boards can influence cultural education 6 upporting arts culture and creativity in schools 9 ",
+    "bbox": [
+      75,
+      297,
+      932,
+      317
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      90,
+      329,
+      932,
+      349
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Further reading 10 ",
+    "bbox": [
+      75,
+      361,
+      934,
+      381
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      576,
+      280,
+      593
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This guide has been developed through collaboration between the National Governance Association and Arts Council England with special thanks to Christina Birt from All Ways Making. ",
+    "bbox": [
+      87,
+      596,
+      863,
+      645
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Arts Council England ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      659,
+      290,
+      676
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We are the national development agency for creativity and culture. We have set out our strategic vision in Let’s Create that by 2030 we want England to be a country in which the creativity of each of us is valued and given the chance to flourish and where everyone of us has access to a remarkable range of high quality cultural experiences. We invest public money from Government and The National Lottery to help support the sector and to deliver this vision. ",
+    "bbox": [
+      87,
+      680,
+      892,
+      778
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "National Governance Association ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      793,
+      405,
+      809
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The National Governance Association (NGA) is the membership organisation for governors, trustees and clerks of state schools in England. We are an independent, not-for-profit charity that aims to improve the educational standards and wellbeing of young people by increasing the effectiveness of governing boards and promoting high standards. We are expert leaders in school and trust governance, providing information, advice and guidance, professional development and e-learning. We represent the views of governors, trustees and clerks at a national level and work closely with, and lobby, UK government and educational bodies. ",
+    "bbox": [
+      87,
+      813,
+      897,
+      931
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      66,
+      996,
+      160
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Those of us who govern champion the right of children and young people to a high quality and wide-ranging education, ensuring their spiritual, moral, social and cultural development. ",
+    "bbox": [
+      68,
+      199,
+      484,
+      266
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The value of creative education in the lives of our young people – and the important role that subjects such as art and design, dance, drama and music have to play alongside English, maths and science – has never been more apparent as we begin to recover from the educational, social and health impacts of Covid-19. ",
+    "bbox": [
+      68,
+      277,
+      468,
+      409
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Throughout lockdown, pupils faced huge upheavals in their day to day lives. But we also saw the positive power of creativity in supporting their learning, mental health and resilience. Now, as we begin to consider postpandemic life, we need to ensure that high quality cultural education opportunities are available to every child, no matter what their background. These opportunities should be both formal and informal, in the classroom as part of a broad and balanced curriculum, and outside the classroom too. This is a matter of fairness and opportunity for all children. ",
+    "bbox": [
+      70,
+      420,
+      477,
+      636
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As school governors and trustees, we have the chance to advocate for the right of all young people to benefit from high quality cultural education and to be creative through their study of subjects such as art and design, dance, drama and music. We know that this isn’t always the case and it’s why we encourage governors and trustees to champion cultural education in their schools, so that we can do our best to ensure quality arts education for all. Literacy, numeracy and creativity are the three pillars of a strong educational offer. ",
+    "bbox": [
+      68,
+      646,
+      489,
+      846
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "These cultural education subjects encourage pupils to express themselves, to build confidence and to develop creative thinking skills, unlocking young people’s potential and preparing them to succeed in life. Schools remain the single most important place where children can access great cultural experiences, which is why we’ve worked in collaboration with the NGA and subject specialists to refresh our guides for school governors. We hope these resources will inspire you to develop your understanding of how cultural education subjects can change the lives of children and young people and that they will support you in your role. ",
+    "bbox": [
+      68,
+      857,
+      465,
+      923
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      199,
+      927,
+      382
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Dr Darren Henley OBE Chief Executive, Arts Council England ",
+    "bbox": [
+      510,
+      393,
+      847,
+      428
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/b4b7d2fc1216a5236a49caaaeceab6cf445ebd56ed29ec5e6df38b99f9d7152f.jpg",
+    "image_caption": [
+      "Photo $\\circled{ C}$ I AM MY OWN PRIMAL PARENT / Dom Moore "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      532,
+      464,
+      904,
+      908
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Foreword ",
+    "bbox": [
+      0,
+      66,
+      998,
+      159
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      917,
+      963,
+      931,
+      972
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cultural education can enhance aspiration and ambition, develop communication and team working skills, strengthen creative and critical thinking skills, and build discipline and confidence in young people. It can enrich teaching and learning across the curriculum, encourage parental engagement with pupils’ learning, open up career pathways and has a profound effect on the ethos of a school. ",
+    "bbox": [
+      92,
+      199,
+      904,
+      282
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This guide will help governing boards gain an understanding of cultural education and its benefits. It also explains how boards can work strategically to influence arts, culture and creativity in their school or trust. ",
+    "bbox": [
+      68,
+      324,
+      515,
+      407
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This guide is part of a collection developed to support governing boards. Subject-specific guides covering music, dance, and art, craft and design provide further guidance and are available via the National Governance Association and Arts Council England websites. ",
+    "bbox": [
+      68,
+      417,
+      519,
+      519
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Subscribers to NGA Learning Link can also access an e-learning module which has been designed to help governing boards understand how arts and cultural education can be used for school improvement. ",
+    "bbox": [
+      68,
+      527,
+      534,
+      594
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Definitions ",
+    "text_level": 1,
+    "bbox": [
+      564,
+      331,
+      690,
+      349
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Arts and culture: all areas of activity associated with the artforms including dance, digital media, drama, literature, museums, music, theatre and the visual arts. ",
+    "bbox": [
+      556,
+      366,
+      895,
+      449
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Creativity: the process through which people apply their knowledge, skill and intuition to imagine, conceive, explore or make something that wasn’t there before. ",
+    "bbox": [
+      556,
+      460,
+      899,
+      542
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/1a54dc933b7c34ccd850fb44a397b8db8d8d8daf157da4cc8184ace02740729d.jpg",
+    "image_caption": [
+      "Photo $\\circled{ C}$ Xavier Fiddes / Northway Primary School "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      84,
+      629,
+      912,
+      913
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      917,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "bbox": [
+      0,
+      66,
+      998,
+      159
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Governing boards have an important responsibility to ensure their school offers pupils a broad and rich curriculum, and creative teaching and learning is a core component of this. This includes many diverse and wide-ranging art forms and creative and cultural experiences providing pupils with a variety of ways to develop their cultural capital. Each art form has individual qualities, drawing on unique skills, and different learning opportunities. ",
+    "bbox": [
+      95,
+      199,
+      895,
+      299
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "According to the national curriculum, arts in schools includes art and design, music, dance, drama and media arts. In key stages 1 to 3, arts and design and music are compulsory subjects. There are minimum requirements for drama to be delivered within the English curriculum and dance within physical education. None of the arts subjects are compulsory after the age of 14, but all pupils in maintained schools have a statutory entitlement to be able to study an arts subject. ",
+    "bbox": [
+      70,
+      329,
+      475,
+      508
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Ofsted makes a judgement as to whether a school’s curriculum has suitable depth, breadth and balance and states that the curriculum should remain as broad as possible for as long as possible. It also judges the quality of education and assesses whether a school curriculum is ambitious and designed to give all pupils, particularly disadvantaged pupils and including pupils with SEND, the knowledge and cultural capital they need to succeed in life. ",
+    "bbox": [
+      70,
+      519,
+      484,
+      682
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Cultural education has positive impacts on outcomes for children: ",
+    "bbox": [
+      68,
+      692,
+      442,
+      724
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Participation in structured arts activities can increase cognitive abilities by $17 \\%$ . Learning through arts and culture can improve attainment in Maths and English. Children who take part in arts activities in the home during their early years are ahead in reading and maths at age nine. Learning through arts and culture develops skills and behaviour that lead children to do better in school. ",
+    "bbox": [
+      70,
+      734,
+      482,
+      881
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(ImagineNation: The value of Culture Learning, Cultural Learning Alliance, 2017) ",
+    "bbox": [
+      68,
+      882,
+      478,
+      914
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The benefits of cultural education ",
+    "text_level": 1,
+    "bbox": [
+      519,
+      336,
+      902,
+      355
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1. Supporting health and wellbeing ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      372,
+      855,
+      390
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The mental health and wellbeing of children and young people in the UK was in decline prior to the Covid-19 pandemic and the situation has since worsened. Good health and wellbeing supports learning and pupil progress and many schools now identify mental health as a key priority. ",
+    "bbox": [
+      512,
+      395,
+      905,
+      512
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Cultural education can play an important part in supporting good mental heath and wellbeing and in helping specific challenges such as depression and anxiety. Through arts and creativity, we can build confidence and resilience and enrich our emotional world. ",
+    "bbox": [
+      512,
+      518,
+      919,
+      618
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Arts participation enables self-expression and provides a chance to take stock of life… People who take part in the arts are $38 \\%$ more likely to report good health; and after engaging in participatory arts activities, $82 \\%$ report greater wellbeing. ",
+    "bbox": [
+      512,
+      626,
+      917,
+      725
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(All-Party Parliamentary Group on Arts, Health and Wellbeing Inquiry, 2017) ",
+    "bbox": [
+      512,
+      726,
+      922,
+      759
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Governing boards can champion a whole school approach to wellbeing that recognises the powerful contribution of arts, culture and creativity. ",
+    "bbox": [
+      510,
+      765,
+      910,
+      832
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      919,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "How cultural education contributes to a broad and balanced curriculum ",
+    "bbox": [
+      25,
+      66,
+      1000,
+      158
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2. Building life and employability skills ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      65,
+      442,
+      82
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Creative and cultural activity can enhance pupil’s aspiration, ambition, discipline, confidence and many other important skills for life. As our society responds to the Covid-19 pandemic, developing young people’s skills is more important than ever to ensure they are well equipped for life and for work. Creativity is one of the top skills required by employers across the globe. Employers want to recruit innovative, flexible and resilient people. ",
+    "bbox": [
+      70,
+      89,
+      485,
+      254
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The creative industries are a significant and growing part of the UK economy, offering a variety of career opportunities. ",
+    "bbox": [
+      68,
+      263,
+      458,
+      312
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The creative industries contributed £111.7 billion to the UK economy in 2018, an increase of $4 3 . 2 \\%$ in real terms since 2010. The cultural sector contributed £32.3 billion to the UK economy in 2018, an increase of $2 1 . 9 \\%$ in real terms since 2010. (DCMS, 2018) ",
+    "bbox": [
+      70,
+      322,
+      492,
+      422
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Many of our arts and cultural organisations and creative industries are envied around the world. It’s not just the artists, designers, actors, writers, musicians, choreographers that make our cultural life so vibrant, the supporting roles are also fundamental to ensuring our world-class creative industries continue to grow and innovate. ",
+    "bbox": [
+      68,
+      431,
+      492,
+      563
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3. Improving social mobility ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      580,
+      339,
+      596
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The arts enrich our lives, develop identity, enhance character and broaden horizons. In some cases, schools deliver elements of their creative curriculum as optional extras, meaning that children living in poverty can miss out. Where schools offer an inclusive cultural education, all pupils are given the opportunity to engage in the arts and to embrace their creativity, regardless of geography, family background or special educational need. ",
+    "bbox": [
+      68,
+      604,
+      490,
+      770
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Students from low-income families who take part in arts activities at school are more likely to get employment and stay in employment… three times more likely to get a degree… twice as likely to volunteer.… $20 \\%$ more likely to vote as young adults. Young offenders who take part in arts activities are $18 \\%$ less likely to re-offend. (ImagineNation: the value of cultural learning, Cultural Learning Alliance, 2017) ",
+    "bbox": [
+      70,
+      778,
+      495,
+      928
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Creativity and arts engagement have a positive impact on employability, life skills, and health and wellbeing. Given that these are key factors in addressing issues associated with poverty and social inequality, it is important that cultural education is a prominent and valued part of every schools’ curriculum. ",
+    "bbox": [
+      512,
+      65,
+      934,
+      181
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4. Strengthening community and parental engagement ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      192,
+      835,
+      225
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cultural education can play a key role in bringing communities together and strengthening parental engagement, helping to create a welcoming and inclusive environment that supports pupil learning. ",
+    "bbox": [
+      512,
+      231,
+      914,
+      315
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Parental engagement has a large and positive impact on children’s learning. (DfE, 2010) ",
+    "bbox": [
+      512,
+      324,
+      922,
+      356
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "School performances, exhibitions and creative experiences offer opportunities for engaging parents and families in school life and in children’s learning. ",
+    "bbox": [
+      512,
+      365,
+      927,
+      431
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Governing bodies can champion arts, culture and creativity across the school curriculum as part of parental and community engagement strategies. ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      441,
+      892,
+      507
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5. Contributing to spiritual, moral, social and cultural (SMSC) development ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      524,
+      902,
+      557
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A high quality cultural education can contribute significantly to the spiritual, moral, social and cultural development of pupils. ",
+    "bbox": [
+      510,
+      564,
+      932,
+      613
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Creativity and the arts can help pupils understand and articulate themselves, teach compassion and engage them in a dialogue about values. Artists often address moral issues in their work, giving pupils the chance to consider different perspectives, cultures and points of view. Arts and culture bring people together, celebrates diversity and enables people to express themselves and share with others. Cultural education contributes to providing pupils with the cultural capital they need to succeed in life. ",
+    "bbox": [
+      512,
+      623,
+      910,
+      821
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Ofsted looks for evidence that pupils use their imagination and creativity in their learning and show willingness to participate in and respond positively to artistic, musical and cultural opportunities. ",
+    "bbox": [
+      512,
+      831,
+      931,
+      913
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      967
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      919,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "How governing boards can influence cultural education ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      83,
+      584,
+      151
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "There are many ways that governing boards, working at a strategic level, can achieve their ambition for all pupils to receive a rich and diverse cultural education. ",
+    "bbox": [
+      92,
+      197,
+      907,
+      231
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We encourage governing boards to discuss provision in their school or trust, referring to our subject-specific guides covering music, dance; and art, craft and design and exploring the recommendations below. ",
+    "bbox": [
+      94,
+      243,
+      909,
+      294
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Make cultural education part of your vision for the future ",
+    "text_level": 1,
+    "bbox": [
+      77,
+      322,
+      352,
+      374
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Making quality cultural education for every pupil part of your vision and strategy, makes a powerful statement that the school or trust understands and values the essential role of arts, culture and creativity. This will resonate not only with pupils and staff, but crucially with parents and the wider community. ",
+    "bbox": [
+      68,
+      387,
+      368,
+      554
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Use your vision to develop strategic goals and policy ",
+    "text_level": 1,
+    "bbox": [
+      448,
+      323,
+      752,
+      359
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Formulating a dedicated arts education policy (or a number of policies that span arts, culture and creativity) will bring clarity to the governing board’s vision by explaining: ",
+    "bbox": [
+      440,
+      369,
+      899,
+      437
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• how every pupil can access and experience arts education and make progress   \n• how this will be achieved   \n• how this will be resourced   \n• how this will be monitored by the governing board ",
+    "bbox": [
+      440,
+      444,
+      917,
+      549
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Formulating the policy is a task for the leaders of the school or trust. Adopting the policy and ensuring that it reflects the vision is the role of the governing board. ",
+    "bbox": [
+      438,
+      557,
+      924,
+      608
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/9c23db26fadce70037ffc1a89965dd829f4879b9c9e1b08f2d534696d482949f.jpg",
+    "image_caption": [
+      "Photo $\\circled{ C}$ Orchestras Live & Royal Philharmonic Orchestra Project with SEND Schools / Samantha Gostner "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      84,
+      625,
+      915,
+      914
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      917,
+      963,
+      931,
+      973
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Engage stakeholders in a whole school approach ",
+    "text_level": 1,
+    "bbox": [
+      77,
+      70,
+      440,
+      107
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Embedding creativity into the heart of the school requires the support of the whole school community. Discuss with your leadership teams how the knowledge and enthusiasm of the following stakeholders – pupils, parents, staff, partners and the wider community – will be used to develop a whole school approach. ",
+    "bbox": [
+      68,
+      118,
+      478,
+      252
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "NGA resources ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      285,
+      235,
+      302
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Being Strategic – this guide offers leaders and governing boards in schools and trusts a robust annual cycle for creating, monitoring and reviewing strategy. ",
+    "bbox": [
+      87,
+      312,
+      467,
+      379
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "A guide to Integrated curriculum and financial planning (ICFP) – how to design a curriculum that is affordable and sustainable. ",
+    "bbox": [
+      87,
+      390,
+      453,
+      455
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Invest sufficient resources ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      71,
+      818,
+      89
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The governing board is responsible for ensuring that the school or trust has appropriate resources in place to deliver their ambition for the curriculum. ",
+    "bbox": [
+      510,
+      102,
+      919,
+      168
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Effective governing boards work with their schools and trust leaders to design a curriculum that delivers both the educational vision and long-term financial sustainability. ",
+    "bbox": [
+      510,
+      179,
+      915,
+      246
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Collaboration with partners can help to identify affordable staffing and resource solutions that achieve the best value for money. ",
+    "bbox": [
+      510,
+      255,
+      932,
+      305
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Additional funding to enhance provision is available through a number of routes; we recommend that schools engage with their bridge organisation in the first instance. ",
+    "bbox": [
+      510,
+      316,
+      900,
+      382
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/757b336882b1477196962781a118ec86ba22fd6dd75a25c10555ac9bb178ea4c.jpg",
+    "image_caption": [
+      "Photo $\\circled{ C}$ Xavier Fiddes / Senacre Woods Primary School "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      85,
+      493,
+      910,
+      913
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      70,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      919,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Questions for governing boards to ask ",
+    "text_level": 1,
+    "bbox": [
+      90,
+      72,
+      529,
+      92
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The below are examples of the type of questions governing boards might ask as part of their strategic discussions. Consider how you might use these examples to construct your own questions, specific to your context and the issue you are discussing. ",
+    "bbox": [
+      82,
+      108,
+      917,
+      159
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Is arts, culture and creativity represented within your school vision? ",
+    "bbox": [
+      85,
+      171,
+      715,
+      189
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Is your school meeting its statutory requirements for the arts? ",
+    "bbox": [
+      85,
+      200,
+      670,
+      218
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• How does arts, culture and creativity support your school improvement priorities? ",
+    "bbox": [
+      87,
+      230,
+      843,
+      249
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Are teachers skilled in delivering arts, culture and creativity across the curriculum? Do teachers have access to appropriate CPD? ",
+    "bbox": [
+      87,
+      261,
+      878,
+      296
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Do you regularly receive information about the range and impact of arts, culture and creative activities on pupils’ learning, for example in the headteacher’s report? ",
+    "bbox": [
+      87,
+      307,
+      872,
+      342
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• What data is there in the school about pupil engagement with arts, culture and creativity? What does it indicate, and which pupils are most involved? ",
+    "bbox": [
+      87,
+      355,
+      823,
+      388
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• If certain groups of pupils aren’t engaging with arts, do we know why? What are we doing to improve this? ",
+    "bbox": [
+      85,
+      401,
+      873,
+      435
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Could the board’s monitoring be strengthened by a governor or trustee who works in arts, cultural or creative industries? ",
+    "bbox": [
+      87,
+      449,
+      872,
+      482
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5334866/auto/images/f90f734fb8351016335c4779aba7b435037eda194ce7166fa9f8015248806eb9.jpg",
+    "image_caption": [
+      "Photo $\\circled{ C}$ Hampshire Cultural Trust Young visitors enjoying the exhibits at Winchester City Museum / Dan Wilson "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      85,
+      535,
+      915,
+      914
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      70,
+      958,
+      413,
+      969
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      917,
+      963,
+      931,
+      973
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Supporting arts, culture and creativity in schools ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      82,
+      584,
+      151
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This collection of resources and specialist organisations can support development of cultural education in your school or trust. We hope that the expertise and guidance they offer will provide innovation and broader opportunities that benefit all pupils. ",
+    "bbox": [
+      95,
+      198,
+      897,
+      248
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Bridge organisations ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      284,
+      270,
+      299
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The Arts Council funds a network of 10 bridge organisations to connect the cultural sector and the education sector so that children and young people can have access to great arts and cultural opportunities. They work with local schools, arts organisations, museums, libraries, Music Education Hubs, local authorities, Further Education and Higher Education Institutions and many other partners to develop a network of cultural provision. ",
+    "bbox": [
+      70,
+      299,
+      473,
+      468
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Music Education Hubs ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      476,
+      285,
+      492
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Music Education Hubs are groups of organisations – such as local authorities, schools, arts organisations, community or voluntary organisations – working together to create joined-up music education provision, respond to local need and fulfil the objectives of the Hub as set out in the national plan for music education. ",
+    "bbox": [
+      70,
+      492,
+      477,
+      615
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Local Cultural Education Partnerships ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      624,
+      433,
+      638
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Local Cultural Education Partnerships (LCEP) aim to improve the alignment of cultural education for children and young people. In collaboration with Bridge organisations, LCEPs works with schools, the local authority, voluntary and community organisations, Higher Education, Music Education Hubs, and other funders to drive a joined-up art and cultural offer locally, to share resources and bring about a more coherent and visible delivery of cultural education. ",
+    "bbox": [
+      68,
+      639,
+      482,
+      808
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Model Music Curriculum ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      816,
+      307,
+      831
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The 2021 Model Music Curriculum (MMC), developed by Department for Education (DfE), offers further guidance for supporting curriculum music in schools during key stages 1, 2 and 3. The curriculum development has been teacher led, with input from leading ",
+    "bbox": [
+      70,
+      832,
+      482,
+      925
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "musicians and education sector bodies. It is intended to support teaching and can be used alongside other high-quality plans and resources, including textbooks. ",
+    "bbox": [
+      512,
+      282,
+      926,
+      344
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Artsmark ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      353,
+      605,
+      366
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Awarded by the Arts Council, Artsmark helps schools to develop and celebrate a high quality arts and cultural education. The award supports education settings to bring learning to life through arts, culture and creativity and helps build young people’s confidence, character and resilience. ",
+    "bbox": [
+      512,
+      367,
+      939,
+      474
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Arts Award ",
+    "text_level": 1,
+    "bbox": [
+      512,
+      482,
+      623,
+      497
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Arts Award supports young people, up to aged 25, who want to deepen their engagement with the arts, build creative and leadership skills, and to achieve a national qualification. The award builds confidence, helps young people to enjoy cultural activities, and prepares them for further education or employment. Arts Award is managed by Trinity College London in association with the Arts Council. ",
+    "bbox": [
+      512,
+      498,
+      942,
+      636
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Creativity Exchange ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      644,
+      705,
+      659
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Creativity Exchange is an online community where school leaders, teachers and those working and interacting with schools can embed teaching for creativity and learn from each other. An inspiring range of content can be found in the Ideas Hub to support schools and organisations think about how to develop teaching for creativity across the curriculum – including case studies, interviews, and practical ideas. ",
+    "bbox": [
+      512,
+      659,
+      951,
+      797
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "TES Teaching with creativity hub ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      804,
+      831,
+      820
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "TES and Artsmark have teamed up to produce Teaching with creativity hub, a creative learning hub designed to bring arts and culture to life in every classroom. With inspirational features, films and helpful resources, free for teachers and those that work with children and young people to access. ",
+    "bbox": [
+      512,
+      821,
+      937,
+      928
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      958,
+      413,
+      967
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      919,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Health and Wellbeing ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      205,
+      277,
+      223
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "All-Party Parliamentary Group on Arts, Health and Wellbeing (2017) Creative Health: the arts, health and wellbeing ",
+    "bbox": [
+      68,
+      237,
+      608,
+      266
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "BMJ, England’s Mental Health of Children and Young People Survey (2021) Varkey Foundation, What the World’s Young People Think and Feel (2017) Young Minds, Coronavirus: impact on young people with mental health needs (2021) ",
+    "bbox": [
+      68,
+      274,
+      747,
+      337
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Life and Employability Skills ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      366,
+      342,
+      385
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Creative Industries Federation   \nDCMS Sectors Economic Estimates (2018)   \nWorld Economic Forum, Five things you need to know about Creativity (2019) ",
+    "bbox": [
+      68,
+      399,
+      689,
+      462
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Social Mobility ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      492,
+      215,
+      510
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Centre for Economic Performance, Covid-19 and social mobility (2020)   \nChild Poverty Action Group, Facts and Figures (2021)   \nSutton Trust, Low income students more likely to be missing out on extra-curricular activities (2021) ",
+    "bbox": [
+      68,
+      524,
+      865,
+      587
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Community and parental engagement ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      617,
+      440,
+      634
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Department for Education, Review of Best Practice in Parental Engagement (2010) ",
+    "bbox": [
+      67,
+      649,
+      722,
+      664
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Arts, Culture and Creativity ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      695,
+      334,
+      713
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Cultural Learning Alliance, ImagineNation: the value of cultural learning (2017) Durham Commission on Creativity and Education (2019) OECD, Arts for Art’s Sake? The impact of arts education (2013) ",
+    "bbox": [
+      67,
+      726,
+      695,
+      789
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "ART, CRAFT AND DESIGN: A GUIDE FOR GOVERNING BOARDS ",
+    "bbox": [
+      68,
+      957,
+      413,
+      969
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      912,
+      963,
+      929,
+      972
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Further reading ",
+    "bbox": [
+      0,
+      66,
+      1000,
+      160
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Arts Council England   \nThe Hive   \n49 Lever Street   \nManchester   \nM1 1FN   \nWebsite www.artscouncil.org.uk   \nEmail enquiries@artscouncil.org.uk   \nTextphone 020 7973 6564 Arts Council England is the trading name of The Arts Council of England.   \nCharity registration number 1036733. ",
+    "bbox": [
+      67,
+      601,
+      386,
+      746
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      764,
+      712,
+      800
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "You can get this document in Braille, in large print, on audio CD, and in various electronic formats. Please contact us if you need any of these. ",
+    "bbox": [
+      67,
+      814,
+      855,
+      851
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "We are committed to being open and accessible. We welcome all comments on our work. ",
+    "bbox": [
+      68,
+      864,
+      872,
+      884
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Cover image: Fluid Motion Theatre Company at Cranbourne School © Grace Jeffreys ",
+    "bbox": [
+      67,
+      953,
+      502,
+      967
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ Arts Council England, 2021 ",
+    "bbox": [
+      68,
+      898,
+      336,
+      916
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      65,
+      500,
+      176,
+      579
+    ],
+    "page_idx": 11
+  }
+]

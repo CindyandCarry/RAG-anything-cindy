@@ -1,0 +1,2623 @@
+[
+  {
+    "type": "text",
+    "text": "Risk-Taking Behaviour of young people in Cumbria ",
+    "text_level": 1,
+    "bbox": [
+      191,
+      46,
+      811,
+      129
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A report from the Health-Related Behaviour Survey 2012 ",
+    "bbox": [
+      131,
+      141,
+      868,
+      167
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "These results are from a compilation of data collected from a sample of primary pupils in Year 6 and secondary pupils in Years 8 and 10 in Cumbria during Summer 2012. This work was commissioned by Cumbria Children's Services and Public Health, NHS Cumbria as a way of collecting information about young people's knowledge, attitudes and behaviours as well as sources of information and support. ",
+    "bbox": [
+      57,
+      190,
+      477,
+      331
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Teachers were briefed on how to collect the most reliable data and then pupils in Years 6 in the primary schools and Years 8 and 10 in the secondary schools anonymously completed the questionnaire. A total of 3845 pupils took part in 18 secondary schools and 28 primary schools. ",
+    "bbox": [
+      515,
+      190,
+      939,
+      285
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Completed questionnaires were then returned to SHEU in Exeter for processing. ",
+    "bbox": [
+      515,
+      291,
+      904,
+      323
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Bold type in the main body of the report indicates a result has an accompanying chart. ",
+    "bbox": [
+      515,
+      330,
+      932,
+      362
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "3845 young people were involved in the survey: ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      387,
+      564,
+      409
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Trends ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      524,
+      131,
+      538
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The HRBQ survey has been undertaken in secondary schools in Cumbria on 10 occasions, 1988, 1990, 1992, 1995, 2000, $2 0 0 3 ^ { * }$ , $2 0 0 6 ^ { * }$ , $2 0 0 8 ^ { * }$ , $2 0 1 0 ^ { * }$ and $2 0 1 2 ^ { * }$ . (Asterisks indicate a combined primary/secondary survey.) It has been possible to look at certain questions and analyse the data over the whole period to see if any trends are discernible. Different schools took part in different years so this needs to be taken into consideration when studying the data. ",
+    "bbox": [
+      68,
+      541,
+      648,
+      645
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Reference sample ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      657,
+      226,
+      674
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5466518/auto/images/d2a162bacd3c9460e7228398337665bb9a2c17932870382407e5f0f5820049ba.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>School Year Age</td><td>Year 6 10-11</td><td>Year 8 Year 10 12-13</td><td>Total</td></tr><tr><td>Males</td><td>6470</td><td>14-15 4662 4487</td><td>15619</td></tr><tr><td>Females</td><td>6321</td><td>4750 4664</td><td>15735</td></tr><tr><td>Total</td><td>12791</td><td>9412 9151</td><td>31354</td></tr></table>",
+    "bbox": [
+      62,
+      678,
+      665,
+      768
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cumbria data have been compared with a compilation of data from other areas in the UK that have completed similar versions of the questionnaire. This is the sample that will be used throughout the report under 'Comparisons'. ",
+    "bbox": [
+      68,
+      778,
+      626,
+      839
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Topics Include: ",
+    "text_level": 1,
+    "bbox": [
+      695,
+      404,
+      855,
+      423
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Alcohol ",
+    "bbox": [
+      695,
+      454,
+      778,
+      473
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Tobacco ",
+    "bbox": [
+      697,
+      504,
+      784,
+      523
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Drugs ",
+    "bbox": [
+      697,
+      554,
+      759,
+      573
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Relationships and Sexual Health ",
+    "bbox": [
+      695,
+      589,
+      878,
+      629
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This is report 2 of 3 ",
+    "text_level": 1,
+    "bbox": [
+      697,
+      684,
+      899,
+      705
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Emotional Health and Wellbeing ",
+    "bbox": [
+      695,
+      722,
+      910,
+      762
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Risk-Taking Behaviour ",
+    "bbox": [
+      697,
+      780,
+      917,
+      799
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Healthy Lifestyles ",
+    "bbox": [
+      697,
+      827,
+      870,
+      846
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cumbria cnwpLis County Council ",
+    "bbox": [
+      77,
+      879,
+      245,
+      941
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      401,
+      876,
+      615,
+      975
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      702,
+      938,
+      907,
+      950
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "NHS Cumbria ",
+    "bbox": [
+      801,
+      878,
+      909,
+      923
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ALCOHOL ",
+    "text_level": 1,
+    "bbox": [
+      428,
+      45,
+      571,
+      66
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Primary/Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      72,
+      294,
+      87
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$6 \\%$ of primary pupils had an alcoholic drink in the last week, this rose to $2 7 \\%$ for secondary pupils. ",
+    "bbox": [
+      319,
+      109,
+      489,
+      174
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/884085d34964f2dfcd1afe591d68b4d9ae6c935183c51e1e41bcb669289145e9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      101,
+      304,
+      224
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The breakdown by age and sex was: Y6M: $7 \\%$ Y6F: $5 \\%$ Y8M: $2 0 \\%$ Y8F: $1 7 \\%$ $\\Upsilon 1 0 M$ : $3 7 \\%$ Y10F: $3 7 \\%$ ",
+    "bbox": [
+      319,
+      181,
+      487,
+      246
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$3 \\%$ of primary pupils and $8 \\%$ of secondary pupils had drunk beer in the last seven days. The proportions drinking premixed spirits and ‘alcopops’ were $1 \\%$ of primary pupils and $8 \\%$ of secondary pupils. ",
+    "bbox": [
+      62,
+      273,
+      484,
+      324
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q $2 \\%$ of primary pupils and $7 \\%$ of secondary pupils reported that they did sometimes drink alcohol without their parents knowing. ",
+    "bbox": [
+      60,
+      331,
+      475,
+      370
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Primary results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      382,
+      194,
+      399
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Greater proportions of the drinkers in Year 6 were boys (Boys $7 \\%$ ; Girls $5 \\%$ ).   \nThe most popular drinks were beer, wine and pre-mixed spirits/alcopops. ",
+    "bbox": [
+      62,
+      406,
+      457,
+      466
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      478,
+      216,
+      493
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q $3 \\%$ of Year 10 boys and $3 \\%$ of Year 10 girls said they drank more than 14 units (recommended weekly limits for a female); when we set the bar at 21 units (weekly recommended limits for a male), the figures were $1 \\%$ and $2 \\%$ . ",
+    "bbox": [
+      63,
+      501,
+      478,
+      564
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q $2 7 \\%$ of secondary pupils say there were drunk on at least one day last week. ",
+    "bbox": [
+      62,
+      571,
+      463,
+      599
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$3 1 \\%$ have experienced negative consequences from the use of alcohol; $2 5 \\%$ report sickness/hangover, $6 \\%$ absence from school, $8 \\%$ injury, $7 \\%$ violence, and $9 \\%$ damaged relationships. $3 \\%$ of boys and $3 \\%$ of girls had to go to hospital. ",
+    "bbox": [
+      62,
+      605,
+      482,
+      670
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$1 7 \\%$ drank alcohol at their own home last week and $1 1 \\%$ at a friends or relations. $3 1 \\%$ said their parents gave them alcohol or bought it for them last week; by the time they are in Year 10, the figure is $4 3 \\%$ . ",
+    "bbox": [
+      62,
+      676,
+      480,
+      728
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q $8 \\%$ of Year 10 pupils were able to buy alcohol from an offlicence that should sell only to over-eighteens; the figure for shops or supermarkets was $1 1 \\%$ . ",
+    "bbox": [
+      60,
+      736,
+      480,
+      774
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Comparisons ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      791,
+      189,
+      808
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "□ Secondary school pupils in Cumbria are more likely to report that they were drunk on at least one day last week $( 2 6 \\% )$ than those in the reference sample $( 1 9 \\% )$ . ",
+    "bbox": [
+      65,
+      824,
+      252,
+      927
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/273fc16dec5507c3841b605c9c3060aba5b9653b78746cb8d576077ee6866395.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      815,
+      482,
+      938
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Links ",
+    "text_level": 1,
+    "bbox": [
+      519,
+      72,
+      566,
+      87
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "DRINKING in Year 10 pupils was linked with: ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      99,
+      857,
+      115
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q Eating chips and sweets/chocolate more often q Having an accident in the last year q Carrying weapons for protection q Higher weekly income q More likely to have experience of sex ",
+    "bbox": [
+      517,
+      121,
+      847,
+      216
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Trends ",
+    "text_level": 1,
+    "bbox": [
+      519,
+      244,
+      579,
+      259
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Percentage of secondary pupils drinking alcohol in the last week, 1988-2012 ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      272,
+      921,
+      300
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/b44bad90836d16431ea8d83f7866dc4b8316811654b5b3d7c22af0c86faa9f25.jpg",
+    "image_caption": [
+      "Year 8 Male Year 8 Female Year 10 Male Year 10 Female "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      310,
+      926,
+      456
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q Recent figures are some of the lowest ever seen in this survey for Year 10 males. The amount drunk by drinkers has not increased over the period of the survey. ",
+    "bbox": [
+      519,
+      482,
+      941,
+      521
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "q In 1988-1990 there was a clear difference between the numbers of males and females reporting drinking, with more boys reporting than girls. Over time, this pattern has changed, with relatively similar proportions of boys and girls reporting drinking. ",
+    "bbox": [
+      519,
+      529,
+      927,
+      594
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/a85ceecdb7e41d783bf300cc7754d873241a9fecf3d6de861506eebcd1af1721.jpg",
+    "image_caption": [
+      "I don't drink alcohol among primary pupils 2003-2012. ",
+      ""
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      639,
+      936,
+      814
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "An increasing proportion of young people in primary schools say that they don’t drink alcohol. ",
+    "bbox": [
+      519,
+      828,
+      894,
+      856
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      492,
+      971,
+      504,
+      982
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "TOBACCO ",
+    "text_level": 1,
+    "bbox": [
+      425,
+      45,
+      574,
+      66
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Primary/Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      70,
+      290,
+      86
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$3 \\%$ of primary pupils said they had tried smoking once or twice. This rose to $1 2 \\%$ for secondary pupils. ",
+    "bbox": [
+      78,
+      93,
+      463,
+      121
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/1d1787118633e3dcef6e9215ad2cc659e72eb0ef397f57bc87be766c7d434417.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      134,
+      462,
+      278
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$0 \\%$ of primary pupils and $7 \\%$ of secondary pupils said they smoked at least one cigarette last week ( $1 1 \\%$ in Year 10). ",
+    "bbox": [
+      80,
+      293,
+      472,
+      319
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Smoking last week: ",
+    "bbox": [
+      80,
+      326,
+      215,
+      338
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5466518/auto/images/1f917921442cfc45d4d2e960ee4a15c3d323261a00787db0824d9c1fb4affa66.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Y6M</td><td>0%</td><td>Y8M</td><td>4%</td><td>Y10M</td><td>9%</td></tr><tr><td>Y6F</td><td>0%</td><td>Y8F</td><td>3%</td><td>Y10F</td><td>12%</td></tr></table>",
+    "bbox": [
+      87,
+      340,
+      378,
+      366
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$3 8 \\%$ of primary pupils say their parents/carers smoke; $3 2 \\%$   \nof secondary pupils have people who smoke at home. ",
+    "bbox": [
+      72,
+      372,
+      470,
+      398
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Primary results ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      428,
+      191,
+      443
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$8 9 \\%$ said they wouldn't smoke when older, $1 1 \\%$ said maybe and $1 \\%$ think they will smoke when they are older. ",
+    "bbox": [
+      72,
+      450,
+      468,
+      478
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Thinking about second-hand smoke: ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      488,
+      322,
+      502
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$2 8 \\%$ say smokers at home smoke only outside, $1 1 \\%$ only in certain rooms, $4 \\%$ anywhere. ",
+    "bbox": [
+      70,
+      510,
+      262,
+      562
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "□ $1 4 \\%$ say someone smokes indoors at home in rooms that they use. ",
+    "bbox": [
+      63,
+      569,
+      260,
+      607
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/4d47f6245b428dd2ff7c192bb8cc902e7bf56aac104ee759a6eb9a9bce53173b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      520,
+      484,
+      627
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$1 6 \\%$ say someone smokes in a car when they are in it too. ",
+    "bbox": [
+      75,
+      614,
+      277,
+      640
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      682,
+      215,
+      697
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$2 4 \\%$ have ever smoked and $8 \\%$ are regular or occasional smokers. ",
+    "bbox": [
+      80,
+      705,
+      460,
+      730
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Current smokers: ",
+    "bbox": [
+      84,
+      738,
+      200,
+      750
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/dc9ab42d674944f859fb1c78ab0385a90cd9110cf08d0f3d59173ad244ede997.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      174,
+      750,
+      352,
+      777
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$5 \\%$ of pupils obtained cigarettes from friends and $2 \\%$ from a shop. ",
+    "bbox": [
+      62,
+      783,
+      480,
+      809
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$4 \\%$ of secondary pupils have ever bought packets of cigarettes which have foreign writing on them. ",
+    "bbox": [
+      80,
+      815,
+      430,
+      843
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Thinking about second-hand smoke: ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      848,
+      247,
+      873
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$3 2 \\%$ of pupils reported that there is someone who smokes indoors in their home most days. ",
+    "bbox": [
+      62,
+      882,
+      268,
+      934
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/8c73fc21ddad26345f96c8666155338f7346dae10a2b087a39039e2942900044.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      275,
+      852,
+      473,
+      961
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Comparisons ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      71,
+      633,
+      86
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Secondary school pupils in Cumbria are more likely to say they have no smokers at home $( 6 8 \\% )$ than are pupils in the reference sample $( 6 4 \\% )$ . ",
+    "bbox": [
+      769,
+      98,
+      936,
+      189
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/3b942bd23246714977f9a0f1af05f74ef996741587e9bedf5392688e39621a20.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      99,
+      736,
+      223
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Secondary school pupils in Cumbria are more likely to say they have never smoked Year 10 $( \\mathbf { 6 8 \\% } )$ than are pupils in the reference sample $( 6 4 \\% )$ . ",
+    "bbox": [
+      524,
+      246,
+      702,
+      336
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/3c329886bbc08a5ea28ff4ea217c6afd788924754e663be874455bfb09f3604a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      721,
+      248,
+      934,
+      370
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Links ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      391,
+      564,
+      406
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As part of the study, an analysis was made of smoking, drinking alcohol and experience of illegal drugs. The purpose was to find other aspects of young people's lifestyles that were linked with the target behaviours. There are some very obvious links with age and gender, particularly in smoking last week: ",
+    "bbox": [
+      515,
+      414,
+      939,
+      480
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/21e7cb6c22ada2d01fa56b344c8008ed406414649348e61335c895dd336cdb1d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      502,
+      502,
+      937,
+      646
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q Year 10 females are normally the group most likely to have smoked last week. q Other aspects of lifestyle can be linked (correlated) with using tobacco, alcohol or other drugs. ",
+    "bbox": [
+      526,
+      663,
+      932,
+      724
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SMOKING among Year 10 pupils was linked with: ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      734,
+      887,
+      750
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q Eating chips and sweets/chocolate more often   \nq Poor sleep patterns   \nq Playing rugby and going swimming Greater awareness of sexually transmitted infections (STIs), contraception, drugs   \nq Poorer engagement with school   \nq Greater use of the Internet for chatting   \nq Caring for family members ",
+    "bbox": [
+      517,
+      756,
+      929,
+      903
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      494,
+      971,
+      505,
+      982
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      247,
+      531,
+      256
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      326,
+      72,
+      337
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      883,
+      72,
+      892
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      294,
+      72,
+      304
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      614,
+      72,
+      625
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      738,
+      72,
+      749
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SMOKING TOBACCO ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      45,
+      650,
+      67
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Trends ",
+    "text_level": 1,
+    "bbox": [
+      67,
+      85,
+      127,
+      99
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/fb8e6d7224579861fc1632ab4209418851d44f556e563abefd72b966e10a7066.jpg",
+    "image_caption": [
+      "Percentage of secondary pupils smoking in the last week, 1988-2012 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      68,
+      155,
+      480,
+      316
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q The proportion of pupils who smoke in these Cumbria schools seems to show a peak in 1995. The peak in 1995-96 seems also to be present in the databanks of SHEU. ",
+    "bbox": [
+      65,
+      330,
+      489,
+      369
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q The percentage of young people smoking in Cumbria has steadily and dramatically decreased since 2003, which is a trend that we are delighted about. ",
+    "bbox": [
+      67,
+      376,
+      478,
+      416
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Might smoke when older among primary pupils, 2003-2012 ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      109,
+      877,
+      137
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/e7cef113c9447203e80f92e3df54cb76d3427ba25153ddd32db8cc0f400a24cc.jpg",
+    "image_caption": [
+      "Year 6 Male Year 6 Female "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      531,
+      149,
+      934,
+      321
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q Smoking expectations have been on a gentle decline among Y6 females, but in the last two years the responses for male pupils have been climbing. ",
+    "bbox": [
+      526,
+      334,
+      946,
+      373
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "DRUGS ",
+    "text_level": 1,
+    "bbox": [
+      447,
+      423,
+      552,
+      444
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Primary/Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      451,
+      290,
+      467
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$1 3 \\%$ of primary pupils and $3 7 \\%$ of secondary pupils are ‘fairly sure’ or ‘certain’ that they know someone who uses drugs that are not medicines. ",
+    "bbox": [
+      60,
+      474,
+      465,
+      513
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$1 \\%$ of primary pupils and $1 8 \\%$ of secondary pupils have been offered cannabis. ",
+    "bbox": [
+      305,
+      535,
+      460,
+      586
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/5a4ce7adacf80bed357a280542740a4af59ef0fbb14659171b6f00805b25aefc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      58,
+      525,
+      272,
+      646
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The figures for other drug offers are $< 1 \\%$ for primary pupils and $9 \\%$ for secondary pupils. ",
+    "bbox": [
+      302,
+      592,
+      468,
+      645
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Primary results ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      663,
+      193,
+      678
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$4 9 \\%$ of pupils reported that their parents had talked to them about drugs, while $6 4 \\%$ said their teachers had. ",
+    "bbox": [
+      58,
+      686,
+      275,
+      738
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/a84ed7e0a934b5463d162cac557c29ade04c924ee31054b6756324caebf2b0ad.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      667,
+      484,
+      772
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      780,
+      215,
+      795
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "${ \\bf 1 0 \\% }$ of all secondary pupils have taken at least one of the 16 drugs listed in the questionnaire at some point. ",
+    "bbox": [
+      275,
+      822,
+      473,
+      888
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/aad1e8abb67f195b47ff50c7fc342b0d0d742489da72e0b91333242ef1dc0d82.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      62,
+      802,
+      258,
+      907
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$3 1 \\%$ of Year 10 boys and $2 8 \\%$ of Year 10 girls have been offered cannabis. ",
+    "bbox": [
+      532,
+      450,
+      926,
+      476
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/a52977bb7f41e78967213d682951c02e79fa1182343e40fc481fa497f3e66f7b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      569,
+      492,
+      884,
+      615
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The figure for other drugs for all Year 10 pupils was $1 4 \\%$ . ",
+    "bbox": [
+      542,
+      625,
+      921,
+      639
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "When asked if they had ever taken an illegal drug, $1 6 \\%$ of Year 10 pupils reported that they had. $8 \\%$ had taken one in the last month. ",
+    "bbox": [
+      542,
+      645,
+      932,
+      684
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$1 0 \\%$ of Year 10 pupils have taken an illegal drug and alcohol on the same occasion. ",
+    "bbox": [
+      541,
+      692,
+      894,
+      718
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$3 \\%$ of Year 10 pupils said they had taken more than one type of drug on the same occasion. ",
+    "bbox": [
+      544,
+      724,
+      914,
+      751
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q The most common site for taking or obtaining drugs was their home or someone else's home. $1 \\%$ said they had taken drugs at school during school hours. ",
+    "bbox": [
+      521,
+      757,
+      939,
+      796
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q When asked whom or where they would turn to for help or advice about drugs, most pupils would turn to their parents in the first instance. $1 4 \\%$ say that they would keep it themselves. ",
+    "bbox": [
+      521,
+      803,
+      934,
+      854
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$4 4 \\%$ said they were concerned about other people's use of drugs and $1 \\%$ about their own use. ",
+    "bbox": [
+      541,
+      862,
+      932,
+      888
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$6 0 \\%$ of Year 10 pupils had ever heard of the Connexions/INSPIRA service, and $1 1 \\%$ of Year 10 students had used it. The equivalent figures for the FRANK drug information service were $6 8 \\%$ and $5 \\%$ . ",
+    "bbox": [
+      522,
+      894,
+      934,
+      946
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      494,
+      971,
+      504,
+      980
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      895,
+      532,
+      906
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      280,
+      594,
+      294,
+      602
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      280,
+      536,
+      294,
+      544
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      863,
+      532,
+      872
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      270,
+      824,
+      284,
+      834
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      517,
+      451,
+      531,
+      462
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      648,
+      531,
+      656
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "DRUGS ",
+    "text_level": 1,
+    "bbox": [
+      447,
+      45,
+      552,
+      67
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A summary for the four most common illegal drugs. ",
+    "text_level": 1,
+    "bbox": [
+      268,
+      89,
+      726,
+      104
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "These drugs have been chosen because they are the four most common in the majority of surveys. The numbers in the following table(s) are percentages. ",
+    "bbox": [
+      63,
+      107,
+      939,
+      133
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Figures for illegal drugs were very similar to those seen elsewhere. No information was available from a wider sample about mephedrone, a recent drug of concern which for a while was available legally. ",
+    "bbox": [
+      62,
+      143,
+      873,
+      171
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(Year 10 only). ",
+    "text_level": 1,
+    "bbox": [
+      443,
+      181,
+      552,
+      196
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5466518/auto/images/70b2e7c78eca722d5fc30ba2e7178548c1b636b1186f42144416e78451c51302.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Know nothing about it</td><td rowspan=1 colspan=1>Believe safe if usedproperly</td><td rowspan=1 colspan=1>Have used in lastmonth</td><td rowspan=1 colspan=1>Have used ever</td></tr><tr><td rowspan=1 colspan=1>Cannabis resin/leaf</td><td rowspan=1 colspan=1>20%</td><td rowspan=1 colspan=1>33%</td><td rowspan=1 colspan=1>7%</td><td rowspan=1 colspan=1>13%</td></tr><tr><td rowspan=1 colspan=1> Amphetamines</td><td rowspan=1 colspan=1>49%</td><td rowspan=1 colspan=1>6%</td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>Ecstasy</td><td rowspan=1 colspan=1>28%</td><td rowspan=1 colspan=1>11%</td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>2%</td></tr><tr><td rowspan=1 colspan=1>Mephedrone</td><td rowspan=1 colspan=1>33%</td><td rowspan=1 colspan=1>9%</td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>2%</td></tr></table>",
+    "bbox": [
+      87,
+      203,
+      909,
+      299
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Comparisons ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      376,
+      174,
+      392
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Secondary school pupils in Cumbria are a more likely to know a drug user $( 3 7 \\% )$ than are pupils in the reference sample $( 3 0 \\% )$ . ",
+    "bbox": [
+      60,
+      423,
+      245,
+      514
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/e2eee1335a9635b38c0823cf82cd2867d77ad04ee0d32bdc5111c7a2887e1f9d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      260,
+      406,
+      473,
+      530
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Links between substance use behaviours ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      375,
+      873,
+      392
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There were 1501 Year 10 pupils in the survey: ",
+    "bbox": [
+      517,
+      404,
+      823,
+      418
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$1 1 \\%$ of Year 10 pupils smoked last week $3 3 \\%$ of Year 10 pupils drank last week, and $1 4 \\%$ of Year 10 pupils have ever tried illegal drugs. ",
+    "bbox": [
+      542,
+      424,
+      880,
+      479
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "However, these proportions change depending on whether the pupils take part in other substance use behaviours. The figures in the following table are percentages: ",
+    "bbox": [
+      515,
+      489,
+      932,
+      529
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "q The percentages of pupils who had ever tried drugs was similar in Cumbria and the reference sample. ",
+    "bbox": [
+      67,
+      569,
+      465,
+      596
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/a3a7c4a457759ea8649e0c6299bc5491681fa9339939b742a65c59831c18a2f3.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      70,
+      602,
+      485,
+      770
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5466518/auto/images/c903545e525c46f297b69f528e0f5ebc06ec9901679bceff760361be0a4ae757.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">If non-smoker</td><td>Ifsmokedlastweek</td></tr><tr><td>% Drank last week</td><td>30</td><td>60</td></tr><tr><td rowspan=\"2\">% Ever used drugs</td><td>9</td><td>64</td></tr><tr><td>If non- drinker</td><td>If drank last week</td></tr><tr><td>% Smoked last week</td><td>6</td><td>18</td></tr><tr><td rowspan=\"2\">% Ever used drugs</td><td>7</td><td>28</td></tr><tr><td>If never used drugsIf ever used drugs</td><td></td></tr><tr><td>% Smoked last week</td><td>4</td><td>47</td></tr><tr><td>% Drank last week</td><td>27</td><td>66</td></tr></table>",
+    "bbox": [
+      515,
+      535,
+      932,
+      677
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "For example, we see a much higher proportion of drinkers if they smoked last week as well ( $6 0 \\%$ of the smokers drank last week, compared with $3 0 \\%$ of the non-smokers). ",
+    "bbox": [
+      529,
+      689,
+      939,
+      728
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      494,
+      971,
+      504,
+      982
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      466,
+      531,
+      475
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      690,
+      532,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      58,
+      424,
+      72,
+      435
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "DRUGS ",
+    "text_level": 1,
+    "bbox": [
+      447,
+      45,
+      552,
+      66
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Links between drug use behaviours and attitudes ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      74,
+      405,
+      107
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Attitudes and behaviours are linked. We ask young people their beliefs about drugs and can show that these are clearly related to their own drug use. ",
+    "bbox": [
+      57,
+      108,
+      478,
+      147
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cannabis use among young people in Year 10 with different beliefs about the drug ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      158,
+      431,
+      187
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/d0566666d69c7a2117f0ddbbb5c71a5eaa83fff1ddccac97b5386ef2519383eb.jpg",
+    "image_caption": [
+      "$\\%$ Cannabis ever used "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      173,
+      199,
+      473,
+      369
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Beliefs about cannabis among young people in Year 10 with different use of the drug ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      384,
+      462,
+      413
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "$\\%$ who believe cannabis is safe if used properly ",
+    "bbox": [
+      58,
+      425,
+      373,
+      439
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Links between drug use behaviours and other lifestyle factors ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      613,
+      458,
+      648
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "EXPERIENCE OF ILLEGAL DRUGS in Year 10 males was linked with: ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      659,
+      470,
+      688
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "q Playing rugby   \nq Greater anxiety about money (and other worries)   \nq Use of Internet for e.g. chatting Higher weekly income   \nq Caring for family members ",
+    "bbox": [
+      57,
+      694,
+      408,
+      789
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A picture emerges of drug use being found most commonly among young people who have active social lives and who are not fully engaged with school. ",
+    "bbox": [
+      57,
+      800,
+      468,
+      840
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "When we say 'linked', what does that look like? Let's take that statement that smoking in Year 10 females is linked with poorer engagement with school. Overall, $9 \\%$ of year 10 pupils smoked last week. But this figure is different, depending on how they answer other questions about school: ",
+    "bbox": [
+      57,
+      851,
+      473,
+      916
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "$\\%$ smokers by responses to 'My work is marked so that I can see how to improve it' ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      73,
+      931,
+      102
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/fa13f831c8168e262752c5cee81a1ab16873679fb88ae0cb899126ba809a3683.jpg",
+    "image_caption": [
+      "\\* in 1990 there were different answers in the survey, percentage equals those responding 'Yes' "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      444,
+      489,
+      605
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/536b01d1aec8ea20e0a8a1fa5a875f787ea8620e73284a610ea87edd5b141cbb.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      112,
+      937,
+      261
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "What we can see from this chart is that if you are disagree that your school work is constructively marked, you are more than twice as likely to have smoked last week than are classmates who agree with the statement. ",
+    "bbox": [
+      519,
+      274,
+      939,
+      328
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Trends ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      340,
+      578,
+      355
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/f77b68a5c3d75440cb53661f9ee5a0ff2e92f4bef9fe392d59116682eb327783.jpg",
+    "image_caption": [
+      "Percentage of secondary pupils who know a drug user ('fairly sure' or 'certain'\\*), 1990- 2012 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      524,
+      399,
+      909,
+      532
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "q The proportion reporting knowing a drug user peaked in 1995, a pattern that can be seen both in the Cumbria data and in the reference samples. This pattern with a peak in 1995 is also seen for experimentation with illicit drugs. ",
+    "bbox": [
+      517,
+      569,
+      924,
+      643
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/7101ce9312921cdf91e735ddc08a0f96a2e1bbd7484851ca7c48ae5939ce5b18.jpg",
+    "image_caption": [
+      "Ever offered cannabis among primary pupils 2006-2012 ",
+      "Year 6 Male Year 6 Female "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      521,
+      689,
+      927,
+      844
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "q The proportion of primary school pupils who have ever been offered cannabis is small, and shows no clear trend over the years we have been asking the question. ",
+    "bbox": [
+      519,
+      872,
+      917,
+      912
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      492,
+      971,
+      504,
+      982
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      517,
+      275,
+      532,
+      286
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "RELATIONSHIPS AND SEXUAL HEALTH ",
+    "text_level": 1,
+    "bbox": [
+      226,
+      43,
+      768,
+      67
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Primary results ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      72,
+      193,
+      87
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$7 3 \\%$ of pupils said their parents had talked to them about how their body changes as they grow up. ",
+    "bbox": [
+      60,
+      96,
+      268,
+      148
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/32a4bacace0fe1c928d3c199dbafd59655c3adc19ef7fb7d7e09488ec6ded865.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      95,
+      484,
+      211
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$5 6 \\%$ of pupils said their teachers had talked to them about how body changes as they grow up, and $3 7 \\%$ said the same about the School Nurse. ",
+    "bbox": [
+      60,
+      154,
+      273,
+      231
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "q $6 9 \\%$ of primary pupils think they know enough about growing up and body changes. ",
+    "bbox": [
+      63,
+      239,
+      440,
+      265
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$2 0 \\%$ reported that they worried about the way they looked and $1 1 \\%$ said they worried about body changes as they grew up. ",
+    "bbox": [
+      70,
+      271,
+      472,
+      311
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Secondary results ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      340,
+      215,
+      355
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "When asked where they would go for help or information about sex and relationships we found that the majority would contact friends and family: ",
+    "bbox": [
+      60,
+      363,
+      465,
+      403
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5466518/auto/images/2ca0395a2b237495803da2b269d88a2bfbd99e97236567bf7bf83955147acc61.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Family</td><td>Friends</td></tr><tr><td>Year 8 boys 45%</td><td>20%</td></tr><tr><td>Year 8 girls 42%</td><td>29%</td></tr><tr><td>Year 10 boys 26%</td><td>31%</td></tr><tr><td>Year 10 girls</td><td>20% 46%</td></tr></table>",
+    "bbox": [
+      58,
+      424,
+      480,
+      505
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "q The proportions of pupils who said they would just 'keep it to myself' for different issues were: sex and relationships $2 1 \\% ,$ , puberty and growing up $3 1 \\%$ , thinking you are gay lesbian or bisexual $3 7 \\%$ . ",
+    "bbox": [
+      62,
+      516,
+      473,
+      567
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "q When asked how useful they found school lessons about sex and relationships $4 0 \\%$ of Year 8 pupils and $4 5 \\%$ of Year 10 pupils reported that they found them to be either ‘quite useful’ or ‘very useful’. ",
+    "bbox": [
+      60,
+      574,
+      480,
+      626
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$5 9 \\%$ of Year 10 boys and $6 5 \\%$ of Year 10 girls said they believed there was a special contraception and advice service for young people available locally. ",
+    "bbox": [
+      60,
+      632,
+      455,
+      673
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$6 9 \\%$ of Year 10 boys and $7 4 \\%$ of Year 10 girls said they know where to get free condoms.. ",
+    "bbox": [
+      73,
+      696,
+      235,
+      762
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/da08d9f6ec52a7d381419223b0c65b99bc0f3011a1ee31def5439e5d6d79f5d8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      687,
+      482,
+      814
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "There are some questions about sexual experience for Year 10 pupils only. $7 2 \\%$ of Year 10 pupils have never had sex (just as in the 2010 study), $8 \\%$ are in a relationship and thinking about having sex, $1 2 \\%$ have had sex and $8 \\%$ are currently in a sexual relationship. ",
+    "bbox": [
+      60,
+      832,
+      472,
+      897
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$7 \\%$ of all Year 10 pupils have had unprotected sex. More females than males have had sex and, perhaps as a consequence, more have had unprotected sex. ",
+    "bbox": [
+      60,
+      903,
+      465,
+      944
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Links ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      72,
+      564,
+      87
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "There are some questions for Year 10 pupils exploring links between risky sexual activity and substance use: ",
+    "bbox": [
+      517,
+      96,
+      905,
+      122
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "一 $5 \\%$ of all Year 10 pupils said they had unprotected sex after using alcohol.   \nq $2 \\%$ of all Year 10 pupils said they had unprotected sex after using drugs (a similar result to 2010).   \nq $5 \\%$ of all Year 10 pupils said they had sex and regretted it after using alcohol and $1 \\%$ after using drugs. ",
+    "bbox": [
+      517,
+      128,
+      937,
+      222
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Comparisons ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      247,
+      633,
+      262
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/377bc27e38c225b80a94d987ec4855928ae3293ea17a5df8ed2c34c5e32d8d36.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      526,
+      273,
+      742,
+      398
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Year 10 school pupils in Cumbria are more likely to know of a local source of sexual health information $( \\mathbf { 6 2 \\% } )$ than are pupils in the reference sample $( 3 6 \\% )$ . ",
+    "bbox": [
+      774,
+      272,
+      927,
+      375
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Trends ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      442,
+      579,
+      456
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5466518/auto/images/dd0083c56281cdcd8ac3bec1f59c83c9c97b823d1e673588bc46d1318b441236.jpg",
+    "image_caption": [
+      "Know where to obtain condoms, 1995-2012 ",
+      "Year 8 Male Year 8 Female Year 10 Male Year 10 Female "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      505,
+      934,
+      674
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "q The proportion of Year 10 pupils who correctly identify Chlamydia as being a treatable sexually transmitted infection has increased over the last few waves of the survey, but the 2012 figure is a lower than for 2010. (2006: $4 4 \\%$ , 2008: $4 7 \\%$ , 2010: $5 6 \\%$ , $2 0 1 2 \\colon 5 1 \\%$ ). ",
+    "bbox": [
+      519,
+      700,
+      937,
+      765
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      494,
+      971,
+      504,
+      980
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "□ ",
+    "bbox": [
+      63,
+      697,
+      78,
+      708
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "q ",
+    "bbox": [
+      58,
+      833,
+      73,
+      844
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      371,
+      43,
+      628,
+      68
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Grateful thanks go to all the pupils in Cumbria for their willingness and enthusiasm to take part in this survey. The help, and the time and effort spent, by staff of the schools is also acknowledged. ",
+    "bbox": [
+      60,
+      86,
+      915,
+      112
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Thankyou to all those people from a variety of agencies who were involved in the questionnaire design and to the steering group members : Anne Sheppard (Children’s Services), Mike Conefrey (Children’s Services ), Bruce Lawson (Active Cumbria), Mike Graham (Public Health, NHS Cumbria), Cathryn Beckett (Public Health, NHS Cumbria) and Sue Milner (Children’s Services). ",
+    "bbox": [
+      57,
+      124,
+      922,
+      164
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Our thanks go to the staff and pupils that took part: ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      171,
+      440,
+      185
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Primaries: ",
+    "text_level": 1,
+    "bbox": [
+      60,
+      197,
+      134,
+      210
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Alston Primary School   \nAppleby Primary School   \nBeaconside CE Primary School, Penrith   \nBlack Combe Junior School, Millom   \nEwanrigg Junior School, Maryport   \nGhyllside Primary Training School, Kendal   \nGreengate Juniors, Barrow   \nHaverigg School   \nHeron Hill Primary School, Kendal   \nHolme Cultram Abbey CE School, Abbeytown   \nKingmoor Junior, Carlisle   \nKirkby Stephen Primary   \nLongtown Primary School   \nNenthead Primary school   \nPenny Bridge CE School, Ulverston   \nShap Endowed CE School   \nSilloth Primary School   \nSir John Barrow School, Ulverston   \nSouth Walney Junior School, Barrow   \nSt Begh’s Catholic Junior School, Whitehaven   \nSt Catherine’s Catholic Primary School, Penrith   \nSt James’ Catholic Primary School, Millom   \nSt James’ CE Junior School, Whitehaven   \nSt. Margaret Mary Catholic Primary, Carlisle   \nSt Michael’s CE Primary, Dalston   \nSt Paul’s Junior School, Barrow   \nThomlinson Junior School, Wigton   \nValley Primary School, Whitehaven ",
+    "bbox": [
+      57,
+      209,
+      369,
+      775
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Secondaries: ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      197,
+      610,
+      211
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Caldew School, Dalston   \nDallam School, Milnthorpe   \nDowdales School, Dalton-in-Furness   \nFurness Academy, Barrow   \nJohn Ruskin School, Coniston   \nKeswick School   \nKirkbie Kendal School, Kendal   \nNewman Catholic School, Carlisle   \nQueen Elizabeth Grammar School, Penrith   \nSamuel King’s School, Alston   \nSolway Community Technology College, Silloth   \nSt Benedict’s Catholic High School, Whitehaven   \nTrinity School, Carlisle   \nUllswater Community College, Penrith   \nUlverston Victoria High School   \nWalney School, Barrow   \nWhitehaven School   \nWilliam Howard School, Brampton ",
+    "bbox": [
+      515,
+      218,
+      835,
+      573
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "q For further information about the survey contact: ",
+    "bbox": [
+      556,
+      638,
+      894,
+      651
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Sue Milner Planning and Commissioning Officer ",
+    "bbox": [
+      603,
+      658,
+      848,
+      683
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Planning and Commissioning Team   \nPartnerships and Prevention   \nChildren’s Services   \n80 Warwick Road   \nCarlisle CA1 1DU ",
+    "bbox": [
+      603,
+      690,
+      835,
+      755
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Tel. 01228 221241 sue.milner@cumbria.gov.uk ",
+    "bbox": [
+      603,
+      762,
+      734,
+      774
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      601,
+      782,
+      789,
+      795
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Copies of the full HRBQ report and all summaries can be found at: ",
+    "bbox": [
+      517,
+      827,
+      931,
+      853
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      492,
+      971,
+      504,
+      982
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Data processing and analysis by: SHEU SHEUSchools Health Education Unit Exeter Tel. 01392 66 72 72 www.sheu.org.uk ",
+    "bbox": [
+      58,
+      857,
+      468,
+      958
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cumbria Intelligence Observatory www.cumbriaobservatory.org.uk ",
+    "bbox": [
+      515,
+      866,
+      744,
+      892
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      547,
+      639,
+      563,
+      649
+    ],
+    "page_idx": 7
+  }
+]

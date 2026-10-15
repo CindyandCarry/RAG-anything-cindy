@@ -1,0 +1,628 @@
+[
+  {
+    "type": "text",
+    "text": "Sawtooth Software ",
+    "text_level": 1,
+    "bbox": [
+      437,
+      209,
+      919,
+      253
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "RESEARCH PAPER SERIES ",
+    "bbox": [
+      501,
+      285,
+      919,
+      313
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "MaxDiff Analysis: Simple Counting, Individual-Level Logit, and HB ",
+    "text_level": 1,
+    "bbox": [
+      251,
+      441,
+      921,
+      512
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$^ ©$ Copyright 2009, Sawtooth Software, Inc. 530 W. Fir St. Sequim, WA 98382 (360) 681-2300 www.sawtoothsoftware.com ",
+    "bbox": [
+      351,
+      885,
+      643,
+      959
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Bryan Orme, Sawtooth Software, Inc. ",
+    "bbox": [
+      661,
+      603,
+      919,
+      648
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "MaxDiff Analysis: Simple Counting, Individual-Level Logit, and HB ",
+    "text_level": 1,
+    "bbox": [
+      209,
+      89,
+      787,
+      108
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Bryan Orme, Sawtooth Software Copyright 2009 ",
+    "bbox": [
+      369,
+      125,
+      629,
+      160
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      178,
+      223,
+      195
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In MaxDiff analysis (Louviere 1991), respondents are asked to evaluate a dozen or more items (such as attributes, statements, or brands) in sets of typically four or five at time. Within each set, they simply choose the best and worst items. Generally, an HB (hierarchical Bayes) application of multinomial logit analysis (MNL) is used to estimate individual-level scores for MaxDiff experiments. Other similar methods that develop individual-level scores by leveraging information across a sample of respondents may be employed (e.g. Mixed Logit or Latent Class with C Factors offered by Latent Gold software), and recent papers have shown comparable results among these methods (Train 2000, McCullough 2009). However, for certain situations researchers may need to compute a reasonable set of individual-level scores on-the-fly, at the time of the interview, without the ability or benefit of combining the respondent’s data with a sample of other respondents. ",
+    "bbox": [
+      114,
+      212,
+      874,
+      404
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Counts Analysis ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      421,
+      253,
+      439
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In standard Counts analysis for MaxDiff, the percent of times each item is selected best or worst is computed. A simple form of summarizing MaxDiff scores combines the two measures, taking the percent of times each item was selected best less the percent of times each item was selected worst. Most researchers typically consider running counts analysis to summarize scores at the segment or population level, but this counting approach could easily be extended to the individual level given enough within-respondent information (each item evaluated enough times by respondents). ",
+    "bbox": [
+      114,
+      455,
+      879,
+      579
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Consider a perfectly balanced design, where each item appears an equal number of times (say, 4) across the sets evaluated by a single respondent. MaxDiff questions don’t allow respondents to indicate that an item is both best and worst within the same set. Thus, there are relatively few unique counting scores that can result when each item is shown 4 times to each respondent. The highest possible score occurs when the item is picked 4 times as best ( $1 0 0 \\%$ best minus $0 \\%$ worst $=$ net score of 100). The lowest possible score is $0 \\%$ best minus $1 0 0 \\%$ worst $=$ net score of -100). But, many combinations are not feasible, such as being picked 3 times as best and 2 times as worst. ",
+    "bbox": [
+      114,
+      594,
+      882,
+      734
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      493,
+      922,
+      503,
+      934
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The table below shows the feasible combinations (where the net score is shown for each feasible cell), assuming a perfectly balanced design wherein each item appears 4 times across the sets. ",
+    "bbox": [
+      109,
+      90,
+      877,
+      126
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_7646651/auto/images/72b21f7e2e248bfc267978083f8fed06d9d9e32e2ca054452e7ea3b198460f8c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=7 colspan=1>TimesPicked&quot;Best&#x27;</td><td rowspan=1 colspan=6>Times Picked “Worst&quot;</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>75</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-50</td><td rowspan=1 colspan=1>-25</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>25</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>-100</td><td rowspan=1 colspan=1>-75</td><td rowspan=1 colspan=1>-50</td><td rowspan=1 colspan=1>-25</td><td rowspan=1 colspan=1>0</td></tr></table>",
+    "bbox": [
+      107,
+      140,
+      890,
+      270
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "There are 9 unique feasible scores (-100, -75, -50, -25, 0, 25, 50, 75, 100) for an experiment where each item appears exactly 4 times for each respondent1 . A typical MaxDiff dataset will investigate 20 or more items, so many of the items will receive duplicate scores for a respondent. This would seem to be a weakness, since the scale lacks the granularity offered by a truly continuous scale. But, compare this to the standard 10-point rating scales that are often used in market research for rating a series of items. With rating scales, many ties are given, and our situation with MaxDiff (which encourages discrimination), simple counting analysis, and 9 unique possible scores for each respondent seems quite adequate. Still, researchers wanting to try to identify (uniquely) the best or worst items for individual respondents may be bothered by the prevalence of ties. ",
+    "bbox": [
+      114,
+      286,
+      877,
+      460
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Example Using Real MaxDiff Dataset ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      478,
+      431,
+      496
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "A few years ago, various Sawtooth Software users donated a few dozen MaxDiff datasets for us to use in our research. They shared just the raw data, without any labels or even revealing the product category (to protect client confidentiality). One of these datasets featured 287 respondents and 15 items in the MaxDiff study, shown in 15 sets of 5 items per set. In each set, both “best” and “worst” judgments were provided. Each respondent received a unique version of the design plan (as generated by our MaxDiff software program), where each version was nearly balanced and nearly orthogonal. Therefore, each respondent typically would have seen each item 5 times (though there are slight imbalances within each respondent’s design, so some items sometimes appear 4 times or 6 times). We used this dataset to test the quality of results of the simple counting model described above. This dataset seemed particularly good for this purpose since we could hold out 3 of the tasks for validation (the final 3 tasks), while using the other 12 tasks for computing the scores (and each item would typically have been shown 4 times across those 12 tasks, leading to a reasonable amount of information for each respondent to employ our purely individual-level analysis approach). For the validation, we used the counting scores to predict the 3 choices of best and the 3 choices of worst for the 3 holdout tasks. Therefore, there were a total of $2 8 7 \\mathrm { x } 6 { = } 1 7 2 2$ choices in our holdout validation. ",
+    "bbox": [
+      114,
+      512,
+      882,
+      792
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We should note that even though hit rates are commonly used as a measure of predictive validity, they are somewhat insensitive for comparing the performance of different models. Models that seem to be fairly different in their performance in terms of yielding unbiased estimates of true parameters may appear to have quite similar hit rates. Despite the weaknesses, hit rates provide an intuitive method for comparing models, so they are given here. ",
+    "bbox": [
+      117,
+      810,
+      879,
+      844
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 For a study in which each item is shown 3 times per respondent, there are 7 unique scores possible from counting analysis: (-100, -67, -33, 0, 33, 67, 100). With items shown 5 times per respondent, there are 11 unique scores: (-100, -80, -60, -40, -20, 0, 20, 40, 60, 80, 100). ",
+    "bbox": [
+      114,
+      864,
+      872,
+      909
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      934
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      90,
+      870,
+      142
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Comparisons to HB Analysis ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      160,
+      359,
+      178
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The current gold standard for estimating quality individual-level scores for MaxDiff is hierarchical Bayes (employing the MNL model), though there are a few other techniques that lead to similarly high-quality results. In each HB run, we used 10,000 burn-in iterations and 10,000 saved iterations. We used default settings for Degrees of Freedom (5) and Prior Variance (1.0). We collapsed (averaged) the saved draws into point estimates for each respondent. Using those point estimates to predict choices, we achieved a hit rate of $6 4 . 2 \\%$ . ",
+    "bbox": [
+      114,
+      194,
+      879,
+      299
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The simple form of counting analysis described earlier computes the percent of times items were picked best and worst for each respondent. We combine the two measures by simply subtracting the percent worst from the percent best for each item. We computed individual-level scores in that manner, and the resulting hit rate was surprisingly good $( 6 3 . 0 \\% )$ , given the simplicity of the approach. With 5 items per set, the hit rate due to chance is $2 0 \\%$ , so our results are better than three times the chance level. ",
+    "bbox": [
+      114,
+      316,
+      879,
+      421
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "One concern we noted earlier is the limited number of unique scores that can result at the individual level using the counting procedure. For this dataset, there were ties for the highestpreference item for $2 2 \\%$ of respondents $2 0 \\%$ had the top two items tied, and $2 \\%$ had the top three items tied). In cases in which tied items resulted in ambiguity regarding which item would be predicted to be chosen best or worst in the holdouts, we randomly broke the tie when computing the hit rates. ",
+    "bbox": [
+      116,
+      438,
+      877,
+      542
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "One naturally wonders how the population means and standard deviations compare between the simple counting approach and HB. This provides a way beyond simple hit rates to assess the quality of the parameter estimation (since HB is widely considered to provide unbiased parameter estimates for the population). To make the comparison, it was important to use a similar scaling for both approaches. For the counting method, the scores are computed using choice probabilities. For each respondent, for ease of presentation, we rescaled the scores so that the worst item was zero and the scores summed to 100. In the documentation of our MaxDiff software system, we describe a rescaling approach that takes raw HB scores (logit-scaled) and puts them on a scale more directly related to probabilities of choice, where the worst score for each individual is zero and the scores sum to 100. The approach involves exponentiating the raw logit-scaled parameters, leading to scores that are proportional to choice likelihood within the context of the original sets (see Sawtooth Software’s MaxDiff software documentation for more details). ",
+    "bbox": [
+      114,
+      560,
+      882,
+      787
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      934
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A scatter-plot comparing the average rescaled Counts scores and HB scores for the sample $\\scriptstyle ( \\mathrm { n = 2 8 7 } )$ is given below. ",
+    "bbox": [
+      112,
+      90,
+      830,
+      125
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7646651/auto/images/f29bf4547cc0b41ff6a5ab1717afea4f82f57f0610b1381d2eff45c65236f7a7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      289,
+      140,
+      709,
+      406
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Although the scales aren’t identical (HB scores show more variation), the two sets of data are highly correlated and nearly linear in their relationship. It seems that the simple counting approach produces very similar average scores on average with HB, especially if one is concerned with a rank-order prioritization of features. ",
+    "bbox": [
+      114,
+      424,
+      854,
+      493
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Another measure to consider when comparing scores from different methods is the standard deviation across the sample (a reflection of heterogeneity). The standard deviation is naturally larger for higher-scoring items and smaller for lower-scoring items. One way to examine the variation of the score relative to its absolute magnitude is to compute a Coefficient of Variation, which is done by taking the standard deviation of the item divided by its population mean. The results are shown below, again comparing Counts vs. HB for the 15 items. ",
+    "bbox": [
+      114,
+      511,
+      870,
+      617
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7646651/auto/images/4b756f4913277d02eb0905335025c6d801ac8a2ad8cf2d34eba60071b3d5c129.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      289,
+      631,
+      709,
+      900
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      933
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The results are highly correlated between counts and HB, so the simple method provides reasonable relative measures of across-sample variance for the item scores. But, the HB scores tend to have greater variation across respondents. This can be expected, since the counting method lacks granularity in its individual-level scores. ",
+    "bbox": [
+      116,
+      107,
+      869,
+      178
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Individual-Level Logit ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      194,
+      305,
+      213
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Multinomial Logit (MNL) has been in use since the 1970s as a parameter estimation method for choice data. MNL captures more information than simple counts because it takes into consideration not only which items were chosen, but the strength of competition within each set (which counting analysis ignores). With a perfectly balanced experiment, where for each person each item appears with each other item exactly an equal number of times, simple counts should reflect essentially full information. But, with fractional designs that are modestly imbalanced at the individual-level, MNL is a more complete and robust model for estimating strength of importance/preference for the scores in a MaxDiff experiment. ",
+    "bbox": [
+      114,
+      229,
+      875,
+      369
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Using individual-level MNL2 , we achieved a hit rate of $6 3 . 3 \\%$ , only slightly better than Counts $( 6 3 . 0 \\% )$ and a little bit lower than HB $( 6 4 . 2 \\% )$ . Naturally, this leads one to wonder whether the more sophisticated method was worth the effort. Again, hit rates are a blunt instrument for gauging the quality of models, and it is helpful to look at other measures, such as the recovery of parameters. ",
+    "bbox": [
+      114,
+      385,
+      879,
+      473
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We previously compared the mean scores for the sample $\\mathrm { ( n { = } } 2 8 7$ ) for Counts vs. HB and found close congruence. The same chart for individual-level logit scores vs. HB is given below. ",
+    "bbox": [
+      111,
+      491,
+      866,
+      526
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7646651/auto/images/7fb52d93aebec65d97edf9d40584d95651b7d8b5bcab3f4ac9993ce1c16a11e1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      541,
+      730,
+      845
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2 In our MNL implementation, we used the Counts solution described above as the starting point, and we iterated until a stopping point criterion of the log-likelihood not improving by more than 0.2 for each individual. The computations are extremely quick for each individual, solving in less than a second. ",
+    "bbox": [
+      112,
+      863,
+      857,
+      909
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      934
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "There is strong correlation between the two sets of scores (even stronger than counts), with the values falling nearly on the 45-degree line. ",
+    "bbox": [
+      112,
+      108,
+      862,
+      142
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The chart below compares the coefficient of variation between individual-level MNL and HB. ",
+    "bbox": [
+      112,
+      160,
+      852,
+      178
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7646651/auto/images/45adc2b41ba8e387f7cbb11b09c53b1b59e8556aa335f81da43c118b180f09e5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      276,
+      193,
+      723,
+      511
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Whereas counting analysis didn’t demonstrate as much absolute discrimination across respondents as HB scores, individual-level MNL scores reflect very similar absolute measures of variation for the items as HB. ",
+    "bbox": [
+      114,
+      545,
+      879,
+      598
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "With our MaxDiff dataset, there is so much information at the individual level that our HB version of MNL employs only a modest amount of Bayesian shrinkage toward the population parameters. Thus, it’s no surprise that the purely individual-level MNL results seem so similar to the HB solution. ",
+    "bbox": [
+      116,
+      616,
+      866,
+      685
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      703,
+      218,
+      720
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "If one has enough information at the individual level in MaxDiff studies (e.g. each item shown about $4 \\mathbf { x }$ per respondent), purely individual-level analysis is feasible. HB (or related methods) provides a more robust overall solution, as it can leverage both the information at the individuallevel and data across other respondents within the sample. But, if one needs purely individuallevel scores on-the-fly, individual-level MNL provides very similar results as HB given the quantity of individual-level information for our dataset. Even the simple method of Counts seems to provide reasonable estimates for this dataset, where the designs are quite balanced and nearly orthogonal. ",
+    "bbox": [
+      114,
+      737,
+      875,
+      877
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      934
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "References: ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      90,
+      214,
+      108
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Train, Kenneth (2000), “Estimating the Part-Worths of Individual Customers: A Flexible New Approach,” Sawtooth Software Conference, Sequim, WA. ",
+    "bbox": [
+      116,
+      125,
+      857,
+      160
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Louviere, J. J. (1991), “Best-Worst Scaling: A Model for the Largest Difference Judgments,” Working Paper, University of Alberta. ",
+    "bbox": [
+      114,
+      176,
+      848,
+      212
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "McCullough, Paul (2009), “Comparing Hierarchical Bayes and Latent Class Choice: Practical Issues for Sparse Datasets,” Sawtooth Software Conference Proceedings, Forthcoming, Sequim, WA. ",
+    "bbox": [
+      116,
+      229,
+      872,
+      281
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      493,
+      922,
+      504,
+      933
+    ],
+    "page_idx": 7
+  }
+]

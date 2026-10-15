@@ -1,0 +1,2917 @@
+[
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "text_level": 1,
+    "bbox": [
+      204,
+      153,
+      797,
+      175
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "J. C. Sprott Department of Physics, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA sprott@physics.wisc.edu ",
+    "bbox": [
+      269,
+      194,
+      733,
+      259
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "W. G. Hoover Ruby Valley Research Institute, Highway Contract 60, Box 601, Ruby Valley, Nevada 89833, USA hooverwilliam@yahoo.com ",
+    "bbox": [
+      284,
+      268,
+      718,
+      332
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Received September 10, 2017 ",
+    "bbox": [
+      385,
+      347,
+      618,
+      362
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dynamical systems with special properties are continually being proposed and studied. Many of these systems are variants of the simple harmonic oscilator with nonlinear damping. This paper characterizes these systems as a hierarchy of increasingly complicated equations with correspondingly interesting behavior, including coexisting attractors,chaos in the absence of equilibria,and strange attractor/repellor pairs. ",
+    "bbox": [
+      154,
+      394,
+      852,
+      468
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Chaos; harmonic oscillator; attractors; dissipation; ergodicity. ",
+    "bbox": [
+      155,
+      482,
+      685,
+      496
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1．Introduction ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      547,
+      237,
+      563
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The stable periodic motion of the simple harmonic oscillator provides an ideal test bed for numerical integrators as well as a launch pad for more complicated chaotic dynamical systems in three or more dimensions. The equations of motion produce a circular orbit in phase space that can be used to test and compare numerical integration methods that are still being developed. ",
+    "bbox": [
+      78,
+      569,
+      487,
+      698
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Long ago,Gibbs [1902] predicted that such an oscillator when driven by random thermal fluctuations should have a Gaussian probability density in phase space. That prediction motivated a search for nonlinear modifications to the simple harmonic oscillator that would generate such a Gaussian distribution rather than the simple one-dimensional circle.Because chaos is a necessary ingredient for populating the phase space and replicating thermal randomness, the research has necessarily been carried out in three or more dimensions rather than two and has uncovered some unexpected mathematical results of interest to the dynamical systems community. ",
+    "bbox": [
+      78,
+      699,
+      487,
+      925
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This work provides a summary of the generalizations and observations based on autonomous harmonic oscillators of the form ",
+    "bbox": [
+      515,
+      547,
+      924,
+      594
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/0c7bb7e8fe4c9aa776a30209007d17c461c9b2b5badfbf7fad676b87a829500c.jpg",
+    "text": "$$\n\\begin{array} { l } { { \\dot { x } = y , } } \\\\ { { \\dot { y } = - x - f y } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      664,
+      599,
+      770,
+      642
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "where the damping coefficient $f$ is a functional of $( x , y )$ and additional variables and their integrals as required in higher dimensions and that controls the dissipation which can be positive or negative. We begin with an analysis of two-dimensional systems where the solutions are regular, and then extend the results to higher dimensions where chaos and new less familiar phenomena occur. ",
+    "bbox": [
+      515,
+      647,
+      924,
+      775
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2． Two-Dimensional Systems ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      798,
+      810,
+      815
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2.1. Simple harmonic oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      821,
+      845,
+      839
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The simplest nontrivial dynamical system is the simple harmonic oscillator, ",
+    "bbox": [
+      515,
+      845,
+      924,
+      877
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/6fa9b4dd16bcaab1c6aba9a5c21d796f1d04447d70ac9377b1bfd0ba452a3148.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { \\boldsymbol { x } } = \\boldsymbol { y } , } \\\\ { \\dot { \\boldsymbol { y } } = - \\boldsymbol { x } , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      681,
+      884,
+      750,
+      927
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "International Journal of Bifurcation and Chaos, Vol. 27,No.11 (2017) 1730037 (19 pages) $\\circledcirc$ World Scientific Publishing Company DOI:10.1142/S0218127417300373 ",
+    "bbox": [
+      77,
+      64,
+      690,
+      105
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1730037-1 ",
+    "bbox": [
+      467,
+      941,
+      534,
+      953
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      31,
+      164,
+      59
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      660
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "which might, for example,model the motion of a mass on an ideal spring where $x$ would represent the displacement of the mass from its equilibrium position and $y$ would represent its velocity. For sim-plicity, and without loss of generality, the mass and spring constant have been set to unity. ",
+    "bbox": [
+      80,
+      93,
+      487,
+      190
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Note that in the physics literature, the phase space variables $( x , y )$ are customarily written as $( q , p )$ or sometimes as $( x , v )$ . We use the more general notation to emphasize that oscillations occur in many contexts that do not involve moving masses and velocities, such as electrical circuits [Buscarino et al.,2014],musical instruments [Fletcher & Rossing,1998]，population dynamics [Murray，1989], economics [Mishchenko, 2014],chemical clock reactions [Epstein & Pojman,1998],and many others. ",
+    "bbox": [
+      80,
+      192,
+      487,
+      351
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The only equilibrium of Eq. (2) is at the origin $( x , y ) = ( 0 , 0 )$ ,and it is neutrally stable with eigenvalues $\\pm i$ ，which means that nearby (in fact all) solutions oscillate sinusoidally with a frequency of 1 radian per unit time forming concentric circles in $( x , y )$ space centered on the origin with radii that depend on the initial conditions.Thus the origin is called a center,and the surrounding circular orbits have a radius $r$ given by $r ^ { 2 } = x ^ { 2 } + y ^ { 2 }$ . ",
+    "bbox": [
+      80,
+      352,
+      487,
+      497
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This system is conservative, both in the sense that the total energy (potential ${ \\scriptstyle { \\frac { 1 } { 2 } } } x ^ { 2 }$ plus kinetic $\\scriptstyle { \\frac { 1 } { 2 } } y ^ { 2 }$ ) is constant,and in the sense that the area occupied by a cluster of initial conditions as they evolve in time is constant (Liouville's theorem). Thus the flow,represented by the collection of all possible orbits，is incompressible. This system is also the simplest example of a Hamiltonian system with a Hamiltonian given by $\\begin{array} { r } { \\mathcal { H } = \\frac { 1 } { 2 } x ^ { 2 } + \\frac { 1 } { 2 } y ^ { 2 } } \\end{array}$ from which the equations of motion can be derived using Hamilton's motion equations $\\begin{array} { r } { \\dot { x } = \\frac { \\partial \\mathcal { H } } { \\partial y } } \\end{array}$ and $\\begin{array} { r } { \\dot { y } = - \\frac { \\partial \\mathcal { H } } { \\partial x } } \\end{array}$ ",
+    "bbox": [
+      78,
+      498,
+      487,
+      677
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Finally， the system is\" time-reversible, as expected for a conservative system,since the transformation $( x , y , t ) \\to ( x , - y , - t )$ or $( x , y , t ) \\to ( - x .$ $y , - t )$ leaves the equations unchanged. Another way of reversing the direction of time is to change the sign of $\\Delta t$ in the numerical integrator,which gives the same circular orbit but traversed in a counterclockwise rather than a clockwise direction. ",
+    "bbox": [
+      78,
+      679,
+      487,
+      805
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.2. Linearly-damped harmonic oscillator ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      837,
+      402,
+      871
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the real world, all classical harmonic oscillators have some form of damping that converts their mechanical energy into heat and eventually brings the system to rest. The simplest way to represent such an effect is to add a linear term $- b y$ to the simple harmonic oscillator corresponding to a frictional force that is proportional to the velocity, ",
+    "bbox": [
+      78,
+      877,
+      487,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      94,
+      926,
+      158
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/688f960d22ec584362bb5111f433760d9f3a0fade2fd17333fa7705a8eebdd09.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - b y . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      664,
+      165,
+      772,
+      209
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The resulting system is called a damped harmonic oscillator, and $b$ (if positive） is the damping constant. It describes the exponential rate at which orbits spiral into the origin at $( 0 , 0 )$ and is related to the $Q$ (quality） factor of the oscillator by $b = 1 / Q$ . The $Q$ of an oscillator is the number of radians of oscillation required for the energy to decay to $1 / e$ of its original value. A system with $Q = 1 / 2$ (or $b = 2$ ) is critically damped, and smaller values of $Q$ (or $b > 2$ ）do not oscillate,but they rapidly approach the origin. ",
+    "bbox": [
+      517,
+      215,
+      924,
+      392
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "It seems that it should be possible to eliminate the $b$ in Eq.(3) by a linear rescaling of $x$ ， $y$ ，and $t$ ， but that cannot be done as simple algebra shows. This system is special in that it has two distinct time-scales, the damping rate and the frequency of oscillation，and the parameter $b$ controls their ratio. ",
+    "bbox": [
+      517,
+      394,
+      924,
+      506
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The origin is a stable equilibrium with eigenvalues $- b / 2 \\pm \\sqrt { b ^ { 2 } / 4 - 1 }$ . For underdamped systems （ $b < 2$ ), the equilibrium is a called a focus,and for overdamped systems ( $b > 2$ )，it is called a node. A stable equilibrium is the simplest example of an attractor since orbits starting from nearby initial conditions are drawn to it as time advances.In fact, this system is a global attractor since all initial conditions are drawn to it.Its basin of attraction is the whole of phase space, a so-called class 1a basin according to Sprott and Xiong [2015]. ",
+    "bbox": [
+      515,
+      507,
+      924,
+      684
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The damped harmonic oscillator is a dissipative system.Furthermore,it is not time-reversible for $b > 0$ since reversing the sign of $t$ in the equations converts the attractor into a repellor and causes the orbits to spiral outward to infinity (we say the timereversed system is unbounded). ",
+    "bbox": [
+      515,
+      685,
+      924,
+      780
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Normally systems with dissipation such as this are not considered to be Hamiltonian, but the timedependent Hamiltonian $\\begin{array} { r } { \\mathcal { H } = \\frac { 1 } { 2 } ( x ^ { 2 } e ^ { + t } + y ^ { 2 } e ^ { - t } ) } \\end{array}$ gives the equations of motion $\\dot { x } = y e ^ { - t }$ and $\\dot { y } = - x e ^ { + t }$ ， so that a chain rule evaluation of $\\begin{array} { r } { \\frac { d } { d t } ( y e ^ { - t } ) = { \\dot { y } } e ^ { - t } - y e ^ { - t } = - x - { \\dot { x } } } \\end{array}$ ,the motion equa- $\\ddot { x }$ gives ${ \\ddot { x } } \\ =$ tion of an underdamped harmonic oscillator with $b = 1$ . The orbit is a spiral in $( x , y )$ space ending at the origin. ",
+    "bbox": [
+      517,
+      781,
+      924,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "J. C.Sprott & W.G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      76
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1730037-2 ",
+    "bbox": [
+      469,
+      941,
+      536,
+      952
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      332,
+      33,
+      664
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.3. Nonlinearly-damped harmonic oscillator ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      93,
+      437,
+      127
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "More complicated damping functions are also possible.For example, the damping could be cubic rather than linear, ",
+    "bbox": [
+      78,
+      134,
+      487,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/7c3bb9de6315ffa28a38abbeeaa398f9422924ce7b74b8f560f40304d33c8df9.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - b y ^ { 3 } . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      222,
+      190,
+      336,
+      238
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The origin $( 0 , 0 )$ is still an attractor for $b > 0$ ，but this is not evident since the eigenvalues are $\\pm i$ just as for the simple harmonic oscillator in Eq. (2). Nearby orbits are attracted to it, but they approach it more slowly than a decaying exponential. We say the equilibrium is nonlinearly stable, and a more complicated analysis is required to determine its stability. ",
+    "bbox": [
+      78,
+      244,
+      487,
+      372
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Such an analysis usually involves a transforma  \ntion of variables to polar coordinates $( r , \\theta )$ ，where   \n$r ^ { 2 } = x ^ { 2 } + y ^ { 2 }$ and $\\theta = \\arctan ( y / x )$ . Differentiating   \n$r ^ { 2 }$ with respect to time gives $r { \\dot { r } } = x { \\dot { x } } + y { \\dot { y } } = - b y ^ { 4 }$   \nThen the stability is determined by the sign of   \n$- { \\textstyle { \\frac { b } { r } } } y ^ { 4 }$ ，whichisalwaysnegative for $b > 0$ since $y ^ { 4 }$   \nis always positive. Thus the distance of the orbit   \nfrom the origin decreases monotonically in time.   \nIn fact, given that the orbit is nearly circular and   \nsinusoidal near the origin for $b$ small， it follows   \nfrom the integration of $y ^ { 4 } ~ = ~ ( r \\sin \\theta ) ^ { 4 }$ over one   \ncycle that $\\langle y ^ { 4 } \\rangle \\ : = \\ : 3 r ^ { 4 } / 8$ ， from which the differen-$\\dot { r } = - 3 b r ^ { 3 } / 8$ ution $\\begin{array} { r } { r = ( \\frac { 1 } { r _ { 0 } ^ { 2 } } + \\frac { 3 b t } { 4 } ) ^ { - 1 / 2 } } \\end{array}$ $r \\approx 2 / \\sqrt { 3 b t }$ $t \\to \\infty$ ",
+    "bbox": [
+      78,
+      375,
+      487,
+      602
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For more complicated cases, or in higher dimensions where the real parts of the eigenvalues are zero,it may be easier to check the stability numerically by taking an initial condition in the vicinity of the equilibrium and see if the orbits get closer to it or farther from it as time advances.However, this can be difficult if the orbit is noncircular because the distance will itself oscillate,and it is necessary to follow the orbit for exactly one cycle or for a very long time. ",
+    "bbox": [
+      78,
+      604,
+      487,
+      764
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This is a good time to mention the importance of using an accurate numerical integrator. In particular, the popular fourth-order Runge-Kutta inte-grator is known to introduce a spurious numerical damping proportional to the fifth power of the step size $\\Delta t$ ，such that a solution of the simple harmonic oscillator in Eq.(2） behaves like the linearly damped harmonic oscillator of Eq. (3) with $b = ( \\Delta t ) ^ { 5 } / 5 !$ for $\\Delta t \\ll 1$ . The fifth-order Runge-Kutta integrator produces a similar antidamping given by $b = - ( \\Delta t ) ^ { 6 } / 6 !$ for $\\Delta t \\ll 1$ . This is typ-ically not an issue for dissipative systems that have an attractor, but for conservative systems,an inte-grator with an adaptive step size and stringent error control is recommended [Press et al.,1992]. ",
+    "bbox": [
+      78,
+      765,
+      487,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      94,
+      924,
+      177
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2.4. van der Pol oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      198,
+      792,
+      215
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Another famous and very old system with nonlinear damping is the van der Pol oscillator [van der Pol, 1920,1926], ",
+    "bbox": [
+      515,
+      221,
+      924,
+      270
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/c86ebdfe2bea0f6caccbed708045a7b0adfe67a615d53f211d290eda6e6b80ca.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - b ( x ^ { 2 } - 1 ) y , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      631,
+      276,
+      802,
+      324
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "which was originally proposed as a model of oscillations in electronic circuits but has been applied to a wide variety of other phenomena including heartbeats [van der Pol $\\&$ van der Mark, 1928], sunspot cycles [Passos & Lopes, 20o8],and pulsating stars called Cepheids [Krogdahl, 1955]. Unlike the previous systems, the van der Pol oscillator requires an external source of energy to maintain the oscillations,and this energy is coming from whatever produces the antidamping represented by the $+ b y$ positive feedback term. ",
+    "bbox": [
+      515,
+      329,
+      924,
+      504
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For $b > 0$ ，the origin is an unstable equilib-rium (a repellor） with eigenvalues $b / 2 \\pm \\sqrt { b ^ { 2 } / 4 - 1 }$ Nearby orbits are antidamped, causing the ampli-tude of the oscillations to grow until the time average of $\\langle x + b ( x ^ { 2 } - 1 ) y \\rangle \\ = \\ 0$ ，which occurs for $\\langle x ^ { 2 } \\rangle = \\langle y ^ { 2 } \\rangle \\approx 2 . 0 5 9 4$ when $b = 1$ . The resulting tra-jectory in state space is a kind of periodic attractor called a limit cycle. The existence and uniqueness of such a limit cycle follows from Liénard's theorem [Perko,1991],which simply states that if the damping is negative for all small values of $x$ and positive for all large values, the orbit for such an oscillator has nowhere else to go but to a limit cycle. ",
+    "bbox": [
+      515,
+      507,
+      924,
+      715
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This limit cycle is a global attractor since all initial conditions are drawn to it except for the single equilibrium point at the origin (a class la basin). The orbit in $( x , y )$ space oscillates back and forth across a circle of radius 2 twice per cycle. The limit cycle attractor for the system with $b = 1$ is shown in Fig.1 with the unstable equilibrium shown as a blue dot at the origin. This limit cycle is a self-excited attractor according to Leonov and Kuznetsov [2013] since initial conditions in the neighborhood of the unstable equilibrium are drawn to it. ",
+    "bbox": [
+      515,
+      718,
+      924,
+      894
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The stability of a limit cycle is determined by the Lyapunov exponents [Wolf et al.， 1985; Geist et al.,1990],which play the same role for a periodic orbit as do the eigenvalues for an equilibrium point.For a two-dimensional system such as Eq. (5), there are two Lyapunov exponents,one of which, corresponding to the direction parallel to the orbit, must be zero for an oscillating continuous-time flow. The sum of the Lyapunov exponents is equal to the time average of the trace of the Jacobian matrix, which for Eq. (5） is $b ( 1 - \\langle x ^ { 2 } \\rangle ) \\approx - 1 . 0 5 9 4$ when $b = 1$ . Thus the Lyapunov exponents for the van der Pol system with $b ~ = ~ 1$ are $( 0 , - 1 . 0 5 9 4 )$ A positive Lyapunov exponent would indicate that the system is chaotic,but that is not possible for a two-dimensional continuous-time system because the orbit must not intersect itself as formalized in the Poincaré-Bendixson theorem [Hirsch et al., 2004]. ",
+    "bbox": [
+      515,
+      895,
+      924,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      64,
+      924,
+      77
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1730037-3 ",
+    "bbox": [
+      467,
+      941,
+      536,
+      952
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      336,
+      33,
+      660
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/25e84807c73a2a5ce4793fa15be020339b0acc9196483b17d53a99fef4e0a609.jpg",
+    "image_caption": [
+      "Fig.1.Limit cycle for the van der Pol oscillator in Eq.(5) with $b = 1$ . The blue dot at the origin is the unstable equilibrium,and the colors along the orbit are the local values of the largest Lyapunov exponent with red positive and blue negative. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      128,
+      94,
+      438,
+      325
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      425,
+      487,
+      699
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Lyapunov exponents are determined by a time average of the rate of separation of nearby tra-jectories over one cycle of the limit cycle. Although the largest exponent for a limit cycle must average to zero, its local value varies greatly over the orbit, ranging from approximately $- 3 . 0 3 4 5$ to 2.8138 for Eq.(5)with $b = 1$ . This variation is indicated in Fig. 1 and the following figures by a color scale in which the negative values are in a shade of blue and the positive values are in a shade of red. ",
+    "bbox": [
+      78,
+      701,
+      487,
+      861
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The van der Pol oscillator is not time-reversible. When time is reversed, the repellor at the origin becomes an attractor,and the attracting limit cycle becomes a repellor. Such attractor/repellor pairs are common in dynamical systems and will play an important and perhaps unexpected role in the more complicated systems to follow. ",
+    "bbox": [
+      78,
+      862,
+      487,
+      926
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      926,
+      142
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2.5. Periodically-damped oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      165,
+      876,
+      183
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Slightly more interesting behavior occurs if the $1 -$ $x ^ { 2 }$ factor in Eq. (5) is replaced with $\\mathrm { c o s } x$ [Kahn $\\&$ Zarmi, 1998; Sprott et al., 2017] giving ",
+    "bbox": [
+      515,
+      190,
+      924,
+      238
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/2790e3743047b7014dba892591732f5da33704d16101ae4fafdfb31c27872d93.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x + b y \\cos x . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      643,
+      248,
+      792,
+      293
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For small values of $x$ ，the behavior resembles the van der Pol oscillator,which is not surprising since the Taylor series expansion (more properly called a the cosine finctonis Maclaurin series since it is centered at $\\cos x = 1 - { \\textstyle { \\frac { 1 } { 2 } } } x ^ { 2 } + { \\textstyle { \\frac { 1 } { 2 4 } } } x ^ { 4 } - \\cdots .$ $x = 0$ ）of with the same eigenvalues as for the van der Pol oscillator. ",
+    "bbox": [
+      517,
+      299,
+      924,
+      427
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "However, for larger values of $x$ , the system has annular regions of alternating damping and antidamping, giving rise to an infinite series of nested limit cycles,the first four of which for $b = 1$ are shown as black curves in Fig. 2. The second Lyapunov exponent (the damping) for the four cases are $( - 0 . 4 0 9 0 , - 0 . 2 5 2 2 , - 0 . 1 9 7 8 , - 0 . 1 6 8 0 )$ ，respectively, and the first Lyapunov exponent is zero as required for a limit cycle. Each limit cycle resides within a finite-sized basin of attraction (a class 4 basin) as shown with different colors in the figure. The boundary between each basin is a repellor,and initial conditions in its vicinity take a long time to reach one of the limit cycles. ",
+    "bbox": [
+      517,
+      428,
+      926,
+      605
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/8636372fcdaad4f7a23526f892d49c98a70df5fb7aa1a20753fdb903a766851e.jpg",
+    "image_caption": [
+      "Fig.2.The first four of infinitely many limit cycles (in black) for the periodically-damped oscillator in Eq.(6) with $b = 1$ along with their basins of attraction (in colors).The blue dot at the origin is the unstable equilibrium. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      561,
+      628,
+      884,
+      861
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "J.C.Sprott & W.G.Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      76
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1730037-4 ",
+    "bbox": [
+      469,
+      940,
+      536,
+      952
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      332,
+      33,
+      662
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      93,
+      487,
+      142
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This is an example of a multistable system with coexisting attractors. The innermost limit cycle is self-excited since it can be found by starting with an initial condition in the neighborhood of the equilibrium at the origin,but the others are hidden [Leonov $\\&$ Kuznetsov, 2013] and require a careful selection of initial conditions such as $( n \\pi , 0 )$ ，where $n = 1 , 3 , 5 , 7 , \\dots { }$ ",
+    "bbox": [
+      78,
+      142,
+      487,
+      270
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "When time is reversed， the repellor at the origin becomes an attractor，and all the limit cycles become repellors, forming the basin boundaries of the new adjacent attractors. Furthermore, the repelling boundaries between the limit cycles become limit-cycle attractors,giving a plot similar to the one in Fig. 2. This is a system with infinitely many attractor/repellor pairs of ever increasing energy, reminiscent of the orbitals in an atom. ",
+    "bbox": [
+      78,
+      271,
+      487,
+      416
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.6. Rayleigh oscillator ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      443,
+      319,
+      461
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A similar system to the van der Pol oscillator is the Rayleigh oscillator [Birkhoff& Rota,1978] in which the $x ^ { 2 }$ damping factor in Eq. (5) for the van der Pol oscillator is replaced by $y ^ { 2 }$ ， ",
+    "bbox": [
+      78,
+      467,
+      487,
+      533
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/2f372f2f5739e41d361ea45ca8717bd2006dfa650bbdc9894fb10de8525c703b.jpg",
+    "text": "$$\n\\begin{array} { l } { { \\dot { x } = y , } } \\\\ { { { } } } \\\\ { { { \\dot { y } } = - x - b ( y ^ { 2 } - 1 ) y . } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      194,
+      544,
+      365,
+      592
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In fact,Eq. (5) can be derived from Eq. (7) by differentiating each term with respect to time and then replacing $\\dot { x }$ with $x$ and $\\dot { y }$ with $y$ ",
+    "bbox": [
+      77,
+      603,
+      485,
+      652
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Its dynamics resemble those of the van der Pol system with a single unstable equilibrium (a repellor）at the origin with the same eigenvalues. For initial conditions near the origin,the oscillations grow until the time average of $\\langle x + b ( y ^ { 2 } - 1 ) y \\rangle = 0$ ， which occurs for $\\langle x ^ { 2 } \\rangle \\approx 0 . 7 6 2 2$ and $\\langle y ^ { 2 } \\rangle \\approx 0 . 6 8 6 5$ when $b = 1$ . The self-excited limit cycle attractor for the system with $b = 1$ is shown in Fig.3 with the same coloring scheme as Fig. 1.It is a global attractor with a class 1a basin. ",
+    "bbox": [
+      78,
+      653,
+      487,
+      812
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Lyapunov exponents are $( 0 , - 1 . 0 5 9 4 )$ ，and the local largest Lyapunov exponent varies from about $- 0 . 9 1 2 7$ to 1.0 over a cycle, averaging exactly to zero. The nonlinear damping factor $b ( y ^ { 2 } \\textrm { -- } 1 )$ can be thought of as an integral feedback controller, maintaining the average energy of the oscillator at a value of order unity. ",
+    "bbox": [
+      78,
+      814,
+      487,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/0e5bb253280f50ad811ab7c8545b85b557894bf6575e3d8e05bc6ed129b45ec0.jpg",
+    "image_caption": [
+      "Fig.3.Limit cycle for the Rayleigh oscillator in Eq.(7) with $b = 1$ . The blue dot at the origin is the unstable equilibrium,and the colors along the orbit are the local values of the largest Lyapunov exponent with red positive and blue negative. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      566,
+      96,
+      876,
+      325
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Rayleigh oscillator can be modified as was the van der Pol oscillator by replacing the $1 - y ^ { 2 }$ factor with $\\cos y$ ，but the result does not lead to any new behavior, and so it will not be further discussed. Finally, all of these two-dimensional nonlinear oscillators can be periodically forced by adding an $A \\sin \\Omega t$ term in the $\\dot { y }$ equation giving chaotic solutions for an appropriate choice of the parameters,but the resulting nonautonomous systems are not in the form of Eq. (1),and their description would take us too far afield, except see Eq. (15). ",
+    "bbox": [
+      515,
+      423,
+      924,
+      600
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3．Three-Dimensional Systems ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      625,
+      825,
+      643
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.1. Nosé-Hoover oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      649,
+      805,
+      667
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A different way to control the energy of the oscillator is to replace the damping factor $b ( y ^ { 2 } - 1 )$ in Eq.(7) with a variable $z$ that obeys its own differential equation, ",
+    "bbox": [
+      515,
+      673,
+      924,
+      738
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/9c669f55b244beb4096b171e1479ba26beaa891cb2eb6507cfdf4a651a7664ab.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - z y , } \\\\ { \\dot { z } = b ( y ^ { 2 } - 1 ) . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      659,
+      748,
+      770,
+      821
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "For $z$ to be bounded,it is necessary that its time derivative averages to zero,which implies that $\\langle y ^ { 2 } \\rangle = 1$ . Recalling that $y$ is a velocity, the extra equation can be considered as a thermostat, keeping the average kinetic energy $\\scriptstyle \\left. { \\frac { 1 } { 2 } } y ^ { 2 } \\right.$ of the oscillator fixed at a value of $1 / 2$ . This is because $z$ ，which would be a constant for a linearly damped oscilla-tor, can be either positive or negative,allowing $y ^ { 2 }$ to either increase or decrease as required to maintain a constant average value. ",
+    "bbox": [
+      515,
+      830,
+      924,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      66,
+      924,
+      77
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "1730037-5 ",
+    "bbox": [
+      467,
+      940,
+      536,
+      952
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      335,
+      33,
+      659
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      93,
+      487,
+      157
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "As a physical model, you can imagine the mass on a spring being shrunk to the point where collisions with individual molecules in the air cause it to dance around, visiting all points in phase space with a Gaussian probability distribution.It then becomes a kind of thermometer in thermal contact with a heat bath at a fixed temperature.The mass will continually oscillate in response to the energy exchange with the heat bath. Such behavior is common in electronic RLC circuits where thermal fluctuations in the resistor voltage (Johnson [1928] or Nyquist [1928] noise） cause aperiodic oscillations (electrical noise) in the circuit. ",
+    "bbox": [
+      80,
+      159,
+      487,
+      367
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Equation (8) is the Nosé-Hoover oscillator. Nosé [1984] was attempting to find a Hamiltonian dynamical system that generated the Gaussian distribution predicted by Gibbs [1902],called a canonical distribution, which in this case just means simple or prototypical. He added to the conventional Hamiltonian a time-scaling variable $s$ along with its conjugate momentum $p _ { s }$ giving a highly unusual Hamiltonian with $( y / s ) ^ { 2 }$ rather than the $y ^ { 2 }$ for the simple oscillator and found chaotic solutions.Shortly thereafter，Hoover [1985] noted its strange dynamics for the oscillator and modified Nosé's approach, eliminating the time-scaling variable $s$ from the four-dimensional system and obtain-ing Eq.(8) by applying a continuity equation in the three-dimensional phase space $( x , y , z )$ ,with a different constant $b$ than Nose's [Posch et al.,1986]. This discovery set off efforts to understand and control the unexpected complexity. It was evident that the solutions of Eq. (8) did not cover the whole of $( x , y , z )$ space.Kusnezov et al.[199o] formalized and evaluated extensions of Eq. (8) including additional variables as described below.By the time of Nosé's early death in 20o5,many dozens of extensions to his work had been developed.Hoover [20o7] summarized this work and its amazing impact on classical and quantum mechanics,and Nosé was further commemorated in Japan at the 2014 International Symposium on Extended Molecular Dynamics and Enhanced Sampling: Nosé Dynamics 30 Years. ",
+    "bbox": [
+      78,
+      370,
+      487,
+      852
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The additional $\\dot { z }$ equation introduces a number of important and unusual features, the first of which is that the system no longer has any equilibrium points,and thus many of the usual methods for studying dynamical systems do not apply. Secondly, the additional variable allows the possibility of chaotic solutions since the system is now threedimensional.Indeed, this system with $b = 1$ was independently discovered in an exhaustive computer search for three-dimensional chaotic systems with five terms and two quadratic nonlinearities [Sprott，1994] and is thus sometimes called the Sprott A system.It is the simplest such system that exhibits chaos [Heidel & Zhang,1999]. ",
+    "bbox": [
+      78,
+      854,
+      489,
+      917
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      93,
+      924,
+      254
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Thirdly, it happens that $\\langle z \\rangle = 0$ ， which means that the average dissipation is zero,and thus the system is conservative as expected because it was derived from a Hamiltonian. The orbit repeatedly traverses regions of positive and negative damping that exactly cancel when time-averaged along the orbit. Thus it is conservative only on average, sometimes called nonuniformly conservative [Heidel $\\&$ Zhang,1999]. Since it is conservative, it does not have attractors,which would be a set of measure zero in the three-dimensional space. It is also timereversible under the transformation $( x , y , z , t ) \\ \\to$ $( x , - y , - z , - t )$ as well as $( x , y , z , t ) \\to ( - x , - y , z , t )$ as expected for a conservative system. ",
+    "bbox": [
+      517,
+      256,
+      924,
+      480
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Furthermore,different initial conditions lead to qualitatively different solutions, including periodic,quasiperiodic,and chaotic as shown in Fig. 4. ",
+    "bbox": [
+      515,
+      482,
+      924,
+      529
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/fcf05678b0f9063d75dd1fa7b45d8e0d3b04926cead3967685dbc138583e2f49.jpg",
+    "image_caption": [
+      "Fig.4. Coexisting torus and chaotic sea for the Nosé- Hoover oscillator in Eq.(8） with $b = 1$ .Initial conditions for the torus are $( 0 , 2 , 0 )$ and for the sea are $( 0 , 5 , 0 )$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      563,
+      924,
+      865
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "J. C. Sprott & W.G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      77
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1730037-6 ",
+    "bbox": [
+      469,
+      941,
+      536,
+      952
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      662
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The quasiperiodic solution with initial conditions $( 0 , 2 , 0 )$ resides on the surface of one of infinitely many nested tori on the axis of which is a single periodic orbit (not shown),and the tori are linked by a chaotic orbit that forms a chaotic sea, which is the term used for a chaotic region that is not an attractor. ",
+    "bbox": [
+      78,
+      93,
+      487,
+      205
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "This structure is more easily seen in a crosssection of the flow in the $z ~ = ~ 0$ plane as shown in Fig. 5. (We do not call this a Poincaré section because crossings of the plane in both directions are plotted.)Different initial conditions lead to infinite chains of islands as is typical of nonlinear conservative systems. The Lyapunov exponents in the chaotic sea are $( 0 . 0 1 3 9 , 0 , - 0 . 0 1 3 9 )$ and on any of the tori are $( 0 , 0 , 0 )$ ，both of which sum to zero as expected. The Kaplan and Yorke [1979] dimension is 3.0 in the sea, and the sea is a fat fractal [Farmer et al.,1983] since it contains infinitely many holes of arbitrarily small size. ",
+    "bbox": [
+      78,
+      208,
+      487,
+      416
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "An additional property of the system is that the chaotic sea is unbounded,but with a measure $P ( x , y , z )$ that approaches zero according to $P ( x , y , z ) \\sim \\mathrm { e x p } ( - { \\textstyle { \\frac { 1 } { 2 } } } x ^ { 2 } - { \\textstyle { \\frac { 1 } { 2 } } } y ^ { 2 } - { \\textstyle { \\frac { 1 } { 2 } } } z ^ { 2 } )$ far from the origin. The second moment of the velocity $\\left. y ^ { 2 } \\right.$ is accurately controlled at 1.0, but the second moment $\\langle x ^ { 2 } \\rangle$ is approximately 1.4265,the second moment $\\big < z ^ { 2 } \\big >$ is approximately 2.3190, and the measure is far from Gaussian because of the large quasiperiodic holes in the chaotic sea. Only six percent of the expected Gaussian distribution is populated by the chaotic sea. ",
+    "bbox": [
+      78,
+      417,
+      487,
+      529
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/266417960b3da96d7be30874a3ea6c3de30fa41913db9f3c37fd4fffc043b999.jpg",
+    "image_caption": [
+      "Fig. 5.Cross-section of the flow for the Nosé-Hoover oscillator in Eq.(8) with $b = 1$ in the $z = 0$ plane showing the intricate toroidal island structure surrounded by a chaotic sea. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      82,
+      556,
+      485,
+      855
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      96,
+      924,
+      175
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The mechanism for the long tail in the distributions can be understood by considering an orbit that passes close to the origin,which is within the chaotic sea. Then Eq. (8） reduces to $\\dot { z } = - b$ ，and the orbit is thrown out to a large negative value of $z$ causing large-amplitude oscillations that eventually damp away. ",
+    "bbox": [
+      515,
+      177,
+      924,
+      289
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The conservative nature of the system also follows from the fact that it can be derived from a Hamiltonian function. Dettmann and Morriss [1997] added to Eq. (8) an additional variable $s$ similar to Nosé's that obeys the equation $\\dot { s } = z s$ and rescaled the velocity by $y \\ \\to \\ y / s$ . The resulting four equations then follow from the Hamiltonian $\\mathcal { H } = \\textstyle { \\frac { 1 } { 2 } } ( s x ^ { 2 } + \\frac { y ^ { 2 } } { s } + 2 s \\ln s + s z ^ { 2 } )$ provided $\\mathcal { H } = 0$ ",
+    "bbox": [
+      515,
+      290,
+      924,
+      421
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "It is remarkable that the $( x , y , s , z )$ equations generated with Nosé's Hamiltonian and with Dettmann's Hamiltonian trace out exactly the same four-dimensional orbits but at different rates. The same is true of two similar sets of three-dimensional equations in $( x , y , z )$ space. Nose's motion equations are extremely stiff and difficult to solve, while Dettmann's can be solved easily and precisely [Hoover et al., 2016a]. ",
+    "bbox": [
+      515,
+      422,
+      924,
+      566
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The Nosé-Hoover system is inherently a one-parameter system because it has five terms, four of whose coefficients can be set to $\\pm 1$ by a linear rescaling of $x , y , z$ ，and $t$ . The choice of where to put the parameter is arbitrary, but a slight algebraic simplification occurs if the last equation is written instead as ${ \\dot { z } } = y ^ { 2 } - a$ ，where the parameter $a$ now is just the second moment of the velocity $\\left. y ^ { 2 } \\right.$ , or loosely speaking, the “temperature” seting of the thermostat. In fact, the two forms are equivalent as one can see by making the transformation $( x , y )  ( x / \\sqrt { b } , y / \\sqrt { b } )$ in Eq.(8) from which it follows that $a = b$ . As $b$ increases, the frequency and complexity of the oscillations increase with the Lyapunov exponent reaching a value of about O.06 at $b \\approx 3$ [Posch et al., 1986]. Tori coexist with a chaotic sea for arbitrarily large values of $b$ ",
+    "bbox": [
+      515,
+      567,
+      924,
+      840
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Very recently it was discovered that a heatconducting variation of the damped harmonic oscillator gives a set of three interlinked “knotted\" periodic orbits with each orbit linked to the other two like the links of a chain [Sprott et al.,2014]. ",
+    "bbox": [
+      515,
+      841,
+      922,
+      921
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      66,
+      924,
+      77
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1730037-7 ",
+    "bbox": [
+      467,
+      941,
+      536,
+      952
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      660
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Soon after Wang and Yang [2015] explored the Nosé-Hoover oscillator's phase space for $b ~ = ~ 1 0$ They considered six periodic orbits in $( x , y , z )$ space and found that each of them was similarly knotted with the other five.They also discovered a trefoil knot (an overhand knot in a closed loop).These unexpected and unexplained findings invite additional topological studies of the Nosé-Hoover oscillator's knot-tying abilities. ",
+    "bbox": [
+      80,
+      94,
+      487,
+      239
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.2. Munmuangsaen oscillator ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      265,
+      393,
+      283
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "As a model of a harmonic oscillator driven by random thermal fuctuations, the Nosé-Hoover system has a serious flaw in its preponderance of quasiperiodic solutions.A real physical oscillator would visit all values of $( x , y )$ with a Gaussian probability distribution.The chaotic sea would fill all of space without any holes,and such a system is said to be ergodic. Starting from any initial condition, the orbit would eventually come arbitrarily close to every point in the space. A simple system [Munmuangsaen et al., 2015] that satisfies this condition for $a = 5$ is ",
+    "bbox": [
+      78,
+      289,
+      487,
+      481
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/0f442f0066e607a62b62419332748312325ab6117fd79a118d20ba24b74231f9.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - z y , } \\\\ { \\dot { z } = | y | - a . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      226,
+      491,
+      333,
+      563
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "However，for $ { \\boldsymbol { a } } \\ = \\ 1$ ，there are no chaotic solutions，but something even more remarkable happens. There is a set of nested tori with nonuni-formly conservative quasiperiodic orbits surrounded by a dissipative region with two limit cycles as shown in Fig. 6. Orbits in the dissipative region approach one of the limit cycles after a relatively long chaotic transient. ",
+    "bbox": [
+      78,
+      571,
+      487,
+      699
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Lyapunov exponents for the torus are $( 0 , 0 , 0 )$ and for the limit cycles are ( $0 , - 0 . 0 7 5 5$ ， $- 0 . 0 7 5 5$ ). The limit cycles have class $\\mathcal { Z }$ basins of attraction since they equally share the entire space not occupied by tori,shown in the $z ~ = ~ 0$ crosssection in Fig.7. The basin boundary is a complicated fractal. The brown region immediately surrounding the tori actually consists of red and green regions,representing the closely riddled basins of the two limit cycles. Only a few other examples are known of systems that are conservative for some initial conditions and dissipative for others [Politi et al., 1986; Moran et al., 1987; Sprott, 2014, 2015; Patra et al., 2016]. ",
+    "bbox": [
+      80,
+      701,
+      487,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/89df1d363b39ed6506967e82ee8b7f6cdec933cf7ba60f8833227ee9302f8419.jpg",
+    "image_caption": [
+      "Fig.6.Coexisting conservative torus and two limit cycles for the Munmuangsaen oscillator in Eq.(9) with $a = 1$ .Initial conditions for the torus are $( 0 , 1 . 2 , 0 )$ and for the limit cycles are $( \\pm 4 , \\pm 3 , 0 )$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      525,
+      94,
+      919,
+      386
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "When $a$ increases, the tori shrink,and the limit cycles merge into one large limit cycle at $a \\approx 2 . 0$ that gives birth to a strange attractor surrounding the tori at $a \\ \\approx \\ 2 . 0 7$ . Eventually the tori vanish, leaving only dissipative regions and a strange attractor whose orbit for $a = 5$ is shown in Fig. 8. This behavior is different from the Nosé-Hoover oscillator where the tori persist along with a chaotic sea for arbitrarily large values of $b$ ,and there are no attractors. ",
+    "bbox": [
+      515,
+      470,
+      926,
+      534
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/c51e08d06c21c880b164b3d7d79a41ebcc279a4a789f3cdef61abf1a5f423c96.jpg",
+    "image_caption": [
+      "Fig.7.Cross-section in the $z = 0$ plane for the nested conservative tori (black curves) and two limit cycles (black dots) for the Munmuangsaen oscillator in Eq.(9) with $a = 1$ .The basins of attraction for the two limit cycles are shown in red and green,respectively. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      524,
+      557,
+      917,
+      847
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "J.C. Sprott & W. G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      76
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "1730037-8 ",
+    "bbox": [
+      469,
+      940,
+      536,
+      952
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      336,
+      33,
+      660
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/4282721f46ca504d48f704a3fc18ba306c42cf103c253ad379bae8b35fe15d16.jpg",
+    "image_caption": [
+      "Fig. 8.Strange attractor for the Munmuangsaen oscillator in Eq.(9) with $a = 5$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      93,
+      485,
+      391
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      458,
+      485,
+      553
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Figure 9 shows the absence of tori in a crosssection of the flow in the $z = 0$ plane as evidenced by the lack of holes in the chaotic region. The two horizonal bands at $y = \\pm 5$ are the $z$ -nullclines where $\\dot { z } = 0$ and the flow is locally tangent to the plane. The measure is not perfectly smooth as evidenced by the structure in the upper left and lower right as well as a few nearly vertical streaks of white. The local largest Lyapunov exponent has a more complicated structure than the measure itself as evidenced by the variations in color. ",
+    "bbox": [
+      78,
+      556,
+      487,
+      731
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "However,a careful calculation shows that this system is weakly dissipative with $\\langle z \\rangle ~ \\approx ~ 0 . 0 0 2 3$ ， although the equations are time-reversible under the transformation $( x , y , z , t ) \\quad \\to \\quad ( x , - y , - z , - t )$ just like the Nosé-Hoover system.When time is reversed, for example by reversing the sign of $\\Delta t$ in the integrator, the repellor becomes an attractor that looks identical to the one in Fig. 9 except with $( y , z ) \\to ( - y , - z )$ and $\\langle z \\rangle \\approx - 0 . 0 0 2 3$ . Thus there exist a symmetric strange attractor/repellor pair that are nearly coincident and intertwined and that exchange roles when time is reversed and whose “centers of mass” are separated in $z$ by a distance of about $2 \\langle z \\rangle \\approx 0 . 0 0 4 6$ . The symmetry breaking is paradoxical because the solution always seeks out the attractor despite the symmetry of the governing equations. ",
+    "bbox": [
+      78,
+      734,
+      487,
+      926
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      924,
+      174
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Lyapunov exponents for the attractor are $( 0 . 1 6 1 0 , - 0 , - 0 . 1 6 3 3 )$ ，giving a Kaplan-Yorke dimension of 2.9859.However，all indications are that the orbit eventually comes arbitrarily close to every point in space,as presumably does the repellor. Thus the capacity dimension appears to be exactly 3.0 for both the attractor and repellor,which implies that they are multifractal. Indeed a calculation of the Renyi [1970] dimensions gives approximate values of $D _ { 0 } = 3 . 0 1$ ， $D _ { 1 } = 2 . 9 4$ ， $D _ { 2 } =$ 2.56, $D _ { 3 } = 2 . 2 6$ ， $D _ { 4 } = 2 . 1 2$ . Whether the attractor and repellor actually touch or weave through one another on infinitesimal scales like the odd and even rational numbers is an open and interesting question,although they must coalesce in the $y = 0$ plane. ",
+    "bbox": [
+      515,
+      175,
+      924,
+      431
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Attractors such as this are very different from the vast majority of strange attractors that have been studied in three-dimensional autonomous chaotic systems.These are unbounded,eventually visiting points arbitrarily far from the origin before returning,and they are multifractal with a Kaplan-Yorke dimension only slightly less that 3.0. They are time-reversible, which is unusual for a dissipative system,and their repellor overlaps and is nearly coincident with the attractor,both of which fill the whole of space. ",
+    "bbox": [
+      515,
+      433,
+      924,
+      546
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/f604c5537285561b4ff04accac12ff9c02a2904fe9e3fb62e227fbaa0a231b17.jpg",
+    "image_caption": [
+      "Fig.9.Cross-section of the flow for the Munmuangsaen oscillator in Eq.(9) with $a = 5$ in the $z = 0$ plane showing the chaotic region without any apparent holes. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      579,
+      924,
+      875
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      66,
+      924,
+      77
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1730037-9 ",
+    "bbox": [
+      467,
+      940,
+      536,
+      952
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      332,
+      33,
+      660
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/318fe268ff8f9eba587d69082d2100902f456ee1406903dd2d4fe9173163494a.jpg",
+    "image_caption": [
+      "Fig.10. Probability distribution function for the three variables in Eq.(9) with $a = 5$ showing the positive kurtosis and departure from a Gaussian. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      94,
+      484,
+      394
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      473,
+      487,
+      538
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Since there are no equilibria in the system, the attractor is hidden,which is an odd terminology in this case since the attractor is unbounded and globally attracting with a class la basin (all initial conditions except for a set of measure zero will find the attractor),and every initial condition is so close to the attractor that the separation is unobservable. ",
+    "bbox": [
+      78,
+      539,
+      487,
+      652
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "However, this system is still not a satisfactory model of a thermally-excited harmonic oscillator because the measure is not Gaussian. Figure 10 shows the probability distribution function for the three variables. The departure from a Gaussian is most evident for $P _ { y }$ ，but all three plots have a nonzero kurtosis,which is a measure of the departure of the fourth moment from the expected normal distribution [Press et al.，1992]. The positive kurtosis means the attractor is leptokurtic with enhanced tails relative to a Gaussian. ",
+    "bbox": [
+      80,
+      653,
+      487,
+      829
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "By adding a $- b z$ term to the $\\dot { z }$ equation in Eq.(9), the dimension of the strange attractor can be continuously and monotonically tuned from 3.0 to 2.0 by increasing the value of $b$ for $a = 5$ ，and the predicted behavior has been demonstrated in an electronic circuit [Munmuangsaen et al., 2015]. ",
+    "bbox": [
+      78,
+      830,
+      487,
+      926
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3.3. KBB oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      93,
+      725,
+      110
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In two classic and highly recommended papers, Kusnezov et al. [199o], Kusnezov and Bulgac [1992] describe a general class of thermally-excited oscillators,one especially simple example of which is ",
+    "bbox": [
+      515,
+      117,
+      924,
+      182
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/dc33e237d1e34b423f0c2a5642e5575b7d533e6a0084fa782abfbac9bde1b0fd.jpg",
+    "text": "$$\n\\begin{array} { l } { { \\dot { x } = y , } } \\\\ { { } } \\\\ { { \\dot { y } = - x - a z ^ { 3 } y , } } \\\\ { { } } \\\\ { { \\dot { z } = y ^ { 2 } - a , } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      656,
+      193,
+      780,
+      269
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "which differs from the Nosé-Hoover system only in the use of $z ^ { 3 }$ rather than $z$ in the damping factor. ",
+    "bbox": [
+      515,
+      278,
+      926,
+      310
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "A cross-section of the chaotic region in the $z ~ = ~ 0$ plane for $ { \\boldsymbol { a } } \\ = \\ 1$ is shown in Fig. 11. It is nearly ergodic,but at least twenty small quasiperiodic holes are evident.Presumably there are infinitely many ever smaller such holes in a fat fractal distribution. Since the Lyapunov exponents are $( 0 . 0 9 0 3 , 0 , - 0 . 0 9 0 3 )$ ,the system is nonuniformly conservative with a Kaplan-Yorke dimension of 3.0 and a chaotic sea, but no attractors. ",
+    "bbox": [
+      517,
+      310,
+      924,
+      455
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Furthermore,the probability distribution for $x$ and $y$ shown as black curves in Fig. 12 closely approximate the Gaussian shown in red,although small departures are evident,and the distribution is slightly leptokurtic. However, the average $\\left. y ^ { 2 } \\right.$ is accurately 1.0.Had the system been ergodic, the expected distribution would be $\\exp ( - { \\textstyle \\frac { 1 } { 2 } } x ^ { 2 } - { \\textstyle \\frac { 1 } { 2 } } y ^ { 2 } -$ ${ \\scriptstyle { \\frac { 1 } { 4 } } } z ^ { 4 }$ ),and so the deviation of $P _ { z }$ from $\\exp ( - \\frac { 1 } { 2 } z ^ { 2 } )$ is understandable. ",
+    "bbox": [
+      515,
+      456,
+      924,
+      552
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/960b3a164bd2cb0c23e8c5578cfc055471d97bb695b2ba592339cac6b1ff4d9c.jpg",
+    "image_caption": [
+      "Fig.11.Cross-section of the flow for the KBB oscillator in Eq.(10) with $a = 1$ in the $z = 0$ plane showing the chaotic sea with at least twenty small quasiperiodic holes. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      520,
+      576,
+      924,
+      875
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "J.C. Sprott & W. G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      76
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1730037-10 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      335,
+      33,
+      659
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/751f1c7433f4ea0b2d7457cd97b8a4a5e5186626909d13a62955bde5244ebf6a.jpg",
+    "image_caption": [
+      "Fig.12.Probability distribution function (black） for the three variables in Eq.（1O) with $a = 1$ showing the departure from a Gaussian (red). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      77,
+      94,
+      482,
+      392
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      465,
+      487,
+      514
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Replacing the $z ^ { 3 }$ damping factor in Eq. (10) with other odd powers of $z$ reduces the ergodicity. Otherwise, the system shares the same properties as the Nosé-Hoover oscillator in that it has no equilibria or attractors,and it is unbounded and timereversible with island chains and knots. ",
+    "bbox": [
+      78,
+      516,
+      487,
+      612
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3.4. Nosé-Hoover oscillator with $^ { a }$ temperature gradient ",
+    "text_level": 1,
+    "bbox": [
+      77,
+      637,
+      438,
+      670
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Nosé-Hoover oscillator was designed to model a simple harmonic oscillator in equilibrium with a heat bath at constant temperature,and the result was a nonuniformly conservative system with mostly quasiperiodic orbits surrounded by a chaotic sea. One can also consider nonequilibrium cases in which the“temperature” $T ( x )$ is a function of position, ",
+    "bbox": [
+      78,
+      677,
+      487,
+      805
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/7b4e08fd08486c7f2a976ce4e8d933c7ac5e62b0039db1fed506427996df26f2.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - z y , } \\\\ { \\dot { z } = y ^ { 2 } - T ( x ) . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      219,
+      814,
+      340,
+      889
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Much work has been done with the case $T ( x ) =$ $1 + \\epsilon \\operatorname { t a n h } x$ , representing a temperature that varies from $1 - \\epsilon$ to $1 + \\epsilon$ with a maximum gradient of $\\epsilon$ at $x \\ = \\ 0$ [Hoover,2007].A similar，somewhat less physical, but mathematically simpler case has a parabolic temperature profile, $T ( x ) \\ = \\ 1 + a x ^ { 2 }$ [Sprott, 2015]. ",
+    "bbox": [
+      78,
+      895,
+      485,
+      926
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      924,
+      174
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Both cases are nonuniformly conservative with nested tori for some initial conditions intertwined with a dissipative region containing a strange attractor for other initial conditions. Figure 13 shows one such torus for $T ( x ) = 1 + 0 . 2 x ^ { 2 }$ with initial conditions $( 0 , 2 . 2 , 0 )$ and a strange attractor with initial conditions $( 0 , 6 , 0 )$ . The plot resembles the one in Fig.4 but with the important difference that Fig. 4 is nonuniformly conservative for all initial conditions and has a chaotic sea rather than a strange attractor as in Fig. 13. Figure 14 shows a cross-section view in the $z = 0$ plane of the complicated structure of nested tori and the intertwined strange attractor. ",
+    "bbox": [
+      515,
+      175,
+      924,
+      400
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Lyapunov exponents for the strange attractor are $( 0 . 0 0 6 6 , 0 , - 0 . 0 0 8 2 )$ giving a Kaplan-Yorke dimension of 2.8042. The Lyapunov exponents for the two-dimensional tori are $( 0 , 0 , 0 )$ . There are no equilibrium points,and so the attractor is hidden with a class 1b basin of attraction. ",
+    "bbox": [
+      515,
+      401,
+      924,
+      497
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Despite the dissipative nature of the strange attractor, the system is time-reversible under the transformation $( x , y , z , t ) \\to ( x , - y , - z , - t )$ ，which implies that there is an attractor/repellor pair that exchange roles when time is reversed as was the case with the Munmuangsaen oscillator. This is evident from the slight right/left asymmetry in Fig.14 as well as the fact that the “center of mass” of the attractor and repellor are separated by a tiny distance of $\\Delta z = 2 \\langle z \\rangle \\approx 0 . 0 0 3 2$ . ",
+    "bbox": [
+      515,
+      498,
+      924,
+      529
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/1c657d47b3df8a82321b14bfd3191d3f9f358ab224ab6ba36442c5717d50e923.jpg",
+    "image_caption": [
+      "Fig.13. Coexisting torus and strange attractor for the nonequilibrium Nosé-Hoover oscillator in Eq.（11） with $T ( x ) = 1 + 0 . 2 x ^ { 2 }$ . Initial conditions for the torus are $( 0 , 2 , 0 )$ and for the sea are $( 0 , 5 , 0 )$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      561,
+      924,
+      861
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1730037-11 ",
+    "bbox": [
+      463,
+      940,
+      537,
+      952
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      64,
+      924,
+      77
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      663
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/18cd2fc8f46ee01307b874a5153e5e92f8439429a012de5a0d81012f50fa497d.jpg",
+    "image_caption": [
+      "Fig.14.Cross-section in the $z = 0$ plane for the nested conservative tori and strange attractor for the Nosé-Hoover oscillator with a temperature gradient in Eq.(11) with $T ( x ) =$ $1 + 0 . 2 x ^ { 2 }$ . The plot has inversion symmetry under the transformation $( x , y , 0 ) \\to ( - x , - y , 0 )$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      96,
+      485,
+      395
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      506,
+      487,
+      635
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Time-reversibility has been a recurrent theme in physics with thousands of papers since Boltzmann [1872] published his famous“H Theorem.” This theorem shows that the effect of uncorrelated time-reversible gas-phase collisions isthe irreversible increase of the entropy. Boltzmann's entropy is a low-density approximation to Gibbs' 1902 entropy, which Liouville's theorem shows is constant for isolated systems. Dynamical systems similar to this one [Holian et al., 1987] revealed the existence of attractor/repellor pairs. The dynamics avoids the time-reversed repellor trajectory which satisfies exactly the same motion equations but is unstable,with a positive sum of Lyapunov exponents.In statistical mechanics, the thermodynamic entropy, which is obtained by integrating reversible heat transfers，is shown to be equal to Gibbs' entropy, the logarithm of the phase volume,and like Boltzmann's entropy, it is a measure of random-ness. This same relationship holds for many forms of thermostat controls including Nosé-Hoover [Patra et al., 2016; Ramshaw, 2017]. ",
+    "bbox": [
+      78,
+      635,
+      487,
+      926
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      926,
+      159
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "3.5. 0532 thermostated ergodic oscillator ",
+    "text_level": 1,
+    "bbox": [
+      515,
+      179,
+      834,
+      213
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Of the several thermostated oscillators that appear to be fully ergodic [Hoover et al.,2016b，2016c; Patra et al.,2016],a three-dimensional one in the form of Eq. (1) is given by ",
+    "bbox": [
+      515,
+      220,
+      926,
+      284
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/db900282a582fb9628019e905a420a56ef6728c406decbddd5f971efd8a43e20.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - z ( a + b y ^ { 2 } ) y , } \\\\ { \\dot { z } = a ( y ^ { 2 } - 1 ) + b ( y ^ { 2 } - 3 ) y ^ { 2 } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      604,
+      290,
+      825,
+      366
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "This algebraically inelegant system attempts to control simultaneously the second and fourth moments of $y$ such that $\\langle y ^ { 2 } \\rangle = 1$ and $\\langle y ^ { 4 } \\rangle ~ = ~ 3$ as required for a Gaussian distribution of unit variance. ",
+    "bbox": [
+      515,
+      371,
+      926,
+      451
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Most choices of $a$ and $b$ leave small holes in the distribution,but some values such as $a = 0 . 0 5$ ， $b = 0 . 3 2$ appear to be ergodic as the cross-section of the chaotic region at $z = 0$ in Fig.15 suggests. The probability distribution of the four variables after a time of $3 \\times 1 0 ^ { 8 }$ agrees with the expected distribution $\\begin{array} { r } { P ( x , y , z ) = \\exp ( - { \\frac { 1 } { 2 } } x ^ { 2 } - { \\frac { 1 } { 2 } } y ^ { 2 } - { \\frac { 1 } { 2 } } z ^ { 2 } ) } \\end{array}$ to a precision of a few times $1 0 ^ { - 3 }$ in the first six moments of the distribution. ",
+    "bbox": [
+      517,
+      452,
+      926,
+      548
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/cf90b4af08a63e3d25b21b24ba69b7cc9f6fb7fb383b02a1851571019755d9ce.jpg",
+    "image_caption": [
+      "Fig.15.Cross-section of the flow for the O532 ergodic oscillator in Eq.(12) with $a = 0 . 0 5$ and $b = 0 . 3 2$ in the $z = 0$ plane showing the chaotic sea with no evident quasiperiodic holes. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      524,
+      568,
+      921,
+      861
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "J.C. Sprott & W. G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      76
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1730037-12 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      332,
+      33,
+      662
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      93,
+      487,
+      145
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Otherwise，the system resembles the Nosé- Hoover oscillator in Eq. (8) with an absence of equilibrium points and an unbounded, nonuniformly conservative,time-reversible chaotic sea. The Lyapunov exponents are $( 0 . 1 4 4 1 , 0 , - 0 . 1 4 4 1 )$ ，and the standard deviation of the largest Lyapunov exponent along the orbit shown as color in Fig. 15 is 1.4650. This system is relatively stiff, requirig a small integration step size or an adaptive integrator for accurate calculations. An extension of Eq. (12) that includes control of the sixth moment of the distribution also appears to be ergodic,but it is even more stiff. ",
+    "bbox": [
+      78,
+      148,
+      487,
+      355
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "4．Four-Dimensional Systems ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      380,
+      373,
+      396
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "4.1. MKT doubly-thermostated ergodic oscillator ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      403,
+      398,
+      437
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Although there are three-dimensional oscillators that appear to be fully ergodic, they are relatively complicated and require a careful choice of parameters.However,robust ergodic oscillators are more easily constructed in four dimensions, one example of which is a doubly-thermostated oscillator [Martyna et al., 1992], ",
+    "bbox": [
+      78,
+      443,
+      487,
+      557
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/35fbb639aeb4d3974910a10630ddb9bbf6f43ca504e0fd116fbb1bbc9d48ec88.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x - u y , } \\\\ { \\dot { u } = \\displaystyle \\frac { y ^ { 2 } } { a } - 1 - v u , } \\\\ { \\dot { v } = u ^ { 2 } - 1 . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      211,
+      562,
+      348,
+      678
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Think of the $\\dot { v }$ equation as a thermostat that regulates the temperature of the $\\dot { u }$ thermostat at $\\langle u ^ { 2 } \\rangle =$ 1 which in turn maintains the temperature of the harmonic oscillator at $\\langle y ^ { 2 } \\rangle = a$ ",
+    "bbox": [
+      78,
+      684,
+      487,
+      749
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This system has spiral saddle points at $( 0 , 0 ,$ $\\pm 1 , \\mp 1 )$ with eigenvalues( $- 0 . 5 \\pm 0 . 8 6 6 0 3 i , 0 . 5 \\pm$ 1.32288i）and $( 0 . 5 \\pm 0 . 8 6 6 0 3 i , - 0 . 5 \\pm 1 . 3 2 2 8 8 i )$ ， respectively,embedded in a chaotic sea with no apparent quasiperiodic solutions and their telltale tori. Since the system is ergodic with two unstable equilibrium points, there are homoclinic and heteroclinic orbits. The Lyapunov exponents for $a = 1$ are $( 0 . 0 6 6 5 , 0 , 0 , - 0 . 0 6 6 5 )$ ） so that the dimension of the chaotic sea is exactly 4.O,and the standard deviation of the local largest Lyapunov exponent along the orbit is O.6720. The probability distribution of the four variables after a time of $1 \\times 1 0 ^ { 8 }$ agrees with the expected distribution $P ( x , y , u , v ) =$ $\\begin{array} { r } { \\exp ( - \\frac { 1 } { 2 a } x ^ { 2 } - \\frac { 1 } { 2 a } y _ { . } ^ { 2 } - \\frac { 1 } { 2 a } u ^ { 2 } - \\frac { 1 } { 2 a } v ^ { 2 } ) } \\end{array}$ to a precision of a few times $1 0 ^ { - 4 }$ in the first six moments of the distribution. ",
+    "bbox": [
+      78,
+      749,
+      487,
+      926
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      924,
+      190
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This system is a robust example of a nonuniformly conservative simple harmonic oscillator excited by random thermal fluctuations whose orbit visits the neighborhood of every point in phase space with the probability distribution predicted by Gibbs [1902] but with purely deterministic chaotic dynamics. Since the phase space is fourdimensional, it is difficult to show the orbit,but Fig. 16 shows one such projection,which is typical of all others. ",
+    "bbox": [
+      515,
+      192,
+      924,
+      351
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "It is also difficult to show a cross-section in the usual way. However， Fig. 17 shows the local largest Lyapunov exponent in a double cross-section at $u = v = 0$ . The figure was produced by starting from points in the $x y$ -plane at $( x , y , 0 , 0 )$ and following the orbit backward in time for 2OO time units while storing the coordinates for each iterate. Then time is reversed, retracing the orbit using the stored values while calculating the local Lyapunov exponent,and plotting the value when it returns to the starting point. This procedure is necessary to avoid Lyapunov instability in the calculated orbit and to allow time for the expansion vector to orient itself into the direction of maximum expansion.As a bonus, it allows plotting values at the nullclines and far from the origin that are otherwise rarely visited by the orbit.However, the procedure would obscure any quasiperiodic regions,although the evidence is strong than none exist.The detailed structure of the plot is remarkable for such a simple system with such a smooth measure,and even more remarkable is the fact that the time-reversed local Lyapunov exponents look completely different despite the forward/backward symmetry of the equations and the global Lyapunov exponents,whose explanation is the subject of the 2017 Ian Snook Prize [Hoover & Hoover, 2017]. ",
+    "bbox": [
+      515,
+      354,
+      924,
+      529
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/bf22e5abfbb0fcb20fdab4bfe73315c1b342997697c3c787947762400c2dd2dd.jpg",
+    "image_caption": [
+      "Fig.16.Chaotic orbit for the MKT oscillator in Eq. (13) with $ { \\boldsymbol { a } } \\ = \\ 1$ .The two embedded equilibrium points at $( x , y , u ) = ( 0 , 0 , \\pm 1 )$ are shown as blue dots.The orbit fills all of space,and other projections are similar. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      520,
+      561,
+      922,
+      861
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      64,
+      924,
+      77
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1730037-13 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      662
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/000fb001dc7c47675b657547ec9d5d7fabbe318e5f01ca1d8887e67b97c2cd70.jpg",
+    "image_caption": [
+      "Fig.17. Double cross-section of the flow for the MKT ergodic oscillator in Eq.(13) with $a = 1$ at the intersection of the $u = 0$ and $v = 0$ planes showing with color the local largest Lyapunov exponent in the chaotic sea. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      82,
+      97,
+      484,
+      395
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      480,
+      487,
+      738
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.2. Sinusoidally-forced parametric oscillator ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      763,
+      438,
+      795
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Another four-dimensional system in the form of Eq. (1) is given by ",
+    "bbox": [
+      78,
+      802,
+      489,
+      834
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/736ddaf9d9ced6b24527b6eb88fca1f041ff838e4c25dbf195170d59324e5522.jpg",
+    "text": "$$\n\\begin{array} { c } { { \\dot { x } = y , \\quad \\dot { y } = - x + ( 1 - y ^ { 2 } + u ) y , } } \\\\ { { \\dot { u } = v , \\quad \\dot { v } = - \\Omega ^ { 2 } u . } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      145,
+      842,
+      410,
+      887
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "This is a master/slave system in which the last two equations represent a master simple harmonic oscillator with frequency $\\Omega$ ，amplitude $A$ ，and phase $\\phi$ determined by the initial conditions, $A ^ { 2 } =$ $u _ { 0 } ^ { 2 } + v _ { 0 } ^ { 2 }$ ， $\\phi = \\arctan ( u _ { 0 } / v _ { 0 } )$ , and the first two equa-tions are the slave oscillator sinusoidally forced by $u = - A \\sin ( \\Omega t - \\phi )$ . The slave is a Rayleigh oscillator that produces a limit cycle in the absence of the uy unidirectional coupling term.Without loss of generality, $t = 0$ can be chosen so that $\\phi = 0$ ， which reduces Eq. (14) to a two-dimensional nonautonomous system, ",
+    "bbox": [
+      78,
+      895,
+      487,
+      926
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      93,
+      924,
+      254
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/bb727e2be68556f4ec245d3a012873e36fe556f8187207d97c469360bbad6497.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x + ( 1 - y ^ { 2 } + A \\sin { \\Omega t } ) y , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      592,
+      260,
+      840,
+      306
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "or $\\ddot { x } = - x + ( 1 - y ^ { 2 } + A \\sin { \\Omega t } ) y$ It is often possible to remove a parameter from a dynamical system by adding an extraneous equation for an additional variable whose initial condition plays the role of the parameter [Sprott & Li, 2014]. ",
+    "bbox": [
+      515,
+      311,
+      924,
+      394
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "This system is the temporally-periodic damping analog of the spatially-periodic damping case in Eq. (6). It is a dissipative system with quasiperiodic,periodic,and chaotic attractors.It has a single unstable equilibrium at the origin,and so the attractors are self-excited. Typical attractors for $\\Omega \\ = \\ 0 . 8$ are shown in Fig. 18. The torus and strange attractor are symmetric about $x = 0$ . The case at $A = 1 . 5$ shows a symmetric pair of coexisting limit cycles. The case at $A \\ = \\ 2 . 2 2$ shows two symmetric coexisting limit cycles. The Lya-punov exponents for the four cases in the figure are $( 0 , 0 , - 1 . 0 6 1 2 )$ for $A = 1 . 0$ ， $( 0 , - 0 . 0 7 9 2 , - 1 . 1 5 5 5 )$ for $A = 1 . 5$ ， $( 0 . 0 3 2 7 , 0 , - 1 . 0 9 4 5 )$ for $A = 2 . 0$ ，and $( 0 , - 0 . 0 0 3 5 , - 1 . 2 3 1 9 )$ and $( 0 , - 0 . 0 1 0 2 , - 1 . 3 3 5 8 )$ for the coexisting limit cycles at $A = 2 . 2 2$ .The limit cycles are plotted in red and blue rather than according to the local Lyapunov exponent for clarity of viewing. Note that Eq. (15) has inversion symmetry since the equations are unchanged under the transformation $( x , y ) \\to ( - x , - y )$ , and so the solutions should either have that same symmetry,or there is symmetry breaking with a symmetric pair of solutions as for the case with $A = 1 . 5$ ",
+    "bbox": [
+      515,
+      396,
+      924,
+      780
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Viewed in reverse， any $N$ th-order nonautonomous system (one in which $t$ appears explicitly on the right-hand side) such as Eq. (15) can be converted into an $( N + 1 )$ order autonomous system by defining a new variable $z \\ = \\ t$ governed by the equation $\\dot { z } = 1$ . For some purposes,especially when $t$ enters in the argument of a periodic function such as $\\sin \\Omega t$ ，it is more convenient to define the new variable as $z = \\Omega t$ so that Eq. (15) ",
+    "bbox": [
+      517,
+      781,
+      924,
+      926
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "J. C. Sprott & W.G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      77
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1730037-14 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      332,
+      33,
+      660
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/a99c9239abe74454c86faf9bb50ec98106fa0cc10b72a8ba05cf5c1e3c04ea28.jpg",
+    "image_caption": [
+      "Fig.18.Attractors for the sinusoidally-forced oscillator in Eq.(15) with $\\Omega = 0 . 8$ for various values of $A$ showing quasiperiodic （ $A = 1 . 0$ )，periodic ( $A = 1 . 5$ and $A = 2 . 2 2$ )，and chaotic ( $A = 2 . 0$ ）solutions.The periodic cases have a symmetric pair of limit cycles shown in red and blue. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      175,
+      94,
+      829,
+      571
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "becomes ",
+    "bbox": [
+      78,
+      652,
+      147,
+      665
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/94a545a6e56e514ab99ecdc1cddccc30c76a42ab348cccc1963229ce4e451b4c.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x + ( 1 - y ^ { 2 } + A \\sin z ) y , } \\\\ { \\dot { z } = \\Omega . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      162,
+      679,
+      396,
+      750
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Then $z$ can be interpreted as the phase of the forc-ing function, and it always has a period of $2 \\pi$ independent of $\\Omega$ ，and thus $z$ can be replaced by ( $z$ mod $2 \\pi$ ）after each integration time step in order to remain bounded. ",
+    "bbox": [
+      78,
+      765,
+      485,
+      845
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Sinusoidally-forced limit cycle oscillators have been extensively studied, but the unusual feature of this system is that the forcing is applied to the damping term. It is an example of parametric forc-ing since a parameter of the system (the damping coefficient）is forced. Such a situation would be unusual in a mechanical system,but it can be easily modeled in an electronic circuit.It exhibits phenomena similar to other forced limit cycle oscillators, including chaos, frequency (or mode） locking (where the slave oscillates at the frequency of the master), Arnold tongues (triangular regions of $( A , \\Omega )$ space in which the locking occurs),and hysteresis (bifurcations occurring at different values of the parameter depending on whether the parameter is increasing or decreasing). An example of hysteresis is the two limit cycles at $A = 2 . 2 2$ in Fig. 18 that coexist over a narrow range of $A$ . These behaviors have been well studied and thus will not be further described here except to note that they also occur for systems in the form of Eq. (1) with parametric forcing. ",
+    "bbox": [
+      78,
+      846,
+      487,
+      926
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      652,
+      924,
+      926
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      66,
+      924,
+      77
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1730037-15 ",
+    "bbox": [
+      463,
+      941,
+      539,
+      952
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      664
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "4.3. Symmetric parametrically-coupled oscillators ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      93,
+      358,
+      144
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "There is a large literature and considerable current interest in systems that involve coupled oscillators and their synchronization [Strogatz, 20o3]. Many natural systems such as fireflies, flocking birds,and circadian rhythms display synchrony,and it was noted by Christian Huygens in 1665 that the pendulums of two clocks mounted on a wall begin to oscillate together.Perhaps the simplest mathematical example in the form of Eq. (1） that involves two identical simple harmonic oscillators coupled through their damping terms is ",
+    "bbox": [
+      80,
+      152,
+      487,
+      329
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/e5147335ec3379afc5ef19b0b75fa23b2a9978dcf63bcf2c0d78a919dbd18f9b.jpg",
+    "text": "$$\n\\begin{array} { r } { \\dot { x } = y , \\quad \\dot { y } = - x - u y , } \\\\ { \\dot { u } = v , \\quad \\dot { v } = - u - x v . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      189,
+      336,
+      370,
+      379
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "One could add a parameter to control the cou-pling strength, but since the individual oscillators are conservative, it is just as easy to control the coupling by changing the initial conditions which change the amplitude of the oscillation and hence the strength of the nonlinear coupling. ",
+    "bbox": [
+      78,
+      385,
+      487,
+      416
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      94,
+      924,
+      158
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "This system has a trivial synchronized periodic solution with $x = u$ and $y = v$ when the two oscillators are started with the same initial conditions. However, the synchronized solution is unstable,and even a slight perturbation causes the difference in the oscillations to grow. For small amplitude oscillations, the coupled system is nonuniformly conservative,and the energy sloshes back and forth between the two oscillators, conserved only on average,and forming a torus in the four-dimensional state space as shown in Fig. 19 with initial conditions $( 0 , 0 . 6 , 0 , - 0 . 6 )$ ",
+    "bbox": [
+      517,
+      159,
+      924,
+      351
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Larger values of the initial conditions such as $( 0 , 0 . 8 , 0 , - 0 . 8 )$ cause mode locking and a single periodic orbit，and even larger initial conditions such as $( 0 , 0 . 9 , 0 , - 0 . 9 )$ lead to unbounded orbits. ",
+    "bbox": [
+      515,
+      352,
+      924,
+      416
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/afb3d79e45c1073a9e1831241d43d879e55bebd92df42075889e0c65025c62ab.jpg",
+    "image_caption": [
+      "Fig.19.Tori for the symmetric parametrically-coupled oscillators in Eq.(17) with initial conditions $( 0 , 0 . 6 , 0 , - 0 . 6 )$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      195,
+      445,
+      807,
+      897
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "J. C. Sprott & W. G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      77
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1730037-16 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      662
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "This is an example of a system that is (nonuniformly） conservative for some initial conditions but unbounded for others.Apparently no chaotic solutions exist.The equilibrium at the origin has eigenvalues $( 0 , \\pm i , 0 , \\pm i )$ and thus is a center for the two oscillators.If either oscillator is started at the origin,it will forever remain there,and the other will oscillate sinusoidally without damping independent of its initial conditions.Altering the frequency of one of the oscillators can produce long-duration chaotic transients, but apparently not a chaotic sea. ",
+    "bbox": [
+      78,
+      94,
+      487,
+      271
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4.4. Asymmetric parametrically-coupled oscillators ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      302,
+      358,
+      352
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "To obtain robust chaotic oscillations from two oscillators coupled through their damping, it is apparently necessary that they have dissipation and different natural frequencies. One such example is two coupled Rayleigh oscillators, ",
+    "bbox": [
+      78,
+      360,
+      487,
+      423
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      93,
+      743,
+      109
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_7932805/auto/images/9faf2f0f0d5c3316c6ce595794eb41774d21aa44abc832b185b63562ae8b4901.jpg",
+    "text": "$$\n\\begin{array} { l } { \\dot { x } = y , } \\\\ { \\dot { y } = - x + ( 1 - { y ^ { 2 } } + a u ) y , } \\\\ { \\dot { u } = v , } \\\\ { \\dot { v } = - \\Omega ^ { 2 } u + ( 1 - { v ^ { 2 } } + a x ) v . } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      604,
+      120,
+      830,
+      223
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "For $a = 0 . 8$ and $\\Omega = 0 . 8$ the strange attractor shown in Fig. 2O results. Initial conditions are not critical because the attractor has a class la basin of attraction，but the regions of parameter space that admit chaos are relatively small with most solutions periodic or quasiperiodic and behavior similar to the periodically-forced case in Eq. (15). The attractor is self-excited with Lyapunov exponents $( 0 . 0 1 4 6 , 0 , - 0 . 6 2 3 6 , - 2 . 1 6 9 9 )$ ，and a Kaplan-Yorke dimension of 2.0235. The equilibrium at the origin is an unstable focus with eigenvalues ( $0 . 5 , \\pm 0 . 8 6 6 0 3 i , 0 . 5 , \\pm 0 . 6 2 4 5 0 i$ ). The system resembles countless others that have been described in the literature over the past 5O years and thus is unremarkable. ",
+    "bbox": [
+      515,
+      231,
+      924,
+      425
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_7932805/auto/images/9206e6ed25e457cbc4ded6bfcf8ded0a2ddba7408af20bf38142462f351ce82b.jpg",
+    "image_caption": [
+      "Fig. 20.Strange attractor for the asymmetric parametrically-coupled oscillators in Eq.(18) with $a = 0 . 8$ and $\\Omega = 0 . 8$ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      195,
+      447,
+      809,
+      899
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "1730037-17 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      953
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      64,
+      924,
+      77
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      662
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      78,
+      94,
+      487,
+      140
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "5．Discussion and Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      80,
+      162,
+      385,
+      178
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "All the systems considered here are in the form of the damped harmonic oscillator in Eq.(1) with the only difference being in the form of the damping coefficient denoted by $f$ . The various cases are summarized in Table 1. ",
+    "bbox": [
+      78,
+      185,
+      487,
+      264
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "There are many other such cases that could be examined,and likely there are additional phenomena yet to be discovered.It is remarkable that such an enormous variety of behaviors,some familiar and others quite unusual, can be observed in a simple harmonic oscillator when the damping coefficient is allowed to vary in space or time. Nonetheless, such systems are ubiquitous in nature,and so it is important to understand their properties.This paper has examined the mathematically simplest examples that illustrate the diverse behaviors and should serve as a launch pad for more detailed models and studies. ",
+    "bbox": [
+      78,
+      266,
+      487,
+      473
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_7932805/auto/images/7df90a304a8ac17762e6bb0e0ca3f169dd9cdd12efea20a47c6d6f3b7e52c152.jpg",
+    "table_caption": [
+      "Table 1.Summary of the cases considered in this paper. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Equation</td><td>Damping Coefficient</td></tr><tr><td>(2)</td><td>f=0</td></tr><tr><td>(3)</td><td>f=b</td></tr><tr><td>(4)</td><td>f(y)=by²</td></tr><tr><td>(5)</td><td>f(x)=b(x²-1)</td></tr><tr><td>(6)</td><td>f(x)= -bcos x</td></tr><tr><td>(7)</td><td>f(y)=b(y² -1)</td></tr><tr><td>(8)</td><td>f(z)= z,=b(y²-1)</td></tr><tr><td>(9)</td><td>f(z)= z,=lyl-a</td></tr><tr><td>(10)</td><td>f(z)=az³,=y²-a</td></tr><tr><td>(11)</td><td>f(z)=z,=y²-T(x)</td></tr><tr><td>(12)</td><td>f(y,z)= z(a+by²), =a(y²-1) +b(y² -3)y²</td></tr><tr><td>(13)</td><td>f(u)=u,i = -1-vu,i=u² -1</td></tr><tr><td>(14)</td><td>a f(y,u)=y²-1-u,ú= v,i=-²u</td></tr><tr><td>(15)</td><td>f(y,t)=y²-1-AsinΩt</td></tr><tr><td>(16)</td><td>f(y,z)=y²-1-Asinz,=Ω</td></tr><tr><td>(17)</td><td>f(u)=u,i=v,i=-u- xu</td></tr><tr><td>(18)</td><td>f(y,u)=y²-1-au,</td></tr><tr><td></td><td>ú=v,i=-²u-(v²-1-ax)v</td></tr></table>",
+    "bbox": [
+      95,
+      512,
+      479,
+      953
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      93,
+      623,
+      109
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Birkhoff,G.& Rota,G. C. [1978] Ordinary Differential Equations, 3rd edition (Wiley, NY).   \nBoltzmann，L. [1872]“Weitere studien über das warmegleichgewicht unter gasmolekuilen,” Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften 66, 275-370.   \nBuscarino,A.， Fortuna, L.， Frasca,M. & Sciuto,G. [2014] A Concise Guide to Chaotic Electronic Circuits (Springer, Berlin).   \nDettmann,C.& Morriss,G.[1997] “Hamiltonian reformulation and pairing of Lyapunov exponents for Nosé-Hoover dynamics,” Phys. Rev. E 55，3693- 3696.   \nEpstein,I.R.& Pojman, J.A. [1998] An Introduction to Nonlinear Chemical Dynamics: Oscillations, Waves, Patterns, and Chaos (Oxford, NY).   \nFarmer,J.D., Ott, E.& Yorke,J.A.[1983] “The dimen-sion of chaotic attractors,” Physica D 7,153-180.   \nFletcher, N. H. & Rossing, T. D. [1998] The Physics of Musical Instruments, 2nd edition (Springer, NY).   \nGeist,K., Parlitz, U.& Lauterborn,W.[1990] “Com-parison of different methods for computing Lyapunov exponents,” Prog. Theor. Phys. 83, 875-893.   \nGibbs, J.W. [1902] Elementary Principles in Statistical Mechanics (Yale University Press, New Haven, CT); Reprinted [2014] (Dover Publications,Mineola, NY).   \nHeidel, J.& Zhang, F. [1999] “Nonchaotic behaviour in three-dimensional quadratic systems II: The conservative case,”Nonlinearity 12,617-633.   \nHirsch，M. W.， Smale,S.& Devaney,R.L. [2004] Dynamical Systems, and an Introduction to Chaos, 2nd edition (Elsevier/Academic Press,Amsterdam).   \nHolian,B.L.,Hoover, W.G.& Posch,H.A. [1987] “Resolution of Loschmidt's paradox: The origin of irreversible behavior in reversible atomistic dynamics,\" Phys. Rev.Lett. 59,10-13.   \nHoover,W. G. [1985] “Canonical dynamics: Equilibrium phase-space distributions,” Phys. Rev. A 31,1695- 1697.   \nHoover，W.G. [2007] “Nosé-Hoover nonequilibrium dynamics and statistical mechanics,” Mol. Simulat. 33, 13-19.   \nHoover,W. G., Sprott, J. C.& Hoover,C. G. [2016a] “Adaptive Runge-Kutta integration for stiff systems: Comparing Nosé and Nosé-Hoover dynamics for the harmonic oscillator,” Am. J. Phys. 86, 786-794.   \nHoover,W. G.,Sprott, J. C.& Hoover, C.G. [2016b] “Ergodicity of a singly-thermostated harmonic oscil-lator,” Commun. Nonlin. Sci. Numer. Simulat. 32, 234-240.   \nHoover，W.G., Hoover,C.G.& Sprott,J.C.[2016c] “Nonequilibrium systems:Hard disks and harmonic oscillators near and far from equilibrium,” Mol. Simulat. 42, 1300-1316. pairing of Lyapunov exponents in chaotic Hamiltonian dynamic and the 2017 Ian Snook prizes,” Comput. Meth. Sci. Technol. 23, 73-79.   \nJohnson, J. [1928] “Thermal agitation of electricity in conductors,” Phys. Rev. 32, 97-109.   \nKahn, P.B. & Zarmi, Y. [1998] Nonlinear Dynamics: Exploration through Normal Forms (Wiley, NY).   \nKaplan，J.& Yorke,J. [1979] “Chaotic behavior of multidimensional difference equations,” in Functional Differential Equations and Approximation of Fixed Points, Lecture Notes in Mathematics, Vol. 730, eds. Peitgen,H.-O.& Walther,H.-O.(Springer，Berlin, Heidelberg)， pp. 477-482.   \nKrogdahl, W. S. [1955] “Stellar pulsation as a limit-cycle phenomenon,” Astrophys. J. 122, 43-51.   \nKusnezov, D., Bulgac,A.& Bauer, W. [1990] “Canonical ensembles from chaos,” Ann. Phys. 204,155-185.   \nKusnezov, D.& Bulgac,A. [1992] “Canonical ensembles from chaos: Constrained dynamical systems,” Ann. Phys. 214, 180-218.   \nLeonov, G. A.& Kuznetsov, N. V. [2013] “Hidden attractors in dynamical systems.From hidden oscillation in Hilbert-Kolmogorov,Aizerman,and Kalman problems to hidden chaotic attractor in Chua circuits,” Int. J. Bifurcation and Chaos 23,1330002-1-69.   \nMartyna,G. J.,Klein, M. L.& Tuckerman,M. [1992] “Nosé-Hoover chains: The canonical ensemble via continuous dynamics,” J. Chem. Phys. 97, 2635-2643.   \nMischenko,Y.[2014]“Oscillationsinrational economies,” PLoS ONE 9, e87820.   \nMoran，B.， Hoover，W.G.& Bestiale,S. [1987] “Difusion in a periodic Lorenz gas,” J. Stat. Phys. 48, 709-726.   \nMunmuangsaen, D.， Sprott， J. C., Thio,W. J., Buscarino,A.& Fortuna,L. [2015]“A simple chaotic flow with a continuously adjustable attractor dimension,\" Int. J. Bifurcation and Chaos 25,1530036-1-12.   \nMurray, J.D. [1989] Mathematical Biology, 2nd edition (Springer, Berlin).   \nNosé,S. [1984] “A unified formulation of the constant temperature molecular dynamics methods,”J. Chem. Phys. 81, 511-519.   \nNyquist, H.[1928]“Thermal agitation of electric charge in conductors,” Phys. Rev. 32,110-113.   \nPassos, D. & Lopes, I. [2Oo8] “Phase space analysis: The equilibrium of the solar magnetic cycle,” Solar Phys. 250, 403-410.   \nPatra,P. K., Hoover, W. G., Hoover, C. G.& Sprott, J. C.[2016] “The equivalence of dissipation from Gibbs' entropy production with phase-volume loss in ergodic heat-conducting oscillators,” Int. J. Bifurcation and Cha0s 26,1650089-1-11.   \nPerko,L.[1991] Differential Equations and Dynamical Systems, 3rd edition (Springer, NY), pp. 254-257.   \nPoliti,A., Oppo,G. L. & Badii, R. [l986] “Coexistence of conservative and dissipative behavior in reversible dynamical systems,” Phys. Rev. A 33, 4055-4060.   \nPosch，H. A.， Hoover，W. G.& Vesely, F.J.[1986] “Canonical dynamics of the Nosé oscillator: Stability, order,and chaos,” Phys. Rev. A 33, 4253-4265.   \nPress,W. H., Flannery, B. P., Teukolsky, S. A.& Vetterling,W. T. [1992] Numerical Recipes: The Art of Scientific Computing, 2nd edition (Cambridge University Press, Cambridge).   \nRamshaw, J. D. [2017] “Entropy production and volume contraction in thermostated Hamiltonian dynamics,” Phys. Reu. E,submitted for publication.   \nRenyi，A. [1970] Probability Theory (North Holland, Amsterdam).   \nSprott, J. C. [1994] “Some simple chaotic flows,” Phys. Rev. E 50, R647-650.   \nSprott,J. C. [2014] “A dynamical system with a strange attractor and invariant tori,” Phys. Lett. A 378, 1361-1363.   \nSprott，J.C.& Li,C. [2014] “Comment on‘How to obtain extreme multistability in coupled dynamical systems’” Phys. Rev. E 89, 066901.   \nSprott, J. C.， Hoover,W. G.& Hoover,C.G. [2014] “Heat conduction，and the lack thereof,in timereversible dynamical systems: Generalized Nosé- Hoover oscillators with a temperature gradient,” Phys. Rev. E 89,042914.   \nSprott，J. C. [2015] “Strange attractors with various equilibrium types,” Eur. Phys. J. Special Topics 224, 1409-1419.   \nSprott,J. C.& Xiong, A. [2015] “Classifying and quan-tifying basins of attraction,” Chaos 25, 083101.   \nSprott, J. C., Jafari, S., Khalaf, A. J. M. & Kapita-niak,T. [2017] “Megastability: Coexistence of a countable infinity of nested attractors in a periodicallyforcedoscillator with_spatially-eriodic damping,” Eur. Phys. J. Special Topics 226,1979-1985.   \nStrogatz, S. H. [2003] Sync (Hyperion, NY).   \nvan der Pol, B. [1920] “A theory of the amplitude of free and forced triode vibrations,” Radio Rev.1, 701-710, 754-762.   \nvan der Pol,B. [1926] “On relaxation oscillations,” Phil. Mag. Ser. 72, 978-992.   \nvan der Pol, B.& van der Mark,J. [1928] “The heartbeat considered as a relaxation oscillation，and the electrical model of the heart,” Phil. Mag. Ser. 76, 763-775.   \nWang,L.& Yang, X. [2015] “The invariant tori of knot type and the interlinked invariant tori in the Nosé Hoover oscillator,” Eur. Phys. J. B 88,78.   \nWolf,A., Swift, J. B., Swinney, H. L.& Vastano, J. A. [1985]“Determining Lyapunov exponents from a time series,” Phys. Nonlin. Phenom. 16, 285-317. ",
+    "bbox": [
+      514,
+      97,
+      926,
+      918
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "J. C. Sprott & W.G. Hoover ",
+    "bbox": [
+      80,
+      64,
+      279,
+      77
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "730037-18 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      334,
+      33,
+      663
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      75,
+      108,
+      489,
+      915
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      512,
+      98,
+      926,
+      901
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Harmonic Oscillators with Nonlinear Damping ",
+    "bbox": [
+      609,
+      64,
+      924,
+      77
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "1730037-19 ",
+    "bbox": [
+      463,
+      940,
+      539,
+      952
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      335,
+      35,
+      662
+    ],
+    "page_idx": 18
+  }
+]

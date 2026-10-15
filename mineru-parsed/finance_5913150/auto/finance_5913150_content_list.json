@@ -1,0 +1,2240 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/550467a9c5571927298caeca38cc56065ab348a76cc694cb35ffcf1e899935d4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      0,
+      993,
+      547
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "text_level": 1,
+    "bbox": [
+      66,
+      593,
+      895,
+      743
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "PREPARED BY: ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      840,
+      240,
+      857
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dan Doonan and Kelly Kenneally ",
+    "bbox": [
+      89,
+      862,
+      392,
+      880
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "JULY 2021 ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      898,
+      215,
+      917
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      691,
+      896,
+      919,
+      909
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      596,
+      843,
+      673,
+      912
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "NATIONAL INSTITUTE ON Retirement Security ",
+    "bbox": [
+      692,
+      851,
+      921,
+      887
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABOUT THE AUTHORS ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      104,
+      581,
+      137
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Dan Doonan is the executive director of the National Institute on Retirement Security. With the Board of Directors, Doonan leads the organization’s strategic planning, retirement research and education initiatives. Doonan has more than 20 years of experience working on retirement issues from different vantage points including an analyst, consultant, trainer, and a plan trustee. He comes to NIRS after serving as a senior pension specialist with the National Education Association. Doonan began his career at the Department of Labor as a mathematical statistician. He then spent seven years performing actuarial analysis with Buck Consultants in the retirement practice. His experience also includes positions as a research director and labor economist. Doonan holds a B.S. in Mathematics from Elizabethtown College and is a member of the National Academy of Social Insurance. ",
+    "bbox": [
+      68,
+      175,
+      924,
+      327
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Kelly Kenneally has provided communications counsel to the National Institute on Retirement Security since its founding in February 2007. She implements communications programs that provide accurate data and information on retirement policy issues and has authored the NIRS biennial public opinion research studies. Kenneally has more than 25 years of public affairs experience with corporations, government and non-profit organizations. Previously, she served in the White House as associate director of the President’s Commission on White House Fellowships. She has held communications positions at Micron Electronics and MCI WorldCom, and she began her career at the Maryland General Assembly. She holds a B.A. in government and politics from the University of Maryland. ",
+    "bbox": [
+      70,
+      339,
+      915,
+      470
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ACKNOWLEDGEMENTS ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      700,
+      709,
+      738
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The authors are grateful for the comments, advice, and assistance provided by Nicole Dascenzo. The authors also appreciate the work of Greenwald Research, a leading research firm with specialized expertise in the financial services and retirement industries, for their valuable contributions to this project. The polling was overseen by Dr. Brian Perlman, financial services director. He holds a B.A. in Psychology from the State University of New York at Stony Brook, and a Ph.D. in Psychology from the University of New Hampshire. He is a Chartered Financial Consultant (ChFC) and Chartered Life Underwriter (CLU). ",
+    "bbox": [
+      70,
+      761,
+      926,
+      840
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We also extend our thanks to Doug Kincaid and Caroline Fauquier at Greenwald Research for their valuable contributions to this project. Kincaid is managing director at Greenwald Research, specializing in retirement and financial services. His work focuses on retirement savings and retirement income studies for many of the nation’s leading financial services companies and trade associations. He holds a B.A. in Sociology from the University of North Carolina and an M.A. in Sociology from Indiana University. Caroline Fauquier serves as a director, specializing in investor and participant research to examine investment knowledge, needs, and relationship with financial professionals. She holds her B.A. in government and politics from the University of Maryland. ",
+    "bbox": [
+      70,
+      853,
+      929,
+      965
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      70,
+      40,
+      573,
+      54
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "EXECUTIVE SUMMARY ",
+    "text_level": 1,
+    "bbox": [
+      71,
+      104,
+      581,
+      137
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The ongoing COVID-19 pandemic has presented extraordinary health and economic challenges across the globe, triggering yet another deep economic crisis. While the availability of several vaccines in late 2020 has begun to alleviate health and economic issues, the economic fallout from the pandemic may create substantial uncertainty about financing retirement that could trigger Americans to work longer or rethink retirement. Even before the pandemic, many workers still were recovering financially from previous economic downturns. ",
+    "bbox": [
+      71,
+      176,
+      488,
+      338
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Simultaneously, the past several decades have seen dramatic changes to the U.S. retirement system. A broad body of research finds that most Americans are not on track for a secure retirement. ",
+    "bbox": [
+      70,
+      351,
+      488,
+      414
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Different generations face distinct challenges when it comes to retirement. The Silent Generation had broad access to defined benefit pension plans, but faces growing health and long-term care expenses in retirement. Baby Boomers are transitioning into or approaching retirement and a large share are expected to face financial hardship in retirement. Generation X was the first generation with 401(k)s as their primary retirement vehicle, and also face high expenses as the “sandwich generation.” And Millennials face a deeply troubling retirement outlook stemming from factors like depressed wages, high college debt, and the lack of participation in employer retirement plans. Further complicating retirement is growing financial asset inequality among Americans, with inequality growing across generations. ",
+    "bbox": [
+      70,
+      428,
+      490,
+      669
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Against this backdrop, this issue brief examines national sentiment of various generations about retirement, each of which is face differing circumstances. This research finds that: ",
+    "bbox": [
+      509,
+      176,
+      929,
+      239
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Millennials and Generation X are most concerned about the impacts of COVID-19 on their retirement. Across generations, most of those who are concerned about the impacts of the pandemic plan to delay their retirement.   \nThere is generational agreement that the U.S. faces a retirement crisis, with Millennials and Generation X most pessimistic about retirement.   \nThere is broad support across generations for Social Security, including support for increasing contributions and expanding benefits.   \nAll generations have favorable views of defined benefit pensions, with Millennials holding the most favorable views. There is wide agreement generationally that pensions are better than 401(k) plans for providing retirement security, and that everyone should have a pension. ",
+    "bbox": [
+      522,
+      253,
+      929,
+      561
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      40,
+      166,
+      53
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      918,
+      42,
+      928,
+      54
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      106,
+      431,
+      137
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The ongoing COVID-19 pandemic has presented extraordinary health and economic challenges across the globe, triggering yet another deep economic crisis. In the U.S., the arrival of COVID-19 triggered a largescale economic shutdown in early 2020 to help stem the spread of coronavirus. The pandemic and shutdown has resulted in deep economic hardship, job losses and high unemployment. The availability of several vaccines in late 2020 has begun to alleviate health and economic issues, with cases and deaths declining and workplaces re-opening. ",
+    "bbox": [
+      71,
+      178,
+      488,
+      339
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The economic fallout from the pandemic is impacting various workers differently and may create substantial uncertainty about retirement that could trigger Americans to work longer or rethink retirement altogether.1 Even before the pandemic, many workers were still recovering financially from the Great Recession.2 Unfortunately, working longer is often not a choice for individuals, as 52 percent of workers retiring from 2008 to 2014 found out the hard way.3 ",
+    "bbox": [
+      71,
+      352,
+      490,
+      496
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In terms of economic recovery, what is emerging is a two-tiered, “K-shaped” recovery with divergent outcomes across society. Those on the upward trajectory of the K include workers who can do their jobs remotely and have felt little economic pain, even putting disposable income to work and realizing gains from the resilient equity markets. In contrast, those working in service industries or for small businesses are experiencing real economic fallout. These workers are on the lower leg of the K. Moreover, those in the lower half of the wealth spectrum have nearly no net worth and lack savings to get them through tough times. Essentially, Americans who were just getting by on the margins in 2020 are more likely to find themselves in a deeper hole.4 And this likely will have deep impacts on retirement savings. ",
+    "bbox": [
+      71,
+      508,
+      490,
+      751
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "At the same time, the past several decades have seen dramatic changes to the U.S. retirement system that have undermined retirement for large swaths of the workforce. Today, much of the workforce lacks an employersponsored retirement plan, fewer workers have stable and secure defined benefit pensions, while 401(k)-style defined contribution individual accounts provide lower savings and protections. Also, increases to the Social Security retirement age translate into income cuts in retirement.5 ",
+    "bbox": [
+      71,
+      763,
+      488,
+      909
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "As a result, most Americans are not on track for a secure retirement.6 ",
+    "bbox": [
+      509,
+      178,
+      928,
+      208
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "When looking across generations, the Silent Generation is likely the last generation to have broad access to defined benefit pension plans that typically provide stable and secure lifetime income. But this generation tends to be overly optimistic about their Social Security benefits and retirement savings, while underestimating growing postretirement health and long-term care expenses. Baby Boomers are transitioning into or approaching retirement. Combined with the impact of the 2008 financial crisis and COVID-19, many Boomers are expected to face financial hardship in retirement. Generation X was the first generation to mostly enter the workforce after the shift from pensions to $4 0 1 ( \\mathrm { k } ) \\mathrm { s }$ in the private sector, facing the inefficiencies and struggles associated with do-it-yourself retirement plans. While many Gen Xers are at the peak of their earning years, this “sandwich generation” is dealing with high expenses of college-aged children and supporting aging parents while trying to save for retirement. And Gen X has lived through multiple economic downturns, all of which impact employment and retirement readiness.7 ",
+    "bbox": [
+      509,
+      220,
+      928,
+      544
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Regarding Millennials, research finds a deeply troubling retirement outlook. A recent analysis found that most Millennials have nothing saved for retirement, and those who are saving aren’t saving nearly enough. Many factors are contributing to this generation’s retirement savings challenges – from depressed wages, high college debt, and the lack of eligibility to participate in employer retirement plans. More specifically, 66 percent of working Millennials had nothing saved for retirement.8 ",
+    "bbox": [
+      511,
+      558,
+      928,
+      702
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Further complicating retirement is that financial asset inequality among Americans continues to increase, and the inequality is consistent across generations. This wealth inequality, combined with dangerously low retirement savings among most households, poses a significant threat to retirement for working Americans. Recent research finds that from 2004 to 2016, the share of financial assets owned by the top 25 percent of Baby Boomer households grew from 86 percent to 91 percent. Meanwhile, the share of assets owned by the bottom 50 percent of Baby Boomer households shrank from three percent in 2004 to below two percent in 2016. Among Generation X households, the wealthiest 25 percent owned 87 percent of financial assets in 2016. Millennials in 2016 reached a comparable degree of financial asset concentration, with 85 percent of financial assets owned by the wealthiest 25 percent.9 ",
+    "bbox": [
+      511,
+      714,
+      928,
+      909
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      71,
+      40,
+      573,
+      53
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      915,
+      42,
+      926,
+      54
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      71,
+      82,
+      490,
+      145
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Against this backdrop, this issue brief examines national sentiment of various generations toward retirement, each of which is face differing circumstances. This research finds that: ",
+    "bbox": [
+      71,
+      157,
+      490,
+      220
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Millennials and Generation X are most concerned about the impacts of COVID-19 on their retirement. Across generations, most of those who are concerned about the impacts of the pandemic plan to delay their retirement. ",
+    "bbox": [
+      84,
+      233,
+      490,
+      314
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There is generational agreement that the U.S. faces a retirement crisis, with Millennials and Generation ",
+    "bbox": [
+      84,
+      325,
+      490,
+      358
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Xers most pessimistic about retirement. ",
+    "bbox": [
+      552,
+      82,
+      836,
+      97
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There is broad support across generations for Social Security, including support for increasing contributions and expanding benefits. ",
+    "bbox": [
+      521,
+      109,
+      926,
+      156
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "All generations have favorable views of defined benefit pensions, with Millennials holding the most favorable views. There is wide agreement generationally that pensions are better than $4 0 1 ( \\mathrm { k } )$ plans for providing retirement security, and that everyone should have a pension. ",
+    "bbox": [
+      522,
+      169,
+      926,
+      265
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "I. ACROSS GENERATIONS, THE COVID-19 PANDEMIC HAS INCREASED RETIREMENT CONCERNS ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      420,
+      929,
+      473
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Sixty-four percent of Millennials and 54 percent of Gen Xers are more concerned about retirement (Figure 1). ",
+    "bbox": [
+      71,
+      492,
+      473,
+      525
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "As a result of the pandemic, one in five Millennials indicate that they have changed when they plan to retire (Figure 2). ",
+    "bbox": [
+      506,
+      492,
+      921,
+      541
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Has the COVID-19 crisis increased or decreased your concern that you won't be able to achieve a financially secure retirement? ",
+    "bbox": [
+      84,
+      623,
+      447,
+      660
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/d4aa4de6ad99aa48d392fc036243a2caff82be17ccd6542e18aaca9419b907e7.jpg",
+    "image_caption": [
+      "Figure 1: Gen X and Millennials are the most concerned about retirement in the wake of the pandemic. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      679,
+      467,
+      821
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Has the COVID-19 crisis caused you to change when you plan to retire? ",
+    "bbox": [
+      522,
+      623,
+      897,
+      648
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/94fdc48da3c0dd9afea4f8cdf8cdbbb14bb9f69bbfe39b6f1727231314b4be46.jpg",
+    "image_caption": [
+      "Figure 2: The pandemic has triggered changes to when Americans plan to retire. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      519,
+      670,
+      910,
+      806
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      41,
+      166,
+      53
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      916,
+      44,
+      926,
+      53
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Among those who plan to change their retirement, about two-thirds of all generations say they plan on delaying retirement (Figure 3). ",
+    "bbox": [
+      70,
+      80,
+      488,
+      130
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "During the pandemic, Millennials were more likely than other generations to take actions that could harm their long-term financial and retirement security such as reduced saving or spending retirement savings. Millennials also were much more likely to spend their emergency savings. While it is a positive that this generation had access to rainy day savings during tough times, spending savings has an impact on their financial position (Figure 4). ",
+    "bbox": [
+      70,
+      140,
+      482,
+      287
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Have you considered retiring earlier or later than originally planned due to the COVID-19 crisis? ",
+    "bbox": [
+      521,
+      148,
+      908,
+      174
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/bf1bb10b5746a1cc47ca56223f0f27f77983b6eee79163ece62d759413f1f96a.jpg",
+    "image_caption": [
+      "Figure 3: Across generations, most of those who have changed retirement plans will delay retirement. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      511,
+      196,
+      903,
+      338
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Figure 4: Millennials were more likely to take actions during the pandemic that could harm their long-term financial security. ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      388,
+      890,
+      431
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Which of the following actions have you taken as a result of the economic impact of the COVID-19 crisis? ",
+    "bbox": [
+      84,
+      433,
+      776,
+      446
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/0e502f585397c93605be49b3b0ca47837ab7c7815604b31b0a411dffa0f4a2b3.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      160,
+      459,
+      862,
+      718
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      71,
+      40,
+      575,
+      54
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      913,
+      44,
+      924,
+      53
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "II. THERE IS GENERATIONAL AGREEMENT THAT THE U.S. FACES A RETIREMENT CRISIS, WITH MILLENNIALS AND GENERATION XERS MOST PESSIMISTIC ABOUT THEIR OWN RETIREMENT ",
+    "text_level": 1,
+    "bbox": [
+      68,
+      102,
+      919,
+      165
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Across generations, most Americans say the nation faces a retirement crisis, with Baby Boomers (72 percent) expressing the most concern (Figure 5). ",
+    "bbox": [
+      71,
+      178,
+      486,
+      227
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Millennials (72 percent) and Generation Xers (59 percent) are most pessimistic about their own retirement prospects (Figure 6). ",
+    "bbox": [
+      508,
+      176,
+      867,
+      227
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree of disagree: America is facing a retirement crisis. ",
+    "bbox": [
+      84,
+      327,
+      473,
+      352
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/52337c8495e7d2fa7dacfcdbbbe996625103cec1c14b3466c4766a2e93fd963d.jpg",
+    "image_caption": [
+      "Figure 5: Across generations, most Americans say the nation faces a retirement crisis, with Baby Boomers expressing the most concern. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      367,
+      472,
+      511
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "How concerned are you that you won't be able to achieve a financially secure retirement? ",
+    "bbox": [
+      522,
+      310,
+      916,
+      335
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/c1f9f47406cceeccf6fc0e0210f1d6c3e711789a73659bfc7a6d9aaeadb59d86.jpg",
+    "image_caption": [
+      "Figure 6: Millennials and Gen X are most pessimistic about their retirement. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      356,
+      915,
+      500
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/7dccc4544db3207cbe296e4e5773c438dcad26aa0caebd985643cf62d58f5acd.jpg",
+    "image_caption": [
+      "Figure 7: Across generations, most agree workers cannot save enough on their own for a secure retirement. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      86,
+      662,
+      478,
+      803
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: The average worker cannot save enough on their own to guarantee a secure retirement. ",
+    "bbox": [
+      84,
+      609,
+      462,
+      646
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Consistently across generations, the vast majority of Americans agree that workers just cannot save enough on their own have a secure retirement (Figure 7). ",
+    "bbox": [
+      506,
+      541,
+      910,
+      590
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Americans across generational lines plan to take a number of actions to ensure a secure retirement – including working longer, cutting spending now and in retirement (Figure 8). ",
+    "bbox": [
+      506,
+      602,
+      910,
+      667
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "All generations surveyed seemed to understand there is a wide mix of factors that make preparing for retirement more difficult, including longer life spans, rising costs and fewer pensions (Figure 9). ",
+    "bbox": [
+      506,
+      678,
+      921,
+      743
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      70,
+      40,
+      168,
+      53
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      915,
+      44,
+      926,
+      54
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Figure 8: Across generations, Americans plan to take a number of actions to improve their retirement prospects. ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      87,
+      877,
+      130
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/dddb65a29d7d4d1acdd0e239fb0de37f98a6c3ce6ac96c2172f59c910d2c9dee.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      660,
+      171,
+      681,
+      188
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Seek work in retirement ",
+    "bbox": [
+      684,
+      174,
+      823,
+      185
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/899bc34c12a91ce6e56b24dca1272b9650ef12bb6a1b8019f8043e500e6edf6b.jpg",
+    "image_caption": [
+      "Which of the following, if any, do you plan to do to help ensure a financially secure retirement? "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      102,
+      155,
+      629,
+      506
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Delay Social Security for higher benefit ",
+    "bbox": [
+      684,
+      212,
+      821,
+      234
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Save $5 \\%$ or more ",
+    "bbox": [
+      684,
+      261,
+      781,
+      272
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Save 1 to $4 \\%$ more ",
+    "bbox": [
+      684,
+      304,
+      787,
+      315
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Saty in current job as long as possible ",
+    "bbox": [
+      684,
+      342,
+      848,
+      364
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/c11ed3ba6e994e3e79752e1ed1c21456e6ac5b33deabb5e4efd30913b2b18ef7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      660,
+      387,
+      681,
+      404
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cut spending in retirement ",
+    "bbox": [
+      684,
+      390,
+      841,
+      402
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/67a005ac1bb995f549a180eaab5872a5eb975ecd5f5926ac8b2d5f88b7e67d0e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      661,
+      431,
+      681,
+      446
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cut back on current spending ",
+    "bbox": [
+      684,
+      434,
+      854,
+      445
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Figure 9: All generations say that there is a wide mix of factors that make preparing for retirement more difficult. ",
+    "text_level": 1,
+    "bbox": [
+      84,
+      544,
+      870,
+      585
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/0e0202829c45e9a786fd4a93f490c916f7015c239ff08b85d114769017e2add7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      665,
+      636,
+      686,
+      652
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Workers typically must fund and manage retirement savings themselves ",
+    "bbox": [
+      687,
+      628,
+      852,
+      661
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/9c570c7765e97bb582dab1725d4ca75b6f99a37f5004549a1a99e3f8057f956a.jpg",
+    "image_caption": [
+      "To what extent do you feel each of the following issues are a factor in making it harder for Americans to prepare for retirement? "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      94,
+      619,
+      627,
+      972
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Increasing debt such as student loans, housing or credit cards ",
+    "bbox": [
+      687,
+      672,
+      838,
+      704
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Middle class workers’ salaries are not increasing ",
+    "bbox": [
+      687,
+      720,
+      856,
+      743
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Fewer people have pensions ",
+    "bbox": [
+      691,
+      770,
+      854,
+      782
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "People are living longer ",
+    "bbox": [
+      689,
+      813,
+      826,
+      825
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The rising cost of long-term care ",
+    "bbox": [
+      687,
+      852,
+      848,
+      873
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The rising cost of healthcare in retirement ",
+    "bbox": [
+      689,
+      895,
+      866,
+      916
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      71,
+      40,
+      573,
+      54
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      913,
+      44,
+      924,
+      53
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Across generations, Millennials (78 percent) are substantially more inclined to believe they will have to work past normal retirement age for financial security, with Baby Boomers and Generation Xers right behind at 52 percent (Figure 10). ",
+    "bbox": [
+      71,
+      80,
+      483,
+      162
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How likely is it that you will need to work past the normal retirement age to have enough money in retirement? ",
+    "bbox": [
+      522,
+      165,
+      903,
+      190
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/e775052c1e196e4813af5c3bf0319cc9a2ff78ad7403890f38efe2f935ea3a02.jpg",
+    "image_caption": [
+      "Figure 10: Millennials are substantially more inclined to believe they will have to work past a normal retirement age for financial security. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      526,
+      202,
+      916,
+      354
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "III. THERE IS BROAD SUPPORT ACROSS GENERATIONS FOR SOCIAL SECURITY, INCLUDING SUPPORT FOR INCREASING CONTRIBUTIONS AND EXPANDING BENEFITS ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      429,
+      833,
+      492
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "There is broad support across generations for Social Security despite budget deficits, with the Silent Generation (92 percent) most supportive (Figure 11). ",
+    "bbox": [
+      71,
+      506,
+      464,
+      554
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Across the board, most Americans across generational lines see the value of increasing contributions to Social Security so that it is in place for future generations (Figure 12). ",
+    "bbox": [
+      508,
+      506,
+      913,
+      570
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: Social Security should remain a priority for our country no matter how bad budget deficits get. ",
+    "bbox": [
+      86,
+      655,
+      457,
+      693
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/7cf99b863a2b0f6dbf0206e26c181084441ebe38da45045e263875b2ee1ff158.jpg",
+    "image_caption": [
+      "Figure 11: All generations support Social Security, with the Silent Generation most supportive. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      91,
+      717,
+      482,
+      862
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: To ensure that Social Security will be around for future generations, the government needs to increase the amount that workers and employers must contribute to Social Security. ",
+    "bbox": [
+      524,
+      655,
+      900,
+      704
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/328e34649d6b13cad39440d167efe5b55ad21153d9e096becbc896dcfea1e444.jpg",
+    "image_caption": [
+      "Figure 12: There is broad support across generations for increasing Social Security contributions. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      529,
+      736,
+      918,
+      867
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      41,
+      166,
+      53
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      916,
+      44,
+      926,
+      53
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "As policymakers consider changes to Social Security, the highest support for expanding Social Security is among Millennials (61 percent) (Figure 13). ",
+    "bbox": [
+      70,
+      80,
+      485,
+      131
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Would you support the expansion of Social Security benefits, a reduction of benefits, or should it be kept as is? ",
+    "bbox": [
+      84,
+      217,
+      475,
+      242
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/9ccc23d4f8adbf0feca75a47ec662cf43ce28247e876667b6f9100f2e1ba505e.jpg",
+    "image_caption": [
+      "Figure 13: Millennials are most supportive of expanding Social Security. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      275,
+      482,
+      409
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Across the board, all generations are in strong agreement that Social Security alone can’t provide a secure retirement (Figure 14). ",
+    "bbox": [
+      504,
+      80,
+      926,
+      130
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: It is important that retirees supplement the guaranteed income that Social Security provides with additional income such as a pension or annuity. ",
+    "bbox": [
+      522,
+      217,
+      903,
+      266
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/afdbf6820d9c5e6a7e44f43362124cff177612b1f1e5df7893c24abef91991a8.jpg",
+    "image_caption": [
+      "Figure 14: Across generations, there is agreement that Social Security alone can't provide a secure retirement. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      526,
+      279,
+      916,
+      414
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "IV. ALL GENERATIONS HAVE FAVORABLE VIEWS OF DEFINED BENEFIT PENSIONS ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      501,
+      828,
+      559
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Pensions are viewed favorably by all generations, with Millennials expressing the highest favorability (Figure 15). ",
+    "bbox": [
+      70,
+      573,
+      470,
+      622
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "How would you describe your overall view of this type of pension ",
+    "bbox": [
+      84,
+      727,
+      460,
+      751
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/9ff28a4010bbbbe787bebaf9164ab7843cd81ac8707ced13f85b17680414a26f.jpg",
+    "image_caption": [
+      "Figure 15: All generations have favorable views of pensions, with Millennials holding the most favorable views. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      88,
+      773,
+      480,
+      907
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Across the board, all generations agree that those with pensions are more likely to have a secure retirement (Figure 16). ",
+    "bbox": [
+      508,
+      573,
+      911,
+      622
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: Americans with traditional pensions are more likely than those without pensions to have a secure retirement. ",
+    "bbox": [
+      521,
+      727,
+      900,
+      763
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/9e0dafa31d64df12bf1c3d73150b8fb9a146ff2cbaba0750d81f04420f989cfc.jpg",
+    "image_caption": [
+      "Figure 16: Across the board, generations agree that those with pensions are more likely to have a secure retirement. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      775,
+      913,
+      906
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      71,
+      40,
+      573,
+      54
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      913,
+      44,
+      924,
+      54
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Across generations, there is agreement that government should take steps to help employers offer pensions to their workers, with the Silent Generation (83 percent) in strongest agreement (Figure 17). ",
+    "bbox": [
+      70,
+      80,
+      482,
+      146
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Figure 17: Across generations, there is strong agreement that government should help ease the way for employers to offer pensions. ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      199,
+      475,
+      262
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: The government should make it easier for employers to offer traditional pension plans. ",
+    "bbox": [
+      84,
+      267,
+      472,
+      304
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "All generations strongly agree that U.S. workers should have access to a pension plan to ensure their independence in retirement, again with the Silent Generation (83 percent) holding the strongest sentiment (Figure 18). ",
+    "bbox": [
+      508,
+      82,
+      923,
+      162
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "As 401(k) plans have become the predominant employersponsored retirement plan for private sector workers, there is a high level of agreement that pensions are better at providing retirement security (Figure 19). ",
+    "bbox": [
+      71,
+      487,
+      490,
+      553
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Figure 19: There is broad agreement across generations that pensions provide better retirement security than 401(k) plans. ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      570,
+      473,
+      636
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/0f6a1ca737fb40a6253e970233d934645a379a4b54853060c445ff962b42ea3b.jpg",
+    "image_caption": [
+      "Figure 18: All generations are in strong agreement that everyone should have a pension. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      91,
+      318,
+      480,
+      453
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: Pensions do more to help workers achieve a secure retirement as compared to retirement savings plans. ",
+    "bbox": [
+      84,
+      640,
+      478,
+      676
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/8b273b826cd732c69c9d1dbe723de50b1e2401b2093e2ce9d3fb878e60084ba2.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      84,
+      693,
+      477,
+      832
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: I believe that all workers should have access to a pension plan so they can be independent and self-reliant in retirement. ",
+    "bbox": [
+      522,
+      252,
+      906,
+      289
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/e2ed28c608cff4d55eee7a6c9159d66f8ade4b290ff53bbb09ce486deb5ff403.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      310,
+      915,
+      444
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      41,
+      166,
+      53
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      915,
+      44,
+      926,
+      53
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "V. THERE IS STRONG AGREEMENT ACROSS GENERATIONS THAT POLICYMAKERS NEED TO DO MORE TO IMPROVE AMERICANS' RETIREMENT PROSPECTS. ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      102,
+      888,
+      165
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Across generational lines, Americans say that national policymakers don’t seem to grasp the retirement savings struggle (Figure 20). ",
+    "bbox": [
+      71,
+      176,
+      483,
+      227
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Three-fourths of all generations agree that Washington leaders need to give retirement a higher priority (Figure 21). ",
+    "bbox": [
+      504,
+      176,
+      919,
+      224
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: Leaders in Washington do not understand how hard it is for workers to save enough for retirement. ",
+    "bbox": [
+      88,
+      335,
+      470,
+      372
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/7b10e8047d1f8347173af66390dd185a6587f1159e250b57bacdb6b90bfd833b.jpg",
+    "image_caption": [
+      "Figure 20: All generations overwhelmingly agree policymakers don't understand the retirement savings struggle. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      392,
+      480,
+      530
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To what extent do you agree or disagree: Leaders in Washington need to give a higher priority to ensuring more Americans can have a secure retirement. ",
+    "bbox": [
+      521,
+      334,
+      880,
+      372
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_5913150/auto/images/a6ab7be9f15c61468e435784b859099c83a0490f966864187d4068913ef39cd5.jpg",
+    "image_caption": [
+      "Figure 21: About three quarters of all generations agree that Washington leaders need to give retirement a higher priority. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      522,
+      387,
+      913,
+      542
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      71,
+      40,
+      573,
+      54
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      908,
+      44,
+      924,
+      54
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      71,
+      106,
+      357,
+      137
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The U.S. is facing a retirement savings crisis that likely is worsening thanks to yet another economic crisis. Except for wealthier Americans, the typical working American is not on track to maintain their standard of living in retirement. The retirement savings shortfall can be attributed to many factors, including the move away from pensions, stagnant wages, and a lack of employer sponsored plans. Also, cuts to Social Security benefits and skyrocketing costs for health, long-term care and housing in retirement are exacerbating the retirement crisis. ",
+    "bbox": [
+      70,
+      176,
+      488,
+      338
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This research offers an assessment of Americans’ views about retirement across generational lines. The research finds that all generations are worried about retirement, and there is strong support for pensions and Social Security. While there are significant differences in many specific areas, there is generational agreement that national lawmakers need to step up and do more to help Americans prepare for retirement. ",
+    "bbox": [
+      508,
+      176,
+      928,
+      305
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "METHODOLOGY ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      406,
+      415,
+      439
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Conducted by Greenwald Research, information for this study was collected from online interviews between December 4–10, 2020. A total of 1,203 individuals aged 25 and older completed the survey. The final data were weighted by age, gender, and income to reflect the demographics of Americans aged 25 and older. The sample was selected using Dynata, an online sample provider. Tabulations in some of the charts may not add up to 100, due to rounding. ",
+    "bbox": [
+      71,
+      486,
+      490,
+      632
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "For the purposes of this research, Millennials include those ages 25 to 43, Generation X includes those ages 44 to 55, Baby Boomers include those ages 56 to 74, and the Silent generation includes those age 75 or older. ",
+    "bbox": [
+      511,
+      486,
+      929,
+      551
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      40,
+      166,
+      53
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      913,
+      44,
+      926,
+      54
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ENDNOTES ",
+    "text_level": 1,
+    "bbox": [
+      71,
+      106,
+      320,
+      137
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "financial-asset-inequality-and-its-implications-forretirement-security/ ",
+    "bbox": [
+      535,
+      178,
+      897,
+      208
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1. A. Tergenson, 2020 (November), “How Covid-19 Will Change Aging and Retirement,” The Wall Street Journal, New York, NY. https://www.wsj. com/articles/how-covid-19-will-change-aging-andretirement-11605452401   \n2. C. Collinson, 2020 (May), “Retirement Security Amid COVID-19: The Outlook of Three Generations,” Transamerica Center for Retirement Studies, Los Angeles, CA. https://transamericacenter.org/ docs/default-source/retirement-survey-of-workers/ tcrs2020_sr_retirement_security_amid_covid-19.pdf   \n3. Schwarz Center for Economic Policy, ${ } ^ { \\ast } 5 2 \\%$ of Older Workers Forced into Involuntary Retirement,” October 2018. https://www.economicpolicyresearch. org/jobs-report/september-2018-unemploymentreport-for-workers-over-55   \n4. C. Tannenbaum, R. Boyle, V. Tandon, 2020 (November), “The K-Shaped Recovery,” Northern Trust, Chicago, IL. https://www.northerntrust. com/united-states/insights-research/2020/marketeconomic-commentary/wec/november-25   \n5. T. Bond and F. Porrell, 2020 (January), “Examining the Nest Egg,” The National Institute on Re-tirement Security, Washington, D.C. https://www.nirsonline. org/wp-content/uploads/2020/01/Examining-the-Nest-Egg-Final-1.pdf   \n6. A. Munnell, A. Chen, and R. Siliciano, 2021 (January), “The National Retirement Risk Index: An Update from the 2019 Survey of Consumer Finances,” Boston College Center for Retirement Research, Chestnut Hill, MA. https://crr.bc.edu/wp-content/ uploads/2021/01/IB_21-2.pdf   \n7. Morgan Stanley, “Retirement for 5 Generations,” March 2021. https://www.morganstanley.com/atwork/ articles/retirement-for-5-generations   \n8. J. Brown, 2018 (February), “Millennials and Retirement: Already Falling Short,” National Institute on Retirement Security, Washington, D.C. https:// www.nirsonline.org/reports/millennials-andretirement-already-falling-short/   \n9. N. Rhee and T. Bond, 2019 (September), “Financial Asset Inequality and Its Implications for Retirement Security,” National Institute on Retirement Security, Washington, D.C. https://www.nirsonline.org/reports/ ",
+    "bbox": [
+      68,
+      175,
+      488,
+      912
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "GENERATIONAL VIEWS OF RETIREMENT IN THE UNITED STATES ",
+    "bbox": [
+      70,
+      40,
+      573,
+      54
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      910,
+      42,
+      924,
+      54
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "WHO WE ARE & WHAT WE DO ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      88,
+      913,
+      126
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Board of Directors ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      140,
+      232,
+      155
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Gerri Madrid-Davis, Board Chair & Former Director, Financial Security and Consumer Affairs, State Advocacy & Strategy, Government Affairs, AARP ",
+    "bbox": [
+      78,
+      166,
+      473,
+      208
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Brian Tobin, Vice Chair & Fire Chief, Daisy Mountain Fire & Rescue ",
+    "bbox": [
+      78,
+      213,
+      482,
+      241
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Kelly Fox, Secretary/Treasurer & Chief, Stakeholder Relations and External Outreach, CalPERS ",
+    "bbox": [
+      78,
+      247,
+      426,
+      275
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "John Adler, Board Member & Director, Mayor's Office of Pensions and Investments, Office of the Mayor of New York City ",
+    "bbox": [
+      78,
+      280,
+      473,
+      323
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Dana Bilyeu, Board Member & Executive Director, National Association of State Retirement Administrators ",
+    "bbox": [
+      78,
+      328,
+      478,
+      356
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Kristen Doyle, CFA, Board Member & Partner and Head of Public Funds, Aon Hewitt Investment Consulting ",
+    "bbox": [
+      78,
+      361,
+      473,
+      390
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Michael Hairston, Board Member & Senior Pension Specialist, The National Education Association ",
+    "bbox": [
+      78,
+      395,
+      429,
+      422
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "R. Dean Kenderdine, Board Member & Executive Director, National Council on Teacher Retirement ",
+    "bbox": [
+      76,
+      428,
+      475,
+      457
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Hank H. Kim, Board Member & Executive Director, National Conference on Public Employee Retirement Systems ",
+    "bbox": [
+      78,
+      462,
+      483,
+      491
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Andrew Sherman, Board Member & Senior Vice President, National Director of Public Sector Market, Segal ",
+    "bbox": [
+      78,
+      496,
+      475,
+      523
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Jay Stoffel, Board Member & Executive Director, Teachers Retirement Association of Minnesota ",
+    "bbox": [
+      76,
+      529,
+      467,
+      556
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Staff and Consultants ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      566,
+      263,
+      582
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Dan Doonan, Executive Director Tyler Bond, Manager of Research Nicole Dascenzo, Manager of Membership Services Kelly Kenneally, Communications Consultant ",
+    "bbox": [
+      78,
+      593,
+      428,
+      666
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Academic Advisory Board ",
+    "text_level": 1,
+    "bbox": [
+      75,
+      676,
+      299,
+      691
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Sylvia Allegretto, PhD, University of California, Berkeley   \nBrad M. Barber, PhD, University of California, Davis   \nRon Gebhardtsbauer, FSA, MAAA, Pennsylvania State   \nUniversity   \nTeresa Ghilarducci, PhD, The New School for Social   \nResearch   \nJacob S. Hacker, PhD, Yale University   \nRegina T. Jefferson, JD, LLM, Catholic University of   \nAmerica   \nJeffrey H. Keefe, PhD, Rutgers University   \nEric Kingson, PhD, Syracuse University   \nAlica H. Munnell, PhD, Boston College   \nChristian E. Weller, PhD, University of Massachusetts   \nBoston ",
+    "bbox": [
+      78,
+      702,
+      455,
+      949
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Our Mission ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      140,
+      619,
+      155
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The National Institute on Retirement Security is a nonprofit research and education organization established to contribute to informed policymaking by fostering a deep understanding of the value of retirement security to employees, employers, and the economy as a whole. ",
+    "bbox": [
+      519,
+      166,
+      900,
+      236
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Our Vision ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      251,
+      606,
+      266
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Through our activities, NIRS seeks to encourage the development of public policies that enhance retirement security in America. Our vision is one of a retirement system that simultaneously meets the needs of employers, employees, and the public interest. That is, one where: ",
+    "bbox": [
+      521,
+      277,
+      908,
+      348
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• employers can offer affordable, high quality retirement benefits that help them achieve their human resources goals; ",
+    "bbox": [
+      534,
+      359,
+      905,
+      401
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• employees can count on a secure source of retirement income that enables them to maintain a decent living standard after a lifetime of work; and ",
+    "bbox": [
+      534,
+      411,
+      903,
+      454
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• the public interest is well-served by retirement systems that are managed in ways that promote fiscal responsibility, economic growth, and responsible stewardship of retirement assets. ",
+    "bbox": [
+      534,
+      465,
+      893,
+      521
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Our Approach ",
+    "text_level": 1,
+    "bbox": [
+      514,
+      536,
+      637,
+      553
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• High-quality research that informs the public debate on retirement policy. The research program focuses on the role and value of defined benefit pension plans for employers, employees, and the public at large. We also conduct research on policy approaches and other innovative strategies to expand broad based retirement security. ",
+    "bbox": [
+      535,
+      563,
+      906,
+      660
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• Education programs that disseminate our research findings broadly. NIRS disseminates its research findings to the public, policy makers, and the media by distributing reports, conducting briefings, and participating in conferences and other public forums. ",
+    "bbox": [
+      535,
+      671,
+      924,
+      741
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "• Outreach to partners and key stakeholders. By building partnerships with other experts in the field of retirement research and with stakeholders that support retirement security, we leverage the impact of our research and education efforts. Our outreach activities also improve the capacity of government agencies, non-profits, the private sector, and others working to promote and expand retirement security. ",
+    "bbox": [
+      535,
+      752,
+      924,
+      864
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "ISSUE BRIEF ",
+    "bbox": [
+      71,
+      42,
+      168,
+      56
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The National Institute on Retirement Security is a non-profit, non-partisan organization established to contribute to informed policy making by fostering a deep understanding of the value of retirement security to employees, employers, and the economy as a whole. NIRS works to fulfill this mission through research, education and outreach programs that are national in scope. ",
+    "bbox": [
+      57,
+      363,
+      923,
+      487
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1612 K Street, N.W., Suite 500 | Washington, DC 20006 202-457-8190 | www.nirsonline.org @NIRSonline ",
+    "bbox": [
+      339,
+      809,
+      918,
+      877
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      406,
+      676,
+      529,
+      786
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NATIONAL INSTITUTE ON Retirement Security ",
+    "bbox": [
+      558,
+      690,
+      915,
+      744
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Reliable Research.Sensible Solutions. ",
+    "bbox": [
+      558,
+      758,
+      913,
+      779
+    ],
+    "page_idx": 15
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "type": "text",
+    "text": "AUTOMIZE ",
+    "text_level": 1,
+    "bbox": [
+      122,
+      117,
+      315,
+      141
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Automize reaches new customers and enhances service delivery using ServiceNow ",
+    "text_level": 1,
+    "bbox": [
+      53,
+      171,
+      421,
+      285
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/3e64f3c25e7f59abf81a4e6ce39f9a351d2738d65487cdb19bce6664129ba3ff.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      504,
+      42,
+      998,
+      295
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/2b4540d380290aa7c09c53dd4987b756cc12b208047e1c612e499cf2785370cf.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      266,
+      309,
+      369,
+      382
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/9f63cd26c85efce624203c7cca8f77f48340b1eccc7d39070e233b478737dcc3.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      55,
+      309,
+      150,
+      382
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/e6e9a8d940fa99425db8e53583623c7a6df15a80335607c527ccf09361232fe5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      477,
+      309,
+      571,
+      382
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Automation success rate ",
+    "bbox": [
+      57,
+      386,
+      151,
+      414
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Customers using new service portal app ",
+    "bbox": [
+      259,
+      386,
+      385,
+      428
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Increase in automated tasks ",
+    "bbox": [
+      482,
+      386,
+      573,
+      428
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Automize eyes global expansion through diversification of its service offerings ",
+    "text_level": 1,
+    "bbox": [
+      55,
+      470,
+      633,
+      512
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Automize is a fast-growing Danish IT company, founded in 2015 with a mission to create value for businesses through digital transformation. ",
+    "bbox": [
+      57,
+      515,
+      635,
+      546
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "First established as an IT consultancy, the company specialises in digitisation, optimisation, and automation of business processes. But today, Automize is on a journey to diversify its services, with a particular focus on building out its Managed Service Provider (MSP) and software vendor practices. ",
+    "bbox": [
+      57,
+      551,
+      633,
+      611
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Flemming Rohde, COO at Automize, explains: “Until recently our focus has been on IT consultancy, but we have made significant changes in how our business is structured and the services we provide to enable us to pursue global expansion.” ",
+    "bbox": [
+      57,
+      617,
+      624,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "“Our objective is to ensure around half of our business comes from managed services and software,” Flemming continues. “The introduction of ServiceNow has been critical in enabling Automize to evolve its business model and deliver on our new market strategy.” ",
+    "bbox": [
+      57,
+      684,
+      629,
+      744
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "With ServiceNow, Automize enhances project management and improves productivity and service delivery ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      758,
+      562,
+      820
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "While optimisation of services and digitisation is part of Automize’s core busines proposition, its own processes were suffering from a lack of digitised workflow and poor visibility of project planning, capacity, and progress. ",
+    "bbox": [
+      55,
+      824,
+      619,
+      869
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "“We pride ourselves on working with businesses to help them digitally transform, yet within Automize our own timesheets, team collaboration, and sales were managed by a multitude of systems. Teams were confused and frustrated, and often had to perform unnecessary manual steps,” says Flemming. ",
+    "bbox": [
+      57,
+      876,
+      625,
+      935
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "servicenow. ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      944,
+      251,
+      972
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Industry: Information Technology Location: Kolding, Denmark Size: 18 employees ",
+    "bbox": [
+      692,
+      329,
+      942,
+      381
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Challenge ",
+    "text_level": 1,
+    "bbox": [
+      694,
+      472,
+      774,
+      486
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Evolve its business model and deliver on new market strategy with standardised data and project management processes delivered faster and more efficiently ",
+    "bbox": [
+      692,
+      488,
+      934,
+      579
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Products ",
+    "text_level": 1,
+    "bbox": [
+      694,
+      595,
+      763,
+      609
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "• ServiceNow® IT Service Management   \nServiceNow® Project Portfolio Management ",
+    "bbox": [
+      694,
+      613,
+      928,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Solution ",
+    "text_level": 1,
+    "bbox": [
+      694,
+      693,
+      758,
+      707
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Now Platform® powers the digitisation of processes using end-to-end workflows to drive next-generation customer and employee experiences supporting global expansion and new business opportunities ",
+    "bbox": [
+      692,
+      710,
+      931,
+      815
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/597c9acfc50a07d2f4c03066dd9019e652199bdb5a95efeb3604229824147b3d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      702,
+      821,
+      939,
+      914
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/ba52c971dce5f8e9c6107b04d5d494a641f2f79411371ef37f1b11f49a19afaf.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      705,
+      931,
+      939,
+      998
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CUSTOMER STORY ",
+    "bbox": [
+      55,
+      42,
+      161,
+      54
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "0 ",
+    "bbox": [
+      60,
+      107,
+      112,
+      150
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/9fb9cf47fc35aa8de2d72b7df6904c33594d71fbb88290e6a6b65beb436f7246.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      60,
+      68,
+      240,
+      207
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Having a single data source means we can clearly visualise and prioritise tasks, which has dramatically   \nimproved our   \ndecision-making   \nprocess. ",
+    "bbox": [
+      55,
+      231,
+      295,
+      446
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Flemming Rohde, COO, Automize ",
+    "bbox": [
+      57,
+      457,
+      250,
+      469
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Poor transparency of projects and progress internally did not just have an adverse impact on the employee experience, but also on the provision of services to clients who experienced longer delivery times than planned. ",
+    "bbox": [
+      362,
+      65,
+      923,
+      111
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“Standardising all data and project management onto the Now Platform® enables us to track planned and unplanned work in one place,” comments Flemming. ",
+    "bbox": [
+      362,
+      117,
+      923,
+      161
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“Having a single data source means we can clearly visualise and prioritise tasks, which has dramatically improved our decision-making process,” continues Flemming. “With agile project management, testing, and collaboration tools, both our productivity and service delivery have markedly evolved.” ",
+    "bbox": [
+      362,
+      167,
+      933,
+      228
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Automize delivers next-generation employee onboarding with an end-to-end workflow powered by ServiceNow ",
+    "text_level": 1,
+    "bbox": [
+      362,
+      242,
+      936,
+      282
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Automize has introduced numerous digital workflows to streamline, standardise, and automate processes. Overall, the number of different tasks the company has digitised with the Now Platform has increased from 17 to 60 in just two years. This number will increase significantly in the future. ",
+    "bbox": [
+      362,
+      286,
+      929,
+      347
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "One new process that has proved to be incredibly effective is employee onboarding. In the past, the process was fragmented and managed by different systems, but using ServiceNow onboarding is seamless and pain-free for the organisation and the new recruit. ",
+    "bbox": [
+      362,
+      353,
+      923,
+      412
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“With the creation of an end-to-end workflow, encompassing all aspects of onboarding, including requesting new equipment, arranging a key, or creating a new user, onboarding is managed as a seamless process, delivering a next-generation employee experience,” explains Flemming. ",
+    "bbox": [
+      362,
+      419,
+      913,
+      479
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Being an IT service company, Automize is also able to replicate internal processes, and replicate workflows and processes for its customers. “We are now in a position to use the same central platform to power a consumer-style service that not only benefits our employees, but that can be offered to our customers to improve their processes,” adds Flemming. ",
+    "bbox": [
+      362,
+      486,
+      931,
+      561
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ServiceNow powers Automize’s growth as an MSP ",
+    "text_level": 1,
+    "bbox": [
+      362,
+      574,
+      885,
+      594
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The flexibility and capabilities of the Now Platform are key enablers of Automize’s growth as an MSP. By turning business processes into digital workflows, the company can deliver faster, smarter experiences to customers of all sizes. ",
+    "bbox": [
+      362,
+      598,
+      937,
+      643
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within Automize’s framework for customers, which includes tasks such as provisioning and decommissioning of PCs and servers, the number of automated tasks has risen notably, historically with a year-over-year growth of 4x. ",
+    "bbox": [
+      362,
+      650,
+      931,
+      694
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "“The provisioning of servers and requesting of new employee onboarding was previously a time-consuming process, but this now only takes 10 seconds to be completed via a self-service portal, powered by ServiceNow. Our customers have been surprised and delighted about how easy and effective we have made it to carry out critical tasks,” comments Flemming. ",
+    "bbox": [
+      361,
+      700,
+      931,
+      776
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Because ServiceNow provides complete and real-time visibility of all data and KPIs using dashboards, Automize can also identify the root cause of issues and restore customers’ services faster, as well as proactively prevent future disruptions. ",
+    "bbox": [
+      362,
+      781,
+      931,
+      842
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "servicenow. ",
+    "text_level": 1,
+    "bbox": [
+      55,
+      944,
+      251,
+      973
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Automize expands its customer base via the ServiceNow Store ",
+    "text_level": 1,
+    "bbox": [
+      361,
+      65,
+      831,
+      106
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_3280862/auto/images/8e7615db5e2d7598cbfb89b0f69d369ac022401dbec41709ab5c9426f1756f40.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      29,
+      116,
+      276,
+      922
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In addition to driving efficiencies into its internal processes, working with ServiceNow has also enabled Automize to expand into the software vendor space by developing enterprise applications that are certified by the ServiceNow® Store—a marketplace for both free and paid applications developed on the Now Platform. ",
+    "bbox": [
+      362,
+      109,
+      928,
+      185
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "“By tapping into the ServiceNow Store we can continue to grow the application development side of our business to meet demand from our existing customers and also tap into new markets,” says Flemming. “The Now Platform provides an excellent channel for gathering constructive feedback from the developer community, which can further improve our skills as well as the quality of our applications.” ",
+    "bbox": [
+      362,
+      191,
+      931,
+      281
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "One example is a new Service Portal widget, which Automize customers were asking the company to provide. Following only a few weeks of development on the Now Platform, the new application was certified and published on the ServiceNow Store. ",
+    "bbox": [
+      362,
+      287,
+      929,
+      348
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The widget captures exact user location, enables ratings from one to five, accepts screenshots and further comments, and gains first-hand insights and recommendations from users. The application is already being used by 150 customers globally, including universities and financial services organisations. ",
+    "bbox": [
+      364,
+      354,
+      936,
+      415
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Automize looks to ServiceNow to seize future opportunities with AI and machine learning ",
+    "text_level": 1,
+    "bbox": [
+      361,
+      428,
+      838,
+      469
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "A ServiceNow technology partner, Automize has implemented ServiceNow as a strategic platform for the future and a foundation for business growth on a global level. ",
+    "bbox": [
+      362,
+      473,
+      928,
+      518
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The business is keen to expand the partnership beyond close collaboration and the ServiceNow Store to introduce new AI and machine learning capabilities that have become available on the platform. ",
+    "bbox": [
+      362,
+      525,
+      913,
+      569
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "“ServiceNow offers endless opportunities for Automize. The evolving machine learning and AI-powered capabilities of the powerful platform will be central to providing consistent and high-quality services to our customers in the future,” concludes Flemming. ",
+    "bbox": [
+      362,
+      575,
+      934,
+      636
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "servicenow.com ",
+    "bbox": [
+      362,
+      960,
+      459,
+      969
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2019 ServiceNow, Inc. All rights reserved. ServiceNow, the ServiceNow logo, and other ServiceNow marks are trademarks and / or registered trademarks of ServiceNow, Inc., in the United States and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. SN-CS-Automize-062019 ",
+    "bbox": [
+      361,
+      909,
+      936,
+      946
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "servicenow. ",
+    "bbox": [
+      53,
+      944,
+      253,
+      973
+    ],
+    "page_idx": 2
+  }
+]

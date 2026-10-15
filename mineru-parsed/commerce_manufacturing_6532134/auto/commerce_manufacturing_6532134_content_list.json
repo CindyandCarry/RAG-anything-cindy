@@ -1,0 +1,1197 @@
+[
+  {
+    "type": "text",
+    "text": "HAL archives-ouvertes.fr ",
+    "bbox": [
+      416,
+      48,
+      631,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "PrimeLife Checkout - Ulrich König ",
+    "text_level": 1,
+    "bbox": [
+      369,
+      306,
+      678,
+      356
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "To cite this version: ",
+    "text_level": 1,
+    "bbox": [
+      139,
+      414,
+      378,
+      434
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ulrich König. PrimeLife Checkout -. 6th International Summer School (ISS), Aug 2010, Helsingborg, Sweden. pp.325-337, ff10.1007/978-3-642-20769-3_26ff. ffhal-01559446 ",
+    "bbox": [
+      124,
+      445,
+      941,
+      478
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL Id: hal-01559446 ",
+    "text_level": 1,
+    "bbox": [
+      364,
+      671,
+      633,
+      690
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://hal.inria.fr/hal-01559446 ",
+    "text_level": 1,
+    "bbox": [
+      302,
+      697,
+      697,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted on 10 Jul 2017 ",
+    "bbox": [
+      394,
+      727,
+      603,
+      741
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. ",
+    "bbox": [
+      92,
+      802,
+      492,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. ",
+    "bbox": [
+      507,
+      802,
+      907,
+      897
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      457,
+      900,
+      541,
+      931
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Distributed under a Creative Commons Attribution| 4.0 International License ",
+    "bbox": [
+      142,
+      934,
+      840,
+      948
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "? ",
+    "bbox": [
+      117,
+      418,
+      132,
+      430
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "PrimeLife Checkout - a privacy-enabling e-shopping user interface ",
+    "text_level": 1,
+    "bbox": [
+      287,
+      141,
+      714,
+      185
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Ulrich K¨onig ",
+    "bbox": [
+      455,
+      213,
+      547,
+      228
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Unabh¨angiges Landeszentrum fur Datenschutz Schleswig-Holstein (ULD), Germany ¨ ULD61@datenschutzzentrum.de ",
+    "bbox": [
+      225,
+      241,
+      776,
+      267
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract. The PrimeLife Checkout user interface aims at supporting the user in enforcing her privacy preferences in an online purchase process. The user can choose how much privacy protection she wants, and the system visualises what shipping and payment methods are matching with her needs or why the selected methods are not suitable for the protection level of her choice. The interface displays which personal data will be transferred to whom for what purposes in a user friendly way. In most webshops, this information can only be retrieved by reading the shop’s full privacy policy. In contrast, the proposed approach informs the user what happens with her data for which purpose while she is entering her data. Thereby it specifically addresses the challenge of a user friendly and more transparent policy display. ",
+    "bbox": [
+      264,
+      306,
+      738,
+      472
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      498,
+      372,
+      516
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The PrimeLife $^ { 1 }$ Checkout user interface (PLC) is designed to give users control of their data in a checkout process. Usually the web-based checkout process works with many small steps. In each step today’s checkout systems ask the user for specific data, like name, e-mail address, payment information etc. After each step, the data are transferred to the server of the webshop where the user has no control what the shop operator does with the data. Some shops employ scoring systems that use the data collected so far to decide which payment methods they offer to the user in a later step, as described in [LEP+01]. ",
+    "bbox": [
+      218,
+      531,
+      784,
+      651
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The PLC offers a different approach. The user-entered data will be checked on the local machine of the user to see whether they are valid. The rules for validating the data have to be provided by the shop at the beginning of the transaction. In this particular demonstrator, this is done with JavaScript entirely on the user’s side. No data will be transferred to the service until the user finally confirms that she is willing to perform the purchase and all checks are done. Only when the user finally confirms, the data will be transferred to the webshop. ",
+    "bbox": [
+      218,
+      652,
+      784,
+      757
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This text is organised as follows: Section 2 explains the “three steps design” chosen for the PLC. Section 3 outlines the different components of the PLC demonstrator and shows their functionality. The technical background is described in section 4, followed by evaluation results in section 5. Finally, section 6 summarises the findings. ",
+    "bbox": [
+      218,
+      758,
+      785,
+      787
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 The research leading to these results has received funding from the European Community’s Seventh Framework Programme (FP7/2007-2013) under grant agreement no 216483 for the project PrimeLife. ",
+    "bbox": [
+      220,
+      797,
+      784,
+      838
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      784,
+      191
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 Three steps design ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      218,
+      431,
+      234
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the online shopping process, users typically have to go through a number of steps to complete the checkout process. In every step, they have to enter and transfer personal data, like shipping address payment information etc. For example, seven steps are needed to buy something at amazon.com as visualised in Figure 1. However, usability tests of the multiple steps “Send Personal Data” dialogue performed in the PrimeLife project showed that users regarded six steps only for the data collection as too many [WP410]. The user has no knowledge if the data that she has entered will be accepted by the system, which is a problem. ",
+    "bbox": [
+      218,
+      252,
+      785,
+      375
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/366c551a8a17541a87402d453091ce80fa2407103e3648af7df193d96392caff.jpg",
+    "image_caption": [
+      "Fig. 1. Seven Steps solution by amazon.com. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      402,
+      714,
+      585
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "A typical scenario is that the user has to enter data and click “next” for the next step where again she is asked for data. The whole set of data collected in one of the steps will immediately be sent to the server, where its validity is checked. If all data is correct, the user is taken to the next step. If not, the user will receive an error notice, has to fix the problem and try again. She has no control what the webshop does with these data until the transaction is finished or cancelled. In addition, the user will not know whether the privacy policy of the shop fulfils the user’s requirements. For example at amazon.com, the user is told in step 6 after she has entered and transferred all her data to the amazon.com server: “Please review and submit your order”, “By placing your order, you agree to amazon.com’s privacy notice and conditions of use”. Interested users may follow the link to the privacy policy displayed on all pages of the shop, but users are not actively notified on the parts of the privacy policy relevant to the transaction. ",
+    "bbox": [
+      218,
+      643,
+      785,
+      839
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      217,
+      116,
+      228,
+      126
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In general, another popular way of using data within the checkout process is to request a score value from credit agencies without the users’ consent or at least without clearly informing the users. The offered payment methods are selected by the result of the score [LEP $^ +$ 01], instead of asking the user beforehand to whether such a credit rating is necessary at all. This is not the case when the user opts for cash on delivery or any form of prepayment. ",
+    "bbox": [
+      218,
+      146,
+      785,
+      237
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The PLC solution chooses a different approach. The objective is to collect all necessary data in one single step. The moment the user enters the data, PLC will check their validity. This step is performed within the realm of the user’s browser without transferring any data to the server. Therefore, the whole validity check is done before any data will be sent to the webshop’s server2. The user gets instant feedback if the entered data are formally valid and fulfils all requirements from the service or if she has to correct something. ",
+    "bbox": [
+      218,
+      242,
+      785,
+      348
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "PLC can be used in two different ways. It can be integrated directly into the webshop interface, so that it is seamlessly usable by the user in her browser, or it can be installed on the user’s computer as a stand-alone application. The details are described in section 4. ",
+    "bbox": [
+      218,
+      353,
+      785,
+      412
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The resulting steps are shown in Figure 2 – the procedure just needs three steps for the purchase, the user gets instantaneous feedback, and she may correct her data if needed. This reduces the necessary amount of clicks required to finish the user’s purchase. The individual steps are described in sections 2.1-2.3. ",
+    "bbox": [
+      218,
+      420,
+      785,
+      479
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/e95cc0ca6b0519ae8adb24f9d6e67ea85c6de1c7f496853de3db7820074fa935.jpg",
+    "image_caption": [
+      "Fig. 2. PrimeLife Checkout three steps solution. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      517,
+      715,
+      710
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 To perform this step, the webshop needs to transfer all of its validity checks to PLC. This may seem like a heavy burden, but it has two advantages: The user will get a clear overview, which data she has filled in and is going to share and the user does not disclose any of her data until she finally confirms to complete the order. A thorough evaluation can be found in [WP410], section 5.2. ",
+    "bbox": [
+      222,
+      770,
+      785,
+      839
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      776,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The major advantage of the PLC solution presented in this section is that all data will only be transferred at the end of the process in one data container and only if the user finishes the whole process. The webshop cannot score the user and select payment methods by the score value without the user’s consent. If the user cancels the process at any time, no data will be transferred to the server. ",
+    "bbox": [
+      218,
+      146,
+      785,
+      236
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Some would argue the disadvantage of the PLC is that by putting all of the fields the user has to fill out on one screen, the screen is getting to complex, and the user may be overwhelmed. They might argue that an Amazon like step-bystep solution is easier to understand. However, two points can be raised to defend PLC: First, users get a clear overview what data is required for the transaction from the beginning. The information is not hidden in the different steps, which are only accessible, if the user has filled out all fields in the steps before correctly. Second, while only a very small number of user tests have been conducted so far, the complexity of the screen was never an issue in the test results. ",
+    "bbox": [
+      218,
+      237,
+      785,
+      372
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.1 Step 1: Shopping Cart ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      396,
+      446,
+      412
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the first step, the user has to enter all necessary data to perform the purchase as shown in Figure 3. She is informed that she is in step 1 out of 3 and that no data will be transferred to the webshop until, she confirms the data transfer in the next step. The user will also get a view on her current shopping cart with the option to change the amount of the selected items. ",
+    "bbox": [
+      218,
+      422,
+      785,
+      497
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Details about Figure 3 can be found in section 3. ",
+    "bbox": [
+      241,
+      498,
+      593,
+      513
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.2 Step 2: Summary ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      537,
+      403,
+      553
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In step 2, the PLC will display all the data that have been collected in step 1 again in the same layout without the option to modify them as shown in Figure 4. The user has the opportunity to save the data that she entered in step 1 plus information to whom the data may be transferred for what purposes, to her privacy settings. She can check if all data that she has entered are correct and confirm the purchase and data disclosure by clicking on the “Order and Transfer Data ” link or go back and make changes by clicking on “ $\\cdot \\gets$ Return to Shopping Cart”. ",
+    "bbox": [
+      218,
+      563,
+      785,
+      684
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The goal of this step is to give the user a final view on her purchase, what data will be transferred to whom for what purposes, before finally confirming the purchase, and data transfer. ",
+    "bbox": [
+      218,
+      685,
+      784,
+      728
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2.3 Step 3: Confirmation ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      752,
+      436,
+      768
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In step 3, the PLC confirms the purchase. It also notifies the user that the entered data have been transferred to the service providers listed in the “My Data” field and in the bar on the right side. The user has the opportunity to save the privacy settings for future use and reference. ",
+    "bbox": [
+      218,
+      779,
+      784,
+      839
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      218,
+      116,
+      228,
+      126
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/adc5d4d1fa52630dad93bb8d8a45960505151e6e348146550462e24da7f6af89.jpg",
+    "image_caption": [
+      "Fig. 3. Step 1: Shopping Cart. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      243,
+      166,
+      761,
+      806
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      776,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/ca375359aec423c00463d21ddf2d6bde6bfbf048429e4f9a409ca4bdd8549f64.jpg",
+    "image_caption": [
+      "Fig. 4. Step 2: Summary. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      235,
+      214,
+      766,
+      755
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      217,
+      116,
+      228,
+      126
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3 Components of the PLC ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      143,
+      488,
+      161
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this section, we provide a short description of the components of the PLC. ",
+    "bbox": [
+      218,
+      176,
+      771,
+      191
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "At the top of the PLC user interface, there is an overview of all steps where the current step is displayed in bold and underlined font. In step 1, the user gets the information that no personal data entered within the grey area will be transferred until the user finally clicks “Order and Transfer Data”. In step 3, this box will show the confirmation that the data have been transferred to the recipients listed in the right bar, see Figures 3, 4. ",
+    "bbox": [
+      218,
+      193,
+      785,
+      284
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.1 My Privacy Settings ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      305,
+      431,
+      320
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "An important part of the PLC is the “My Privacy Settings” box illustrated in Figure 5 where the user selects her preferred privacy settings. There are three predefined settings available: “Nearly Anonymous”, “Few Data” and “Don’t Care”. In addition, there is a field for the user to insert her privacy settings with the help of a policy editor. ",
+    "bbox": [
+      218,
+      330,
+      785,
+      406
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/2da585022cc3b70ba10d624bf4034e6ddc909cddddd268c1f6636a93dbda952f.jpg",
+    "image_caption": [
+      "Fig. 5. “My Privacy Settings”. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      217,
+      431,
+      785,
+      512
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The standard privacy settings are predefined and always the same. The user has the option to use her customized privacy settings by using the “Insert Privacy Settings” link. The names of the privacy settings should indicate how much personal information the user is willing to disclose: ",
+    "bbox": [
+      218,
+      570,
+      785,
+      630
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "“Nearly Anonymous” is the most restrictive setting where the user wants to reveal as little personally identifiable information as possible, i.e., she desires to act anonymously. In web transactions, complete anonymity is hard to obtain or measure. This is why we have called this setting “Nearly Anonymous”, to prevent a false sense of safety in users.   \nWith “Few Data” the shop, the shipping company and the payment provider will only get the data necessary to perform the transaction, by default. So the default of “Few Data” is identical with the “Nearly Anonymous” settings. The difference to “Nearly Anonymous” is that a user can agree to transfer more data than necessary in the “Nearly Anonymous” case. This might enable the user to e.g. select a different payment provider. Additional purposes for data collection and data usage such as marketing are disabled by default within this setting. ",
+    "bbox": [
+      228,
+      643,
+      787,
+      839
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      776,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "– The setting “Don’t Care” disables all restrictions. The user can configure to disclose her data without being warned by the system that the webshop’s privacy policy does not match with her privacy settings. ",
+    "bbox": [
+      228,
+      146,
+      785,
+      191
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.2 My Data ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      213,
+      336,
+      228
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The “My Data” box shown in Figure 6 contains text fields in which the user can enter personal data requested by the service provider. It also contains a matrix in which the user can use checkboxes to select which data should be transferred to whom for what purposes. ",
+    "bbox": [
+      218,
+      237,
+      787,
+      297
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/399a3d7577e8ed692a3d1b0cbb3b84bc3fae0a8d9d8171d9a410369464084ad4.jpg",
+    "image_caption": [
+      "Fig. 6. “My Data” field including matching results. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      217,
+      324,
+      782,
+      732
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Text fields In the text fields, the user can enter the personal data requested. The fields are greyed out if data for that respective field are not requested by the service provider, yellow if the information in the field is necessary for completing the transaction but not provided yet or filled out incorrectly, and white if the data are necessary and filled out correctly. ",
+    "bbox": [
+      218,
+      809,
+      785,
+      839
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      217,
+      116,
+      228,
+      126
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      784,
+      190
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "One issue with the use of colours relates to colour-blind users that cannot perceive the difference between a yellow and a grey field. A solution could be a symbol behind the text field, which indicates the status of the text field. This has not been implemented within PLC. ",
+    "bbox": [
+      218,
+      193,
+      785,
+      251
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Checkboxes The checkboxes are arranged in a matrix with data fields as rows and the combination of data controllers and the respective purposes as columns. Every checkbox symbolises whether information from the user is disclosed to a data controller or not. If there is an asterisk next to a checkbox, the data field is mandatorily requested by the data controller. To successfully perform the purchase, the user has to give her consent to allow the respective processing by checking the checkbox next to the asterisk. Otherwise, there will be a mismatch between the “Privacy Settings” and the “Privacy Policy” of the data controllers in the involved column. In such a case the user may seek for a different option which does not require this type of data, e.g., to opt for an anonymous payment method or to choose a shipping provider who allows anonymous pickup of the shipped goods. ",
+    "bbox": [
+      218,
+      276,
+      785,
+      457
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/dc3cecfcdabf04b6ff97ea7270630fc63df3fe4ef29f77bf390210d3db501cac.jpg",
+    "image_caption": [
+      "Fig. 7. Left: “My Data” field with a “User Settings” mismatch. Right: “My Data” field with a “Privacy Settings” mismatch. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      217,
+      483,
+      784,
+      713
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Matching The PLC matches the “Privacy Settings” selected by the user with the “Privacy Policy” of the different data controllers. The choice of the “Privacy ",
+    "bbox": [
+      218,
+      809,
+      784,
+      839
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      774,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Settings” determines the statuses of the checkboxes in the matrix. The “Privacy Policy” of the data controllers is compared with statuses of the checkboxes in the matrix. If both are matching, there will be a “MATCH $\\blacktriangledown$ ” in the box on the right side of the matrix, otherwise a “MISMATCH $\\pmb { \\chi }$ ”. If the mismatch can be resolved by the user without changing her privacy settings, there will be an orange exclamation mark “!” on the right side of the checkbox where the mismatch is located and the mismatch will be displayed in the “User Settings Matching” box as illustrated in Figure 7. If the user has to change the Privacy Settings in order to resolve the conflict, the exclamation mark will be red and the mismatch will be displayed in the “Privacy Settings Matching” box as shown in Figure 7. The details of the mismatches are displayed in the boxes on the right side of the matrix. Visibility impaired persons can distinguish the different mismatches with the help of the text in the boxes. The user can only proceed with the shopping transaction if there are no mismatches. ",
+    "bbox": [
+      218,
+      146,
+      784,
+      357
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Overview of data transfer One main objective of the PLC is to visualise in a user-friendly manner what will be done with the data disclosed by the user. This is expressed by a list of all data the user has entered which shows all involved data controllers with all data fields (attributes) and field content (attribute values) that will be transmitted if the transaction is completed. The list is updated in real-time so that the user can immediately observe consequences of all her changes. To establish this, the “Data to Transfer” box on the right side of the user interface displays for each data controller what data will be disclosed for what purposes and what will be the data retention periods for the respective purposes, see Figure 8. Besides, links to the full privacy policies of the data controllers are provided to comply with the Art. 29 Working Party recommendation on multilayered privacy policies [Par04]. The “Data to Transfer” box confirms the user input while the “My Data” box is used to input data. ",
+    "bbox": [
+      218,
+      385,
+      784,
+      580
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4 Technical issues ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      608,
+      403,
+      625
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "This section deals with some technical issues of the PLC. Section 4.1 describes alternative ways how data of the user can be transferred to third party data controllers. Section 4.2 describes different options how PLC can be used and deals with some technical issues. ",
+    "bbox": [
+      220,
+      645,
+      784,
+      704
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4.1 Direct data transfer ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      732,
+      426,
+      746
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In the “classic” approach, the user transfers all her data to the webshop from the first step of the buying procedure onwards. If necessary, the webshop forwards the information to the other data providers, also called downstream data controllers [ABD $^ +$ 09]. The problem is that the webshop gets the complete data set of every user, including information not necessary to perform the transaction. ",
+    "bbox": [
+      218,
+      762,
+      785,
+      837
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      218,
+      116,
+      235,
+      126
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "There are two alternatives to this “classic” approach. The first solution may be to transfer the necessary data directly to the third parties and other service providers (downstream data controllers), e.g., the shipping address directly to the shipping company and the payment data to the payment company. In this case, the webshop would just need a primary key for each process and the corresponding data provider. The second solution for such downstream controllers could be to encrypt the data with the public key of the downstream provider and then forward this to the provider via the webshop. ",
+    "bbox": [
+      218,
+      146,
+      627,
+      313
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Neither of these options has been implemented in the PLC because the PLC is just a GUI-demonstrator, but in any implementation in a real life environment, it is an important design decision how to transfer the data to the downstream controllers and how to make this transparent to the user. ",
+    "bbox": [
+      217,
+      332,
+      627,
+      421
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For example: A user wants to buy “The Blues Brothers” DVD at a webshop using the shipping services of DHL and the payment services of Visa Card. The webshop gets the information that the user wants to buy “The Blues Brothers”, that the payment is done by Visa Card with the primary key 156345 and the shipping will be done by DHL with the primary key 95328. Visa gets the information that the user wants to pay $\\notin 1 0$ , with credit card no. 1234-5678-9012-3456, valid until 10/2015 with card security code 987 to the owner of the primary key 156345. DHL gets the information that one parcel with the primary key 95328 has to be shipped to Holstenstr. 98, 24103 Kiel, Germany. Visa informs the webshop that $\\mathtt { \\backslash } 0$ from primary key 156345 has been paid and will be transferred to the webshop. The webshop passes the DVD to DHL with the primary key 95328 and pays the shipping costs. DHL ships the DVD to the user. ",
+    "bbox": [
+      218,
+      441,
+      627,
+      699
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "This architecture enables the user to expose her private data to a minimal group of data providers. For each of these providers only a minimal set of data is exposed. This approach works under the assumption that the data providers have a privacy policy that does not allow forwarding data to another data provider with a foreign purpose and that the data providers obey to their own privacy policy. ",
+    "bbox": [
+      218,
+      719,
+      627,
+      839
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_6532134/auto/images/68a2c08b217d347dbdecb8e09e3108d820036a837651a4d54a9b27ec3eae2c83.jpg",
+    "image_caption": [
+      "Fig. 8. “Data to Transfer” box. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      642,
+      155,
+      787,
+      689
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      769,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "4.2 Low barriers for usage ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      146,
+      446,
+      161
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The PLC could run directly from the website of the webshop or in a standalone program on the user’s computer. All the users need is a web browser with JavaScript support. This lowers the barrier for users who do not know PLC and do not want to install anything from a third party on their computer or if their operating system is not supported. The output of PLC is also designed to be screen reader compatible, to enable visually handicapped people to use it, too. ",
+    "bbox": [
+      218,
+      174,
+      784,
+      263
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Users can also install PLC directly from PrimeLife Website or another trusted party on their PC, so that there is no way of manipulation by the shop provider. The necessary data to perform the transaction has to be provided by the shop provider at the beginning of the transaction. This includes validation checks for the personal data of the user, additional costs for different shipping and payment methods and allowed payment and shipping methods. To transfer this data from the shop provider to the PLC a policy language similar to the PrimeLife Policy Language [ABD $^ +$ 09] is needed, which ensures that requirements and checks are performed correctly. All checks have to be done offline. If code is transferred that will be executed on the users’ computers, it has to be ensured that this code runs in a sandbox like environment, without network or file access. The research of such a policy has not been done within the research of PLC. If data has to be transferred for a validation or availability check, the user has to give her informed consent to transfer the specific data. A user-interface-demonstration is available at [K¨o10]. ",
+    "bbox": [
+      218,
+      265,
+      785,
+      492
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "5 Evaluation ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      517,
+      354,
+      534
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The PLC has shown some strength in discussions with other researchers, e.g. the “Data to Transfer” section was well accepted. It is an easy way to make transparent to the customers what data will be transferred for which purpose to whom. ",
+    "bbox": [
+      220,
+      551,
+      784,
+      611
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The three-step design is also a big step forward to bring privacy to the users. Most webshops are designed to make it as easy as possible for the customer to buy something. The goal is to lose a minimal amount of customers during the checkout process. Nevertheless, easy is not equal to transparent. Nowadays transparency becomes a more and more important issue for customer in times of phishing, identity theft, and massive data warehousing. ",
+    "bbox": [
+      218,
+      612,
+      785,
+      702
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "On the other hand, the PLC has some weaknesses. One of the major weaknesses are the checkboxes in the “My Data” section. There are too many checkboxes. It is difficult for users to understand what to do with all of these boxes. Users may not understand that they are giving their consent by clicking a checkbox to transfer data. ",
+    "bbox": [
+      220,
+      704,
+      784,
+      779
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Another problem is that the user has too many choices. Many of the combinations of choices that are possible to select in the GUI make no sense and will lead to some kind of error. It would help the user a lot if the GUI would prevent the selection of senseless combinations. It may also help if all payment/shipping providers that not compatible with the chosen “MyPrivacySettings” would be hidden or visually disabled. E.g., rows with unused fields like the credit card number are even displayed, when they are not needed. In addition, unused columns are displayed even if they are not used e.g. when the user has selected nearly anonymous, a column for marketing purposes makes no sense. ",
+    "bbox": [
+      220,
+      780,
+      784,
+      839
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      218,
+      116,
+      235,
+      126
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      784,
+      220
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In addition, an automatic mismatch solver would probably help the users to deal with the PLC-Interface. Moreover, it has to be taken into account that the interface should make it easier to select a privacy friendly solution than giving the consent into privacy unfriendly data processing. ",
+    "bbox": [
+      218,
+      222,
+      785,
+      281
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "There has been an evaluation of the PLC done by Staffan Gustavsson, but with just five participants, so the results are not very reliable. It can be found in [WP410], section 5.2. ",
+    "bbox": [
+      220,
+      282,
+      784,
+      327
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "6 Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      347,
+      357,
+      364
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "PLC introduces a new way for the checkout process in three steps that makes the whole process more transparent for the users compared with other multiple step processes. The concept may influence the design of real life webshops, if privacy becomes a selling point, beside the price. ",
+    "bbox": [
+      218,
+      376,
+      785,
+      436
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "If privacy becomes a selling point, there is a good chance that privacy-aware webshops are going to include something like the “Data to Transfer” box into their website because this would support the intelligibility of their privacy policy. The other parts of PLC contain many valuable ideas, but need some reworking before they can be transferred into productive systems. ",
+    "bbox": [
+      218,
+      438,
+      785,
+      511
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The next step is to make privacy more transparent and comparable in a way that webshops start to compete not just with the price, but also in terms of who is guaranteeing the best privacy and making this process transparent to the potential customers. ",
+    "bbox": [
+      218,
+      512,
+      785,
+      571
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      592,
+      321,
+      609
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "ABD $^ + 0 9$ . Claudio A. Ardagna, Laurent Bussard, Sabrina De Capitani Di, Gregory Neven, Stefano Paraboschi, Eros Pedrini, Stefan Preiss, Dave Raggett, Pierangela Samarati, Slim Trabelsi, and Mario Verdicchio. Primelife policy language. Available online: http://www.w3.org/2009/policy-ws/papers/ Trabelisi.pdf, 2009. 4.1, 4.2   \nK¨o10. Ulrich K¨onig. Primelife checkout livedemo. Available online: http://www.primelife.eu/images/stories/releases/checkout/ PrimeLifeMockUp_3_2.html or http://is.gd/e3AFr, 04 2010. 4.2   \nLEP $^ + 0 1$ . Peter Loosemore, Christian Egelhaaf, Erik Peeters, Sune Jakobsson, Kostas Zygourakis, and Niamh Quinn. Technology assessment of middleware for telecommunications. Eurescom Project P910, April, 2001. Available online: http://www.eurescom.eu/\\~pub/deliverables/ documents/P900-series/P910/TI_5/p910ti5.pdf. 1, 2   \nPar04. Article 29 Data Protection Working Party. Opinion on more harmonised information provisions. Available online: http://ec.europa.eu/justice_ home/fsj/privacy/docs/wpdocs/2004/wp100_en.pdf, November 2004. 3.2 ",
+    "bbox": [
+      217,
+      619,
+      787,
+      840
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      769,
+      116,
+      784,
+      126
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "WP410. WP4.3. UI prototypes: Policy administration and presentation - version 2. In Simone Fischer-Hubner and Harald Zwingelberg, editors, ¨ PrimeLife Deliverable 4.3.2. PrimeLife, http://www.primelife.eu/results/documents, June 2010. 2, 2, 5 ",
+    "bbox": [
+      218,
+      147,
+      785,
+      203
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "14 ",
+    "bbox": [
+      218,
+      116,
+      235,
+      126
+    ],
+    "page_idx": 14
+  }
+]

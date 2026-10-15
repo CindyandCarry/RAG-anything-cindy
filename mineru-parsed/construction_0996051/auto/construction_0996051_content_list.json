@@ -1,0 +1,780 @@
+[
+  {
+    "type": "text",
+    "text": "Land Use Land Cover Change of Maiduguri Urban: Factors and Implications ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      126,
+      877,
+      178
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sani Abdullahi Bello ",
+    "bbox": [
+      397,
+      190,
+      602,
+      209
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "E-mail: saniabello95@gmail.com Contact Number: +2348035145678 Department of Urban and Regional Planning, School of Environmental Studies, Ramat Polytechnic Maiduguri, Borno State Nigeria ",
+    "bbox": [
+      186,
+      212,
+      812,
+      280
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract: Land use/land cover change information is essential for the planning and implementation and management of any urban environment to meet the increasing demands for basic human needs and welfare of the rapidly growing population. The paper examined the changes in land use /land cover within the Maiduguri urban environment between 2000 and 2018. The study was conducted using an integrated approach using the Remote Sensing and GIS techniques, and Focus group discussion (FGD) were used to collect socioeconomic data and information on factors contributing to land use/land cover change and implications of land use/ land cover change in the study area. Land cover maps from Landsat images of 2000 and 2018 were employed for study. Findings from study revealed that only the built-up area expanded from $5 I . 8 I \\%$ in 2000 to about $6 4 . 5 7 \\%$ in 2018, whereas all other land use declined in area. The study concluded that various factors were attributed to land use/ land cover change in the study area and also several implications of the land use/ land cover change were revealed. It is recommended that special attention and continuous investigation are required for effective monitoring; urban planning, development and management. Investigation of the changes in land use and land cover could be very important for monitoring the urban activities and resolving the negative consequences of the urban growth. ",
+    "bbox": [
+      114,
+      309,
+      882,
+      550
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Key words: Environment, GIS, Remote Sensing, Land use/Land cover change, Resources, Urban planning. ",
+    "bbox": [
+      112,
+      561,
+      877,
+      594
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      659,
+      272,
+      676
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Background of the study ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      689,
+      323,
+      707
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "According to Meyer, (1995), every parcel of land on the earth’s surface is unique in the cover it possesses. He asserts that, land use and land cover are distinct yet closely linked characteristics of the earth’s surface. Land use is the manner in which human beings employ the land and its resources. Examples of land use include agriculture, urban development, grazing, logging and mining. In contrast, land cover describes the physical state of the land surface. Land cover categories include crop land, forest, wetlands, pastures, roads and urban areas. ",
+    "bbox": [
+      116,
+      719,
+      882,
+      824
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Urban growth is a global phenomena and one of the most important reforming processes affecting both natural and human environment through many ecological and socio-economic processes (Mandelas, et al, 2007). Currently, communities worldwide need spatial data to compensate for and adapt to current urban growth while planning for expected future change and its impacts on infrastructure, as well as the surrounding environment. Rapid rates of urban land use change and rate urbanization are now at the front of local political disputes (Goetz, et al., 2003). In the last threedecades, the technologies and methods of remote sensing have evolved dramatically to include a suite of sensorsoperating in a wide range of imaging scales with potential interest and importance to planners and land managers (Rogan & Chen, 2004). Human activities which affect the natural environment in the past recent decades have grown exponentially since the beginning of industrial revolution. While earth’s landmass has remained factually static throughout the period, the human need on it have grown and altered, impacting the earth’s ecosystem. Hence, adequate information on land use/land cover and its alterations to the environment has become an important aspect as the Nation plans to overcome the problems of haphazard, uncontrolled development, deteriorating environmental quality, loss of prime agricultural lands, destruction of important wetlands, and loss of fish and wildlife habitat. Employment opportunities created from ecosystem services alone are approximately half of all jobs worldwide. Thus, access to this natural capital is a significant contributor to sustainable livelihoods and underpins poverty reduction in at least five key areas including food security, health improvements, income generation, reduced vulnerability and ecosystem services (Koziell & McNeil, 2002). ",
+    "bbox": [
+      116,
+      837,
+      882,
+      906
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ARCN Journals Africa Research Corps Network Publication& Research ",
+    "bbox": [
+      673,
+      39,
+      879,
+      87
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ISSN: 2384-5341. Volume 13, Issue 1, (June, 2021) pages 89 - 96 journals@arcnjournals.org www.arcnjournals.org ",
+    "bbox": [
+      117,
+      45,
+      549,
+      103
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "89 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      125,
+      882,
+      420
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Concepts of Land Use/Land Cover change ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      434,
+      472,
+      452
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Land use /land cover change is a general term for the human modification of the Earth’s terrestrial surface. Although humans have been modifying land to obtain food and other essentials for thousands of years, current rates, extents and intensities of land use /land cover change are far greater than ever in human history, driving unprecedented changes in ecosystems and environmental processes at local, regional and global scales. Today, land use /land cover changes encompass the greatest environmental concerns of human population including climate change, biodiversity depletion and pollution of water, soil and air. Currently, monitoring and mediating the adverse consequences of Land use /land cover change while sustaining the production of essential resources has become a major priority of researchers and policy makers around the world (Erle and Pontius, 2007). ",
+    "bbox": [
+      116,
+      453,
+      882,
+      626
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Studies on Land Use/ Land Cover Change ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      643,
+      470,
+      660
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Changes in land cover and the way people use the land have become recognized since the mid 1980s as important global environmental changes in their own right (Turner, 2002). Scientific research community called for substantive study of land use changes during 1972 Stockholm Conference on the Human Environment, and again 20 years later, at the 1992 United Nations Conference on Environment and Development (UNCED). At the same time, International Geo-sphere and Biosphere Programme (IGBP) and International Human Dimension Programme (IHDP) co-organized a working group to set up research agenda and promote research activity for land use /land cover changes. The working group suggested three core subjects for land use /land cover change research, such as situation assessment, modeling and projecting and conceptual scaling. The ultimate goal of global change study was to assess the impacts under each possible scenario and suggest preventive actions against the adverse environmental consequences. The focus was the adverse impact of these regional and global changes on society and environment. Empirical studies by researchers from diverse disciplines found that land use /land cover and its change had become key to many diverse applications such as environment, forestry, hydrology, agriculture, geology and ecology (Weng, 2001). These applications referred to urban expansion, deforestation, crop land loss, water quality change, soil degradation etc. At the same time, in the past decades, according to Lambin, (2001), a major international initiative to study land use change, the land use and land cover project had gained great impetus in its efforts to understand driving forces of land use change, developed diagnostic models of land use change and produce regionally and globally integrated land use models. These efforts have stimulated the interest of researches to apply various techniques to detect and further model environmental dynamics at different levels including local, regional and global scales. ",
+    "bbox": [
+      116,
+      662,
+      882,
+      904
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      292,
+      95,
+      705,
+      109
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "90 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      125,
+      882,
+      281
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The basis of using remote sensing data for change detection is that changes in land cover result in changes in measurement values which can be remotely sensed. Techniques to perform change detection with satellite imagery have become numerous as a result of increasing adaptability in manipulating digital data and increasing computer power. Post-classification comparison and multi-date composite image change detection are the two most commonly used methods in change detection (Jensen, 1996). GIS and remote sensing based change detection studies have predominantly focused on providing the knowledge of how much, where, what type of land use and land cover change has occurred. ",
+    "bbox": [
+      114,
+      294,
+      882,
+      434
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Study area and Methodology Study Area ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      446,
+      359,
+      481
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As shown in figure 1. Maiduguri is the capital city of Borno state in the North-Eastern region of Nigeria. It is located on latitude $1 1 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { N }$ $1 1 . 8 3 ^ { \\circ } \\mathrm { N }$ and longitude $1 3 ^ { \\circ } 0 9 \\mathrm { ^ { \\circ } E } \\ 1 3 . 1 5 ^ { \\circ } \\mathrm { E }$ , lying on a relatively flat terrain of about $3 5 0 \\mathrm { m }$ above sea level. The town has an area of $5 5 0 ~ \\mathrm { k m } ^ { 2 }$ with a population estimated at 1,197,497 (World Gazetter, 2009). ",
+    "bbox": [
+      116,
+      481,
+      883,
+      544
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0996051/auto/images/0560372ffdbc5969fff35262c16428e2c4f08e3939bb6054ea76399ee20fa25d.jpg",
+    "image_caption": [
+      "Source: Modified from UN Office for the Coordination of Humanitarian Affairs, (2017) Fig. 1: Study Area Methodology "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      544,
+      929,
+      848
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      938
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "91 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      936
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      290,
+      95,
+      705,
+      109
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Data required for the study includes information from Google images, GIS and Remote sensing data, pictures, demographic and socio-economic characteristics of the respondents in the study area. The data for this study was collected through primary and secondary sources. Primary data was gathered through the use of the satellite images, GIS and Remote sensing soft ware, physical observations/measurements and focus group discussions (FGD). For the identification of factors contributing to LULCC, and the implications of LULCC on the study area, five (5) districts were purposively selected for the study, these include: Bolori, Dala Alamderi, Maisandari, Galtimari and Mairi district. One (1) focus group each with 10 participants was organised for the five (5) selected districts. ",
+    "bbox": [
+      114,
+      142,
+      882,
+      299
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Results and Discussion ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      311,
+      308,
+      329
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The study revealed that from 2000 to 2018 built up area comprising of buildings, roads, and other infrastructures and facilities dominated greater percentage of Maiduguri urban with about $5 1 . 8 1 \\%$ in 2000 and $6 4 . 5 7 \\%$ in 2018 land area respectively. In 2000, agriculture covered $1 4 . 6 4 \\%$ , bear surface was $1 3 . 5 0 \\%$ and grass land covered $2 0 . 0 5 \\%$ of the total area whereas, these percentages of area covered by agriculture, bear surface and grass land reduced to $1 1 . 7 7 \\%$ , $1 2 . 3 6 \\%$ and $1 2 . 3 6 \\%$ respectively. (Figure 4) below ",
+    "bbox": [
+      116,
+      342,
+      883,
+      446
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0996051/auto/images/91d3603668d06ce752a1dc08456f15e4e35f3b18ee85ffd962ff1ebdeff31b79.jpg",
+    "image_caption": [
+      "Figure 4: Land use/ land cover area change of Maiduguri Urban between 2000 and 2018 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      120,
+      482,
+      918,
+      724
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Source: LANDSAT IMAGE, 2000 & 2018 ",
+    "bbox": [
+      114,
+      731,
+      459,
+      750
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Demographic Characteristics of the Respondents ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      766,
+      527,
+      785
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "From table 4.1, below, male constituted the greater percentage of the respondents $( 9 4 \\% )$ with significant number of about $42 \\%$ attended tertiary education level. Farmers were only $4 \\%$ while trading and civil service dominated the occupation of the respondents with $40 \\%$ and $3 6 \\%$ respectively. Kanuri as a single tribe/ethnic group is the largest with about $3 8 \\%$ while the other ethnic groups were $62 \\%$ . ",
+    "bbox": [
+      116,
+      801,
+      883,
+      887
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      292,
+      95,
+      705,
+      109
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "92 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/construction_0996051/auto/images/071fa02907980bd1f45c6a81c2d7bc2296e3ece0b8eca118db5e49eb1ba394ad.jpg",
+    "table_caption": [
+      "Table 4.1: Demographic Characteristics of the Respondents "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Variable</td><td>No. of Respondents</td><td>Percentage (%)</td></tr><tr><td>Gender</td><td></td><td></td></tr><tr><td>Male</td><td>47</td><td>94</td></tr><tr><td>Female</td><td>3</td><td>6</td></tr><tr><td>Age Group</td><td></td><td></td></tr><tr><td>21 -30</td><td>9</td><td>18</td></tr><tr><td>31 - 40</td><td>6</td><td>12</td></tr><tr><td>41 - 50</td><td>11</td><td>22</td></tr><tr><td>51 -50</td><td>15</td><td>30</td></tr><tr><td>Above 60</td><td>9</td><td>18</td></tr><tr><td>Educational Status</td><td></td><td></td></tr><tr><td>Non- Formal Education</td><td>12</td><td>24</td></tr><tr><td>Primary Education</td><td>8</td><td>16</td></tr><tr><td>Secondary Education</td><td>9</td><td>18</td></tr><tr><td>Tertiary Education</td><td>21</td><td>42</td></tr><tr><td>Occupation</td><td></td><td></td></tr><tr><td>Farming</td><td>2</td><td>4</td></tr><tr><td>Artisan/ Craft</td><td>6</td><td>12</td></tr><tr><td>Trading</td><td>20</td><td>40</td></tr><tr><td>Civil Servant</td><td>18</td><td>36</td></tr><tr><td>Others</td><td>4</td><td>8</td></tr><tr><td>Ethnic Group</td><td></td><td></td></tr><tr><td>Kanuri</td><td>19</td><td>38</td></tr><tr><td>Others</td><td>31</td><td>62</td></tr><tr><td>Total</td><td>50</td><td>100</td></tr><tr><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      112,
+      148,
+      882,
+      702
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Factors contributing to land use/land cover change in Maiduguri Urban ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      729,
+      720,
+      748
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Based on the findings obtained from field survey, the following factors were identified as the major factors contributing to land use/land cover change in the study area. The factors consists both socio- economic and physical factors. ",
+    "bbox": [
+      114,
+      760,
+      880,
+      813
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The study revealed that $9 6 \\%$ of the respondent have lamented the population explosion is among the major factors contributing to land use/land cover change in Maiduguri Urban while urbanisation recorded $8 8 \\%$ , social stratification $40 \\%$ , insurgency $24 \\%$ , rural-urban migration ",
+    "bbox": [
+      116,
+      825,
+      882,
+      877
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      292,
+      95,
+      707,
+      109
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "93 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$24 \\%$ , but water resources, climate , topography and soil recorded $14 \\%$ , $10 \\%$ , $6 \\%$ and $6 \\%$ respectively (Figure 4). ",
+    "bbox": [
+      114,
+      125,
+      883,
+      160
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/construction_0996051/auto/images/6fdba7e5b6211847c0e7bc18a9ddaaabd1e69dd1b4f4709ac443dff98f6e771e.jpg",
+    "image_caption": [
+      "Figure 4: Factors contributing to land use/land cover change in Maiduguri Urban ",
+      "Implications of land use/land cover changes on the study area over time "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      120,
+      199,
+      879,
+      458
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Some of the major implications of land use/land cover change on the study area over time in the study area include the following: ",
+    "bbox": [
+      119,
+      494,
+      874,
+      529
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1. The high demand for residential areas and facilities to improve the quality of life led to high cost of living with respect to land and rented apartments which are fueled by the high number of humanitarian organisations with most of their offices located in the city. This encourages the development of slums/squatter settlements within the city.   \n2. Environmental pollution due to high rate of domestic waste generation by the high number of residents in Maiduguri and the emission of carbon dioxide from engines and automobiles which pollutes the natural atmosphere.   \n3. Disturbance of terrestrial soils and vegetation through the action of deforestation which consequently eliminate the benefit of weather modification and other ecological services rendered by the vegetative covers e.g soil erosion checkers and wind breakers.   \n4. Traffic congestion due increase in volumes of passengers and motorists in many location within the study area.   \n5. Construction of houses, roads and other structures directly led to the conversion from farmland to construction land which if persist could in turn lead to food insecurity.   \n6. Urban heat island effect in most part of the city due to the high temperature retaining capacity of buildings/roads during the day hours.   \n7. The lost of biodiversity/extinction of some certain plants and animals as a result of land use conversion from farm/ forest to residential especially in some locations at the fringe of the city such as Galtimari district, Dala Alamderi, and Mairi Districts respectively. ",
+    "bbox": [
+      142,
+      541,
+      883,
+      869
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      290,
+      95,
+      707,
+      109
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "94 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "8. High rate of illegal street trading, baggers, minor crime, and prostitution along Damboa Road, Bama Road and Muna garage area within the Maiduguri urban is more pronounced as a result to the population explosion. ",
+    "bbox": [
+      143,
+      126,
+      882,
+      178
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      190,
+      210,
+      207
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The findings indicated that population explosion, urbanisation and social stratification are the main drivers of land use /land cover change in Maiduguri urban while other factors include but not limited to; environmental pollution, insurgency, rural-urban migration, climate, relief, soil and water. The study confirmed that, the land use/land cover change has significant number of implications on the environment resulting to high cost of living, insecurity and other environmental problems such as pollution and heat island effects. ",
+    "bbox": [
+      116,
+      219,
+      882,
+      324
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Recommendation ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      337,
+      264,
+      354
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "To manage the problems related to land use/ land cover and to ensure environmental sustainability, this study recommends effective enforcement of urban planning and development laws by the Borno State Government for sustainable development in the study area. ",
+    "bbox": [
+      116,
+      367,
+      882,
+      419
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A comprehensive development study through the Borno state urban planning and development board on the future growth and pattern of the Maiduguri urban should be conducted at regular basis so as to come out with a valid document that can guide future development. Hence, it could be very important to the planners, decision makers and stakeholders for efficient utilization of land. The study should link between socio-economic aspects, land policy, biophysical and human factors. ",
+    "bbox": [
+      116,
+      420,
+      882,
+      523
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      536,
+      250,
+      554
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Erle, E., and Pontius, R., (2007). Land-use and land-cover change. In: Encyclopaedia of Earth. (Eds.). Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). http://www.eoearth.org/article/Land-use_and_land-cover_change   \nGEONETCAST Spatial Database, CAZs UNIMAID, 2016   \nGoetz, S.J., Smith, A. J., Jantz C., Wright, R. K., Prince, S. D., Mazzacato, M. E., and Melchior, B., (2003) Monitoring and predicting urban land use change: Application of multiresolution multi-temporal satellite data. IGRASS’03 proceedings.2003 IEEE International. Vol.3 pp.1567-1569.   \nJensen, J.R. (1996). Introductory Digital Image Processing. A Remote Sensing Perspective, Second Edition. Prentice-Hall: New Jersey, 316p.   \nKoziell, I. & McNeil, C. (2002). Building on Hidden Opportunities to Achieve the MillenniumDevelopment Goals: Poverty Reduction through Conservation and Sustainable Use of Biodiversity. IIED London and UNDP Equator Initiative New York   \nLandsat Images of 2000 & 2018   \nLambin, E.F., Turner, B.L., Geist, H.J., Agbola, S.B., Angelsen, A.J., Bruce, Xu, J.C. (2001) The Causes of Land Use and Land-Cove Change: Moving Beyond the Myths. Global Environmental Change, 11, 261-269.   \nMandelas A. E, Hatzichristos T. and Prastacos P.(2007) A fuzzy cellular automata based shell for modeling urban growth- a pilot application in Mesogia area, 10th AGILE International Conference on Geographic information Science, 2007, Aalborg university, Denmark   \nMeyer, W.B. (1995). Past and Present land use and land cover in the U.S.A. Consequences. Cambridge University Press. New York.   \nRogan, J. and Chen, D.M. (2004) Remote Sensing Technology for Mapping and Monitoring Land-Cover and Land Use Change. Progress in Planning, 61, 301-325.Turner B.L,   \n2002. Toward Integrated Land-Change Science: Advances in 1.5 decades of SustainedInternational Research on Land-use and Land-cover Change. In: Erika L., Eric F, et al., (Eds.).A Synthesis of Information on Rapid Land-Cover Change for the Period 1981-2000. Bioscience, 2005. Vol. 55, pp.115-124   \nWeng, Q., (2001). A remote sensing-GIS evaluation of urban expansion and its impacts on surface temperature in the Zhujang Delta, China. International Journal of remote sensing. Vol.22(10), pp.1999-2014.   \nWorld Gazetteer (2009). Retrieved $6 ^ { \\mathrm { { t h } } }$ April 2015 ",
+    "bbox": [
+      106,
+      570,
+      869,
+      886
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      292,
+      95,
+      705,
+      109
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "95 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      106,
+      125,
+      883,
+      387
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "96 | P a g e ",
+    "bbox": [
+      789,
+      921,
+      877,
+      935
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "journals@arcnjournals.org ",
+    "bbox": [
+      421,
+      921,
+      642,
+      936
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ARCN International Journal of Sustainable Development ",
+    "bbox": [
+      290,
+      95,
+      705,
+      109
+    ],
+    "page_idx": 7
+  }
+]

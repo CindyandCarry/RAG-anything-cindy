@@ -1,0 +1,1599 @@
+[
+  {
+    "type": "text",
+    "text": "WATERSHED 2013 ECONOMIC REPORT AND 2014 OUTLOOK CAPITAL ",
+    "bbox": [
+      76,
+      458,
+      915,
+      539
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "[Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved] ",
+    "bbox": [
+      210,
+      912,
+      756,
+      930
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "January, 2014 ",
+    "bbox": [
+      629,
+      92,
+      781,
+      113
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Economic Activities show improvement on the back of Non-Oil Sector Performance ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      171,
+      883,
+      214
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The performance of the Nigerian economy in 2013, measured by the gross domestic product, was impressive. When compared with the 2013 forecast, Nigeria surpassed the projected growth of $6 . 7 5 \\%$ for 2013 by the close of third quarter the same year. This was not unconnected with various reforms of the current administration. The Federal Government of Nigeria is currently carrying on various reform programmes in different sectors of the economy. Among these reforms which are targeted at improving the state of the Nigerian economy are the Special Programme for Food Security (SPFS); Fadama I & II Programmes; Fertilizer Revolving Fund; Presidential Initiative on Cassava, Rice, Vegetable Oil, Tree Crops and Livestock; restructuring and recapitalization of the Nigerian Agricultural, Co-operative and Rural Development Bank in the agricultural sector. These policies and programmes have positively impacted on agricultural production in the recent time. Also in the trade and investment sector a number of initiatives were introduced such as the tariff reforms, harmonization of waivers, port reforms, concessions and incentives and introduction of EPZ (Export Processing Zone) to boost exports. These policies were put in place to enhance international competitiveness, export diversification, greater utilization of preferential trade arrangements and Nigeria’s increased participation in international trade negotiations. Further effort of the Federal Government to boost the Nigerian economy was the recent completion of the privatization of the PHCN (Power Holding Company of Nigeria) targeted at making the power sector to become market driven. This is expected to bolster substantial investment inflow into the Nigerian power sector and consequently increase generation capacity, and expand the capacity of transmission and distribution networks in the power sector. ",
+    "bbox": [
+      114,
+      236,
+      883,
+      628
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The Nigerian economy appeared to be one of the fast growing economies among the category of the developing economies of the world. Table 1 shows the performance of Nigerian economy compared with the BRICS countries (Brazil, Russia, India, China, South Africa) during the year under review. ",
+    "bbox": [
+      114,
+      640,
+      883,
+      713
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/6e78a9b048c58ad33a700a460dfa1816f9ace467820caf409949ab6b05648251.jpg",
+    "table_caption": [
+      "Table 1: Quarterly Growth rate of Real GDP (2013) "
+    ],
+    "table_footnote": [
+      "Source: OECD, WCL Research Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Country</td><td rowspan=1 colspan=1>Q1 2013</td><td rowspan=1 colspan=1>Q2 2013</td><td rowspan=1 colspan=1>Q3 2013</td></tr><tr><td rowspan=1 colspan=1>Brazil</td><td rowspan=1 colspan=1>1.7</td><td rowspan=1 colspan=1>3.3</td><td rowspan=1 colspan=1>2.2</td></tr><tr><td rowspan=1 colspan=1>Russia</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>1.2</td></tr><tr><td rowspan=1 colspan=1>India</td><td rowspan=1 colspan=1>3.1</td><td rowspan=1 colspan=1>3.3</td><td rowspan=1 colspan=1>5.3</td></tr><tr><td rowspan=1 colspan=1>China</td><td rowspan=1 colspan=1>7.7</td><td rowspan=1 colspan=1>7.5</td><td rowspan=1 colspan=1>7.8</td></tr><tr><td rowspan=1 colspan=1> South Africa</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>1.8</td></tr><tr><td rowspan=1 colspan=1>Nigeria</td><td rowspan=1 colspan=1>6.56</td><td rowspan=1 colspan=1>6.18</td><td rowspan=1 colspan=1>6.8</td></tr></table>",
+    "bbox": [
+      106,
+      751,
+      875,
+      895
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      114,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "On amass, the Nigeria economy when measured by the real gross domestic product in 2013 grew by 6.56 per cent in the first quarter, 6.18 per cent in the second quarter, 6.8 per cent in the third quarter and it was expected to grow by $7 \\%$ in the fourth quarter of the year. This was expected to be driven by increase in economic activities in real estate and construction sector due to emergence of dry season, increased activities in wholesale and retail sector which was associated with end on the year festivities as so on. ",
+    "bbox": [
+      114,
+      128,
+      883,
+      239
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/a373c36473d6edfa2636e63c2ff54ce8255464c523f848423dc060c80776e1e7.jpg",
+    "table_caption": [
+      "Table 2: Nigeria Real Gross Domestic Product (billion US Dollars) "
+    ],
+    "table_footnote": [
+      "Source: NBS, WCL Research $^ { * * * } F =$ Forecast "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>2012</td><td rowspan=1 colspan=1>2013</td></tr><tr><td rowspan=1 colspan=1> Quarter</td><td rowspan=1 colspan=1> Real GDP</td><td rowspan=1 colspan=1> Real GDP</td><td rowspan=1 colspan=1> Real GDP</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>171265.9</td><td rowspan=1 colspan=1>182119.44</td><td rowspan=1 colspan=1>194063.5</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>187833.1</td><td rowspan=1 colspan=1>199831.56</td><td rowspan=1 colspan=1>212182.4</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>228454.8</td><td rowspan=1 colspan=1>243263.1</td><td rowspan=1 colspan=1>259839.4</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>246447.1</td><td rowspan=1 colspan=1>263678.91</td><td rowspan=1 colspan=1> ***282236.2F</td></tr></table>",
+    "bbox": [
+      148,
+      281,
+      848,
+      407
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The nominal GDP for the first quarter of 2013 was estimated at N9, 493,779.44 million, up from N9, 142,858.51 million estimated for the corresponding quarter in 2012. In the second quarter and third quarter of 2013, the nominal GDP increased by $3 . 7 1 \\%$ and $5 . 4 0 \\%$ respectively. The nominal GDP is expected to grow at $6 \\%$ in last quarter of 2013. The growth experienced in the nominal GDP in 2013 was as a result of large produce from key sectors in the economy. ",
+    "bbox": [
+      114,
+      444,
+      883,
+      539
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/f828bdb9310c8c7e5436b5b0da8c0cd7f0e76c57fda48132b2748b705180c3f8.jpg",
+    "table_caption": [
+      "Table 3: Nigeria Real Gross Domestic Product (billion US Dollars) "
+    ],
+    "table_footnote": [
+      "Source: MOF, WCL Research "
+    ],
+    "table_body": "<table><tr><td>SECTOR</td><td>2012</td><td>Q1 2013</td><td>Q2 2013</td><td>Q3 2013</td></tr><tr><td> Oil(Contribution to GDP)</td><td>13.76 %</td><td>14.75 %</td><td>12.9%</td><td>12.50 %</td></tr><tr><td>Non-oil (Contribution to GDP)</td><td>86.24 %</td><td>85.25%</td><td>87.1%</td><td>87.50%</td></tr></table>",
+    "bbox": [
+      107,
+      580,
+      879,
+      648
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Available statistics from the National Bureau of Statistics (NBS) indicates that despite the continuous challenges facing the sector, the non-oil sector continues to sustain the Nigerian economy. In the third quarter of 2013, the non-oil sector recorded 7.95 percent growth in real terms compared with 7.55 percent at the corresponding period in 2012, and 7.36 percent in the second quarter of 2013. ",
+    "bbox": [
+      114,
+      679,
+      883,
+      772
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      952,
+      121
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      109,
+      581,
+      128
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/11570b207f84b2681addf822ba4fcf8b5c4ef5d98224120d83e9b537322201d7.jpg",
+    "image_caption": [
+      "Figure 1: Real GDP Trend (Q1, 2011 – Q3, 2013) ",
+      "Source: NBS, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      143,
+      171,
+      869,
+      391
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The 0.40 percentage point increase in growth (year-on-year) was largely driven by better performance in the agricultural sector; crop production in particular, banking and insurance activities, real estate, hotels and restaurants, building and construction, and solid mineral production. Figure 2 below shows the details of sector contribution to the GDP in Q3, 2013. ",
+    "bbox": [
+      114,
+      435,
+      883,
+      510
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/ed08f74fc5c3cae219b737e1197bb8a6f5d015c3008618bf5d7cf9fdd55bd138.jpg",
+    "image_caption": [
+      "Figure 2: Percentage Share in GDP at 1990 Constant Basic Prices (Q3, 2013) ",
+      "Source: NBS, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      178,
+      570,
+      869,
+      811
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      952,
+      121
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      751,
+      936
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A further analysis of the economic activities during 2013 shows that Agricultural sector contributed the highest ( 42 per cent) followed by Wholesale and Retail Trade with 19 per cent. On sector-by-sector basis, Telecommunication and Postal Services recorded the highest growth during the year (figure 3), followed by building and Construction. The growth in Building and Construction declined consistently between Q1 and Q3 ( figure 3). This decline reflected the seasonal nature of the activities in the sector. Decreased in activities in Q2 and Q3 reflected the emergence of raining season which had impart on construction activities. ",
+    "bbox": [
+      114,
+      147,
+      883,
+      277
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/c513e5caa753093b0d602fb1f646278d101430699ff92c55c465ea498139fa7c.jpg",
+    "image_caption": [
+      "Figure 3: Growth rate of various sectors in Nigeria in 2013. ",
+      "Source: NBS, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      135,
+      345,
+      854,
+      537
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Agricultural Sector: Thriving on Agricultural Transformation Agenda ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      603,
+      823,
+      625
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Until recent years, the agricultural sector in the country had suffered a severe decline and suboptimal growth in the past five decades. The sector remained stagnant during the oil boom in the 1970s, and this accounted largely for the declining share of its contributions to the gross domestic product. Though the sector today contributes around 40 per cent to the nation’s GDP, the sector is still far away from attaining its potential when compared to its 65 percent contribution to the GDP in the $1 9 6 0 ^ { \\prime } s$ . In the 1960s and early 1970s, Nigeria was a world-beater in the production and exportation of essential cash crops like rubber, cocoa, palm oil, cashew nuts, groundnut and cotton, among others. The emergence of crude oil has been responsible for the near complete neglect of the sector. ",
+    "bbox": [
+      114,
+      626,
+      883,
+      792
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In the recent time, the efforts of the Federal government at diversifying the Nigerian economy has started yielding results. This was reflected in the contribution of Agricultulral Sector to the gross domestic product of the country in the year 2013. During the first quarter, Agricultural Sector contributed 33.69 per cent of the GDP, 40 per cent in the second quarter and 41.93 per ",
+    "bbox": [
+      114,
+      813,
+      883,
+      887
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      114,
+      109,
+      581,
+      128
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "cent in third quarter. The performanace and contribution of the sector to the GDP during the period under review was not unconnected with various interventions and reforms of the government. The Federal Government, through the Federal Ministry of Agriculture has initiated Agricultural Transformation Agenda (ATA) since the beginning of this administration. Other factors that have contributed to the significant improvement in agricultural sector were the new measure adopted by the Central Bank of Nigeria (CBN) on credit delivery including Trust Fund Model which reduced risk faced by farmers; the growth recorded in the quarter points of the year improved output, as well as recovery from the floods that were particular to the third quarter of 2012 impacting at least 25 out of the 36 States in Nigeria. Crop production and fishing in particular, showed improvements partly as a result of Federal Ministry of Agriculture initiatives such as the dry season farming, local fish seed production, development of shrimp farming and supplying of fertilizers directly to farmers, providing mechanised equipment at affordable rates as well as other reforms, resulted in increased output in 2013. The impact of rainfall experienced during the year cannot be undermentioned. ",
+    "bbox": [
+      114,
+      130,
+      883,
+      390
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Wholesale and Retail Sector: Bolstered by increased activities of Online and Large Retail Shops ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      422,
+      882,
+      468
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Wholesale and Retail Trade sector based on its contribution to the GDP in the quarter two and currently contributing 19.2 per cent to the GDP in the third quarter of the 2013 is the second highest contributor to the gross domestic product of the country after agriculture. The reason is not far fetched as the key inputs in the sector are from the agricultural sector. ",
+    "bbox": [
+      116,
+      487,
+      883,
+      561
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Growth in the Wholesale and Retail Trade sector in the first quarter of 2013 was 8.22 percent and declined by 0.78 percent in the second quarter leaving it at a growth of 7.44 percent and stood at 9.03 percent in the third quarter of 2013 (see figure 4). ",
+    "bbox": [
+      114,
+      563,
+      883,
+      617
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Comparing the contribution of the sector to the 2013 forcast, the sector outperformed the 16.9 percent forecast. This contribution is connected to the expansion of the retail trade in the country and fast booming online shopping stores in the country. Retail trade in Nigeria is gaining more attention. The spate of emergence of mordern shopping malls and numerous retail outlets like Shoprite, Mr. Price, PEP, Spar and so on across the country are evidences. ",
+    "bbox": [
+      116,
+      619,
+      883,
+      712
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Online retail is also a fast growing subsector in the Wholesale and Retail Trade sector. From a low base, online retail companies like Jumia, Konga, Gloo, Buyam and so on are springing up. Most of these online retail companies have attracted foreign capital to enlarge their business across Nigeria. While there are huge growth potentials in the sector, there is a need for infrastructural development (such as internet facility, power, good road network etc.) to support online retail business across the country. ",
+    "bbox": [
+      114,
+      713,
+      883,
+      824
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Oil Sector: Oil theft/production losses remains a daunting challenge ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      131,
+      810,
+      150
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Emperical evidences have shown that that no meaningful economic growth can be achieved without efficient utilisation of of energy resources. Various reforms in the sector are expected to begin to impact considerably in the near future. The energy sector is critical to the sustenance of the political and economic system of Nigeria and in the realisation of the country’s economic growth ambitions. While the goal of being one of the top 20 nations by the year 2020 may be overly ambitious given the pace of the economic growth in the last 5 years, the potential to grow significantly is huge if the benefits of a successfully reformed energy sector provide the springboard. ",
+    "bbox": [
+      114,
+      154,
+      883,
+      301
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "That Nigeria’s economy is largely dependent on oil is an understatement. This is obvious as about 90 percent of the country export revenue is oil driven. This has over-exposed the economy to external shocks. Available statistics from NBS indicates that average daily production of crude oil in the third quarter of 2013 2.26 million barrels per day, an increase from 2.11 million barrels per day recorded in the second quarter of the year. Crude production was however lower compared to the 2.52 million barrels per day recorded in the third quarter of 2012. These figures with their associated gas components, resulted in a decline in the growth (year-on year) of the value added of output in oil GDP by 0.53 percent for the third quarter of 2013, an increase from the negative 1.15 percent growth recorded in the second quarter of 2013 and but lower from the 0.08 percent growth recorded in the corresponding period of 2012. The decline in the recorded production in our opinion was not unconnected with the renewed restiveness in the oil producing region of the country as well reported increase in oil theft and production losses (see table XXX). It is believed that an average of 1,400,000 barrels of oil is being stolen every day. ",
+    "bbox": [
+      114,
+      320,
+      883,
+      583
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/b5298ff20769870761ef26192ac271ead997f1a51c3799ecf7458896ba850543.jpg",
+    "table_caption": [
+      "Table 4: Average trend of crude oil in Nigeria "
+    ],
+    "table_footnote": [
+      "Source: CBN, WCL Research "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>2012</td><td rowspan=1 colspan=1>2013</td></tr><tr><td rowspan=1 colspan=1>Crude Oil Price (Us dollars)</td><td rowspan=1 colspan=1>63.90</td><td rowspan=1 colspan=1>80.92</td><td rowspan=1 colspan=1>113.76</td><td rowspan=1 colspan=1>113.47</td><td rowspan=1 colspan=1>110.26</td></tr><tr><td rowspan=1 colspan=1> Domestic Production (mbpd)</td><td rowspan=1 colspan=1>2.11</td><td rowspan=1 colspan=1>2.47</td><td rowspan=1 colspan=1>2.38</td><td rowspan=1 colspan=1>2.32</td><td rowspan=1 colspan=1>2.19</td></tr><tr><td rowspan=1 colspan=1>Crude Oil Export (mbpd)</td><td rowspan=1 colspan=1>1.66</td><td rowspan=1 colspan=1>2.02</td><td rowspan=1 colspan=1>1.93</td><td rowspan=1 colspan=1>1.87</td><td rowspan=1 colspan=1>1.74</td></tr></table>",
+    "bbox": [
+      106,
+      619,
+      885,
+      705
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "According to a report by International Monetary Fund (IMF), oil theft has been adversely affecting export receipts and government revenues, leading to excessive depletion of the Nigerian excess crude account. The report also indicated that oil theft/production losses have adversely impacted export receipts and government revenues, leading to a significant drawdown from the Excess Crude Account as at the end of Q3, 2013. Although the Federal Government of Nigeria seem to be addressing this menace by exploring the possibility of using an electronic pipeline surveillance to track oil theft in Nigeria, how strong the political will to implement this remain a big question. ",
+    "bbox": [
+      114,
+      742,
+      883,
+      891
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Oil sector however contributed approximately 12.50 percent to real GDP in the third quarter of 2013, lower from the 12.90 percent contribution in the second quarter of 2013, and the 13.42 percent recorded during the third quarter of 2012 (See Figure 4). ",
+    "bbox": [
+      116,
+      130,
+      885,
+      184
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/c75a6f45bf6e6331c82be32e5d3df0f5e3ed971481d13788e4e25008e463c98a.jpg",
+    "image_caption": [
+      "Figure 4: Oil GDP Growth Rate at 1990 Constant Price (Q1 2008 – Q3, 2013) ",
+      "Source: NBS "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      239,
+      879,
+      500
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Power Sector: Power crises grows worse in the face of privatisation ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      553,
+      848,
+      574
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Available data from Presidential Task Force on Power show that Nigeria continued in the mere of power crisis in 2013. From the celebrated power generation at 4517.6MW in 2012, the generation declined to about 3,781.80 MW in October, 2013. The electricity generation report showed that though the country’s peak demand level forecast was $1 2 , 8 0 0 ~ \\mathrm { M W }$ of electricity, energy generation capacity stood at about 3,559.46 MW per hour (MWH/H), while actual electricity sent out into the national grid was 3,487.85 MWH/H during the year. It is expected that there should be improvement soonest in the power generation based on the fact that the current administration is doing much, including the investment of about $\\$ 3$ billion (N480 billion) in the sector, to raise power supply to a reasonably stable level by the middle of 2014. This may however become a tall dream if the problems of weak transmission and gas constraints were not properly addressed on time. ",
+    "bbox": [
+      114,
+      592,
+      883,
+      797
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/3b10941989e12924332435918180a8d590aa9c250472712568f49a2e15ae4e72.jpg",
+    "image_caption": [
+      "Figure 5: Power Generation Profile for 2012 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      198,
+      877,
+      415
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Source: PTFP: Power Reform Road Map (2013) ",
+    "bbox": [
+      116,
+      434,
+      465,
+      452
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Amidst all the challenges, the privatisation of the successor companies of Power Holding Company of Nigeria (PHCN) was however concluded in 2013. This is expected to be the commencement of improved power supply in Nigeria in the near future. Recognising the setback the power crisis has caused the Nigeria’s economy and the importance of power sector in achieving economic growth, the banking industry invested over N750bn in the power sector in 2013. ",
+    "bbox": [
+      114,
+      469,
+      883,
+      582
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Nigeria, with a population of about 170 million people, is estimated to need about 40,000 megawatts (MW) of electricity over the next decade. Therefore, the country still requires a total of $\\$ 900 bn$ by the energy sector during in the next thirty year. Available statistics indicates that the power sector alone needs about $\\$ 10 b n$ for capital expenditure on generation and distribution companies in the next few years so as to add at least additional 5,000 megawatts. The transmission grid requires an annual investment of about $\\$ 1.56 n$ for the next five years to ensure its reliability and stability. ",
+    "bbox": [
+      114,
+      599,
+      883,
+      731
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Manufacturing Sector: Sustaining growth despite infrastructural deficit ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      751,
+      784,
+      773
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Manufacturing Sector continued its struggle for survival in 2013. The sector is expected to be a growth driver and a rallying point for meaningful development and global trade. Infrastructural under development and power crisis remain major challenges of the Sector. Industry statistics shows that about 60 per cent of the operation cost in the sector is spent on private power generation. Until problem such as poor state of physical infrastructures, high ",
+    "bbox": [
+      114,
+      791,
+      883,
+      883
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "cost of raw materials, multiple taxation, unabated smuggling, inadequate access to finance and high interest rate are practically addressed, the sector may continue to experience setback. ",
+    "bbox": [
+      116,
+      130,
+      882,
+      165
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The Nigerian manufacturing sector however accounted for about 12 per cent of employment in the country. Available statistics by NBS shows that performance of the manufacturing sector has been increasing. The manufacturing sector grew by 8.41 per cent in Q1 2013 this growth was not unconnected various initiatives of government, including the completion of the development of a Sugar Master Plan (NSMS) to provide roadmap for 100 per cent local production of sugar, transformation of the Onne Oil and Gas Free Zone with $\\mathrm { U S } \\$ 6$ billion invested, leading to the attraction of 150 companies into the zone with 30,000 jobs created to date. The manufacturing sector is still underperforming as its contribution to the Nigeria GDP is miniature when compared with the other fast growing economies. ",
+    "bbox": [
+      117,
+      167,
+      883,
+      222
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      241,
+      883,
+      353
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Information made available by Manufacturers Association of Nigeria (MAN) shows that industry capacity utilization has increased from 46.44 per cent in 2010 to 48.24 per cent in 2012, while the textile, apparel and footwear sector has also recorded a significant increase in capacity utilization, from 29.14 per cent to 52.01 per cent during the same period. The increase in capacity utilization of textile sector was not unconnected with the credit facility that was made available to the industry operators at six per cent interest rate. Also, Nigeria’s self sufficiency in integrated local cement production as well as increased rice and palm oil processing coupled with the near absolute local fertilizer manufacturing all contributed to the achievement. ",
+    "bbox": [
+      114,
+      371,
+      882,
+      553
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Labour Market: The Economy records a “Jobless Growth” as Unemployment remains a Time Bomb ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      587,
+      882,
+      631
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Employment intent measured by the number of publicly placed vacancy adverts continues to rise. Evident from the spate of publicly placed vacancy adverts in the national dailies during the year, it was evident that employment intention was strong in the private sector of the economy accounting for 75 per cent of the aggregate employment intent during the period under review. Non-Governmental organizations accounted for 15 per cent and 10 percent public sector. ",
+    "bbox": [
+      116,
+      633,
+      882,
+      726
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Meanwhile, going by official data, the Nigeria economy showed a significant level of resilience in 2013. The efforts of the government at various levels towards job creation seemed to be yielding results. Available date show that a total of 2,460,056 persons were employed in fourth quarter 2012, while a total of 2,615,544 persons were employed on full time and part time in the first quarter 2013. However, the growth did not seem to have been translating to improved welfare of the citizen. This is evident in high level of poverty, as about 70 per cent of Nigerians are living below poverty line; high rate of unemployment. Available data from National Bureau of Statistics, Nigeria indicates that 54 per cent of Nigeria youths are unemployed. A further analysis of the data shows that unemployment is higher among female youths that male. ",
+    "bbox": [
+      114,
+      746,
+      883,
+      912
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      215,
+      919,
+      751,
+      936
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Unemployment among female stood at 51.9 per cent compared to male with 48.1 per cent. The high level of unemployment among the youths could be seen as responsible factor for high rate of crimes in the country. ",
+    "bbox": [
+      116,
+      130,
+      885,
+      184
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Graduates unemployment is of a great concern as only 10 per cent graduates who complete the National Youth Service Corp Scheme (NYSC) every year get jobs. Only 20 percent of the 40,000 graduates who get employed are in a desired place of work. Not helping the matter is the fact that the Nigerian education system is still structured to prepare graduates for employment in an over-saturated labour market in which organizations or establishments in both public and private sectors of the national economy are cutting jobs. The general unemployment rate stood at 23.9 per cent as at 2011. The impact of high unemployment rate coupled with high rate of inflation in the country is adverse. The Misery Index of Nigeria currently stands at 32 per cent. ",
+    "bbox": [
+      114,
+      202,
+      883,
+      352
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/dff80363e75de924f5d069782e180b15192edf2acd4626ed6d17fd9c15911de4.jpg",
+    "image_caption": [
+      "Figure 6: Nigeria Unemployment Rate ",
+      "Source: NBS, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      390,
+      830,
+      574
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Inflation Rate: tamed below 10 per cent ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      622,
+      521,
+      642
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The efforts of the apex monetary authority towards keeping inflation low at a digit yielded impressive result in 2013. Inflation rate declined consistently during the year (See figure 7). The year-on-Year Inflation rate rose marginally by 0.1 per cent in December 2013 to about 8 per cent, from 7.9 per cent rate recorded in the preceding month. The marginal rise in the rate was as a result of the increase in the prices of seven of the non-food commodities classification, especially alcoholic beverages and transportation costs. A rise in the prices of gas and other fuels, electricity, tobacco, kola also contributed. ",
+    "bbox": [
+      114,
+      645,
+      883,
+      784
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "A further analysis of the inflation data shows that the food index grew at the same rate was high during the year, maintaining double digit rate till October. The 12 month moving average food inflation however declined to 9.8 per cent and 9.7 per cent in November and December respectively (see Figures 7 & 8) ",
+    "bbox": [
+      116,
+      166,
+      885,
+      247
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/c6279f28cb643ac915c78c045e0ded5ae5db34816366e954474b9b74776472c1.jpg",
+    "image_caption": [
+      "Fig 7: All-Item Inflation Index ",
+      "Source: NBS, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      303,
+      490,
+      529
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/90abced022ce6fc73adb11b2146baf964d3bf6d911e8e4c0f049aa2fdf9ffcfe.jpg",
+    "image_caption": [
+      "Fig 8: Food Inflation Index "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      511,
+      299,
+      921,
+      523
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Money Supply ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      580,
+      240,
+      598
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Available data from the Central Bank of Nigeria indicated that growth in the major monetary aggregate remained sluggish during the year. By the end of November, broad money supply (M2) stood at N14,734.9 billion, recording a growth of 1.4 per cent, on month-on-month basis, compared with the 1.2 per cent increase at the end of the preceding month. According to the apex bank, the development reflected, wholly, the 3.4 per cent increase in domestic credit (net) of the banking sector, which more than off-set the 2.4 and 0.6 per cent decline in foreign assets (net) and other Assets (net) of the banking system, respectively. Comparing this with December 2012 figure however, M2 contracted by 4.8 per cent, owing to the respective decline of 4.0 and 28.5 per cent in foreign asset (net) and other assets (net) of the banking system. ",
+    "bbox": [
+      114,
+      599,
+      883,
+      767
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Narrow money supply (M1) stood at N6,378.5 billion, a decline of 1.3 per cent, on month-onmonth basis, compare with the growth of 2.7 per cent at the end of October. The development was attributed, wholly, to the 2.5 per cent decrease in its demand deposit component. When compared with December 2012 figure, narrow money supply (M1), contracted by 14.1 percent, as a result of the decline of 0.2 and 17.0 per cent in its currency and demand deposit components, respectively ",
+    "bbox": [
+      114,
+      786,
+      883,
+      898
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      128
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Interest Rates and Money Market ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      147,
+      393,
+      165
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The monetary policy rate was kept at 12 per cent throughout the year (Table 6). Report from CBN shows that average deposit rate rose in the first half of 2013 by 0.07 per cent to 6.88 per cent compared with the corresponding half of 2012. Rates on all other deposits of various maturities rose from a range of 4.13 – 8.06 per cent in the first half of 2012 to a range of 4.90 – 8.20 per cent at the end of the first half of 2013. The developments in the money market interest rates were influenced by the tight monetary policy stance of CBN. Relative to the year-on-year inflation rate at 8.4 per cent in June 2013, this implies that all deposit rates were negative in real terms. On the other hand, the weighted average maximum lending rate rose by 0.9 percentage point to 24.2 per cent, while the prime lending rate fell by 0.5 percentage point to 16.5 per cent. Lending rates are still still very high in Nigeria, making the cost of doing business very expensive. It is becoming increasingly hard for small and medium enterprises to survive in this environment. By the end of first H1, the spread between the average term deposit and maximum lending rates had widened by 0.9 percentage point to 17.3 per cent. ",
+    "bbox": [
+      114,
+      166,
+      883,
+      439
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/07149ccbf871d649aff73aaff0b3d33c7193a596c755a70b74ea232b99e834a4.jpg",
+    "table_caption": [
+      "Table 5: Money Market Indicators $( \\% )$ "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td> Month</td><td>October</td><td>November</td><td>December</td></tr><tr><td> Inter-Bank Call Rate</td><td>11.08</td><td>11.23</td><td>10.75</td></tr><tr><td> Monetary Policy Rate (MPR)</td><td>12</td><td>12</td><td>12</td></tr><tr><td>Treasury Bill Rate</td><td>10.8</td><td>10.8</td><td>10.97</td></tr><tr><td> Savings Deposit Rate</td><td>2.39</td><td>2.53</td><td>2.53</td></tr><tr><td> 1 Month Deposit Rate</td><td>7.72</td><td>8.06</td><td>7.78</td></tr><tr><td> 3 Months Deposit Rate</td><td>7.54</td><td>8.26</td><td>7.96</td></tr><tr><td> 6 Months Deposit Rate</td><td>7.32</td><td>8.12</td><td>7.44</td></tr><tr><td> 12 Months Deposit Rate</td><td>4.71</td><td>6.51</td><td>5.02</td></tr><tr><td> Prime Lending rate</td><td>17.1</td><td>17.17</td><td>17.01</td></tr><tr><td> Maximum Lending Rate</td><td>24.9</td><td>25</td><td>24.9</td></tr></table>",
+    "bbox": [
+      104,
+      477,
+      803,
+      704
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Foreign Exchange ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      741,
+      263,
+      758
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "As reported by the apex bank, foreign exchange inflow through the economy grew by 30.4 and 14.1 per cent to $\\mathrm { U S } \\$ 72.44$ billion over its respective levels in the first and second halves of 2012. A trend analysis showed inflow rose from $\\mathrm { U S } \\$ 12.15$ billion in January, peaked at $\\mathrm { U S } \\$ 13.26$ billion in May but fell to $\\mathrm { U S } \\$ 12.59$ billion in June 2013. The inflow through the CBN accounted for 27.3 per cent, while autonomous sources accounted for 72.7 per cent. ",
+    "bbox": [
+      114,
+      779,
+      883,
+      875
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Total inflow through autonomous sources rose by 57.9 and 35.6 per cent from the respective levels in the first and second halves of 2012 to $\\mathrm { U S } \\$ 52.69$ billion in the first half of 2013. A further analysis of inflow through autonomous sources showed that invisibles accounted for $\\mathrm { U S } \\$ 50.62$ billion; non-oil exports, $\\mathrm { U S } \\$ 1.92$ billion; and external account, $\\mathrm { U S } \\$ 0.15$ billion. ",
+    "bbox": [
+      114,
+      130,
+      885,
+      205
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/d2390cb61e70110c7b37c571e625a8249f1802178d89d97d90a4cf5d4020e0db.jpg",
+    "image_caption": [
+      "Figure 9: Foreign Exchange Q1, 2012 – Q4, 2013 ",
+      "Source: CBN "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      262,
+      870,
+      531
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The gross external reserves at end November 2013 stood at $\\mathrm { U S$ 43 .41 }$ billion, indicating a decrease of 1.7 per cent below the level in the preceding month, but an increase of 1.9 per cent over the level in the corresponding period of 2012. A breakdown of the reserves showed that the Federation Account portion (Excess Crude) was $\\mathrm { U S$ 4 .25 }$ billion (9.8 per cent); Federal Government holding, $\\mathrm { U S } \\$ 2.97$ billion (6.8 per cent) and CBN reserves, $\\mathrm { U S } \\$ 36.19$ billion (83.4 per cent. ",
+    "bbox": [
+      114,
+      570,
+      885,
+      683
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/1e97dd97c517fa428f9c44b438bf6f893d695fb666f5f3769a292b5a14dc8ea4.jpg",
+    "image_caption": [
+      "Figure 10: Nigeria Monthly Gross Foreign Reserve - 2013 ",
+      "Source: CBN, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      203,
+      851,
+      520
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The Exchange Rates ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      579,
+      282,
+      597
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The exchange rate remained stable within the band of $\\mathrm { N } 1 5 5 / \\mathrm { U S } \\Phi { + } / { - } 3 \\%$ during the first half of 2013. This was achievable through the interventions by the CBN and huge inflows from autonomous sources. Statistics from CBN shows that the average spot rate of Wholesale Dutch Auction System (WDAS), inter-bank and Bureau de Change (BDC) segments were N157.30/US\\$, $\\mathrm { N } 1 5 8 . 1 8 / \\mathrm { U } \\mathrm { S } \\$ $ and N159.66/US\\$, respectively. Foreign exchange inflows into the economy increased by 17.5 per cent during the first half of the year, reflecting high autonomous inflows. However, foreign exchange outflow fell relative to the level in the corresponding period of 2012. Consequently, the net inflow into the economy was US\\$53.09 billion, compared with US\\$36.39 billion at end-June 2012. ",
+    "bbox": [
+      114,
+      614,
+      883,
+      782
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      952,
+      121
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      114,
+      109,
+      581,
+      128
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_3769357/auto/images/17cc66a2d1f1345e906e98b44a74e011b1c0c83780b92503f32740c3f6afb9d0.jpg",
+    "image_caption": [
+      "Figure 11: Exchange Rates Naira/US Dollars Q1, 2012 – Q4, 2013 ",
+      "Source: CBN, WCL Research "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      169,
+      866,
+      465
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Global Economy ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      512,
+      256,
+      529
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The global economic performance was mixed in 2013. Available statistics from Development Policy and Analysis Division (DPAD), the world economy reached only subdued growth of 2.1 per cent in 2013. Most developed economies continued to grapple with the challenge of taking appropriate fiscal and monetary policy actions in the aftermath of the financial crisis, a number of emerging economies, which had already experienced a notable slowdown in the past two years, encountered new domestic and international headwinds during 2013. Some signs of improvement have emerged more recently. The euro area has finally come out of a protracted recession, with gross domestic product (GDP) for the region as a whole starting to grow again; the economy of the United States of America continues to recover; and a few large emerging economies, including China, seem to have at least stopped a further slowdown or will see accelerating growth. ",
+    "bbox": [
+      114,
+      530,
+      883,
+      708
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Inflation remains tame worldwide, partly reflecting excess capacity, high unemployment, fiscal austerity and a continued financial deleveraging in major developed economies. Among developed economies, deflationary concerns are rising in the euro area while Japan has managed to end its decade-long deflation. Among developing countries and economies in transition, inflation rates are above 10 per cent in only about a dozen economies scattered across different regions, particularly in South Asia and Africa. ",
+    "bbox": [
+      116,
+      727,
+      883,
+      833
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The global employment situation remains dire, as long-lasting effects from the financial crisis continue to weigh on labour markets in many countries and regions. Among developed economies, the most challenging situation is found in the euro area, in which the unemployment rates have ",
+    "bbox": [
+      116,
+      858,
+      883,
+      910
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      952,
+      121
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "reached as high as 27 per cent in Greece and Spain, with youth unemployment rates surging to more than 50 per cent. The unemployment rate has declined in the United States, but remains elevated. In developing countries and economies in transition, the unemployment situation is mixed, with extremely high structural unemployment in North Africa and Western Asia, particularly among youth. High rates of informal employment as well as pronounced gender gaps in employment continue to characterize labour markets in numerous developing countries. ",
+    "bbox": [
+      117,
+      130,
+      882,
+      162
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      183,
+      882,
+      252
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Oil prices were on a downward trend in the first half of 2013 (after a spike in January and February caused by geopolitical tensions with Iran), as global demand for oil weakened along with the deceleration in world economic growth overall. Moderation in the growth of emerging economies was particularly notable, as they have been the major source for the incremental increases in global oil demand in recent years. However, oil prices surged in July and August as geopolitical tensions in the Syrian Arab Republic escalated. The Brent oil price increased by about $\\$ 18$ per barrel (pb) within two months to above $\\$ 123,456$ . ",
+    "bbox": [
+      116,
+      271,
+      883,
+      396
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Outlook for 2014 ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      416,
+      256,
+      431
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The year 2014 is an electioneering year. There are a lot of anxieties that there could be a lot of policy reversals if the power shifts to another political party. This has in turn raised the level of uncertainties in the Nigeria business environment. While there are still a lot of potentials for the economy to grow, investors are expected to be wary of the political happenings and watch where the pendulum will swing while making investment in the coming year. This has the effect of making (foreign) investment capital threatened in the Nigerian economy in 2014. ",
+    "bbox": [
+      116,
+      434,
+      883,
+      546
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "We expect the effort of the monetary authority towards ensuring price stability will continue to yield result. On the basis of this inflation rate is expected to be kept below $1 0 \\%$ in 2014. Interest rate will remain high hovering around $2 5 \\%$ . As a result of political spending, increase in dollar denominated activities and currently low, we expect the value of Naira to depreciate further to around N165/US\\$1. ",
+    "bbox": [
+      116,
+      565,
+      883,
+      657
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Although power sector reform is on course this is not expected to translate to a reduced cost of doing business immediately. With power sector underperformance, security challenges, infrastructural problems and uncertainties in the political landscape, business environment is expected to be tight. While oil sector and agricultural sector would continue to drive growth, stock market activities are expected to record a moderate growth in the coming year. ",
+    "bbox": [
+      116,
+      678,
+      883,
+      792
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "We however anticipate a more fiscal discipline by Federal Government. The determination of the government to tackle security problem and continuous implementation of transformation agenda would bolster the domestic economy. ",
+    "bbox": [
+      116,
+      813,
+      883,
+      867
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      919,
+      750,
+      936
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Disclaimer ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      174,
+      189,
+      188
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Whilst reasonable care has been taken in preparing this document to ensure the accuracy of facts stated herein and that the ratings, forecasts, estimates and opinions also contained herein are objective, reasonable and fair, no responsibility or liability is accepted either by Watershed Capital Limited or any of its employees for any error of fact or opinion expressed herein. No reliance should be placed on the accuracy, fairness or completeness of the information contained in this report as it has not been verified by the research analyst(s) involved or the companies whose securities have been referred to except as otherwise disclosed. Any ratings, forecasts, estimates and opinions set forth in this document constitute the analyst(s) position as at the date of the report and may not necessarily be so after the report date as they are subject to change without notice. It is also instructive to note that a Company’s past performance is not necessarily indicative of its future performance as estimates are based on assumptions that may or may not be realized. The value, price or income from investments mentioned in this report may fall as well as rise due to economic conditions, industry cycles, market indices, operational or financial conditions of companies or other factors. Thus, Watershed Capital Limited and its employees shall not accept liability for any loss arising from the use of this document or its contents in making investment decisions or recommendations. All investors are solely responsible for their investment decisions. Any investments discussed may not be suitable for all investors and the reader(s) should independently determine their suitability and evaluate the investment risks associated with such investments. This document is for information purposes only and for private circulation. No portion of this document may be reprinted, sold or redistributed without the written consent of Watershed Capital Limited. ",
+    "bbox": [
+      114,
+      188,
+      883,
+      467
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "WATERSHED CAPITAL ",
+    "bbox": [
+      720,
+      46,
+      950,
+      121
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Copyright $©$ 2014 Watershed Capital Limited. All Rights Reserved ",
+    "bbox": [
+      217,
+      920,
+      750,
+      936
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "FY-2013 Economic Report And 2014 Outlook ",
+    "bbox": [
+      114,
+      109,
+      581,
+      127
+    ],
+    "page_idx": 17
+  }
+]

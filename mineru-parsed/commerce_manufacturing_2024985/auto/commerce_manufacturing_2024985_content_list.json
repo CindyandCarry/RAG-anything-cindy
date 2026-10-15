@@ -1,0 +1,1239 @@
+[
+  {
+    "type": "text",
+    "text": "Required Report: Required - Public Distribution ",
+    "text_level": 1,
+    "bbox": [
+      55,
+      122,
+      462,
+      141
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Date: July 01, 2021 ",
+    "bbox": [
+      611,
+      123,
+      779,
+      140
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Report Name: Retail Foods ",
+    "text_level": 1,
+    "bbox": [
+      55,
+      241,
+      362,
+      263
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Country: El Salvador ",
+    "bbox": [
+      58,
+      280,
+      243,
+      297
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Post: San Salvador ",
+    "bbox": [
+      62,
+      313,
+      227,
+      330
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Report Category: Retail Foods ",
+    "bbox": [
+      57,
+      344,
+      321,
+      363
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Prepared By: Elvy Huezo ",
+    "bbox": [
+      57,
+      443,
+      285,
+      462
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Approved By: Andrew Hochhalter ",
+    "bbox": [
+      58,
+      476,
+      352,
+      493
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Report Highlights: ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      508,
+      215,
+      526
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The Salvadoran retail sector has remained strong and stable amidst the pandemic of COVID-19. Despite the long confinement of approximately three months, Salvadorans continued to shop at supermarkets either in person (with some restrictions) or online, as major supermarket chains revamped their online stores. Super Selectos is the largest supermarket chain, followed by Walmart. Imports of U.S. consumeroriented products reached to $\\$ 240$ million in 2020. Pork meat and products, beef and beef products, apples, cheese, deli meats/sausages and tree nuts were some of the categories showing growth in import value compared with 2019. ",
+    "bbox": [
+      55,
+      541,
+      882,
+      679
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "GAIN Global Agricultural InformationNetwork ",
+    "bbox": [
+      720,
+      13,
+      913,
+      61
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "USDA United States Department of Agriculture Foreign Agricultural Service ",
+    "bbox": [
+      58,
+      22,
+      431,
+      59
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "THIS REPORT CONTAINS ASSESSMENTS OF COMMODITY AND TRADE ISSUES MADE BY USDA STAFF AND NOT NECESSARILY STATEMENTS OF OFFICIAL U.S. GOVERNMENT POLICY ",
+    "bbox": [
+      52,
+      924,
+      875,
+      954
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Report Number: ES2021-0012 ",
+    "bbox": [
+      550,
+      155,
+      823,
+      172
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Executive Summary ",
+    "text_level": 1,
+    "bbox": [
+      71,
+      157,
+      233,
+      174
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "El Salvador is the fifth largest economy in Central America and suffers persistent low levels of economic growth. As a result of the COVID-19 pandemic, the International Monetary Fund recently estimated a 9 percent GDP reduction in El Salvador for 2020, followed by a recovery of 4 percent in 2021. The predicted recovery, while stronger than typical GDP growth, will not compensate for the losses in 2020. In 2020, El Salvador’s main trading partner continued to be the United States, which supplied 26 percent of total imports and received 39 percent of Salvadoran exports. ",
+    "bbox": [
+      57,
+      181,
+      464,
+      357
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Imports of Consumer-Oriented Products ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      376,
+      387,
+      395
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In 2020, the United States was the third largest supplier of consumer-oriented products to El Salvador with exports valued at about $\\$ 240$ million. ",
+    "bbox": [
+      55,
+      404,
+      429,
+      457
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "EL SALVADOR IMPORTS OF CONSUMER-ORIENTED FOOD PRODUCTS 2020 ",
+    "bbox": [
+      88,
+      460,
+      416,
+      483
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/abd921b3d1763d3b413f61cf7cde67cbc6775a5dae29148d2aa4fed576a0598f.jpg",
+    "image_caption": [
+      "Source: Trade Data Monitor "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      107,
+      488,
+      361,
+      640
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Food Processing Industry ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      685,
+      282,
+      703
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "El Salvador reported global imports of agricultural intermediate products valued at $\\$ 439$ million in 2020, a 10 percent increase from 2019. Although a few food manufacturing companies may have closed temporarily during the strict confinement due to the COVID-19 pandemic, most factories continued operations. ",
+    "bbox": [
+      68,
+      718,
+      475,
+      810
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "El Salvador has been the regional leader in the production and export of snacks, juices, and carbonated beverages, and is in a good position to grow in these sectors because of better infrastructure and available land for the construction of production and distribution centers. ",
+    "bbox": [
+      68,
+      814,
+      472,
+      890
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The food manufacturing industry in El Salvador is growing in categories such as baked goods, prepared foods and confectionery products. ",
+    "bbox": [
+      68,
+      893,
+      475,
+      939
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Food Retail Industry ",
+    "text_level": 1,
+    "bbox": [
+      544,
+      159,
+      709,
+      175
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "There are two leading supermarket chains in El Salvador: Super Selectos and Walmart Mexico y Centroamerica. Most consumers prefer to shop at supermarkets because of the perception that they are cleaner, safer, and have more diverse offer/brands than open-air markets. ",
+    "bbox": [
+      526,
+      181,
+      926,
+      289
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Quick Facts CY 2020 ",
+    "text_level": 1,
+    "bbox": [
+      648,
+      308,
+      810,
+      324
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Imports of Consumer-Oriented Products from World: $\\$ 1.6$ billion ",
+    "text_level": 1,
+    "bbox": [
+      526,
+      335,
+      870,
+      362
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Trade ",
+    "text_level": 1,
+    "bbox": [
+      527,
+      364,
+      576,
+      378
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "El Salvador Ag. exports to the world: $\\$ 1$ billion El Salvador Ag. imports from the world: $\\$ 2.4$ billion El Salvador Ag. imports from the U.S.: $\\$ 632$ million El Salvador $\\mathbf { A } \\mathbf { g } /$ exports to the U.S.: $\\$ 231$ million ",
+    "bbox": [
+      526,
+      380,
+      839,
+      431
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GDP/Population ",
+    "text_level": 1,
+    "bbox": [
+      527,
+      446,
+      643,
+      460
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Population: 6.5 million (July 2021 est.) GDP (USD): $\\$ 27$ billion (2019 est.) GDP per capita (USD): $\\$ 8,776$ (2019 est.) ",
+    "bbox": [
+      526,
+      462,
+      805,
+      505
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "List of Top 10 U.S. Ag Products in El Salvador ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      513,
+      851,
+      529
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Corn 6. Meat of swine   \n2. Soybean Oilcake 7. Chicken cuts   \n3.Wheat 8. Sauces   \n4. Food Preparations 9. Non-alcoholic beverages   \n5. Rice 10. Potatoes ",
+    "bbox": [
+      522,
+      539,
+      913,
+      611
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/a7b4d2a3da78daa3150511552ff3ef4f66e9e9fa03a4c502b96095e9702c80ed.jpg",
+    "table_caption": [
+      "Contact: U.S. Embassy San Salvador /Foreign Agriculture Service, Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad El Salvador. Email: agsansalvador@usda.gov "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Strengths</td><td rowspan=1 colspan=1>Challenges</td></tr><tr><td rowspan=1 colspan=1>Information and technology have becomestrong tools for food marketing/sales.Retailoptions have increased with the boom of e-commerce during the COVID-19 pandemic,where not only major supermarkets haverevamped their online stores,but there arenew“online supermarkets”options through procedures.apps.</td><td rowspan=1 colspan=1>Registration of new products isburdensome and takes too longdue to government-centralizedllab analysis process.Lack ofconsistency and transparencylin import and customs</td></tr><tr><td rowspan=1 colspan=1>Despite the pandemic and the economiccontraction,major retailers have continuedtheir expansion plans and have opened newstores.</td><td rowspan=1 colspan=1>Security is a major concern inEl Salvador and retailers havehigh distribution costs.</td></tr><tr><td rowspan=1 colspan=1>Tourism has started to reactivate and thusnew venues are open to sell/promote U.S.consumer-oriented food products.</td><td rowspan=1 colspan=1>Themarket is highly price-sensitive,and oftentimes lowerquality products are morecompetitive due to pricing.</td></tr></table>",
+    "bbox": [
+      519,
+      630,
+      972,
+      869
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Market Fact Sheet: El Salvador ",
+    "bbox": [
+      55,
+      114,
+      431,
+      136
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SECTION I: MARKET SUMMARY ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      93,
+      403,
+      112
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "El Salvador is the fifth largest economy in Central America and suffers persistent low levels of economic growth. The International Monetary Fund recently forecasted the GDP for 2021 would grow to $4 . 2 \\%$ , however this figure would still not compensate for the losses in 2020 when the GDP contracted $9 \\%$ . ",
+    "bbox": [
+      89,
+      130,
+      915,
+      208
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In El Salvador, restrictive COVID-19 measures lasted for approximately three months. This contributed pressured retailers and convenience stores to adapt and offer Salvadoran consumers different options to purchase their foods and beverages. Super Selectos, the largest supermarket chain, revamped its existing online store and made alliances with delivery companies to be able to meet demand. Walmart on the other hand, had to create its online store and launched it in the middle of the confinement. ",
+    "bbox": [
+      89,
+      229,
+      933,
+      328
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Before the pandemic, higher income Salvadorans were already using apps to order food and products online for pickup or delivery, and companies such as HUGO and UBER were well-known. Now with the pandemic, it has been estimated that online sales have increased $1 0 0 \\%$ in general terms, but some individual companies such as largest retailer in the country, Super Selectos, registered the astonishing figure of $1 { , } 5 0 0 \\%$ and $1 { , } 2 0 0 \\%$ growth on their cellphone app and online platform respectively. But this boom in e-commerce has also driven companies that started as delivery services to expand their portfolio to become “marketplaces” where people can buy anything from groceries to toys or pet food. A recent GAIN report shows how e-commerce has flourished in El Salvador during the pandemic. ",
+    "bbox": [
+      89,
+      349,
+      915,
+      508
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Online grocery delivery services have in some cases become channels for remittance payments. Rather than sending money home from overseas, some Salvadorans are sending food delivered through these local apps. This new channel also offers an opportunity for retailers to launch new products, special promotions and/or reward clients for brand loyalty. ",
+    "bbox": [
+      91,
+      532,
+      908,
+      611
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Supermarket Profile: ",
+    "text_level": 1,
+    "bbox": [
+      91,
+      633,
+      271,
+      651
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "According to a recent study by a local marketing firm, supermarkets in El Salvador account for approximately 40 percent of all food retail sales in El Salvador, valued at $\\$ 1.7$ billion. It is difficult to obtain specific data as supermarkets are reluctant to release exact sales information. Therefore, sales are estimated in ranges as follows: ",
+    "bbox": [
+      91,
+      654,
+      893,
+      732
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/886449ba4fbd718913622a67be085014dfa239e5e4b41a13e8d43fed49504619.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Source: Estimate of sales calculated by FAS, San Salvador. "
+    ],
+    "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Owner Group</td><td colspan=\"1\" rowspan=\"1\">Supermarkets,Hypermarkets andClub Outlets</td><td colspan=\"1\" rowspan=\"1\">Current Stores</td><td colspan=\"1\" rowspan=\"1\"> Estimated annual sales</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Grupo Calleja, S.A. de</td><td colspan=\"1\" rowspan=\"1\">Super Selectos</td><td colspan=\"1\" rowspan=\"1\">102</td><td colspan=\"1\" rowspan=\"1\">&gt;$150 million</td></tr><tr><td colspan=\"1\" rowspan=\"4\">WalmartMexico yCentroamerica</td><td colspan=\"1\" rowspan=\"1\">Walmart Supercenter</td><td colspan=\"1\" rowspan=\"1\">6</td><td colspan=\"1\" rowspan=\"1\">&gt;$150 million</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Despensa de Don Juan</td><td colspan=\"1\" rowspan=\"1\">17</td><td colspan=\"1\" rowspan=\"1\">$100-150 million</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Despensa Familiar 1/</td><td colspan=\"1\" rowspan=\"1\">63</td><td colspan=\"1\" rowspan=\"1\">$100-150 million</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Maxi Despensa</td><td colspan=\"1\" rowspan=\"1\">15</td><td colspan=\"1\" rowspan=\"1\">&gt;$150 million</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Price Smart</td><td colspan=\"1\" rowspan=\"1\">Price Smart</td><td colspan=\"1\" rowspan=\"1\">2</td><td colspan=\"1\" rowspan=\"1\">&gt;$150 million</td></tr><tr><td colspan=\"2\" rowspan=\"1\">TOTAL:</td><td colspan=\"1\" rowspan=\"1\">205</td><td colspan=\"1\" rowspan=\"1\"></td></tr></table>",
+    "bbox": [
+      189,
+      756,
+      864,
+      933
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      929,
+      940,
+      942,
+      953
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [
+      ""
+    ],
+    "bbox": [
+      187,
+      92,
+      862,
+      132
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Advantages and Challenges Facing U.S. Products in El Salvador ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      223,
+      619,
+      242
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/6d0218455d3f5fc6357aa3d7bf818e93eeef23a7abdf34b3bebde91f0dd257c1.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Advantages</td><td rowspan=1 colspan=1>Challenges</td></tr><tr><td rowspan=1 colspan=1>Major retailers have expanded the number of stores and floor space during the last few years,with plans to continue this expansion.</td><td rowspan=1 colspan=1> The market is highly price-sensitive, and lowerquality products are often more competitive dueto pricing.</td></tr><tr><td rowspan=1 colspan=1>Information and technology have become strongtools for food marketing/selling. Retail optionshave increased with the boom of e-commerceduring the COVID-19 pandemic, where not onlymajor supermarkets have revamped their onlinestores, but there are new “online supermarkets”options through apps.</td><td rowspan=1 colspan=1>Market leaders are investing in construction of modern shopping centers in which supermarkets arethe anchor points. This usually requires higherinvestment in marketing for in-store promotions topromote U.S. brands.</td></tr><tr><td rowspan=1 colspan=1>A more educated, bilingual (English/Spanish),and younger population is looking for Americanproducts/brands/franchises in order to achieve amore “American” lifestyle due to ties withrelatives living in the United States.</td><td rowspan=1 colspan=1>Registration of new products is burdensome and takestoo long due to government-centralized lab analysis process. In addition, there is a lack of consistency andtransparency in import and customs procedures.</td></tr><tr><td rowspan=1 colspan=1>Tourism has started to reactivate and thus newvenues are open to sell/promote U.S.consumer-oriented food products.</td><td rowspan=1 colspan=1>Overall， the Salvadoran economy remainsverysusceptible to the world economy，especially theUnited States， where negative events can disruptremittances flow， tourism and investment in ElSalvador.</td></tr><tr><td rowspan=1 colspan=1>As El Salvador becomes a more service-basedeconomy, increasing numbers of office workersbecome potential consumers for high qualityU.S. food products.</td><td rowspan=1 colspan=1> Security is a major concern in El Salvador andincreases costs of distribution.</td></tr></table>",
+    "bbox": [
+      63,
+      251,
+      919,
+      825
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "SECTION II. ROAD MAP FOR MARKET ENTRY ",
+    "text_level": 1,
+    "bbox": [
+      76,
+      852,
+      521,
+      871
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Retail Sector ",
+    "text_level": 1,
+    "bbox": [
+      78,
+      886,
+      191,
+      902
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      929,
+      940,
+      941,
+      952
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Retail outlets are the preferred venue to purchase food items for Salvadorans. Hypermarkets/supermarkets and convenience stores coexist with the traditional small grocery stores (mom-and-pop) and open-air markets. ",
+    "bbox": [
+      70,
+      94,
+      941,
+      132
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There are two dominant supermarket chains in El Salvador: Super Selectos and Walmart Mexico y Centroamerica. ",
+    "bbox": [
+      73,
+      146,
+      856,
+      184
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Market Structure ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      200,
+      225,
+      218
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/43c7d0bc392d809843697563193f30c3b3ad2d222cd316d89820af851e31da01.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      248,
+      831,
+      430
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "As shown above, there are at least three ways to reach the Salvadoran consumer. Supermarkets, for instance, may use the three import methods to ensure better prices/offers for their clients. In the case of most importers, they usually prefer to deal directly with manufacturers so they can offer prices that are more competitive. ",
+    "bbox": [
+      73,
+      459,
+      944,
+      512
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Transportation costs are key, therefore the preferred method of shipping is from Miami to Guatemalan ports mainly, although some may come through Panama, and then move via ground transportation to El Salvador. Due to an increase in corporate social responsibility programs, local sourcing of mainly fresh produce and other perishable products is growing, and supermarkets have different programs to assist farmers to deliver high quality products. ",
+    "bbox": [
+      71,
+      529,
+      924,
+      617
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Company Profiles ",
+    "text_level": 1,
+    "bbox": [
+      73,
+      635,
+      227,
+      654
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/613372ef18241f94fe51ae353dc981808115bb752165e112569d333ff5c167cb.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      76,
+      670,
+      238,
+      794
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Super Selectos is a Salvadoran-owned retailer, currently with 102 stores and an aggressive plan of expansion that includes opening 15 more stores in the next 3 years. They plan to achieve this by partnering with commercial developments across the country to be an anchor store in those shopping centers. Super Selectos store layouts have evolved to lure consumers in and provide a more comfortable shopping experience by redesigning their stores to includes wider aisles, cafeterias, and energy-efficient ",
+    "bbox": [
+      245,
+      671,
+      941,
+      791
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "technologies. The Super Selectos online store was revamped during the pandemic and reported sales skyrocketed during the confinement, registering a growth of $1 { , } 2 0 0 \\%$ . ",
+    "bbox": [
+      71,
+      792,
+      900,
+      830
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      929,
+      940,
+      942,
+      953
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Walmart Mexico y Centroamerica is the largest retailer in the region Walmart\\* with over 600 stores. In El Salvador, it has 101 stores Méxicoy Centroamérica ",
+    "bbox": [
+      70,
+      877,
+      885,
+      935
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "https://www.superselectos.com ",
+    "bbox": [
+      73,
+      838,
+      320,
+      854
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "under different formats: Walmart Super Centers (6), ",
+    "bbox": [
+      71,
+      94,
+      485,
+      112
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Despensa de Don Juan (17), Maxi Despensa (15) and Despensa Familiar (63). Their main competitive advantage is their large and diverse offering of non-food products such as apparel, electronics and housewares at affordable prices, functioning as a “one-stop shop” for busy people. ",
+    "bbox": [
+      70,
+      119,
+      941,
+      178
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "https://www.walmart.com.sv ",
+    "bbox": [
+      73,
+      185,
+      302,
+      202
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "PriceSmart El Salvador, S. A. de C. V.: with headquarters in San Diego, California, Pricesmart has two stores in El Salvador—both of which are located in the capital city of San Salvador. Similar to membership warehouse clubs in the United States, it carries a mixture of groceries (especially large sized items), apparel, electronics, household goods, and automotive parts. It is one of the preferred food retailers for large families and restaurant owners. ",
+    "bbox": [
+      446,
+      226,
+      934,
+      343
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      73,
+      347,
+      901,
+      363
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "https://shop.pricesmart.com/es/sp/ ",
+    "bbox": [
+      73,
+      371,
+      344,
+      387
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Approximately $6 0 \\%$ of food/beverages sales still occur at mom-and-pop stores, open-air markets, discount stores (dollar stores), and increasingly at gas station convenience stores. ",
+    "bbox": [
+      66,
+      435,
+      901,
+      470
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "It is estimated that there are around 70,000 “mom-and-pop” stores in El Salvador, and according to the most recent data available by a local marketing firm, it is estimated that their sales are approximately $\\$ 2.8$ billion. Lower-income consumers are their main customers, and they prefer small-sized/individual packages. ",
+    "bbox": [
+      65,
+      483,
+      918,
+      536
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Dollar, or discount stores are expanding their shelves to offer a wider portfolio of food items, mainly ready-toeat products such as ramen soups, candy, cookies, and beverages. However, the product portfolio has increased and now there are different food preparations available such as pancake mixes, sauces, pasta, and oils. ",
+    "bbox": [
+      63,
+      547,
+      937,
+      607
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Convenience stores at gas stations are now offering more than light refreshments and ready-to-eat products. In some cases, food offerings include homemade style meals and specialty coffee drinks available throughout the day, making these stores a good opportunity for higher quality food products and/or ingredients from the United States. ",
+    "bbox": [
+      63,
+      622,
+      936,
+      700
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Open-air, or wet markets have traditionally been the most popular places to find fresh and less expensive grocery items like fruits, vegetables, red meat, poultry, eggs, pork, and fish. However, since security has become an important issue when determining where to make food purchases, people with higher incomes tend to go only to supermarkets, which offer a more secure and comfortable environment for shopping. ",
+    "bbox": [
+      63,
+      715,
+      936,
+      794
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      224,
+      436,
+      333
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      929,
+      940,
+      941,
+      953
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "III. COMPETITION ",
+    "text_level": 1,
+    "bbox": [
+      57,
+      93,
+      232,
+      112
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "El Salvador is a signatory to 10 free trade agreements. The Central American countries, Mexico, and Chile are the main trade competitors for the United States regarding consumer-oriented products. Although the Salvadoran food industry is less developed than in other Central American countries, it is currently the regional leader in the production and export of snacks, juices and carbonated beverages. Salvadoran food manufacturers rely on imports of ingredients. ",
+    "bbox": [
+      55,
+      126,
+      933,
+      213
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/db73720192fc36a6b9b93b2d47e9c657d52152d904e807e2a6ebb65625f795cf.jpg",
+    "image_caption": [
+      "EL SALVADOR IMPORTS OF CONSUMER-ORIENTED FOOD PRODUCTS 2020 ",
+      "Source: Trade Data Monitor, LLC "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      302,
+      260,
+      658,
+      477
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Products not present in significant quantities, but which have good sales potential: ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      541,
+      756,
+      559
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Health and nutrition are no longer a main concern for only higher-income consumers. With the pandemic, more Salvadorans have become conscious of their health and are seeking products to boost it through good eating habits. Therefore, there is a stronger demand and potential for products that are made with more natural ingredients, organic, fat free/low fat, gluten free, unsweetened or reduced calories (including beverages). ",
+    "bbox": [
+      63,
+      563,
+      931,
+      638
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Following the healthy eating trend, many people are joining running/cycling clubs and are looking for foods and beverages that help them prepare better for competitions. ",
+    "bbox": [
+      63,
+      654,
+      921,
+      693
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Categories of interest are: ",
+    "bbox": [
+      65,
+      712,
+      269,
+      729
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Organic foods and beverages   \n● Dairy substitutes: vegetable “milks” (almond, soy and coconut, in both unflavored and flavored varieties). ● Cereal or oatmeal with ancient grains such as quinoa, chia, and amaranth   \n● Lactose-free/gluten-free/sugar-free beverages   \n● Whole wheat bread and/or seeds-base products: granola bars, flaxseedproducts   \n● Artisan-made and special sauces and condiments   \n● Energy boosters: shakes, juices, energy bars, natural juices, both ",
+    "bbox": [
+      76,
+      738,
+      942,
+      914
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      929,
+      940,
+      942,
+      952
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "regular and reduced sugar content (targeting children) ",
+    "bbox": [
+      99,
+      94,
+      531,
+      113
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Specialty dairy products (herbal butter, European-style cheeses, etc.) ",
+    "bbox": [
+      76,
+      123,
+      648,
+      141
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Sugar-free and gluten-free cookies, candy, baking mixes, etc ● Deli meats and specialty seafood ( $1 0 0 \\%$ U.S. origin) and ready to serve platters. ",
+    "bbox": [
+      78,
+      148,
+      591,
+      167
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      84,
+      174,
+      736,
+      194
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/6870a7817ebbc0c876b859d54fc0152f3edf6e3474ec37f14089b271a7712cae.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Source: Trade Data Monitor "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=4>El Salvador Top 5 U.S. Consumer-Oriented imports and itsmain competitors: 2020</td></tr><tr><td rowspan=1 colspan=1>ProductCategory</td><td rowspan=1 colspan=1>Ranking</td><td rowspan=1 colspan=1>Country</td><td rowspan=1 colspan=1>US$</td></tr><tr><td rowspan=3 colspan=1>Soup &amp; Other FoodPreparations</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Costa Rica</td><td rowspan=1 colspan=1>$46,938,275.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>United States</td><td rowspan=1 colspan=1>$42,641,722.00</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Guatemala</td><td rowspan=1 colspan=1>$20,253,685.00</td></tr><tr><td rowspan=3 colspan=1>Pork&amp;PorkProducts</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>United States</td><td rowspan=1 colspan=1>$25,699,787.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Guatemala</td><td rowspan=1 colspan=1>$2,917,495.00</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Honduras</td><td rowspan=1 colspan=1>$2,195,322.00</td></tr><tr><td rowspan=3 colspan=1>Dairy Products</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Nicaragua</td><td rowspan=1 colspan=1>$156,085,724.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Mexico</td><td rowspan=1 colspan=1>$39,248,936.00</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Costa Rica</td><td rowspan=1 colspan=1>$35,302,199.00</td></tr><tr><td rowspan=3 colspan=1>Fresh Fruit</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Guatemala</td><td rowspan=1 colspan=1>$28,226,982.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Mexico</td><td rowspan=1 colspan=1>$18,901,157.00</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>United States</td><td rowspan=1 colspan=1>$18,630,793.00</td></tr><tr><td rowspan=3 colspan=1>Poultry Meat &amp;Prods. (ex. eggs)</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>United States</td><td rowspan=1 colspan=1>$18,342,521.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Guatemala</td><td rowspan=1 colspan=1>$17,244,733.00</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Mexico</td><td rowspan=1 colspan=1>$3,830,892.00</td></tr></table>",
+    "bbox": [
+      176,
+      202,
+      802,
+      727
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      929,
+      940,
+      941,
+      953
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/8e587810316cd39ed50541fe23619b1124aecaff4dc0796e407deaf712c30165.jpg",
+    "image_caption": [
+      "Top 5 U.S. Consumer-Oriented Imported Products with Upward Trend: 2016-2020 ",
+      "Source: Trade Data Monitor "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      130,
+      151,
+      838,
+      476
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2024985/auto/images/fbabde6ce6ead610d754521f68a888475c84e291803b22a751b1eb232bf56f5a.jpg",
+    "image_caption": [
+      "2020 EL SALVADOR TOP CONSUMER-ORIENTED PRODUCTS GLOBAL IMPORTS AMOUNT ",
+      "Source: Trade Data Monitor "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      609,
+      792,
+      861
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      929,
+      940,
+      942,
+      953
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "V. POST CONTACT AND FURTHER INFORMATION ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      111,
+      566,
+      128
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Office of Agricultural Affairs USDA/FAS   \nU.S. Embassy El Salvador   \nBlvd. Santa Elena, Antiguo Cuscatlán, La Libertad, El Salvador   \nPhones: (503) 2501-2999 exts. 3414/3412   \nE-mail: agsansalvador@fas.usda.gov Website: www.fas.usda.gov ",
+    "bbox": [
+      86,
+      151,
+      606,
+      251
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "SUPER SELECTOS ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      273,
+      264,
+      289
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "(Calleja, S. A. de C. V.)   \nProlongación 59 Ave. Sur   \nentre Avenida Olímpica y   \nCalle El Progreso   \nSan Salvador, El Salvador   \nContact: Mr. Jose Alberto Corpeño, Purchasing and Categories   \nDirector Tel.: (503) 2267-3628/ 2267-3600   \nE-mail: jcorpeno@superselectos.com.sv ",
+    "bbox": [
+      86,
+      294,
+      588,
+      450
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "PRICESMART ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      486,
+      222,
+      501
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Boulevard Sur, Calle Cortez   \nBlanco, Avenida El Pepeto, Urb.   \nMadre Selva, Antiguo Cuscatlán, El   \nSalvador   \nContact: Mr. Luis Rivera- Purchasing Manager Tel.: (503) 2246-7400   \nE-mail: lurivera@pricesmart.com ",
+    "bbox": [
+      88,
+      506,
+      460,
+      643
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "WALMART MEXICO Y CENTROAMERICA ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      666,
+      488,
+      684
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Alameda Roosevelt y 65 Ave.   \nSur Centro Financiero Gigante   \nTorre E, Nivel 8, San Salvador, El Salvador   \nContact: Mrs. Claudia Ibañez- Corporate Relations Manager   \nTel: (503) 2523-6800   \nE-Mail: claudia.deibanez@walmart.com ",
+    "bbox": [
+      88,
+      688,
+      490,
+      827
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Attachments: ",
+    "text_level": 1,
+    "bbox": [
+      58,
+      883,
+      171,
+      900
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "No Attachments ",
+    "bbox": [
+      57,
+      916,
+      187,
+      933
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      921,
+      940,
+      941,
+      953
+    ],
+    "page_idx": 9
+  }
+]

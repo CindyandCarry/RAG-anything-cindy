@@ -1,0 +1,996 @@
+[
+  {
+    "type": "text",
+    "text": "Effect of mineral and vitamin C mix on growth performance and blood corticosterone concentrations in heat-stressed broilers ",
+    "text_level": 1,
+    "bbox": [
+      148,
+      111,
+      880,
+      193
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A. Saiz del Barrio,\\*,1 W. D. Mansilla,\\* A. Navarro-Villa,\\* J. H. Mica,† J. H. Smeets,† L. A. den Hartog,†,‡ and A. I. García-Ruiz\\* ",
+    "bbox": [
+      119,
+      206,
+      910,
+      244
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\\*Trouw Nutrition R&D, El Viso de San Juan 45950, Spain; † Trouw Nutrition, Amersfoort 3800 AG, the Netherlands, and ‡ Wageningen University, Animal Nutrition Group, Wageningen 6700 AH, the Netherlands ",
+    "bbox": [
+      119,
+      251,
+      914,
+      305
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Target Audience: Poultry Nutritionists, Flock Supervisors, Veterinarians, Poultry Researchers ",
+    "bbox": [
+      115,
+      337,
+      908,
+      354
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SUMMARY ",
+    "text_level": 1,
+    "bbox": [
+      468,
+      380,
+      583,
+      397
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Heat stress is a major problem in the poultry industry, especially during summer months and when birds are raised under high-density conditions. Previous studies have reported that vitamin C or electrolyte supplementation could palliate the effects of heat stress in broiler chickens. The present study evaluated the effect of a mineral and vitamin mix (AHS) added to drinking water on the performance of broiler chickens. In total, 1,824 one-day-old birds were randomly allocated to 48 pens. Maximum animal density was $2 6 . 5 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ . The control group received no additive; AHS-1 and -2 groups received the AHS mix at a concentration of 1 and $2 ~ \\mathrm { k g } / 1 , 0 0 0 ~ \\mathrm { L }$ in drinking water, respectively; and the Vit-C group received vitamin C in drinking water at $2 0 0 ~ \\mathrm { g } / 1 , 0 0 0 ~ \\mathrm { L }$ . All birds were fed the same diets based on a 3-phase feeding program; feed and water were given on ad libitum basis. To mimic heat stress conditions, temperature in the barn was raised to $3 5 ~ \\mathrm { C }$ from 08:00 to $1 4 { : } 0 0 \\ \\mathrm { h }$ each day. For the overall growing period (0 to $3 5 ~ \\mathrm { D }$ , adding AHS to drinking water increased final BW, ADG, and ADFI linearly $( P _ { L i n e a r } < 0 . 0 5 )$ ; FCR was decreased linearly with AHS supplementation $( P _ { L i n e a r } < 0 . 0 5 )$ . Final BW, ADG, and FCR for the Vit-C group were intermediate between AHS-2 and the control groups $( P > 0 . 1 0 )$ . No significant effect on mortality were found $( 8 . 7 7 \\%$ ; $P > 0 . 1 0 $ ). Relative to control, all the treatments tested reduced $( P < 0 . 0 5 )$ corticosterone concentration in blood serum. In conclusion, the combined use of supplementary levels of minerals and vitamins could alleviate the effects of heat stress on broilers chickens. ",
+    "bbox": [
+      138,
+      409,
+      892,
+      706
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Key words: broilers, heat stress, mineral, nutrition, vitamin-C ",
+    "bbox": [
+      117,
+      722,
+      615,
+      737
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2020 J. Appl. Poult. Res. 29:23–33   \nhttps://doi.org/10.1016/j.japr.2019.11.001 ",
+    "bbox": [
+      581,
+      744,
+      910,
+      776
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "DESCRIPTION OF PROBLEM ",
+    "text_level": 1,
+    "bbox": [
+      156,
+      798,
+      458,
+      815
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Heat stress occurs when the animal is incapable to release excess of body heat to the surrounding environment. The main factors to induce heat stress in farm animals are, among others, the environmental temperature, humidity, and the stocking density [1]. Different biological mechanisms exist to alleviate heat stress (e.g., panting, sweating, vasodilation) [2], but not all of them are possible in all species. Chickens, for example, cannot sweat, and body feathers reduce the ability to exchange heat with the environment. To optimize feed efficiency and body weight gain in chickens, environmental temperature should be near $2 1 ^ { \\circ } \\mathrm { C }$ [3, 4]. In addition, the high metabolic rate of the modern broiler chicken selected for increased growth rate makes not advisable to rear animals at constant temperatures higher than $3 2 ^ { \\circ } \\mathrm { C }$ [5]. ",
+    "bbox": [
+      115,
+      829,
+      498,
+      877
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      531,
+      798,
+      912,
+      929
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 Corresponding author: a.saiz.b@trouwnutrition.com ",
+    "bbox": [
+      121,
+      916,
+      454,
+      930
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$^ ©$ 2019 The Authors. Published by Elsevier Inc. on behalf of Poultry Science Association Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). ",
+    "bbox": [
+      111,
+      50,
+      912,
+      72
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      84,
+      466,
+      200
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The natural response of birds exposed to heat stress consists of changes at the physiological and behavioral levels to support thermoregulation. Under heat challenging conditions, birds spend less time eating and walking, and more time drinking, resting, and panting [6]. Elevated plasma corticosterone levels due to the activation of the hypothalamic-pituitary-adrenal axis have been previously reported in heat-stressed broilers [7–9]. Moreover, some studies link heat stress to reduction on antibody count [10], including serum IgM and IgG concentration, and a lower lymphoid organ weight in broilers [11]. Such effects on the immune system increase the possibility of pathogen colonization in heat-stressed birds [6, 12–14]. It has also been reported that chronic heat exposure can have negative effects on feed digestibility [15], fat and meat deposition [16], and reduction in breast meat yield and meat quality [17], thereby decreasing the quality of chicken products. Heat stress conditions, thus, cause a substantial reduction in the optimal growth of birds and consequential economical losses for the producer. It is estimated that in the United States alone, heat-stress–related economical losses in the poultry industry are between 128 and 165 million USD annually [18]. ",
+    "bbox": [
+      85,
+      200,
+      466,
+      665
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Modern poultry production is also often accompanied by other stressing factors such as high stocking densities, poor ventilation, and/or human interaction that could add up to the stress associated with high temperatures and heat stress [19, 20]. Innovative rearing practices and technologies that help mitigating the effects of heat stress in poultry production are necessary. Nutritional strategies deserve special attention; electrolyte and vitamin supplementation in feed or in water has shown to reduce negative effects of heat stress [11, 21–23]. Addition of electrolytes could potentially help the animal to balance blood $\\mathrm { p H }$ and replenish animal reserves, while the use of vitamins, especially C and E, could alleviate oxidative stress. The present study explored the effects of a mineral and vitamin mix containing vitamin C and electrolytes (AHS) offered in water on reducing the impact of heat stress in broiler chicken. ",
+    "bbox": [
+      85,
+      666,
+      466,
+      929
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      84,
+      880,
+      150
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "MATERIALS AND METHODS ",
+    "text_level": 1,
+    "bbox": [
+      539,
+      191,
+      841,
+      208
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Animals, Treatments, and Feeding Program ",
+    "text_level": 1,
+    "bbox": [
+      500,
+      222,
+      865,
+      238
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The present study was approved by the Trouw Nutrition animal care committee and followed recommendations of the Junta de Castilla-La Mancha Animal Welfare department as stated in the royal decree RD 53/2013 [24]. A total of 1,824 one-day-old male Ross 308 broiler chicks were used in this experiment, following the management recommendations of Ross 308 [25]. Birds were randomly allocated to 48 identical pens $( 3 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 1 ~ m ~ } )$ with 38 birds each. Nonreused wood shavings were used as litter. Pens were assigned to 4 water treatments: control, no added product; AHS1 and AHS2 treatments with 1 or $2 ~ \\mathrm { k g }$ of $\\mathrm { A H S } / 1 , 0 0 0 \\mathrm { ~ L ~ }$ of drinking water, respectively [26]; and Vit-C with $2 0 0 \\textrm { g }$ of vitamin $_ { \\textrm { C } / 1 , 0 0 0 \\textrm { L } }$ [26]. The AHS mix consisted of vitamin C $( 8 . 9 \\% )$ , potassium chloride $( 3 7 . 5 \\% )$ , magnesium acetate $( 3 . 0 \\% )$ , and sodium bicarbonate $( 4 9 . 5 \\% )$ . Each water treatment was given to 12 random pens based on a complete randomized block design. Birds in each pen had access to 5 functional nipple drinkers that were connected to a main treatment pipe. Water treatments were prepared daily at $0 7 { : } 0 0 \\mathrm { ~ h ~ }$ in a tank per treatment. Water consumption was registered daily per treatment (12 pens per treatment). ",
+    "bbox": [
+      500,
+      250,
+      880,
+      697
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Following recommendations for Ross 308 [25], light schedule was $2 4 \\ \\mathrm { h }$ light for the first $3 \\textrm { D }$ and 16:8 (light:dark) thereafter, and temperature in the barn followed recommendations for Ross 308, except when increased to mimic heat stress conditions $3 5 ^ { \\circ } \\mathrm { C }$ from 08:00 to 13:00 h each day; Figure 1). The increment in temperature to mimic heat stress started from day 3 onwards. The used protocol to mimic heat stress was based on similar studies published elsewhere [7, 10]. Temperature and environmental humidity were recorded continuously with a data logger [27]. To ensure global monitoring of temperature, the barn was equipped with 2 thermometers on each side of the barn and 1 data logger. ",
+    "bbox": [
+      500,
+      700,
+      880,
+      929
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "JAPR: Research Report ",
+    "bbox": [
+      672,
+      47,
+      880,
+      61
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      47,
+      107,
+      59
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/87f15323992d19a46e127f704942913a2af8269c250d98f36992f16b2f685ebd.jpg",
+    "image_caption": [
+      "(A) Average temperature and (B) relative humidity per hour during the starter (0–10 D), grower (11–25 D), Figure 1.and finisher (26–36 D) phases. Error bars represent SD of measurements taken every $5 \\mathsf { m }$ during each day of the study. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      87,
+      906,
+      697
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      765,
+      500,
+      797
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "All birds were fed the same 3-phase feeding program (starter: 1 to 10; grower: 11 to 25; finisher 26 to $3 6 ~ \\mathrm { D }$ ; Table 1). The formulated diets were soybean meal-wheat based and met nutrient requirements of broiler chickens for each phase [28]. Diets were fed ad libitum. At arrival (day 0) and at the end of each feeding phase, birds and the remaining feed were weighed to determine average bird BW, ADG, ADFI, and FCR. Weight of dead birds per pen was recorded daily and used to correct FCR for each feeding phase. Mortality during the study was calculated as the ratio of dead chickens to total chickens at the beginning of the study. Mortality during transport was determined as the number of chickens dead in proportion of live chickens shipped to the slaughter plant. Animals were not provided with feed and water from $4 \\textrm { h }$ before the loading, and the transport lasted $^ \\textrm { \\scriptsize 3 h }$ . Birds were loaded in one coop per pen, randomized the position of the coop in the truck and finally covering all the coops in the truck by a plastic canvas to avoid direct incidence of the wind on the animals during transportation. ",
+    "bbox": [
+      117,
+      800,
+      498,
+      930
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      531,
+      765,
+      912,
+      929
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "SAIZ DEL BARRIO ET AL: ADDITIVE FOR HEAT-STRESS ",
+    "bbox": [
+      117,
+      47,
+      686,
+      62
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      890,
+      48,
+      912,
+      59
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/d1568cad6443f1fee97cc898f8840565e8609b25e47623757e578e376fa397ff.jpg",
+    "table_caption": [
+      "Diet formulation and calculated and analyzed nutrient content of the 3-phase feeding program. "
+    ],
+    "table_footnote": [
+      "1 Endo-1,4-ß-xylanase and endo-1,3(4)-ß-glucanase produced. 2 Starter: nicarbin $^ +$ narasin; grower: sodium monensin. 3 Provided the following (per kilogram of diet): $1 0 , 0 0 0 ~ \\mathrm { ~ I U }$ vitamin A (trans-retinyl acetate), $2 { , } 5 0 0 \\ \\mathrm { ~ I U }$ vitamin D3 (cholecalciferol), $5 0 ~ \\mathrm { { I U } }$ vitamin E (all-rac-tocopherol-acetate), $2 . 0 ~ \\mathrm { m g }$ vitamin B1 (thiamine-mononitrate), $6 ~ \\mathrm { m g }$ vitamin B2 (riboflavin), $4 0 ~ \\mathrm { m g }$ niacin, $4 . 0 ~ \\mathrm { m g }$ vitamin B6 (pyridoxine HCl), 25 mcg vitamin B12 (cyanocobalamin), $2 . 0 ~ \\mathrm { m g }$ vitamin K3 (bisulfate menadione complex), $1 0 \\ \\mathrm { \\ m g }$ pantothenic acid (d-Ca pantothenate), $1 . 0 \\ \\mathrm { m g }$ folic acid, $1 5 0 \\ \\mathrm { m c g }$ d-biotin, $0 . 2 5 { \\mathrm { ~ m g ~ S e ~ } }$ (Na2SeO3), $1 . 0 \\ \\mathrm { m g \\ I _ { 2 } }$ , $1 5 \\mathrm { \\ m g \\ C u }$ $\\mathrm { C u S O 4 } \\cdot 5 \\mathrm { H } 2 \\mathrm { O }$ ), $6 7 . 7 ~ \\mathrm { m g }$ Fe $\\mathrm { F e S O 4 } \\cdot 7 \\mathrm { H } 2 \\mathrm { O }$ ), $9 0 { \\mathrm { ~ m g ~ M n } }$ $\\mathrm { M n S O 4 \\cdot H 2 O } )$ , 80 mg Zn (ZnO) (supplied by Trouw Nutrition Spain). 4 Calculated values are presented in parentheses. "
+    ],
+    "table_body": "<table><tr><td>Ingredients, %</td><td>Starter</td><td>Grower</td><td>Finisher</td></tr><tr><td>Corn</td><td>30.17</td><td>16.00</td><td>15.00</td></tr><tr><td>Wheat</td><td>28.26</td><td>51.22</td><td>55.39</td></tr><tr><td>Soy bean meal (47% CP)</td><td>28.52</td><td>21.44</td><td>18.18</td></tr><tr><td>Soya protein concentrate (66% CP)</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>Soya oil</td><td>5.12</td><td>4.43</td><td>4.99</td></tr><tr><td>Salt</td><td>0.20</td><td>0.18</td><td>0.18</td></tr><tr><td>Monocalcium phosphate</td><td>1.22</td><td>0.59</td><td>0.29</td></tr><tr><td>Calcium Carbonate</td><td>1.25</td><td>0.80</td><td>0.71</td></tr><tr><td>Sodium bicarbonate</td><td>0.23</td><td>0.21</td><td>0.21</td></tr><tr><td>L-Lysine HCl</td><td>0.20</td><td>0.26</td><td>0.25</td></tr><tr><td>DL-Methionine</td><td>0.25</td><td>0.24</td><td>0.23</td></tr><tr><td>L-Threonine</td><td>0.04</td><td>0.07</td><td>0.08</td></tr><tr><td>L-Valine</td><td></td><td>0.02</td><td>0.01</td></tr><tr><td>Enzymes1</td><td>0.08</td><td>0.08</td><td>0.08</td></tr><tr><td>Coccidiostat²</td><td>0.06</td><td>005</td><td>0.00</td></tr><tr><td>Mineral and vitamin premix</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>Feed analysis</td><td></td><td></td><td></td></tr><tr><td>AME,kcal</td><td>(2,850)4</td><td>(2,925)</td><td>(3,000)</td></tr><tr><td>DM</td><td>91.70</td><td>91.73</td><td>91.66</td></tr><tr><td>CP</td><td>21.26 (20.75)</td><td>19.79 (19.37)</td><td>18.34 (18.15)</td></tr><tr><td>Ash</td><td>5.59</td><td>4.34</td><td>3.84</td></tr></table>",
+    "bbox": [
+      81,
+      100,
+      880,
+      418
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      586,
+      466,
+      701
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Corticosterone Blood Serum Analysis ",
+    "text_level": 1,
+    "bbox": [
+      89,
+      720,
+      394,
+      736
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "At day 21, a blood sample $( 6 ~ \\mathrm { m L } )$ ) from a random bird in all the pens was collected from the wing vein at different time points (07:30, 10:00, 12:00, 14:00 h), sampling a different animal at each time point. Samples were centrifuged at $3 , 0 0 0 \\times g$ at $4 ^ { \\circ } \\mathrm { C }$ for $1 5 \\mathrm { { m i n } }$ , and serum was harvested immediately after. Blood serum $\\mathsf { p H }$ was measured in all samples using a SevenEasy $\\mathrm { p H }$ device [29]. Only serum from $1 2 { : } 0 0 \\ \\mathrm { h }$ was transferred to cryotubes and frozen $( - 8 0 ^ { \\circ } \\mathrm { C } )$ until further analysis. In these samples, corticosterone and thiobarbituric acid reactive substances concentrations were analyzed using a specific radioimmunoassay kit [30] according to supplier recommendations. ",
+    "bbox": [
+      85,
+      750,
+      466,
+      929
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      586,
+      880,
+      651
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Statistical Analysis ",
+    "text_level": 1,
+    "bbox": [
+      500,
+      670,
+      654,
+      686
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The effect of treatment on performance traits and on concentration of metabolites in blood serum was analyzed using PROC MIXED of Statistical Analysis System [31]. Treatment was considered as a fixed effect, and block was considered as a random variable. For blood serum pH, time was additionally included as a repeated effect. One-way ANOVA and the Tukey test were applied to identify differences among means. Mortality during the study and during transport was analyzed as a binomial variable using the logit transformation. For mortality during transport, individual chickens were used as an experimental unit with 2 possible options (alive or dead) at arrival, for all other variables, pen was considered the experimental unit. Statistical significance was considered when $P < 0 . 0 5$ and a trend when $P < 0 . 1 0$ . ",
+    "bbox": [
+      500,
+      700,
+      880,
+      929
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "JAPR: Research Report ",
+    "bbox": [
+      672,
+      47,
+      880,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      47,
+      107,
+      59
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/bea370c1cd46ce599d1bf7e8f0e2328d4793e272b71f94175877a1e296b4456e.jpg",
+    "table_caption": [
+      "Final BW, ADG, ADFI, and FCR per phase of broiler chickens fed with increasing levels of a mineral and Table 2.vitamin mix (1 and $2 \\log / 1 , 0 0 0 \\lfloor$ for AHS1 and AHS, respectively) and vitamin C. "
+    ],
+    "table_footnote": [
+      "Least square means in the same column followed by different superscript alphabets differ significantly (Tukey test; $P \\le 0 . 0 5$ ). 1 SEM; ${ \\tt n } = 1 2$ (1 pen) per treatment. 2 Linear regression of the different variables relative to the concentration of the mineral and vitamin mix used in drinking water $[ 0 , 1$ , and $2 ~ \\mathrm { k g } / 1 , 0 0 0 ~ \\mathrm { L }$ ; the Vit-C treatment was excluded in this analysis. "
+    ],
+    "table_body": "<table><tr><td>Treatment</td><td>Final-phase BW, g</td><td>ADG,g</td><td>ADFI, g</td><td>FCR</td></tr><tr><td>Starter (0 to 10 D)</td><td></td><td></td><td></td><td></td></tr><tr><td>Control</td><td>284.2</td><td>23.7</td><td>27.4</td><td>1.157a</td></tr><tr><td>AHS1</td><td>288.7</td><td>24.1</td><td>27.5</td><td>1.139b</td></tr><tr><td>AHS2</td><td>290.4</td><td>24.3</td><td>27.7</td><td>1.137b</td></tr><tr><td>Vit-C</td><td>289.2</td><td>24.2</td><td>27.7</td><td>1.143a,b</td></tr><tr><td>SEM1</td><td>3.12</td><td>0.31</td><td>0.24</td><td>0.007</td></tr><tr><td>P value</td><td>0.187</td><td>0.189</td><td>0.761</td><td>0.017</td></tr><tr><td>Linear</td><td>0.113</td><td>0.113</td><td>0.498</td><td>0.020</td></tr><tr><td>Grower (11 to 25 D)</td><td></td><td></td><td></td><td></td></tr><tr><td>Control</td><td>1,357b</td><td>71.4b</td><td>95.7</td><td>1.341a</td></tr><tr><td>AHS1</td><td>1,380ab</td><td>72.8ab</td><td>96.9</td><td>1.330a,b</td></tr><tr><td>AHS2</td><td>1,398a</td><td>73.8a</td><td>97.8</td><td>1.324b</td></tr><tr><td>Vit-C</td><td>1,385ab</td><td>73.0a</td><td>98.2</td><td>1.345a</td></tr><tr><td>SEM</td><td>12</td><td>0.61</td><td>0.84</td><td>0.004</td></tr><tr><td>Pvalue</td><td>0.011</td><td>0.003</td><td>0.057</td><td>0.003</td></tr><tr><td>Linear</td><td>0.003</td><td>0.001</td><td>0.024</td><td>0.010</td></tr><tr><td>Finisher (26 to 36 D)</td><td></td><td></td><td></td><td></td></tr><tr><td>Control</td><td>2,389b</td><td>95.6</td><td>171.4b</td><td>1.794</td></tr><tr><td>AHS1</td><td>2,428b</td><td>95.8</td><td>171.6b</td><td>1.794</td></tr><tr><td>AHS2</td><td>2,486a</td><td>98.6</td><td>176.0ab</td><td>1.785</td></tr><tr><td>Vit-C</td><td>2,467a,b</td><td>98.3</td><td>176.5a</td><td>1.794</td></tr><tr><td>SEM</td><td>18</td><td>1.17</td><td>1.16</td><td>0.014</td></tr><tr><td>Pvalue</td><td>&lt;0.001</td><td>0.077</td><td>0.037</td><td>0.955</td></tr><tr><td>Linear</td><td>0.001</td><td>0.019</td><td>0.058</td><td>0.175</td></tr></table>",
+    "bbox": [
+      111,
+      113,
+      916,
+      488
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      583,
+      498,
+      647
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "RESULTS ",
+    "text_level": 1,
+    "bbox": [
+      255,
+      684,
+      357,
+      701
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Throughout the experiment, animals remained healthy and no aberration of animal behavior was observed, except for those associated with heat stress (e.g., panting, wing flipping). Conditions mimicking heat stress were achieved as planned; temperature in the barn increased by $0 8 { : } 0 0 \\mathrm { h }$ and remained at $3 5 ^ { \\circ } \\mathrm { C }$ until $1 3 { : } 0 0 \\ \\mathrm { h }$ , when temperature started to decrease, reaching $3 0 ^ { \\circ } \\mathrm { C }$ at $1 4 { : } 0 0 \\ \\mathrm { ~ h ~ }$ and subsequently decreasing to reach minimum temperature at $0 8 { : } 0 0 \\ \\mathrm { ~ h ~ }$ . Relative humidity was maintained around $45 \\%$ throughout the day but decreased to $3 5 \\%$ around $0 8 { : } 0 0 \\mathrm { ~ h ~ }$ because of the temperature increment. There were no differences in BW during the first $1 0 ~ \\mathrm { D }$ of the study (Table 2). At $2 5 \\mathrm { ~ D ~ }$ , BW increased with the highest supplementation of AHS compared with the control $( P \\prec \\ 0 . 0 5 )$ , and BW increased linearly with increasing AHS in the water $( P _ { L i n e a r } < 0 . 0 5 )$ ; BW with Vit-C supplementation was not different compared with that with other treatments $( P > 0 . 1 0 )$ ). Similar response patterns for BW were observed at day 36. There was no treatment effect in ADG during the first $1 0 ~ \\mathrm { D }$ but from 11 to $^ { 2 5 \\mathrm { ~ D ~ } }$ , ADG increased for AHS2 and Vit-C compared with control $( P < 0 . 0 5 )$ . Increasing supplementation of AHS in water also increased linearly ADG during the same period $( P _ { L i n e a r } < 0 . 0 5 )$ ). During the last phase (26 to $3 6 \\mathrm { D }$ , there was a tendency $( P < 0 . 1 0 )$ to increase ADG in AHS2 compared with control, and ADG increased linearly with increasing doses of AHS in water. For the overall study (0 to $3 6 \\mathrm { ~ D ~ }$ ; Table 3), ADG increased for AHS2 compared with control and AHS1. Moreover, AHS supplementation increased ADG linearly $( P _ { L i n e a r } < 0 . 0 5 $ ). Vit-C supplementation was not different compared with other treatments. ",
+    "bbox": [
+      117,
+      715,
+      498,
+      927
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      531,
+      583,
+      912,
+      930
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "SAIZ DEL BARRIO ET AL: ADDITIVE FOR HEAT-STRESS ",
+    "bbox": [
+      117,
+      47,
+      686,
+      62
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      890,
+      48,
+      912,
+      59
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/9877073e41c1c664a2f78814a3757392cedb06eabdd8b6fe96e7d38608d19b10.jpg",
+    "table_caption": [
+      "Final BW, ADG, ADFI, and FCR for the overall growing cycle (0 to 36 D) of broiler chickens fed Table 3.increasing levels of a mineral and vitamin mix (1 and $2 \\log / 1 , 0 0 0 \\lfloor$ for AHS1 and AHS, respectively) and vitamin C. "
+    ],
+    "table_footnote": [
+      "Least square means in the same column followed by different superscripts differ significantly (Tukey test; $P \\le 0 . 0 5$ ). 1 SEM; $\\mathbf { n } = 1 2$ (1 pen) per treatment. 2 Linear regression of the different variables relative to the concentration of the mineral and vitamin mix used in drinking water $( 0 , 1$ , and $2 ~ \\mathrm { k g } / 1 , 0 0 0 ~ \\mathrm { L } )$ ; the Vit-C treatment was excluded in this analysis. "
+    ],
+    "table_body": "<table><tr><td>Treatment</td><td>Final BW, g</td><td>ADG,g</td><td>ADFI, g</td><td>FCR</td><td>Mortality, %</td></tr><tr><td>Control</td><td>2,389b</td><td>65.1b</td><td>97.8b</td><td>1.503a</td><td>7.02</td></tr><tr><td>AHS1</td><td>2,428b</td><td>66.1b</td><td>98.6ab</td><td>1.492a,b</td><td>7.68</td></tr><tr><td>AHS2</td><td>2,486a</td><td>67.7a</td><td>100.4a</td><td>1.482b</td><td>10.31</td></tr><tr><td>Vit-C</td><td>2,467ab</td><td>67.2ab</td><td>100.7a</td><td>1.496ab</td><td>10.09</td></tr><tr><td>SEM1</td><td>18</td><td>0.51</td><td>0.70</td><td>0.005</td><td>1.30</td></tr><tr><td>Pvalue</td><td>&lt;0.001</td><td>&lt;0.001</td><td>0.002</td><td>0.026</td><td>0.209</td></tr><tr><td>Linear2</td><td>0.001</td><td>0.001</td><td>0.026</td><td>0.004</td><td></td></tr></table>",
+    "bbox": [
+      83,
+      125,
+      884,
+      250
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      83,
+      350,
+      466,
+      415
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Feed consumption was unaffected during the first $1 0 ~ \\mathrm { D }$ $( P > 0 . 1 0 )$ ). During the second phase (11 to $2 5 ~ \\mathrm { D }$ ), there was a tendency to increase ADFI in Vit-C treatment compared with control $( P < 0 . 1 0 )$ , and AHS supplementation increased ADFI linearly $( P _ { L i n e a r } < 0 . 0 5 )$ . During the last phase, Vit-C supplementation increased ADFI compared with control $( P < 0 . 0 5 )$ ), but it was not different compared with AHS2 supplementation in water $( P > 0 . 1 0 )$ ; higher dosage of AHS also tended to increase linearly ADFI $( P _ { L i n e a r } < 0 . 1 0 )$ ). For the overall period, AHS2 and Vit-C increased ADFI compared with the control $( P \\prec 0 . 0 5 )$ ; AHS1 was intermediate. Moreover, adding AHS in water increases linearly ADFI $( P _ { L i n e a r } < 0 . 0 5 )$ . ",
+    "bbox": [
+      85,
+      416,
+      466,
+      681
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "During the first phase, both concentrations of AHS tested in water decreased FCR compared with the control $( P < 0 . 0 5 )$ ; Vit-C in water was not different from that in any other treatment. For the second phase (11 to $2 5 \\ \\mathrm { D }$ ), increasing AHS in water decreased FCR linearly $( P _ { L i n e a r } < 0 . 0 5 )$ , but Vit-C did not have beneficial effects. During the last phase, there was no treatment effect on FCR in any of the treatments evaluated $( P > 0 . 1 0 )$ . For the overall study (0 to 36 D), FCR was significantly reduced with AHS2 compared with the control, and AHS1 and Vit-C yielded intermediate levels $( P > 0 . 1 0 )$ . When modelling the effect of AHS in water, FCR decreased linearly with higher levels of AHS $P _ { L i n e a r } < 0 . 0 5 )$ . Despite mortality during the growing period being numerically higher for the AHS2 and Vit-C groups relative to control, these differences were not statistical $( P > 0 . 1 0 )$ . However, all the treatments tested in this study had a lower mortality during transport than control $( P ~ > ~ 0 . 0 5$ Figure 2). Animal densities in the present study were 25.5, 25.9, 26.5, and $2 6 . 3 ~ \\mathrm { k g / m } ^ { 2 }$ for the control, AHS1, AHS2, and Vit-C, respectively. ",
+    "bbox": [
+      85,
+      683,
+      466,
+      930
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      350,
+      880,
+      515
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "For blood serum pH, there was no interaction between time and treatment. There was a tendency for blood serum to be different between AHS1 and Vit-C groups $( P < 0 . 1 0$ ; Figure 3), and overall blood serum $\\mathsf { p H }$ at $1 2 { : } 0 0 \\mathrm { ~ h ~ }$ was significantly higher than that at 07:30 and ",
+    "bbox": [
+      500,
+      516,
+      880,
+      615
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/10da681944376b91a030d1e5cda5abfbcbae950c7e62d5add8445884ab6537ab.jpg",
+    "image_caption": [
+      "Mortality during transport of broiler chickens Figure 2.raised under heat stress conditions and given water supplemented with increasing levels of mineral and vitamin mix (1 and $2 ~ \\mathsf { k g } / 1 , 0 0 \\bar { 0 } ~ \\mathsf { L }$ for AHS1 and AHS, respectively) and Vit-C. Data are based on 277, 277, 267, and 267 transported chickens for control, AHS1, AHS2, and Vit-C, respectively. Different superscripts for each treatment differ significantly $P < 0 . 0 5$ ; binomial distribution). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      503,
+      631,
+      876,
+      802
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "JAPR: Research Report ",
+    "bbox": [
+      670,
+      47,
+      880,
+      61
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      47,
+      107,
+      59
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/94ee1a2f4706cfdba0c24985fa78cd97a330377a5b8376abe7c8a9636e797e8b.jpg",
+    "image_caption": [
+      "Blood serum pH taken at 21 D from random different birds in each pen. Birds were raised under heat stress Figure 3.conditions and given water supplemented with increasing levels of mineral and vitamin mix (1 and $2 \\log / 1 , 0 0 0 \\mathsf { L }$ for AHS1 and AHS, respectively) and Vit-C. The average line represents the least square means for each time point. Different superscripts on each time point differ significantly $( P < 0 . 0 5 )$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      164,
+      83,
+      859,
+      480
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$1 0 { : } 0 0 \\mathrm { h } \\left( P < 0 { . } 0 5 \\right)$ . Corticosterone concentration in blood serum $\\mathrm { ( n g / m L ) }$ decreased significantly with any of the water treatments tested $( P < 0 . 0 5$ ; Figure 4A). Concentration of thiobarbituric acid reactive substances (nmol) was unaffected $( P > 0 . 1 0$ ; Figure 4B) by the different water additives. As water intake was not measured per pen, no statistical analysis was performed on water consumption. Gross water consumption per treatment and normalized per chicken was 200, 203, 207, and $2 0 4 ~ \\mathrm { m L / D }$ for control, AHS1, AHS2, and Vit-C treatments, respectively. ",
+    "bbox": [
+      117,
+      583,
+      498,
+      797
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "production systems, heat stress is a common problem, especially during the summer months. Heat stress depends not only on the environmental temperature but also on environmental humidity, ventilation, and area available to the animal for heat exchange (density) [1]. In other words, heat stress is the result of multiple factors that overall decrease heat loss from the bird to surrounding areas when the environmental temperature is higher than their optimum temperature [3, 4]. Heat stress can decrease feed intake and triggers multiple physiological responses [6] that may compromise growth performance of the bird depending on the severity and length of the hot conditions. The heat stress model used in the present study was based on similar published studies [7, 10] and seems adequate when mimicking heat stress conditions; temperature was raised accordingly while relative humidity was maintained around $45 \\%$ . Moreover, blood serum $\\mathrm { p H }$ increased $^ { 4 \\mathrm { ~ h ~ } }$ after ",
+    "bbox": [
+      531,
+      583,
+      912,
+      930
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "DISCUSSION ",
+    "text_level": 1,
+    "bbox": [
+      240,
+      834,
+      373,
+      851
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The present study explored the effects of a mineral and vitamin mix additive added to drinking water to alleviate the effects of heat stress in broiler chickens. In current avian starting the temperature raise, indicating respiratory alkalosis (discussed elsewhere in the article). Moreover, the high mortality observed could be a reflection of the effect of the heat stress on the animals. The higher mortality of animals from AHS2 and Vit C could be likely due to a faster growth rate of these animals (numerical or statistical) because heavier birds are more susceptible to the effect of heat stress. Therefore, birds used for this study were successfully challenged by artificial heat stress conditions. On the other hand, stock density does not seem to have affected the outcomes of this study because these ranged between 25.5 and $2 6 . 5 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ . And so, the maximum animal density reached at $3 6 ~ \\mathrm { D }$ was $2 6 . 5 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ , never exceeding $3 3 ~ \\mathrm { k g / m } ^ { 2 }$ , legally allowed maximum animal density by the local law [32]. The animal densities in the present study at $3 6 ~ \\mathrm { D }$ were well below density values $( 2 9 . 6 ~ \\mathrm { k g / m } ^ { 2 } )$ reported in the literature that did not affect heat stress in broiler chicken [33]. ",
+    "bbox": [
+      115,
+      865,
+      498,
+      929
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "SAIZ DEL BARRIO ET AL: ADDITIVE FOR HEAT-STRESS ",
+    "bbox": [
+      117,
+      47,
+      686,
+      62
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      890,
+      48,
+      912,
+      59
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/healthcare_0028060/auto/images/1f7bc8c5d4d11e641f532f5b349bb35405a73d1d9119c8d07922a4217f22b803.jpg",
+    "image_caption": [
+      "(A) Blood serum corticosterone and (B) thi-Figure 4.obarbituric acid reactive substances concentrations (TBARS) in birds raised under heat stress conditions and given water supplemented with increasing levels of a mineral and vitamin mix (1 and $2 \\log / 1 , 0 0 0 \\lfloor$ for AHS1 and AHS, respectively) and Vit-C. Values represent least square means means per treatment; error bars represent SEM $( \\mathsf { n } ~ = ~ \\mathsf { 6 } )$ ). Within section, bars with different superscript differ significantly, $P < 0 . 0 5$ . "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      88,
+      460,
+      468
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      631,
+      466,
+      930
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      500,
+      84,
+      880,
+      150
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The major finding in the present study is the improvement in performance, compared with control, when AHS was added to the water (Table 2). The increment in BW and ADG could be related, at least partially, to the addition of key electrolytes in the AHS formula. During heat stress, breathing rate increases, and the higher intake of air helps to dissipate heat out of the body. However, there is also water and carbon dioxide losses associated with the increased breathing rate [34]. Higher than normal losses of carbon dioxide produce respiratory alkalosis, which in turn can change the electrolyte balance in the bird. The resulting electrolyte imbalance is a consequence of selective retention of $\\mathrm { H } ^ { + }$ in the kidneys [35]. The retention of $\\mathrm { H } ^ { + }$ tries to compensate the increase in blood $\\mathrm { p H }$ but also reduces competence between $\\mathrm { H } ^ { + }$ and $\\mathrm { K } ^ { + }$ , thus increasing $\\mathrm { K } ^ { + }$ excretion. In addition, increase in water intake and excreta water output is a mechanism to alleviate heat stress, especially when the temperature of drinking water is below body temperature [36]. To increase the excreta water output, excretion of $\\mathrm { N a ^ { + } }$ must be upregulated through lower levels of aldosterone in blood, increasing output of $\\mathrm { N a ^ { + } }$ [37, 38]. Therefore, during heat stress conditions, the bird losses higher than normal amounts of $\\mathrm { N a ^ { + } }$ and $\\mathrm { K } ^ { + }$ (the main extracellular and intracellular fluid ions, respectively). Replenishment of such ions can alleviate negative effects of heat stress, as seen in the present study. ",
+    "bbox": [
+      500,
+      151,
+      880,
+      700
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Considering the concentration of the different electrolytes in the AHS product, the concentrations used in water for the different treatments (1 and $2 ~ \\mathrm { k g } / 1 , 0 0 0 ~ \\mathrm { L } )$ ), and water and feed intake for the overall period (Table 3), equivalent to feed concentrations of ${ \\mathrm { N a H C O } } _ { 3 }$ , KCl, and $\\mathrm { M g }$ acetate were recalculated. AHS1 and AHS2 concentrations were 0.10 and $0 . 2 0 \\%$ for $\\mathrm { N a H C O } _ { 3 }$ , 0.08 and $0 . 1 6 \\%$ for KCl; and 0.006 and $0 . 0 1 2 \\%$ for $\\mathrm { M g }$ acetate, respectively. Compared with other published studies, these concentrations appear to be low. Positive effects of adding ${ \\mathrm { N a H C O } } _ { 3 }$ in the diet have been reported at 0.5 to $1 . 0 \\%$ improved ADFI and ADG [39], while no effects were reported at similar concentrations in other studies [40]. For KCl, increments in ADG and reduction of FCR were reported at concentrations between 1.5 and $2 . 0 \\%$ in diets [41, 42] or at $0 . 1 5 \\%$ in drinking water [43]. Studies mentioned previously, however, explored individual ion replenishment, contrary to the present study, and it is possible that a synergetic effect takes place when supplementing multiple electrolytes. Positive effects were also reported when $\\mathrm { M g }$ was supplemented in the diet under heat stress (2.5 to $5 . 0 ~ \\mathrm { m g / k g }$ of diet) [44, 45]. It appears that during heat stress, extra supply of electrolytes to replenish body stores can effectively decrease effects of heat stress in poultry. However, an optimal combination of such electrolytes under different heat stress conditions (chronic or acute) deserves further investigation. ",
+    "bbox": [
+      500,
+      700,
+      880,
+      929
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "JAPR: Research Report ",
+    "bbox": [
+      672,
+      47,
+      880,
+      61
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      47,
+      107,
+      59
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      84,
+      498,
+      398
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The other nutritional strategy to prevent detrimental effects of heat stress in poultry includes supplementation of vitamins. Vitamin A (15,000 IU) supplementation successfully improved body weight gain, feed efficiency, and carcass yield in broiler chicken under heat stress [22]. The use of ascorbic acid (vitamin C) increased carcass weight and carcass quality in heat-stressed chickens [46]. A mix of vitamins (A, D, E, and B complex) also reported to enhance the immune system and performance of birds under heat-challenging conditions [23]. The positive effects of vitamins, especially vitamin C and E, are related with the effect of oxidative stress caused by heat stress [21]. Oxidative stress is defined as the presence of reactive substances (reactive oxygen, nitrogen, and chlorine species) in excess of the available antioxidant capacity of the animal cells [47]. When not controlled, these highly reactive substances can cause a chain reaction of harmful macromolecule modifications (e.g., protein, lipids, and nucleic acids) and potential cell death with extensive tissue damage. Between vitamins C and E, studies have reported a metabolic interaction; vitamin C enhances vitamin E antioxidant activity [48] and also spares vitamin E availability [49]. In the present study, adding vitamin C $( 2 0 0 ~ \\mathrm { \\ m g / k g } )$ to the control diet improved ADFI for the overall period and yielded intermediate values for other performance parameters compared with those obtained with control and AHS2. Such positive effects of vitamin C in hot conditions have also been reported in broiler chickens [50, 51] and in laying hens [52, 53], and the amount of added dietary vitamin C in those studies (between 150 to $3 0 0 ~ \\mathrm { m g / k g ) }$ was comparable to the concentration used in the Vit-C group in the present study. Moreover, the improved performance associated with supplementation of vitamin C can also be related to the reduction of blood serum corticosterone concentration in blood [50, 54]. The latter effect of vitamin C is in agreement with the corticosterone results presented in this study (Figure 4). ",
+    "bbox": [
+      115,
+      401,
+      498,
+      931
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      531,
+      84,
+      912,
+      316
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The abovementioned mechanisms of heat stress (electrolyte imbalance and oxidative stress) could explain the results seen in the present study. Vitamin C supplementation produced intermediate results (not different compared with control or AHS2; Table 2). A titration study to determine the optimum level of vitamin C supplementation is warranted to optimize the vitamin inclusion level. In contrast with vitamin C supplementation alone, the AHS supplement is a combination of minerals $( \\mathrm { N a } ^ { + }$ , $\\mathrm { K } ^ { + }$ , and $\\mathrm { M g } ^ { + }$ ) and vitamin C and could have had an additive effect, widening the spectrum of problems this product can alleviate. It should be considered that most of the responses with AHS were linear, and no quadratic returns can be concluded with a 3–data point regression. Thus, it is possible that higher concentrations of this vitamin and mineral mix can further ameliorate heat stress–related problems. ",
+    "bbox": [
+      531,
+      319,
+      912,
+      647
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CONCLUSIONS AND APPLICATIONS ",
+    "text_level": 1,
+    "bbox": [
+      531,
+      679,
+      912,
+      695
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. High mortality rates observed in the study were likely caused by heat stress reached in this study.   \n2. Adding a combination of electrolytes and vitamin C in drinking water of growing broiler chickens improved growth performance in a dose-related way (linearly) in heat-stressed broiler chickens under standard animal density conditions.   \n3. Supplementation of vitamin C improved growth performance in heat-stressed broiler chickens, but results were intermediate compared with the control and the highest ",
+    "bbox": [
+      531,
+      713,
+      912,
+      927
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "SAIZ DEL BARRIO ET AL: ADDITIVE FOR HEAT-STRESS ",
+    "bbox": [
+      117,
+      47,
+      686,
+      62
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      890,
+      48,
+      910,
+      59
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "level of inclusion of the mineral and vitamin mix C AHS $( 2 \\mathrm { ~ k g } / 1 , 0 0 0 \\mathrm { L } )$ supplementation. 4. Both the mineral and vitamin C mix and vitamin C alone added to drinking water reduced corticosterone levels in blood serum. 5. Further research on determining the optimal level of each component of the mineral and vitamin mix used in the present study is warranted. ",
+    "bbox": [
+      85,
+      84,
+      466,
+      231
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES AND NOTES ",
+    "text_level": 1,
+    "bbox": [
+      134,
+      252,
+      416,
+      269
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1. Thomas, D. G., V. Ravindran, D. V. Thomas, B. J.   \nCamden, Y. H. Cottam, P. C. H. Morel, and C. J. Cook.   \n2004. Influence of stocking density on the performance,   \ncarcass characteristics and selected welfare indicators of   \nbroiler chickens. N. Z. Vet. J. 52:76–81. 2. Estevez, I. 2007. Density allowances for broilers:   \nwhere to set the limits? Poult. Sci. 86:1265–1272. 3. Lara, L. J., and M. H. Rostagno. 2013. Impact of heat   \nstress on poultry production. Animals 3:356–369. 4. Reece, F. N., and J. W. Deaton. 1971. Use of a time  \nproportioning thermostat for control of poultry-house envi  \nronments. Poult. Sci. 50:1622. 5. Cooper, M. A., and K. W. Washburn. 1998. The re  \nlationships of body temperature to weight gain, feed con  \nsumption, and feed utilization in broilers under heat stress.   \nPoult. Sci. 77:237–242. 6. Mack, L. A., J. N. Felver-Gant, R. L. Dennis, and H.   \nW. Cheng. 2013. Genetic variation alter production and   \nbehavioral responses following heat stress in 2 strains of   \nlaying hens. Poult. Sci. 92:285–294. 7. Quinteiro-Filho, W. M., A. Ribeiro, V. Ferraz-de-  \nPaula, M. L. Pinheiro, M. Sakai, L. R. M. Sá, A. J. P. Ferreira,   \nand J. Palermo-Neto. 2010. Heat stress impairs performance   \nparameters, induces intestinal injury, and decreases macro  \nphage activity in broiler chickens. Poult. Sci. 89:1905–1914. 8. Quinteiro-Filho, W. M., M. V. Rodrigues, A. Ribeiro,   \nV. Ferraz-de-Paula, M. L. Pinheiro, L. R. M. Sa, A. J. P. Fer  \nreira, and J. Palermo-Neto. 2012. Acute heat stress impairs   \nperformance parameters and induces mild intestinal enteritis in   \nbroiler chickens: role of acute hypothalamic-pituitary-adrenal   \naxis activation. J. Anim. Sci. 90:1986–1994. 9. Quinteiro-Filho, W. M., A. V. S. Gomes, M. L.   \nPinheiro, A. Ribeiro, V. Ferraz-de-Paula, C. S. Astolfi-Fer  \nreira, A. J. P. Ferreira, and J. Palermo-Neto. 2012. Heat   \nstress impairs performance and induces intestinal inflam  \nmation in broiler chickens infected with Salmonella Enter  \nitidis. Avian Pathol. 41:421–427. 10. Smith, M. O. 2003. Effects of different levels of zinc   \non the performance and immunocompetence of broilers   \nunder heat stress. Poult. Sci. 82:1580–1588. 11. Niu, Z. Y., F. Z. Liu, Q. L. Yan, and W. C. Li. 2009.   \nEffects of different levels of vitamin E on growth perfor  \nmance and immune responses of broilers under heat stress.   \nPoult. Sci. 88:2101–2107. 12. Humphrey, T. 2006. Are happy chickens safer   \nchickens? Poultry welfare and disease susceptibility. Br.   \nPoult. Sci. 47:379–391. 13. Rostagno, M. H. 2009. Can stress in farm animals   \nincrease food safety risk? Foodborne Pathog. Dis. 6:767–776. ",
+    "bbox": [
+      83,
+      277,
+      468,
+      925
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "14. Verbrugghe, E., F. Boyen, W. Gaastra, L. Bekhuis, B. Leyman, A. Van Parys, F. Haesebrouck, and F. Pasmans. 2012. The complex interplay between stress and bacterial infections in animals. Vet. Microbiol. 155:115–127. 15. Bonnet, S., P. A. Geraert, M. Lessire, B. Carre, and S. Guillaumin. 1997. Effect of high ambient temperature on feed digestibility in broilers. Poult. Sci. 76:857–863. 16. Lu, Q., J. Wen, and H. Zhang. 2007. Effect of chronic heat exposure on fat deposition and meat quality in two genetic types of chicken. Poult. Sci. 86:1059–1064. 17. Zhang, Z. Y., G. Q. Jia, J. J. Zuo, Y. Zhang, J. Lei, L. Ren, and D. Y. Feng. 2012. Effects of constant and cyclic heat stress on muscle metabolism and meat quality of broiler breast fillet and thigh meat. Poult. Sci. 91:2931–2937. 18. St-Pierre, N. R., B. Cobanov, and G. Schnitkey. 2003. Economic losses from heat stress by US livestock industries. J. Dairy Sci. 86:52–77. 19. Boissy, A., G. Manteuffel, M. B. Jensen, R. O. Moe, B. Spruijt, L. J. Keeling, C. Winckler, B. Forkman, I. Dimitrov, J. Langbein, and M. Bakken. 2007. Assessment of positive emotions in animals to improve their welfare. Physiol. Behav. 92:375–397. 20. Hemsworth, P. H. 2003. Human–animal interactions in livestock production. Appl. Anim. Behav. Sci. 81:185– 198. 21. Lin, H., H. C. Jiao, J. Buyse, and E. Decuypere. 2006. Strategies for preventing heat stress in poultry. Worlds Poult. Sci. J. 62:71–86. 22. Kucuk, O., N. Sahin, and K. Sahin. 2003. Supplemental zinc and vitamin A can alleviate negative effects of heat stress in broiler chickens. Biol. Trace Elem. Res. 94:225–235. 23. Ferket, P. R., and M. A. Qureshi. 1992. Performance and immunity of heat-stressed broilers fed vitamin-and electrolyte-supplemented drinking water. Poult. Sci. 71:88–97. 24. Boletín Oficial del Estado. 2013. Real decreto 53/ 2013 sobre protección de los animales utilizados para experimentación y otros fines científicos incluyendo la docencia. BOE 34:11370–11471. 25. Ross 308. Manual de manejo. Pollos de engorde, 2014. Aviagen. 26. Farm-o-San, Amersfoort, The Netherlands. 27. Instrumentos Testo S.A, Cabrils, Spain. 28. CVB Table Booklet Feeding of Poultry, 2008. Centrael Veevoederbureau - CVB. CVB series no. 45. 29. Mettler-Toledo AG, Greinfesse, Switzerland. 30. IDS, Boldon, UK. 31. SAS Institute Inc., Cary, NC. 32. Boletín Oficial del Estado. 2010. Real Decreto 692/ 2010 or el que se establecen las normas mínimas para la protección de los pollos destinados a la producción de carne. BOE. 135:47986–47995. 33. Najafi, P., I. Zukifli, A. J. Nurfarahin, A. F. Soleimani, S. Kumari, A. A. Aryani, E. L. O’Reilly, and P. D. Eckersall. 2015. Environmental temperature and stocking density effects on acute phase proteins, heat shock protein 70, circulating corticosterone, and performance in broiler chickens. Int. J. Biometeorol. 59:1577–1583. 34. Borges, S. A., A. V. Fischer da Silva, and A. Maiorka. 2007. Acid-base balance in broilers. World’s Poult. Sci. J. 63:73–81. ",
+    "bbox": [
+      498,
+      87,
+      882,
+      936
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "JAPR: Research Report ",
+    "bbox": [
+      672,
+      45,
+      880,
+      61
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "32 ",
+    "bbox": [
+      85,
+      47,
+      107,
+      59
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "35. Orloff, J., and G. D. Douglas. 1959. The mechanism of   \npotassium excretion in the chicken. J. Clin. Invest. 38:21–30. 36. Belay, T., and R. G. Teeter. 1993. Broiler water   \nbalance and thermobalance during thermoneutral and high   \nambient temperature exposure. Poult. Sci. 72:116–124. 37. Arnason, S. S. 1997. Aldosterone and the control of   \nlower intestinal $\\mathrm { N a } ^ { + }$ absorption and Cl- secretion in   \nchickens. Comp. Biochem. Physiol. A. Physiol. 118:257–   \n259. 38. Clauss, W., S. S. Arnason, B. G. Munck, and E.   \nSkadhauge. 1984. Aldosterone-induced sodium transport in   \nlower intestine. Effects of varying NaCl intake. Pflugers   \nArch. 401:354–360. 39. Fischer da Silva, A. V., J. S. Flemming, and S. G.   \nFRANCO. 1994. Utilização de diferentes sais na prevenção   \ndo estresse calórico de frangos de corte criados em clima   \nquente. Rev. Setor Ciênc. Agrár. 13:287–292. 40. Borges, S. A. 1997. Suplementação de cloreto de   \npotássio e bicarbonato de sódio para frangos de corte   \ndurante o verão. MSc Diss. Univ. Estadual Paulista, Brasil. 41. Smith, M. O., and R. G. Teeter. 1987. Potassium   \nbalance of the 5 to 8-week-old broiler exposed to constant   \nheat or cycling high temperature stress and the effects of   \nsupplemental potassium chloride on body weight gain and   \nfeed efficiency. Poult. Sci. 66:487–492. 42. Smith, M. O., and R. G. Teeter. 1993. Carbon di  \noxide, ammonium chloride, potassium chloride, and per  \nformance of heat distressed broilers. J. Appl. Poult. Res.   \n2:61–66. 43. Teeter, R. G., and M. O. Smith. 1986. High chronic   \nambient temperature stress effects on broiler acid-base bal  \nance and their response to supplemental ammonium chlo  \nride, potassium chloride, and potassium carbonate. Poult.   \nSci. 65:1777–1781. 44. Yang, Y., M. Gao, W. Nie, J. Yuan, B. Zhang, Z.   \nWang, and Z. Wu. 2012. Dietary magnesium sulfate sup  \nplementation protects heat stress-induced oxidative damage   \nby restoring the activities of anti-oxidative enzymes in   \nbroilers. Biol. Trace Elem. Res. 146:53–58. 45. Sahin, N., M. Onderci, K. Sahin, G. Cikim, and O.   \nKucuk. 2005. Magnesium proteinate is more protective than   \nmagnesium oxide in heat-stressed quail. J. Nutr. 135:1732–   \n1737. 46. Kutlu, H. R. 2001. Influences of wet feeding and   \nsupplementation with ascorbic acid on performance and   \ncarcass composition of broiler chicks exposed to a high   \nambient temperature. Arch. Tierernahr. 54:127–139. 47. Akbarian, A., J. Michiels, J. Degroote, M. Maj  \ndeddin, A. Golian, and S. de Smet. 2016. Association be  \ntween heat stress and oxidative stress in poultry;   \nmitochondrial dysfunction and dietary interventions with   \nphytochemicals. J. Anim. Sci. Biotechnol. 7:37. 48. Jacob, R. A. 1995. The integrated antioxidant sys  \ntem. Nutr. Res. 15:755–766. 49. Retsky, K. L., and B. Frei. 1995. Vitamin C pre  \nvents metal ion-dependent initiation and propagation of lipid   \nperoxidation in human low-density lipoprotein. Biochim.   \nBiophys. Acta 1257:279–287. 50. Mckee, J. S., and P. C. Hurrison. 1995. Effects of   \nsupplemental ascorbic acid on the performance of broiler   \nchickens exposed to multiple concurrent stressors. Poult.   \nSci. 74:1772–1785. 51. Imik, H., H. Ozlu, R. Gumus, M. A. Atasever, S.   \nUrcar, and M. Atasever. 2012. Effects of ascorbic acid and   \n$\\boldsymbol { \\mathscr { x } }$ -lipoic acid on performance and meat quality of broilers   \nsubjected to heat stress. Br. Poult. Sci. 53:800–808. 52. Panda, A. K., S. V. Ramarao, M. V. Raju, and R. N.   \nChatterjee. 2008. Effect of dietary supplementation with   \nvitamins E and C on production performance, immune re  \nsponses and antioxidant status of White Leghorn layers   \nunder tropical summer conditions. Br. Poult. Sci. 49:592–   \n599. 53. Puthpongsiriporn, U., S. E. Scheideler, J. L. Sell,   \nand M. M. Beck. 2001. Effects of vitamin E and C sup  \nplementation on performance, in vitro lymphocyte prolifer  \nation, and antioxidant status of laying hens during heat   \nstress. Poult. Sci. 80:1190–1200. 54. Mahmoud, K. Z., F. W. Edens, E. J. Eisen, and G.   \nB. Havenstein. 2004. Ascorbic acid decreases heat shock   \nprotein 70 and plasma corticosterone response in broilers   \n(Gallus Gallus Domesticus) subjected to cyclic heat stress.   \nComp. Biochem. Physiol. 137:35–42. ",
+    "bbox": [
+      115,
+      86,
+      500,
+      633
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      529,
+      90,
+      914,
+      626
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "SAIZ DEL BARRIO ET AL: ADDITIVE FOR HEAT-STRESS ",
+    "bbox": [
+      115,
+      45,
+      688,
+      62
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "33 ",
+    "bbox": [
+      890,
+      48,
+      912,
+      61
+    ],
+    "page_idx": 10
+  }
+]

@@ -1,0 +1,805 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/d19360759d48f2c5394b8e00b674721e38e9e4b3d360af0ba1bf4669e7ed1f11.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      0,
+      411,
+      358
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Prior Year Performance Report ",
+    "text_level": 1,
+    "bbox": [
+      486,
+      15,
+      964,
+      207
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "City Budget Office ",
+    "bbox": [
+      820,
+      915,
+      959,
+      968
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Fiscal Year 2018-19 ",
+    "bbox": [
+      949,
+      267,
+      985,
+      460
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Promoting a Transparent, Effective, Engaged Government ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      64,
+      714,
+      87
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The City of Portland’s internal operations create the foundation on which all City services are built. It has been a longstanding priority for the City that the costs of internal operations are transparent, and more internal service bureaus are using the tools of performance management to ensure that they are efficiently and effectively supporting the City’s community-facing programs. While the FY 2017-18 Prior Year Performance report noted significant improvements in Bureau of Human Resources’ cycle times for recruitment and hiring, this year the Procurement Division is actively setting goals and tracking its ability to meet efficiency targets for customers. There remain areas for improvement in tracking performance in internal services, and CBO expects to add performance measures for the Bureau of Technology Services and Special Appropriations for FY 2020-21 that align with core service delivery in each of those areas. ",
+    "bbox": [
+      114,
+      113,
+      879,
+      339
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Several City bureaus also set goals and made changes last fiscal year to improve the ways that City processes operate and engage the public. Bureaus demonstrated performance improvements in public records request and permitting processes. These successes are highlighted below as the City looks to improve coordination and accountability across community engagement activities moving forward. ",
+    "bbox": [
+      116,
+      352,
+      859,
+      454
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Community Member Touchpoints with Government ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      488,
+      588,
+      507
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Public Records Request Fee Management ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      526,
+      452,
+      542
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In FY 2018-19 the City of Portland received 32,317 public records requests, continuing the upward trend of the last three fiscal years. Public records requests can be made online, in person at the Bureau of Development Services (BDS) permit center or Police Bureau Central and East Precincts, and via paper form.1 The City Attorney’s Office administers the City’s ",
+    "bbox": [
+      114,
+      546,
+      880,
+      627
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Records Management program and dedicates one Deputy City Attorney and one Paralegal to managing and coordinating the program, which includes routing requests to the appropriate bureau contact. ",
+    "bbox": [
+      114,
+      631,
+      349,
+      794
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/8065b37b38fb190fbf5ddd207e769c357750f5c8be600d2eb5b2279ec7b95569.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=6>City of Portland Public Records Requests</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=5>FEES COLLECTED</td></tr><tr><td rowspan=1 colspan=1>Total Requests</td><td rowspan=1 colspan=1>PoliceBureau</td><td rowspan=1 colspan=1>Develop-mentServices</td><td rowspan=1 colspan=1>AlotherBureaus</td><td rowspan=1 colspan=1>TotalFeesCollected</td></tr><tr><td rowspan=1 colspan=1>FY2016-17</td><td rowspan=1 colspan=1>28,461</td><td rowspan=1 colspan=1>$498,211</td><td rowspan=1 colspan=1>$58,113</td><td rowspan=1 colspan=1>$49,602</td><td rowspan=1 colspan=1>$605,926</td></tr><tr><td rowspan=1 colspan=1>FY2017-18</td><td rowspan=1 colspan=1>30,098</td><td rowspan=1 colspan=1>$718,344</td><td rowspan=1 colspan=1>$55,363</td><td rowspan=1 colspan=1>$61,732</td><td rowspan=1 colspan=1>$835,439</td></tr><tr><td rowspan=1 colspan=1>FY2018-19</td><td rowspan=1 colspan=1>32,317</td><td rowspan=1 colspan=1>$554,985</td><td rowspan=1 colspan=1>$67,156</td><td rowspan=1 colspan=1>$63,462</td><td rowspan=1 colspan=1>$685,603</td></tr></table>",
+    "bbox": [
+      369,
+      642,
+      919,
+      842
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Over the last three years, costs of responding to ",
+    "bbox": [
+      114,
+      806,
+      328,
+      845
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Per ORS 192.324(7) a public records request may be submitted online at www.portalndoregon.gov/PRR. The public records request contacts list can be found online at http://www.portlandonline.com/shared/cfm/image.cfm?id=189944 ",
+    "bbox": [
+      114,
+      873,
+      848,
+      920
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "records requests have increased due to position changes and personnel costs, increased request volume and complexity, and implementation of a new request management software, GovQA. State law allows the City to charge reasonable fees to recover the cost of responding to public records requests. However, recognizing that fees create barriers to public access to records, the City does not charge the full cost of responding to records requests. In addition, the City grants fee waivers on a case-by-case basis. The Portland Police Bureau (PPB), for instance, grants fee waivers to crime victims, individuals who state they have a financial hardship, and in situations in which the release of the record is in the public’s interest. PPB receives most public records requests and subsequently collects more in fees to support the Public Records program than other bureaus (see table above). ",
+    "bbox": [
+      114,
+      63,
+      879,
+      268
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "While aiming to avoid increasing the fee burden on the public, the City has searched for ways to reduce the cost of City staff time dedicated to fulfilling records requests. In particular, the increase in requests over the last three fiscal years for public records involving email searches has led to increased costs. Prior to FY 2018-19, the Bureau of Technology Services (BTS) was required to perform these searches, and charged a fee of at least $\\$ 160 – 5180$ to the bureau that received the request, which was either absorbed or passed on to the requestor. In FY 2018-19, BTS and the City Attorney’s office proposed the creation of a Business Services Analyst position in the Office of the City Attorney, supported with General Fund resources, to perform these electronic searches at a lower cost. The position was approved in the FY 2019-20 Adopted budget. To further address cost concerns for the public, PPB implemented the policy of providing fee waivers for victims of crimes and the City committed to providing crime victims their own police reports at no cost beginning in FY 2018-19. During the second half of FY 2018-19, over 1,000 requests from victims were processed with no charge. A one-time General Fund subsidy of $\\$ 120,000$ was allocated to the bureau to offset the foregone revenue; going forward, the bureau will subsidize the cost of requests from victims within existing bureau resources. Eliminating these fees by subsidizing the cost of fulfilling records requests with PPB resources removes barriers to those with fewer economic resources who need to access the information. ",
+    "bbox": [
+      114,
+      281,
+      882,
+      655
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Public Records Request Turnaround times ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      666,
+      452,
+      684
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The Police Bureau’s Records Division, which responds to about $7 5 \\%$ of all requests to the City, has made progress in improving turnaround times for public records requests, and more potential improvements are on the horizon. When the bureau’s current records management system (RegJIN) was first implemented in 2015, the backlog for public records requests was approximately 16 weeks. By the end of FY 2018-19, the Records Division reduced that backlog to three to four weeks. ",
+    "bbox": [
+      114,
+      686,
+      879,
+      801
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The division’s overall goal is to respond to $9 5 \\%$ of public records requests within 21 calendar days (15 business days). Over the course of FY 2018-19, the Records Division closed $39 \\%$ of public records request within 21 calendar days and showed considerable improvement at the tail end of the fiscal year. This metric excludes regular high-volume requests from companies like LexisNexis. A management decision was made (and ",
+    "bbox": [
+      116,
+      821,
+      846,
+      917
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "communicated to high-volume requestors) that the division intended to prioritize records requests from community members. 2 ",
+    "bbox": [
+      112,
+      64,
+      864,
+      102
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/711618bd8364fdf59ffffe15ca36b3bca4fcf90c093c70218398c31f67eb488b.jpg",
+    "image_caption": [
+      "Police Bureau Public Records Requests "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      171,
+      140,
+      818,
+      270
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/f4c5a0ecfd8edfd8ec29482cd25f950593d8c13c02789d301f7cb6917f71b4d4.jpg",
+    "image_caption": [
+      "Public Records Requests Received vs. Closed Within 21 Days (excluding LexisNexis & MRB) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      124,
+      368,
+      915,
+      549
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The division made several process improvements over the course of FY 2018-19, including process mapping to identify efficiencies, improving the accuracy of submissions from highvolume requestors, and switching to faster browsers. Additional improvements are planned, including the implementation of a planned interface between GovQA and the Police Bureau’s records management system. For smaller potential improvements, the division is taking the laudable approach of testing and evaluating efficiency proposals to identify the cost/benefit ratio before rolling out unit-wide. ",
+    "bbox": [
+      112,
+      574,
+      869,
+      719
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The City Attorney’s office and BTS have worked to improve response times during the GovQA system implementation and subsequent enhancements. The PROActive Pages feature in GovQA allows the City to post information on trending topics so that interested parties can access those high-profile records quickly and at no additional cost. This reduces City staff time responding to multiple requests for the same information. Currently, neither bureau reports on performance measures related to public records requests, such as ",
+    "bbox": [
+      114,
+      739,
+      877,
+      863
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 Inclusive of institutional requests, the percentage of records requests closed within 21 days was $1 6 \\%$ in FY 2018- 19. ",
+    "bbox": [
+      114,
+      888,
+      872,
+      919
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "number of requests or response time, despite providing that information to the State. CBO recommends adding such measures so that the City can track the impact of its new strategies to process public records requests across all bureaus, not only for those managed by the Police Bureau. ",
+    "bbox": [
+      114,
+      63,
+      880,
+      143
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CBO recommends that the City continue efforts to track the total time and cost related to each public records request. Currently, GovQA tracks response times and cost for requests that go through that system. For requests that go directly through bureaus, tracking varies. The City Attorney’s Office is currently working to improve bureau tracking. As the City continues to automate the process and reduce time spent on research and response, measuring the volume, timeliness, and cost of fulfilling public records requests will help quantify the benefits of process improvements and ensure that the most effective practices can be replicated. ",
+    "bbox": [
+      114,
+      156,
+      879,
+      320
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Permitting Turnaround Times ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      333,
+      354,
+      352
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Bureau of Development Services (BDS) issues permits for construction and renovation of commercial and residential buildings. Through BDS’ and other bureaus’ reviews of permit applications, the City ensures that buildings are safe and that their uses are in line with the City’s land use plans. ",
+    "bbox": [
+      116,
+      354,
+      882,
+      434
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "BDS has made efforts in recent years to shorten turnaround times for permitting, review, and inspection tasks or processes to facilitate a better customer experience. The FY 2018-19 performance measures highlighted below show improved turnaround times for commercial plan and permitting reviews and inspections, as well as for land use reviews. While some of these efficiency gains can be attributed to reduced development activity in FY 2018-19, some of the improvements may have arisen from process improvement efforts and active monitoring of these measures. ",
+    "bbox": [
+      114,
+      453,
+      882,
+      594
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Residential permitting process timelines performed less well. BDS (and other development bureaus) ended FY 2018-19 having reviewed only $66 \\%$ of residential plans within scheduled end dates, short of the $72 \\%$ target and slightly lower than the previous year’s $68 \\%$ . BDS notes that while they are responsible for coordinating and monitoring development review, timeliness depends on all seven bureaus involved in review.3 Last year, the bureaus or programs taking the longest for residential plan review were the Portland Bureau of Transportation, the Water Bureau, and the Life Safety review group within BDS. ",
+    "bbox": [
+      114,
+      608,
+      880,
+      751
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 Bureau of Development Services, Portland Bureau of Transportation, Portland Water Bureau, Portland Fire & Rescue, Bureau of Environmental Services, Portland Housing Bureau, and Portland Parks & Recreation. ",
+    "bbox": [
+      116,
+      888,
+      852,
+      920
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In FY 2018-19, BDS was able to meet its targets for five out of its eight performance measures focused on turnaround times. ",
+    "bbox": [
+      209,
+      73,
+      789,
+      116
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/de5dc0084067c4ece45788c15b41fba30f936f9f22e6fb8fdf09ed93844f6fb0.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      133,
+      130,
+      857,
+      497
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Development bureaus have tried different strategies to improve the development review process over the past several years. Mayor Wheeler led a series of Government Accountability, Transparency and Results (GATR) performance management sessions on Housing Development4 from 2016-2018, and created the “Fast Track” program to test new approaches to high-priority projects. The Development Directors' Group was established in December 2017 to improve development services results. In FY 2019-20, the seven development bureaus are undertaking a strategic planning process focused on improving coordination, transparency, and decision-making during plan review. In September 2019, BDS executed a contract with a consultant, Catalysis LLC, to facilitate the process, and a steering committee of representatives from the bureaus had its kick-off meeting in October. ",
+    "bbox": [
+      114,
+      506,
+      877,
+      712
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Portland Online Permitting System (POPS) project, when implemented, is expected to significantly improve the review process, allowing the full permitting process to happen online, with different bureaus conducting their reviews simultaneously. In FY 2018-19, BDS made progress on the development and implementation of several POPS components and noted that having the ability to review plans electronically has resulted in the shortening of the time for submitting and reviewing project revisions from hours to minutes. The bureau anticipates further efficiencies to come from the implementation of additional components of the project in FY 2019-20, including the launch of the AMANDA permitting software upgrade in February 2020. ",
+    "bbox": [
+      114,
+      723,
+      880,
+      867
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4 “Housing Development GATR” on City Budget Office page, https://www.portlandoregon.gov/cbo/72474 ",
+    "bbox": [
+      114,
+      905,
+      818,
+      921
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      64,
+      834,
+      103
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "311 Update ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      116,
+      215,
+      132
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The FY 2019-20 Adopted Budget includes funding for the implementation of a Citywide 311 system. The purpose of the 311 program is to improve Citywide customer service by: offering a first stop for community questions or requests online, in person, and over the phone; hiring diverse staff; improving and better integrating language services; and conducting outreach and education about the program to historically underserved community members. ",
+    "bbox": [
+      116,
+      136,
+      869,
+      258
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "City Council recently passed Resolution 37456 formally creating the program, merging the existing Information and Referral (I&R) program with 311, and moving the program from the Office of Community and Civic Life (Civic Life) to the Chief Administrative Officer’s office within the Office of Management & Finance (OMF). The Resolution approved a budget increase to an estimated fully-funded total of $\\$ 3.1$ million. OMF will work to create performance measures in the coming years to track the program’s success, but the program will not be fully implemented until FY 2022-23. CBO encourages the program to set interim performance measures for the period before full implementation. ",
+    "bbox": [
+      114,
+      270,
+      882,
+      435
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Procurement Division: Process Improvements and Expansion ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      462,
+      665,
+      481
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The City of Portland Procurement Services is a vital City function, serving as an intermediary between bureaus and the market for contracts totaling about $\\$ 500$ million annually. Procurement Services plays a critical role in the implementation timeline for projects and programming across the City and is responsible for advancing the City’s goals to support social equity in contracting practices. ",
+    "bbox": [
+      114,
+      484,
+      879,
+      585
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Procurement Services made several major changes in FY 2018-19 to improve procurement turnaround times and reduce friction in the procurement process. Procurement Services has established performance measures to track cycle times of several processes, including: ",
+    "bbox": [
+      114,
+      598,
+      593,
+      700
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Construction Invitation to Bid   \n• Goods and Services Requests for Proposals   \n• Goods and Services Invitation to Bid Professional, Technical, and Expert Requests for Proposals6 , and ",
+    "bbox": [
+      143,
+      713,
+      575,
+      818
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/0da63b1b0de6a6bf81ad1147faa89b293053fab5d75786c7c99e42e18ff39b2d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>Procurement Type</td><td rowspan=1 colspan=1>Service LevelAgreement(calendar days)5</td></tr><tr><td rowspan=1 colspan=1>ConstructionInvitation to Bid</td><td rowspan=1 colspan=1>160</td></tr><tr><td rowspan=1 colspan=1>Construction Requestfor Proposal</td><td rowspan=1 colspan=1>300</td></tr><tr><td rowspan=1 colspan=1>Professional,Technical, and ExpertRequest for Proposal</td><td rowspan=1 colspan=1>240</td></tr></table>",
+    "bbox": [
+      604,
+      593,
+      946,
+      791
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "5 Cycle times are measured from the date the requisition is “ready for purchasing” to the contract effective date (less four days to account for the time a buyer needed to determine which process the new project would follow). 6 The Procurement Division created a new Design and Construction Services team after creation of the Professional, Technical, and Expert SLA outlined above. The Division is in the process of creating a Design Services Request for Proposal SLA to reflect this reorganization. ",
+    "bbox": [
+      114,
+      843,
+      877,
+      920
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• Construction Requests for Proposals. ",
+    "bbox": [
+      143,
+      64,
+      482,
+      82
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "It is expected that future performance reports will be able to highlight this data, and changes made to ensure timely procurement to assist the division in achieving its stated goals. Notably, for the first time, Procurement committed to specific cycle timelines for various contract types. Previously, cycle timelines were not tracked or reported. ",
+    "bbox": [
+      114,
+      94,
+      852,
+      176
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Procurement also created a stand-alone Design and Construction Services team with seven additional FTE in preparation for a projected increase in capital outlay across infrastructure bureaus. This was funded through interagency agreements with infrastructure bureaus with regular construction contracts, which includes: the Bureau of Transportation, BDS, Parks and Recreation, Bureau of Environmental Services, Water Bureau, Spectator Facilities, Facilities Services, BTS, Fire Bureau, and Civic Life. The Service Level Agreements (SLAs) outline the timeframe to conduct a procurement and execute the contract. ",
+    "bbox": [
+      114,
+      188,
+      882,
+      332
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In FY 2018-19, Procurement Services successfully completed procurements within the SLA targets across a range of procurement types (see graph below). The division only missed timeliness targets for eight Construction Invitation to Bid processes and one Goods & Services Request for Proposals process. These performance results are reported on the FY 2018-19 Procurement Service Level Agreement (SLA) Dashboard on the Procurement Division website.7 ",
+    "bbox": [
+      114,
+      343,
+      867,
+      467
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5169330/auto/images/b4bc996027749fde9321ab6832d0906b75e5cc338431775d23d12553a328f20a.jpg",
+    "image_caption": [
+      "FY 2018-19 Procurement Service Level Agreement "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      202,
+      516,
+      802,
+      731
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Tracking these performance metrics shows a commitment to improved management, government transparency and continued process improvements, as the bureau did not previously track contract cycle-times or have established service level agreements with customer bureaus. The FY 2018-19 data create a performance baseline against which to measure moving forward and to articulate the impacts of the change initiatives. CBO has also identified several areas for growth to ensure continued and accurate performance reporting and improvements: ",
+    "bbox": [
+      114,
+      746,
+      854,
+      848
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "https://www.portlandoregon.gov/brfs/article/741310 ",
+    "bbox": [
+      114,
+      905,
+      486,
+      920
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      870,
+      921,
+      882,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      64,
+      841,
+      103
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Adjust Performance Targets ",
+    "text_level": 1,
+    "bbox": [
+      176,
+      116,
+      405,
+      133
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Due to inconsistent historical practices in the various procurement groups and the use of disparate data systems, establishing a true baseline for service level agreements was a challenge. The general consensus among stakeholders and Procurement was that the cycle timeline goals were modest and were likely to be met in the first year. CBO urges the division to refine its targets to ensure they reflect ambitious cycle times that represent improved customer service. Procurement Services has stated that is currently analyzing prior year performance data to refine performance goals by procurement type for the next fiscal year. ",
+    "bbox": [
+      173,
+      136,
+      864,
+      301
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Data Consistency ",
+    "text_level": 1,
+    "bbox": [
+      174,
+      314,
+      318,
+      330
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "There are some noted issues with data consistency in this first iteration of performance tracking, including the appearance of negative cycle times. The division states that there is inconsistency in the way buyers currently enter data into the BuySpeed system, which causes errors in calculation of cycle times. There are also issues in the numbers for the Goods and Services Invitation to Bid Contracts process. The prior year actuals show a 27-day average cycle time, which is significantly lower than the SLA of 108. The division stated that this is due to a data management issue in the Procurement Software Application; it is currently including all Goods and Services Invitation to Bid Contracts, but the SLA was set only for contracts over $\\$ 50,000$ , which follow a different process than those under $\\$ 50,000$ . CBO anticipates continued efforts to ensure consistency from Procurement Services, as well as ensuring that documentation about data quality is available to both customer bureaus and to the public. ",
+    "bbox": [
+      173,
+      333,
+      882,
+      602
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Cycle Time Tracking ",
+    "text_level": 1,
+    "bbox": [
+      174,
+      614,
+      339,
+      631
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Several customer bureaus have given feedback that they often experience delays during the Procurement intake process. These delays, due to submission errors or miscommunication, are not reflected in Procurement’s performance reporting. Although “complete and accurate transmittal” is stated in the SLA as a bureau responsibility, CBO recommends that Procurement Services evaluate whether additional performance measures that track the full cycle time would be beneficial, and if increased training for bureau staff on submission issues may be necessary. ",
+    "bbox": [
+      173,
+      635,
+      867,
+      777
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Procurement Services plans to continue process improvements in this arena, such as establishing SLAs for the procurement processes that were not included in its initial effort and assessing metrics and interactions with bureau customers to continue to find opportunities to improve. ",
+    "bbox": [
+      116,
+      801,
+      864,
+      882
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      870,
+      922,
+      882,
+      934
+    ],
+    "page_idx": 8
+  }
+]

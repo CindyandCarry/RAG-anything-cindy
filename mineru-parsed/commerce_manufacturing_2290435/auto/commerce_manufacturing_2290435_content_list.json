@@ -1,0 +1,1611 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/e78d4dfa0922be2003c3bb5ff6d7d29709c038d62318c49a3e95c35983edabb4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      250,
+      157,
+      472,
+      333
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Create Modules for the J2EE Adapter Engine ",
+    "text_level": 1,
+    "bbox": [
+      504,
+      399,
+      952,
+      520
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Version 1.00 – August 2006 ",
+    "bbox": [
+      505,
+      523,
+      744,
+      536
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Applicable Releases:   \nSAP NetWeaver 2004s   \nProcess Integration   \nEnabling Application-to-Application Processes ",
+    "bbox": [
+      504,
+      587,
+      904,
+      640
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "THE BEST-RUN BUSINESSES RUN SAP SAP ",
+    "bbox": [
+      45,
+      906,
+      440,
+      939
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "How-to Guide SAP NetWeaver 2004s ",
+    "bbox": [
+      505,
+      156,
+      699,
+      181
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "How To… ",
+    "bbox": [
+      509,
+      357,
+      764,
+      388
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "No part of this publication may be reproduced or transmitted in any form or for any purpose without the express permission of SAP AG. The information contained herein may be changed without prior notice. ",
+    "bbox": [
+      87,
+      167,
+      472,
+      228
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Some software products marketed by SAP AG and its distributors contain proprietary software components of other software vendors. ",
+    "bbox": [
+      85,
+      245,
+      478,
+      289
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Microsoft, Windows, Outlook, and PowerPoint are registered trademarks of Microsoft Corporation. ",
+    "bbox": [
+      87,
+      307,
+      433,
+      337
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "IBM, DB2, DB2 Universal Database, $\\mathrm { O S } / 2$ , Parallel Sysplex, MVS/ESA, AIX, S/390, AS/400, OS/390, OS/400, iSeries, pSeries, xSeries, zSeries, $\\mathrm { { z } / \\mathrm { { O S } } }$ , AFP, Intelligent Miner, WebSphere, Netfinity, Tivoli, and Informix are trademarks or registered trademarks of IBM Corporation in the United States and/or other countries. ",
+    "bbox": [
+      87,
+      353,
+      478,
+      446
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Oracle is a registered trademark of Oracle Corporation. ",
+    "bbox": [
+      87,
+      463,
+      465,
+      477
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "UNIX, X/Open, $\\mathrm { O S F } / 1$ , and Motif are registered trademarks of the Open Group. ",
+    "bbox": [
+      87,
+      495,
+      411,
+      524
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame, and MultiWin are trademarks or registered trademarks of Citrix Systems, Inc. ",
+    "bbox": [
+      85,
+      541,
+      463,
+      586
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "HTML, XML, XHTML and W3C are trademarks or registered trademarks of W3C , World Wide Web Consortium, Massachusetts Institute of Technology. ",
+    "bbox": [
+      85,
+      604,
+      450,
+      649
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Java is a registered trademark of Sun Microsystems, Inc. ",
+    "bbox": [
+      89,
+      667,
+      467,
+      681
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "JavaScript is a registered trademark of Sun Microsystems, Inc., used under license for technology invented and implemented by Netscape. ",
+    "bbox": [
+      85,
+      698,
+      480,
+      743
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "MaxDB is a trademark of MySQL AB, Sweden. ",
+    "bbox": [
+      89,
+      761,
+      403,
+      774
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SAP, $\\mathrm { R } / 3$ , mySAP, mySAP.com, xApps, xApp, SAP NetWeaver, and other SAP products and services mentioned herein as well as their respective logos are trademarks or registered trademarks of SAP AG in Germany and in several other countries all over the world. All other product and service names mentioned are the trademarks of their respective companies. Data contained in this document serves informational purposes only. National product specifications may vary. ",
+    "bbox": [
+      87,
+      792,
+      468,
+      900
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      499,
+      135,
+      890,
+      165
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "These materials are subject to change without notice. These materials are provided by SAP AG and its affiliated companies (\"SAP Group\") for informational purposes only, without representation or warranty of any kind, and SAP Group shall not be liable for errors or omissions with respect to the materials. The only warranties for SAP Group products and services are those that are set forth in the express warranty statements accompanying such products and services, if any. Nothing herein should be construed as constituting an additional warranty. ",
+    "bbox": [
+      499,
+      182,
+      894,
+      352
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "These materials are provided “as is” without a warranty of any kind, either express or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. SAP shall not be liable for damages of any kind including without limitation direct, special, indirect, or consequential damages that may result from the use of these materials. ",
+    "bbox": [
+      499,
+      370,
+      892,
+      492
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SAP does not warrant the accuracy or completeness of the information, text, graphics, links or other items contained within these materials. SAP has no control over the information that you may access through the use of hot links contained in these materials and does not endorse your use of third party web pages nor provide any warranty whatsoever relating to third party web pages. ",
+    "bbox": [
+      499,
+      495,
+      895,
+      619
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "SAP NetWeaver “How-to” Guides are intended to simplify the product implementation. While specific product features and procedures typically are explained in a practical business context, it is not implied that those features and procedures are the only approach in solving a specific business problem using SAP NetWeaver. Should you wish to receive additional information, clarification or support, please refer to SAP Consulting. ",
+    "bbox": [
+      499,
+      619,
+      895,
+      743
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Any software coding and/or code lines / strings (“Code”) included in this documentation are only examples and are not intended to be used in a productive system environment. The Code is only intended better explain and visualize the syntax and phrasing rules of certain coding. SAP does not warrant the correctness and completeness of the Code given herein, and SAP shall not be liable for errors or damages caused by the usage of the Code, except if such damages were caused by SAP intentionally or grossly negligent. ",
+    "bbox": [
+      499,
+      745,
+      894,
+      900
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "© Copyright 2006 SAP AG. All rights reserved. ",
+    "bbox": [
+      87,
+      136,
+      396,
+      149
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Content ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      87,
+      265,
+      108
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 Scenario . 2   \n2 Introduction.. 2   \n3 The Step-By-Step Solution.. 3   \n3.1 Setting Up the Developer Studio .. 3   \n3.2 Creating the Java Class . 5   \n3.3 Providing the EJB Environment.. 6   \n3.4 Adding Code to the Module.. 8   \n3.5 Creating a Java Archive . . 8   \n3.6 Creating an Enterprise Application Archive (EAR) . 9   \n3.7 Using the Module . 11   \n4 Appendix .. 12   \n4.1 Documentation for Module Development ... 12   \n4.2 Documentation of the Resource Adapter API. 12   \n4.3 Sample Module . 12   \n4.4 Code Samples.. 12   \n4.4.1 Reading File Names 12   \n4.4.2 Writing Audit Log Entries . 13 ",
+    "bbox": [
+      146,
+      108,
+      882,
+      366
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "- 1 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 Scenario ",
+    "text_level": 1,
+    "bbox": [
+      149,
+      128,
+      300,
+      149
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "You want to modify the message payload using an Adapter Engine module, but there is no standard module that meets your requirements. ",
+    "bbox": [
+      144,
+      163,
+      865,
+      194
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      223,
+      342,
+      244
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A message from the Integration Server arrives in the Adapter Framework and is processed by the messaging service. Based on the receiver information, the corresponding module chain is selected for further processing. ",
+    "bbox": [
+      147,
+      258,
+      803,
+      304
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The Adapter Framework contains two default module chains: one for the sender/inbound direction and one for the receiver/outbound direction. You can use these default module chains for the adapter if the entire message processing is executed within the adapter. You can enhance the default module chains with customer-specific modules. ",
+    "bbox": [
+      147,
+      319,
+      875,
+      380
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The module processor controls the steps in the module chain by calling generic and, if defined, adapter-specific modules. The last module in the module chain forwards the message to the adapter. The adapter transfers the message to the connected system. ",
+    "bbox": [
+      147,
+      394,
+      858,
+      439
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Message processing in the sender/inbound direction proceeds in a similar way. In this case, the adapter calls the module processor in the form of an EJB 2.0 local session bean and transfers the message object either as an XI message or in its own format. In the case of the latter, the conversion to an XI message must then take place in an adapter-specific module. ",
+    "bbox": [
+      147,
+      453,
+      863,
+      530
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/4905d6caa004fe9570d4d2417c506d03cd564f247ca2848b8b6ceab12c8de622.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      213,
+      573,
+      810,
+      775
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Configuration of the adapter modules is part of the communication channel in the Integration Directory or Partner Connectivity Kit. If you want to add your own modules to adapters, you integrate these modules at the relevant location in the module processor. ",
+    "bbox": [
+      147,
+      864,
+      870,
+      909
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 The Step-By-Step Solution ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      127,
+      532,
+      149
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This manual guides you through the development of a simple adapter module with the help of the SAP NetWeaver Developer Studio. Make sure that you use the latest version of the Developer Studio. ",
+    "bbox": [
+      147,
+      162,
+      872,
+      207
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "By way of example, we explain how to develop an adapter module that creates an additional attachment. This is something that might be useful in the mail adapter. ",
+    "bbox": [
+      149,
+      209,
+      826,
+      238
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.1 Setting Up the Developer Studio ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      260,
+      509,
+      276
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "You need several libraries to compile your module. ",
+    "bbox": [
+      147,
+      276,
+      564,
+      290
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The easiest way of getting these libraries is by downloading the latest patch for XI ADAPTER FRAMEWORK CORE 3.0 from SAP Service Marketplace. ",
+    "bbox": [
+      147,
+      305,
+      825,
+      336
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Open the file using WinZip and extract aii_af_lib.sda, aii_af_svc.sda and aii_af_cpa_svc.sda. ",
+    "bbox": [
+      147,
+      352,
+      826,
+      385
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Open the file aii_af_lib.sda using WinZip and extract the following library files: ",
+    "bbox": [
+      144,
+      401,
+      835,
+      418
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• aii_af_cci.jar • aii_af_mp.jar • aii_af_ms_api.jar • aii_af_ms_spi.jar aii_af_trace.jar ",
+    "bbox": [
+      176,
+      420,
+      400,
+      504
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Extract the following library file from aii_af_svc.sda: ",
+    "bbox": [
+      147,
+      520,
+      608,
+      536
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "aii_af_svc.jar ",
+    "bbox": [
+      178,
+      539,
+      366,
+      553
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Extract the following library file from aii_af_cpa_svc.sda: ",
+    "bbox": [
+      149,
+      571,
+      652,
+      587
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• aii_af_cpa.jar (You can also find the SDA files on your Adapter Framework installation.) ",
+    "bbox": [
+      149,
+      590,
+      749,
+      619
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Steps in SAP NetWeaver Developer Studio ",
+    "text_level": 1,
+    "bbox": [
+      146,
+      635,
+      524,
+      650
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "• Open SAP NetWeaver Developer Studio. Create a new Project as J2EE -> EJB Module. Choose Project $- >$ Properties $- >$ Java Build Path $- >$ Libraries to assign the libraries to your project. Create a package for your Java classes. ",
+    "bbox": [
+      176,
+      653,
+      815,
+      732
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Your J2EE Explorer view in Developer Studio should look as follows: ",
+    "bbox": [
+      146,
+      747,
+      712,
+      763
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "- 3 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/eb5bd906a752d8173c4d5f2a141f9ed86cdcc81b71c7f0ca2aa5c4b492776a5e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      149,
+      85,
+      546,
+      342
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "- 4 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.2 Creating the Java Class ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      105,
+      426,
+      123
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Even if you need a stateless session bean as an adapter module, it is useful not to let the Developer Studio create it. Instead, create a new java class and attach the following code template to the class (check that the package and class name are correct): ",
+    "bbox": [
+      146,
+      137,
+      868,
+      184
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "package sample;   \nimport javax.ejb.CreateException;   \nimport javax.ejb.SessionBean;   \nimport javax.ejb.SessionContext;   \nimport com.sap.aii.af.mp.module.\\*;   \nimport com.sap.aii.af.ra.ms.api.\\*;   \n/\\*\\*   \n\\* @ejbHome <{com.sap.aii.af.mp.module.ModuleHome}> $^ { \\star }$ @ejbLocal <{com.sap.aii.af.mp.module.ModuleLocal}> $^ { \\star }$ @ejbLocalHome <{com.sap.aii.af.mp.module.ModuleLocalHome}> $^ { \\star }$ @ejbRemote <{com.sap.aii.af.mp.module.ModuleRemote}> $^ { \\star }$ @stateless \\*/   \npublic class CreateAttachment implements SessionBean, Module{ private SessionContext myContext; public void ejbRemove() { public void ejbActivate() { } public void ejbPassivate() { public void setSessionContext(SessionContext context) { myContext $=$ context; } public void ejbCreate() throws CreateException { } public ModuleData process(ModuleContext moduleContext, ModuleData inputModuleData) throws ModuleException { return inputModuleData; } ",
+    "bbox": [
+      141,
+      194,
+      878,
+      777
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Comment lines such as @ejbHome are required to enable the Developer Studio to create the ebj-jar.xml file automatically. ",
+    "bbox": [
+      144,
+      794,
+      872,
+      825
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "- 5 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3.3 Providing the EJB Environment ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      105,
+      502,
+      123
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Your class should appear in the navigation tree under EJB Candidates. In the context menu, choose Add to ejb-jar.xml. ",
+    "bbox": [
+      147,
+      138,
+      850,
+      169
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/0158123218118feb220ec181433bc555d3546a9fb6d9d4b4e3a2a6424eb4382f.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      149,
+      184,
+      611,
+      466
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "ejb-jar.xml should look as follows: ",
+    "bbox": [
+      147,
+      482,
+      426,
+      497
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "<?xml version=\"1.0\" encoding $\\stackrel { \\cdot } { = }$ \"UTF-8\"?> <!DOCTYPE ejb-jar PUBLIC \"-//Sun Microsystems, Inc.//DTD Enterprise JavaBeans 2.0//EN\" \"http://java.sun.com/dtd/ejb-jar_2_0.dtd\"> <ejb-jar> <description>EJB JAR description $\\cdot <$ /description> <display-name>EJB JAR $<$ </display-name> <enterprise-beans> <session> <ejb-name>CreateAttachment</ejb-name> <home>com.sap.aii.af.mp.module.ModuleHome</home> <remote>com.sap.aii.af.mp.module.ModuleRemote</remote> <local-home $>$ com.sap.aii.af.mp.module.ModuleLocalHome</local-home> <local>com.sap.aii.af.mp.module.ModuleLocal</local> <ejb-class $>$ sample.CreateAttachment $<$ /ejb-class> <session-type>Stateless</session-type> <transaction-type>Container</transaction-type> </session> </enterprise-beans> </ejb-jar> ",
+    "bbox": [
+      139,
+      511,
+      880,
+      757
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "You should assign a JNDI name in ejb-j2ee-engine.xml. You will need this name for the configuration of the module. An example of this is the following: ",
+    "bbox": [
+      146,
+      84,
+      868,
+      115
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "<?xml version $_ { , } =$ \"1.0\" encoding $\\mathop { : = }$ \"UTF-8\"?>   \n<!DOCTYPE ejb-j2ee-engine SYSTEM \"ejb-j2ee-engine.dtd\">   \n<ejb-j2ee-engine> <enterprise-beans> <enterprise-bean> <ejb-name>CreateAttachment</ejb-name> <jndi-name $>$ CreateAttachment</jndi-name> <session-props/> </enterprise-bean> </enterprise-beans>   \n</ejb-j2ee-engine> ",
+    "bbox": [
+      144,
+      131,
+      685,
+      266
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "After setting up the EJB environment, you receive the error message: Bean problem: No interface classes found. This occurs because there is no Java source available for the EJB interface classes. ",
+    "bbox": [
+      147,
+      281,
+      872,
+      327
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Choose the Package Explorer view in the Developer Studio.   \nChoose your project, and in the context menu, choose Close Project.   \nChoose Open Project again.   \nFinally, switch back to the J2EE Explorer view. ",
+    "bbox": [
+      176,
+      342,
+      774,
+      407
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "- 7 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3.4 Adding Code to the Module ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      106,
+      460,
+      123
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "You can now add a short example code. You can change the process method for this purpose: ",
+    "bbox": [
+      146,
+      123,
+      852,
+      153
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/baa56d786ad2b012c4f972a11c4ff00a77bc90ae22904145f4c3c8e3a7d9067e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"6\">public ModuleData process(ModuleContext moduleContext, // provide attributes and content for the new payload attachment.setName(&quot;Attachment&quot;）; attachment.setContentType(&quot;text/plain&quot;); attachment.setText(&quot;Hello World&quot;）; // add the new payload as attachment to the message msg.addAttachment(attachment）; // provide the XI message for returning inputModuleData.setPrincipalData(msg) ; catch (Exception e）{ // raise exception， when an error occurred ModuleException me = new ModuleException(e); throw me; 1 门 return XI message return inputModuleData;</td><td>ModuleData inputModuleData) throws ModuleException { // create a second attachment for the receiver mail adapter try { // get the XI message from the environment Message msg = (Message) inputModuleData.getPrincipalData(); // create a new payload TextPayload attachment = msg.createTextPayload() ;</td></tr></table>",
+    "bbox": [
+      137,
+      168,
+      878,
+      534
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3.5 Creating a Java Archive ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      571,
+      435,
+      587
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Select the package and in the context menu, choose Build EJB Archive, as shown in the following figure: ",
+    "bbox": [
+      147,
+      587,
+      872,
+      618
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/b6ac48c7ecd4114e05f2a03f61849bdfc83e2f1ca7f2d3516b59aad59b670327.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      151,
+      634,
+      583,
+      881
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "- 8 - ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3.6 Creating an Enterprise Application Archive (EAR) ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      122,
+      673,
+      138
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In order to deploy your adapter module to the J2EE Adapter Framework, you have to create an EAR file: ",
+    "bbox": [
+      146,
+      140,
+      843,
+      168
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "• Create a new project as J2EE -> Enterprise Application Project. • Select your EJB project(s) as reference. In this project, you need to assign references in application-j2ee-engine.xml. Open this file, choose the source tab page, and apply the following code: ",
+    "bbox": [
+      176,
+      169,
+      836,
+      233
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/464941009f825836ef7ed228120872ff2f43093dd9afc7b079d246bf94673927.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      137,
+      249,
+      878,
+      573
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "If you want to use additional libraries for your adapter module project, you might have to apply them here as well. ",
+    "bbox": [
+      208,
+      611,
+      868,
+      643
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "If you want to use libraries that you have deployed with help of the file aii_af_jmsproviderlib.sda, you must add the reference target type com.sap.aii.af.jmsproviderlib ",
+    "bbox": [
+      206,
+      681,
+      788,
+      731
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "- 9 ",
+    "bbox": [
+      902,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "+ ",
+    "bbox": [
+      206,
+      589,
+      242,
+      611
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      659,
+      242,
+      682
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Select the project and choose New $- >$ META-INF/log-configuration.xml. This is particularly useful if you want to add trace information to your module. The following code is an example for the file log-configuration.xml: ",
+    "bbox": [
+      146,
+      85,
+      840,
+      131
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/f9dc78c214b689b72040d31f9d05d374466c9f8ad934321ec8f161f24d3b8c4e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>&lt;!DOCTYPE log-configuration SYsTEM &quot;log-configuration.dtd&quot;&gt;</td><td>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</td></tr><tr><td colspan=\"2\">&lt;log-configuration&gt;</td></tr><tr><td>&lt;log-formatters&gt;</td><td></td></tr><tr><td></td><td>&lt;!-- This formatter produces human readable messages. --&gt;</td></tr><tr><td>&lt;log-formatter</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>name=&quot;trc&quot;</td></tr><tr><td></td><td>pattern=&quot;%26d %150l [%t] %10s: %m&quot;</td></tr><tr><td></td><td>type=&quot;TraceFormatter&quot;/&gt;</td></tr><tr><td>&lt;/log-formatters&gt;</td><td></td></tr><tr><td>&lt;log-destinations&gt;</td><td></td></tr><tr><td>&lt;log-destination</td><td>&lt;!-- Destination for Trace Information of this sample --&gt;</td></tr><tr><td></td><td></td></tr><tr><td></td><td>count=&quot; 5 &quot;</td></tr><tr><td></td><td>effective-severity=&quot;DEBUG&quot;</td></tr><tr><td></td><td>limit=&quot;2000000&quot;</td></tr><tr><td></td><td>name=&quot;sample.trc&quot;</td></tr><tr><td></td><td> pattern=&quot;./log/applications/sample/default.trc&quot;</td></tr><tr><td></td><td>type=&quot;FileLog&quot;&gt;</td></tr><tr><td></td><td>&lt;formatter-ref</td></tr><tr><td></td><td>name=&quot;trc&quot;/&gt;</td></tr><tr><td></td><td>&lt;/log-destination&gt;</td></tr><tr><td colspan=\"2\">&lt;/log-destinations&gt;</td></tr><tr><td>&lt;log-controllers&gt;</td><td></td></tr><tr><td></td><td>&lt;!-- Trace Location sample --&gt;</td></tr><tr><td>&lt;log-controller</td><td></td></tr><tr><td></td><td>effective-severity=&quot;DEBUG&quot;</td></tr><tr><td></td><td>name=&quot;sample&quot;&gt;</td></tr><tr><td></td><td>&lt;associated-destinations&gt;</td></tr><tr><td></td><td>&lt;destination-ref</td></tr><tr><td></td><td>association-type=&quot;LOG&quot;</td></tr><tr><td></td><td>name=&quot;sample.trc&quot;/&gt;</td></tr><tr><td></td><td>&lt;/associated-destinations&gt;</td></tr><tr><td>&lt;/log-controller&gt;</td><td></td></tr><tr><td></td><td>&lt;!-- Logging Category: none， use the default XILog --&gt;</td></tr><tr><td>&lt;/log-controllers&gt;</td><td></td></tr><tr><td>&lt;/log-configuration&gt;</td><td></td></tr></table>",
+    "bbox": [
+      137,
+      146,
+      877,
+      644
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "• Select the project and in the context menu, choose Build Application Archive. ",
+    "bbox": [
+      176,
+      663,
+      840,
+      679
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Make sure that the libraries of the adapter module API are not inside the generated EAR file, or delete them using WinZip. ",
+    "bbox": [
+      201,
+      700,
+      805,
+      730
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Deploy the EAR file from the deploy service in the Visual Administrator tool, or with the Software Deployment Manager (SDM). ",
+    "bbox": [
+      178,
+      731,
+      848,
+      761
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "- 10 - ",
+    "bbox": [
+      892,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      208,
+      679,
+      242,
+      700
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "3.7 Using the Module ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      106,
+      368,
+      123
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "If you want to use the module in an adapter, open the Integration Directory and create a new communication channel. ",
+    "bbox": [
+      176,
+      124,
+      857,
+      153
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Enter the adapter-specific parameters and choose the Module tab page. ",
+    "bbox": [
+      174,
+      155,
+      803,
+      173
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "A default entry contains the required adapter module. ",
+    "bbox": [
+      189,
+      171,
+      650,
+      184
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "• Apply your module before the specific-adapter module: ",
+    "bbox": [
+      176,
+      186,
+      658,
+      200
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "o Enter localebjs/<JNDI-Name> as module name. o Choose the type Locale Enterprise Bean. o Choose any module key. Using your module key, you can assign parameters to your module in the Module Configuration table. ",
+    "bbox": [
+      235,
+      201,
+      805,
+      261
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "PCKMailService MailReceiver:Edit Communication Channe ",
+    "text_level": 1,
+    "bbox": [
+      169,
+      281,
+      594,
+      294
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/c316cca15b01d4968660718b4ad91b6d4f247fe823eff9a1b57235ddd228556d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      181,
+      300,
+      561,
+      320
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "EditCommunication Channel ",
+    "text_level": 1,
+    "bbox": [
+      178,
+      330,
+      384,
+      342
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/1e7a5400a722dc427e20a15b87667b93e0c5c3111811b2a8c5d08b2651ef61ce.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      154,
+      345,
+      712,
+      400
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ParametersIdentfication ",
+    "bbox": [
+      183,
+      409,
+      383,
+      425
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Module! ",
+    "text_level": 1,
+    "bbox": [
+      408,
+      413,
+      467,
+      425
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ProcessingSequence ",
+    "text_level": 1,
+    "bbox": [
+      163,
+      434,
+      321,
+      446
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/053788fa99cc5a797360b6c5efe4223e0e141e0efc6e21285f71a29b77c7fb74.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      176,
+      456,
+      344,
+      476
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/618ebf52c0f61128a13fcbe7ab5f05040dc44bda96e7d1356b04001b8f6e1125.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>No.</td><td rowspan=1 colspan=1>Module Name</td><td rowspan=1 colspan=1>Type</td><td rowspan=1 colspan=1>Module Key</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>localejbs/CreateAttachment</td><td rowspan=1 colspan=1>CallModuleLocallnterface</td><td rowspan=1 colspan=1>create</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>localejbs/sap.com/com.sap.aii.adapter.ma...CallModuleLocallnterface</td><td rowspan=1 colspan=1>CallModuleLocallnterface</td><td rowspan=1 colspan=1>mail</td></tr></table>",
+    "bbox": [
+      176,
+      477,
+      852,
+      527
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Module Configuration ",
+    "text_level": 1,
+    "bbox": [
+      161,
+      557,
+      317,
+      570
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/30ca803b262f7fdff87e51f7b73adf972ee902c2391c5f44a7722cddc2fd9b4c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      176,
+      578,
+      344,
+      598
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "ModuleKey ParameterName ParameterValue create parameter value ",
+    "bbox": [
+      189,
+      602,
+      776,
+      630
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "- 11 - ",
+    "bbox": [
+      892,
+      944,
+      941,
+      954
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      154,
+      328,
+      176,
+      342
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      156,
+      282,
+      173,
+      294
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "4 Appendix ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      114,
+      310,
+      136
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.1 Documentation for Module Development ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      156,
+      589,
+      173
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "• In the SAP Help Portal, choose the Documentation tab page. Choose the SAP NetWeaver tab page, then SAP NetWeaver ’04 and English as the language. Navigate to SAP NetWeaver $- >$ Process Integration $- >$ SAP Exchange Infrastructure $- >$ Runtime $- >$ Connectivity $- >$ Partner Connectivity Kit $- >$ Adapter and Module Development. ",
+    "bbox": [
+      168,
+      174,
+      868,
+      267
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.2 Documentation of the Resource Adapter API ",
+    "text_level": 1,
+    "bbox": [
+      146,
+      287,
+      625,
+      302
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "When you download the latest patch for XI ADAPTER FRAMEWORK 3.0 from SAP Service Marketplace, you receive a description of the classes of the resource adapter API. ",
+    "bbox": [
+      171,
+      305,
+      855,
+      349
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Using WinZip, recursively unpack sample_ra.sda -> sample_ra.rar -> sample_ra.jar. Extract the latter to your local PC. You can now access the JavaDoc by opening the index.html file in a Web browser. ",
+    "bbox": [
+      186,
+      351,
+      853,
+      399
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.3 Sample Module ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      420,
+      347,
+      437
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "You receive sample code for an adapter module (which is already deployed and ready to use) from the same resource mentioned above. ",
+    "bbox": [
+      146,
+      438,
+      875,
+      466
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Recursively extract sample_module.sda -> sample_module.jar -> ConvertCRLFfromToLF.java ",
+    "bbox": [
+      179,
+      469,
+      830,
+      498
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.4 Code Samples ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      520,
+      337,
+      536
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.4.1 Reading File Names ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      551,
+      371,
+      565
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In the file/FTP sender adapter, you can access the name of the processed file. Apply the following code to your module: ",
+    "bbox": [
+      144,
+      568,
+      789,
+      597
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "import java.util.Hashtable;   \npublic ModuleData process(ModuleContext moduleContext, ModuleData inputModuleData) throws ModuleException { Message msg $=$ (Message) inputModuleData.getPrincipalData(); Hashtable mp $=$ (Hashtable) inputModuleData.getSupplementalData(\"module.parameters\"); String fx $=$ (String) mp.get(\"FileName\"); ",
+    "bbox": [
+      141,
+      599,
+      870,
+      814
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "- 12 - ",
+    "bbox": [
+      892,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "4.4.2 Writing Audit Log Entries ",
+    "text_level": 1,
+    "bbox": [
+      147,
+      98,
+      413,
+      114
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "To write to the audit log of the message monitor of the Adapter Framework, you apply the following code: ",
+    "bbox": [
+      144,
+      116,
+      852,
+      146
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/bfc5c4414a97af2364d1bfd18763e91ace049ee6d8d3117c7a368f528a9fda46.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      141,
+      148,
+      860,
+      390
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "This results in an entry in the audit log: ",
+    "bbox": [
+      149,
+      406,
+      465,
+      421
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "AuditLog forMessage:59e5c730-ee22-11d9-9a45000bcd73d971 ",
+    "bbox": [
+      147,
+      426,
+      613,
+      440
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_2290435/auto/images/c28fb22f44b343762092dfd049e965d6cd60bf08f8c00c0d938e9485b3a1317e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      146,
+      445,
+      877,
+      629
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "- 13 - ",
+    "bbox": [
+      892,
+      944,
+      939,
+      954
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "THE BEST-RUN BUSINESSES RUN SAP SAP ",
+    "bbox": [
+      55,
+      861,
+      450,
+      894
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "www.sdn.sap.com/irj/sdn/howtoguides ",
+    "bbox": [
+      339,
+      85,
+      880,
+      105
+    ],
+    "page_idx": 15
+  }
+]

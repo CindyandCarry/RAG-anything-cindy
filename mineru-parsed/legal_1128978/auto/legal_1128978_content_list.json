@@ -1,0 +1,906 @@
+[
+  {
+    "type": "text",
+    "text": "United States District Court Northern District of Texas ",
+    "text_level": 1,
+    "bbox": [
+      325,
+      217,
+      676,
+      271
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Maintaining Your Account (Updated 07/2019) ",
+    "text_level": 1,
+    "bbox": [
+      282,
+      595,
+      715,
+      648
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      122,
+      327,
+      857,
+      488
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "TABLE OF CONTENTS ",
+    "text_level": 1,
+    "bbox": [
+      321,
+      92,
+      678,
+      119
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Maintaining Your Account ",
+    "text_level": 1,
+    "bbox": [
+      344,
+      145,
+      653,
+      169
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A. Introduction. . . B. Maintaining Your Account . C. Maintaining Your Address . D. Maintaining Your E-mail E. Maintaining Your Login/Password ",
+    "bbox": [
+      112,
+      204,
+      885,
+      294
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      92,
+      318,
+      114
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This document will guide you through the process of maintaining your account in the Electronic Case Filing System (ECF). Under LR 83.13(b) and LCrR 57.13(b), when an attorney who is a registered user of ECF changes the attorney's business address, e-mail address, telephone number, facsimile number, or name, the attorney must promptly change this information in ECF, following procedures set forth in the ECF Administrative Procedures Manual. ",
+    "bbox": [
+      114,
+      132,
+      883,
+      220
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For questions concerning maintaining your account, please contact your local clerk’s office or ECF Help Desk. ",
+    "bbox": [
+      116,
+      239,
+      883,
+      275
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "B. Maintaining Your Account ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      311,
+      480,
+      335
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "You must be a registered ECF User and you must be signed in to your account to update it. The Maintain Your Account option, available under the Utilities menu, allows you to control the three main components of your ECF account. ",
+    "bbox": [
+      114,
+      358,
+      883,
+      411
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "You can also update these three main components using three separate menu choices: ",
+    "bbox": [
+      117,
+      430,
+      790,
+      448
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Maintain Your Address (which also allows you to update your name, if necessary); Maintain Your Email (which provides the ability to control your secondaryrecipients and monitor cases for which you are not an attorney of record), and Maintain Your Login/Password. ",
+    "bbox": [
+      171,
+      449,
+      885,
+      518
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Using these separate menu choices may be simpler to use if you only want to update one portion of your ECF account. See Figure 1. ",
+    "bbox": [
+      112,
+      520,
+      883,
+      555
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/2e8595b80360b73ce1abc46f4ebe6715924b0ce07899e6fa2e8136036f176a2f.jpg",
+    "image_caption": [
+      "Figure 1 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      377,
+      594,
+      617,
+      791
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "C. Maintaining Your Address ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      92,
+      478,
+      114
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Click the Maintain Your Address hyperlink to update your name, address, and phone and fax numbers. Do not use periods or commas in the name or address fields. Click [Submit]. ",
+    "bbox": [
+      116,
+      132,
+      862,
+      169
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/238f5fe7e273cca8f3e71428bced9325c19ac527d60b8e4d879c85046fa79d52.jpg",
+    "image_caption": [
+      "Figure 2 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      161,
+      183,
+      831,
+      595
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "If you have cases in our court, you must then select the cases in which to apply your address update. We recommend you apply it to all cases, and the default is set to $^ { \\ast \\ast }$ Update All \\*\\*\\*. Click [Submit] to finalize the update. See Figure 3. ",
+    "bbox": [
+      114,
+      90,
+      854,
+      145
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/064159ddd39c93391c6f0f8f1fa5340afbade2a1666704b8295c64500f078f36.jpg",
+    "image_caption": [
+      "Figure 3 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      165,
+      879,
+      438
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "If you do not have cases in our court, the system will indicate that no records have been found.   \nClick [Submit] to finalize the update. ",
+    "bbox": [
+      117,
+      483,
+      859,
+      520
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "D. Maintaining Your E-mail ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      539,
+      462,
+      563
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Click the Maintain Your E-Mail hyperlink to access all of the electronic noticing information for your account stored in the ECF database for this court. When events are docketed to cases in which you are an attorney of record, ECF will send a Notice of Electronic Filing (NEF) to your Primary E-mail address and up to 10 Secondary E-mail Addresses. To add one or more secondary email addresses to your account, follow the instructions below. WARNING: Do not add a thirdparty service as a secondary email address to your account since a NEF may contain sealed or ex parte docket text that could be harmful to your client if posted publicly. Pursuant to the provisions of the ECF Administrative Procedures Manual, the Clerk will remove third-party service providers when they are identified as secondary NEF recipients for an ECF user. ",
+    "bbox": [
+      114,
+      579,
+      885,
+      744
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The initial Email Information screen is divided into two panes. The primary e-mail address and secondary e-mail addresses, if any, appear as hyperlinks in the left pane. Select an e-mail address to configure the electronic noticing options. See Figure 4. ",
+    "bbox": [
+      116,
+      89,
+      870,
+      147
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/6d8c59cb9113ad36bee713cdc9a64cacc44516a0c26593ef8148f0e0a5e7eb1b.jpg",
+    "image_caption": [
+      "Figure 4 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      196,
+      191,
+      787,
+      348
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "After selecting the primary or secondary e-mail address hyperlink, the Configuration options and Case-specific options for that e-mail address appear in the right pane. See Figure 5. ",
+    "bbox": [
+      116,
+      500,
+      856,
+      537
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/9e05e070cf856563ae96698e1ae430bbe9825fdc61a7fdc34ef63dd0fdb1fe3a.jpg",
+    "image_caption": [
+      "Figure 5 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      166,
+      561,
+      790,
+      815
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Should this e-mail address receive notices? For the primary e-mail address, the default is Yes. To disable the primary address, select No. If set to No, the primary e-mail address will not receive Notices of Electronic Filings (NEFs) and the notation (Inactive) will appear next to the email address on the docket sheet. We recommend that this setting always be set to Yes. ",
+    "bbox": [
+      114,
+      207,
+      879,
+      285
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "How should notices be sent to this e-mail address? Sets the default delivery method for notices sent to this address. If Per Filing, an e-mail will be sent for each individual NEF. If Summary Report, one daily summary email notice that lists all the filings for that day will be sent. If the Summary Report option is selected, an additional option is added to the screen: Should this email address receive a “no activity” notice when no summary noticing occurs? ",
+    "bbox": [
+      114,
+      354,
+      882,
+      452
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "If set to Yes, the Daily Summary Report e-mail will be sent to you on a daily basis. If for any given day no activity occurred in the cases for which you are configured to receive summary notices, the message “no transactions found for this time period” will be included in the summary notice. ",
+    "bbox": [
+      173,
+      491,
+      862,
+      568
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "If set to No, then a Daily Summary Report will be sent to you whenever activity occurs in any case for which you are configured to receive summary notice. No Daily Summary Report e-mail will be generated when there is no activity in these cases. ",
+    "bbox": [
+      173,
+      608,
+      874,
+      684
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In what format should notices be sent to this e-mail address? Controls the format of the emails – either HTML or Text. HTML is the default format. ",
+    "bbox": [
+      117,
+      724,
+      856,
+      762
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Should this e-mail address receive general announcement notices from this court? Allows users to opt out of receiving Announcement Notice e-mails; however, this setting can be overwritten by the court. ",
+    "bbox": [
+      116,
+      804,
+      869,
+      861
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Below the Configuration options are the Case-specific options for the selected email address. Here you can add additional cases for noticing, delete any case from noticing, or click on a specific case to change the email option for that case. ",
+    "bbox": [
+      116,
+      90,
+      854,
+      147
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "To receive NEFs in additional cases that interest you, enter the case number(s) in the Add additional cases for noticing text field and then either click Enter or [Find This Case]. ",
+    "bbox": [
+      116,
+      188,
+      823,
+      226
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "After selecting the appropriate case(s), click Add case(s). ",
+    "bbox": [
+      116,
+      236,
+      565,
+      255
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      870,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this example, the attorney is set up for both per filing and summary report email notifications. See Figure 6. ",
+    "bbox": [
+      114,
+      90,
+      787,
+      128
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/29355d45ac13470f0ac8b8751a919175ed89ae69f09cfa721535fa1630988499.jpg",
+    "image_caption": [
+      "Figure 6 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      166,
+      154,
+      830,
+      560
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "To move cases from the default method list to the alternate method list, select the case number(s) in the primary list and then click the [Change selected cases to notice as a summary report] button. See Figure 7. ",
+    "bbox": [
+      117,
+      872,
+      795,
+      890
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      870,
+      910,
+      882,
+      921
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      90,
+      877,
+      138
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/91118a1ce8f42bbbc5fa1af24055a2a3c4436f963292b0c7b40a5f3a592dfe7a.jpg",
+    "image_caption": [
+      "Figure 7 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      158,
+      181,
+      823,
+      318
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Note: If summary noticing is the default method, then this button will be labeled [Change selected cases to notice per filing]. ",
+    "bbox": [
+      114,
+      472,
+      834,
+      511
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The selected cases now appear in the alternate method list. ",
+    "bbox": [
+      116,
+      550,
+      576,
+      569
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To delete cases from the default method list or the alternate method list, select the case(s) and then click the [Remove selected cases] button. See figure 8. ",
+    "bbox": [
+      116,
+      608,
+      854,
+      647
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/80bc7f333d1e76734c65731d0405f283c002178ff6e42434f4f5a5664346d830.jpg",
+    "image_caption": [
+      "Figure 8 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      218,
+      686,
+      767,
+      863
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      869,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "[Show all cases for this e-mail address] Displays a list of all of the cases for which the user is configured to receive NEFs. ",
+    "bbox": [
+      114,
+      178,
+      869,
+      215
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "When configuring secondary email addresses, an additional option, Should this e-mail address receive notice for all cases in which this individual is a participant?, will appear in the Configuration Options section of the screen. Select Yes or No. ",
+    "bbox": [
+      116,
+      256,
+      870,
+      314
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To remove an email address, click on the address on the left pane. This will cause the email address to display in a text field on the right pane, along with all the configuration options and case lists (if any) associated with the email address. Next, remove the email address from the text field. If you want to change the email address to a different one, enter the new address in the text field. ",
+    "bbox": [
+      116,
+      354,
+      859,
+      449
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Note: If you click anywhere outside the text field while a complete email address is not in the text field, all of the configuration options and case lists will disappear from the screen, and the previous email address and settings will be removed. ",
+    "bbox": [
+      116,
+      489,
+      859,
+      546
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      870,
+      910,
+      882,
+      921
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "E. Maintaining Your Login/Password ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      92,
+      566,
+      114
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Requirement for CM/ECF Passwords ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      155,
+      434,
+      174
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Passwords must be at least eight characters long, and include both uppercase and lowercase alphabetic characters. Passwords must also include at least one digit or special character, i.e., 0-9, $( \\mathcal { Q } , \\# , \\ S , \\% , \\mathcal { E } , \\ast , + .$ . If you have not updated your login to include a password compliant with the current version of ECF, you will be presented with a message that redirects users to the Maintain Your Account function. Select the hyperlink included in the pop-up message to update your password. See Figure 9. ",
+    "bbox": [
+      114,
+      213,
+      885,
+      329
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/6ec09d7cce978dc00f09c5aee5e2c2b9868d9758b395afc049a428a95a91936f.jpg",
+    "image_caption": [
+      "Figure 9 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      303,
+      354,
+      686,
+      449
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Click the Maintain Your Login/Password hyperlink to access or update your ECF login and password for this court. Some people choose to update it to match logins and passwords used for PACER and other ECF court accounts. Safeguard your password carefully and update it immediately if you feel it has been compromised. ",
+    "bbox": [
+      114,
+      604,
+      883,
+      680
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "When you access the information, your password will be displayed as a string of asterisks. Update the desired fields. As you type, you will see the characters of your new password. Your password must be at least eight characters long, and include both uppercase and lowercase alphabetic characters. Passwords must also include at least one digit or special character, i.e., 0-9, $( \\mathcal { Q } , \\# , \\ S , \\% , \\mathcal { E } , \\ast , + .$ . Click [Submit] to finalize the update. See Figure 10. ",
+    "bbox": [
+      114,
+      719,
+      883,
+      816
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      862,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/56132d275fde4af57671643bc08479a19f8adcda661a0b7ab83b2ea0bb206214.jpg",
+    "image_caption": [
+      "Figure 10 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      125,
+      94,
+      856,
+      290
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Multiple Log in Attempts ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      560,
+      331,
+      578
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "After five invalid login attempts, the user’s account will be “locked” for five minutes and the following error message will appear: ",
+    "bbox": [
+      114,
+      617,
+      848,
+      655
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "“Your account is temporarily disabled because an incorrect password was given 5 times. If you do not know who entered the incorrect passwords, or if you need to have your password changed, please contact 214.753.2240. Otherwise, please try again in approximately 5 minutes.” ",
+    "bbox": [
+      116,
+      695,
+      880,
+      752
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "After the initial five minute timeout period has expired, the next failed login attempt will increase the timeout period to six minutes in the future. After the new six minute timeout period has expired, the next failed attempt will increase the timeout period to seven minutes in the future, and so on. ",
+    "bbox": [
+      116,
+      792,
+      879,
+      868
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      862,
+      910,
+      880,
+      922
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Logging Out ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      119,
+      223,
+      138
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "When exiting CM/ECF, use the Logout button in the blue menu bar. Users who exit the browser without first logging out have experienced difficulty logging in. ",
+    "bbox": [
+      114,
+      178,
+      874,
+      215
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Log Out Pop-up ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      256,
+      253,
+      275
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "CM/ECF presents users with a pop-up message reminder to clear their browser’s memory or cache after logging out. See Figure 11. ",
+    "bbox": [
+      116,
+      314,
+      841,
+      352
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_1128978/auto/images/f1fcce6fdecdb406b327410e96e83c51177a111d8ed791c5a5029bbdb32e98f0.jpg",
+    "image_caption": [
+      "Figure 11 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      274,
+      404,
+      753,
+      544
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      862,
+      910,
+      882,
+      922
+    ],
+    "page_idx": 13
+  }
+]

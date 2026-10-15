@@ -1,0 +1,5441 @@
+[
+  {
+    "type": "text",
+    "text": "Chapter 1 - INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      78,
+      374,
+      97
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c660587be0d7d5558e230283b7c48392272c5003e7b4ded5c87367f68a3a7c32.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      169,
+      121,
+      320,
+      205
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Prepared for CEE 3500 - CEE Fluid Mechanics ",
+    "bbox": [
+      63,
+      218,
+      442,
+      234
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "By Gilberto E. Urroz August 2005 ",
+    "bbox": [
+      169,
+      251,
+      338,
+      285
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Scope of Fluid Mechanics (2) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      378,
+      380,
+      398
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "● Used in the design of: ",
+    "bbox": [
+      47,
+      428,
+      236,
+      444
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "– Water supply system – Dam spillways – Shock absorbers, brakes – ships, submarines – Aircrafts, rockets – Windmills, turbines – Bearings ",
+    "bbox": [
+      68,
+      445,
+      250,
+      547
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "-- waste water treatment -- valves, flow meters -- automatic transmissions -- breakwaters, marinas -- computer disk drives -- pumps, HVAC systems -- artificial organs ",
+    "bbox": [
+      258,
+      445,
+      442,
+      547
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "– Sport items: ",
+    "bbox": [
+      68,
+      549,
+      166,
+      561
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "● Golf balls ● Race cars ● Surf boards \\* Yatchs \\* hang gliders ",
+    "bbox": [
+      89,
+      560,
+      174,
+      601
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      264,
+      563,
+      348,
+      589
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "As fish habitat... ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      680,
+      230,
+      699
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/20ea2f64f125d2f931752c53a9c1ce67f28541f56c0ad56f611cd8c1ca9570dc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      96,
+      714,
+      419,
+      900
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Scope of Fluid Mechanics (1) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      77,
+      880,
+      98
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "● Fluids: gases and liquids, water and air most prevalent in daily experience ",
+    "bbox": [
+      545,
+      143,
+      913,
+      178
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "● Examples: ",
+    "bbox": [
+      547,
+      195,
+      645,
+      209
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "– Flow in pipes and channels -- air and blood in body – Air resistance or drag -- wind loading – Projectile motion -- jets, shock waves – Lubrication -- combustion – Irrigation -- sedimentation – Meteorology -- oceanography ",
+    "bbox": [
+      566,
+      210,
+      941,
+      300
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Fluids... fluids... everywhere ",
+    "bbox": [
+      540,
+      378,
+      870,
+      400
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/d52f403991ad9a58d50fdaddfc54fd8dc79b6eb05f1097864b50130b2076558d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      588,
+      405,
+      926,
+      602
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For reptile habitat... ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      680,
+      767,
+      700
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/1dc854e31f98906d26cd8959cc456373a9138c7fb799c82222bfa8b880e4b68e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      607,
+      734,
+      897,
+      902
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      22,
+      616,
+      32,
+      626
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 ",
+    "bbox": [
+      22,
+      315,
+      31,
+      324
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      315,
+      531,
+      324
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      22,
+      916,
+      32,
+      926
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      521,
+      616,
+      531,
+      626
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      521,
+      917,
+      531,
+      926
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For mammals habitat... ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      307,
+      97
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4b3ef906494ca33623f1f7c6530928d0363e5341a841934324740c2f6acbd215.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      73,
+      106,
+      424,
+      308
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "For insects to walk on a surface... ",
+    "bbox": [
+      539,
+      77,
+      933,
+      98
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/8bc3378a9153475bc07a957e77cb1d84fd41aa20a8c8b700c244e9626c0d4484.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      593,
+      109,
+      919,
+      299
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In rivers and streams... ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      378,
+      307,
+      398
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/8d5b49551b7ef18c5bb6700abd368354ac7d1fbf169c806af21381bbfa2e9e28.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      104,
+      410,
+      410,
+      602
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A tornado... an atmospheric vortex ",
+    "bbox": [
+      539,
+      378,
+      946,
+      398
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/7934d4d3752e59024e4c7e95b205cc22f1ad68f6070eb95c27a2752b6d00341b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      584,
+      406,
+      926,
+      603
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Air to breathe... ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      680,
+      222,
+      699
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/788cc490ee2257f8f9975e885e126ac93afb8966dd518f036f7856d4d1ad20db.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      99,
+      719,
+      416,
+      902
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Mixing (as in soups) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      680,
+      779,
+      702
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/2e40c7f034141734cd66f23f7ef98607e4855cd7e62400ad2d8a1b3aedd1c3fd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      588,
+      709,
+      910,
+      896
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      22,
+      315,
+      31,
+      324
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      519,
+      315,
+      531,
+      325
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      21,
+      614,
+      491,
+      628
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      614,
+      988,
+      628
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      314,
+      990,
+      327
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Mixing milk in coffee... ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      302,
+      98
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/a97ebb1b2fef15447187e8f6cb1330c8363b09113e8c768b680abd80de1b80b1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      93,
+      104,
+      433,
+      299
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Air as a transportation mean... ",
+    "text_level": 1,
+    "bbox": [
+      539,
+      78,
+      893,
+      98
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/6f6976532b1031d84ecfb02cb07b1033fbd2c2193ae7b06bc2e31670bd653e66.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      580,
+      106,
+      923,
+      303
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Water surface for boating... ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      378,
+      357,
+      400
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/12235f9f1f9dc452ab04dba9e40afb00860b7d0e8b8840eb8f41dfe8bb815770.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      409,
+      419,
+      603
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Flow of air around cars... ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      378,
+      830,
+      398
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/ccf276034aaca2c25ea82d1ac7579d17ba327ea914b8895897ae8bafd7a2adfd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      591,
+      412,
+      910,
+      598
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Gases used as propulsion agents ",
+    "bbox": [
+      40,
+      680,
+      433,
+      700
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/dd37122c5d6c6859d7b0138fa5432cb50756de4b41933d0c83a32901d7be7660.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      704,
+      431,
+      906
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Air resistance to slow down a landing ",
+    "text_level": 1,
+    "bbox": [
+      539,
+      669,
+      885,
+      712
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/9dd8c48e08d7f1121dca62401b6ba4eb9a60c66974a7fa813bd271ffd6fdc04b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      593,
+      717,
+      916,
+      906
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "16 ",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "14 ",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "18 ",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      49,
+      314,
+      493,
+      327
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Smoke from homes... ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      78,
+      287,
+      97
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/bd3253cb8b0843997cabc91a6037d325b50213907756ad5ad20fd292e6b928fe.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      102,
+      433,
+      306
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Or industries... ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      78,
+      714,
+      97
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/eb842e861b6b49ef812fc722845821cdb084d431a50aa5be6f3c083eb2425f23.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      578,
+      104,
+      926,
+      306
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Water or gas in conduits... ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      378,
+      348,
+      400
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/1f67dace76fa975814c043da846f7f10e81fcf63b3f73f76a81be0bf551c181c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      42,
+      406,
+      470,
+      608
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Pumps used to lift water... ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      378,
+      844,
+      398
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/043e9094bd51d5d072a439a09b5cfc99749b4bcb402cc3faa35d4a8ebdc6bf40.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      534,
+      407,
+      983,
+      599
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Canals used for irrigation ... ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      679,
+      366,
+      700
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4276ef6ec502392193f1600227631ca3b5606dcd77f2624fcfa08647a5182a9b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      88,
+      708,
+      449,
+      906
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Hydroelectric dams... ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      680,
+      789,
+      700
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/2d51983edb8cd44a738729cb5ba3ace18e8b93d2570a13ee2ebb75f6bd132e7e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      532,
+      717,
+      959,
+      876
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "23 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      928
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "19 ",
+    "bbox": [
+      19,
+      314,
+      488,
+      327
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Flood control dams... ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      78,
+      287,
+      97
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c249b7931e3567d3f3786d45079430d5e7d0d8712e110b032c3840651d311151.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      104,
+      111,
+      393,
+      277
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Scope of Fluid Mechanics (3) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      375,
+      380,
+      396
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Science of the mechanics of liquids and gases ",
+    "bbox": [
+      45,
+      420,
+      423,
+      436
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fluid mechanics tries to explain fluids and their motions ",
+    "text_level": 1,
+    "bbox": [
+      539,
+      66,
+      913,
+      108
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Based on same fundamental principles as solid mechanics ",
+    "bbox": [
+      45,
+      453,
+      431,
+      484
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/bda004c51e348cdad18166f389e592e17dd7cc8885dea5ad1283379e1d8a13f9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      537,
+      113,
+      745,
+      227
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● More complicated subject, however, since in fluids separate elements are more difficult to distinguish ",
+    "bbox": [
+      45,
+      503,
+      464,
+      536
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● We'll solve problems of fluids on the surface of the Earth, within reasonable ranges of pressure and temperature. ",
+    "bbox": [
+      45,
+      553,
+      464,
+      603
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/fbe129e4c64758d7685944f41418e4b92576f9673b9762190873906d86a7b7d5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      753,
+      176,
+      964,
+      301
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Scope of Fluid Mechanics (5) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      680,
+      380,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Classical hydrodynamics and hydraulics are now combined into FLUID MECHANICS ",
+    "bbox": [
+      45,
+      722,
+      447,
+      753
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Modern Fluid Mechanics: ",
+    "bbox": [
+      49,
+      756,
+      279,
+      770
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "– Combines mathematical principles with experimental data   \n– Experimental data used to verify or complement theory or mathematical analysis ",
+    "bbox": [
+      68,
+      771,
+      462,
+      830
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Computational Fluid Dynamics (CDF) ",
+    "text_level": 1,
+    "bbox": [
+      49,
+      832,
+      380,
+      847
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "– Numerical solutions using computers – Methods: ● Finite differences \\* finite elements ● Boundary elements \\* analytic elements ",
+    "bbox": [
+      60,
+      845,
+      403,
+      902
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Scope of Fluid Mechanics (4) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      378,
+      880,
+      398
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Branches: ",
+    "bbox": [
+      547,
+      421,
+      642,
+      435
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "– Fluid statics: fluids at rest – Fluid kinematics: velocities and streamlines – Fluid dynamics: velocity & accelerations forces ",
+    "bbox": [
+      566,
+      438,
+      933,
+      482
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Classical hydrodynamics – Mathematical subject – Deals with ideal frictionless fluids ",
+    "bbox": [
+      545,
+      497,
+      820,
+      542
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Classical hydraulics: – Experimental science – Deals with real fluids ",
+    "bbox": [
+      545,
+      559,
+      732,
+      603
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Historical development (1) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      679,
+      849,
+      700
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Ancient civilizations: irrigation, ships ",
+    "bbox": [
+      547,
+      728,
+      861,
+      746
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Ancient Rome: aqueducts, baths $\\cdot 4 ^ { \\mathrm { t h } }$ century B.C.) ",
+    "bbox": [
+      545,
+      762,
+      959,
+      780
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Ancient Greece: Archimedes – buoyancy $( 3 ^ { \\mathrm { r d } }$ century B.C.) ",
+    "bbox": [
+      545,
+      796,
+      918,
+      830
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "● Leonardo (1452-1519): experiments, research on waves, jets, eddies, streamlining, flying ",
+    "bbox": [
+      545,
+      847,
+      947,
+      881
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      96,
+      314,
+      490,
+      327
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      599,
+      314,
+      991,
+      327
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Historical development (2) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      351,
+      98
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Newton (1642-1727): laws of motion, law of viscosity, calculus ",
+    "bbox": [
+      45,
+      118,
+      418,
+      152
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● $1 8 ^ { \\mathrm { t h } }$ century mathematicians: solutions to frictionless fluid flows (hydrodynamics) ",
+    "bbox": [
+      47,
+      170,
+      385,
+      204
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● $1 7 ^ { \\mathrm { t h } }$ & $1 8 ^ { \\mathrm { t h } }$ century engineers: empirical equations (hydraulics) ",
+    "bbox": [
+      45,
+      219,
+      455,
+      255
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Late $1 9 ^ { \\mathrm { t h } }$ century: dimensionless numbers, turbulence ",
+    "bbox": [
+      45,
+      272,
+      395,
+      304
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Historical development (4) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      378,
+      349,
+      398
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Beginning of $2 1 ^ { \\mathrm { s t } }$ century: ",
+    "bbox": [
+      45,
+      428,
+      267,
+      444
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– No complete theory for the nature of turbulence – Still a combination of theory and experimental data ",
+    "bbox": [
+      47,
+      445,
+      433,
+      474
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● References: ",
+    "bbox": [
+      45,
+      492,
+      155,
+      507
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– Rouse & Ince: History of Hydraulics, Dover, NY 1963   \n– Rouse: History of Hydraulics in the United States (1776-1976), U of Iowa, 1976   \n– Levy, E., El Agua Segun la Ciencia, CONACYT, Mexico, 1989 ",
+    "bbox": [
+      63,
+      508,
+      459,
+      582
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Book (Finnerman & Franzini) - 2 ",
+    "text_level": 1,
+    "bbox": [
+      44,
+      680,
+      421,
+      699
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Each chapter includes: ",
+    "bbox": [
+      47,
+      729,
+      241,
+      744
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– Concepts (“building blocks”)   \n– Sample problems – applications of concepts   \n– Exercises – reinforce understanding   \n– Summary problems – real-world or examination   \nproblems ",
+    "bbox": [
+      68,
+      746,
+      415,
+      819
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Keys to mastering Fluid Mechanics ",
+    "bbox": [
+      47,
+      835,
+      343,
+      851
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– Learning the fundamentals: read and understand the text   \n– Working many problems ",
+    "bbox": [
+      66,
+      852,
+      439,
+      895
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Historical development (3) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      77,
+      849,
+      98
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Prandtl (1904): proposes idea of the boundary layer ",
+    "bbox": [
+      545,
+      118,
+      923,
+      151
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "– Flow fields of low-viscosity fluids divided into two zones: ● A thin, viscosity-dominated layer near solid surfaces ● An effectively inviscid outer zone away from boundaries   \n– Explains paradoxes   \n– Allow analysis of more complex flows ",
+    "bbox": [
+      565,
+      169,
+      939,
+      253
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● $2 0 ^ { \\mathrm { t h } }$ century: hydraulic systems, oil explorations, structures, irrigation, computer applications ",
+    "bbox": [
+      545,
+      272,
+      944,
+      305
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Book (Finnerman & Franzini) - 1 ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      380,
+      919,
+      398
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "● Inside covers: conversion factors, temperature tables, S.I. prefixes, important quantities   \n● Table of Contents   \n● Appendix A – data on material properties   \n● Appendix B – information on equations   \n● Appendix C – brief description of software ● Appendix D – examples of software solvers ● Appendix E – references on fluid mechanics ● Appendix F – answers to exercises in the book ● Alphabetical Index ",
+    "bbox": [
+      545,
+      428,
+      929,
+      594
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The Book (Finnerman & Franzini) - 3 ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      680,
+      921,
+      699
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Only by working many problems can you truly understand the basic principles and how to apply them. ",
+    "bbox": [
+      562,
+      761,
+      964,
+      859
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      99,
+      915,
+      491,
+      929
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      596,
+      915,
+      991,
+      929
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "How to master assigned Material ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      78,
+      426,
+      98
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Study material to be covered before it is covered in class ",
+    "bbox": [
+      45,
+      126,
+      446,
+      159
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Study sample problems until you can solve them “closed book” ",
+    "bbox": [
+      45,
+      176,
+      446,
+      209
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Do enough of the drill Exercises, answer unseen ",
+    "bbox": [
+      45,
+      227,
+      444,
+      244
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Do the homework Problems you have been assigned ",
+    "bbox": [
+      45,
+      261,
+      403,
+      294
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Steps in solving problems (2) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      378,
+      385,
+      400
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "f) Solve as far as possible algebraically before inserting numbers ",
+    "bbox": [
+      45,
+      422,
+      413,
+      455
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "g) Check dimensions for consistency ",
+    "bbox": [
+      47,
+      465,
+      339,
+      482
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "h) Insert numerical values at last possible stage using consistent units. Evaluate to appropriate precision. ",
+    "bbox": [
+      47,
+      489,
+      431,
+      540
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "i) Check answer for reasonableness and accuracy. ",
+    "bbox": [
+      47,
+      549,
+      436,
+      565
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "j) Check that assumptions used are satisfied or appropriate. Note limitations that apply. ",
+    "bbox": [
+      45,
+      574,
+      411,
+      608
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Steps in solving problems (1) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      77,
+      885,
+      99
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "a) Read and ponder problem statement, identify simplest approach ",
+    "bbox": [
+      545,
+      126,
+      923,
+      161
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "b) Summarize info to be used (given and obtained elsewhere), and quantities to be found ",
+    "bbox": [
+      545,
+      167,
+      941,
+      202
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "c) Draw neat figure(s), fully labelled ",
+    "bbox": [
+      545,
+      210,
+      838,
+      228
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "d) State all assumptions ",
+    "bbox": [
+      547,
+      236,
+      735,
+      253
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "e) Reference all principles, equations, tables, etc. to be used ",
+    "bbox": [
+      545,
+      261,
+      952,
+      294
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Precision in numerical answers (see step h, above) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      367,
+      906,
+      410
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Should not be more precise (as $\\%$ ) than that of the least precise inserted value ",
+    "bbox": [
+      545,
+      444,
+      957,
+      478
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Common rule is to report results to 3 significant figures, or four figures if they begin with a $^ { 6 6 } 1 ^ { , 5 }$ , which yields a maximum error of $5 \\%$ ",
+    "bbox": [
+      545,
+      494,
+      939,
+      545
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Do not round off values in your calculator, only do so when presenting your answer ",
+    "bbox": [
+      545,
+      561,
+      964,
+      595
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "More on problem solving (1) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      680,
+      370,
+      700
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Master simpler problems, then tackle advanced ones. ",
+    "bbox": [
+      45,
+      724,
+      436,
+      756
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Practice working problems “closed book” with time limits ",
+    "bbox": [
+      45,
+      757,
+      433,
+      790
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Form a study group early on in the course – quiz each other about – Category a problem falls into – Procedures that should be used in solution ",
+    "bbox": [
+      45,
+      791,
+      444,
+      853
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Know how and when to use the material learned ● Seek and build understanding of applications of your knowledge ",
+    "bbox": [
+      47,
+      854,
+      444,
+      869
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      47,
+      872,
+      442,
+      904
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "More on problem solving (2) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      680,
+      870,
+      700
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Techniques to be used: ",
+    "bbox": [
+      547,
+      746,
+      743,
+      762
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "– For most problems: algebra, trial-and-error methods, graphical methods, calculus methods – Also: computer and experimental techniques ",
+    "bbox": [
+      566,
+      762,
+      944,
+      806
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Repetitive numerical evaluations using computers ",
+    "bbox": [
+      545,
+      821,
+      955,
+      838
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "● Programmable calculators for root solving ",
+    "bbox": [
+      545,
+      854,
+      897,
+      871
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "41 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Real-world problem solving ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      366,
+      98
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Many real-world problem are not like in the textbook ",
+    "bbox": [
+      45,
+      121,
+      411,
+      152
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Develop ability to recognize problems and to clearly define (or formulate) them, before analysis ● Experience helps in determining best method of solution among many available ",
+    "bbox": [
+      47,
+      155,
+      457,
+      188
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      47,
+      189,
+      441,
+      220
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● In real world problems: – Numerical results not the ultimate goal – Results need to be interpreted in terms of physical problem – Recommendations must be made for action ",
+    "bbox": [
+      47,
+      222,
+      428,
+      296
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (1) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      77,
+      833,
+      98
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Units needed to properly express a physical quantity ",
+    "bbox": [
+      545,
+      119,
+      906,
+      152
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Systems to be used: – S.I. (Systeme Internationale d'Unites) ● Adopted in 1960 ● Used by nearly every major country, except the U.S. ● Likely to be adopted by the U.S. in the near future – B.G. (British Gravitational system) ",
+    "bbox": [
+      545,
+      170,
+      913,
+      239
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      568,
+      252,
+      826,
+      266
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Used in the technical literature for years ● Preferred system in the U.S. ",
+    "bbox": [
+      589,
+      267,
+      841,
+      279
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      593,
+      280,
+      767,
+      291
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (2) ",
+    "text_level": 1,
+    "bbox": [
+      44,
+      378,
+      334,
+      398
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Basic dimensions used in fluid mechanics: ",
+    "bbox": [
+      47,
+      421,
+      398,
+      438
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "– Length (L) – Mass (M) – Time (T) – Temperature (θ) ",
+    "bbox": [
+      68,
+      439,
+      197,
+      500
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Dimensions of acceleration: $[ \\mathrm { a } ] = \\mathrm { L T } ^ { - 2 }$ ● Newton's $2 ^ { \\mathrm { n d } }$ law: $\\mathrm { F } = [ \\mathrm { m } ] [ \\mathrm { a } ] = \\mathrm { M } \\mathrm { L } \\mathrm { T } ^ { - 2 }$ ● Only 3 of the four basic units can be assigned arbitrarily, the fourth becoming a derived unit ",
+    "bbox": [
+      47,
+      513,
+      367,
+      530
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      49,
+      531,
+      361,
+      547
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      45,
+      564,
+      424,
+      598
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (3) ",
+    "text_level": 1,
+    "bbox": [
+      544,
+      378,
+      833,
+      398
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Commonly used units in SI and BG ",
+    "bbox": [
+      547,
+      417,
+      830,
+      434
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5427083/auto/images/d1f97397237cecd96aacf9c0f2db0fa17a110aeee27392450eda3a05560bc538.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Dimension</td><td>BG unit</td><td>Sl unit</td></tr><tr><td>Length (L)</td><td>foot (ft)</td><td>meter, metre (m)</td></tr><tr><td>Mass (M)</td><td>slug (=lb sec² /ft)</td><td> kilogram (kg)</td></tr><tr><td>Time (T)</td><td>second (sec)</td><td>second (s)</td></tr><tr><td>Force (F)</td><td>pound (b)</td><td>newton (n) (=kg m/s2)</td></tr><tr><td>Temperature (0)</td><td></td><td></td></tr><tr><td>Absolute</td><td>Rankine (R)</td><td>Kelvin (K)</td></tr><tr><td>Ordinary</td><td>Fahrenheit (F)</td><td>Celsius (C)</td></tr></table>",
+    "bbox": [
+      555,
+      446,
+      926,
+      571
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "See other dimensions and units in page 8 ",
+    "bbox": [
+      545,
+      584,
+      870,
+      602
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (4) ",
+    "text_level": 1,
+    "bbox": [
+      44,
+      680,
+      334,
+      700
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Weight, ",
+    "bbox": [
+      47,
+      717,
+      127,
+      733
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c120b46634effef4a39527ec57183714852e465fda26b02d4c0bb9e538ded9ba.jpg",
+    "text": "$$\nW = m g\n$$",
+    "text_format": "latex",
+    "bbox": [
+      223,
+      733,
+      292,
+      752
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● $g =$ gravitational acceleration ",
+    "bbox": [
+      49,
+      768,
+      295,
+      784
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● On the surface of Earth ",
+    "bbox": [
+      47,
+      785,
+      250,
+      799
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/d2da6068a170a6147eb00ad189de8ee9470d6b058383bc2ac956dd0e6587a02b.jpg",
+    "text": "$$\ng = 3 2 . 2 f t / s ^ { 2 } = 9 . 8 I \\ m / s ^ { 2 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      186,
+      815,
+      366,
+      833
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "● Weights of unit mass ",
+    "bbox": [
+      47,
+      847,
+      232,
+      863
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "– BG units: $\\mathrm { W } = \\mathrm { m g } = ( 1 ~ \\mathrm { s l u g } ) ( 3 2 . 2 ~ \\mathrm { f t / s ^ { 2 } } ) = 3 2 . 2$ lb – SI units: $\\mathrm { W = m g = ( 1 \\ k g ) ( 9 . 8 1 \\ m / s ^ { 2 } ) = 9 . 8 1 N }$ ",
+    "bbox": [
+      68,
+      878,
+      426,
+      910
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Example P1.1 – Weight calculation ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      679,
+      942,
+      700
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Gravity on the surface of the moon $( g _ { m } )$ is $1 / 6$ that of Earth, i.e., $g _ { _ m } = g / 6$ . What is the weight, in newtons, of $m = 2 . 5 k g$ of water on Earth, and on the surface of the moon? ",
+    "bbox": [
+      547,
+      717,
+      965,
+      792
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On Earth, ",
+    "bbox": [
+      547,
+      809,
+      624,
+      825
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/5647d813c321e0c36b159a2e1cfb9fbee30ad0638f949bc53ee25979cbb54fdc.jpg",
+    "text": "$$\nW { = } m g = ( 2 . 5 k g ) ( 9 . 8 I m / s ^ { 2 } ) = 2 4 . 5 3 N\n$$",
+    "text_format": "latex",
+    "bbox": [
+      598,
+      825,
+      918,
+      844
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On the moon, ",
+    "bbox": [
+      547,
+      859,
+      656,
+      875
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4af3c0809a46da68147dc442ac895359739dd88ec68e12a0dd21d8c18b582954.jpg",
+    "text": "$$\nW _ { _ m } = m g _ { _ m } = m g / 6 = ( 2 . 5 k g ) ( 9 . 8 I \\ m / s ^ { 2 } ) / 6 = 4 . 0 8 7 N\n$$",
+    "text_format": "latex",
+    "bbox": [
+      553,
+      876,
+      960,
+      896
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "48 ",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "45 ",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (5) ",
+    "text_level": 1,
+    "bbox": [
+      44,
+      77,
+      334,
+      98
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Other systems of units used: ",
+    "bbox": [
+      49,
+      116,
+      272,
+      133
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● English Engineering (EE) - inconsistent – M (pound mass, lbm), F (pound force, lbf) ",
+    "bbox": [
+      47,
+      150,
+      379,
+      181
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● MKS (m-kg-s) metric - inconsistent – M (kg mass, kgm), F (kg force, kgf) ",
+    "bbox": [
+      47,
+      196,
+      346,
+      228
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Cgs (cm-g-s) metric – consistent – M (g), $\\mathrm { F } ( d y n e = g c m / s ^ { 2 } )$ – 1 dyne $= \\phantom { + } I O ^ { - 5 } N ,$ , a very small quantity ",
+    "bbox": [
+      47,
+      243,
+      344,
+      290
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Dimensions and units (6) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      77,
+      833,
+      98
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Popular usage in Europe and other countries ● A “kilo” of sugar or other produce, represents a mass of $1 \\mathrm { k g }$ ● A “kilo”, therefore, represents a weight of 9.81 N ● A pound of weight has a mass of about $0 . 4 5 3 6 \\mathrm { k g }$ ● Thus, the conversion factor for popular usage is ",
+    "bbox": [
+      545,
+      116,
+      898,
+      133
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      545,
+      150,
+      955,
+      234
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/8c5300d499907a475a388b3842e6492c9dc4b3e1b0fdb56980e768dfacd212dd.jpg",
+    "text": "$$\n1 . 0 0 / 0 . 4 5 3 6 = 2 . 2 0 5 \\mathrm { ~ l b / k g f }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      648,
+      248,
+      866,
+      268
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● In engineering, reserve $k g$ for mass only, and $N$ for force only ",
+    "bbox": [
+      545,
+      284,
+      964,
+      315
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Unit abbreviations (1) ",
+    "text_level": 1,
+    "bbox": [
+      44,
+      378,
+      294,
+      398
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Abbreviations – $k g =$ kilogram – $l b =$ pound(s), not lbs – Time units: ● s, min, h, d, y (S.I.) ● Sec, min, hr, day, yr (B.G.) ",
+    "bbox": [
+      45,
+      428,
+      281,
+      517
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Non-standard abbreviations – fps $=$ feet per second $\\mathbf { \\nabla } - g p m =$ gallons per minute $- \\ c f s$ , or cusecs $=$ cubic feet per second – cumecs $=$ cubic meters per second ",
+    "bbox": [
+      45,
+      530,
+      339,
+      606
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Unit abbreviations (2) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      378,
+      792,
+      398
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Abbreviations ",
+    "bbox": [
+      547,
+      429,
+      676,
+      443
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "– Acres, tons, slugs abbreviated [Although, $A c =$ acres] – Units named after people: ",
+    "bbox": [
+      563,
+      445,
+      923,
+      472
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Upper case when abbreviated: N, J, Pa ● Lower case when spelled out: newton, joule, pascal ",
+    "bbox": [
+      593,
+      473,
+      933,
+      500
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "– Use $L$ for liter (to avoid confusing l with $I$ ) – S.I. absolute temperature is in $K$ (kelvin) not ${ } ^ { \\mathrm { { o } } } \\mathrm { { K } }$ ",
+    "bbox": [
+      565,
+      501,
+      893,
+      527
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● 1 British or imperial gallon $= 1 . 2$ U.S. Gallon $( \\pm 0 . 1 \\% )$ ",
+    "bbox": [
+      545,
+      544,
+      921,
+      579
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● When not specified, assume U.S. gallons ",
+    "bbox": [
+      545,
+      580,
+      885,
+      597
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Derived quantities (1) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      679,
+      292,
+      700
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Basic dimensions: mass (M), length $( L )$ , time $( T )$ ",
+    "bbox": [
+      45,
+      728,
+      433,
+      746
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Velocity $=$ Length / Time   \n● Acceleration $=$ Velocity / Time $=$ Length / Time2   \n● Discharge $=$ Volume / Time   \n● Force $=$ Mass $_ { x }$ Acceleration   \n● Pr ${ \\it S S u r e } = 1 7 o r c e / A r t$ ea (also Stress)   \n● $W o r k = F o r c e \\ x L e n g t h \\ ($ (also Energy, Torque)   \n● $P o w e r = W o r k / T i m e = F o r c e \\times V e l o c i t y$   \n● Angular Veloci $\\mathfrak { y } = A$ ngle / Time   \n● Angular Acceleration $=$ Angular Velocity / Time ",
+    "bbox": [
+      47,
+      742,
+      444,
+      902
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Derived quantities (2) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      679,
+      790,
+      700
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Basic dimensions: force (M), length $\\mathit { \\Omega } ^ { \\left( L \\right) }$ , time (T) ",
+    "bbox": [
+      545,
+      728,
+      931,
+      746
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "● Velocity $=$ Length / Time   \n● Acceleration $=$ Velocity / Tim ${ \\bf \\mu } _ { z } = L e n g$ th / Time2   \n● Discharge $=$ Volume / Time   \n● Mass $=$ Force / Acceleration   \n● Pressure $=$ Force / Area (also Stress)   \n● $W o r k = F o r c e \\ x L e n g t h$ (also Energy, Torque)   \n● $P o w e r = W o r k / T i m e = F o r c e \\times V e l o c i t y$   \n● Angular Velocity $=$ Angle / Time   \n● Angular Acceleration $=$ Angular Velocity / Time ",
+    "bbox": [
+      545,
+      744,
+      944,
+      902
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "53 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      928
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      324
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Basic units for derived quantities ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      428,
+      98
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5427083/auto/images/bc717d2b98c9c2f14cc2d0cad6c47c815101b0db1212681a0a5244bfdc431cf8.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Derivedquantity</td><td>B.G.</td><td>S.I.</td></tr><tr><td>Velocity</td><td>ft/sec=fps</td><td>m/s</td></tr><tr><td>Acceleration</td><td>ft/sec²</td><td>m/s²</td></tr><tr><td>Discharge</td><td>ft/s= cfs</td><td>m³/s</td></tr><tr><td>Mass</td><td>slug= Ib sec² /ft</td><td>kg</td></tr><tr><td>Force</td><td>Ib</td><td>N = kg m/s²</td></tr><tr><td>Pressure</td><td>Ib/ft² = psf</td><td>Pa=N/m²</td></tr><tr><td>Work</td><td>Ib ft</td><td>J=Nm</td></tr><tr><td>Power</td><td>Ib ft/sec</td><td>W= J/s</td></tr><tr><td>Angular velocity</td><td>rad/sec</td><td>rad/s</td></tr><tr><td>Angularacceleration</td><td>rad/sec²</td><td>rad/s²</td></tr></table>",
+    "bbox": [
+      50,
+      131,
+      434,
+      268
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Example P1.3 – Pressure, Work, Power ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      375,
+      450,
+      393
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● A force $F = 4 0 N$ is applied on an area of $A = 2$ $m ^ { 2 }$ , what is the average pressure $p$ on the area? ",
+    "bbox": [
+      45,
+      415,
+      437,
+      450
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/cd61810664d96f677e2d3fcad6f88d2888eabde0f02d5d6da1f891e346b8edf2.jpg",
+    "text": "$$\np = F / A = ( 4 0 N ) / ( 2 m ^ { 2 } ) = 8 0 P a\n$$",
+    "text_format": "latex",
+    "bbox": [
+      120,
+      465,
+      387,
+      484
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● If the force $F = 4 0 N$ moves a mass a distance $x =$ $2 m$ in a time $t = I O s$ , what is the work developed and the corresponding power? ",
+    "bbox": [
+      44,
+      500,
+      457,
+      550
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4b6908f2329612df8d069ef6f200169a46bacbbc681f19203ac92d435bbcc99f.jpg",
+    "text": "$$\n\\begin{array} { c } { { W = F \\cdot x = ( 4 0 N ) ( 2 m ) = 8 0 J } } \\\\ { { P = W / t = ( 8 0 J ) / ( 1 0 s ) = 8 W } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      130,
+      566,
+      380,
+      603
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Example P1.4 – Pressure, work, power ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      672,
+      446,
+      693
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● A force $F = 4 0 0 0 N$ is applied on an area of $A =$ $2 0 m ^ { 2 }$ , what is the average pressure $p$ on the area? ",
+    "bbox": [
+      44,
+      707,
+      450,
+      741
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/3a260143d16235784d447bee029c04b5fbadfed00ab841a5ad657ae7a2ddb068.jpg",
+    "text": "$$\np = F / A = ( 4 0 0 0 N ) / ( 2 0 m ^ { 2 } ) = 8 0 0 0 0 P a = 8 0 k P a\n$$",
+    "text_format": "latex",
+    "bbox": [
+      52,
+      756,
+      454,
+      775
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● If the force $F = 4 0 0 0 N$ moves a mass a distance $x$ $= 2 0 0 0 m$ in a time $t = I O s$ , what is the work developed and the corresponding power? ",
+    "bbox": [
+      44,
+      790,
+      457,
+      842
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "$W { = } F \\cdot x = ( 4 0 0 0 N ) ( 2 0 0 0 m ) = 8 ~ 0 0 0 ~ 0 0 0 J = 8 ~ M J$ $P = W / t = ( 8 ~ 0 0 0 ~ 0 0 0 ~ J ) / ( 1 0 ~ s ) = 8 0 0 ~ 0 0 0 ~ W$ $= 8 0 0 \\ : k W = 0 . 8 \\ : M W$ ",
+    "bbox": [
+      47,
+      858,
+      462,
+      909
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Example P1.2 – Mass, force, pressure ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      68,
+      936,
+      87
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● A mass $m = 2 . 5 k g$ is subject to an acceleration of $a = 4$ $m / s ^ { 2 }$ . What is the force applied to the mass? ",
+    "bbox": [
+      544,
+      90,
+      944,
+      119
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/1530bcc63250ca0a693d9a1cc1b81e9351302a72525305c91bee7da988934b2f.jpg",
+    "text": "$$\nF = m a = ( 2 . 5 k g ) ( 4 m / s ^ { 2 } ) = 1 0 N\n$$",
+    "text_format": "latex",
+    "bbox": [
+      635,
+      133,
+      872,
+      150
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● A force $F = 2 0 ~ l b$ produces an acceleration of $a = 2 f t / s ^ { 2 }$ determine the mass $m ?$ ",
+    "bbox": [
+      544,
+      162,
+      949,
+      193
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/09bcb467a106f9b8ad91f816e466308441b74895b086745bb41d049297f292c9.jpg",
+    "text": "$$\nm = F / a = ( 2 0 l b ) / ( 2 f t / s ^ { 2 } ) = 1 0 s l u g s\n$$",
+    "text_format": "latex",
+    "bbox": [
+      624,
+      207,
+      883,
+      224
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● Determine the pressure $p$ produced by a force $F = I O l b$ on an area $A = 5 f t ^ { 2 }$ : ",
+    "bbox": [
+      544,
+      237,
+      942,
+      267
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/763eb5c05308c1fd31013b5b5a17dc66a78a4387d00535d3bb41b94deb266729.jpg",
+    "text": "$$\nP = F / A = ( I O l b ) / ( 5 f t ^ { 2 } ) = 2 p s f\n$$",
+    "text_format": "latex",
+    "bbox": [
+      640,
+      280,
+      869,
+      297
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5427083/auto/images/7dabfc45265536d6134cc6811a03915c85640d71a60f77ece11620749a8af5aa.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Factor</td><td>Prefix</td><td>Symbol</td></tr><tr><td>109</td><td>giga</td><td>G</td></tr><tr><td>106</td><td>mega</td><td>M</td></tr><tr><td>103</td><td>kilo</td><td>k</td></tr><tr><td>10-2</td><td>centi</td><td>C</td></tr><tr><td>10-3</td><td>milli</td><td>m</td></tr><tr><td>10-6</td><td>micro</td><td>μ</td></tr><tr><td>10-9</td><td>nano</td><td>n</td></tr></table>",
+    "bbox": [
+      562,
+      407,
+      939,
+      569
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Other units (B.G.) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      678,
+      748,
+      698
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "● Length: $\\textit { I i n } = { I } / { I } 2 \\mathrm { { f } } { \\mathrm { { , ~ } } } I \\ m i = 5 2 8 0 \\mathrm { { f } } t { \\mathrm { , ~ } } I \\ y d = 3 \\mathrm { { f } } t$   \n● Area: $l A c r e = 4 3 5 6 0 . I 7 f t ^ { 2 }$   \n● Volume: 1 gallon $( U . S . ) = 0 . I 3 3 7 f t ^ { 3 }$ 1 acre- $\\mathit { \\Delta } f t = 4 3 \\ 5 6 0 . \\mathit { 1 7 } f t ^ { 3 }$   \n● Velocity: 1 mph $= { 1 . 4 6 7 }$ fps   \n● Pressure: 1 psi $[ l b / i n ^ { 2 } ] = I 4 4 p s f , I$ in $H g = 7 0 . 7 3 p s f ,$ 1 ft $H _ { 2 } 0 = 6 2 . 3 7 p s f$   \n● Energy: $I B T U = 7 7 8 . I 7 l b x f t$   \n● Power: $1 \\ h p = 5 5 0 \\ l b x f t / s$ ",
+    "bbox": [
+      542,
+      747,
+      929,
+      887
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "60 ",
+    "bbox": [
+      517,
+      916,
+      534,
+      928
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Unit prefixes in S.I. ",
+    "bbox": [
+      540,
+      378,
+      761,
+      398
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Example P1.5 – Various B.G. Units (1) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      78,
+      437,
+      98
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● A steel pipe has a diameter $D = 6 i n$ . What is the diameter in ft? ",
+    "bbox": [
+      45,
+      126,
+      452,
+      160
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/9b6d6a03be729c3c103ea238a7b7a324612da8483063073519d3d758f8dbd3c3.jpg",
+    "text": "$$\nD = 6 i n = ( 6 i n ) ( I / 1 2 f t / i n ) = 0 . 5 f t\n$$",
+    "text_format": "latex",
+    "bbox": [
+      112,
+      175,
+      401,
+      195
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● The area of a reservoir is given as $\\mathrm { A } = 2 . 5$ acres. What is the area in ft2? ",
+    "bbox": [
+      45,
+      210,
+      442,
+      243
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/1c41fe2fb3ea25fd3217b7b4ea24495a14f6fbb0df0648ea927e57df61287cc5.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathrm { A } = 2 . 5 \\mathrm { a c r e s } = ( 2 . 5 \\mathrm { a c r e s } ) ( 4 3 5 6 0 . 1 7 \\mathrm { f t } ^ { 2 } / \\mathrm { a c r e s } ) } \\\\ { = 1 0 8 9 0 0 . 4 3 \\mathrm { f t } ^ { 2 } \\quad } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      68,
+      257,
+      436,
+      295
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Example P1.5 – Various B.G. Units (2) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      78,
+      936,
+      98
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● What is the volume of a 5-gallon container in $\\textstyle f ( t ^ { 3 } )$ ",
+    "bbox": [
+      545,
+      126,
+      950,
+      143
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/53cd5fa59797617f4d789c9380ec73aa74baf72f1f9bb8e75828544d4c34b667.jpg",
+    "text": "$$\nV = 5 ~ g a l = ( 5 ~ g a l ) ( 0 . 1 3 3 7 \\ : f t ^ { 3 } / g a l ) = 0 . 6 6 9 \\ : f t ^ { 3 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      573,
+      159,
+      937,
+      179
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● The volume of a reservoir is given as $V = 1 . 2$ acre- $\\mathbf { \\nabla } \\cdot \\mathbf { \\mathcal { f } } \\mathbf { \\nabla } \\cdot \\mathbf { \\mu }$ . What is the reservoir volume in $\\textstyle { \\mathcal { f l } } ^ { 3 } ?$ ",
+    "bbox": [
+      545,
+      193,
+      921,
+      227
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/e060332bb3cfc848a8cedde2021f29ebdc9efb21f12fab11bf068e236635f77f.jpg",
+    "text": "$$\n\\begin{array} { c } { { V = I . 2 a c r e - f t = ( I . 2 a c r e - f t ) ( 4 3 5 6 0 . I 7 f t ^ { 3 } / a c r e - f t ) } } \\\\ { { = 5 2 2 7 2 . 2 0 f t ^ { 3 } } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      552,
+      242,
+      960,
+      279
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Example P1.5 – Various B.G. Units (3) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      378,
+      436,
+      398
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● A tire manometer reads 40 psi of pressure. What is the pressure in pounds per square foot (psf)? ",
+    "bbox": [
+      45,
+      428,
+      450,
+      462
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/2936cd356e12aa9f419cfff46b539d5abfe5ff4b545b3f3d9d3f7c9bd22d2d01.jpg",
+    "text": "$$\np = 4 0 p s i = ( 4 0 p s i ) ( 1 4 4 p s f / p s i ) = 5 7 6 0 p s f\n$$",
+    "text_format": "latex",
+    "bbox": [
+      76,
+      477,
+      437,
+      497
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● A barometer reads an atmospheric pressure of 28 inches of mercury $( 2 8 i n H g )$ . What is the atmospheric pressure in psf? ",
+    "bbox": [
+      45,
+      511,
+      449,
+      563
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/1eafac07d4f377e47eb73b1f28797cf54aa80bdff0d338a7fe7285edae441e2b.jpg",
+    "text": "$$\np = 2 8 \\ i n H g = ( 2 8 \\ i n H g ) ( 7 0 . 7 3 \\ p s f / i n H g )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      88,
+      577,
+      416,
+      595
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Example P1.5 – Various B.G. Units (4) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      378,
+      936,
+      398
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● A piezometric tube shows a pressure of $2 0$ meters of water $( p = 2 0 f t H _ { 2 } O )$ . What is the pressure in psf? ",
+    "bbox": [
+      545,
+      409,
+      926,
+      440
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/8d2e64e5f594cfe5b675f03392fa3984f2a5154f2f676f91487cc3078ba4f847.jpg",
+    "text": "$$\np = 2 0 f t H _ { 2 } O = ( 2 0 f t H _ { 2 } O ) ( 6 2 . 3 7 p s f / f t H _ { 2 } O ) = I 2 4 7 . 4 p s f\n$$",
+    "text_format": "latex",
+    "bbox": [
+      562,
+      455,
+      950,
+      474
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● During a short period of operation a heater produces an output of 300 BTUs (British thermal unit). What is the heat produced in lb ft? ",
+    "bbox": [
+      545,
+      489,
+      942,
+      534
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/cd8c7aedce2fc20ef3e9e0e3577493ba2674f9c141139f3024065e65624a99f5.jpg",
+    "text": "$$\n\\begin{array} { c } { { W = 3 0 0 B T U = ( 3 0 0 B T U ) ( 7 7 8 . 1 7 l b f t / B T U ) } } \\\\ { { = 2 3 3 4 5 l ~ l b f t } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      591,
+      546,
+      915,
+      579
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Example P1.5 – Various B.G. Units (5) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      680,
+      437,
+      699
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● A machine is able to develop a power of 500 hp (horse power). What is the power of this machine in lb ft/s? ",
+    "bbox": [
+      45,
+      743,
+      459,
+      795
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/b0759bf3e64b585d73fcc17a632af566096325f5c0ddafc0d25412027fe111dd.jpg",
+    "text": "$$\n\\begin{array} { c } { P = 5 0 0 \\ : h p = ( 5 0 0 \\ : h p ) ( 5 5 0 \\ : l b \\cdot { \\mathrm { f } } t / ( s \\cdot { h p } ) ) } \\\\ { = 2 7 5 \\ : 0 0 0 \\ : l b \\ : f t s } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      96,
+      809,
+      411,
+      866
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Other units (S.I.) ",
+    "text_level": 1,
+    "bbox": [
+      542,
+      680,
+      733,
+      700
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "● Area: $I \\ h a = I \\theta ^ { \\ 4 } \\ m ^ { 2 }$   \n● Volume: $\\prime \\ : L = I \\theta ^ { - 3 } \\ : m ^ { 3 } = I \\theta ^ { 3 } \\ : c c$   \n● Mass: $\\textit { 1 g } = \\textit { 1 0 } ^ { - 3 } \\ k g$   \n● Pressure: 1 $a t m = { 1 0 1 . 3 2 5 k P a , \\ : I \\ : b a r = 1 0 ^ { 5 } P a , }$ $I \\ m m H g = I 3 3 . 3 2 P a , I \\ m H _ { 2 } O = 9 . 8 I O \\ k P a$   \n● Energy: 1 cal = 4.186 J, 1 erg = 1 dy $n e x c m = I 0 ^ { - 7 } J ,$ $1 \\ k W x h = 3 . 6 x \\ = I 0 ^ { \\circ } J$   \n● Angular velocity: $l ~ r p m = 0 . l 0 4 7$ rad/s (both systems) ",
+    "bbox": [
+      540,
+      744,
+      937,
+      871
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "63 ",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "62 ",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "65 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      928
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "61 ",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "66 ",
+    "bbox": [
+      516,
+      916,
+      534,
+      928
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Example P1.6 – Various S.I. units (1) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      78,
+      423,
+      98
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● The area of a small basin is reported to be $A = 0 . 5$ ha. What is the area in $m ^ { 2 }$ ? ",
+    "bbox": [
+      45,
+      126,
+      459,
+      160
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/97054f3283d35b7cd02f8e9575361a5fff5ad909054577821800172a3e19d040.jpg",
+    "text": "$$\nA = 0 . 5 h a = ( 0 . 5 h a ) ( { I 0 4 m ^ { 2 } } / { h a } ) = 5 I 0 3 m ^ { 2 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      75,
+      175,
+      437,
+      195
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● The volume of a tank is $V = 4 0 0 0 0 L$ . What is the tank's volume in $m ^ { 3 } ?$ ",
+    "bbox": [
+      45,
+      210,
+      459,
+      243
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/a9af1fea7886aff7ae0dccb1ce45c195019f6fba7f7bfb66290c5431c7a54bdd.jpg",
+    "text": "$$\nV = 4 0 0 0 0 L = ( 4 0 0 0 0 L ) ( { I 0 ^ { - 3 } m ^ { 3 } } / { L } ) = 4 0 m ^ { 3 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      76,
+      258,
+      437,
+      279
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Example P1.6 – Various S.I. units (2) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      78,
+      921,
+      98
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● he volume of a small container is $\\mathrm { V } = 0 . 3 \\mathrm { L }$ . What is the volume in cc (cubic centimeters)? ",
+    "bbox": [
+      544,
+      117,
+      960,
+      151
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/e8935069bfb02a85043cf4fe47d2ab9917ac3d39615af25f135cdc258b8ca8f3.jpg",
+    "text": "$$\nV = 0 . 3 L = ( 0 . 3 L ) ( 1 0 3 c c / L ) = 3 0 0 c c\n$$",
+    "text_format": "latex",
+    "bbox": [
+      598,
+      166,
+      910,
+      186
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● Convert the following pressures to Pa or kPa: ",
+    "bbox": [
+      544,
+      200,
+      918,
+      218
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/ea4c40dbec3b4d619beba5287491037605e32357d9ef7440c07f3499926c6865.jpg",
+    "text": "$$\n\\begin{array} { c } { { p _ { _ I } = 0 . 6 a t m = ( 0 . 6 a t m ) ( I 0 I . 3 2 5 k P a / a t m ) } } \\\\ { { = 6 0 . 8 0 k P a } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      576,
+      233,
+      923,
+      273
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/dc0e3e3afd2439439e9ed8ceefd01c46b115c4be058772c98ad3fe03dc394adb.jpg",
+    "text": "$$\np _ { 2 } = 0 . 0 2 \\ b a r = ( 0 . 0 2 \\ b a r ) ( 1 0 5 \\ P a / b a r ) = 2 . 1 \\ P a\n$$",
+    "text_format": "latex",
+    "bbox": [
+      557,
+      287,
+      949,
+      308
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Example P1.6 – Various S.I. units (3) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      378,
+      423,
+      398
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● Convert the following pressures to Pa or kPa: ",
+    "bbox": [
+      44,
+      417,
+      419,
+      435
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$p _ { _ 3 } = { \\small { I O O m m H g } } = ( { \\small { I O O m m H g } } ) ( { \\small { I 3 3 . 3 2 P a / m m H g } } )$ $= I 3 3 3 2 0 P a = I 3 3 . 3 2 k P a = 0 . 1 3 3 M P a$ ",
+    "bbox": [
+      40,
+      450,
+      447,
+      506
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/6674702eb6cb772523be0b28f97566ad43c6ef763672e2650efcbedbeac43b63.jpg",
+    "text": "$$\np _ { _ { 4 } } = 2 . 5 m H 2 0 = ( 2 . 5 m H 2 0 ) ( 9 . 8 I O k P a )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      86,
+      539,
+      415,
+      559
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Example P1.6 – Various S.I. units (4) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      378,
+      921,
+      398
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● Determine the energy in Joules contained in 2000 calories. ",
+    "bbox": [
+      544,
+      417,
+      952,
+      452
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/38ac1141e66c9ad7300293d037e9464128a8f84528dea589578930c33c9aa0f9.jpg",
+    "text": "$$\nE = 2 0 0 0 ~ c a l = ( 2 0 0 0 ~ c a l ) ( 4 . 1 8 6 ~ J / c a l ) = 8 3 7 2 ~ J\n$$",
+    "text_format": "latex",
+    "bbox": [
+      557,
+      468,
+      950,
+      487
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● If a refrigerator uses $0 . 0 5 k W { - } h$ during a period of operation, what is the energy consumed in joules? ",
+    "bbox": [
+      544,
+      502,
+      954,
+      536
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$E = 0 . 0 5 k W - h = ( 0 . 0 5 k W - h ) ( 3 . 6 \\ { I 0 6 } { J } ) = 1 8 0 \\ { O O O }$ $J = \\boldsymbol { { 1 8 0 } } \\mathrm { ~ } k J = 0 . \\boldsymbol { { 1 8 } } M J$ ",
+    "bbox": [
+      547,
+      551,
+      959,
+      585
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Example P1.6 – Various S.I. units (5) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      680,
+      423,
+      699
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● If a pump operates at $4 0 0 \\mathrm { r p m }$ , what is the equivalent angular velocity in rad/s? ",
+    "bbox": [
+      45,
+      719,
+      395,
+      753
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$\\omega = 4 0 0 r p m = ( 4 0 0 r p m ) ( 0 . 1 0 4 7 r a d / ( s ~ r p m ) )$ = 41.88 rad/s ",
+    "bbox": [
+      68,
+      786,
+      439,
+      838
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Selected conversion factors (BG-SI) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      679,
+      957,
+      700
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "● Length: $\\begin{array} { r } { I \\hbar = 0 . 3 0 4 8 m } \\end{array}$ , $\\textit { I m i } = 1 . 6 0 9 \\ : k m$   \n● Area: $\\textit { I a c r e } = 0 . 4 0 4 7 \\ : h a$   \n● Volume: $\\begin{array} { r } { I g a l = 3 . 7 8 6 L , } \\end{array}$ , 1 acre- $\\mathcal { \\cdot } f t = \\mathit { 1 2 3 3 . 4 9 } m ^ { 3 }$   \n● Discharge: $l ~ g p m = 6 . 3 0 9 { \\times } I 0 ^ { - 5 } m ^ { 3 } / s$   \n● Mass: $\\textit { I s l u g } = 1 4 . 5 9 4 \\ k g$   \n● Force: 1 $' \\ l b = 4 . 4 4 8 \\ N$   \n● Work: $\\begin{array} { r } {  I \\mathrm { \\ } l b f t = I . 3 5 6 J , I \\mathrm { \\ } B T U = I 0 5 5 . 0 6 J , } \\end{array}$ , 1 $B T U = 2 5 2$ cal   \n● Power: 1 lb $\\mathit { f t } / s = { 1 . 3 5 6 } \\ : W , \\ : I \\ : h p = 7 4 5 . 7 0 \\ : W$ ",
+    "bbox": [
+      545,
+      728,
+      916,
+      898
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "68 ",
+    "bbox": [
+      516,
+      314,
+      534,
+      325
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "69 ",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "67 ",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (1) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      79,
+      419,
+      97
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● A pipeline is measured to be 300 ft in length. What is the pipe length in $\\mathsf { m } ?$ ",
+    "bbox": [
+      44,
+      117,
+      415,
+      151
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/3f0e4c7ec6e45ebc73950f41298739ec22136dea1f104063867fdae3f41ab47d.jpg",
+    "text": "$$\nL = 3 0 0 f t = ( 3 0 0 f t ) ( 0 . 3 0 4 8 ~ m / f t ) = 9 I . 4 4 m\n$$",
+    "text_format": "latex",
+    "bbox": [
+      76,
+      166,
+      431,
+      186
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The area of a small pond is measured to be 2.3 acres. What is the pond area in hectares? ",
+    "bbox": [
+      44,
+      200,
+      429,
+      234
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/190cda97ecc30fd39e578fcb8e650105adf372c1ab106fc085186efc2aa4aa90.jpg",
+    "text": "$$\n\\begin{array} { r } { A = 2 . 3 \\ : a c r e s = ( 2 . 3 \\ : a c r e s ) ( 0 . 4 0 4 7 \\ : h a / a c r e ) } \\\\ { = 0 . 9 3 8 I \\ : h a } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      73,
+      248,
+      428,
+      286
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (3) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      380,
+      419,
+      397
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● A pipeline carries a discharge $Q = 5$ gpm. What is the pipeline discharge in $m 3 / s ?$ ",
+    "bbox": [
+      44,
+      417,
+      462,
+      453
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/a7814dcb7d7295468a8b58c2cf3af230061d5cb28c27f83d61c2b0e04e8c7144.jpg",
+    "text": "$$\n\\begin{array} { c } { Q = 5 g p m = ( 5 g p m ) ( 6 . 3 0 9 \\times { I 0 ^ { - 5 } } { m ^ { 3 } / ( s g p m ) } ) } \\\\ { = 0 . 0 0 0 3 I 5 5 m ^ { 3 } / { s } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      66,
+      467,
+      436,
+      502
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The mass of a given volume of water is measured to be $m = 4 . 5$ slugs. What will this mass be in $k g \\colon$ ",
+    "bbox": [
+      44,
+      518,
+      459,
+      553
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/86b6a12b6f41d441b682f5c59d688572c55c9473ddf4cbb9e4bfaec187f176d7.jpg",
+    "text": "$$\n\\begin{array} { c } { m = 4 . 5 s l u g s = ( 4 . 5 s l u g s ) ( { l 4 . 5 9 4 k g / s l u g } ) } \\\\ { = 6 5 . 6 7 3 k g } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      78,
+      566,
+      424,
+      604
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (5) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      681,
+      419,
+      699
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The heat transferred through an industrial process is measured to be $\\begin{array} { r } { q = 2 0 0 0 B T U . } \\end{array}$ . What is the amount of heat in $\\mathcal { I } ?$ ",
+    "bbox": [
+      44,
+      719,
+      452,
+      770
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "$q = 2 0 0 0 B T U = ( 2 0 0 0 B T U ) ( 1 0 5 5 . 0 6 J / B T U )$ $= 2 \\ I I O \\ I 2 0 J = 2 \\ I I O . I 2 \\ k J = 2 . I I \\ M J$ ",
+    "bbox": [
+      66,
+      786,
+      436,
+      819
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● How many calories are there in 2000 BTU? ",
+    "bbox": [
+      44,
+      837,
+      403,
+      853
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "$q = 2 0 0 0 B T U = ( 2 0 0 0 B T U ) ( 2 5 2 c a l / B T U )$ $= 5 0 4 0 0 0 c a l = 5 0 4$ kcal ",
+    "bbox": [
+      76,
+      869,
+      426,
+      904
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (2) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      79,
+      918,
+      97
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The volume of a small container is $V = I 2 . 5 g a l$ . What is the container's volume in liters? ",
+    "bbox": [
+      544,
+      117,
+      942,
+      151
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/cda21e4efa1f3fa78e7cd0aac87d583fd3867318c4e8dd8a29117b9ed420fcd1.jpg",
+    "text": "$$\nV = I 2 . 5 g a l = ( I 2 . 5 g a l ) ( 3 . 7 8 6 L / g a l ) = 4 7 . 3 3 L\n$$",
+    "text_format": "latex",
+    "bbox": [
+      558,
+      166,
+      949,
+      186
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The volume of a reservoir is 3.5 acre-ft. What is the reservoir volume in cubic meters? ",
+    "bbox": [
+      544,
+      200,
+      946,
+      234
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/241eb0410123df30fe7af3f5ae39ec020ec95cd99331603a61efa46768a5bb62.jpg",
+    "text": "$$\n\\begin{array} { c } { { V = 3 . 5 a c r e - f t = ( 3 . 5 a c r e - f t ) ( I 2 3 3 . 4 9 m ^ { 3 } / a c r e - f t ) } } \\\\ { { = 4 3 I 7 . 4 9 m ^ { 3 } } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      550,
+      248,
+      950,
+      285
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (4) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      380,
+      918,
+      397
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The force applied by water flowing under a sluice gate on the gate is measured to be $F = I 4 5 l b$ . What is the force on the gate in newtons? ",
+    "bbox": [
+      544,
+      417,
+      952,
+      469
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/96a6401104f0f2112ddbf08776bc6de92c420d6add1c43415b829ccc778ea746.jpg",
+    "text": "$$\nF = 1 4 5 l b = ( 1 4 5 l b ) ( 4 . 4 4 8 N / l b ) = 6 4 4 . 9 6 N\n$$",
+    "text_format": "latex",
+    "bbox": [
+      568,
+      483,
+      939,
+      503
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The potential energy of a water mass is measured to be $E = 2 3 6 l b f t$ . What is this energy in $J _ { : } ^ { > }$ ",
+    "bbox": [
+      544,
+      518,
+      950,
+      553
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/ba544a80de37a0b79ed28c029e1f4eb8f77b951e1bafcfd2ca50d95af96f6e78.jpg",
+    "text": "$$\n\\begin{array} { c } { E = 2 3 6 \\ : l b f t = ( 2 3 6 \\ : l b f t ) ( { l . 3 5 6 \\ : J / ( l b f t ) } ) } \\\\ { = 3 2 0 . 0 2 J } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      586,
+      568,
+      916,
+      603
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Example P1.7 – BG to SI conversions (6) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      681,
+      918,
+      699
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● The power developed by a pump is $P = I 5 0 ~ l b \\ : f t / s .$ . What is the pump's power in watts? ",
+    "bbox": [
+      544,
+      719,
+      960,
+      753
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c36761525f1a1488b74339fe795fd0052e8d992f0280106ed35789a5a0084907.jpg",
+    "text": "$$\n\\begin{array} { c } { P = { \\ o { I 5 0 } } { \\mathit { l b f t 5 } } = ( { \\ o { I 5 0 } } { \\mathit { l b f t 5 } } ) ( { \\ o { I . 3 5 6 } } { \\mathit { W s } { \\cdot } { \\mathrm { ( } \\ o { l b f t ) } } } ) } \\\\ { = 2 0 3 . 4 ~ { \\AA } { \\mathit { W } } = 0 . 2 0 3 ~ k W } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      563,
+      767,
+      937,
+      805
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "● If a turbine's power is rated to be $P = 5 0 0$ hp, what is the turbine's power in watts? ",
+    "bbox": [
+      544,
+      819,
+      960,
+      853
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "$P = 5 O O \\ h p = ( 5 O O \\ h p ) ( 7 4 5 . 7 \\ W / h p ) = 3 7 2 \\ 8 5 0 \\ W$ $= 3 7 2 . 8 5 \\ : k W = 0 . 3 7 3 \\ : M W$ ",
+    "bbox": [
+      552,
+      869,
+      952,
+      904
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      314,
+      534,
+      325
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "76 ",
+    "bbox": [
+      517,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      19,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      916,
+      534,
+      928
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Selected conversion factors (SI-BG) ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      77,
+      459,
+      98
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● Length: $I m = 3 . 2 8 _ { \\cdot }$ ft, $\\textit { l k m } = \\textit { 0 } . 6 2 \\textit { l } $ mi   \n● Area: $1 h a = 2 . 4 7$ acre   \n● Volume: 1 $L = 0 . 2 6 4$ gallon, $\\textit { I m } ^ { 3 } = 9 . 1 0 7 \\times I 0 ^ { - 4 } a c r e  – f t$   \n● Discharge: $\\textit { I m } ^ { 3 } / s = \\textit { I 5 } 8 5 0 . 3 2 \\ : g p m$   \n● Mass: $l ~ k g = 6 . 8 5 2 { \\times } l 0 ^ { - 2 } s l u g$   \n● Force: 1 $N = 0 . 2 2 5 l b$   \n● Work: $1 J = \\ 0 . 7 3 8 \\ l b { - } f t = 9 . 4 7 8 { \\times } l 0 ^ { - 4 } B T U$ , $I ~ c a l = 3 . 9 6 8 \\times { 1 0 ^ { - 3 } } { B T U } , ~ I ~ k W { - h } = 3 4 1 2 . 1 4 { B T U }$   \n● Power: $ { I W } = 0 . 7 3 7 5$ lb ft/s, $ { I } W = I . 3 4 \\times I 0 ^ { - 3 } h p$ ",
+    "bbox": [
+      44,
+      116,
+      467,
+      294
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Example P1.8 – SI to BG conversions (1) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      79,
+      918,
+      97
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● A large aqueduct is built with a length of $3 . 5 k m$ . What is this length in miles? ",
+    "bbox": [
+      544,
+      117,
+      944,
+      151
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/74ea3c1dbb3025b2159825c7ace24041b47a88043656ec969153dc2f5bbbfbc7.jpg",
+    "text": "$$\nL = 3 . 5 k m = ( 3 . 5 k m ) ( 0 . 6 2 I m i / k m ) = 2 . 1 7 3 5 m i\n$$",
+    "text_format": "latex",
+    "bbox": [
+      553,
+      166,
+      952,
+      186
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● A crop area $\\mathrm { A } = 2 . 5$ ha is to be irrigated. What is the area in acres? ",
+    "bbox": [
+      544,
+      200,
+      949,
+      234
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/33007b0b0567209c09c088a90c6b4e38db19597c276ed30113812ec87e1a52b4.jpg",
+    "text": "$$\nA = 2 . 5 h a = ( 2 . 5 h a ) ( 2 . 4 7 a c r e / h a ) = 6 . I 7 5\n$$",
+    "text_format": "latex",
+    "bbox": [
+      553,
+      250,
+      949,
+      270
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Example P1.8 – SI to BG conversions (2) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      380,
+      418,
+      397
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● You collect a volume of $2 5 L$ for a test. What is this volume in gallons? ",
+    "bbox": [
+      44,
+      417,
+      442,
+      452
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/977d20b96f82e474bd57b017a9dcd97394a6894c96c1fcbd2053ea7581239a9e.jpg",
+    "text": "$$\nV = 2 5 L = ( 2 5 L ) ( 0 . 2 6 4 g a l / L ) = 6 . 6 g a l\n$$",
+    "text_format": "latex",
+    "bbox": [
+      88,
+      468,
+      423,
+      487
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● A canal carries a flow $Q = 0 . 0 2 m ^ { 3 } / s$ . What is this flow in gallons per minute? ",
+    "bbox": [
+      44,
+      501,
+      457,
+      536
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c8e0e38014e5296fa40c3fef2f3825322d0822d5bbf2ed8aa0f6656d86a99b8b.jpg",
+    "text": "$$\n\\begin{array} { c } { Q = 5 . 6 \\ : m ^ { 3 } / s = ( 0 . 0 2 \\ : m ^ { 3 } / s ) ( 1 5 \\ : 8 5 0 . 3 2 \\ : g p m \\cdot s / m ^ { 3 } ) } \\\\ { = 3 I 7 . 0 0 \\ : g p m } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      63,
+      551,
+      444,
+      588
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Example P1.8 – SI to BG conversions (3) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      380,
+      918,
+      397
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● How many slugs are there in a mass of $\\mathrm { \\Omega } _ { l \\mathrm { \\ 8 } } k g \\mathrm { \\mathrm { ? } }$ ",
+    "bbox": [
+      544,
+      417,
+      923,
+      435
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/982792d528aceaf7f5763674418c260e7bfe9825be8dc51a3ee887eeadd54dec.jpg",
+    "text": "$$\n\\begin{array} { c } { { m = { \\cal I } \\delta k g = ( 1 \\& k g ) ( 6 . 8 5 2 x { \\cal I } 0 ^ { - 2 } s l u g / k g ) } } \\\\ { { { } ~ } } \\\\ { { ~ = { \\cal I } . 2 3 3 s l u g } } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      588,
+      452,
+      916,
+      489
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● The shear force on a segment of a channel is measured to be 250 N. What is this force in pounds? ",
+    "bbox": [
+      544,
+      503,
+      911,
+      554
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/d4bd951133c91cbf43d093248352d2154a808a081408d4bd63164eb4323ff7bf.jpg",
+    "text": "$$\nF = 2 5 0 N = ( 2 5 0 N ) ( 0 . 2 2 5 l b / N ) = 5 6 . 2 5 l b\n$$",
+    "text_format": "latex",
+    "bbox": [
+      575,
+      569,
+      931,
+      589
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Example P1.8 – SI to BG conversions (4) ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      681,
+      419,
+      699
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● If you use $0 . 5 K W – h$ of energy, how much energy did you use in BTU? ",
+    "bbox": [
+      44,
+      718,
+      450,
+      752
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4c6015ff04732abe5c123213b4e98d6999a88a2d10fe3bc02b7a05953ee475c3.jpg",
+    "text": "$$\n\\begin{array} { c } { W = 0 . 5 \\ : k W - h = ( 0 . 5 \\ : K w - h ) ( 3 \\ : 4 \\ : I 2 . \\ : I 4 \\ : B T U / K W - h ) } \\\\ { = \\ : I 7 0 6 . 7 \\ : B T U } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      58,
+      767,
+      449,
+      804
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "● If a turbine is rated for a power $P = I . 5 \\ : k W ,$ how many hps is the rating power? ",
+    "bbox": [
+      44,
+      819,
+      444,
+      854
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/fef79278cdf7a96dc31789efd569608a1c7fd0ea8da0d687177581d01d8ba009.jpg",
+    "text": "$$\nP = { 1 . 5 k W } = ( { I 5 0 0 ~ W } ) ( { I . 3 4 x } { I 0 ^ { \\circ 3 } } { h p } ) = 2 . 0 I\n$$",
+    "text_format": "latex",
+    "bbox": [
+      58,
+      871,
+      424,
+      890
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Common temperature scales ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      680,
+      879,
+      700
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5427083/auto/images/a6f5ec96e937d11e6005f98c93428617098590e98a1f71021ce1bcefa8248400.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      599,
+      718,
+      888,
+      838
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/69b48e2d5dac73e0501014ca4bac7190a6dc9654dd895ea69f590777d6ecf783.jpg",
+    "text": "$$\n\\frac { ^ { \\circ } F - 3 2 } { ^ { \\circ } C } = \\frac { 1 8 0 } { 1 0 0 } = \\frac { 5 } { 9 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      678,
+      854,
+      830,
+      888
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "80 ",
+    "bbox": [
+      516,
+      314,
+      534,
+      325
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "82 ",
+    "bbox": [
+      516,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "83 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "84 ",
+    "bbox": [
+      516,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "81 ",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Example P1.9 – Common temperature scales ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      74,
+      408,
+      90
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Determine the value for which both the Celsius (centigrade) and Fahrenheit scales have the same reading. ",
+    "bbox": [
+      45,
+      99,
+      449,
+      150
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "We try to find $x$ such that ${ } ^ { o } F = x$ and ${ } ^ { o } C = x$ in ",
+    "bbox": [
+      45,
+      166,
+      411,
+      184
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "$( ^ { o } F - 3 2 ) / { } ^ { o } C = 9 / 5 .$ , i.e., $( x - 3 2 ) / x = 9 / 5$ , thus ",
+    "bbox": [
+      91,
+      199,
+      419,
+      217
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/88548f923f759723259f99c2feebb7baa3007cf419431c2d64ee1a34385b6ef4.jpg",
+    "text": "$$\n5 x - 1 6 0 = 9 x \\quad \\Rightarrow \\quad - 4 x = 1 6 0 \\quad \\Rightarrow \\quad x = - 4 0\n$$",
+    "text_format": "latex",
+    "bbox": [
+      71,
+      232,
+      441,
+      251
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Thus, $- 4 0 ^ { \\circ } \\mathrm { F } = - 4 0 ^ { \\circ } \\mathrm { C }$ is the point where both scales read the same value. ",
+    "bbox": [
+      45,
+      267,
+      442,
+      300
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "More temperature relations ",
+    "text_level": 1,
+    "bbox": [
+      539,
+      78,
+      857,
+      98
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "$T = 6 8 ^ { o } F \\ \\Rightarrow \\ ^ { o } C = ( 5 / 9 ) ( ^ { \\circ } F - 3 2 ) = ( 5 / 9 ) ( 6 8 - 3 2 ) = 2 0 ^ { o } C$ $T = 2 5 ^ { o } C \\ \\Rightarrow ^ { o } F = ( 9 / 5 ) ( ^ { o } C ) + 3 2 = ( 9 / 5 ) ( 2 5 ) + 3 2 = 7 7 ^ { o } F$ $T = - 2 0 o C \\ \\Rightarrow \\quad K = ^ { o } C + 2 7 3 = - 2 0 + 2 7 3 = 2 5 3 K$ $T = - 2 5 0 ^ { o } F \\ \\Rightarrow \\quad ^ { o } R = ^ { o } F + 4 6 0 = - 2 5 0 + 4 6 0 = 2 { \\cal I } 0 ^ { o } R$ T = 495 o R Ä $K = ( 5 / 9 ) ( ^ { o } R ) = ( 5 / 9 ) ( 4 9 5 ) = 2 7 5 K$ T = 360 K Ä $^ { o } R = ( 9 / 5 ) K = ( 9 / 5 ) ( 3 6 0 ) = 6 4 8 ^ { o } R$ ",
+    "bbox": [
+      55,
+      425,
+      459,
+      593
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Example P1.10 – Temperature conversions ",
+    "text_level": 1,
+    "bbox": [
+      40,
+      381,
+      441,
+      397
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "$^ { o } C = ( 5 / 9 ) ( ^ { o } F - 3 2 )$   \n$^ { o } F = ( 9 / 5 ) ( ^ { o } C ) + 3 2$   \n$K = { } ^ { o } C + 2 7 3$   \no R = o F + 460   \nK = (5/9)(o R)   \no R = (9/5) K ",
+    "bbox": [
+      676,
+      112,
+      838,
+      297
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Unit conversions HP calculators(1) ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      373,
+      949,
+      393
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Convert 350 hp to W:   \n[\u001e][UNITS][NXT][POWR][3][5][0][ hp ][1][ W ]   \n[\u001e][UNITS][TOOLS][CONVE] ",
+    "bbox": [
+      544,
+      402,
+      952,
+      455
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/f537a1825daf3a02406069fdec1acb78fc6a6459e1819f39e1dbde886f94116d.jpg",
+    "text": "$$\n3 5 0 \\ h p = 2 6 0 9 9 4 . 9 6 \\ W\n$$",
+    "text_format": "latex",
+    "bbox": [
+      660,
+      469,
+      852,
+      489
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/4b72f963bb18dbd0e740dc1288c40576fb9b5ae5082e71f5486eb8a01a9880eb.jpg",
+    "text": "$$\n2 5 a c r e - f t = 3 0 8 3 7 . 1 7 m ^ { 3 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      651,
+      589,
+      857,
+      608
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Convert 25 acre- $\\boldsymbol { \\mathscr { f } }$ to $m ^ { 3 }$ : [\u001e][UNITS][AREA][NXT][2][5][acre][NXT] [UNITS][LENG][1][ ft $] [ \\times ] [ \\mapsto ]$ [UNITS][ VOL ] [ $1 ] [ \\mathrm { m } ^ { \\wedge } 3 ]$ [\u001e][UNITS][TOOLS][CONVE] ",
+    "bbox": [
+      545,
+      503,
+      939,
+      575
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Unit conversions HP calculators(2) ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      674,
+      452,
+      695
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Convert $1 5 0 k W  – h$ to $l b x f t$ : $[ \\mapsto ] [ \\mathrm { U N I T S } ] [ \\mathrm { N X T } ] [ \\mathrm { P O W R } ] [ 1 ] [ 5 ] [ 0 ] [ \\mapsto ] [ \\ - \\ ]$ [ALPHA][\u001d][K][ W ][ENTER][UNITS][TIME] [1][ h ][×][NXT][UNITS][NXT][ENRG][1][ft×lb] [NXT][UNITS][TOOLS][CONVE] ",
+    "bbox": [
+      47,
+      705,
+      455,
+      792
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/179fe1ce40c7cdefffc777dd404758bbfa4d1eb888c43fbe4d3ede8bf40aaf67.jpg",
+    "text": "$$\n1 5 0 k W - h = 3 9 8 2 8 3 5 6 0 . 6 I f t \\cdot l b f\n$$",
+    "text_format": "latex",
+    "bbox": [
+      127,
+      810,
+      390,
+      828
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NOTES: (1) Use of prefixes, e.g., $k = \\mathrm { k i l o }$ : $[ \\mapsto ] [ - ] [ \\mathrm { A L P H A } ] [  ] [ \\mathrm { K } ]$ ",
+    "bbox": [
+      47,
+      843,
+      383,
+      878
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "(2) The answer is given using lbf (pound-force), note that l $b f ( \\mathrm { E E } ) = l b$ (BG). ",
+    "bbox": [
+      47,
+      878,
+      464,
+      911
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Unit conversions TI 89 (1) ",
+    "text_level": 1,
+    "bbox": [
+      544,
+      674,
+      844,
+      695
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Convert 350 hp to W: [HOME][3][5][0][2nd][UNITS] Press $[ \\pmb { \\nabla } ]$ 13 times to highlight Power .... _hp [Enter] (selects _hp) [Enter] (auto convert to _W) ",
+    "bbox": [
+      545,
+      704,
+      936,
+      772
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/9c5b554e2ec11f4a8d3e6763a2b32e0bf489d14d1f22474e3c791acd19ebd89d.jpg",
+    "text": "$$\n3 5 0 \\ : h p = 2 6 0 9 9 5 \\ : W\n$$",
+    "text_format": "latex",
+    "bbox": [
+      673,
+      786,
+      839,
+      805
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "● Convert 25 acre- $\\mathcal { \\hat { H } }$ to $m ^ { 3 }$ : $\\mathrm { [ H O M E ] } [ 2 ] [ 5 ] [ 2 \\mathrm { n d } ] \\mathrm { [ U N I T S ] } [ \\Psi ] [ \\Psi ] [ \\mathrm { E n t e r } ] [ \\times ] [ 1 ]$ $[ 2 \\mathrm { n d } ] [ \\mathrm { U N I T S } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ { \\pmb { \\Psi } } ] [ \\mathrm { E n t e r } ]$ ",
+    "bbox": [
+      545,
+      820,
+      937,
+      876
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/d371eb161fd481b499e0772e5fd4358876997777e55c2a97e027e13a50d793a6.jpg",
+    "text": "$$\n2 5 a c r e - f t = 3 0 8 3 7 . m ^ { 3 }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      661,
+      888,
+      848,
+      907
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "89 ",
+    "bbox": [
+      17,
+      916,
+      34,
+      926
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "86 ",
+    "bbox": [
+      516,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "85 ",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      516,
+      916,
+      534,
+      926
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "88 ",
+    "bbox": [
+      516,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "87 ",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Unit conversions TI 89 (2) ",
+    "text_level": 1,
+    "bbox": [
+      45,
+      71,
+      346,
+      93
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "● Convert $1 5 0 k W  – h$ to $l b x f t$ : ",
+    "bbox": [
+      47,
+      103,
+      276,
+      119
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "[HOME][1][5][0][2nd][UNITS]   \nPress $[ \\pmb { \\big { \\big | } } , \\pmb { \\big { \\big | } } ]$ 12 times to highlight Energy .... [X]   \nPress $[ \\pmb { \\big { \\big | } } , \\pmb { \\big { \\big | } } ]$ 7 times to highlight _kWh [Enter][2nd][X]   \n[2nd][UNITS]   \nPress $[ \\pmb { \\big { \\big | } } , \\pmb { \\big { \\big | } } ]$ 12 times to highlight Energy .... [X]   \nPress $[ \\pmb { \\big { \\big { \\Psi } } } ] \\geq$ times to highlight _ftlb [Enter] ",
+    "bbox": [
+      47,
+      137,
+      460,
+      238
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/8051ea9d16732d491eff1c21a1aa88dd99ca5f942ed72f697ce7cc9fa551f3b1.jpg",
+    "text": "$$\n\\begin{array} { r } { { I 5 0 k W } { - h } = 3 . 9 8 2 8 4 E B \\_ f t l b = 3 . 9 8 2 8 4 \\times 1 0 ^ { 8 } l b { \\cdot } f t } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      62,
+      255,
+      450,
+      275
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Note: the symbol $[ 2 \\mathrm { n d } ] [ \\star ]$ is the conversion operator ",
+    "bbox": [
+      45,
+      289,
+      464,
+      306
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Example P1.11 - Dimensions ",
+    "text_level": 1,
+    "bbox": [
+      42,
+      378,
+      375,
+      398
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "● Let $P =$ pressure, $\\rho =$ density, $\\mathrm { V } =$ velocity. Determine the dimensions of the quantity ",
+    "bbox": [
+      44,
+      416,
+      400,
+      450
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/5864cd9de55591e9936e52434f0afbfcf99fdcd8fb44530a1dc57d83142bbddd.jpg",
+    "text": "$$\n\\mathrm { C _ { \\mathrm { p } } = \\frac { \\partial \\mathrm { P } } { \\partial \\frac { 1 } { 2 } \\mathrm { \\rho } \\mathrm { \\ p } ^ { 2 } } }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      161,
+      455,
+      338,
+      515
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/09ab687f9cac37624a79732d81ffe34ab3f0da4ca383bafa58b45ba5c91a69bf.jpg",
+    "text": "$$\n[ C _ { p } ] = [ P J / ( [ \\rho ] [ V ] ^ { 2 } ) = M L ^ { - I } ~ T ^ { - 2 } / ( M L ^ { - 3 } ~ ( L T ^ { - I } ) ^ { 2 } )\n$$",
+    "text_format": "latex",
+    "bbox": [
+      63,
+      532,
+      437,
+      556
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/fec75a143b4e5081449735448ea48feb46b5a97c364c60a3ba714a3f9d674a0d.jpg",
+    "text": "$$\n= M ^ { I - I } L ^ { - I + 3 - 2 } T ^ { - 2 + 2 } = M ^ { \\upsilon } L ^ { \\upsilon } T ^ { \\upsilon } = d i m e n s i o\n$$",
+    "text_format": "latex",
+    "bbox": [
+      68,
+      570,
+      397,
+      588
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/education_5427083/auto/images/c3e0fed4d3e8f69958358b1ced1c9df0be805e16bfafdfd435961ab3482db969.jpg",
+    "table_caption": [
+      "Quantities, dimensions, and units "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\">Quantity</td><td colspan=\"2\">Dimensions</td><td colspan=\"2\">Preferred units</td></tr><tr><td>(M,L,T)</td><td>(F,L,T)</td><td>S.I.</td><td>E.S.</td></tr><tr><td>Length (L)</td><td>L</td><td>L</td><td>m</td><td>ft</td></tr><tr><td>Time (T)</td><td>T</td><td>T</td><td>S</td><td>S</td></tr><tr><td>Mass (M)</td><td>M</td><td>FT2L-1</td><td>kg</td><td>slug</td></tr><tr><td>Area (A)</td><td>L²</td><td>L²</td><td>m²</td><td>ft2</td></tr><tr><td>Volume (Vol)</td><td>L3</td><td>L</td><td>m3</td><td>ft</td></tr><tr><td>Velocity (V)</td><td>LT-1</td><td>LT-1</td><td>m/s</td><td>ft/s or fps</td></tr><tr><td>Acceleration (a)</td><td>LT2</td><td>LT2</td><td>m/s²</td><td>ft/s²</td></tr><tr><td>Discharge (Q)</td><td>L3T-1</td><td>L3T-1</td><td>m³/s</td><td>ft³/sor cfs</td></tr><tr><td>Kinematic viscosity (v)</td><td>LT-1</td><td>L2T-1</td><td>m²/s</td><td>ft2/s</td></tr><tr><td>Force (F)</td><td>MLT -2</td><td>F</td><td>N</td><td>Ib</td></tr><tr><td>Pressure (p)</td><td>ML -1T -2</td><td>FL-2</td><td>Pa</td><td>Ib/ft2</td></tr><tr><td>Shear stress (t)</td><td>ML -1T -2</td><td>FL2</td><td>Pa</td><td>Ib/ft²</td></tr><tr><td>Density (p)</td><td>ML -3</td><td>FT2L-4</td><td>kg/m³</td><td>slug/ft3</td></tr><tr><td>Specific weight (γ)</td><td>ML2T2</td><td>FL-3</td><td>N/m³</td><td>Ib/ft3</td></tr><tr><td>Energy/Work/Heat (E)</td><td>ML2T-2</td><td>FL</td><td>J</td><td>Ib ft</td></tr><tr><td>Power (P)</td><td>ML²T3</td><td>FLT1</td><td>W</td><td>Ib ft/s</td></tr><tr><td>Dynamic viscosity (u)</td><td>ML -1T-1</td><td>FTL2</td><td>N s/m²</td><td>Ib s/ft2</td></tr></table>",
+    "bbox": [
+      535,
+      92,
+      954,
+      310
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Example P1.12 – Dimensional homogeneity ",
+    "text_level": 1,
+    "bbox": [
+      540,
+      375,
+      946,
+      392
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "● The theoretical equation for the discharge $Q$ over a sharp-crested weir is given by ",
+    "bbox": [
+      545,
+      410,
+      964,
+      445
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/63d0f21e9d8ac984ef0f1988ca69f804cd9193a707563b53ca5bd69aae6630fe.jpg",
+    "text": "$$\nQ = ( 2 / 3 ) { \\cdot } ( 2 g ) \\ ^ { I / 2 } { \\cdot } L { \\cdot } H \\ ^ { 3 / 2 } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      653,
+      462,
+      849,
+      482
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "where $g =$ gravity, $L =$ length, $H =$ weir head. Check the equation for dimensional homogeneity. ",
+    "bbox": [
+      545,
+      496,
+      959,
+      530
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "With $[ g ] = L T ^ { 2 }$ , $[ L ] = L$ , $[ H ] = L$ , we find ",
+    "bbox": [
+      545,
+      545,
+      885,
+      564
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/education_5427083/auto/images/17bae70a35d259ec50f471ac1f0ecde1eabc0f2f7684a54b2a93bb70cd47cada.jpg",
+    "text": "$$\n[ Q ] = { \\cal I } \\cdot ( { \\cal I } \\cdot { \\cal L } \\cdot { \\cal T } ^ { \\circ } ) ^ { 1 / 2 } \\cdot { \\cal L } \\cdot { \\cal L } ^ { 3 / 2 } = { \\cal L } \\ ^ { 1 / 2 + { \\cal I } + 3 / 2 } \\ { \\cal T } \\ ^ { ( \\mathrm { - } 2 ) ( { \\cal I } / 2 ) } = { \\cal L } ^ { 3 } { \\cal T } ^ { \\circ } \\ \n$$",
+    "text_format": "latex",
+    "bbox": [
+      544,
+      580,
+      949,
+      599
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "94 ",
+    "bbox": [
+      516,
+      616,
+      534,
+      626
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      616,
+      34,
+      626
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      315,
+      534,
+      325
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      17,
+      315,
+      34,
+      325
+    ],
+    "page_idx": 15
+  }
+]

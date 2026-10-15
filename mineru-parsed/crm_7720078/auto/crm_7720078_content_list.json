@@ -1,0 +1,799 @@
+[
+  {
+    "type": "text",
+    "text": "A Systematic Approach for Evaluating BPM Systems: Case Studies on Open Source and Proprietary Tools ",
+    "text_level": 1,
+    "bbox": [
+      137,
+      266,
+      914,
+      316
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Andrea Delgado, Daniel Calegari, Pablo Milanese, Renatta Falcon, Esteban García ",
+    "bbox": [
+      132,
+      321,
+      917,
+      366
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "To cite this version: ",
+    "text_level": 1,
+    "bbox": [
+      139,
+      425,
+      378,
+      444
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Andrea Delgado, Daniel Calegari, Pablo Milanese, Renatta Falcon, Esteban García. A Systematic Approach for Evaluating BPM Systems: Case Studies on Open Source and Proprietary Tools. 11th International Conference on Open Source Systems (OSS), May 2015, Florence, Italy. pp.81-90, ff10.1007/978-3-319-17837-0_8ff. ffhal-01320162ff ",
+    "bbox": [
+      129,
+      456,
+      942,
+      520
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL Id: hal-01320162 ",
+    "text_level": 1,
+    "bbox": [
+      364,
+      671,
+      633,
+      690
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://hal.inria.fr/hal-01320162 ",
+    "bbox": [
+      302,
+      697,
+      695,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted on 23 May 2016 ",
+    "bbox": [
+      389,
+      727,
+      610,
+      741
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. ",
+    "bbox": [
+      92,
+      802,
+      492,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. ",
+    "bbox": [
+      507,
+      802,
+      907,
+      897
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      457,
+      900,
+      541,
+      931
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Distributed under a Creative Commons Attribution| 4.0 International License ",
+    "bbox": [
+      142,
+      934,
+      840,
+      948
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "? ",
+    "bbox": [
+      117,
+      428,
+      132,
+      441
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL archives-ouvertes.fr ",
+    "bbox": [
+      416,
+      48,
+      630,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A systematic approach for evaluating BPM Systems: case studies on Open Source and Proprietary tools ",
+    "text_level": 1,
+    "bbox": [
+      231,
+      176,
+      761,
+      217
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Andrea Delgado, Daniel Calegari, Pablo Milanese, Renatta Falcon, Esteban García ",
+    "bbox": [
+      218,
+      245,
+      776,
+      260
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Instituto de Computación, Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay {adelgado, dcalegar, pmilanese}@fing.edu.uy {renafal, estebangrd}@gmail.com ",
+    "bbox": [
+      257,
+      271,
+      741,
+      324
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract. Business Process Management Systems (BPMS) provide support for modeling, developing, deploying, executing and evaluating business processes in an organization. Selecting a BPMS is not a trivial task, not only due to the many existing alternatives, both in the open source and proprietary realms, but also because it requires a thorough evaluation of its capabilities, contextualizing them in the organizational environment in which they will be used. In this paper we present a methodology to guide the systematic evaluation of BPMS that takes into account the specific needs of each organization. It provides a list of key characteristics of BPMS which are ranked by the organization and evaluated using test cases and quantitative criteria. We also present case studies of open source and proprietary BPMS evaluations following our proposal. ",
+    "bbox": [
+      253,
+      359,
+      742,
+      503
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Business Process Management Systems (BPMS), Open Source and Proprietary BPMS, evaluation methodology, systematic approach ",
+    "bbox": [
+      253,
+      524,
+      737,
+      551
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      573,
+      364,
+      590
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Every organization executes daily operations to achieve its goals, applying certain mechanisms to enable continuous improvement. The business process (BPs) vision is the identification of the set of activities that are performed in coordination within an organizational and technical environment to achieve defined business goals [1]. It provides support for the definition, control and continuous improvement of business operation. In this context, Business Process Management (BPM) [1,2] offers a framework to support the business process lifecycle [1] from modeling, through developing, deploying, executing and to the evaluation of their execution. BPM Systems (Business Process Management System, BPMS) [1,3] arise as the technology response to support the BPs lifecycle. These platforms integrate several components that allow modeling processes, executing them, controlling business rules, defining execution measures and monitoring processes, among others. ",
+    "bbox": [
+      206,
+      605,
+      789,
+      775
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "There are several process modeling and execution languages with different backgrounds and abilities, such as Business Process Model and Notation (BPMN 2.0) [4], XML Process Definition (XPDL) [5] and Web Services Business Process Execution ",
+    "bbox": [
+      206,
+      776,
+      789,
+      818
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "adfa, p. 1, 2011. $^ ©$ Springer-Verlag Berlin Heidelberg 2011 ",
+    "bbox": [
+      206,
+      838,
+      440,
+      861
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Language (WS-BPEL) [6], among others. Likewise, there is also a wide variety of BPMS, both open source and proprietary, with different support levels for the defined solution. In addition, several open source products offers several business models such as community edition with limited functionality, fees for maintenance and support, enterprise versions, among others. To be able to compare features within different BPMS, it is necessary to provide an objective evaluation regarding the fulfillment of key technical features that should be provided, as defined in academia [7,8] and industry [9,10] studies. However, the selection of the most adequate BPMS for an organization depends not only on the technological support it provides, but also on the characteristics of the organization itself. The evaluation should also be guided by a systematic procedure to ensure the quality of the results and its repeatability. ",
+    "bbox": [
+      206,
+      174,
+      789,
+      331
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In this paper we present a methodology for evaluating BPMS considering the specific needs of each organization. Our approach includes the definition of key activities to guide the evaluation and a list of key features that are relevant to this kind of systems. This methodology has been developed within our research group and has been applied for evaluating open source and proprietary BPMS in several projects1. To illustrate the approach, we present results from these projects which constitute both a validation and assessment of our proposal and a contribution to knowledge regarding the capacities of selected BPMS technologies. ",
+    "bbox": [
+      206,
+      332,
+      789,
+      445
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The rest of the article is organized as follows. In Section 2 we discuss related work and in Section 3 we present the methodology for evaluating BPMS. Then, in Section 4 we present case studies regarding the evaluation of open source and proprietary BPMS. Finally, in Section 5 we present some conclusions and future work. ",
+    "bbox": [
+      206,
+      446,
+      789,
+      502
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 Related Work ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      524,
+      378,
+      541
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "There are several approaches for evaluating BPMS, which we have analyzed and taken into account when defining our methodology and the list of characteristics we provide. We have taken into account software quality characteristics standards such as ISO/IEC 9126 (superseded by SQUARE [11]), and others such as [12]. Although the characteristics defined in these are not specific to BPMS, some can be applied to software of any kind and are very important for evaluating the quality of software from different points of view. A key reference from academy for evaluating BPs languages capacities and BPMS support for modeling and execution is the workflow patterns [7], used for example in [13] to evaluate the support provided by selected open source tools. This kind of assessments can identify potential limitations for modeling and execution of BPs in the selected languages and/or BPMS that is better knowing in advance. Other works such as [8] evaluate selected open source workflow engines against their compliant to the WfMC model, defining key characteristics for them. Other evaluations are contemporary to our work, such as [14] in which WS-BPEL engines; both open source and proprietary are evaluated. They differ from ours in many aspects a key one is that ours is more generic and allows many types of engines to be evaluated and compared, since it is not restricted to a single language. Other proposals are more generic for the selection of any type of COTS software such as [15,16] or with focus on specific characteristics of OSS software such as [17]. In [18] the authors present a survey on processes for selecting COTS. Although our proposal shares some similarities with these works regarding the process and some general desirable characteristics, our focus is on BPMS for which our list of characteristics provides a unique insight of this type of systems. Moreover, we provide several test cases and guides to evaluate the characteristics we defined. ",
+    "bbox": [
+      206,
+      557,
+      789,
+      783
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 http://www.fing.edu.uy/inco/investigacion/grupos/COAL ",
+    "bbox": [
+      208,
+      812,
+      564,
+      824
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      174,
+      789,
+      288
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Regarding industry reports of evaluation of proprietary BPMS, we have mainly considered Gartner [9] and TEC [10] reports, and also checked out the Forrester [19] approach. Gartner evaluations we have analyzed include the Magic Quadrant for BPMS [20] and Magic Quadrant for iBPMS [21], the latter adding elements of Business Intelligence. The criteria used by Gartner include commercial characteristics, such as: price, customer experience, market understanding and strategy, business model, among others. TEC provides software features for evaluating different types of software, in a web application with a list of defined and categorized characteristics, obtaining a recommendation of selected tools that best suits the indications provided. Forrester [19] also provides a similar approach with a set of characteristics and a tool to support the recommendation. However, these approaches are based on information provided by vendors who answer a questionnaire valuating each characteristic (Forrester also includes laboratory evaluation). In [20,21] the results are not contextdependent since the importance of the characteristics is given and not selected for each evaluation. Unlike these works, our approach does not include any view from the vendors themselves, but from our objective evaluation from carrying out each test case for each defined characteristic on each selected BPMS. The importance of the characteristics is also assigned each time by each organization, guaranteeing that the results are adequate for each organization every time. ",
+    "bbox": [
+      206,
+      288,
+      789,
+      559
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 BPMS EVALUATION APPROACH ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      581,
+      573,
+      598
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The main results of our work are the list of characteristics which can be used as a basis for evaluating BPMS, and the methodology to carry out the evaluation. ",
+    "bbox": [
+      206,
+      612,
+      791,
+      641
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3.1 List of characteristics ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      662,
+      410,
+      676
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The list is organized according to a defined structure which groups characteristics allowing an intuitive understanding. The highest level corresponds to the modules, which in turn are composed of categories grouping cohesive characteristics. We have analyzed and selected characteristics based on many sources, as presented in Section 2. Two main modules are defined: (1) Technical, which involves everything related to software itself, and (2) Non-technical, which encompasses other characteristics such as community support. Table 1 shows the defined structure including both modules and its categories, the total of characteristics defined within each one (# DC) and, due to space limitations, an example of characteristics in each category. ",
+    "bbox": [
+      206,
+      686,
+      789,
+      814
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_7720078/auto/images/8607981e4eca920b219ad1b39afdc34cd9bdc7c4c6f3994d8d624953c96494ba.jpg",
+    "table_caption": [
+      "Table 1. Structure and example of defined modules, categories and characteristics "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Module</td><td>Category</td><td>#DC</td><td></td><td>Example of characteristics</td></tr><tr><td rowspan=\"10\">Technical</td><td>Technology,Architecture and Interoperability</td><td>15</td><td>· ·</td><td>BPMS Architecture Integration with social networks</td></tr><tr><td>Process Design and Modeling</td><td>12</td><td>· ：</td><td>Modeler type List of versions of process models</td></tr><tr><td></td><td>9</td><td>： ：</td><td>Collaborative work on processes Dynamic Forms</td></tr><tr><td>Form management</td><td></td><td>. ：</td><td>Support for mobile devices Support of workflow patterns</td></tr><tr><td>Workflow engine</td><td>24</td><td>. ·</td><td>Configurable Schedule of full System Linking task and document</td></tr><tr><td>Security Management</td><td>5</td><td>： ·</td><td>Permission Mechanism for users Role Definition</td></tr><tr><td>Management,Monitoring and Audit</td><td>9</td><td>： ·</td><td>Process Monitoring Backups</td></tr><tr><td>Document management system</td><td>5</td><td>· ：</td><td>Integrity and document security Indexing and search mechanisms</td></tr><tr><td>Portal</td><td>7</td><td>： ·</td><td>Customizing the portal</td></tr><tr><td>Sub-Total</td><td>79</td><td></td><td>Searching Mechanisms</td></tr><tr><td>Non- Technical</td><td>Installation and support</td><td>· 8 ：</td><td>Installation packages Available documentation</td><td></td></tr><tr><td rowspan=\"2\">Maturity</td><td rowspan=\"2\"></td><td>. ·</td><td>Supported Languages</td></tr><tr><td></td><td>Time in market</td></tr><tr><td>Commercial</td><td>6 1</td><td>： ：</td><td>Community activity</td></tr><tr><td></td><td></td><td></td><td>License costs</td></tr><tr><td>Sub-Total</td><td>15</td><td></td><td></td></tr><tr><td>Total</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>94</td><td></td><td></td></tr></table>",
+    "bbox": [
+      196,
+      194,
+      794,
+      558
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3.2 Evaluation Methodology ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      578,
+      433,
+      593
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Fig. 1 models the proposed evaluation methodology using BPMN, showing the different activities to be carried out within each organization, including the sub-process of actually evaluating the tools. In the first place the list of characteristics is reviewed and updated if needed and the tools to be evaluated in the current evaluation are selected, based on initial criteria such as being open source or proprietary, the language provided, among others defined to help narrow the selection. Then, each characteristic is weighted by the organization using a scale we provide, both to define how important is each characteristic to the organization and to obtain a ranked list to select the most important characteristics to be evaluated (as evaluating all of them can be expensive and time consuming). Then the test cases to evaluate the selected characteristics are defined (or adapted if needed, as we provide many test cases) and the case study to be carried out within each tool is specified (as we also provide many case studies). Then, the evaluation is performed valuating each characteristic within each tool in another scale we provide for results (using the test cases for each one and the case study to assess the tool globally). Finally a total score for each tool is calculated. ",
+    "bbox": [
+      206,
+      603,
+      791,
+      815
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7720078/auto/images/03307242c9c01f70136180875167930c8656b1434f40f87766377b8499f2cb54.jpg",
+    "image_caption": [
+      "Fig. 1. Evaluation methodology process modeled in BPMN "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      187,
+      791,
+      364
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The list of defined characteristics for BPMS tools is reviewed and updated for each evaluation, when needed. This update could involve the addition of new characteristics, modifying existing ones and/or deleting other, allowing working with a suitable list of characteristics at the time the evaluation is made. In parallel with this, the tools to be evaluated are selected (from those lists provided by organizations such as OMG, OASIS and WfMC), based on initial criteria defined such as open source or proprietary, presence in a specific market, or support for a defined modeling notation. ",
+    "bbox": [
+      206,
+      401,
+      789,
+      500
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Each characteristic is then assigned a level of importance by the organization performing the evaluation. The scale defines the following levels: (1) Mandatory; (2) Medium priority and (3) Low priority. The classification of the characteristics on this scale depends on the needs of the organization for each evaluation and therefore allows to instantiate the evaluation to the organizational context. Each characteristic is further valuated in a three level scale of support: (1) Totally supported, the tool has the characteristic; (2) Partially supported, the tool does not cover the entire specification of the characteristic; (3) Not supported, the tool does not provide it. Additionally three levels of compliance are defined for the support scale: (1) Native, the feature is part of the tool; (2) Particularization, specific software can be developed to achieve such compliance; (3) Integration, it is necessary to include a third component to support it. In order to obtain a quantitative evaluation (score) associated with each tool, we also calculate a final value regarding the importance defined and the results level. Moreover, when two tools present different levels with respect to the same support scale, e.g. third components are needed but with different development costs, we can assign different values. The list of ranked characteristics regarding their importance as assigned by the organization is reviewed to select the key ones to be used in the current evaluation, to help reduce the number of characteristics to be evaluated. Nevertheless all the characteristics could be selected if the organization wants, taking into account that it will require more time and effort. Since the list of characteristics provide a shared criterion for evaluating BPMS, previous results of evaluations can be used as a basis for carrying out an organization-dependent evaluation process. ",
+    "bbox": [
+      206,
+      501,
+      789,
+      814
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Two ways for evaluating the characteristics are defined: theoretical and practical. The theoretical evaluation does not require executing the tool, but is mainly based on the tool documentation, e.g. when non full versions are available or when characteristics are not a priority for the organization. The practical evaluation do requires executing the tool, with a specific test case to evaluate the level of support it provides. The main purpose of the test cases is to standardize the evaluation with respect to the same basis. In addition, a case study is defined to be performed within all tools. The main objective of the case study is to give an overview of the support provided by the tool regarding the actual execution in a daily basis operation. ",
+    "bbox": [
+      206,
+      174,
+      789,
+      302
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Finally a global analysis of each tool is performed, including the score assigned by the defined formula. This allows performing a comparison between tools based on each characteristic evaluation result and the overall score assigned to each tool. ",
+    "bbox": [
+      205,
+      304,
+      789,
+      345
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4 BPMS evaluation case studies ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      368,
+      510,
+      384
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In this section we present the results of evaluation projects of open source and proprietary BPMS we have carried out between years 2010 and 2013 as a validation and assessment of our proposal. We have followed the guidelines in [22] for cases studies, but due to space limitations we present here only the results discussion. ",
+    "bbox": [
+      206,
+      399,
+      791,
+      456
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.1 Open source BPMS evaluation ",
+    "text_level": 1,
+    "bbox": [
+      208,
+      477,
+      475,
+      491
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The open source BPMS assessment was carried out in two projects, one focusing on BPMS based on the XPDL standard and another on the WS-BPEL standard. Two more tools were also selected which implemented the new BPMN 2.0 standard which was released in the course of the evaluation projects. The following tools were selected and evaluated mainly based on their availability: ",
+    "bbox": [
+      206,
+      501,
+      791,
+      572
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "• XPDL: Bonita $\\mathrm { C E } ^ { 2 }$ , Enhydra3, Joget4, OBE5, WfMOpen6   \n• WS-BPEL: Apache $\\mathrm { O D E } ^ { 7 }$ , $\\mathrm { j B P M } ^ { \\bar { 8 } }$ , Orchestra9, Petals10, Intalio $\\mathrm { C E } ^ { 1 1 }$ , Riftsaw12   \n• BPMN 2.0: Activiti13, jBPM58 ",
+    "bbox": [
+      205,
+      580,
+      759,
+      625
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2 BonitaSoft BPMS, http://www.bonitasoft.com/ 3 Together Enhydra Shark, http://www.together.at/prod/workflow 4 Joget, http://www.joget.org/ 5 OBE, Open Business Engine, http://obe.sourceforge.net/ 6 WfmOpen, http://wfmopen.sourceforge.net/ 7 Apache ODE, http://ode.apache.org/ 8 jBPM, jBPM5, http://www.jboss.org/jbpm/ 9 Orchestra, http://orchestra.ow2.org/ 10 Petals, http://petals.ow2.org/ 11 Intalio BPMS, http://www.intalio.com/bpms 12 Riftsaw, http://www.jboss.org/riftsaw 13 Activiti BPMS, http://www.activiti.org ",
+    "bbox": [
+      205,
+      666,
+      606,
+      825
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_7720078/auto/images/851d0d51bebf07bc538893eaf21a36a0d1ed2f5efaddb0d05d71ac50bda98d22.jpg",
+    "table_caption": [
+      "Fig. 2 shows an example of the results for the evaluation of some selected characteristics for XPDL and BPMN 2.0 (Activiti) and WS-BPEL and BPMN 2.0 (jBPM5) engines, using the semaphore metaphor: Green for Totally supported, Yellow for Partially supported and Red to indicate Not supported. ",
+      "Fig. 2. Example of evaluation results: (a) XPDL and BPMN 2.0; (b) WS-BPEL and BPMN 2.0 "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=2>(a) XPDL and BPMN 2.0</td><td rowspan=1 colspan=1>Enhydra</td><td rowspan=1 colspan=1>Joget</td><td rowspan=1 colspan=1>Bonita</td><td rowspan=1 colspan=1>OBE</td><td rowspan=1 colspan=1>WFMOpen。</td><td rowspan=1 colspan=1>Activiti</td></tr><tr><td rowspan=1 colspan=2>Flow routing</td><td rowspan=1 colspan=1>。</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>。</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>。</td><td rowspan=1 colspan=1>C</td></tr><tr><td rowspan=1 colspan=2>Process Designer</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Calendar</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td></tr><tr><td rowspan=1 colspan=2>Business Rules</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Notifications and Alerts</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td></tr><tr><td rowspan=1 colspan=2> Tasks Allocation by Roles</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Work lists</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Task assignments</td><td rowspan=1 colspan=1>。</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>福</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2> Process and/or Activity Monitoring</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>(b) WS-BPEL and BPMN 2.0</td><td rowspan=1 colspan=1>jBPMBPEL</td><td rowspan=1 colspan=1>ApacheODE</td><td rowspan=1 colspan=1>Intalio</td><td rowspan=1 colspan=1>Riftsaw</td><td rowspan=1 colspan=1>Petals</td><td rowspan=1 colspan=1> Orchestra</td><td rowspan=1 colspan=1> jBPM5</td></tr><tr><td rowspan=1 colspan=1>Easy of installation</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Deploy assistance</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Execution of multiple versions of a process</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Suspend or rollback a process</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td></tr><tr><td rowspan=1 colspan=1>Audit</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Reports</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1> Integration with different Data Bases</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1> Obtaining execution indicators</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>。</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+    "bbox": [
+      208,
+      244,
+      783,
+      458
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Fig. 3 shows the overall scores obtained by each tool in each evaluation, by means of the formula defined (c.f. Section 3.2). As mentioned above, to obtain those values the importance assigned to each characteristic by each organization performing the evaluation is also taken into account, to weight the most important ones. This final score serves mainly for the purpose of \"eliminating\" tools which does not reach certain level, focusing on the ones presenting the best scores. ",
+    "bbox": [
+      206,
+      492,
+      791,
+      579
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7720078/auto/images/a88a7f62ffd1003164b025672a75dc0be118d2f6fb9afdbedc85b24b228fd9b5.jpg",
+    "image_caption": [
+      "Fig. 3. Overall scores for evaluations: a) XPLD and BPMN 2.0; (b) WS-BPEL and BPMN 2.0 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      208,
+      592,
+      791,
+      725
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "As conclusions some interesting observations were found: in the first place the version of the XPDL standard of the engine plays an important role in their capabilities, as it has several versions, 1.0, 2.0 and 2.1 with different features. Four of the six engines implemented version 1.0 which has significant limitations. Versions 2.0 and 2.1 already have elements of the BPMN standard and therefore better capabilities. Some of the engines had a high complexity of installation at the time, as WfMOpen and OBE. Bonita presents support for most features, including process simulation, being one of the most complete engines. Enhydra and Joget for XPDL and Activiti for BPMN 2.0 also provide support for most of the characteristics evaluated. Being the Activiti an initial version of the BPMN 2.0 standard implementation, it was expected to improve considerably, which has already occurred in recent years. As for the execution language WS-BPEL all evaluated engines implement the WS-BPEL 2.0 standard and some like Intalio CE, include extensions to provide support for humans such as HumanTask or BPEL4People. Intalio CE is the engine that provides better support for the evaluated characteristics and better results throughout the evaluation, with a friendly environment, stable behavior and an active community. Other engines such as jBPM, jBPM5 and Petals, also provide support for most characteristics. ",
+    "bbox": [
+      206,
+      758,
+      789,
+      815
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      174,
+      791,
+      359
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "4.2 Proprietary BPMS evaluation ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      381,
+      470,
+      395
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The evaluation on proprietary tools also included a reevaluation of the Bonita open source BPMS since a major update was performed in the newly released 6.0 version. The selection was mainly based on their presence in the local market, and included: ",
+    "bbox": [
+      206,
+      406,
+      791,
+      447
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "• Proprietary: IBM BP Manager 14,Oracle BPM15, Apia16,GXFlow17 • Community edition: Aris Platform18, Bizagi19, Bonita1. ",
+    "bbox": [
+      206,
+      456,
+      673,
+      486
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Fig. 4 (a) shows an example of the results obtained from evaluating selected characteristics on the tools. As before, the semaphore metaphor is used, and the theoretical and practical evaluations are shown. Being proprietary tools, for the practical evaluation it was necessary to obtain licenses for the products to evaluate. Due to difficulties in obtaining the software and/or corresponding licenses, two tools were only evaluated theoretically, while the rest were also evaluated in practical (cf. Section 3.2), as shown in Fig 4 (a). The overall score is shown in Fig. 4 (b) which is obtained by applying the formula as before, taking into account both the importance defined for each characteristic by the organization and the results obtained by the characteristic evaluation. We do not disclose which value corresponds to which tool for confidentiality reasons regarding definitions in the projects carried out with the enterprises involved. ",
+    "bbox": [
+      206,
+      496,
+      791,
+      653
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "As conclusions of this evaluation we can highlight as a key point the original nature of the tool. Three of the tools have as main objective support for BPM, so their architecture and feature set are intended for these purposes; while the remaining tools are extensions of larger tools which were developed with other objectives. Those tools which focus on BPM have advantages in characteristics such as: installation, usability, understanding, documentation, simpler architectures, etc. The other tools must adapt to certain preset parameters, providing less specific support to BPM, increasing the learning curve and presenting more installation problems, among others. However, the latter proved more powerful, with more features available, management tools and administrative consoles. As for the language of the process engine both XPDL and WS-BPEL are provided for process execution, and there is less support for BPMN 2.0 which is mainly provided within modelers but not for execution. In most of the tools wizards support is provided for BPs implementation helping reduce the development time, for example to integrate web services from WSDL definitions. ",
+    "bbox": [
+      206,
+      653,
+      789,
+      724
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "14 IBM BP Manager, http://www-01.ibm.com/software/ integration/business-process-manager/ 15 Oracle 11g, http://www.oracle.com/us/technologies/bpm/suite/overview/ 16 Apia, http://www.statum.biz/web/guest/apia 17 GXflow, http://www.genexus.com/gxflow 18 ARIS Platform, http://www.softwareag.com/corporate/products/aris 19 Bizagi BPM Suite, http://www.bizagi.com/ ",
+    "bbox": [
+      206,
+      745,
+      783,
+      825
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      174,
+      791,
+      302
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_7720078/auto/images/0a4b7974bad81239d2f62d826bbb1e96cc28d105d8b37795e4974c380f6c0805.jpg",
+    "image_caption": [
+      "Fig. 4. Sample of (a) characteristics evaluated in Proprietary tools (b) overall scores "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      210,
+      317,
+      789,
+      463
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "5 Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      507,
+      361,
+      523
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We have presented a systematic approach for evaluating BPMS tools both open source and proprietary, which includes a methodology and a list of key characteristics for this kind of software, as well as a way to instantiate each evaluation to the specific context of the organization performing it, providing different results for different needs. We provide a list of relevant key characteristics for BPMS tools, and a way of evaluating the provided support by means of tests cases and a case study to provide an overall view of the tool support. We believe that the evaluation methodology we propose can be also applied to other type of software, by changing the list of characteristics according to the software being evaluated, and following the defined process. We have also illustrated the use of the approach by means of case studies regarding open source and proprietary BPMS. We can conclude that all tools have advantages and disadvantages, and can be suitable for different contexts. As there is an increasing demand from organizations to incorporate BPMS platforms, we believe that a key element and contribution of our evaluation approach is to take into account the organizational context, allowing different organizations to select different tools regarding their specific needs. We can also conclude that regarding this kind of software some open source BPMS such as Bonita, Activiti and Intalio CE are, with respect to some aspects, as complete and competitive as other products from major existing vendors. ",
+    "bbox": [
+      206,
+      536,
+      791,
+      794
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As future work, we plan to evaluate again some open source BPMS since they all have improved significantly in the last few years (we have continued using them in many projects and courses, mainly Activiti and Bonita), and to add new others. We also plan to provide tool support for the methodology by generating a benchmark for the evaluation as well as a tool allowing evaluators and users to assign weights to the characteristics and generate recommendations and comparisons between tools. Finally, we plan to include other aspects to the evaluation, e.g. non functional aspects. ",
+    "bbox": [
+      205,
+      795,
+      791,
+      823
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      206,
+      174,
+      789,
+      245
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      268,
+      376,
+      283
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We would like to thank the students who worked in the BPMS evaluation projects: A. Acosta, N. Beloso, R. Bonini, E. Galindo, A. Hernández, F. Parins and C. Smith. ",
+    "bbox": [
+      210,
+      285,
+      789,
+      311
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      334,
+      344,
+      347
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "[1] M. Weske: BPM: Concepts, Languages, Architectures, Springer, 2007.   \n[2] W.M.P. van der Aalst, A. ter Hofstede, M. Weske: BPM: A Survey. In Proceedings International Conference on Business Process Management (BPM'03), 2003.   \n[3] J. F. Chang: BPM Systems: strategy and implementation. Auerbach Publications, Taylor & Francis Group, 2006.   \n[4] OMG. Business Process Model And Notation (BPMN) v2.0, 2011   \n[5] WfMC, XML Process Definition Language (XPDL), 2008.   \n[6] OASIS, WS Business Process Execution Language (WS-BPEL), 2007.   \n[7] W.M.P. van der Aalst, A. ter Hofstede, B. Kiepuszewski, A. Barros: Workflow patterns. Dist. &Parallel Databases, 14(3). 2003   \n[8] R. Garcês, T. Jesus, J. Cardoso, P. Valente.: Open Source Workflow Management Systems: A Concise Survey, In 2009 BPM & Workflow Handbook, Future Strategies Inc., 179-190, 2009   \n[9] Gartner Group, http://www.gartner.com/technology   \n[10] TEC, Technology Eval., http://www.technologyevaluation.com/   \n[11] ISO/IEC 9126, Software engineering, Product quality, superseded by ISO/IEC 25000 SQuaRE http://www.iso.org/   \n[12] A. Tsalgatidou: Selection Criteria for Tools Supporting Business Process Transformation for Electronic Commerce, Proceedings of EURO-MED NET, 1998   \n[13] P. Wohed, B. Andersson, A. ter Hofstede, N. C. Russell, W.M.P. van der Aalst: Patterns-based Evaluation of Open Source BPM Systems: The Cases of jBPM, OpenWFE, and Enhydra Shark. Information and Software Technology, 51(8):1187-1216, 2009.   \n[14] S. Harrer, J. Lenhard, G. Wirtz: Open Source versus Proprietary Software in Service-Orientation: The Case of BPEL Engines, In Proceedings 11th International Conference on SOC (ICSOC'13), 2013   \n[15] D. Morera: COTS Evaluation Using Desmet Methodology & Analytic Hierarchy Process (AHP). PROFES 2002, LNCS 2559: 485-493. Springer, 2002.   \n[16] P. Lawlis, K. Mark, D. Thomas, T. Courtheyn: A Formal Process for Evaluating COTS Software Products. IEEE Computer, 34 (5): 58-63, 2001   \n[17] D. Taibi, L. Lavazza, S. Morasca: OpenBQR: a framework for the assessment of OSS. OSS 2007: 173-186   \n[18] F. Tarawneh, F. Baharom, J. Yahaya, F. Ahmad: Evaluation and Selection COTS Software Process: The State of the Art. International Journal on New Computer Architectures and Their Applications (IJNCAA), pp: 344-357, The Society of Digital Information   \n[19] C. Richardson, D. Miers, A. Cullen, J. Keenan, The Forrester Wave: BPM Suites, Q1 2013, How The Top 10 Vendors Stack Up For Next-Generation BPM Suites, March, 2013   \n[20] J. Sinur, J. Hill: Magic Quadrant for Business Process Management Suites. Gartner Inc. 2010   \n[21] J. Sinur, W. Schulte, J. Hill, T. Jones: Magic Quadrant for Intelligent Business Process Management Suites. Gartner Inc. 2012   \n[22] R. Yin: Case Study Research: Design and Methods. Sage Publications, Inc, 2002 ",
+    "bbox": [
+      205,
+      347,
+      791,
+      821
+    ],
+    "page_idx": 10
+  }
+]

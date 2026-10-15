@@ -1,0 +1,5420 @@
+[
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/2574f5273c6eee45cfa8a3e3569cf0da720035a6c5ad10ccde27617054af4f78.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      337,
+      116,
+      727,
+      351
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "BOSCH ",
+    "text_level": 1,
+    "bbox": [
+      569,
+      869,
+      773,
+      907
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Security Systems ",
+    "bbox": [
+      85,
+      375,
+      428,
+      416
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Operators Guide EN  Solution 880 ",
+    "bbox": [
+      579,
+      422,
+      776,
+      458
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CC408 ",
+    "bbox": [
+      176,
+      61,
+      302,
+      87
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copyright Notice ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      86,
+      299,
+      108
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "New Zealand Telepermit Notes ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      86,
+      887,
+      108
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Unless otherwise indicated, this publication is the copyright of Bosch Security Systems Pty Ltd (“Bosch”). All rights are reserved. ",
+    "bbox": [
+      92,
+      114,
+      452,
+      155
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "You may download a single copy of this publication. By downloading the publication you agree that you will: (i) only use the publication for your own reference; (ii) not commercially exploit or charge any person for the use of the publication; and (iii) not modify the publication in any way without the prior written permission of Bosch. ",
+    "bbox": [
+      92,
+      161,
+      480,
+      261
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Except as specified above or where authorised by the Copyright Act 1968 (Cth), no part of this publication may be reproduced, transmitted, modified or stored, in any form or by any means, without the prior written permission of Bosch. ",
+    "bbox": [
+      92,
+      267,
+      480,
+      338
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Notice of Liability ",
+    "text_level": 1,
+    "bbox": [
+      92,
+      355,
+      304,
+      376
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This material is designed for use by tradespeople with expertise in the installation of this product. Persons without appropriate expertise should seek assistance before attempting installation. ",
+    "bbox": [
+      92,
+      381,
+      484,
+      439
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "While care was taken in the preparation of this material, Bosch Security Systems Pty Ltd and its representatives are not responsible to any person or entity for any loss or damage directly or indirectly caused by information in, or any omission from, this material. ",
+    "bbox": [
+      92,
+      444,
+      475,
+      529
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems Pty Ltd reserves the right to make changes to features and specifications of its products at any time without prior notification. ",
+    "bbox": [
+      92,
+      534,
+      472,
+      578
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The grant of a telepermit for a device in no way indicates Telecom acceptance of responsibility for the correct operation of that device under all operating conditions. ",
+    "bbox": [
+      505,
+      114,
+      899,
+      169
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This equipment will not be used in any manner that could constitute a nuisance to other telecom customers. ",
+    "bbox": [
+      505,
+      174,
+      887,
+      217
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Immediately disconnect this equipment should it become physically damaged and arrange for its disposal or repair. ",
+    "bbox": [
+      505,
+      223,
+      863,
+      267
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The transmit level from this device is set at a fixed level and because of this, there may be circumstances where the performance is less than optimal. Before reporting such occurrences as faults, please check the line with a standard telepermitted telephone and do not report a fault if the telephone performance is satisfactory. ",
+    "bbox": [
+      507,
+      270,
+      897,
+      371
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This device is equipped with pulse dialling while the Telecom standard is DTMF tone dialling. There is no guarantee that Telecom lines will always continue to support pulse dialling. ",
+    "bbox": [
+      505,
+      376,
+      897,
+      434
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Use of dialling, when this equipment is connected to the same line as other equipment, may give rise to bell noise and also cause a false answer condition. Should such problems occur, the user should not contact the Telecom Faults Service. ",
+    "bbox": [
+      505,
+      439,
+      890,
+      510
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This equipment is set up to carry out test calls at predetermined times. Such test calls interrupt any other calls that may be set up on the line at the same time. The timing set for such test calls should be discussed with the installer. ",
+    "bbox": [
+      505,
+      516,
+      892,
+      586
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The timing set for test calls from this equipment may be subject to drift. If this proves to be inconvenient and your calls are interrupted, then the problem of timing should be discussed with the equipment installer. The matter should not be reported as a fault to Telecom Faults Service. ",
+    "bbox": [
+      505,
+      592,
+      895,
+      678
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "This equipment shall not be set up to make automatic calls to the Telecom 111 Emergency Service. This equipment should not be used under any circumstances that may constitute a nuisance to other Telecom customers. ",
+    "bbox": [
+      507,
+      684,
+      899,
+      755
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the event of any problem with this device, the systems battery, AC mains supply, and telephone line should be disconnected. The user is to arrange with the supplier of the device to make the necessary repairs. ",
+    "bbox": [
+      507,
+      760,
+      899,
+      831
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Should the matter be reported to Telecom as a wiring fault and the fault proven to be due to this product, a call-out charge will be incurred. ",
+    "bbox": [
+      505,
+      833,
+      899,
+      875
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Notices EN | 2 ",
+    "bbox": [
+      72,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      63,
+      946,
+      440,
+      960
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Contents ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      86,
+      210,
+      108
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ...... .... 5   \n2. Specifications .. .. 5   \n3. Features ......... ....... 5   \n4. Codepad Indicators... .... 6   \n4.1 Zone Indicators........ ....... 6   \n4.2 AWAY Indicator .............................................. 6   \n4.3 STAY Indicator ...... ...... 6   \n4.4 System Disarmed.............................................. 6   \n4.5 MAINS Indicator ............................................. 7   \n4.6 Off Indicator/Zone Sealed .............................. 7   \n4.7 On Indicator/Zone In Alarm .......................... 7   \n4.8 FAULT Indicator ............................................. 7   \n4.9 Audible Indications .......................................... 7   \n5. Arming the System.... ... 7   \n5.1 Arming in AWAY Mode.......... ....................... 8   \n5.2 Arming in STAY Mode 1... ... 8   \n5.3 Arming in STAY Mode 2... .... 8   \n5.4 Programming STAY Mode 2 Zones .............. 9   \n6. Disarming the System ...................................... 9   \n7. User Codes................... ..... 9   \n7.1 Adding User Codes..... ....... 9   \n7.2 Adding Radio Remote User Codes................ 9   \n7.3 Deleting User Codes/Radio User Codes....... 9   \n8. Radio Transmitter Operations ...................... 10   \n9. Alarms .... ..... 10   \n9.1 Duress Alarm .................................................. 10   \n9.2 Panic Alarm ..... ........ 10   \n9.3 Fire Alarm .... ..... 11   \n9.4 Medical Alarm......... ........ 11   \n9.5 Tamper Alarm (Access Denied) ................... 11   \n10. Isolating Zones...... ........ 11   \n10.1 Standard Isolating ..... ..... 11   \n10.2 Code to Isolate .............. ................................. 11   \n11. Setting the Date and Time ............................ 11   \n12. Fault Analysis Mode ...................................... 12   \n12.1 AC Fail .......... ..................... ....... 12   \n12.2 System Faults .................................................. 12   \n12.3 Fault Descriptions............................ ........ 12   \n13. Telco Arm/Disarm Sequence (Call Forward   \nOn/Off) ........................................................... 13   \n13.1 Telco Arm Sequence............................ ...... 13   \n13.2 Telco Disarm Sequence ................................. 13   \n14. Turning Outputs On/Off..... ................... 14   \n15. Reset Latching Outputs .... .... 14   \n16. Codepad ID/Buzzer Tone Change ....... ..... 14   \n17. Testing ... .. 14   \n17.1 Horn Speaker Test. ... 14   \n17.2 Bell Test ... ... 14   \n17.3 Strobe Test .... ... 14   \n17.4 Walk Test Mode... ....... 14   \n17.5 Test Report .... ..... 14   \n18. Event Memory Recall.. .. 15   \n19. Day Alarm .. .. 15   \n20. Remote Arming By Telephone ..... .... 15   \n21. Domestic Dialling . .... 16   \n21.1 Acknowledging Domestic Calls.. . 16   \n21.2 Programming Domestic Telephone   \nNumbers.... ..... 16   \n21.3 Disable Domestic Dialling .   \n22. Partitioning ...... ...... 17   \n22.1 Master Partitioned Codepad Indicators....... 17   \n22.1.1 Zone Indicators ..... ... 17   \n22.1.2 Area On/Off Indicators.. ... 17   \n22.2.1 Area Display Indicators... .... 17   \n22.2.2 Status Indicators ... . 17   \n22.3 Operating From A Master Partitioned   \nCodepad....... ...... 17   \n22.4 Operating From Area Addressable   \nCodepads ... .. 17   \n23. Basic Pager Reporting . . 18   \n24. Glossary of Terms ... ... 20   \n25. Installation Notes ......... .. 22 ",
+    "bbox": [
+      94,
+      96,
+      494,
+      920
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      505,
+      65,
+      907,
+      615
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Figures ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      615,
+      579,
+      630
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Figure 1: CP5 Eight Zone LED Codepad.. 6   \nFigure 2: CP5 Eight Zone LCD Codepad . . 6   \nFigure 3: RE012 – 2 Channel Keyfob Transmitter .. . 10   \nFigure 4: RE013 – 4 Channel Keyfob Transmitter . . 10   \nFigure 5: CP5 LED Codepad Showing Audible Alarm Buttons . . 10   \nFigure 6: Master Partitioned Codepad. . 17   \nFigure 7: Basic Pager Display . 19 ",
+    "bbox": [
+      507,
+      634,
+      907,
+      793
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Contents EN | 3 ",
+    "bbox": [
+      75,
+      32,
+      936,
+      59
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Tables ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      76,
+      161,
+      91
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Table 1: Specifications ....   \nTable 2: Zone Indicator.. . 6   \nTable 3: AWAY Indicator.. . 6   \nTable 4: STAY Indicator .. . 6   \nTable 5: MAINS Indicator .. 7   \nTable 6: FAULT Indicator . 7   \nTable 7: Audible Indicators.. 7   \nTable 8: Arming Methods .. . 7   \nTable 9: Keyfob Audible/Visual Indications ......10   \nTable 10: Fault Condition Indicators . .12   \nTable 11: Telco Arm/Disarm Dialling Digits........ 13   \nTable 12: Domestic Dialling Telephone Digits .....16   \nTable 13: Zone Status Display Descriptions..........18   \nTable 14: System Status .. .18   \nTable 15: Glossary of Terms .. ..20 ",
+    "bbox": [
+      95,
+      95,
+      495,
+      347
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Contents EN | 4 ",
+    "bbox": [
+      77,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      74,
+      309,
+      95
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3. Features ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      74,
+      680,
+      95
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Congratulations on selecting the Solution 880 Model CC408 Control Panel to protect you and your property. To obtain the most from your unit, take the time to read through this manual and familiarise yourself with the operating features of this system. In all aspects of planning, engineering, styling, operation, convenience, and adaptability, we have sought to anticipate your every possible requirement. ",
+    "bbox": [
+      95,
+      99,
+      485,
+      216
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Programming simplicity and speed were some of the major considerations and we believe that our objectives in this area were more than satisfied. ",
+    "bbox": [
+      95,
+      220,
+      482,
+      263
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This guide explains all aspects of operating the control panel. All system parameters and options are detailed. Suitability is left up to the individual. Every system can be tailored to meet all requirements quickly and easily. ",
+    "bbox": [
+      97,
+      268,
+      484,
+      340
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Solution 880 Control Panel uses the latest in microprocessor technology to provide you with more useful features and superior reliability and performance. The main features of the control panel are listed below: ",
+    "bbox": [
+      509,
+      99,
+      899,
+      171
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2. Specifications ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      356,
+      334,
+      377
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/414e058a44bdd6d4c046bfb48aeef0dd05821d832f307091cb88a020a06ba752.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Table 1: Specifications</td></tr><tr><td>Temperature Range</td><td>0°C to +45℃ (+32F to +113F)</td></tr><tr><td>Humidity Power Source</td><td>10% to 95%</td></tr><tr><td></td><td>TF008 Plug Pack - 240 VAC/18 VAC @1.3 A</td></tr><tr><td>Stand-By Current</td><td>65 mA</td></tr><tr><td>Current Draw In Alarm Condition</td><td>115mA</td></tr><tr><td>Current Draw In Alarm Condition</td><td>105 mA</td></tr><tr><td>with Codepad Back-Up Battery</td><td>6 Ah/12 VDC Rechargeable sealed lead acid battery</td></tr><tr><td>Dimensions (case, packed in carton) Weight</td><td>30.6 cm x 26.2 cm x 8.4 cm (12.05 in.x 10.31 in.x 3.31 in.) 2.5 Kg (5.51 Ib.)</td></tr><tr><td>Supplier Code New Zealand</td><td>N771</td></tr><tr><td>Telepermit</td><td>PTC 211/98/083</td></tr><tr><td>Malaysia Approval Number</td><td>Pending</td></tr></table>",
+    "bbox": [
+      97,
+      380,
+      487,
+      726
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The Austel permit issued for this product is subject to the following conditions: The Solution 880 Model CC408 Control Panel can only be powered by a Bosch Security Systems TF008 Plug Pack (Approval Number Q92128). ",
+    "bbox": [
+      169,
+      738,
+      468,
+      825
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Eight programmable User Codes   \nx STAY Mode and AWAY Mode operation   \nx Six programmable burglary zones   \nx Two programmable 24-hour zones   \nx Siren and/or dialler lockout per zone Delayed reporting   \nx Built-in telephone fail monitor   \nx Day alarm   \nx Remote arming   \nx Answering machine bypass   \nx Event memory recall   \nx Upload/download programmable   \nAuxiliary output (Output 2) Relay output Eight radio remote user codes   \nEntry and exit warning beeper   \nx EDMSAT – satellite siren compatible Separate fire alarm sound   \nx Dual reporting   \nx Sensor watch   \nx Dynamic battery testing   \nx Automatic arming/automatic disarming   \nx AC fail and system fault indicators   \nx Walk Test Mode   \nx Monitored siren output (Output 1)   \nx\u0003 Strobe output   \n\u0003 Telco arm/disarm sequence (call forwarding) ",
+    "bbox": [
+      507,
+      175,
+      873,
+      722
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/8f2c8ce2ef6547c5f7cdfb86a8cfebcb67e17f454c756f06fe24af92acd4512b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      99,
+      838,
+      146,
+      894
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Test the sirens, strobe, and zones at weekly intervals. See Section 17 Testing for further information. ",
+    "bbox": [
+      169,
+      846,
+      465,
+      889
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 1. Introduction EN | 5 ",
+    "bbox": [
+      78,
+      32,
+      941,
+      59
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      99,
+      735,
+      144,
+      771
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4. Codepad Indicators ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      73,
+      401,
+      95
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/3181668c9f14a84425861086ad916f789c31b14475997113c2c0f11edb3c05f2.jpg",
+    "image_caption": [
+      "Figure 1: CP5 Eight Zone LED Codepad "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      146,
+      131,
+      433,
+      276
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/0b2beb7ca99e6556dbada2fe5f2a54cb1af915e1bc5bd7c20050ac5763569793.jpg",
+    "image_caption": [
+      "Figure 2: CP5 Eight Zone LCD Codepad "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      149,
+      333,
+      435,
+      473
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The codepad is the communications interface between you and your alarm system. Use the codepad to issue commands. The codepad offers both visual and audible indications that guide you through the general operation. ",
+    "bbox": [
+      95,
+      478,
+      462,
+      552
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The codepad incorporates numerous indicators. There are zone indicators that show the condition of each zone and four other indicators for general status. The following pages outline a list of situations and the relevant indicators that are seen. ",
+    "bbox": [
+      95,
+      555,
+      482,
+      628
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.1 Zone Indicators ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      633,
+      302,
+      649
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "1 2 3 …. The zone indicators (1 to 8) display the status of the zones. Table 2 lists the various situations that the indicators display (such as, Zone Sealed/Zone Unsealed). ",
+    "bbox": [
+      115,
+      654,
+      475,
+      726
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/ba92ef485c9698354b4b32e7bf91d795549296dde5c1816388a595027c494438.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 2:</td><td> Zone Indicator</td></tr><tr><td></td><td></td></tr><tr><td> Zone Indicator</td><td>Definition</td></tr><tr><td>On Off Flashing Fast</td><td>Zone is unsealed. Zone is sealed. Zone is in alarm condition.</td></tr><tr><td>(0.25 seconds on/ 0.25 seconds off)</td><td></td></tr><tr><td>Flashing Slow</td><td>Zone is manually isolated or</td></tr><tr><td>(1 second on/ 1 second off)</td><td>selected to be isolated.</td></tr></table>",
+    "bbox": [
+      99,
+      732,
+      487,
+      903
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.2 AWAY Indicator ",
+    "text_level": 1,
+    "bbox": [
+      507,
+      72,
+      712,
+      89
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The AWAY indicator displays the system is armed in AWAY Mode. The AWAY indicator also flashes in unison with the STAY indicator when programming various options throughout the Operators Guide. ",
+    "bbox": [
+      600,
+      93,
+      885,
+      180
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "See Section 5.1 Arming in AWAY Mode for information on the different methods of arming the system in AWAY Mode. ",
+    "bbox": [
+      600,
+      185,
+      870,
+      243
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/ab1f431c6d7ff8ee5e4b631df313be9fd7dabbe75d061c261bd0d1551b44d8b9.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 3:</td><td>AWAY Indicator</td></tr><tr><td>AWAY Indicator</td><td> Definition</td></tr><tr><td>On</td><td>System is armed in AWAY Mode.</td></tr><tr><td>Off</td><td>System is not armed in AWAY Mode.</td></tr></table>",
+    "bbox": [
+      510,
+      267,
+      900,
+      374
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.3 STAY Indicator",
+    "text_level": 1,
+    "bbox": [
+      507,
+      376,
+      707,
+      391
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The STAY indicator displays the system is armed in STAY Mode 1 or STAY Mode 2. The STAY indicator also flashes in unison with the AWAY indicator when programming various options throughout the Operators Guide. ",
+    "bbox": [
+      583,
+      396,
+      889,
+      483
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "See Section 5.2 Arming in STAY Mode 1 for different methods of arming in STAY Mode 1. See Section 5.3 Arming in STAY Mode 2 to arm in STAY Mode 2. ",
+    "bbox": [
+      584,
+      488,
+      885,
+      546
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/d9a0d0878a910821ffc13dceaf1b0f9c1c28b5a77c0e09be41ab54d370e38b78.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 4:</td><td> STAY Indicator</td></tr><tr><td>STAY Indicator</td><td>Definition</td></tr><tr><td>On</td><td>System is armed in STAY Mode 1 or STAY Mode 2.</td></tr><tr><td>Off</td><td>System is not armed in STAY Mode 1 or STAY Mode 2.</td></tr><tr><td>Flashing twice a second</td><td>Zone Isolating Mode or setting STAY Mode 2 zones.</td></tr><tr><td>Flashing once every 3 seconds</td><td>Day alarm status - day alarm turned on.</td></tr></table>",
+    "bbox": [
+      510,
+      559,
+      899,
+      758
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.4 System Disarmed ",
+    "text_level": 1,
+    "bbox": [
+      507,
+      762,
+      734,
+      779
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This indicator displays with the indicator when the system is disarmed. ",
+    "bbox": [
+      583,
+      783,
+      870,
+      813
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/acf1cb1d053c296b0bba7d0cc974acb9fd65aa11092858cb1e039d921e6671a2.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      505,
+      785,
+      569,
+      836
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 4. Codepad Indicators EN | 6 ",
+    "bbox": [
+      73,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      395,
+      559,
+      432
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      92,
+      584,
+      130
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4.5 MAINS Indicator ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      76,
+      309,
+      91
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The MAINS indicator displays the systems AC mains supply is normal or failed. ",
+    "bbox": [
+      171,
+      97,
+      457,
+      138
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/b00efe4f0ef5959036bab1d6754b56ec08755048dbb6153283622ae748cb2a74.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 5:</td><td>MAINS Indicator</td></tr><tr><td></td><td></td></tr><tr><td> MAINS IndicatorDefinition</td><td></td></tr><tr><td>On</td><td>AC mains power normal.</td></tr><tr><td>Flashing</td><td>AC mains supply failed.</td></tr></table>",
+    "bbox": [
+      97,
+      141,
+      487,
+      235
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.6 Off Indicator/Zone Sealed ",
+    "text_level": 1,
+    "bbox": [
+      94,
+      238,
+      400,
+      254
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "COFF ",
+    "bbox": [
+      109,
+      260,
+      164,
+      280
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The indicator displays when the system is in the disarmed state and flashes when a zone becomes unsealed during the disarmed state. The indicator stops flashing when all zones are sealed. ",
+    "bbox": [
+      186,
+      258,
+      473,
+      344
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.7 On Indicator/Zone In Alarm ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      350,
+      410,
+      366
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The indicator displays when the system is armed in AWAY Mode and flashes when an alarm occurs. The indicator resets once a valid user code is entered. ",
+    "bbox": [
+      186,
+      371,
+      468,
+      444
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.8 FAULT Indicator ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      450,
+      305,
+      465
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The FAULT indicator displays the system detected a system fault. See Section 12. Fault Analysis Mode for additional information on system faults. ",
+    "bbox": [
+      186,
+      471,
+      477,
+      528
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Every time a new system fault is detected (such as, FAULT indicator flashing), the codepad beeps once every minute. Pressing the [#] button once cancels the once a minute beep and acknowledges the fault (such as, FAULT indicator on steady). ",
+    "bbox": [
+      188,
+      534,
+      462,
+      634
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/f24aaca8032d5c2d25f76528b30ac6f1cb6e292095032409e4b24b370d084cc4.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 6:</td><td>FAULT Indicator</td></tr><tr><td>FAULT Indicator</td><td>Definition</td></tr><tr><td>On</td><td>There is a system fault that must be rectified.</td></tr><tr><td>Off</td><td>The system is normal, there are no faults.</td></tr><tr><td>Flashing</td><td>There is a system fault that must be acknowledged.</td></tr></table>",
+    "bbox": [
+      99,
+      636,
+      489,
+      782
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.9 Audible Indications ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      786,
+      336,
+      801
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Table 7 defines the audible indicators generated by the codepad buzzer. ",
+    "bbox": [
+      136,
+      807,
+      405,
+      837
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/02cbc02c7135f206236a4c6789d101f2603d546abf0570c0fe1b8991a2dfeb50.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 7:</td><td>Audible Indicators</td></tr><tr><td>Audible Indicator One short beep</td><td> Definition</td></tr><tr><td></td><td>A button was pressed on the codepad,or end of exit time when armed in STAY Mode 1 or STAY Mode 2.</td></tr><tr><td>Two short beeps Three short beeps</td><td>The system accepted your code. The requested function was executed.</td></tr><tr><td>One long beep</td><td>Indicates the end of exit time when armed in AWAYMode,or the requested operation was denied or</td></tr><tr><td>One beep every second</td><td>aborted. Walk Test Mode is currently active or warning before automatic arming</td></tr><tr><td>One short beep every minute</td><td>takes place. There is a system fault waiting to beacknowledged.</td></tr></table>",
+    "bbox": [
+      510,
+      91,
+      900,
+      375
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "5. Arming the System ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      389,
+      806,
+      409
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "There are several ways to arm the system depending on whether you are: ",
+    "bbox": [
+      509,
+      415,
+      894,
+      444
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Leaving the premises and require all active zones to be in a ready state for an intruder. Remaining in the premises and only require part of the system to be in a ready state for an intruder. ",
+    "bbox": [
+      507,
+      448,
+      897,
+      527
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "If a zone is not sealed at the end of exit time, the zone is automatically isolated and constantly displays on the remote codepad. The zone becomes an active part of the system when the zone reseals. For example, if a window is left open after exit time expires, the window is not an active part of the system until the window is closed. Opening the window after exit time expired causes an alarm condition. ",
+    "bbox": [
+      507,
+      532,
+      895,
+      661
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Table 8 defines the different methods for arming the system. ",
+    "bbox": [
+      509,
+      666,
+      887,
+      694
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/2cc7f145f7065ac59d66087c4ed5369e58b7c770db36c77f54a56d709775c7c5.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 8:</td><td>Arming Methods</td></tr><tr><td>AWAY Mode</td><td>Arms the entire system. See Section 5.1 Arming in AWAYMode.</td></tr><tr><td>STAY Mode 1</td><td>Arms all zones except those programmed to be automatically isolated by the installer.See Section 5.2 Arming in</td></tr><tr><td>STAY Mode 2</td><td>STAY Mode 1. Arms all zones except those programmed to be automatically isolated by the Master Code holder. See Section 5.3 Arming in STAY Mode 2.</td></tr></table>",
+    "bbox": [
+      500,
+      698,
+      910,
+      880
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 5. Arming the System EN | 7 ",
+    "bbox": [
+      70,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      105,
+      95,
+      169,
+      128
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "ON ",
+    "bbox": [
+      99,
+      375,
+      152,
+      395
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      95,
+      472,
+      147,
+      511
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Forced Arming ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      72,
+      213,
+      86
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The feature of arming the system when a zone is not sealed is known as forced arming. If the system does not arm and a long beep is heard, forced arming is not permitted. If this is the case, ensure that all zones are sealed or manually isolated before arming the system. ",
+    "bbox": [
+      95,
+      91,
+      484,
+      178
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5.1 Arming in AWAY Mode ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      182,
+      364,
+      199
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "When you leave your premises and require all zones to be in a ready state to detect intrusion, you arm the system in AWAY Mode. When returning to your premises, disarm your system (see Section 6. Disarming the System) so you do not sound a false alarm. ",
+    "bbox": [
+      95,
+      205,
+      487,
+      276
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "There are two different methods for arming the system in AWAY Mode. Method one is standard and always operates. Method two is optional and may be disabled by your installer if you do not want to use single button arming. ",
+    "bbox": [
+      97,
+      281,
+      487,
+      353
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Arming in AWAY Mode, Method 1 ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      358,
+      349,
+      372
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Enter your user code followed by the [#] key (for example, [2 5 8 0 #]). Two beeps sound and the AWAY indicator displays. Exit time starts counting. ",
+    "bbox": [
+      95,
+      377,
+      473,
+      421
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Arming in AWAY Mode, Method 2 ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      426,
+      351,
+      440
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [#] key until two beeps sound. The AWAY indicator displays and exit time starts counting. ",
+    "bbox": [
+      95,
+      444,
+      462,
+      488
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5.2 Arming in STAY Mode 1 ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      494,
+      374,
+      509
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "STAY Mode 1 is only used when the perimeter and unused areas of the premises must be armed to detect if an intruder is entering the premises. At the same time it allows you to move freely within an area that is automatically isolated. ",
+    "bbox": [
+      95,
+      515,
+      485,
+      585
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Only your security company can program zones automatically isolated in STAY Mode 1. ",
+    "bbox": [
+      156,
+      596,
+      453,
+      637
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "There are two different methods for arming the system in STAY Mode 1. Method one is standard and always operates. Method two is optional and may be disabled by your installer if you do not want to use single button arming. ",
+    "bbox": [
+      95,
+      648,
+      480,
+      719
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Entry Guard Timer for STAY Mode 1",
+    "text_level": 1,
+    "bbox": [
+      99,
+      724,
+      369,
+      739
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "When arming the system in STAY Mode 1, an optional entry timer called Entry Guard Timer For STAY Mode 1 is available. Use this entry timer to delay the sirens if a zone is not automatically isolated and triggers an alarm condition. Entry Guard Timer For STAY Mode 1 is the delay time used for all zones except 24-hour zones when the system is armed in STAY Mode 1 or STAY Mode 2. ",
+    "bbox": [
+      95,
+      744,
+      485,
+      858
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "If the Entry Guard Timer For STAY Mode 1 is programmed and a zone not automatically isolated is triggered, the codepad beeps twice per second until the entry timer expires or the system disarms. If the alarm condition is not reset by entering your user code followed by the [#] key (for example, [2 5 8 0 #]) before the entry timer expires, the sirens activate into alarm. Only your installer can program this feature. ",
+    "bbox": [
+      509,
+      72,
+      895,
+      200
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Arming in STAY Mode 1, Method 1 ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      206,
+      771,
+      220
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Enter your user code followed by the [\\*] key (for example, $\\left[ 2 5 8 0 ^ { * } \\right]$ ). Two beeps sound and the STAY indicator displays. Exit time starts counting. ",
+    "bbox": [
+      509,
+      225,
+      875,
+      269
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Any zones programmed to be automatically isolated in STAY Mode 1 flash until exit time expires. At the end of exit time, all zones selected to be automatically isolated turn off and the codepad gives one short beep. ",
+    "bbox": [
+      509,
+      274,
+      894,
+      345
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Arming in STAY Mode 1, Method 2 ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      350,
+      773,
+      365
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [\\*] button until two beeps are heard. The STAY indicator displays and exit time starts counting. ",
+    "bbox": [
+      507,
+      369,
+      889,
+      413
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Any zones programmed to be automatically isolated in STAY Mode 1 flash until exit time expires. At the end of exit time, the zone indicators turn off and the codepad emits one short beep. ",
+    "bbox": [
+      509,
+      418,
+      892,
+      475
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5.3 Arming in STAY Mode 2 ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      480,
+      789,
+      497
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "STAY Mode 2 is only used when the perimeter and unused areas of the premises must be armed to detect an intruder from entering the premises while you move freely within an area that is automatically isolated. Any Master Code user can program zones to be automatically isolated in STAY Mode 2. ",
+    "bbox": [
+      509,
+      502,
+      889,
+      587
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Entry Guard Timer For STAY Mode 2",
+    "text_level": 1,
+    "bbox": [
+      510,
+      593,
+      788,
+      608
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "When arming the system in STAY Mode 2, an optional entry timer called Entry Guard Timer For STAY Mode 2 is available. Use this entry timer to delay the sirens if a zone is not automatically isolated and triggered into alarm condition. Entry Guard Timer for STAY Mode 2 is the delay time used for all zones except 24-hour zones when the system is armed in STAY Mode 1 or STAY Mode 2. ",
+    "bbox": [
+      509,
+      611,
+      895,
+      726
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "If the Entry Guard Timer For STAY Mode 2 is programmed and a zone not automatically isolated triggers, the codepad beeps twice a second until the entry timer expires or the system disarms. If the alarm condition is not reset by entering your user code followed by the [#] button (for example, $\\left[ 2 \\ 5 \\ 8 \\ 0 \\ \\# \\right] ,$ ) before the entry timer expires, the sirens activate into alarm. Only your installer can program this option. ",
+    "bbox": [
+      509,
+      731,
+      892,
+      861
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 5. Arming the System EN | 8 ",
+    "bbox": [
+      75,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      99,
+      589,
+      144,
+      624
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Arming in STAY Mode 2 ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      74,
+      282,
+      89
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [0] button until two beeps sound. The STAY indicator lights and exit time starts counting. ",
+    "bbox": [
+      95,
+      93,
+      453,
+      137
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Any zones programmed to be automatically isolated in STAY Mode 2 flash until exit time expires. At the end of exit time, all zones selected to be automatically isolated extinguish and the codepad provides one short beep. ",
+    "bbox": [
+      95,
+      142,
+      480,
+      214
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "5.4 Programming STAY Mode 2 Zones",
+    "text_level": 1,
+    "bbox": [
+      95,
+      219,
+      477,
+      236
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "You can only program zones to be automatically isolated in STAY Mode 2 if you have a Master Code. ",
+    "bbox": [
+      97,
+      241,
+      487,
+      269
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How to Program STAY Mode 2 Zones ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      274,
+      383,
+      288
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [4] and [#] keys (for example, $[ 2 ~ 5 ~ 8 ~ 0 ~ 4 ~ \\# ] \\rangle$ ). Three beeps sound and the STAY indicator flashes.   \n2. Enter the zone number to be automatically isolated, followed by the $[ { ^ * } ]$ key (for example, $[ 1 \\ ^ { * } ] = \\mathrm { Z o n e \\ 1 }$ , $[ 2 \\ ^ { * } ] = \\mathrm { Z o n e \\ 2 }$ ). The selected zone flashes. If you make a mistake, enter the same zone number followed by the [#] key to clear the incorrect zone. To select additional zones to be automatically isolated in STAY Mode 2, repeat Step 2 as many times as required.   \n3. To exit this mode, press the [#] key when you have selected all zones to be automatically isolated in STAY Mode 2. Two beeps sound and the STAY and AWAY indicators turn dark. ",
+    "bbox": [
+      95,
+      289,
+      485,
+      538
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "6. Disarming the System ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      554,
+      431,
+      574
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "When you enter the premises after the system is armed in AWAY Mode, or if you have armed the system in STAY Mode 1 or STAY Mode 2, you must disarm the system before entry time expires to disable detection devices that activate an alarm. Only your installer can program the entry time. ",
+    "bbox": [
+      97,
+      580,
+      489,
+      666
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "If there was an alarm condition prior to disarming the system, a flashing zone indicator displays indicating a previous alarm on that zone. ",
+    "bbox": [
+      95,
+      671,
+      463,
+      713
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How to Disarm the System ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      719,
+      304,
+      733
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Enter your user code followed by the [#] key (for example, [2 5 8 0 #]). Two beeps sound. ",
+    "bbox": [
+      97,
+      737,
+      457,
+      767
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7. User Codes ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      783,
+      304,
+      804
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7.1 Adding User Codes ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      811,
+      339,
+      827
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Only the Master Code holder can add or change other system user codes, including the Master Code. Up to eight user codes can be programmed to operate the system. ",
+    "bbox": [
+      95,
+      831,
+      478,
+      889
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How to Add a User Code ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      72,
+      700,
+      86
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by [1] and [#] (for example, [2 5 8 0 1 #]). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Enter the user code number (1 to 8) followed by the [#] key (for example, $[ 2 \\# ] = \\operatorname { U s e r } 2$ , $[ 8 \\# ] =$ User 8). Two beeps sound and the selected user number displays on the codepad indicators.   \n3. Enter the digits required for the new code followed by the [#] key (for example, for user code 5768, enter $\\left[ 5 7 6 8 \\# \\right]$ ). Two beeps sound and the STAY and AWAY indicators turn dark. To add or change other user codes, repeat this procedure as many times as required. ",
+    "bbox": [
+      507,
+      89,
+      894,
+      292
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7.2 Adding Radio Remote User Codes ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      298,
+      885,
+      313
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Only the Master Code holder can add or change other system user codes, including the Master Code. Up to eight radio user codes (User Codes 9 to 16) can be programmed to operate the system. ",
+    "bbox": [
+      507,
+      319,
+      890,
+      376
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How to Add a Radio Remote User Code ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      382,
+      813,
+      395
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [1] and [#] keys (for example, [2 5 8 0 1 #]). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Enter the radio remote user code number (9 to 16), followed by the [#] key (for example, $[ 9 \\# ] =$ User 9, $[ 1 6 \\# ] = \\mathrm { U s e r } 1 6$ ). Two beeps sound and the selected user number displays on the codepad indicators.   \n3. Press any button on the keyfob so the system learns the ID number. Two beeps sound and the STAY and AWAY indicators extinguish. To add or change other radio remote user codes, repeat this procedure as many times as required. ",
+    "bbox": [
+      507,
+      399,
+      900,
+      617
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "7.3 Deleting User Codes/Radio User Codes ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      621,
+      872,
+      653
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Only the Master Code holder can delete other system user codes. ",
+    "bbox": [
+      509,
+      659,
+      850,
+      687
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "How to Delete a User Code ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      693,
+      719,
+      706
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [1] and $[ \\# ]$ keys (for example, $[ 2 \\ 5 \\ 8 \\ 0 \\ 1 \\ \\# ] ,$ ). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Enter the user code number (User Code 1 to 8, Radio User Code 9 to 16), followed by the [#] key (for example, $[ 2 \\# ] = \\operatorname { U s e r } 2$ , $[ 1 6 \\# ] = \\mathrm { U s e r }$ 16). Two beeps sound and the selected user number displays on the codepad indicators.   \n3. Press the [\\*] key to delete the selected user code. Two beeps sound and the STAY and AWAY indicators turn dark. To delete other user codes, repeat this procedure as many times as required. ",
+    "bbox": [
+      509,
+      710,
+      895,
+      913
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 6. Disarming the System EN | 9 ",
+    "bbox": [
+      73,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8. Radio Transmitter Operations ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      86,
+      378,
+      130
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/5d1861a5dcebc81ac526bae8045393ca942ec3d7e51cb8868168b4ea3c8cf66b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      97,
+      134,
+      487,
+      352
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1 – Button 1: Arm or disarm in AWAY Mode 2 – Button 2: Arm or disarm STAY Mode 3 – Buttons 1 and 2: Press both buttons at same time to activate Panic alarm. ",
+    "bbox": [
+      105,
+      353,
+      472,
+      416
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/ae6d38785e038e91b77b15ad8281e5e5d66703b0bcda4ec17104026624022e0d.jpg",
+    "image_caption": [
+      "Figure 4: RE013/E – 4 Channel Keyfob Transmitter "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      100,
+      471,
+      477,
+      668
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "1 – Button 1: Arm or disarm in AWAY Mode   \n2 – Button 2: Arm or disarm in STAY Mode   \n3 – Buttons 1 and 2: Press both buttons at same time to activate Panic alarm.   \n4 – Buttons 3 and 4: Your security company can program these buttons for optional operation, such as operating a garage door. ",
+    "bbox": [
+      105,
+      673,
+      473,
+      781
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Audible/Visual Indications ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      783,
+      300,
+      798
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "When using hand held keyfob transmitters to operate the system, your security company can program the keyfobs to sound the horn speaker or operate the blue strobe light. These indications allow you to operate the system from outside the premises with confidence. ",
+    "bbox": [
+      95,
+      802,
+      487,
+      888
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/68fea970aaf45d1ef6bd64690f65d45dd772381761bca9129e636755f70a8b24.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 9:</td><td>Keyfob Audible/Visual Indications</td></tr><tr><td> Indication</td><td>Definition</td></tr><tr><td>One beep Two beeps Two-tone beep</td><td>System disarmed. System armed in AWAY Mode. System armed in STAY Mode.</td></tr></table>",
+    "bbox": [
+      510,
+      71,
+      899,
+      224
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9. Alarms ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      237,
+      658,
+      257
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9.1 Duress Alarm ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      264,
+      695,
+      281
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "A codepad duress alarm is used as a silent hold-up alarm. This only occurs when the number 9 is added to the end of any valid user code used to disarm the system (for example, [2 5 8 0 9 #]). A duress alarm is only useful if your system reports back to a monitoring station or pocket pager, because domestic reporting (such as a mobile phone) cannot decipher which type of alarm occurred. ",
+    "bbox": [
+      509,
+      286,
+      899,
+      401
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/d267bf77e706a27577c713e80a1f156fa463fdede3a1493d3986512c180b5d74.jpg",
+    "image_caption": [
+      "Figure 5: CP5 LED Codepad Showing Audible Alarm Buttons "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      509,
+      445,
+      878,
+      730
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9.2 Panic Alarm ",
+    "text_level": 1,
+    "bbox": [
+      507,
+      733,
+      682,
+      750
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "An audible alarm activates when the [1] and [3] keys or the [\\*] and [#] keys are pressed simultaneously. Contact your installer to disable the ability to activate the codepad panic alarm or to silence the codepad panic alarm. ",
+    "bbox": [
+      509,
+      755,
+      899,
+      827
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 8. Radio Transmitter Operations ",
+    "bbox": [
+      67,
+      32,
+      882,
+      58
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "EN | 10 ",
+    "bbox": [
+      863,
+      39,
+      922,
+      53
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9.3 Fire Alarm ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      72,
+      255,
+      89
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The horn speaker emits a distinct fire sound when both the [4] and [6] keys are pressed simultaneously. Contact your installer to disable the ability to activate the codepad fire alarm or to silence the codepad fire alarm. ",
+    "bbox": [
+      95,
+      95,
+      487,
+      166
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "9.4 Medical Alarm ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      172,
+      289,
+      188
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "An audible alarm activates when both the [7] and [9] keys are pressed simultaneously. Contact your installer to disable the ability to activate the codepad medical alarm or to silence codepad medical alarm. ",
+    "bbox": [
+      95,
+      193,
+      482,
+      250
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "9.5 Tamper Alarm (Access Denied) ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      256,
+      445,
+      273
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The tamper alarm restricts the number of times an invalid user code can be used in an attempt to operate the system. When the number of incorrect code attempts equals the number programmed by your installer, the system activates an alarm condition. If reporting back to a security monitoring station, the system sends an Access Denied Report. ",
+    "bbox": [
+      95,
+      277,
+      482,
+      377
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "To shutdown and lockout a codepad for a period of time (0 to 150 seconds), ask your installer to program this feature. ",
+    "bbox": [
+      95,
+      382,
+      487,
+      425
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10. Isolating Zones ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      442,
+      349,
+      464
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Isolating zones allow you to manually disable one or more zones before arming the system. Once a zone is isolated, you can access that zone during the armed state without activating an alarm. ",
+    "bbox": [
+      95,
+      469,
+      489,
+      526
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "For example, you may need to isolate a zone because before arming the system a PIR detector might generate a false alarm, or you need to leave a pet inside a particular zone while away. ",
+    "bbox": [
+      95,
+      532,
+      487,
+      589
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Isolating zones is performed by one of two methods. Method two is optional and only allows those user codes programmed by your installer access to isolate zones. ",
+    "bbox": [
+      95,
+      593,
+      482,
+      649
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10.1 Standard Isolating ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      656,
+      327,
+      673
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Standard Isolating allows all operators to isolate zones without knowing a valid user code. ",
+    "bbox": [
+      95,
+      678,
+      447,
+      706
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "How to Isolate a Zone ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      712,
+      267,
+      725
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1. Press the [\\*] key twice to enter Isolating Mode. Three beeps sound and the STAY indicator flashes.   \n2. Enter the zone number (1 to 8), followed by the [\\*] key (for example, $[ 1 \\ ^ { * } ] = \\mathrm { Z o n e \\ 1 }$ , $[ 2 ^ { * } ] =$ Zone 2). Each zone to isolate has a corresponding zone indicator that flashes. If you selected an incorrect zone to isolate, enter the incorrect zone number again followed by the [\\*] key. Repeat Step 2 if you are isolating more than one zone, until all zones to isolate are selected. ",
+    "bbox": [
+      95,
+      729,
+      484,
+      902
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3. Press the [#] key after all selected zones are isolated. ",
+    "bbox": [
+      507,
+      72,
+      857,
+      100
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Two beeps sound and the system returns to the disarmed state. ",
+    "bbox": [
+      537,
+      102,
+      885,
+      129
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10.2 Code to Isolate ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      134,
+      710,
+      150
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Only those user codes with the Code to Isolate priority level can isolate zones. If any user code has this priority level, the standard isolating method (see Section 10.1 Standard Isolating) does not function. ",
+    "bbox": [
+      507,
+      155,
+      890,
+      212
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "How to Isolate a Zone ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      219,
+      678,
+      232
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1. Press the [\\*] key followed by your user code and the $[ { ^ * } ]$ key again to enter Isolating Mode (for example, $[ ^ { * } 2 5 8 0 ^ { * } ] )$ ). Three beeps sound and the STAY indicator flashes.   \n2. Enter the zone number (1 to 8), followed by the [\\*] key (for example, $[ 1 \\ ^ { * } ] = \\mathrm { Z o n e \\ 1 } ,$ $[ 2 ^ { * } ] =$ Zone 2). Each zone to isolate has a corresponding zone indicator that flashes. If you selected an incorrect zone to isolate, enter the incorrect zone number again followed by the [\\*] key. Repeat Step 2, if isolating more than one zone, until all zones to isolate are selected.   \n3. Press the [#] key after all selected zones are isolated. Two beeps sound and the system returns to the disarmed state. ",
+    "bbox": [
+      507,
+      236,
+      897,
+      482
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11. Setting the Date and Time ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      498,
+      892,
+      519
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Programming the date and time is only required when you need functions such as automatic test reports, automatic arming, and history events to operate correctly. ",
+    "bbox": [
+      509,
+      524,
+      862,
+      581
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "How to Program Date and Time ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      587,
+      752,
+      600
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your Master Code followed by the [6] and [#] keys (for example, $[ 2 \\ : 5 \\ : 8 \\ : 0 \\ : 6 \\ : \\# ] _ { . }$ ). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Enter the day, month, year, hour, and minute using the (DD, MM, YY, HH, MM) format (that is, $\\mathrm { D D } = \\mathrm { d a y }$ of the month, $\\mathbf { M M } =$ month of the year, $\\mathrm { Y Y = }$ current year, $\\mathrm { H H } =$ hour of the day, $\\mathbf { M M } =$ minute of the day). ",
+    "bbox": [
+      507,
+      603,
+      894,
+      733
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/c1cf9f80149529fa18bee654923ef8c3345079d5de8f6326a0e805021e5e4b04.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      509,
+      735,
+      557,
+      792
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "When programming the hour of the day, you must use a 24-hour format. ",
+    "bbox": [
+      579,
+      749,
+      870,
+      777
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3. Press the [#] key to exit and return to the disarmed state. ",
+    "bbox": [
+      507,
+      792,
+      842,
+      819
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Two beeps sound and the STAY and AWAY indicators go dark. If a long beep sounds, an error was made when entering the date and time. ",
+    "bbox": [
+      537,
+      820,
+      897,
+      863
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 10. Isolating Zones EN | 11 ",
+    "bbox": [
+      73,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "12. Fault Analysis Mode ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      86,
+      405,
+      108
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "If a fault occurs, the FAULT or MAINS indicators flash and the codepad beeps once every minute. ",
+    "bbox": [
+      97,
+      112,
+      463,
+      141
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12.1 AC Fail ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      147,
+      225,
+      163
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "If the AC mains supply fails, the MAINS indicator flashes until the AC mains supply is restored. Pressing the [#] key once acknowledges the fault and stops the codepad from beeping once every minute. ",
+    "bbox": [
+      95,
+      168,
+      484,
+      226
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12.2 System Faults ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      232,
+      290,
+      248
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "How to Determine the Type of System Fault ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      252,
+      431,
+      268
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To determine all system faults other than the AC mains supply, enter Fault Analysis Mode: ",
+    "bbox": [
+      95,
+      273,
+      455,
+      301
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "1. Hold down the [5] key until two beeps sound. The FAULT indicator lights steadily and the STAY and AWAY indicators flash in unison. Any zone indicators displayed indicate the type of fault that occurred. See Table 10 for the list of system faults that can occur.   \n2. To further determine the type of fault condition, hold down the key that corresponds to the zone indicator displayed.   \n3. To exit Fault Analysis Mode and return to the disarmed state, press the [#] key. The FAULT indicator remains displayed and the codepad stops beeping once per minute. ",
+    "bbox": [
+      95,
+      304,
+      478,
+      492
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12.3 Fault Descriptions ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      497,
+      326,
+      513
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/617069310afc7fbc7b6da6a2674bc63139d20f035042a64935e46ead6045b89e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Table 10: Fault Condition Indicators</td></tr><tr><td></td><td></td></tr><tr><td>Zone LED 1</td><td> FAULT Condition</td></tr><tr><td>2</td><td>Battery Fail</td></tr><tr><td></td><td>Date/Time</td></tr><tr><td>3</td><td>Sensor Watch</td></tr><tr><td>4</td><td>Horn Speaker Fail</td></tr><tr><td>5</td><td>Telephone Line Fail</td></tr><tr><td>6</td><td>E2 Fault</td></tr><tr><td>7 8</td><td>Fuse Fail Communication Fail</td></tr></table>",
+    "bbox": [
+      97,
+      515,
+      484,
+      700
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Battery Fail ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      703,
+      186,
+      717
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A battery fail fault registers when the system detects a low capacity back-up battery. The system automatically performs a Battery Test every 4 hours and every time the system is armed. ",
+    "bbox": [
+      95,
+      722,
+      477,
+      779
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Date and Time ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      785,
+      211,
+      798
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The date and time fault registers every time the system powers down. This type of fault does not cause the FAULT indicator to display on the codepad unless your installer has programmed the automatic arming time. See Section 11. Setting the Date and Time to program the date and time. ",
+    "bbox": [
+      97,
+      802,
+      485,
+      889
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Sensor Watch Fail ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      72,
+      650,
+      86
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A sensor watch fault registers because one or more detection devices failed to notice any movement during the disarmed state for the time period programmed by your installer. The fault clears when the zone in question detects movement and resets. ",
+    "bbox": [
+      509,
+      91,
+      892,
+      162
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "While in Fault Analysis Mode, hold down the [5] key until two beeps sound. The indicator lights that corresponds to the faulted zone. ",
+    "bbox": [
+      509,
+      167,
+      897,
+      211
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Horn Speaker Fail ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      216,
+      650,
+      230
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A horn speaker failure fault registers when the system detects the horn speaker is disconnected. This fault clears once the horn speaker is reconnected. Your installer needs to program the system for this feature to operate. ",
+    "bbox": [
+      509,
+      235,
+      897,
+      307
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Telephone Line Fail ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      312,
+      660,
+      326
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A telephone line failure fault registers when the system detects the telephone line is disconnected from the control panel. Your installer needs to program the system for this feature to operate. ",
+    "bbox": [
+      509,
+      331,
+      865,
+      388
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "E2 Fault ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      394,
+      574,
+      407
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "An E2 failure fault registers when the system detects an internal checksum error. Contact your installer as soon as this fault displays. ",
+    "bbox": [
+      509,
+      413,
+      894,
+      456
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Fuse Fail ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      460,
+      579,
+      475
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A fuse failure fault occurs when either of the two 1 A fuses are blown. Contact your installer as soon as this fault displays. ",
+    "bbox": [
+      509,
+      479,
+      897,
+      523
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Communication Fail ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      528,
+      663,
+      541
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "A communication fail fault registers when the control panel fails to communicate with the receiving party (for example, a monitoring company, mobile phone, pocket pager, and so on). The communication fault clears once the control panel successfully reports to the receiving party. ",
+    "bbox": [
+      509,
+      547,
+      897,
+      634
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 12. Fault Analysis Mode EN | 12 ",
+    "bbox": [
+      72,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "13. Telco Arm/Disarm Sequence (Call Forward On/Off) ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      455,
+      153
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Use this feature to program the Telco Arm Sequence and Telco Disarm Sequence (Call Forward $\\mathrm { O n } / \\mathrm { O f f } )$ . ",
+    "bbox": [
+      95,
+      159,
+      484,
+      187
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13.1 Telco Arm Sequence ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      193,
+      349,
+      210
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Use this to program the Call Forward – Immediate On sequence or Call Forward – No Answer sequence to automatically operate when you arm the system in AWAY Mode. This feature is only available if your telecommunications provider has the call-forward option. ",
+    "bbox": [
+      95,
+      214,
+      487,
+      300
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The examples given in this feature are only applicable to Australia. ",
+    "bbox": [
+      169,
+      318,
+      443,
+      346
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Call Forward – Immediate On ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      363,
+      327,
+      377
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "You can redirect calls to anywhere in Australia, including mobile phones, pagers, and answering services. When Call Forward is turned on, your telephone does not ring. ",
+    "bbox": [
+      95,
+      382,
+      450,
+      440
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Call Forward – No Answer ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      445,
+      302,
+      459
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "When your telephone is not answered within 20 seconds, this feature redirects all incoming calls to another number anywhere in Australia, but you can still make outgoing calls. ",
+    "bbox": [
+      95,
+      463,
+      475,
+      521
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/9970be7cb0ee10f6b2cb76f11b53901ce29a5ce0aa36e1c81cff383aafdbadee.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"4\">Table 11: Telco Arm/Disarm Dialling Digits</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Digit Required</td><td>Number to Program</td><td>Digit Required</td><td>Number to Program</td></tr><tr><td>0</td><td>0</td><td>8</td><td>8</td></tr><tr><td>1</td><td>1</td><td>9</td><td>9</td></tr><tr><td>2</td><td>2</td><td></td><td></td></tr><tr><td>3</td><td>3</td><td>*</td><td>*1</td></tr><tr><td>4</td><td>4</td><td>#</td><td>*2</td></tr><tr><td>5</td><td>5</td><td> 4-sec pause</td><td>*3</td></tr><tr><td>6</td><td>6</td><td>break</td><td>*4</td></tr><tr><td>7</td><td>7</td><td></td><td></td></tr></table>",
+    "bbox": [
+      97,
+      523,
+      489,
+      719
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "How to Program the Telco Arm Sequence ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      723,
+      418,
+      737
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [3] and [#] keys (for example, $[ \\dot { 2 } \\ 5 \\ 8 \\ 0 \\ 3 \\ \\# ] ,$ ). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Press button [1] and [#] keys to select the Telco Arm Sequence. Three beeps sound.   \n3. Enter the call forward sequence (for example, [\\* 6 1][Phone Number][#] to program the Call Forward - No Answer sequence, or $[ * 2 1 ]$ [Phone Number][#] to program the Call Forward Immediate sequence). To program a “\\*” in the Telco Arm Sequence, enter $[ * 1 ]$ . To program a “#” in the Telco Arm Sequence, enter $[ * 2 ]$ .   \n4. Press the [#] key when finished. Two beeps sound, and the STAY and AWAY indicators go dark. ",
+    "bbox": [
+      95,
+      739,
+      484,
+      857
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      507,
+      72,
+      895,
+      231
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To disable the Telco Arm Sequence, enter the call forward sequence as [\\* 4] (break) for Step 3. ",
+    "bbox": [
+      581,
+      239,
+      868,
+      283
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13.2 Telco Disarm Sequence ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      293,
+      789,
+      309
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "This feature automatically disables the call forward sequence when disarming the system. ",
+    "bbox": [
+      509,
+      314,
+      880,
+      344
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "How to Program the Telco Disarm Sequence ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      349,
+      850,
+      363
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code followed by the [3] and [#] keys (for example, $[ 2 ~ 5 ~ 8 ~ 0 ~ 3 ~ \\# ] \\rangle$ ). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Press the [2] and [#] key to select the Telco Disarm Sequence. Three beeps sound.   \n3. Enter the call forward disable sequence (for example, [# 6 1 #] to disable the No Answer Call Forward sequence, or [# 2 1 #] to disable the Call Forward Immediate sequence). To program a “#” in the Telco Disarm Sequence, enter [\\* 2].   \n4. Press the [#] key when finished. Two beeps sound, and the STAY and AWAY indicators go dark. ",
+    "bbox": [
+      507,
+      365,
+      887,
+      598
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To disable the Telco Disarm Sequence, enter the call forward sequence as [\\* 4] (break) for Step 3. ",
+    "bbox": [
+      581,
+      606,
+      868,
+      649
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 13. Telco Arm/Disarm Sequence (Call Forward On/Off) EN | 13 ",
+    "bbox": [
+      68,
+      32,
+      946,
+      58
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "√ ",
+    "bbox": [
+      97,
+      304,
+      146,
+      345
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "回",
+    "bbox": [
+      509,
+      600,
+      556,
+      653
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      233,
+      557,
+      287
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "14. Turning Outputs On/Off ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      453,
+      108
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "This feature only applies if your installer set up an output that can be turned on or off by the codepad. The output programmed by your installer can control a pool pump, outside lighting, and so on. Up to three separate outputs may be programmed. ",
+    "bbox": [
+      95,
+      112,
+      480,
+      185
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "How to Turn an Output On or Off ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      190,
+      349,
+      204
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your Master Code followed by the [5] and [#] keys (for example, [2 5 8 0 5 #]). Three beeps sound and the STAY and AWAY indicators flash.   \n2. Enter the output number (1 to 3) that you wish to turn on or off.   \n3. Press the [#] key to turn the output on, or press the [\\*] key to turn the output off. Three beeps sound if the output is turned on, and two beeps sound if the output is turned off. Repeat Step 2 and Step 3 if you require more than one output to be turned on or off.   \n4. Press the [#] key to exit this function. Two beeps sound and the STAY and AWAY indicators go dark. ",
+    "bbox": [
+      95,
+      206,
+      487,
+      426
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "15. Reset Latching Outputs ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      441,
+      448,
+      463
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "This feature only applies if your installer programmed an output to latch (remain on) until you acknowledge the event that occurred. ",
+    "bbox": [
+      95,
+      467,
+      485,
+      510
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "How To Reset Latching Outputs ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      516,
+      342,
+      530
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [7] key until two beeps sound. The output resets. ",
+    "bbox": [
+      97,
+      535,
+      467,
+      564
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "16. Codepad ID/Buzzer Tone Change ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      580,
+      472,
+      624
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [8] key continuously to change the tone of the codepad buzzer. There are 50 different tones, from $1 5 0 0 \\ \\mathrm { H z }$ to $5 0 0 0 \\mathrm { H z }$ . If multiple codepads are installed, each codepad can sound a different tone. ",
+    "bbox": [
+      95,
+      629,
+      465,
+      701
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "If the system is partitioned, the keypad first displays the area to which the keypad is assigned: ",
+    "bbox": [
+      95,
+      706,
+      477,
+      736
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "x Zone 1: Area 1 codepad x\u0003 Zone 2: Area 2 codepad x\u0003 Zone 7: master partitioned codepad ",
+    "bbox": [
+      95,
+      741,
+      389,
+      796
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17. Testing ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      86,
+      660,
+      108
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "There are various functions for testing that your system is operating correctly. ",
+    "bbox": [
+      507,
+      114,
+      858,
+      142
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17.1 Horn Speaker Test ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      147,
+      746,
+      163
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Press and hold the [1] key until two beeps sound.   \nThe horn speaker sounds for 2 seconds. ",
+    "bbox": [
+      509,
+      168,
+      867,
+      197
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17.2 Bell Test ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      204,
+      652,
+      219
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Press and hold the [2] key until two beeps sound.   \nThe bell output operates for 2 seconds. ",
+    "bbox": [
+      509,
+      224,
+      867,
+      252
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17.3 Strobe Test ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      258,
+      680,
+      274
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1. Press and hold the [3] key until three beeps sound. The strobe flashes.   \n2. Press and hold the [3] key until two beeps sound. The strobe stops flashing. ",
+    "bbox": [
+      509,
+      277,
+      897,
+      350
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17.4 Walk Test Mode ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      355,
+      717,
+      371
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Use Walk Test Mode to test detection devices for proper operation. Every time you test a zone, the codepad sounds one long beep and the horn speaker sounds one short beep to indicate the zone was activated when testing. ",
+    "bbox": [
+      507,
+      376,
+      895,
+      447
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [7] and [#] keys (for example, $\\left[ 2 \\ 5 \\ 8 \\ 0 \\ 7 \\ \\# \\right] )$ . Three beeps sound, and the STAY and AWAY indicators flash. The codepad beeps once every second while the system is in Walk Test Mode.   \n2. Activate all zones that require testing. The codepad sounds one long beep and the horn speaker sounds one short beep every time a zone is faulted (unsealed) and restored.   \n3. When you finish testing all required zones, press the [#] key to exit this mode. Two beeps sound, and the STAY and AWAY indicators turn off. The system returns to the disarmed state. ",
+    "bbox": [
+      509,
+      451,
+      900,
+      668
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "17.5 Test Report ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      673,
+      680,
+      690
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "This feature only applies if your system reports by telephone. Press and hold the [9] key until two beeps sound. The system sends a Test Report without sounding the sirens. ",
+    "bbox": [
+      507,
+      694,
+      897,
+      751
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 14. Turning Outputs On/Off EN | 14 ",
+    "bbox": [
+      75,
+      32,
+      941,
+      59
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "18. Event Memory Recall ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      418,
+      108
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Use this function to replay the last 40 events that occurred to the system. The event memory history replays all alarms and arming/disarming of the system in AWAY Mode, STAY Mode 1, and STAY Mode 2. ",
+    "bbox": [
+      95,
+      114,
+      477,
+      184
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/c45177eddae0dc6808c91a3d21c4c1d8fa10a320241b03f403289e733176f3c0.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      97,
+      187,
+      144,
+      242
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The system cannot differentiate between arming the system in STAY Mode 1 or STAY Mode 2. ",
+    "bbox": [
+      169,
+      194,
+      463,
+      236
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "How to Enter Event Memory ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      247,
+      314,
+      260
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Enter your four-character Master Code followed by the [8] and $[ \\# ]$ keys (for example, $[ 2 ~ 5 ~ 8 ~ 0 ~ 8 ~ \\# ] \\rangle$ ). Three beeps sound. The last 40 events display one at a time by the codepad indicators, starting from the most recent event. A beep sounds as each event displays. ",
+    "bbox": [
+      95,
+      266,
+      484,
+      352
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "19. Day Alarm ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      369,
+      284,
+      389
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Day alarm allows a combination of zones to be monitored during the disarmed state by beeping the codepad buzzer. Only your installer can program zones 1 to 4 to operate for day alarm. ",
+    "bbox": [
+      95,
+      395,
+      477,
+      452
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Example ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      458,
+      166,
+      471
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "A day alarm can be set up at the front door of a shop with a pressure mat or electronic beam that customers activate as they enter and exit the shop. As the customers walk onto the pressure mat or break the electronic beam, the codepad buzzer beeps. ",
+    "bbox": [
+      97,
+      476,
+      487,
+      548
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "How to Turn Day Alarm On ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      553,
+      302,
+      567
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [4] key until three beeps sound. Day alarm turns on. All zones programmed for day alarm operation cause the codepad buzzer to beep during the disarmed state when activated. ",
+    "bbox": [
+      95,
+      572,
+      473,
+      629
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "How to Turn Day Alarm Off ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      634,
+      304,
+      648
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Hold down the [4] key until two beeps sound.   \nDay alarm turns off. ",
+    "bbox": [
+      95,
+      653,
+      433,
+      681
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "20. Remote Arming By Telephone ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      86,
+      801,
+      130
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Use this feature to arm your system from any remote location using a telephone. For security reasons, the system cannot be disarmed using this method. This feature requires a touch-tone telephone. Your installer must program this feature to operate. ",
+    "bbox": [
+      509,
+      136,
+      895,
+      209
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "How to Remotely Arm your System Using the Telephone ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      213,
+      857,
+      241
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "1. Call the telephone number connected to your control panel.   \n2. When the control panel answers the incoming call, a short jingle is heard. To arm the system, press the [\\*] key on the touch-tone telephone for 1 to 3 seconds. If you hear modem tones when the control panel answers the incoming call, the system was programmed for remote programming functions by your installer. Wait for a pause between the tones before pressing the [\\*] key. After releasing the [\\*] key on the touch-tone telephone, two beeps sound indicating that the system was armed in AWAY Mode.   \n3. Hang up the telephone and the system remains armed. ",
+    "bbox": [
+      509,
+      243,
+      897,
+      475
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "If your installer programs answering machine bypass, you must call the control panel twice to make a connection with the system. For example, call the telephone number that your control panel is connected to, let the call ring no more than four rings, then hang up the telephone. Wait a minimum of 8 seconds before you call the control panel again. ",
+    "bbox": [
+      581,
+      483,
+      887,
+      612
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 18. Event Memory Recall EN | 15 ",
+    "bbox": [
+      75,
+      32,
+      941,
+      59
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      478,
+      556,
+      515
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "21. Domestic Dialling ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      374,
+      108
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Domestic dialling is used to call your mobile phone or a relative/friend in the event your control panel activates an alarm. Up to three different telephone numbers can be programmed for the control panel to call when an alarm occurs. Only your installer can set the system to report in the domestic format, however, the Master Code holder can change the domestic telephone numbers at any time. ",
+    "bbox": [
+      97,
+      112,
+      487,
+      228
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "21.1 Acknowledging Domestic Calls ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      233,
+      445,
+      250
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "When an alarm condition occurs, the system calls the first telephone number that was programmed. When you answer an incoming call, you hear the system sound a repeating siren tone followed by a pause, continually for 2 minutes (for example, siren tone, pause, siren tone, and pause). ",
+    "bbox": [
+      95,
+      255,
+      485,
+      342
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "If you do not acknowledge the call from the control panel during a pause between siren tones, the control panel hangs up after 2 minutes expire, and calls the next telephone number. ",
+    "bbox": [
+      95,
+      345,
+      487,
+      403
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Pressing the $[ { ^ * } ]$ key for 1 to 3 seconds during the pause acknowledges the call and no further calls are made for that event. If the call is successfully acknowledged, a tone of decreasing pitch is heard. ",
+    "bbox": [
+      95,
+      408,
+      477,
+      466
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/44c269aca55f63f8038273e7b8a9b92ad497cedc721d06acceb27ccb034494cb.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=4>Table 12: Domestic Dialling Telephone Digits</td></tr><tr><td rowspan=1 colspan=4></td></tr><tr><td rowspan=1 colspan=1> Digit</td><td rowspan=1 colspan=1> Number</td><td rowspan=1 colspan=1> Digit</td><td rowspan=2 colspan=1> Number to Program</td></tr><tr><td rowspan=1 colspan=1> Required</td><td rowspan=1 colspan=1> to Program</td><td rowspan=1 colspan=1> Required</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>9</td><td rowspan=3 colspan=1>9*1</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>★</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>*2</td></tr><tr><td rowspan=2 colspan=4>5          5             4-sec. pause  *36           6             break          *47          7</td></tr><tr><td rowspan=1 colspan=3>6           6             break</td></tr></table>",
+    "bbox": [
+      97,
+      470,
+      484,
+      665
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "21.2 Programming Domestic Telephone Numbers ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      668,
+      480,
+      700
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "If your system is configured for domestic dialling, this function allows any Master Code holder to program telephone numbers the control panel calls in the event of an alarm. ",
+    "bbox": [
+      97,
+      706,
+      472,
+      764
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "How to Program Telephone Numbers ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      72,
+      796,
+      86
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [2] and [#] keys (for example, [2 5 8 0 2 #]). Three beeps sound and the STAY and AWAY indicators flash. If there are telephone numbers already programmed, they are displayed one digit at a time by the codepad indicators. If there are no telephone numbers programmed, a further two beeps sound after entering this mode. These two beeps are normally heard after the last digit of the last telephone number displays.   \n2. Enter all digits for the first telephone number (for example, [9 6 7 2 1 7 1 7]). As each digit is entered, the corresponding codepad indicators display.   \n3. If there is more than one telephone number to be programmed, press [\\* 4]. This inserts a break between the first telephone number and the second telephone number. If there is only one telephone number to program, press the [#] key to exit this function.   \n4. Enter all the digits of the second telephone number (for example, [9 6 7 2 1 0 5 5]). As each digit is entered, the corresponding codepad indicators display.   \n5. After the last digit of the second telephone number is programmed, press the [#] key to exit this function unless a third telephone number is required. If there is a third telephone number to program, press the [\\* 4] button to insert a break between the second telephone number and the third telephone number. ",
+    "bbox": [
+      507,
+      89,
+      900,
+      583
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "21.3 Disable Domestic Dialling ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      587,
+      806,
+      604
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "To cancel domestic dialling (for example, you are moving and do not want the system to continue calling your mobile phone), enter the following sequence. ",
+    "bbox": [
+      509,
+      609,
+      872,
+      666
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "1. Enter your four-character Master Code, followed by the [2] and [#] keys (for example, $[ \\dot { 2 } \\ 5 \\ 8 \\ 0 \\ 2 \\ \\# ] _ { . }$ ). Two beeps sound and the STAY and AWAY indicators flash.   \n2. Press the [\\*] button followed by the [4] and [#] keys (for example, $[ { ^ * } 4 \\# ] )$ ). The STAY and AWAY indicators go dark. ",
+    "bbox": [
+      507,
+      668,
+      895,
+      786
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 21. Domestic Dialling EN | 16 ",
+    "bbox": [
+      73,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "22. Partitioning ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      300,
+      108
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "You can partition or split the Solution 880 Control Panel into two individual areas. You can operate both areas from one Master Partitioned codepad or from separate area addressable codepads. ",
+    "bbox": [
+      95,
+      114,
+      472,
+      171
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.1 Master Partitioned Codepad Indicators ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      176,
+      416,
+      210
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/7d81eb24826c31f6ff47886377aab5c47ac9f8d8ee9ff9f0d0c7781fbf1b5813.jpg",
+    "image_caption": [
+      "Figure 6: Master Partitioned Codepad "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      249,
+      473,
+      441
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The indicators on a Master Partitioned codepad are configured into four groups. The following paragraphs describe the indicators. ",
+    "bbox": [
+      95,
+      445,
+      473,
+      489
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.1.1 Zone Indicators ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      494,
+      302,
+      508
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The zone indicators (1 to 8) display the status of each zone. These zones belong to the area whose AREA DISPLAY indicator is lit. If a ZONE indicator is lit, that zone is unsealed. If a ZONE indicator is not lit, that zone is sealed. ",
+    "bbox": [
+      97,
+      513,
+      482,
+      584
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.1.2 Area On/Off Indicators ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      590,
+      357,
+      604
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The group of four AREA ON/OFF DISPLAY indicators show the status of each area. If an indicator is lit, that area is armed. If the indicator is not lit, that area is disarmed. ",
+    "bbox": [
+      95,
+      609,
+      470,
+      666
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.1.3 Area Display Indicators ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      672,
+      361,
+      685
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "A group of four AREA DISPLAY indicators determine the area to which the displayed zones belong. ",
+    "bbox": [
+      95,
+      690,
+      450,
+      733
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.1.4 Status Indicators ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      738,
+      314,
+      752
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "This group of four indicators shows the following: ",
+    "bbox": [
+      95,
+      757,
+      462,
+      771
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "AUX Indicator ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      776,
+      205,
+      790
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The AUX indicator displays when the system is using the telephone line to communicate to the receiving party. ",
+    "bbox": [
+      95,
+      795,
+      487,
+      839
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The AUX indicator flashes in conjunction with the PARTIAL indicator to show successful entry into any programming mode. For example, this occurs when you are using Master Code functions. ",
+    "bbox": [
+      95,
+      843,
+      487,
+      901
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Mains Indicator ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      72,
+      628,
+      86
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "This indicator displays the status of the AC mains supply. The indicator lights steadily when the AC is normal and flashes when there is an AC supply failure. ",
+    "bbox": [
+      509,
+      91,
+      887,
+      148
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Fault Indicator ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      154,
+      620,
+      167
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "This indicator displays the status of the system’s fault register. If the FAULT indicator flashes when the system detects a fault that has not yet been acknowledged. If the indicator lights steadily, the fault has been acknowledged. ",
+    "bbox": [
+      509,
+      174,
+      878,
+      247
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Partial Indicator ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      252,
+      631,
+      267
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "This indicator shows whether an area is armed in STAY Mode 1. If the PARTIAL indicator is lit, the area is armed in STAY Mode 1. If the indicator is not lit, no areas are armed in STAY Mode 1. When isolating zones, the PARTIAL indicator flashes to indicate that you are in the isolate mode. The PARTIAL indicator also flashes in conjunction with the AUX indicator to indicate successful entry into any programming mode (for example, when using Master Code functions). ",
+    "bbox": [
+      509,
+      270,
+      887,
+      414
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.2 Operating From A Master Partitioned Codepad ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      421,
+      803,
+      454
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "If you have a partitioned system with a Master Partitioned codepad installed, operating procedures described throughout this guide are the same with one exception. All operations are relative to the area whose AREA DISPLAY indicator is illuminated at the time. ",
+    "bbox": [
+      509,
+      459,
+      894,
+      545
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Example ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      551,
+      578,
+      565
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "When the AREA DISPLAY indicator number 2 is lit, all operations performed affect only Area 2. To perform operations in another area, you must move the AREA DISPLAY illuminator to the desired area. ",
+    "bbox": [
+      509,
+      570,
+      899,
+      627
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "To Move From One Area To The Next ",
+    "text_level": 1,
+    "bbox": [
+      510,
+      633,
+      794,
+      647
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Press the AWAY button. ",
+    "bbox": [
+      510,
+      652,
+      690,
+      665
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The area display indicator moves to the next area.   \nRepeat until the desired indicator is lit. ",
+    "bbox": [
+      509,
+      666,
+      873,
+      694
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "22.3 Operating From Area Addressable Codepads ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      700,
+      884,
+      733
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "If you have a partitioned system with Area Addressable codepads, the operating procedures described throughout this guide are the same. Refer to 16. Codepad ID/Buzzer Tone Change on page 14 to determine the area to which a particular codepad belongs. ",
+    "bbox": [
+      509,
+      739,
+      900,
+      811
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 22. Partitioning EN | 17 ",
+    "bbox": [
+      75,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "23. Basic Pager Reporting ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      73,
+      435,
+      96
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "This feature only applies if your system reports to a pocket pager. Basic pager reporting requires some interpretation of the numbers that appear on the display. It is possible to differentiate between 1000 different systems when a number of control panels report to the one pocket pager. ",
+    "bbox": [
+      97,
+      100,
+      472,
+      187
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Subscriber ID Number ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      192,
+      270,
+      205
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "This is the identification number of the control panel and can only be programmed by your installer. ",
+    "bbox": [
+      95,
+      210,
+      482,
+      239
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Zone Status ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      244,
+      193,
+      257
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The zone status display shows you the status of each zone (1 to 8). Table 13 describes what each number means when displayed on the zone status display. ",
+    "bbox": [
+      95,
+      263,
+      478,
+      306
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/027f9bba6a49ce9fb438da72c94638ee9705938499d7a055836da0857247af35.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Table 13: Zone Status Display Descriptions</td></tr><tr><td>Number Displayed</td><td>Zone Description</td></tr><tr><td>0</td><td>Zone Normal Indicates the corresponding zone is in the sealed state.</td></tr><tr><td>1</td><td>Alarm Indicates the corresponding zone is unsealed and in alarm condition.</td></tr><tr><td>2</td><td>Zone Bypassed Indicates a system operator manually isolated the corresponding zone. See Section 10. Isolating Zones for information on how to manually isolate a</td></tr><tr><td>3</td><td>zone(s) prior to arming the system. Zone Trouble Indicates a zone was left unsealed after the end of exit time.</td></tr></table>",
+    "bbox": [
+      97,
+      307,
+      487,
+      585
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "System Status ",
+    "text_level": 1,
+    "bbox": [
+      509,
+      74,
+      623,
+      89
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The system status information is divided into the four digits identified in Table 14. ",
+    "bbox": [
+      509,
+      93,
+      899,
+      122
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/5a9006a5a840ff591dec66a71b61a8edd4b4d70440d5e965c753a6f7a1cffc47.jpg",
+    "table_caption": [
+      "Figure 7 shows the transmission came from the control panel with an ID number of 678, and zone 2 is in alarm. Figure 7 also displays zone 3 is manually isolated and the system is armed. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">Table 14: System Status</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>System StatusDescription Display</td><td></td></tr><tr><td>First digit</td><td>Indicates whether the system is armed or disarmed: 8 = Disarmed</td></tr><tr><td>Second digit</td><td>9 = Armed Indicates which codepad alarm was triggered by the operator: 0 = No Codepad Alarm 1 = Codepad Panic or Duress Alarm</td></tr><tr><td>Third digit</td><td>2= Codepad Fire Alarm 3= Codepad Medical Alarm Indicates when the AC mains supply fails: 0 = AC Supply is normal</td></tr><tr><td>Fourth digit</td><td>1 = AC Supply failed Indicates when a system fault occurs at the control panel: O = System Normal - There are no faults. 1= System Fault -There is a fault registered by the control panel.</td></tr></table>",
+    "bbox": [
+      509,
+      125,
+      900,
+      465
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 23. Basic Pager Reporting EN | 18 ",
+    "bbox": [
+      75,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/bb08afb79a447c8c77dfb4e3a1ad176fae46f2ab53557b78279c0c6ff0434d4c.jpg",
+    "image_caption": [
+      "Figure 7: Basic Pager Display "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      100,
+      98,
+      877,
+      693
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "1 – Subscriber ID number   \n2 – Zone status   \n3 – System status   \n4 – 0: Zone Normal 1: Alarm 2: Zone Bypassed 3: Zone Trouble   \n5 – 8: Disarmed 9: Armed   \n6 – 0: Normal 1: Panic/Duress 2: Fire Alarm 3: Medical Alar   \n7 – 0: AC Normal 1: AC Failure   \n8 – 0: System Normal 1: System Fault ",
+    "bbox": [
+      105,
+      711,
+      305,
+      850
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      527,
+      711,
+      700,
+      832
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 23. Basic Pager Reporting EN | 19 ",
+    "bbox": [
+      77,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "24. Glossary of Terms ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      381,
+      108
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/2865138d1f93d85482ea7c667adf4c19c74b9642b6076b701e9f93959c218093.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Table 15: Glossary of Terms</td><td></td></tr><tr><td colspan=\"2\">Term Description</td></tr><tr><td>24-Hour Zones</td><td>A monitored input programmed to trigger an alarm condition when violated when the system is armed or disarmed 24 hours a day.</td></tr><tr><td>Alarm Condition</td><td>Your alarm system is armed and one of the detection devices is violated. A 24-hour zone (such as a smoke detector) can activate an alarm condition when your system</td></tr><tr><td>Answering Machine Bypass</td><td>arms or disarms. Answering machine bypass is incorporated. You can connect to the system for remote arming operations when there is an answering machine or facsimile machine</td></tr><tr><td>Armed</td><td>on the same telephone line. The system is in a ready state to accept alarms.</td></tr><tr><td>Automatic Arming</td><td>The system automatically arms at the same time every day in AWAY Mode or STAY</td></tr><tr><td>Automatic Disarming</td><td>Mode 1. The system automatically disarms at the same time every day.</td></tr><tr><td>AWAY Mode</td><td>Used to arm your system when you leave your premises.</td></tr><tr><td>Codepad</td><td>Arm/disarm the system and carry out other functions such as adding and deleting</td></tr><tr><td>Day Alarm</td><td>system user codes. Monitor a combination of zones while the system is disarmed.</td></tr><tr><td>Detectors</td><td>Devices connected to your alarm system used to detect intrusion and cause an alarm condition. Some forms of detection devices include Passive Infrared (PIR),</td></tr><tr><td>Disarmed</td><td>smoke detectors,photoelectric beams,reed switches,and vibration sensors. A state that does not accept alarms except on zones programmed for 24-hour</td></tr><tr><td>Dynamic Battery</td><td>operation. Used to monitor and test the condition of your back-up battery.</td></tr><tr><td>Testing Entry Time/</td><td>The time alowed by a zone for disarming the system after entering your premises.</td></tr><tr><td>Entry Delay</td><td></td></tr><tr><td>External Equipment Forced Arming</td><td>Any device connected to your system such as detectors, codepads,and sirens. A situation where your alarm system can be armed when one or more zones are</td></tr><tr><td>Handover Delay</td><td>unsealed. The system is armed and a zone programmed for delay was violated. The delay zone hands over the remaining delay time to a zone programmed as handover. The</td></tr><tr><td>Hand Held Remote</td><td>handover zone does not activate an alarm until the remaining delay time expires. A handover zone acts as an instant zone if violated before the delay zone.</td></tr><tr><td>Control</td><td>Used to remotely operate your system by hand held transmitters.</td></tr><tr><td>Isolating Master Code</td><td>Manually disable (isolate) one or more zones before arming the system. A numeric code used to arm and disarm the system and to allow access to</td></tr><tr><td>Monitoring Station</td><td>functions such as adding and deleting user codes. A secure location where a digital receiver monitors numerous alarm systems and</td></tr><tr><td></td><td>deciphers their Alarm Transmission Reports. The operator can then advise the appropriate authorities to take immediate action. Type of alarm that indicates to the monitoring station there is an emergency</td></tr><tr><td>Panic Alarm</td><td>situation at your premises. Refers to zone status. If a zone is sealed, the detection device is not violated and</td></tr><tr><td>Sealed</td><td>the zone indicator does not display on the codepad.</td></tr><tr><td>Sensor Watch</td><td>The control panel can recognise that detection devices may have stopped working or that the view to a PIR detector is blocked (unable to detect any movement over the duration of the time programmed by your installer).</td></tr><tr><td colspan=\"2\">Table 15: continued</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>Term Silent Alarm</td><td>Description Your installer may program zones for silent operation. When the zone programmed</td></tr><tr><td>STAY Mode 1</td><td>for silent operation is violated during the armed period, your alarm system communicates with the monitoring station without sounding the sirens. A condition that automatically isolates zones when your system is armed in STAY</td></tr><tr><td>STAY Mode 2</td><td>Mode 1. Only your installer can program zones to be isolated automatically in STAY Mode 1. A condition that automatically isolates zones when your system is armed in STAY</td></tr><tr><td>Telco Arm Sequence</td><td>Mode 2. Only the Master Code holder can program zones to be isolated automatically in STAY Mode 2. Telco arming is a feature that automatically calls the telephone exchange and diverts</td></tr><tr><td>Telco Disarm</td><td>your telephone number to another telephone when the system is armed in AWAY Mode. (In Australia, this feature is called “Call Forward\".)</td></tr><tr><td>Sequence</td><td>Telco disarming automatically calls the telephone exchange and does not forward your telephone number.</td></tr><tr><td>Unsealed</td><td>Refers to zone status. A zone is unsealed when a zone is violated. The corresponding zone indicator displays on the codepad.</td></tr><tr><td>User Code</td><td>The personal identification number that the operator uses to arm and disarm the</td></tr><tr><td>Zones</td><td>system. A monitored input used to trigger an alarm condition when violated.</td></tr></table>",
+    "bbox": [
+      100,
+      118,
+      892,
+      903
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 24. Glossary of Terms EN | 20 ",
+    "bbox": [
+      80,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [],
+    "table_footnote": [],
+    "bbox": [
+      97,
+      84,
+      902,
+      440
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 24. Glossary of Terms EN | 21 ",
+    "bbox": [
+      80,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "25. Installation Notes ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      86,
+      374,
+      108
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Company Name   \nTechnician’s Name   \nTechnician’s Telephone Number   \nInstallation Date   \nWarranty Expires   \nPanel Software Version ",
+    "bbox": [
+      105,
+      112,
+      342,
+      213
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      366,
+      124,
+      900,
+      216
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Service Notes ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      238,
+      226,
+      256
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      95,
+      262,
+      902,
+      922
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 25. Installation Notes EN | 22 ",
+    "bbox": [
+      78,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Zone Description ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      76,
+      257,
+      92
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Describe each zone and mark the zones that are programmed to be automatically isolated in STAY Mode 1 or are programmed for day alarm operation. ",
+    "bbox": [
+      95,
+      97,
+      880,
+      125
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/d98d9169a93ffe8700c30575a1cbf56a941ceb325cd1eb67f57a80f25b910bdd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      95,
+      130,
+      705,
+      416
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "User Code Names ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      438,
+      267,
+      454
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Master   \nCode   \nDefault $=$ 2580 User Code 1 Y User Code 9   \nUser Code 2 User Code 10   \nUser Code 3 User Code 11   \nUser Code 4 User Code 12   \nUser Code 5 User Code 13   \nUser Code 6 User Code 14   \nUser Code 7 User Code 15   \nUser Code 8 User Code 16 ",
+    "bbox": [
+      92,
+      459,
+      905,
+      767
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 25. Installation Notes EN | 23 ",
+    "bbox": [
+      77,
+      32,
+      941,
+      59
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Entry/Exit Times ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      76,
+      252,
+      92
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Entry Timer 1 Exit Time Entry Timer 2 Entry Guard Time ",
+    "bbox": [
+      95,
+      96,
+      904,
+      131
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Arming Options ",
+    "text_level": 1,
+    "bbox": [
+      95,
+      153,
+      243,
+      169
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Single Button Arming ",
+    "bbox": [
+      97,
+      175,
+      255,
+      190
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/f25ca4cbba037e1d33a89f0b095206d02f1c06f3518d722b29928917f8e67d9e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      351,
+      171,
+      442,
+      225
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Single Button Disarming ",
+    "bbox": [
+      99,
+      207,
+      275,
+      222
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/ad2d91e6ed17437a2a09e82cd32b0c4cb003cde990a86e2394e60608608754d6.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      497,
+      171,
+      815,
+      226
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/9fdc339852281d81fc6144934411096694e20ff1e440217c6e8abc64285b7bda.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      95,
+      250,
+      902,
+      305
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Output Descriptions ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      326,
+      284,
+      342
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Output 1 Output 3   \nOutput 2 Output 4 ",
+    "bbox": [
+      97,
+      346,
+      902,
+      383
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Isolating Method ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      404,
+      253,
+      420
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Standard Isolating ",
+    "bbox": [
+      97,
+      426,
+      230,
+      439
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Code To Isolate ",
+    "bbox": [
+      97,
+      460,
+      215,
+      473
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Communication Options ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      498,
+      322,
+      514
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/56311b86fdb22310716be85d1c5bf9896ea98f762bb7cbf881297ba3355579b0.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      95,
+      516,
+      398,
+      570
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/8de878cae1dd167e02f2ef8a47768b368f58c0d3285138ff055ac3fd67298fe8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      418,
+      548,
+      764,
+      570
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Other System Information ",
+    "text_level": 1,
+    "bbox": [
+      99,
+      592,
+      336,
+      606
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Siren Run Time Minutes ",
+    "bbox": [
+      97,
+      610,
+      364,
+      629
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_5963931/auto/images/18eb909f7de68c5bbd7569a679ef349dfd8163546d3a4d3a481deddfc356cfd8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      97,
+      642,
+      440,
+      663
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | 25. Installation Notes EN | 24 ",
+    "bbox": [
+      80,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "If Yes, Installer’s Code ",
+    "bbox": [
+      638,
+      694,
+      899,
+      707
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Index ",
+    "text_level": 1,
+    "bbox": [
+      97,
+      87,
+      166,
+      106
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "24-Hour Zones 20 ",
+    "bbox": [
+      95,
+      110,
+      238,
+      124
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "A ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      134,
+      290,
+      144
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "AC Mains Fail 12   \nAdding Radio User Codes 9   \nAdding User Codes 9   \nAlarm Condition 20   \nAlarms Duress . 10 Fire .. 11 Medical . 11 Panic... 1 0 Tamper (Access Denied). 11   \nAnswering Machine Bypass 20   \nArea Display Indicators 17   \nArea On/Off Indicators 17   \nArmed 20   \nArming AWAY Mode.. 8 STAY Mode 1.. 8 STAY Mode 2.. 8 Telephone Arming 15 ",
+    "bbox": [
+      95,
+      150,
+      478,
+      305
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      97,
+      306,
+      478,
+      444
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Audible Indications 7   \nAutomatic Arming 20   \nAutomatic Disarming 20   \nAUX Indicator 17   \nAWAY Indicator 6   \nAWAY Mode 8, 20 ",
+    "bbox": [
+      95,
+      446,
+      300,
+      530
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "B ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      540,
+      290,
+      552
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Battery Fail 12   \nBattery Testing 20   \nBell Test 14 ",
+    "bbox": [
+      95,
+      557,
+      240,
+      599
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "C ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      609,
+      290,
+      619
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Codepad 20 Duress Alarm . 10 Fire Alarm . 11 Medical Alarm . 11 Panic Alarm.. 10 Tamper Alarm. 11   \nCodepad Indicators Audible Indications . AWAY Indicator . 6 FAULT Indicator... 7 MAINS Indicator.. . 6 Off Indicator.. 7 On Indicator.... 7 STAY Indicator.. . 6 System Disarmed . 6 Zone Indicators .... 6   \nCommunciation Fail 12   \nCommunication Fail 12 ",
+    "bbox": [
+      95,
+      625,
+      478,
+      918
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "D ",
+    "text_level": 1,
+    "bbox": [
+      705,
+      118,
+      721,
+      130
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Date and Time 12   \nDay Alarm 15   \nDeleting Radio User Codes 9   \nDeleting User Codes 9   \nDetectors 20   \nDisarmed 20   \nDisarming 9   \nDomestic Dialling 16 Acknowledging Domestic Calls.. 16 Disable.... .16 Programming Domestic Telephone Numbers ...16   \nDuress Alarm 10 ",
+    "bbox": [
+      527,
+      135,
+      909,
+      314
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "E ",
+    "text_level": 1,
+    "bbox": [
+      705,
+      324,
+      721,
+      336
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "E2 Fault 12   \nEntry Delay/Entry Time 20   \nEntry Guard Timer 8   \nEvent Memory Recall 15   \nExternal Equipment 20 ",
+    "bbox": [
+      527,
+      340,
+      731,
+      413
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "F ",
+    "text_level": 1,
+    "bbox": [
+      707,
+      421,
+      719,
+      432
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Fault Analysis 12   \nFault Description AC Mains Fail . 12 Battery Fail.. .12 Communication Fail . .12 Date and Time.. .12 E2 Fault .. . 12 Fuse Fail . . 12 Horn Speaker Fail . .12 Sensor Watch Fail . . 12 Telephone Line Fail. .12   \nFault Descriptions 12 Communciation Fail . 12 System Fault.. 12 ",
+    "bbox": [
+      524,
+      439,
+      909,
+      665
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "FAULT Indicator 7, 17   \nFeatures 5   \nFire Alarm 11   \nForced Arming 8, 20   \nFuse Fail 12 ",
+    "bbox": [
+      526,
+      666,
+      746,
+      737
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "H ",
+    "text_level": 1,
+    "bbox": [
+      705,
+      747,
+      721,
+      758
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Hand Held Remote Control 20   \nHandover Delay 20   \nHorn Speaker Fail 12   \nHorn Speaker Test 14 ",
+    "bbox": [
+      527,
+      763,
+      791,
+      820
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "I ",
+    "text_level": 1,
+    "bbox": [
+      707,
+      830,
+      719,
+      840
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Isolating 20 Isolating Zones 11 Code to Isolate .. Standard Isolating . ",
+    "bbox": [
+      526,
+      846,
+      909,
+      908
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Index EN | 25 ",
+    "bbox": [
+      78,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "M ",
+    "text_level": 1,
+    "bbox": [
+      273,
+      73,
+      292,
+      85
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "MAINS Indicator 6, 17   \nMaster Code 20   \nMaster Partitioned Codepad Indicators 17   \nMedical Alarm 11   \nMonitoring Station 20 ",
+    "bbox": [
+      95,
+      90,
+      420,
+      162
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "O ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      171,
+      290,
+      182
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Off Indicator 7   \nOn Indicator 7   \nOperating From A Master Partitioned Codepad 17   \nOperating From Area Addressable Codepads 17 ",
+    "bbox": [
+      95,
+      187,
+      447,
+      271
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "P ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      281,
+      290,
+      293
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Pager Reporting 18   \nPanic Alarm 10, 20   \nPARTIAL Indicator 17   \nPartitioning 17 ",
+    "bbox": [
+      95,
+      299,
+      299,
+      356
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "R ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      364,
+      290,
+      376
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Radio User Codes Adding .... 9 Deleting.... 9 ",
+    "bbox": [
+      95,
+      382,
+      478,
+      427
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Remote Arming 15   \nRemote Control 20 ",
+    "bbox": [
+      95,
+      431,
+      238,
+      457
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "S ",
+    "text_level": 1,
+    "bbox": [
+      275,
+      466,
+      290,
+      478
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Sealed 20   \nSensor Watch 20   \nSensor Watch Fail 12   \nSilent Alarm 21   \nSpeaker Beeps 10   \nStatus Indicators 17   \nSTAY Indicator 6 ",
+    "bbox": [
+      95,
+      483,
+      299,
+      584
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "STAY Mode 1 8, 21Entry Guard Timer .. 8  \nSTAY Mode 2 8, 21Entry Guard Timer .. 8Programming Zones... 9",
+    "bbox": [
+      526,
+      72,
+      910,
+      149
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Strobe Indications 10   \nStrobe Test 14   \nSystem Disarmed 6 ",
+    "bbox": [
+      526,
+      152,
+      731,
+      194
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "T ",
+    "text_level": 1,
+    "bbox": [
+      707,
+      203,
+      719,
+      214
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Tamper Alarm 11   \nTelco Arm Sequence 13, 21   \nTelco Disarm Sequence 21   \nTelephone Line Fail 12   \nTest Report 14   \nTesting Bell Test.. 14 Horn Speaker Test . 14 Strobe Test .. . 14 Test Report . . 14 Walk Test ... 14 ",
+    "bbox": [
+      527,
+      220,
+      909,
+      388
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "U ",
+    "text_level": 1,
+    "bbox": [
+      705,
+      397,
+      721,
+      410
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Unsealed 21   \nUser Codes 21 Adding ..... 9 Adding Radio Users.. . 9 Deleting .... . 9 ",
+    "bbox": [
+      527,
+      415,
+      909,
+      494
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "W ",
+    "text_level": 1,
+    "bbox": [
+      704,
+      503,
+      722,
+      514
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Walk Test 14 ",
+    "bbox": [
+      527,
+      520,
+      668,
+      533
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Z ",
+    "bbox": [
+      705,
+      542,
+      721,
+      554
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Zone Indicators 6, 17   \nZones 21 ",
+    "bbox": [
+      527,
+      559,
+      685,
+      587
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Index EN | 26 ",
+    "bbox": [
+      77,
+      32,
+      937,
+      59
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Notes: ",
+    "text_level": 1,
+    "bbox": [
+      467,
+      77,
+      531,
+      92
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems | 5/04 | 920050O.OG.112 ",
+    "bbox": [
+      68,
+      946,
+      447,
+      960
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "CC408 | Operators Guide | Notes EN | 27 ",
+    "bbox": [
+      77,
+      32,
+      939,
+      59
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Bosch Security Systems 25 Huntingwood Drive Huntingwood NSW 2148 Australia Phone: $+ 6 1 2$ 9672 1777 Facsimile: $+ 6 1 2$ 9672 1717 ",
+    "bbox": [
+      186,
+      210,
+      354,
+      279
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2003 Bosch Security Systems   \nS1920050   \nIssue 112   \n4998152467B ",
+    "bbox": [
+      186,
+      344,
+      357,
+      384
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "BOSCH ",
+    "bbox": [
+      591,
+      874,
+      793,
+      912
+    ],
+    "page_idx": 27
+  }
+]

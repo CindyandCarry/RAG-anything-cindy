@@ -1,0 +1,1172 @@
+[
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ ACM 2009. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version of Record has been published in Proceedings of the 2nd international workshop on Testing database systems, Article no.6, ACM New York, NY, USA, ISBN: 978-1-60558-706-6   \nDOl: http://dx.doi.0rg/10.1145/1594156.1594164 ",
+    "bbox": [
+      82,
+      26,
+      877,
+      104
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Query-Aware Shrinking Test Databases ",
+    "text_level": 1,
+    "bbox": [
+      221,
+      124,
+      778,
+      149
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Javier Tuya, Mª José Suárez-Cabal, Claudio de la Riva Universidad de Oviedo, Departamento de Informática Campus Universitario de Gijón (SPAIN) +34 985 182 049 ",
+    "bbox": [
+      260,
+      152,
+      736,
+      207
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "{tuya, cabal, claudio} $@$ uniovi.es ",
+    "bbox": [
+      356,
+      213,
+      640,
+      229
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ABSTRACT ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      273,
+      193,
+      286
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keeping the test databases as small as possible leads to faster execution of tests and facilitates the task of completing the test cases and evaluating the actual outputs against the expected. In this paper we present an automated approach to database reduction that considers an initial database that may be a copy of a production database and the set of queries that are executed against it. The database is reduced in order to preserve the coverage of the data with respect to the queries attaining large reductions with very similar fault detection ability. ",
+    "bbox": [
+      87,
+      288,
+      480,
+      396
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Categories and Subject Descriptors ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      413,
+      383,
+      427
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "D.2.5 [Software Engineering]: Testing and Debugging - Testing tools ",
+    "bbox": [
+      87,
+      428,
+      478,
+      451
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "General Terms ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      466,
+      215,
+      480
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Reliability, Experimentation, Languages, Verification. ",
+    "bbox": [
+      87,
+      482,
+      410,
+      494
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      509,
+      173,
+      523
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Software testing; Database testing; MC/DC; Test-Suite Reduction; Data Reduction; SQL Coverage. ",
+    "bbox": [
+      85,
+      524,
+      480,
+      547
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. INTRODUCTION ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      564,
+      270,
+      577
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "During the maintenance of software applications, two main kinds of functional testing activities are performed: (1) development or maintenance of test cases for new and updated features, and (2) regression testing. Existing research in testing for database applications focuses mainly on either the test data selection criteria by defining a number of coverage criteria [9,11,12,15,16] or the automatic generation of test cases [1-4,21]. There also exists some work on regression testing that focuses on the selection of test cases [10,20] or in the order of execution and the number of resets of the test database [7,8]. ",
+    "bbox": [
+      85,
+      579,
+      480,
+      700
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "On the other hand, test-suite reduction aims to find a representative set of test cases to provide the same test coverage as an original test suite [14], with a trade-off between reduction and effectiveness in fault detection. In the context of database applications, this may be applied to the number of test cases or to ",
+    "bbox": [
+      85,
+      705,
+      480,
+      766
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "the size of the test inputs. ",
+    "bbox": [
+      517,
+      287,
+      667,
+      299
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keeping test databases as small as possible entails a number of benefits for both activities. In regression testing, the test cases are executed faster because both the time of loading the test database and executing each test is shorter. When maintaining test cases, a small test database facilitates the design of new test inputs that consider the new situations required by the changed functionalities and the checking of the expected results against the actual results. If the tests are designed for a completely new feature, previous test databases may be reused and completed with meaningful test data to consider the new features under test. ",
+    "bbox": [
+      517,
+      305,
+      912,
+      425
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The issue addressed by this paper is the reduction of the data that is present in a database in order be used as a basis for further testing. The reduction takes as input a previously developed test database or even a complete production database. In order to include in the reduced database only a small set of suitable data, discarding redundant data, the reduction is made for preserving the coverage of the original database against the queries that are executed. These queries can be taken from the execution of test cases or from the real usage of the application. This process is fully automated. A case study using a production database and real queries shows a good trade-off between reduction and fault detection ability. It attains large reduction of the number of rows in the database while maintaining very similar fault detection ability in relation with the original database. ",
+    "bbox": [
+      517,
+      431,
+      912,
+      600
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The rest of the paper is organized as follows: Section 2 presents an overview of the coverage criterion and the general approach to database reduction along with an example. Section 3 details the procedure for performing the reduction and Section 4 presents the tool support available to automate this task. In Section 5 a case study is presented and finally, Section 6 concludes. ",
+    "bbox": [
+      517,
+      606,
+      912,
+      679
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2. INTRODUCTORY APPROACH AND EXAMPLE ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      692,
+      872,
+      722
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In this section we present the concept of coverage rules and outline how these rules are used to reduce a database taking into account a set of queries. ",
+    "bbox": [
+      517,
+      724,
+      912,
+      760
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2.1 Coverage Rules ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      768,
+      685,
+      782
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Consider the following SQL query: ",
+    "bbox": [
+      517,
+      783,
+      726,
+      795
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "SELECT \\* FROM departments D LEFT JOIN job_history H ON h.department_id=d.department_id WHERE department_name NOT LIKE $1 I T \\%$ ' AND location_id ${ \\bf < > } 1 7 0 0 \\mathrm { ~ }$ ",
+    "bbox": [
+      517,
+      799,
+      912,
+      839
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This query is executed against the example database HR (Human Resources) which is bundled with the Oracle Database ",
+    "bbox": [
+      517,
+      846,
+      912,
+      870
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. DBTest’09, June 29, 2009, Providence, Rhode Island, USA. Copyright 2009 ACM 978-1-60558-706-6/09/06...\\$5.00. ",
+    "bbox": [
+      92,
+      780,
+      477,
+      866
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Management System. This database contains information about the jobs performed by the employees that belong to a department, plus some other master tables such as jobs, locations, regions and countries. ",
+    "bbox": [
+      85,
+      124,
+      480,
+      173
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "An approach to designing tests for SQL queries based on the MC/DC coverage criterion has been suggested previously in [17]. Using this approach, the tester should design a test database for covering the following situations: ",
+    "bbox": [
+      85,
+      178,
+      480,
+      226
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Include rows such that the where conditions on department_name and location_id are: (C1) both true, (C2) true and false and (C3) false and true, respectively. As location_id may be null (as indicated in the database schema), include rows such that (N1) location_id is null and the condition on department_name is true As there is a join, include rows such that (J1) there exists a master (departments) without detail (job_history), and (J2) there exist a detail without master (this situation is possible because the foreign key column department_id in job_history is nullable). ",
+    "bbox": [
+      85,
+      232,
+      480,
+      377
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Each of these situations specifies a test requirement that can be expressed in SQL and constitutes a Coverage Rule. For instance, three of the coverage rules for the above query are: ",
+    "bbox": [
+      85,
+      382,
+      480,
+      419
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "(C1): SELECT $^ { \\star }$ FROM departments D INNER JOIN   \njob_history H ON h.department_id $\\begin{array} { r l } { \\mathbf { \\Sigma } } & { { } = \\mathbf { \\Sigma } \\operatorname { d } } \\end{array}$ .department_id   \nWHERE (department_name NOT LIKE $I T _ { 0 } ^ { \\circ }$ ) AND   \n(location_id $< > \\ 1 7 0 0$ )   \n(N1): SELECT $^ { \\star }$ FROM departments D INNER JOIN   \njob_history H ON h.department_id $=$ d.department_id   \nWHERE (location_id IS NULL)   \nAND (department_name NOT LIKE 'IT%')   \n(J1): SELECT $^ { \\star }$ FROM departments D LEFT JOIN   \njob_history H ON h.department_id $=$ d.department_id   \nWHERE ((H.DEPARTMENT_ID IS NULL)   \nAND (D.DEPARTMENT_ID IS NOT NULL))   \nAND (department_name NOT LIKE 'IT%' AND   \nlocation_id $< > \\ 1 7 0 0$ ) ",
+    "bbox": [
+      85,
+      422,
+      480,
+      577
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Given a previously populated test database, the execution of the SQL statement that expresses a coverage rule will determine whether this situation is covered if the output produced by the rule contains at least one row. ",
+    "bbox": [
+      85,
+      585,
+      480,
+      633
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The coverage rules used in this paper are based on Masking MC/DC [5] or Full Predicate Coverage [13] and allow to measure the coverage of a test database against a set of queries or be used as a test input selection criterion. A complete description of the coverage rules and the procedure for automatically obtaining them is detailed elsewhere [19] . The scope of this paper is the use of the coverage rules to reduce a previously populated database with the goal of preserving the same coverage as the original. ",
+    "bbox": [
+      85,
+      638,
+      480,
+      735
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.2 Database Reduction ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      744,
+      292,
+      757
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Let us illustrate the approach with an example. The output produced by the coverage rule C1 when executed against the HR database is included in Table 1 (only relevant columns are shown, primary keys are in bold). ",
+    "bbox": [
+      85,
+      760,
+      480,
+      807
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In order to have a reduced database that covers the rule we need only to consider the rows of tables departments and job_history that correspond to only one of the rows in the output presented in ",
+    "bbox": [
+      85,
+      814,
+      480,
+      851
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Table 1. For instance, the first row is kept, the reduced database will be composed by a department with $I D { = } 2 0$ and a job history record with $I D { = } 2 0$ and start_dat $e { = } I 7 / 0 2 / 9 6$ which fulfills the rule C1. All other rows may be discarded. ",
+    "bbox": [
+      517,
+      124,
+      912,
+      173
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/729b11d1522ae4f6cdec7f90e22ab0b36a863a272ad28bd0182c546a84b2532c.jpg",
+    "table_caption": [
+      "Table 1. Output produced by rule C1 "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=3>DEPARTMENTS</td><td rowspan=1 colspan=2>JOB_HISTORY</td></tr><tr><td rowspan=1 colspan=1>ID</td><td rowspan=1 colspan=1>NAME</td><td rowspan=1 colspan=1>LOCATION</td><td rowspan=1 colspan=1>START_DATE</td><td rowspan=1 colspan=1>ID</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>Marketing</td><td rowspan=1 colspan=1>1800</td><td rowspan=1 colspan=1>02/17/96</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>Shipping</td><td rowspan=1 colspan=1>1500</td><td rowspan=1 colspan=1>03/24/98</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>Shipping</td><td rowspan=1 colspan=1>1500</td><td rowspan=1 colspan=1>01/01/99</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>Sales</td><td rowspan=1 colspan=1>2500</td><td rowspan=1 colspan=1>03/24/98</td><td rowspan=1 colspan=1>80</td></tr><tr><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>Sales</td><td rowspan=1 colspan=1>2500</td><td rowspan=1 colspan=1>01/01/99</td><td rowspan=1 colspan=1>80</td></tr></table>",
+    "bbox": [
+      507,
+      195,
+      900,
+      279
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In short, the approach is the following: We collect a set of SQL queries that are executed against the original database. Next, for each query we generate and execute each coverage rule and process the output produced by browsing each output row and selecting only one. The constituent rows will be added to the reduced database. For each rule the criterion for selecting an output row will be that of minimizing the cost of adding new rows to the reduced database, measured in terms of the number of additional rows that have to be added to the reduced database. Finally, the set of rows that have been kept will constitute the reduced database. ",
+    "bbox": [
+      517,
+      289,
+      912,
+      423
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3. FINDING REDUCED ROWS ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      438,
+      796,
+      451
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In this section we provide the internal details of the procedure for obtaining a reduced database using as the only source of information the database and a set of queries. ",
+    "bbox": [
+      517,
+      452,
+      912,
+      489
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3.1 Data Structures ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      497,
+      690,
+      510
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Figure 1 depicts the main data structures used in the process of finding the reduced rows. ",
+    "bbox": [
+      517,
+      513,
+      912,
+      535
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "During the reduction process, the information of the rows that are to be added to the reduced database is maintained in memory (only the values of the primary keys of the rows are stored). The PhysicalDatabase class stores the information about the tables and rows that will compose the final reduced database. The QueryDatabase class stores the same information, but related to the tables used by a single query. Additionally, the metadata for tables and the database itself are stored and linked to all databases and tables. The Database class is an abstract class that provides the common methods to locate and process tables. At this moment the AliasDatabase class may be ignored. ",
+    "bbox": [
+      517,
+      543,
+      912,
+      676
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "During the reduction process a single instance of PhysicalDatabase is created (reducedDB) and for each rule two instances of QueryDatabase (bestDB and currentDB) are created. ",
+    "bbox": [
+      517,
+      685,
+      912,
+      720
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3.2 Reduction Procedure and Costs ",
+    "text_level": 1,
+    "bbox": [
+      519,
+      731,
+      821,
+      745
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The reduction algorithm will process each query and will add to the reducedDB the minimum set of rows that cover all rules. Given a set of queries, the algorithm to select the rows that are stored in the reducedDB is presented in Figure 2 and described below. ",
+    "bbox": [
+      517,
+      747,
+      912,
+      807
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Firstly, the set of tables that take part in the query and their associated metadata are loaded both in bestDB and currentDB by calling getTable() and getNewTable() methods. ",
+    "bbox": [
+      517,
+      814,
+      912,
+      851
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/d8026f63453c654c12ac37bc11773ceb9c7085d2ceecf4bb22c83ff7f087ed3c.jpg",
+    "image_caption": [
+      "Figure 1. Main Data Structures used in the Reduction "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      122,
+      125,
+      788,
+      293
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/157338022cf91c4a29ca6a47912146470a4b75b7c092861e86ae1dfe13dee272.jpg",
+    "image_caption": [
+      "Figure 2. Algorithm to select the reduced rows "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      321,
+      482,
+      505
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "After all tables for a query have been loaded, each coverage rule is executed. The bestDB and currentDB store a solution which is constituted by a set of rows. The first one stores the best solution found up to now and the other stores the current solution. Then each output row is traversed. For each one, the primary keys of the constituent tables are used to create Row instances which are stored in currentDB. ",
+    "bbox": [
+      87,
+      530,
+      480,
+      615
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Now the cost of inserting the rows of currentDB into the reducedDB is calculated as the number of rows of currentDB that are not present in reducedDB. So as, if the cost is lower than the cost of inserting bestDB into reducedDB, there is a new solution that replaces bestDB (with the exception of the first output row). ",
+    "bbox": [
+      85,
+      622,
+      480,
+      684
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "At the end, bestDB contains a set of rows that cover the rule and that are added to the reducedDB. The procedure continues for the next rule of each query. ",
+    "bbox": [
+      85,
+      691,
+      480,
+      728
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3.3 Aliased Tables ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      737,
+      247,
+      751
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Tables in an SQL query may be referenced using an alias so as that the same table may appear more than once in the query and handled as if it were a different table. However both refer to the same set of rows. ",
+    "bbox": [
+      85,
+      752,
+      480,
+      800
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The AliasDatabase class is designed to handle this situation. All aforementioned operations on the QueryDatabase class are performed on AliasDatabase instead (bestDB and currentDB are instances of AliasDatabase) which forwards its calls another pair of instances of QueryDatabase. The structure of each instance of ",
+    "bbox": [
+      85,
+      808,
+      480,
+      869
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "AliasDatabase is the same, but the only difference is that it does not store new rows, but a reference to the rows contained in the QueryDatabase instances instead. In this way a row added to a table using a given alias is visible when using any other alias that refers to the same table. ",
+    "bbox": [
+      517,
+      321,
+      912,
+      382
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3.4 Populating the Reduced Database ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      394,
+      836,
+      408
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "After the reduction process, reducedDB contains in memory all the rows (primary keys) of the final database that preserve the coverage. However, some additional rows that refer to master tables must be added in order not to violate referential integrity. The procedure is handled by the ensureFKs() method which proceeds recursively for each table and for each row in reducedDB. At each row it looks for each foreign key and checks whether the corresponding referenced row has been loaded previously. If not, a recursive call to load each referenced row is made to ensure referential integrity. A flag is maintained for each visited row in order to perform the recursive calls only once per row. ",
+    "bbox": [
+      517,
+      409,
+      912,
+      554
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Now all rows that are present in reducedDB ensure the referential integrity. The next task is to create the final reduced database. The approach taken is to perform a copy of the rows in reducedDB from the original database to the reduced database (which must have the same schema) as indicated in the steps below: ",
+    "bbox": [
+      517,
+      561,
+      912,
+      634
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1. Temporally disable all foreign keys (this step is required if there are recursive relations between tables).   \n2. Perform a delete of all destination tables from the bottom to the top of the database schema (to perform a clean insert).   \n3. Execute the SQL commands that will copy each row in each table from the top to the bottom. An SQL query in the form INSERT INTO DestTable (columns) SELECT (columns) FROM OrigTable WHERE key columns are equal to the values in reducedDB.   \n4. Enable referential integrity ",
+    "bbox": [
+      517,
+      641,
+      912,
+      763
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As an example, the following script would be generated for the introductory example. In order to keep it short, only two queries for each step are presented: ",
+    "bbox": [
+      517,
+      770,
+      912,
+      807
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "ALTER TABLE HR2.JOB_HISTORY DISABLE CONSTRAINT JHIST_DEPT_FK;   \nALTER TABLE HR2.DEPARTMENTS DISABLE CONSTRAINT DEPT_LOC_FK;   \nDELETE FROM HR2.JOB_HISTORY;   \nDELETE FROM HR2.DEPARTMENTS;   \nINSERT INTO HR2.DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME, MANAGER_ID, LOCATION_ID) SELECT DEPARTMENT_ID, DEPARTMENT_NAME, MANAGER_ID, LOCATION_ID FROM HR.DEPARTMENTS WHERE DEPARTMENTS.DEPARTMENT_ $\\mathtt { I D } = \\mathtt { I 0 }$ ;   \nINSERT INTO HR2.JOB_HISTORY (EMPLOYEE_ID, START_DATE, END_DATE, JOB_ID, DEPARTMENT_ID) SELECT EMPLOYEE_ID, START_DATE, END_DATE, JOB_ID, DEPARTMENT_ID FROM HR.JOB_HISTORY WHERE JOB_HISTORY.EMPLOYEE_ID $_ { 1 = 1 2 2 }$ AND JOB_HISTORY.START_DATE $: =$ DATE '1999-01-01';   \nALTER TABLE HR2.DEPARTMENTS ENABLE CONSTRAINT DEPT_LOC_FK;   \nALTER TABLE HR2.JOB_HISTORY ENABLE CONSTRAINT JHIST_DEPT_FK; ",
+    "bbox": [
+      515,
+      813,
+      880,
+      863
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/690ed006e12f86d84c75d1cf539a3fe6e8e2a2cfd831153a4b7bea945ff4186b.jpg",
+    "image_caption": [
+      "Figure 3. User Interface of the QAShrink Tool "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      174,
+      124,
+      806,
+      397
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      425,
+      477,
+      583
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4. TOOL SUPPORT ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      599,
+      267,
+      612
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The QAShrink Tool (Query-Aware Shrink) has been implemented in order to automate the whole process. It can be downloaded from http://in2test.lsi.uniovi.es/sqltools/qashrink. Currently it has been tested with the Oracle and SQLServer database management systems. ",
+    "bbox": [
+      85,
+      615,
+      480,
+      674
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The user interface of QAShrink is depicted in Figure 3. The user has to specify the connection information of the database and the set of queries that are to be used for the reduction. Additionally, the name of the destination database where the selected rows will be copied has to be specified. Firstly, it generates all coverage rules for the queries and then these rules are used to perform the reduction as explained in previous sections. ",
+    "bbox": [
+      85,
+      679,
+      480,
+      764
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The figure presents the information after shrinking the example database taking into account five queries, the first one being the same as has been used in the examples. First the queries are analyzed to remove duplicates. After running the reduction $( D o$ Shrink command) the size of the database is presented on the left side of the screen, with information about the original number of rows for each table, the number of rows that are loaded to satisfy the coverage rules, the total number of rows of the reduced database (which also includes the rows that are needed to ensure referential integrity) and the percent reduction (percentage of rows that are eliminated). ",
+    "bbox": [
+      85,
+      770,
+      480,
+      866
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      426,
+      912,
+      461
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "On the right side of the screen, information of each query is presented. The cost is the number of rows that have been added to ensure the coverage. It can be shown that in the figure, queries 3 and 4 have a zero cost, because all rows added for covering query 1 will also cover them. Also, there are only 4 queries because the last one is duplicated and then removed. ",
+    "bbox": [
+      517,
+      466,
+      912,
+      540
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Once the shrinking has been done, the user may view the commands that will create the reduced database or execute them in order to populate the reduced database. ",
+    "bbox": [
+      517,
+      545,
+      912,
+      580
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "5. CASE STUDY ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      593,
+      668,
+      608
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In this section we present a case study and show the results of the reduction. We use a real-life helpdesk application and a copy of the production database. The helpdesk application manages change and support requests (Ticket), which may be transferred to other technicians or change their state using history records (TicketHistory) associated to each ticket. The application has other capabilities such as keeping bookmarks, attachments, and a complete security subsystem that issues queries to determine whether it allows or denies access to the stored information on the basis of special privileges and groups for each type of transaction (create, update, read) into each object (ticket, history record, ticket list). ",
+    "bbox": [
+      517,
+      610,
+      912,
+      755
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The production database used is implemented in SQL Server and has 22,387 tickets with 103,553 history records and 279 users. In total the database contains 137,490 rows spread over 31 tables. ",
+    "bbox": [
+      517,
+      762,
+      912,
+      798
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Four main questions arise in relation to the feasibility of the approach presented in this paper. With regard to the efficiency: ",
+    "bbox": [
+      517,
+      805,
+      912,
+      830
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "a) What is the degree of reduction that can be attained? b) What is the performance of the approach as automated by QAShrink? ",
+    "bbox": [
+      517,
+      836,
+      912,
+      872
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "With regard to the effectiveness: ",
+    "bbox": [
+      85,
+      124,
+      280,
+      136
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "c) Is the coverage measured in the original database preserved by the reduced database?   \nd) Is the fault detection ability of the original database preserved by the reduced database? ",
+    "bbox": [
+      84,
+      143,
+      480,
+      193
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5.1 Efficiency Considerations ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      204,
+      341,
+      218
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We recorded the queries that are being executed against the database during the use of the application in a number of different user sessions. In total, 988 queries were recorded which, after removing duplicates, led to 198 different queries used for the reduction process. ",
+    "bbox": [
+      85,
+      219,
+      480,
+      279
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In relation with question a), Table 2 displays the size of each table before and after the reduction (CovAfter shows the number of rows after reduction, excluding the rows needed to preserve the referential integrity). The size of the database drops from 137,490 to 223 rows. The reduction is $9 9 . 8 4 \\%$ measured as the percentage of rows eliminated. Although we can not claim that this is the optimum (because it would depend on the order of the queries), the magnitude of the reduction is very large, especially for the tables that have many rows. ",
+    "bbox": [
+      85,
+      286,
+      480,
+      396
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/43d02bc913297f4839301a56faeebef9733b1c827725048cebac0e0e5b435675.jpg",
+    "table_caption": [
+      "Table 2. Size of the database for each table (before and after) "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1>TableName</td><td rowspan=1 colspan=1>Before</td><td rowspan=1 colspan=1>CovAfter</td><td rowspan=1 colspan=1>After</td><td rowspan=1 colspan=1>Red (%)</td></tr><tr><td rowspan=1 colspan=1>DBPermission</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>96.44</td></tr><tr><td rowspan=1 colspan=1>UserPreference</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>96.69</td></tr><tr><td rowspan=1 colspan=1>DataBase</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>20.00</td></tr><tr><td rowspan=1 colspan=1>SQLSELECTType</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>60.00</td></tr><tr><td rowspan=1 colspan=1>User</td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>91.04</td></tr><tr><td rowspan=1 colspan=1>SQLTypeCriterion</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>82.69</td></tr><tr><td rowspan=1 colspan=1>Ticket</td><td rowspan=1 colspan=1>22.387</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>99.85</td></tr><tr><td rowspan=1 colspan=1>SQLCategoryCriterion</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>82.61</td></tr><tr><td rowspan=1 colspan=1>SQLStatusCriterion</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>83.78</td></tr><tr><td rowspan=1 colspan=1>SQLScopeCriterion</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>40.00</td></tr><tr><td rowspan=1 colspan=1>SQLOrderCriterion</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>61.54</td></tr><tr><td rowspan=1 colspan=1>SQLConjunction</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>50.00</td></tr><tr><td rowspan=1 colspan=1>SQLWhereFind</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>63.64</td></tr><tr><td rowspan=1 colspan=1>SQLOtherCriterion</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>60.00</td></tr><tr><td rowspan=1 colspan=1>Category</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>54.17</td></tr><tr><td rowspan=1 colspan=1>Status</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>43.75</td></tr><tr><td rowspan=1 colspan=1>Priority</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>0.00</td></tr><tr><td rowspan=1 colspan=1>OrganizationType</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>30.00</td></tr><tr><td rowspan=1 colspan=1>Type</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>78.79</td></tr><tr><td rowspan=1 colspan=1>Attachment</td><td rowspan=1 colspan=1>3.013</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>99.87</td></tr><tr><td rowspan=1 colspan=1>TicketAttachment</td><td rowspan=1 colspan=1>2.898</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>99.90</td></tr><tr><td rowspan=1 colspan=1>TicketHierarchy</td><td rowspan=1 colspan=1>3,880</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>99.90</td></tr><tr><td rowspan=1 colspan=1>Bookmark</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>98.13</td></tr><tr><td rowspan=1 colspan=1>TicketHistory</td><td rowspan=1 colspan=1>103,553</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>99.99</td></tr><tr><td rowspan=1 colspan=1>NextStatus</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>86.67</td></tr><tr><td rowspan=1 colspan=1>NextStatusUser</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>91.43</td></tr><tr><td rowspan=1 colspan=1>NextStatusUserAct</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>97.22</td></tr><tr><td rowspan=1 colspan=1>PermissionOnType</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>93.94</td></tr><tr><td rowspan=1 colspan=1>PermissionOnGroup</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>88.24</td></tr><tr><td rowspan=1 colspan=1>Organization</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>0.00</td></tr><tr><td rowspan=1 colspan=1>TypeClass</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>25.00</td></tr><tr><td rowspan=1 colspan=1>TOTAL</td><td rowspan=1 colspan=1>137,490</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>99.84</td></tr></table>",
+    "bbox": [
+      77,
+      419,
+      484,
+      796
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "With regard to question b), the time needed to select all rows to be kept in the reduced database was 86.6 seconds, with a total elapsed time of 125.2 seconds plus 3.7 seconds in executing the SQL commands to copy the rows from the original database to the reduced one. An Intel Core 2 Duo $2 . 2 \\ : \\mathrm { G H z }$ processor with a local database has been used for the experiments. In total 335,191 output rows were read during the evaluation of all coverage rules. ",
+    "bbox": [
+      84,
+      805,
+      480,
+      865
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      517,
+      124,
+      910,
+      149
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "That figures show a very good performance in the reduction of a production database, both in the size of the reduced database and in the time spent for this task. ",
+    "bbox": [
+      517,
+      156,
+      912,
+      193
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5.2 Efficacy Considerations ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      203,
+      757,
+      218
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In order to check the question c), the coverage rules were executed against both the original database and the reduced database and the percent coverage measured. This information is displayed in the first row in Table 3. ",
+    "bbox": [
+      517,
+      219,
+      912,
+      267
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/crm_1900612/auto/images/26acd60571fcd2870a8fcb742df86582852fb76058d5880e845a42cbe667deb1.jpg",
+    "table_caption": [
+      "Table 3. Coverage and Mutation Score before and after the reduction "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>BeforeReduction</td><td rowspan=1 colspan=2>AfterReduction</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NumberRules/Mutants</td><td rowspan=1 colspan=1>Covered/Dead</td><td rowspan=1 colspan=1>Coverage/MutationScore</td><td rowspan=1 colspan=1>Covered/Dead</td><td rowspan=1 colspan=1>Coverage/MutationScore</td></tr><tr><td rowspan=1 colspan=1>Coverage</td><td rowspan=1 colspan=1>1,869</td><td rowspan=1 colspan=1>889</td><td rowspan=1 colspan=1>47.57%</td><td rowspan=1 colspan=1>959</td><td rowspan=1 colspan=1>51.31%</td></tr><tr><td rowspan=1 colspan=1>MutationScore</td><td rowspan=1 colspan=1>78.844</td><td rowspan=1 colspan=1>50.014</td><td rowspan=1 colspan=1>63.43%</td><td rowspan=1 colspan=1>49,703</td><td rowspan=1 colspan=1>63.04%</td></tr></table>",
+    "bbox": [
+      515,
+      299,
+      915,
+      380
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "At first glance, the expected result would be to achieve a lower or equal coverage than using the original database, but the actual result is that coverage increases in the reduced database. After examining the cause of that increase, we found that this is caused by the rules intended to measure the coverage of joins. The original database is a copy of a production database that has been used for several years. Therefore, as all rows in most master tables have at least one related row in their detail table, these rules are not covered. However, as the reduction process removes many rows, the final database contains the situations in which there is some row in a master table without any related row in the detail, leading to a coverage increase. ",
+    "bbox": [
+      517,
+      387,
+      912,
+      533
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In relation with question d), we generated a set of mutants for each query. These mutants include conventional mutants and others specifically designed for SQL [18]. As in the previous case the mutation score was measured against both the original and the reduced database and the results given in the second row in Table 3. ",
+    "bbox": [
+      517,
+      538,
+      912,
+      610
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In this case the mutation score decreases, but less than $0 . 5 \\%$ , which is a very good score, taking into account that the reduced database has far fewer rows. Although not directly comparable, these results show lower effectiveness loses than other results for non database applications [14]. That implies that the reduced database contains a very diverse set of rows that are good enough to be used for testing purposes in the sense that they have approximately the same fault detection ability measured in terms of mutants. ",
+    "bbox": [
+      517,
+      616,
+      912,
+      725
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "6. CONCLUSION ",
+    "text_level": 1,
+    "bbox": [
+      517,
+      738,
+      678,
+      751
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We presented an automated approach for the reduction of test databases which attains a good trade-off between the percentage of reduction and the fault detection ability. Given a set of queries and an original test database we select a minimum set of rows that satisfy the coverage of the database with respect to the queries and populate a new reduced test database which only contains the selected rows. As shown in the case study, it performs efficiently and the resulting reduced database has very similar fault detection ability to the original one. The case study shows the results obtained from a production database which has been reduced by $9 9 . 8 4 \\%$ (measured in the number of rows that are eliminated), while the mutation score only decreases by less than $0 . 5 \\%$ . ",
+    "bbox": [
+      517,
+      754,
+      912,
+      863
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      85,
+      124,
+      480,
+      161
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This work may be completed in two main different directions. First, this approach takes isolated queries and does not consider the effects of updates which may have influence on the subsequent queries. These effects and the possible combination into a complete framework of test suite reduction (both reducing the number of tests and the data) may be a point for future research. On the other hand, currently queries with joins and alias are considered, but additional work must be done to incorporate some other features such as views, subqueries or groupings. ",
+    "bbox": [
+      87,
+      166,
+      480,
+      276
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Nevertheless, the approach is potentially useful in helping the tester in the elaboration of new test cases or complete existing ones by starting from a previously populated database which includes a suitable set of test data taken from other tests or from a production database. ",
+    "bbox": [
+      85,
+      281,
+      480,
+      342
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "7. ACKNOWLEDGMENTS ",
+    "text_level": 1,
+    "bbox": [
+      87,
+      355,
+      332,
+      368
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "This work has been funded by the Department of Science and Innovation (Spain) and ERDF Funds (TIN2007-67843-C06-01), the Government of the Principality of Asturias (CN-07-168) and the Government of Castilla-La Mancha (PAC-08-0121-1374). ",
+    "bbox": [
+      85,
+      370,
+      480,
+      418
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "8. REFERENCES ",
+    "text_level": 1,
+    "bbox": [
+      85,
+      434,
+      245,
+      446
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "[1] Binnig, C., Kossmann, D. and Lom, E. MultiRQP - Generating Test Databases for the Functional Testing of OLTP Applications. Proceedings of the 1st international workshop on Testing database systems. ACM New York, NY, USA, 2008.   \n[2] Binnig, C., Kossmann, D. and Lo E. Reverse Query Processing. Proceedings of the 23rd International Conference on Data Engineering. IEEE Computer Society, Washington, DC, 2007; 506-515.   \n[3] Chays, D., Deng, Y., Frankl, P.G., Dan, S., Vokolos, F.I. and Weyuker, E.J. An AGENDA for Testing Relational Database Applications. Software Testing, Verification and Reliability 2004; 14 (1): 17-44.   \n[4] Chays, D., Shahid, J. and Frankl, P.G.. Query-based Test Generation for Database Applications. Proceedings of the 1st international workshop on Testing database systems. ACM New York, NY, USA, 2008.   \n[5] Chilenski, J.J. An investigation of three forms of the modified condition decision coverage (MC/DC) criterion. Technical Report DOT/FAA/AR-01/18, U.S. Department of Transportation, Federal Aviation Administration, April 2001.   \n[6] Emmi, M., Majumdar, R. and Sen, K. Dynamic Test Input Generation of Database Applications. Proceedings of the 2007 International Symposium on Software Testing and Analysis, ACM, New York, NY, 2007; 151-162.   \n[7] Haftmann, F., Kossmann, D. and Kreutz, A,. Efficient Regression Tests for Database Applications. Proceedings of the 2nd Conference on Innovative Data Systems Research, 2005: 95-106.   \n[8] Haftmann, F., Kossmann, D. and Lo, E. A framework for efficient regression tests on database applications. The VLDB Journal 2007; 16 (1): 145-164.   \n[9] Halfond, W.G.J. and Orso, A. Command-Form Coverage for Testing Database Applications. Proceedings of the 21st IEEE/ACM International Conference on Automated Software Engineering. IEEE Computer Society, Washington, DC, 2006; 69-80.   \n[10] Haraty, R.A., Mansour, N., and Daou, B. Regression test selection for database applications. In Siau K (Ed.), Advanced Topics in Database Research, vol. 3, Idea Group, 2004; 141-165.   \n[11] Kapfhammer, G.M. and Soffa, M.L. A Family of Test Adequacy Criteria for Database-Driven Applications. Proceedings of the 9th European software engineering conference /11th ACM SIGSOFT international symposium on Foundations of software engineering. ACM Press, New York, NY, 2003; 98–107.   \n[12] Kapfhammer, G.M. and Soffa, M.L. Database-Aware Test Coverage Monitoring. Proceedings of the 1st conference on India software engineering conference. ACM, New York, NY, 2008; 77-86.   \n[13] Offutt, J., Liu, S., Abdurazik, A. and Ammann, P. Generating test data from state-based specifications. Software Testing, Verification and Reliability 2003; 13(1): 25–53.   \n[14] Rothermel, G., Harrold, M.J., von Ronne, J. and Hong, C. Empirical studies of test-suite reduction. Software Testing, Verification and Reliability 2002; 12(4): 219-249.   \n[15] Suárez-Cabal, M.J. and Tuya J. Using an SQL Coverage Measurement for Testing Database Applications. Proceedings of the 12th ACM SIGSOFT Symposium on the Foundations of Software Engineering, ACM, New York, NY, 2004; 253 – 262.   \n[16] Suárez-Cabal, M.J. and Tuya J. Structural Coverage Criteria for Testing SQL Queries. Journal of Universal Computer Science 2009; 15(3): 584-619.   \n[17] Tuya, J., Suárez-Cabal, M.J. and de la Riva, C. A practical guide to SQL white-box testing. ACM SIGPLAN Notices 2006; 41(1).   \n[18] Tuya, J., Suárez-Cabal, M.J. and de la Riva, C. Mutating Database Queries. Information and Software Technology 2007; 49 (4): 398-417.   \n[19] Tuya, J., Suárez-Cabal, M.J. and de la Riva, C. Full Predicate Coverage for Testing SQL Database Queries. Submitted, February 2009.   \n[20] Willmor, D. and Embury, S.M. A safe regression test selection technique for database–driven applications. Proceedings of the 21st IEEE International Conference on Software Maintenance. IEEE Computer Society, Washington, DC, 2005; 421-430.   \n[21] Willmor, D. and Embury, S.M. An Intensional Approach to the Specification of Test Cases for Database Applications. Proceedings of the 28th international conference on Software engineering. ACM New York, NY, USA, 2006; 102-111. ",
+    "bbox": [
+      84,
+      448,
+      480,
+      872
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      515,
+      119,
+      910,
+      833
+    ],
+    "page_idx": 5
+  }
+]

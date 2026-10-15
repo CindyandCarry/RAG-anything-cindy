@@ -12,9 +12,6 @@ __pycache__/
 # built index — rebuild on the server, do not commit/transfer the old one
 RAG_STORAGE*/
 
-# parsed data — transferred separately via scp (1.1GB of images)
-mineru-parsed/
-
 # logs and results
 all_logs/
 *_results/

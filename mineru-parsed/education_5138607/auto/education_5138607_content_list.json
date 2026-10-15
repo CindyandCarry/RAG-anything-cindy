@@ -1,0 +1,1997 @@
+[
+  {
+    "type": "text",
+    "text": "Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect, the company's public news and information website. ",
+    "bbox": [
+      114,
+      295,
+      887,
+      411
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Elsevier hereby grants permission to make all its COVID-19-related   \nresearch that is available on the COVID-19 resource centre - including this research content - immediately available in PubMed Central and other   \npublicly funded repositories, such as the WHO COVID database with rights   \nfor unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are   \ngranted for free by Elsevier for as long as the COVID-19 resource centre remains active. ",
+    "bbox": [
+      116,
+      468,
+      883,
+      705
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ELSEVIER ",
+    "bbox": [
+      424,
+      111,
+      573,
+      239
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases—Terrestrial or cosmic? ",
+    "text_level": 1,
+    "bbox": [
+      143,
+      138,
+      858,
+      240
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steelea,b,c,∗, Reginald M. Gorczynskid , Robyn A. Lindleye,f,   \nGensuke Tokorog , Robert Templeh , and   \nN. Chandra Wickramasinghec,g,i,j,∗   \na C.Y.O’Connor ERADE Village Foundation, Piara Waters, Perth, WA, Australia   \nb Melville Analytics Pty Ltd, Melbourne, VIC, Australia   \nc Centre for Astrobiology, University of Ruhuna, Matara, Sri Lanka   \nd University Toronto Health Network, Toronto General Hospital, University of Toronto, Toronto,   \nON, Canada   \ne Department of Clinical Pathology, Faculty of Medicine, Dentistry & Health Sciences,   \nUniversity of Melbourne, Melbourne, VIC, Australia   \nf GMDx Group Ltd, Melbourne, VIC, Australia   \ng Institute for the Study of Panspermia and Astroeconomics, Gifu, Japan   \nh The History of Chinese Science and Culture Foundation, Conway Hall, London, United Kingdom   \ni University of Buckingham, Buckingham, United Kingdom   \nj National Institute of Fundamental Studies, Kandy, Sri Lanka   \n∗ Corresponding authors: e-mail address: e.j.steele@bigpond.com; ncwick@gmail.com ",
+    "bbox": [
+      141,
+      256,
+      888,
+      320
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      141,
+      322,
+      840,
+      490
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Contents ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      521,
+      240,
+      538
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction 76   \n2. Sudden simultaneous emergence of Candida auris infections in separate global   \nregions 77   \n3. Sudden emergence new Coronavirus (COVID-19) causing respiratory infections   \nin Wuhan, China and neighboring regions 81   \n3.1 Overview of the COVID-19 epidemic 81   \n3.2 Detailed analysis of COVID-19 epidemic 86   \n3.3 Link with a direct strike of meteorite over central-North East China,   \nOctober 11, 2019 88   \n4. Conclusions 90   \n5. Postscript 91   \nAcknowledgment 92   \nAppendix A 92   \nOn the fall of viruses through the stratosphere 92   \nAppendix B as February 15, 2020 96   \nAppendix C 97   \nAn update on published and submitted work by the group as June 22, 2020 97   \nReferences 98 ",
+    "bbox": [
+      138,
+      549,
+      900,
+      865
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Advances in Genetics, Volume 106 ISSN 0065-2660 https://doi.org/10.1016/bs.adgen.2020.04.002 ",
+    "bbox": [
+      141,
+      927,
+      465,
+      966
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "HAPTER SIX ",
+    "bbox": [
+      199,
+      74,
+      326,
+      91
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$©$ 2020 Elsevier Inc. 75 All rights reserved. ",
+    "bbox": [
+      662,
+      925,
+      893,
+      953
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "C ",
+    "bbox": [
+      141,
+      46,
+      196,
+      115
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      94,
+      194,
+      112
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The origins and global spread of two recent, yet quite different, pandemic diseases is discussed and reviewed in depth: Candida auris, a eukaryotic fungal disease, and COVID-19 (SARS-CoV-2), a positive strand RNA viral respiratory disease. Both these diseases display highly distinctive patterns of sudden emergence and global spread, which are not easy to understand by conventional epidemiological analysis based on simple infectiondriven human- to-human spread of an infectious disease (assumed to jump suddenly and thus genetically, from an animal reservoir). Both these enigmatic diseases make sense however under a Panspermia in-fall model and the evidence consistent with such a model is critically reviewed. ",
+    "bbox": [
+      138,
+      121,
+      856,
+      279
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      166,
+      344,
+      358,
+      365
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the past 40 years there have been a number of suddenly emerging epidemic viral diseases. Many were self-limiting and “went away” or “disappeared” almost as quickly as they appeared (SARS, MERS, ZIKAV). The origins in all cases were a mystery, and very controversial. Others such as the far more deadly HIV retrovirus has finally succumbed to highly effective antiretroviral therapy (HAART) making life bearable for infected $\\mathrm { H I V } +$ people. However it has integrated into the human germline in many cases and is likely to be a permanent “endogenized retroviral signature” in the human germline, joining the many thousands of other HERVS, human endogenous retrovirus sequences that litter the human genome as fragments or potentially active retroviruses (Wickramasinghe, 2012; Wickramasinghe & Steele, 2016). ",
+    "bbox": [
+      104,
+      378,
+      854,
+      625
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "However the great exemplar of the emergence of a new pandemic disease of considerable virulence and pathogenicity was the Spanish Flu Pandemic 1918–1919. That pandemic has been analyzed in great detail by Hoyle and Wickramasinghe (1979), and the astute and engaged reader of all that evidence is left with only one conclusion—the Spanish Flu disease came from Space on a massive scale, and killed tens of millions before the advent of air travel. ",
+    "bbox": [
+      104,
+      626,
+      856,
+      748
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We do not intend here to discuss these earlier epidemics and pandemics— which have been covered in previous papers (some cited here). We focus our analysis on the actual origins of two recently emergent epidemics: a fungal disease caused by Candida auris and the current coronavirus “common coldtype” epidemic caused by the COVID-19 virus. These two epidemics display distinctive features and clear evidence that they may have come from a space in-fall of infectious viruses and micro-organisms in cometary dust or meteorite-derived dust particles. ",
+    "bbox": [
+      104,
+      751,
+      856,
+      915
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      692,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      319,
+      159,
+      387
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2. Sudden simultaneous emergence of Candida auris infections in separate global regions ",
+    "text_level": 1,
+    "bbox": [
+      203,
+      121,
+      863,
+      162
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Candida species are well-known yeasts that can cause a variety of cutaneous and invasive infections; however, they had never been considered a serious global health threat until the recent emergence of Candida auris. This was first reported in the ear canal of a patient in Japan in 2009. Since then, cases have been recorded on all continents except Antarctica (Rhodes & Fisher, 2019). It can cause a variety of invasive infections with a mortality rate of up to $60 \\%$ , typically infecting susceptible hosts, namely those with long hospitalizations, many illnesses and impaired immunity (Bradley, 2019). In addition, it can be resistant to multiple antifungals and has the capacity to cause outbreaks within healthcare facilities (Chow et al., 2018). Its ability to colonize and persist for a long time on human skin, tolerate some disinfectants that are commonly used in healthcare settings, and to survive on inanimate surfaces for many weeks, all contribute to its effectiveness as an outbreak agent ( Jackson et al., 2019). ",
+    "bbox": [
+      141,
+      172,
+      893,
+      461
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Even more remarkable though is its emergence. An analysis of whole genomic sequencing from 54 isolates of C. auris from four regions around the world revealed four major clades or genetically distinct populations. This finding supports the hypothesis of the nearly simultaneous and independent emergence of these clades in geographically separate human populations The SENTRY Antifungal Surveillance Program is a global system that has continued for 20 years (1997–2016). It collects consecutive invasive Candida isolates from medical centers located in four regions during each calendar year, namely: North America, Europe, Latin America, and the Asia-Pacific (Pfaller, Diekema, Turnidge, Castanheira, & Jones, 2019). Despite going back to 1997, the SENTRY data did not identify C. auris until 2009 ( Jackson et al., 2019). In fact, the earliest C. auris isolates were found in South Korea in 1996 and Japan in 1997 (Forsberg et al., 2018). ",
+    "bbox": [
+      141,
+      462,
+      893,
+      729
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Although it is a Candida species, C. auris is quite distinct from its Candidal relatives. The genus consists of $> 5 0 0$ species, many of which greatly differ from each other. C. auris comes from the Clavispora clade of the Metschnikowiaceae family. It has not been identified from any natural environments ( Jackson et al., 2019). It is relatively thermotolerant in that it can grow at temperatures as high as $4 2 ^ { \\circ } \\mathrm { C }$ . Such thermotolerance could potentially allow it to infect avian hosts (Chatterjee et al., 2015). ",
+    "bbox": [
+      141,
+      733,
+      893,
+      876
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Thus, infections caused by the fungus Candida spp. have been recognized for many years. However, of interest here is the abrupt emergence of a new strain Candida auris which presents a profound puzzle (Lockhart et al., 2017). This new strain which is multi-drug resistant has emerged as a major cause of mortality and is posing a serious challenge for health officials the world over (Chowdhary, Sharma, & Meis, 2017; Cortegiani et al., 2018; Jeffery-Smith et al., 2018; Lockhart et al., 2017). While Candida auris was reported for the first time in Japan in 2009 it appears to have been isolated more or less simultaneously in many widely separated locations across the world. ",
+    "bbox": [
+      141,
+      878,
+      891,
+      918
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      141,
+      95,
+      196,
+      166
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      94,
+      856,
+      237
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Phylogenetic analysis by Lockhart et al. (2017) has identified four distinct clades separated by tens of thousands of single nucleotide polymorphisms (SNPs) each of which is geographically localized. A large number of SNPs have been discovered in isolates that were recovered from four widely separated locations (South Asia, East Asia, South America, and South Africa). Whole genome sequencing of these isolates has revealed an exceedingly low genetic diversity within individual regions even across the largest clade involving some 36 isolates from as wide a field as India and Pakistan. The conclusion by Lockhart et al. (2017) is that $C$ . auris must have arisen almost simultaneously in multiple four different global locations. Further, from isolates of Candida from four continents Lockhart et al. (2017) did not find C. auris before 2009 confirming that this pathogen was not simply misidentified previously. While there have been claims that earlier isolates of Candida species may also have been Candida auris which were incorrectly identified, these assertions have not been confirmed. Thus, it seems reasonable to conclude that a 2009 date for the origin Candida auris is fairly secure (Cortegiani et al., 2018). ",
+    "bbox": [
+      104,
+      240,
+      856,
+      591
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Since global cross-infection over a short timescale ( $\\cdot < 1$ year) appears very unlikely one possibility is of independent multiple origins of Candida auris from some widely present Candida ancestor. A fungicide driver model has been advanced to explain the phenomenon. However this vague model does not fit the available data. We thus argue here that a panspermic in-fall model should be considered as a plausible and better alternative. ",
+    "bbox": [
+      104,
+      594,
+      856,
+      716
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Thus, in our explanation (from all the available data) it could be concluded that C. auris first arose in 2009 from several environmentally-induced hypermutation events that occurred after in-fall from cosmic (cometary) dust clouds through which the Earth had traversed sometime during or before 2009. Thus this new C. auris would appear simultaneously in many widely separated places on the Earth. Alternatively, a genetic hybridization event may have taken place at this time involving a globally distributed set of comet-borne gene segments that were themselves genetically diverse. ",
+    "bbox": [
+      104,
+      719,
+      856,
+      882
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "78 ",
+    "bbox": [
+      104,
+      49,
+      127,
+      61
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "How could this have occurred? We critically evaluate the data from a genetic point of view. The data demands that there are at least four preexisting clades $( \\geq 1 0 , 0 0 0$ SNP differences) in an external non-terrestrial source (cometary dust tails) and these came down separately in separate regions and thereafter spread clonally (Lockhart et al., 2017). The other alternative is to consider the existence of a single “mother” or “parent” C. auris clade in the cometary dust source, which upon landing and infection of susceptible hosts is induced into a hypermutation-adaptation sequence via a fast, essentially Lamarckian, Adaptive Mutation strategy (Rosenberg, 2001; Chapter “The Efficient Lamarckian Spread of Life in the Cosmos” by Steele et al.) thereby generating in excess of 10,000 new SNP differences from the parent orbiting cosmic strain. The final step that can be envisaged is the dispersal of a successful adaptive variant in a particular region to other hospitals in that region. Thus on the basis of a Panspermic model there are two possible explanations for the strange and striking C. auris patterns of genome diversity. The Lamarckian hypermutation strategy at each separate in-fall location (susceptible hospital patients) from a pure line “mother” strain is, on parsimony grounds, preferred. ",
+    "bbox": [
+      141,
+      97,
+      893,
+      466
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We have previously argued that a sudden emergence of new pathogenic variants of circulating viruses could be linked to cosmic events related to the well-known 11-year sunspot cycle (Qu & Wickramasinghe, 2017, 2018; Wickramasinghe et al., 2017, 2019). The Earth’s magnetosphere, and the interplanetary magnetic field in its vicinity, are both modulated by the solar wind that controls the flow of charged particles onto the Earth. During times of sunspot minima, a general weakening of magnetic field occurs and this would be accompanied by an increase in the flux of galactic cosmic rays (GCR’s) and also of charged interstellar and interplanetary dust particles. Evidence for such periodic increases linked to solar activity is evident in the high frequency of noctilucent clouds (as at present, in 2019–2020) and also in the increase of particulate deposits in polar ice cores. Since the latter could, in our view, include biological entities such as bacteria, viruses and other eukaryotic microorganisms like C. auris, an increase in their incidence on the Earth will therefore be expected at such times. It is interesting to note that in 2008–2009 (the solar minimum under discussion) the interplanetary magnetic field was the lowest on record since the beginning of the space age. We would therefore expect a significantly enhanced flux of both cosmic rays as well as electrically charged biological entities at this time, so the arrival of a new clade of C. auris from a space source should not be ignored. ",
+    "bbox": [
+      143,
+      469,
+      893,
+      882
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      631,
+      63
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "A crucial fact relating to the first appearance of Candia auris in 2009 is that this time marks not merely a solar minimum but the lowest minimum of the sunspot cycle in 100 years (see Figs. 1 and 2). This particular minimum was all the more remarkable because the sun was spotless (devoid of spots) for more than $70 \\%$ of the time. The opportunity of the transference of both Galactic Cosmic Rays (GCR’s) and charged molecular structures (e.g., C. auris) thus remained continuously optimal over extended periods. At the present time (February 2020) as we approach a new sunspot minimum the sun continues to be exceedingly “quiet” and the expectations are that we are heading for an even deeper minimum than before. The case for epidemiological vigilance for new microbial and viral pathogens cannot be greater than at the present time. ",
+    "bbox": [
+      104,
+      94,
+      856,
+      342
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/1ed1e4e13bcdec6e070e36dac65e5ce606c93b44078cabeef44f56078ea2d539.jpg",
+    "image_caption": [
+      "Fig. 1 The distribution of the number spotless days in the Sunspot cycle, showing the period 2008/2009 to be the lowest on record for a century. Exceptionally low sunspot activity in solar minima open the floodgate to interstellar and comet dust. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      115,
+      384,
+      844,
+      621
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/d81027c6b640ec6c63caee3aac1105baeb9e0f2ff4b74017cbda558040491682.jpg",
+    "image_caption": [
+      "Fig. 2 Current sunspot cycle 24 and predicted cycle 25 (Wickramasinghe et al., 2019). From term solar observations-world data center, Royal observatory of Belgium, Brussels (http://www.sidc.be/silso/home). "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      284,
+      717,
+      671,
+      885
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": ". Sudden emergence new Coronavirus (COVID-19) causing respiratory infections in Wuhan, China and neighboring regions ",
+    "text_level": 1,
+    "bbox": [
+      203,
+      121,
+      842,
+      180
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We now turn to our critical analysis of the origin of the COVID-19 epidemic underway as we draft this chapter. ",
+    "bbox": [
+      145,
+      191,
+      888,
+      231
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3.1 Overview of the COVID-19 epidemic ",
+    "text_level": 1,
+    "bbox": [
+      141,
+      253,
+      631,
+      274
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The global extent of the emotion around this epidemic in the mainstream popular media, and even the scientific press (Science magazine) is disturbing. It is without parallel in our experience in this social media internet age. However, it does approach the justified hysteria around the far more serious, and initially more lethal, HIV epidemic/pandemic that suddenly emerged 40 years ago. ",
+    "bbox": [
+      143,
+      282,
+      893,
+      384
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The actual COVID-19 viral disease itself causes respiratory “common cold-like” illness in most people diagnosed with symptoms (but many potential carriers of the disease are asymptomatic). The infection can progress to severe pneumonia in elderly and already medically-compromised patients with other conditions (diabetes, coronary disease, etc.). About $2 \\%$ of all COVD-19 cases have died due to the pneumonia (Fig. 4). Vaccine and antivirals will not help the latter group, but standard well trusted medical care will—to help patients through the respiratory crisis of the lifethreatening pneumonia and dangerous inflammatory bronchitis symptoms. Such care will allow recovery of most patients. The fact that “Recoveries” far exceed “Deaths” (Fig. 4) indicates that timely medical care for this otherwise “common cold” respiratory illness must be the medical priority in the epicenter of the infection in Wuhan and nearby regions in China. We believe this medical care is being implemented throughout China. ",
+    "bbox": [
+      141,
+      384,
+      893,
+      674
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "But it is the origin of this new emergent virus disease which has raised the most angst. It is literally explosively centred on Wuhan, which appears to be the epicenter. And it appeared suddenly without warning. The theory that it jumped from bats via snakes to humans is implausible (below). The same angst over viral origins was also evident when HIV, SARS, MERS, Ebola, and ZIKAV suddenly appeared on the scene. We will not deal with these earlier diseases as their origins, in our considered opinion, are far less clear cut than COVID-19. ",
+    "bbox": [
+      141,
+      677,
+      893,
+      839
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "However sorting out what is true from what is untrue is a challenge. The current distribution and case numbers as February 14, 2020 are shown in Figs. 3 and 4. The epidemic is centred on the city of Wuhan, in the central Hubei province of China (for an update on our analyses since drafting of this chapter, see Appendix C). ",
+    "bbox": [
+      141,
+      842,
+      893,
+      944
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      888,
+      61
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      141,
+      95,
+      196,
+      166
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/5ffad7dd14b184d7fd97eb11504b0f192ca4b7a68b4e80bb8975aa566071ef48.jpg",
+    "image_caption": [
+      "Fig. 3 The Australian newspaper as February 14, 2020, p. 8. Illustrative of newspaper reports on the early phase of the COVID-19 pandemic at time of writing in mid-February 2020— infection numbers February 14 2020 are: Canada, 7; US, 14; Finland, 1; Britain, 9; France, 11; Spain, 2; Italy, 3; Belgium, 1; Germany, 16, Sweden, 1; UAE, 8, Nepal, 1; India 3; Macao, 10; Vietnam, 15; Philippines, 3; Sri Lanka, 1; Mainland China, 59,539; Russia, 2; Thailand, 33; Taiwan, 18; Cambodia, 1; South Korea, 28; Japan, 29; Diamond Princes cruise ship, 218; Hong Kong, 50; Malaysia, 18; Australia, 15. Deaths: 1367 China, 1 Philippines, 1 Hong Kong. An update on the total toll of the pandemic, now approaching a global total of 9 million confirmed cases as June 22, 2020 is in Appendix C. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      125,
+      108,
+      835,
+      376
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/613f6803c21f6ff94cfbbdd538088269633224de98b28edb2bebeec0c98a6239.jpg",
+    "image_caption": [
+      "Fig. 4 COVID-19 by numbers, in the Australian newspaper February 14, 2010, p. 8. Figures as of February 14, 6.30 a.m. Source—World Health Organization, Australian Government, AAP, Reuters, other media. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      127,
+      575,
+      828,
+      875
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "From about mid-January the Chinese government ordered the complete quarantine and lock-down of Wuhan and wider region around the city in Hubei province, affecting 50–100 million people. ABC News in Australia estimates Coronavirus (COVID-19) has affected 500 million people in China under lock-down (Updated February 15, 2020, 1:29 a.m.). A problem with all these reports is the lack of detailed information that led officials to such an extraordinary quarantine decision. We speculate later on this. ",
+    "bbox": [
+      143,
+      94,
+      891,
+      237
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "At the time of writing, the case incidence of this newly discovered Coronavirus is passing through 60,000 and ${ > } 9 9 . 9 9 \\%$ of all cases, almost exclusively, are Chinese. From reports of cases that exited Wuhan by aircraft in late January to other countries, say to Australia, the disease does not spread in a sustained way easily person-to-person. But there are clearly apparent cases of person-to-person spread elsewhere (say in United Kingdom and Europe, Box 1). But there is no doubt this disease is centred on China. The Johns Hopkins University COVID-19 case density maps are extremely informative. These are in Figs. 5–7. ",
+    "bbox": [
+      141,
+      240,
+      893,
+      425
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To put one interpretation on the striking case patterns in Figs. 5–7, particularly the symmetrical pattern in Fig. 7 it actually looks like a huge viral bomb explosion took place near or over Wuhan and then the radial fall-out of the disease causing viral particles to land on the millions of people either laterally or from above—some of those infected would be susceptible and who then have succumbed to the respiratory illness (in Appendix A, in relation to the expected fall of viruses through the stratosphere is an analysis by way of quantitative analogy, of the expectation of radioactive fall-out patterns from an atmospheric nuclear test in 1958). ",
+    "bbox": [
+      141,
+      429,
+      893,
+      612
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Moreover, and paradoxically, asymptomatic patients can be efficient “spreaders” of the disease. This is contrary to normal expectations as usually the infected potential spreader would display overt and full blown disease (and the coughed-up aerosols from such a patient would be dense with viral particles). Indeed, there are wide reports in the media that incubation times can range from 1 to 28 days. But once a potentially infective virus successfully navigates the Innate Immune response (see table 1, Chapter “The Efficient Lamarckian Spread of Life in the Cosmos” by Steele et al.) it would be expected to rapidly multiply within cells and spread peaking in virion numbers 5–7 days later. The actual size of the infective dose is also an important variable. So these wide-range estimates of incubation time reflect, in our view, the variable depth and extent of the actual physical viral contamination in the immediate environment of a susceptible subject viz. potentially all objects in the family home environment as well as cars, bicycles, and on their bodies—hair, clothes—and other personal effects, clothes, money, keys, etc. Indeed, the external ",
+    "bbox": [
+      141,
+      614,
+      893,
+      944
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      631,
+      63
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "BOX 1 Summary of United Kingdom cases (N.C. Wickramasinghe email report to Edward J. Steele). ",
+    "text_level": 1,
+    "bbox": [
+      129,
+      114,
+      752,
+      154
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "• January 21, 2020 CDC confirms 1 case of transmission between person who returned from Wuhan, and a person who shared accommodation in the United States. ",
+    "bbox": [
+      131,
+      155,
+      826,
+      208
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Via a ski resort in the French Alpine town of Les Contamines-Montjoie, near Switzerland, late last month, January 28, 2020 A cluster linked to an Alpine chalet ",
+    "bbox": [
+      131,
+      211,
+      828,
+      282
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "A British man (Mr. Walsh) from Brighton, was found to have the virus when he returned to the UK (London Gatwick Airport) from Geneva on January 28 on an EasyJet flight. A total of six people in Britain, including Mr. Walsh, and Britons in France who have the virus have been staying in two apartments in a ski chalet in the Alpine resort area near Mont Blanc when they were visited by Mr. Walsh on January 24 who had attended a business conference at the Grand Hyatt Hotel Singapore, where he Is believed to have contracted the virus. ",
+    "bbox": [
+      131,
+      285,
+      828,
+      412
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Mr. Walsh is thought to have passed the virus onto eleven confirmed cases while he was at the Ski resort. But he is thought to have come into contact with scores of people after leaving Singapore and no others have yet succumbed. ",
+    "bbox": [
+      131,
+      413,
+      828,
+      467
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "All the supposed transmissions of the virus from Mr. Walsh to the others were while they occupied the Chalets in France. ",
+    "bbox": [
+      131,
+      469,
+      826,
+      503
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Four are from Brighton and Hove. They are Dr. Greenwood and three men, one of whom is a healthcare worker. He also passed it to one other person in the United Kingdom, one person who is now in Mallorca and five United Kingdom nationals in France—one of which is Dr. Greenwood’s husband Bob Saynor and another their 9-year-old son. None are said to be in a serious condition. So far, the places in Brighton and Hove being quarantined are: ",
+    "bbox": [
+      131,
+      506,
+      828,
+      614
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "County Oak Medical Centre, where Dr. Catriona Greenwood worked one admin day last week, and its branch surgery at Deneway. Grenadier Pub in Hangleton, which was visited by Steve Walsh on February 1. Cornerstone Community Centre, where a yoga teacher came into contact with Steve Walsh on February 3. No other people have been advised to self-isolate. Easyjet flight EZS8481 to Gatwick from Geneva on January 28, which is believed to be the flight Mr. Walsh took back to the United Kingdom. Bevendean Primary School, where a staff member has been in close contact with someone who has been advised to self-isolate (but is not themselves diagnosed). Portslade Academy, which told parents on Friday one of its pupils has been advised to self-isolate for a fortnight after coming into contact with the Hove father. It’s believed pupils at other schools have been given the same advice. Patcham Nursing Home, which has closed its doors to all visitors after being visited by one of the medics now confirmed as having the virus. ",
+    "bbox": [
+      129,
+      615,
+      828,
+      891
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The cluster associated with Mr. Walsh could have been coinfected from a common source, with Mr. Walsh showing symptoms first. ",
+    "bbox": [
+      129,
+      893,
+      826,
+      929
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/2e1983185ac986303aa8fea42b5e54046a359662262e2c4fcc2c93c27abfb3be.jpg",
+    "image_caption": [
+      "Fig. 5 Case density map—South East Asia region wide. Johns Hopkins University as February 7, 2020. Johns Hopkins University’s Centre for Systems Science and Engineering. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      157,
+      101,
+      861,
+      415
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/324f3a7ca1f565787cb3ca189bcb10334aefddd7998bc8ac938edd1b43f0d190.jpg",
+    "image_caption": [
+      "Fig. 6 Case density map—China and nearest neighbors. Johns Hopkins University as February 7, 2020. Johns Hopkins University’s Centre for Systems Science and Engineering. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      155,
+      493,
+      879,
+      858
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/c5b08b266f96acd6693f17443c12effc3f137b375dd0cc8e0926bd4cc9a31366.jpg",
+    "image_caption": [
+      "Fig. 7 Case density map—China itself. Johns Hopkins University as February 7, 2020. Johns Hopkins University’s Centre for Systems Science and Engineering. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      115,
+      98,
+      840,
+      461
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "surface of the face mask may be the main carrier of the physical contamination. We explore the extent of viral environmental contamination further below. ",
+    "bbox": [
+      104,
+      527,
+      854,
+      586
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3.2 Detailed analysis of COVID-19 epidemic ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      604,
+      636,
+      628
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We now analyze all reliable genetic, epidemiological and geophysical and astrophysical data. This leads to the alternate hypothesis that COVID-19 arrived via a meteorite, a presumed relatively fragile and loose carbonaceous meteorite, that struck North East China on October 11, 2019. This is at odds with the main stream expert “Infectious Disease” opinion of traditional person-to-person spread of an infectious endemic disease such as, for example, Cholera (Vibrio cholerae). ",
+    "bbox": [
+      104,
+      634,
+      856,
+      777
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We then assume the viral debris and particles then made land fall in the Wuhan and related regions about a month to 6 weeks later resulting in first cases of the viral pneumonia caused by COVID-19 emerging in Wuhan regions late November 2019-early December 2019 (Cohen, 2020; Huang et al., 2020). Such an hypothesis is indeed consistent with the striking patterns shown in Fig. 7. And it makes, therefore, an extraordinary set of predictions, that we will explore at some length in our conclusions. ",
+    "bbox": [
+      104,
+      779,
+      856,
+      922
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      692,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "It suggests, first, massive region-wide physical contamination with potentially trillions of infective COVID-19 viral particles in central China-contaminating buildings, roadways, cars and factory equipment, vegetation, surface water pools, people (and their clothes, body parts such as hair, skin, personal affects, mobile phone, keys, wallets, etc.) as well as wild and domestic animals, etc. This would explain the actions of the Chinese Government who are acting to appear to be in receipt of such presumed knowledge (or information) from region-wide sampling to detect COVID-19 RNA sequences in swabs from physical objects, people and animals (via real time PCR). ",
+    "bbox": [
+      141,
+      95,
+      893,
+      300
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The recent paper by Huang et al. (2020) and the extremely important news commentary by Cohen in Science (Cohen, 2020) highlights many unusual aspects of the outbreak of COVID-19. The evidence demonstrates that many cases of disease (about $30 \\%$ of case reports) arose in locations unconnected with the Wuhan seafood and meat market, and the total tally continues to increase. Phylogenetic analyses of COVID-19 (previously named nCov-2019) sequences show little by way of sequence variation thus indicating low mutation rates thus approximating closely to what would be expected for a pure culture, of a single infecting and replicating sequence affecting disease cases (Andersen, 2020; Lu et al., 2020). These facts are now combined with the global epidemiological data, that points in the main to little or no really sustained human-to-human transmission thus far (e.g., latest reports by the Australian Department of Health). We are aware there are apparent exceptions, e.g., the “super-spreader” from Singapore, via the French Alps, and then to a United Kingdom GP surgery reporting mild symptoms, resulting in the GPs also getting the disease (Box 1). We interpret that spread by viral contamination of physical objects in the main rather than direct “cough in your face” human to human spread. ",
+    "bbox": [
+      141,
+      305,
+      893,
+      674
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In any case, current data suggest that the human-to-human spread rate is unusually low, and may be dependent on proximity and dose of virus delivered at very close quarters. The “lethality” or “death rate” from this or any other epidemic disease increases in older patients with pre-existing conditions so wider global estimates yield a death rate at $2 \\%$ of infected (Fig. 4). All these basic facts now appear agreed. ",
+    "bbox": [
+      143,
+      677,
+      893,
+      799
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The initial traditional explanation of the new epidemic of COVID-19 is that it jumped from bats (possibly via snakes) to humans and then spread by human-to-human infection contact mutating at a high rate. This explanation is at odds with the data at present. Indeed Jon Cohen the respected Science magazine journalist reports that the head of the Huang et al. (2020) study when interviewed said: ",
+    "bbox": [
+      141,
+      800,
+      893,
+      922
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      631,
+      63
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Bin Cao of Capital Medical University, the corresponding author of The Lancet article and a pulmonary specialist, wrote in an email to ScienceInsider that he and his co-authors “appreciate the criticism” from Lucey (Daniel Lucey, an infectious disease specialist at Georgetown University confirmed the epidemic could not possibly be caused by visits to the Wuham seafood and meat market). ",
+    "bbox": [
+      138,
+      94,
+      821,
+      182
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "“Now It seems clear that [the] seafood market is not the only origin of the virus,” he wrote. “But to be honest, we still do not know where the virus came from now.” (our italics) ",
+    "bbox": [
+      138,
+      186,
+      821,
+      237
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Indeed Dr. Bin Cao speaks for all mainstream medical and epidemiological professionals around the world—no formal traditional explanation can be provided for the origins of COVID-19. Thus Andrew Rambaut, Professor of Molecular Evolution at the University of Edinburgh tweeted: “Don’t think any epidemiologist is still thinking that a non-human animal reservoir has had anything to do with the nCoV-2019 epidemic since December. ",
+    "bbox": [
+      104,
+      251,
+      856,
+      373
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Certainly the genome data doesn’t support that.” (Reported in Heidi Han and Kieran Gair, Associated Press, The Australian newspaper January 27, 2020.) ",
+    "bbox": [
+      104,
+      376,
+      854,
+      435
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Thus, when we combine all the available facts we cannot rule out a viral in-fall event targeting the Wuhan province and the wider region around it as an explanation as a first cause of the epidemic. This would fit with the admittedly heterodox view of viral pandemics first proposed by Hoyle and Wickramasinghe as far back as 1978 (Hoyle & Wickramasinghe, 1979, 1990; Wickramasinghe et al., 2019; Wickramasinghe, Wainwright, & Narlikar, 2003). This concept accords with the theory of cosmic biology for which growing evidence have recently been presented in the Chapters of this book and in recent peer-reviewed papers where all the main extant evidence has been reviewed and is consistent with the Hoyle-Wickramsinghe thesis (Steele et al., 2018; Steele, Al-Mufti, et al., 2019; Steele, Gorczynski, et al., 2019). Our theory thus posits a sporadic input of cosmic bacteria, viruses and other micro-organisms that has the potential to interact with evolving terrestrial life forms, causing terrestrial diseases and further adaptive evolution on Earth. ",
+    "bbox": [
+      104,
+      438,
+      856,
+      746
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "3.3 Link with a direct strike of meteorite over central-North East China, October 11, 2019 ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      776,
+      828,
+      814
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "In the case of the current coronavirus epidemic in China it is interesting to note that an exceptionally bright fireball event was seen on October 11, 2019 over Sonjyan City in the Jilin Province of NE China (see Fig. 8). It is tempting to speculate that this event (although it happened hundreds of kilometers distant from Hubei) had a crucial role to play in what is now unfolding in and throughout China. Indeed, the match with the Johns Hopkins University case incidence patterns is so striking it is difficult to easily dismiss this as a chance correspondence of patterns, in both time and place (e.g., Fig. 7). ",
+    "bbox": [
+      104,
+      820,
+      854,
+      924
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/ed2ae1ffa1b7fa93e06722a858f239f938471a69bc9ade90566cb8292bbbab96.jpg",
+    "image_caption": [
+      "Fig. 8 The public record of this meteorite strike can be found at the Space.com website in an article by Tariq Malik, on October 13, 2019 “Brilliant Midnight Fireball Lights Up Sky Over Northeast China”. The October event is described at: https://www.space.com/ china-midnight-meteor-brilliant-fireball-october-2019.html. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      254,
+      97,
+      780,
+      299
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      143,
+      405,
+      891,
+      467
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "If a fragment of a fragile and loosely held carbonaceous meteorite carrying a cargo of trillions of viruses/bacteria and other primary source cells (for the cosmic replication of the COVID-19 virus), may have entered the mesosphere and stratosphere at high speed ${ \\sim } 3 0 \\mathrm { k m / s }$ , its outer, loosely-held envelope carrying a biological cargo may have got dispersed in the mesosphere stratosphere and troposphere. Indeed, a much larger original meteoroid could easily have been fragmenting and dispersing its contents before the ignition of the fireball event. A reasonable assumption is that the fireball which struck $2 0 0 0 \\mathrm { k m N }$ of Wuhan may have been part of a wide tube of debris the bulk of which was deposited in the stratosphere to fall over Wuhan. The fall time through the atmosphere of $1 { - } 1 0 \\mu \\mathrm { m }$ -sized solid particles could range from a few months to well over a year on the basis of straightforward calculations (e.g., in the Appendix of Hoyle & Wickramasinghe, 1979 “Diseases from space”). Because dispersal at ground level depends on the vagaries of meteorology and precipitation the deposition of virus at ground level is expected to be patchy in regard to both time and place. This is certainly consistent (thus far) with what has happened in relation to the new COVID-19 coronavirus epidemic between November 2019 and the present day (February 15, 2020). Following the initial deposition of infective particles in a small localized region (e.g., Wuhan, Hubei province, China) particles that have already become dispersed over a wider area in the troposphere will fall to ground in a higgledy-piggledy manner, and this process could be extended over a typical timescale of 1–2 years until an initial inoculant of the infective agent would be drained. This accords well with many new strains of viruses including influenza that have appeared in recent years (Wickramasinghe et al., 2019). ",
+    "bbox": [
+      141,
+      469,
+      893,
+      924
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      106,
+      95,
+      856,
+      175
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The possible link of sunspots with pandemics has been discussed over many years (Qu & Wickramasinghe, 2017, 2018; Wickramasinghe et al., 2017, 2019) and is worthy of brief further discussion. The present cycle (interface between cycles 24 and 25, Fig. 2) has seen the lowest minimum for well over a century with many sunspot free days recorded in the last months of 2019. Sunspot minima are associated with a weakening of the interplanetary magnetic field near the Earth, which in turn allows easy ingress of Galactic Cosmic Rays (GCRs) and electrically charged bacteria and viruses to the Earth. The mutagenic role of GCRs can cause genetic changes in already circulating viruses, but it is primarily to an enhanced flux of new infective particles released by the exploding meteoroid that we turn. Indeed a perfect storm over China is paying out before our eyes, a meteorite delivering COVID-19 particles corresponding with a very significant Sunspot Minimum cycle. It raises the important issue: How would other densely populated countries have reacted to, and handled, this event involving COVID-19? It was only the vagaries of chance that it exploded over China. ",
+    "bbox": [
+      104,
+      179,
+      854,
+      509
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "4. Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      560,
+      351,
+      580
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "We conclude by noting some predictions and expectations: ",
+    "bbox": [
+      159,
+      592,
+      766,
+      611
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "We expect the pattern of further spread of the new Coronavirus (COVID-19) to be dictated mostly by primary in-fall until a high level of person-to-person infectivity might possibly be achieved and the virus then acquires the status of an endemic virus.   \nViral contamination of the “environment” in the most general sense explains most of the apparent contagion, e.g., news reports like in Box 1. Thus, the possibility cannot be ruled out that the Diamond Princess cruise ship (and the more recent Westerdam cruiseship) in the South China Sea was contaminated by a fragment of the main COVID-19 dust cloud. Similar inexplicable events appeared to happen for ships at sea during the 1918–1919 Spanish Flu Pandemic (Hoyle & Wickramasinghe, 1979). And, further to this, other drifting COVID-19 smaller dust clouds that have not as yet made land fall may target remote island and other communities, as was also the case during the 1918–1919 Spanish Flu Pandemic (Hoyle & Wickramasinghe, 1979). ",
+    "bbox": [
+      101,
+      614,
+      856,
+      921
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      532,
+      159,
+      604
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Given the low mutation rate, the very wide apparent in-fall infectivity pattern (Fig. 7) the expectation is this pure viral culture has inoculated millions of Chinese citizens (as well as potentially millions of wild and domestic animals in China) inducing protective adaptive immune responses (Acquired Herd Immunity) on a very large scale. ",
+    "bbox": [
+      141,
+      95,
+      893,
+      197
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Thus, development of a so called “COVID-19 vaccine” which is much in the news at the time of writing would be a waste of public tax-payer funds if mounted on the scale envisaged by governments and national centers for disease control. ",
+    "bbox": [
+      143,
+      199,
+      893,
+      279
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "We thus expect the decline of the epidemic (peaking and declining at time of writing) to be driven by this mass natural vaccination process now underway in China. So, the suddenly emerging COVID-19 epidemic, like many similar suddenly emerging human epidemics in the past (SARs, MERs, ZIKAV), is expected to rapidly end by the self-limiting processes of wide spread herd immunity (a pattern likely to be repeated in other countries, Appendix C). ",
+    "bbox": [
+      143,
+      280,
+      893,
+      425
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "We thus expect that the incidence of serum antibodies specific for COVID-19 to be wide-spread in the Chinese population in the coming months. So, millions will be potentially immunized for life against future infections with COVID-19. ",
+    "bbox": [
+      141,
+      427,
+      895,
+      507
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "• How long will COVID-19 remain potentially infective in the physical environment? Clearly for some time—given that over the space of a month or so many cases appeared rapidly, spread by environmental contamination in our view, and not by traditional person-to-person generated aerosols at the height of the donor’s infection. This is consistent with those news reports out of China “As the death toll rose to 80, China said, increasing concerns about the potential the virus was infectious even before symptoms were visible rapidity of its spread.” (Heidi Han and Kieran Gair, Associated Press, The Australian newspaper January 27, 2020.) ",
+    "bbox": [
+      143,
+      510,
+      893,
+      694
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": ". Postscript ",
+    "text_level": 1,
+    "bbox": [
+      201,
+      726,
+      363,
+      748
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "As this chapter was submitted to the publisher an authoritative news despatch from Japan reports sporadic outbreaks across the country with no direct link with China (Appendix B). Further, in early February we tried to alert the world on our interpretation of the origins of COVID-19 with many of the same arguments and analyses listed in this chapter. One succinct letter was sent to The Lancet, and the other was a more general article for a wider lay readership, to The Australian newspaper—both articles were rejected by the editors. The archived PDFs of both articles can be found at the viXra. ",
+    "bbox": [
+      141,
+      759,
+      893,
+      924
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      631,
+      63
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      888,
+      61
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      141,
+      702,
+      196,
+      771
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "org site under accession numbers URLs http://viXra.org/abs/2002.0039? ref 11076818, and https://vixra.org/abs/2002.0118. However an expanded comments on the origin and spread of the 2019 Coronavirus (COVID-19) has now been published in Wickramasinghe et al. (2020a, 2020b, 2020c), and see Steele and Lindley (2020) also in discussion in Appendix C. ",
+    "bbox": [
+      104,
+      94,
+      854,
+      197
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgment ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      228,
+      319,
+      250
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "We thank Professor Sanjaya Senanayake for bringing the Candida auris data to our attention and for discussions. ",
+    "bbox": [
+      104,
+      254,
+      851,
+      287
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Appendix A ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      331,
+      312,
+      353
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "On the fall of viruses through the stratosphere ",
+    "text_level": 1,
+    "bbox": [
+      164,
+      359,
+      731,
+      381
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The defining feature of infectious diseases which are caused by biological entities that arrive from space relates to the manner in which they come to be distributed over the Earth’s surface. If such microbial agents are introduced via the agency of cometary bolides that survive frictional heating in the mesosphere, their fragmentation and dispersal as clouds of particles in the stratosphere will determine the way in which they finally arrive at the surface of the Earth. ",
+    "bbox": [
+      104,
+      387,
+      856,
+      529
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The falling speed of spherical particles of various sizes (with a notional density $1 \\mathrm { g } \\mathrm { c m } ^ { - 3 } )$ ) through the atmosphere can be calculated as a function of height (y-axis) was calculated from formulae and data given by Kasten (1968). The results are shown in Fig. A1. We note from the extreme right curve of Fig. A1 that a particle of radius $1 0 \\mu \\mathrm { m }$ falls through the lowest $1 0 \\mathrm { k m }$ of the stratosphere at a speed of ${ \\sim } 1 \\mathrm { c m / s }$ and so takes only a few days to cover what for smaller particles is the slowest part of their downward journey. All such particles fall comparatively rapidly through the mesosphere $( z = 8 0 - 5 0 \\mathrm { k m } )$ ), and then more and more slowly down through the stratosphere below $z = 5 0 \\mathrm { k m }$ . A particle with the size of a typical bacterium ${ \\sim } 1 \\mu \\mathrm { m }$ , falls through the lowest $1 0 \\mathrm { k m }$ of the stratosphere at a speed of about $2 \\times { { 1 0 } ^ { - 2 } } \\mathrm { { c m / s } }$ and thus falls to ground in a time-scale of ${ \\sim } 5 \\times { 1 0 } ^ { 7 } { s }$ , that is about 2 years. Because there is more of the stratosphere through which such a particle must fall at high latitudes than in the tropics (the troposphere being higher in the tropics) the slow part of the journey is more extended the higher the latitude. A bacterium falling in ${ \\sim } 1$ year in the tropics would fall in ${ \\sim } 2$ years in temperate latitudes and in 2–3 years towards the poles. ",
+    "bbox": [
+      101,
+      533,
+      856,
+      882
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      692,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      305,
+      159,
+      378
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/6817414be98972e38dd2ac751800a4f12327d19b8b84f35abbe328f3073b1fd8.jpg",
+    "image_caption": [
+      "Fig. A1 Falling speed of spherical dust particles as a function of height in the atmosphere. Reproduced from Hoyle $\\&$ Wickramasinghe. 1982, Proofs that life is cosmic, Mem. Inst. Fund. Studies, Sri Lanka. Copyright Chandra Wickramasinghe. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      194,
+      98,
+      831,
+      481
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "If a particle of the size of a typical virus, a particle say with a diameter of ${ \\sim } 0 . 0 3 \\mu \\mathrm { m }$ , fell under gravity through still air the timescale for the slowest part of the journey through the bottom $1 0 \\mathrm { k m }$ of the stratosphere $( \\mathrm { z } = 2 0 { - } 1 0 \\mathrm { k m } )$ will be ${ \\sim } 1 0 ^ { 9 } \\mathrm { s }$ , that is about 30 years (see Fig. A1). This is so slow that other means of descent involving large-scale air movements in the stratosphere have to be considered. Further, the possibility of large clumps of viruses encased in cosmic dust particles will also change the relative effective sizes of infective particles and consequently their speeds of entry. We say this because … “The sophistication of viral infectivity and their modus operandi of cell-cell spreading does not end here … viral genomes … can be propagated almost indefinitely (Combe, Garijo, Geller, Cuevas, & Sanjuan, 2015) as ‘virion clusters’ of mixtures of infective and crippled genomes with significant numbers of newly minted virus particles enwrapped in protective membrane vesicles—a type of multiunit nanoparticle. This then constitutes the actual infective dose (or unit) rather than just a single exported virion entering a nearby target cell to cause a productive infection as is commonly believed (Chen et al., 2015; Combe et al., 2015).” Text and references from Steele et al. (2018). ",
+    "bbox": [
+      141,
+      552,
+      893,
+      884
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      106,
+      95,
+      851,
+      134
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Thus, although in general vertical mass movements of air are feeble compared to those in the troposphere, some vertical stratospheric movement takes place despite the inhibiting effect of an inverted temperature gradient. The physical mechanism for mass stratospheric movements is the equatorto-pole temperature difference which acts as a heat engine across parallels of latitude, a heat engine that operates more strongly the larger the temperature difference—i.e., much more strongly in winter than in the summer. A similar mechanism applies also to the troposphere, where an engine crossing parallels of latitude transfers heat from tropical regions towards the poles, again more in winter than in the summer. ",
+    "bbox": [
+      104,
+      137,
+      856,
+      341
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Ozone measurements can be used to trace the mass movements of air in the stratosphere. Such measurements show a winter downdraft that is strongest over the latitude range 40–60 degrees. Taking advantage of this annual downdraft, individual virus particles (or dust-encased clumps) incident on the atmosphere from space would therefore reach ground-level generally in temperate latitudes, which therefore emerge from these considerations as the regions of the Earth where upper respiratory infections are likely to be most prevalent. This is true on the supposition that the Earth is smooth, which of course it is not. The exceptionally high mountains of the Himalayas on the North India-China boundary rearing up through most of the height range to the stratosphere, introduce a large perturbation to the smooth condition, which may be expected to affect adversely this particular region of the Earth, particularly China. In effect the Himalayan peaks, higher than $8 \\mathrm { k m }$ , could act as a drain plug for most of the viruses incident on the atmosphere at latitude about 30 degrees N. The vast 1.4 billion population of China will thus be inundated by this drainage effect making China the quickest and worst affected region of the planet for cosmic pathogen-particle in-falls. As a consequence other parts of the Earth at about 30 degrees N could fortunately be largely free of incoming viral particles, unless it happens that such particles are incident as components within larger particles. ",
+    "bbox": [
+      104,
+      345,
+      856,
+      757
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "A direct proof that the winter downdraft effect in the stratosphere occurs overwhelmingly over the latitude range 40–60 degrees was demonstrated by Kalkstein (1961). In the last of the series of nuclear bombs that were tested in the atmosphere, a radioactive tracer element Rh-102 was introduced into the atmosphere at a height above $1 0 0 \\mathrm { k m }$ and the fall out of the tracer was measured month by month through airplane and balloon sampling at altitudes of ${ \\sim } 2 0 \\mathrm { k m }$ . The radioactive tracer Rh-102 took more than a decade to clear itself through repeated seasonal downdrafts of the kind we have described. The fall out was found to be much greater at temperate latitudes than elsewhere with the period January to March being the dominant months for the Northern Hemisphere. This is exactly similar to the pattern of incidence of influenza and other seasonal respiratory viral diseases in Northern temperate latitudes, a situation that is well-known to every medical practitioner and health authority. In the Southern hemisphere the situation is similar but 6 months displaced. This is clearly evident in Fig. B1. Note that in a tropical location such as Sri Lanka no discernible seasonal effect can be detected in the data between 1968 and 1974. ",
+    "bbox": [
+      104,
+      759,
+      854,
+      924
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/education_5138607/auto/images/d8b59a5c93f31d6678f91a41fe8b0af226f791eea91e585247d48c27e6299f54.jpg",
+    "image_caption": [
+      "Fig. B1 Incidence of seasonal influenza A in three countries. Reproduced from Hoyle & Wickramasinghe. (1982). Proofs that life is cosmic. Figure copyright Chandra Wickramasinghe. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      252,
+      92,
+      736,
+      662
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      141,
+      737,
+      893,
+      922
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Appendix B as February 15, 2020 ",
+    "text_level": 1,
+    "bbox": [
+      162,
+      121,
+      581,
+      143
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Headline: None of Japan’s new coronavirus patients had direct hina links ",
+    "bbox": [
+      125,
+      154,
+      854,
+      194
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "First death raises fear that virus is quietly spreading By Yusuke Kurabe, Nikkei staff writer, in Nikkei Asian Revie February 13, 2020 22:37 JST Updated on February 14, 2020 04:52 JST https://asia.nikkei.com/Spotlight/Coronavirus/None-of-Japan-s-newcoronavirus-patients-had-direct-China-links ",
+    "bbox": [
+      111,
+      195,
+      854,
+      296
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "• A Kanagawa Prefecture woman in her 80s died from the coronavirus. Her son-in-law also tested positive for the disease. A doctor in Wakayama Prefecture and a man in Chiba Prefecture are confirmed to have the virus. None of them traveled to China recently or had contact with people who visited Hubei Province, the epicenter of the outbreak. The 80 year old woman’s symptoms began January 22 when she felt fatigue, the health ministry said. Symptoms worsened on January 25, prompting her to see a doctor 3 days later. She was placed under observation. The victim was hospitalized February 1, diagnosed with pneumonia. She underwent screening for the coronavirus Wednesday. The test results came back positive Thursday, the day she died. Her sonin-law also tested positive for the coronavirus. The man, a taxi driver in his 70s living in Tokyo, has been hospitalized since February 6, but the symptoms are reportedly mild. He developed a fever January 29. ",
+    "bbox": [
+      101,
+      300,
+      856,
+      587
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "• A doctor in Wakayama Prefecture south of Osaka has been infected with the virus, prefectural officials said Thursday. The man, in his 50s, has been hospitalized with symptoms of pneumonia, but is otherwise in stable condition. The doctor did not travel outside the country in the 14 days prior to the onset of symptoms, nor can any contact with people coming from China be confirmed. Wakayama officials suspect the infection had domestic origins. ",
+    "bbox": [
+      104,
+      591,
+      856,
+      733
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Elsewhere, a man in his 20s from Chiba Prefecture near Tokyo is also confirmed to have the virus. He developed a fever and other symptoms February 2. The man reportedly has not travelled overseas or had contact with other infected individuals. ",
+    "bbox": [
+      104,
+      736,
+      856,
+      816
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Besides the outbreak on the Diamond Princess cruise ship, which has infected over 200 people aboard the vessel quarantined in Yokohama, 29 cases of coronavirus had been confirmed inside Japan through Wednesday. ",
+    "bbox": [
+      104,
+      819,
+      856,
+      899
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      49,
+      127,
+      61
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Y ",
+    "bbox": [
+      104,
+      100,
+      159,
+      166
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "These cases raise new challenges for health officials, who until now had been trying to contain the virus by closely monitoring people with the possibility of contracting the disease. If more people with no direct links to China become sick, determining infection routes will become impossible. Instead of containment, treating seriously sick people may have to become the priority. ",
+    "bbox": [
+      141,
+      94,
+      893,
+      219
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "ppendix C ",
+    "text_level": 1,
+    "bbox": [
+      201,
+      250,
+      349,
+      271
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "An update on published and submitted work by the group as June 22, 2020 ",
+    "text_level": 1,
+    "bbox": [
+      201,
+      277,
+      835,
+      316
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "The COVID-19 pandemic has now engulfed almost all parts of the globe inhabited by human beings. Confirmed cases are approaching 9 million and confirmed global deaths as June 22 are 468,589. We have updated our analysis here as the pandemic further unfolded. These analyses are now in several papers which have been published (or under-submission) since this paper was drafted. The most important developments are covered in the new citations in the reference list (and below), particularly our discussion on the progress of the major explosive outbreaks following the original epidemic in Wuhan through December-January 2020. Initially, in February, this appeared to go from China across the Pacific to the US West Coast (Wickramasinghe et al., 2020b), but it then became apparent the putative viral-laden meteorite dust clouds moved along the north $4 0 ^ { \\circ }$ latitude band heading in a westerly direction from China towards Europe (Wickramasinghe et al., 2020c). We speculate this transportation took place mainly in the Stratosphere and upper Troposphere, and this helps explain in part the major explosive outbreaks of COVID-19 in the temporal order, Tehran/Qom, Italy/Lombardy, Spain then New York City all on the north $4 0 ^ { \\circ }$ latitude band. The genetic sequence of the virus has been analyzed where available in each of the major explosive locations, particularly Wuhan and New York City (Steele & Lindley, 2020). Contrary to a widely held perception that the COVID-19 is a hypermutating contagious virus it is still the case, at the time of writing, that the most vulnerable at risk of death through respiratory complications are the co-morbid elderly. Further, the virus does not hypermutate, it appears to a use a riboswitch-mediated haplotype variation strategy which could be associated with the ethnicgenetic background of the subjects infected. Thus the genetic sequence of the virus in Wuhan/China, West Coast USA (February, 2020), Spain and New York City is essentially $\\geq 9 9 . 9 8 \\%$ identical apart from a small set of key variant putative riboswitch sites (ranging from 2 to 5 on average across the length of the 29,903 nt RNA genome) which define a given haplotype. Thus, there is much haplotype homogeneity in China, but considerable haplotype diversity in New York City. The virus appears to adapt to new host genetic backgrounds by switching putative haplotype presumably allowing superior RNA replication in that cellular environment. The only factor we cannot explain then is why the super explosions of the viral epidemics in certain locations and not others. One likely factor would be the infective dose of the virus which we predict was far greater at these epicentre locations because it came in as a high dose in-fall in meteorite dust from the upper atmosphere. ",
+    "bbox": [
+      141,
+      322,
+      891,
+      904
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      868,
+      50,
+      891,
+      61
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "A ",
+    "bbox": [
+      141,
+      223,
+      196,
+      294
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      95,
+      854,
+      320
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      104,
+      351,
+      236,
+      370
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Andersen, K. (2020). Clock and TMRCA based on 27 genomes Novel 2019 coronavirus. http:// virological.org/t/clock-and-tmrca-based-on-27-genomes/347.   \nBradley, S. F. (2019). Candida auris infection. JAMA, 322, 1526.   \nChatterjee, S., Alampalli, S. V., Nageshan, R. K., Chettiar, S. T., Joshi, S., & Tatu, U. S. (2015). Draft genome of a commonly misdiagnosed multidrug resistant pathogen Candida auris. BMC Genomics, 16, 686.   \nChen, Y.-H., Du, W.-L., Hagemeijer, M. C., Takvorian, P. M., Pau, C., et al. (2015). Phosphatidylserine vesicles enable efficient en bloc transmission of enteroviruses. Cell, 160, 619–630. https://doi.org/10.1016/j.cell.2015.01.032.   \nChow, N. A., Gade, L., Tsay, S. V., Forsberg, K., Greenko, J. A., Southwick, K. L., et al. (2018). Multiple introductions and subsequent transmission of multidrug-resistant Candida auris in the USA: A molecular epidemiological survey. Lancet Infectious Diseases, 18, 1377–1384.   \nChowdhary, A., Sharma, C., & Meis, J. F. (2017). Candida auris: A rapidly emerging cause of hospital-acquired multidrug-resistant fungal infections globally. PLoS Pathogens, 13(5), e1006290. https://doi.org/10.1371/journal.ppat.1006290.   \nCohen, J. (2020). Wuhan seafood market may not be source of novel virus spreading globally. Science, January 26. https://doi.org/10.1126/science.abb0611.   \nCombe, M., Garijo, R., Geller, R., Cuevas, J. M., & Sanjuan, R. (2015). Single-cell analysis of RNA virus infection identifies multiple genetically diverse viral genomes within single infectious units. Cell Host Microbe, 18, 424–432. https://doi.org/10.1016/ j.chom.2015.09.009.   \nCortegiani, A., Misseri, G., Fasciana, T., Giammanco, A., Giarratano, A., & Chowdhary, A. (2018). Epidemiology, clinical characteristics, resistance, and treatment of infections by Candida auris. Journal of Intensive Care, 6, 69. https://doi.org/10.1186/s40560-018- 0342-4.   \nForsberg, K., Woodworth, K., Walters, M., Berkow, E. L., Jackson, B., Chiller, T., et al. (2018). Candida auris: The recent emergence of a multidrug-resistant fungal pathogen. Medical Mycology, 57, 1–12.   \nHoyle, F., & Wickramasinghe, N. C. (1979). Diseases from space. London: J.M. Dent & Sons, Ltd.   \nHoyle, F., & Wickramasinghe, N. C. (1990). Influenza—Evidence against contagion: Discussion paper. Journal of the Royal Society of Medicine, 83(4), 258–261.   \nHuang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., et al. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, 395, 497–506. Published online January 24,2020. https://doi.org/10.1016/S0140-6736(20) 30183-5.   \nJackson, B. R., Chow, N., Forsberg, K., Litvintseva, A. P., Lockhart, S. R., & Welsh, R. (2019). On the origins of a species: What might explain the rise of Candida auris? Journal of Fungi, 5, 58.   \nJeffery-Smith, A., Taori, S. K., Schelenz, S., Jeffery, K., Johnson, E. M., Borman, A., et al. (2018). Candida auris: A Review of the Literature. Clinical Microbiology Reviews, 31(1), pii: e00029-17. https://doi.org/10.1128/CMR.00029-17.   \nKalkstein, M. I. (1961). Rhodium-102 high altitude tracer experiment. Science, 137, 645.   \nKasten, F. (1968). Falling speed of aerosol particles. Journal of Applied Meteorology, 7, 944.   \nLockhart, S. R., Etienne, K. A., Vallabhaneni, S., Farooqi, J., Chowdhary, A., Govender, N. P., et al. (2017). Simultaneous emergence of multidrug-resistant Candida auris on 3 continents confirmed by whole-genome sequencing and epidemiological analyses. Clinical Infectious Diseases, 64, 134–140. https://doi.org/10.1093/cid/ ciw691.   \nLu, R., Zhao, X., Li, J., Niu, P., Yang, B., Wu, H., et al. (2020). Genomic characterisation and epidemiology of 2019 novel coronavirus: Implications for virus origins and receptor binding. The Lancet, 395, 565–574. published Online January 29, 2020. https://doi.org/ 10.1016/S0140-6736(20)30251-8.   \nPfaller, M. A., Diekema, D. J., Turnidge, J. T., Castanheira, M., & Jones, R. N. (2019). Twenty years of the SENTRY antifungal surveillance program: Results for Candida species from 1997–2016. Open Forum Infectious Diseases, 6(S1), S79–S94.   \nQu, J., & Wickramasinghe, C. (2017). SARS, MERS and the sunspot cycle. Current science, 113(8), 1501–1502.   \nQu, J., & Wickramasinghe, C. (2018). Weakened magnetic field, cosmic rays and the Zikavirus outbreak. Current science, 115(3), 382–383.   \nRhodes, J., & Fisher, M. C. (2019). Global epidemiology of emerging Candida auris. Current Opinion in Microbiology, 52, 84–89.   \nRosenberg, S. M. (2001). Evolving responsively: Adaptive mutation. Nature Reviews Genetics, 2, 805–815.   \nSteele, E. J., Al-Mufti, S., Augustyn, K. A., Chandrajith, R., Coghlan, J. P., Coulson, S. G., et al. (2018). Cause of Cambrian explosion—Terrestrial or cosmic? Progress in Biophysics and Molecular Biology, 136, 3–23. https://doi.org/10.1016/j.pbiomolbio.2018.03.004.   \nSteele, E. J., Al-Mufti, S., Augustyn, K. A., Chandrajith, R., Coghlan, J. P., Coulson, S. G., et al. (2019). Cause of Cambrian explosion—Terrestrial or cosmic?—Reply to commentary by R Duggleby. Progress in Biophysics and Molecular Biology, 141, 74–78.   \nSteele, E. J., Gorczynski, R. M., Lindley, R. A., Liu, Y., Temple, R., Tokoro, G., et al. (2019). Lamarck and Panspermia—On the efficient spread of living systems throughout the cosmos. Progress in Biophysics and Molecular Biology, 149, 10–32. pii: S0079-6107(19) 30112-9. https://doi.org/10.1016/j.pbiomolbio.2019.08.010.   \nSteele, E. J., & Lindley, R. A. (2020). Analysis of APOBEC and ADAR deaminase-driven Riboswitch Haplotypes in COVID-19 RNA strain variants and the implications for vaccine design. Accepted for publication in Research Reports, June 22, 2020, under Quantitative Biology. https://vixra.org/abs/2006.0011?re $\\complement =$ 11360015.   \nWickramasinghe, N. C. (2012). DNA sequencing and predictions of the cosmic theory of life. Astrophysics and Space Science, 343, 1–5.   \nWickramasinghe, N. C., & Steele, E. J. (2016). Dangers of adhering to an obsolete paradigm: Could Zika virus lead to a reversal of human evolution? Journal of Astrobiology $\\varepsilon _ { \\mathcal { T } }$ Outreach, 4(1). https://doi.org/10.4172/2332-2519.1000147.   \nWickramasinghe, N. C., Steele, E. J., Gorczynski, R. M., Temple, R., Tokoro, G., Qu, J., et al. (2020a). Comments on the origin and spread of the 2019 Coronavirus. Virology: Current Research, 4(1). https://doi.org/10.37421/Virol Curr Res.2020.4.109.   \nWickramasinghe, N. C., Steele, E. J., Gorczynski, R. M., Temple, R., Tokoro, G., Wallis, D. H., et al. (2020b). Growing evidence against global infection-driven by person-to-person transfer of COVID-19. Virology: Current Research, 4(1). https://doi. org/10.37421/Virol Curr Res.2020.4.110.   \nWickramasinghe, N. C., Steele, E. J., Gorczynski, R. M., Temple, R., Tokoro, G., Kondakov, A., et al. (2020c). Predicting the future trajectory of COVID-19. Virology: Current Research, 4(1). https://doi.org/10.37421/Virol Curr Res.2020.4.111.   \nWickramasinghe, N. C., Steele, E. J., Wainwright, M., Tokoro, G., Fernando, M., & Qu, J. (2017). Sunspot cycle minima and pandemics: The case for vigilance. Journal Astrobiology and Outreach, 5, 2. https://doi.org/10.4172/2332-2519.1000159.   \nWickramasinghe, C., Wainwright, M., & Narlikar, J. (2003). SARS—A clue to its origins? The Lancet, 361, 1832.   \nWickramasinghe, N. C., Wickramsinghe, D. T., Senananyake, J., Qu, J., Tokoros, G., Temple, R., et al. (2019). Space weather and pandemic warnings? Current Science, 117(10), 1554 (25 Nov 2019). ",
+    "bbox": [
+      101,
+      371,
+      856,
+      885
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      50,
+      127,
+      61
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      141,
+      104,
+      893,
+      884
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Origin of new emergent Coronavirus and Candida fungal diseases ",
+    "bbox": [
+      141,
+      50,
+      634,
+      63
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "99 ",
+    "bbox": [
+      868,
+      49,
+      891,
+      61
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      104,
+      94,
+      854,
+      373
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Edward J. Steele et al. ",
+    "bbox": [
+      689,
+      50,
+      854,
+      63
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      106,
+      49,
+      138,
+      61
+    ],
+    "page_idx": 26
+  }
+]

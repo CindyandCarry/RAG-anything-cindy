@@ -1,0 +1,1968 @@
+[
+  {
+    "type": "text",
+    "text": "Sussex Research Online ",
+    "text_level": 1,
+    "bbox": [
+      127,
+      59,
+      836,
+      102
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A critical investigation of cryptocurrency data and analysis ",
+    "text_level": 1,
+    "bbox": [
+      82,
+      228,
+      860,
+      252
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Article (Accepted Version) ",
+    "bbox": [
+      84,
+      273,
+      364,
+      293
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Alexander, C and Dakos, M (2019) A critical investigation of cryptocurrency data and analysis. Quantitative Finance. ISSN 1469-7688 ",
+    "bbox": [
+      95,
+      380,
+      870,
+      410
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This version is available from Sussex Research Online: http://sro.sussex.ac.uk/id/eprint/85379/ ",
+    "bbox": [
+      95,
+      423,
+      877,
+      440
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This document is made available in accordance with publisher policies and may differ from the published version or from the version of record. If you wish to cite this item you are advised to consult the publisher’s version. Please see the URL above for details on accessing the published version. ",
+    "bbox": [
+      99,
+      453,
+      894,
+      514
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copyright and reuse: ",
+    "text_level": 1,
+    "bbox": [
+      100,
+      529,
+      302,
+      545
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Sussex Research Online is a digital repository of the research output of the University. ",
+    "bbox": [
+      97,
+      545,
+      805,
+      560
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copyright and all moral rights to the version of the paper presented here belong to the individual author(s) and/or other copyright owners. To the extent reasonable and practicable, the material made available in SRO has been checked for eligibility before being made available. ",
+    "bbox": [
+      99,
+      574,
+      887,
+      619
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Copies of full text items generally can be reproduced, displayed or performed and given to third parties in any format or medium for personal research or study, educational, or not-for-profit purposes without prior permission or charge, provided that the authors, title and full bibliographic details are credited, a hyperlink and/or URL is given for the original metadata page and the content is not changed in any way. ",
+    "bbox": [
+      99,
+      634,
+      890,
+      711
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "http://sro.sussex.ac.uk ",
+    "bbox": [
+      677,
+      931,
+      915,
+      948
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      0,
+      153,
+      996,
+      194
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "A Critical Investigation of Cryptocurrency Data and Analysis ",
+    "text_level": 1,
+    "bbox": [
+      181,
+      127,
+      812,
+      148
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Carol Alexander∗ and Michael Dakos University of Sussex Business School, Falmer, Sussex, BN1 6SL, United Kingdom. ",
+    "bbox": [
+      150,
+      167,
+      843,
+      203
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "July 24, 2019 ",
+    "bbox": [
+      442,
+      217,
+      555,
+      234
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Forthcoming in Quantitative Finance. DOI:10.1080/14697688.2019.1641347 ",
+    "bbox": [
+      140,
+      273,
+      732,
+      290
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      464,
+      329,
+      534,
+      344
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Market betas of bitcoin relative to a broad crypto market index vary considerably, depending on the data source and the index selected. Even greater differences are found for ether and other cryptocurrencies. An in-depth exploration of the cause of these discrepancies reveals a long-standing incorrect time-stamping of some ranking-site data, and hence also the CRIX market index. Furthermore, individual coin data from some exchanges requires adjusting for unstable prices in the ‘stablecoin’ tether. Even then, Bitfinex coin prices have de-coupled from prices on other exchanges. Is yet another Bitfinex-tether issue arising? Finally, regarding the risk analysis of coin returns, we argue that this requires highly sophisticated models. But calibrating even the simplest GARCH model is extremely difficult because they are surprisingly sensitive to the data source. ",
+    "bbox": [
+      156,
+      357,
+      844,
+      580
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Cryptocurrency; Cryptoasset; Price data; Market beta; Markov switching GARCH; Volatility. ",
+    "bbox": [
+      120,
+      617,
+      862,
+      633
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "JEL classification: C22, C5, E42, F31, G1, G2 ",
+    "bbox": [
+      114,
+      657,
+      482,
+      675
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "∗Corresponding author. Email: c.alexander@sussex.ac.uk ",
+    "bbox": [
+      133,
+      909,
+      514,
+      921
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      80,
+      207,
+      98
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Market betas of major coins differ remarkably depending on the data source ",
+    "bbox": [
+      138,
+      137,
+      758,
+      155
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Less than half the papers published since Jan 2017 employ correct data ",
+    "bbox": [
+      142,
+      169,
+      723,
+      186
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Data from some sources have mistakes that require adjusting ",
+    "bbox": [
+      140,
+      202,
+      640,
+      218
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Bitfinex prices diverge from other exchanges even after tether adjustment ",
+    "bbox": [
+      143,
+      233,
+      738,
+      251
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "• Bitcoin needs complex GARCH models and these are highly sensitive to data source ",
+    "bbox": [
+      137,
+      265,
+      823,
+      282
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      80,
+      269,
+      98
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "It is free and easy to download long historical series on prices of major cryptocurrencies at the daily frequency, indeed even hourly and higher frequency data are available on bitcoin (BTC), ether (ETH), ripple (XRP) and other major coins.1 It is, therefore, unsurprising that a very large number of empirical studies have appeared during the last few years. Indeed, a quick initial search already shows 124 relevant papers published in academic journals between January 2017 and March 2019, and 28 SSRN relevant discussion papers published in 2018.2 Unfortunately, over 80 of these use: ",
+    "bbox": [
+      112,
+      116,
+      885,
+      237
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1. Data from questionable sources; and/or ",
+    "bbox": [
+      135,
+      252,
+      470,
+      268
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2. Non-concurrent time-series data in multivariate analysis; and/or ",
+    "bbox": [
+      133,
+      284,
+      663,
+      301
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3. Non-traded prices in portfolio optimisation, efficiency studies, trading strategy development or hedging analysis. ",
+    "bbox": [
+      137,
+      315,
+      885,
+      353
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The primary sources for traded price and volume data are the centralised crypto exchanges such as Coinbase, Kraken and Binance. These have an Application Programming Interface (API) service that allows retrieval of a limited history of the order book, and traded prices and volumes, via a variety of data transfer protocols.3 Historical time series for traded prices and volumes may also be obtained from CoinAPI and Cryptodatadownload, for some of the major coin pairs traded on the most established exchanges.4 However, most of the academic literature on cryptocurrencies uses non-traded price data on individual coins (or tokens) that are freely downloaded from websites such as Cryptocompare (CC), Coinmarketcap (CM) and Coingecko (CG). These ‘coin ranking’ companies are so called because they rank both coins and exchanges by trading volume and market capitalisation.5 ",
+    "bbox": [
+      112,
+      368,
+      885,
+      570
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$^ 3$ These APIs provide free and open access to each centralised exchange’s data, allow the management of trade orders, and interact with users via REST, WebSocket, or FIX protocols. REST is best used for infrequent individual requests; WebSocket provides a constant stream of data; FIX is commonly used for order placement and management. Most exchanges provide libraries in common programming languages that allow access to their API – see e.g. the libraries provided in the Coinbase Pro exchange REST API. The typical output of a price data request to an exchange API is in JSON format – see e.g. the output of a browser-based REST API call to Coinbase Pro that retrieves a list of its products. Note that all of the above holds for centralised exchanges that function outside the blockchain; the executed orders and positions held by investors are recorded internally by the exchange, unless a user explicitly requests the transfer of crypto funds to their own personal wallet or fiat funds to their personal bank account. Centralised exchanges therefore must hold fiat currency and cryptocurrency reserves in order to fulfill any such requests. On the other hand, there also exist (less liquid) decentralised exchanges that operate on smart contract-enabled blockchain platforms such as Ethereum and EOS, and all trade orders are recorded and executed on-chain as smart contract transactions – see Daian et al. (2019) for further details. ",
+    "bbox": [
+      112,
+      680,
+      883,
+      858
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4CoinAPI is a paid service with limited free access even to individual executed trades and Cryptodatadownload provides some daily, hourly and higher frequency data free. ",
+    "bbox": [
+      112,
+      859,
+      883,
+      887
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$^ { 5 }$ See www.coingecko.com, www.coinmarketcap.com, and www.cryptocompare.com. Other coin ranking sites include Nomics, Coincall, Coincap, and OnchainFX. The period available depends on liquidity, e.g. bitcoin daily data ",
+    "bbox": [
+      114,
+      888,
+      883,
+      915
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2That is, a Scopus search on title, abstract or keywords with terms ‘bitcoin’ or ‘cryptocurrency’ published in Accounting, Business, Econometrics, Economics, Finance or Management journals yielded 247 papers published between January 2017 – March 2019 and 87 SSRN discussion papers (uploaded between January 2018 – March 2019). From these we judged that 124 published and 28 SSRN papers were on topics relevant to this audience. Many more papers were published in conference proceedings but we do not include those here. ",
+    "bbox": [
+      114,
+      611,
+      885,
+      679
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "1A cryptocurrency (or cryptoasset or ‘crypto’) is a type of digital asset residing on a blockchain, including coins such as bitcoin, ether and ripple and tokens, which differ from coins because they ride on a non-native blockchain. ",
+    "bbox": [
+      116,
+      582,
+      882,
+      611
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A straightforward way to illustrate how empirical results can be influenced by the choice of crypto data is to estimate a simple index regression of the form: ",
+    "bbox": [
+      114,
+      80,
+      888,
+      118
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/e7f7486fbfcf3e238310322b370a8397854bc72f4af881969e0fe057cc5140b8.jpg",
+    "text": "$$\nr _ { i t } = \\alpha _ { i } + \\beta _ { i } R _ { t } + \\varepsilon _ { i t } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      418,
+      142,
+      578,
+      155
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "where $r _ { i t }$ is the ordinary return on the $i ^ { t h }$ source of the coin price and $R _ { t }$ is the return on the market factor. Table 1 displays the results for daily returns on BTC and ETH, with traded and non-traded prices as dependent variables. Here we examine BTC and ETH traded prices from the Bitfinex, Coinbase, Gemini, Kraken and Poloniex centralised crypto exchanges. Non-traded price indices are obtained from CG, CM and CC. ",
+    "bbox": [
+      112,
+      174,
+      885,
+      276
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Table 1: Market Betas of BTC and ETH w.r.t. CCi30, CRIX and MVDA25 Indices Market betas with corresponding t-statistics in parentheses of daily returns on BTC (upper panel) and ETH (lower panel) prices from CG, CM and CC, and from Bitfinex, Coinbase, Gemini, Kraken and Poloniex. The market factor is the return on either the CCi30, the CRIX, or the MVDA25 crypto market index. The sample period is 1 April $2 0 1 6 - 3 1$ March 2019 for BTC and 1 July 2016 – 31 March 2019 for ETH. Parameters of interest are highlighted in blue and red. ",
+    "bbox": [
+      112,
+      286,
+      883,
+      375
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/ad21e692effe99634a8f53d45b9c3e024e50638caeea2c34332a639a43751f52.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td>CG</td><td>CM</td><td>CC</td><td>Bitfinex</td><td>Coinbase</td><td>Gemini</td><td>Kraken</td><td>Poloniex</td></tr><tr><td colspan=\"9\">BTC</td></tr><tr><td>CCi30</td><td>0.374 (14.6)</td><td>0.730 (44.3)</td><td>0.744 (44.9)</td><td>0.742 (43.4)</td><td>0.734 (43.2)</td><td>0.743 (44.1)</td><td>0.734 (43.5)</td><td>0.743 (43.3)</td></tr><tr><td>CRIX</td><td>0.903 (69.4)</td><td>0.528 (20.9)</td><td>0.519 (20.1)</td><td>0.515 (19.6)</td><td>0.506 (19.4)</td><td>0.515 (19.7)</td><td>0.497 (18.9)</td><td>0.521 (19.8)</td></tr><tr><td>MVDA25</td><td>0.359 (15.4)</td><td>0.495 (24.1)</td><td>0.509 (24.6)</td><td>0.501 (23.7)</td><td>0.504 (24.2)</td><td>0.508 (24.4)</td><td>0.504 (24.3)</td><td>0.504 (23.8)</td></tr><tr><td colspan=\"9\">ETH</td></tr><tr><td>CCi30</td><td>0.501 (13.1)</td><td>1.008 (37.3)</td><td>1.020 (37.4)</td><td>1.012 (37.7)</td><td>1.012 (36.1)</td><td>1.023 (36.0)</td><td>0.998 (36.3)</td><td>1.021 (37.8)</td></tr><tr><td>CRIX</td><td>1.041 (33.6)</td><td>0.513 (12.0)</td><td>0.502 (11.6)</td><td>0.489 (11.4)</td><td>0.490 (11.2)</td><td>0.498 (11.2)</td><td>0.471 (10.9)</td><td>0.510 (11.8)</td></tr><tr><td>MVDA25</td><td>0.568 (16.8)</td><td>0.763 (25.3)</td><td>0.778 (25.6)</td><td>0.757 (25.0)</td><td>0.778 (25.4)</td><td>0.777 (24.8)</td><td>0.760 (25.0)</td><td>0.772 (25.5)</td></tr></table>",
+    "bbox": [
+      142,
+      388,
+      848,
+      693
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "For the market factor we tested three alternative crypto market indices – the CCi30, the CRIX and the MVDA25 index.6 The indices include a different number of assets – between 25 and 50 of the largest cap coins, and are structured as follows: the CRIX and MVDA25 indices are cap-weighted, and the assets in CCi30 are weighted by the square root of their market cap. ",
+    "bbox": [
+      112,
+      702,
+      885,
+      782
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Due to this difference in the weighting scheme, we expected the $\\beta$ estimates for both BTC and ETH to be smaller with respect to (w.r.t.) CCi30 compared with the other two indices. In fact, this is not at all the case; the correlations between index returns and BTC returns from CC indicate the opposite – 0.81 for CCi30, 0.52 for CRIX and 0.6 for MVDA25. Moreover, given that ETH is significantly more volatile than BTC we expected the same relationship to hold for their estimated betas, but this is not always the case. So we expected the betas estimated from our simple index model to depend on the choice of index to some extent, but our results are extreme. The first inexplicable observation is that beta estimates for the Coingecko (CG) data are radically different compared with the other data sources. For instance, the Coingecko BTC beta w.r.t. the CRIX is 0.903 while the estimated CRIX betas based on all other BTC sources are around 0.5. The same holds for ETH betas, for instance w.r.t. the MVDA25 index – the CG beta is 0.568 whereas the betas w.r.t. the MVDA25 for the rest of the data sources are around 0.7. We also observe that the market betas w.r.t. the three indices are inconsistent to a degree that cannot be explained by the small differences in composition. For instance, the BTC beta for CG is 0.903 w.r.t. the CRIX but only 0.374 w.r.t. the CCi30 and 0.359 w.r.t. the MVDA25; and again, the same holds for ETH. ",
+    "bbox": [
+      114,
+      785,
+      885,
+      844
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "start as early as April 2013 but ether data begins only in August 2015. Bloomberg and Thomson Reuters also provide aggregated data on coin prices. Data are also not limited to US dollar coin prices; there are indices in other fiat currencies like the euro and Japanese yen, calculated using the same methodology. 6See www.cci30.com for CCi30, Trimborn and H¨ardle (2018) and www.thecrix.de for CRIX, and the MVDA25 methodology. ",
+    "bbox": [
+      112,
+      852,
+      887,
+      922
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      325
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We were very surprised by these inconsistencies, and rather puzzled, so we decided to investigate things further and ended up writing this paper, which we intend to be used as a guide for authors of empirical studies on cryptocurrencies. First we examine the different sources of free historical crypto price data in detail. Then, finding important mistakes in some commonly-used sources, we explain how these should be corrected to avoid generating meaningless empirical results. Thereafter, we demonstrate that (even after correction) historical crypto data need handling with considerable care otherwise results will not be robust. Finally, we survey some of the literature mentioned above, finding good data practices in only a fraction of the already-published papers on cryptocurrency markets. ",
+    "bbox": [
+      112,
+      329,
+      887,
+      512
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In the following: Section 2 provides a detailed explanation of the construction of non-traded coin prices and indices, focusing on how trading volumes distort the data provided by some coin-ranking websites; Section 3 examines the mistakes generated by Coingecko data, which (at the time of writing) feed into the CRIX index; Section 4 examines the use of non-synchronous crypto and other financial data, corrects for those exchanges which trade against tether instead of USD and identifies some interesting and recent problems emerging in Bitfinex data; Section 5 presents a volatility analysis of BTC using various models calibrated to prices from various sources, thence questioning how robust risk assessment can be in this asset class; Section 6 summarises and concludes; and some additional results are reported in appendices. ",
+    "bbox": [
+      112,
+      516,
+      885,
+      699
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2 Volume Matters ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      723,
+      303,
+      741
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The most common sources for cryptocurrency price data are ranking websites. A recent SEC application from Bitwise Asset Management (2019) and an article by Carter (2018) both suggest that the revenue model of such websites is largely dependent on crypto exchanges, and that consequently ranking websites are in a conflict of interest regarding their data methodologies. Retail investors decide which crypto exchange to trade on, based on the market data that ranking websites provide. Ranking websites host advertisements and referral links that ‘funnel’ retail investors to affiliate crypto exchanges, in return for fees. Because of the fees that certain ranking websites receive from crypto exchanges, they may be tempted to report traded volume data inflated by washtrading, transaction fee mining, and use of non-fiat cross-rates, which may result in certain exchanges appearing more liquid than in reality. Of the data that ranking websites provide, market cap is relatively straightforward to measure, being the value of all coins in circulation – ignoring those coins held by the development team or locked in inaccessible wallets. But the daily volume traded is much more difficult to quantify for two reasons: Firstly, many exchanges deliberately inflate volume figures precisely because this boosts their ranking and attracts more traders as well as developers who are more willing to pay large fees to list their coins on these exchanges; Secondly, Coinmarketcap and Coingecko construct fiat-denominated coin indices using some sort of inferred volume from cross-trades against other crypto and different fiat rates.7 ",
+    "bbox": [
+      112,
+      758,
+      885,
+      921
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      263
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "These artificial volume figures affect the coin values quoted by coin-ranking sites. To see how and why, we explain their methodology.8 The dollar price index for each coin is based on the volume-weighted average of its dollar price on different crypto exchanges, so that the daily price index $p _ { t } ^ { i }$ for each coin $i$ is obtained using $p _ { t } ^ { \\ i j }$ , the price of coin $i$ from source $j$ at time $t$ , and $v _ { t } ^ { i j }$ , the corresponding 24-hour volume traded from $t - 1$ to $t$ , both expressed in USD, in the formula: ",
+    "bbox": [
+      112,
+      267,
+      885,
+      367
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/56f156e4db77ad7e6ab8938bd758711014802667f995b7583f13afca699fcad1.jpg",
+    "text": "$$\np _ { t } ^ { i } = \\left( \\sum _ { j = 1 } ^ { N } v _ { t } ^ { i j } \\right) ^ { - 1 } \\sum _ { j = 1 } ^ { N } p _ { t } ^ { i j } v _ { t } ^ { i j } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      387,
+      371,
+      609,
+      426
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "where $N$ is the total number of price sources – for instance in the BTC/USD price index, currently $N$ is approximately 300 for CG, 400 for CM, but only 40 for CC. ",
+    "bbox": [
+      117,
+      430,
+      887,
+      468
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Consider the effect that each of the issues identified above may have on the individual coin indices of CC, CM and CG. Starting with volume inflation, several new exchanges have a ‘zero fee’ structure or even a ’transaction-fee mining’ structure which turns trading fees around by actually rewarding market makers for placing limit orders with the exchange’s own coin.9 This actively encourages volume inflation because market makers earn coins through wash trading, which is still legitimate in these unregulated exchanges.10 ",
+    "bbox": [
+      112,
+      470,
+      885,
+      592
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning to volumes inferred from data on cross-rates, only Cryptocompare confines its calculation to USD-denominated crypto prices; both Coinmarketcap and Coingecko include USD prices inferred from cross-rates with other coins – including tether – and other fiat currencies. That is why they have several hundred price sources in (1). It is not clear how to infer a traded volume from two cross-rates correctly, because this requires information on the size and purpose of each realised trade within the give time frame (e.g. 24-hour period). In the absence of such detailed information, ranking websites that employ cross-rates in the VWAP calculation resort to ‘back-of-the-envelope’ calculations to express cross-rates and their volumes in the desired base currency.11 If the prices obtained from CM and CG behaved very similarly to the CC prices this obscurity would not be important. But using non-traded volumes inferred from cross-rates is actually an important issue – for reasons explained below when we examine the data in more detail. ",
+    "bbox": [
+      112,
+      597,
+      883,
+      676
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7See the methodologies of Coinmarketcap and Coingecko. 8In the following, we use the US dollar index, because it is the most commonly used rate in data analysis, but the same remarks apply to the other fiat indices provided. In fact, CC calculates price indices in multiple fiat currency denominations – e.g. a JPY-denominated BTC price index only includes BTC/JPY prices. By contrast, CG and CM denominate their price indices in USD, transforming any non-USD crypto prices into USD using FX rates. For instance if we request a JPY-denominated BTC price index from CM, they transform their USD-denominated price index into JPY using the JPY/USD FX rate. 9As of March 2019 the top exchanges (by monthly traded volume) that engage in transaction-fee mining were Coinbene, ZBG and FCoin. Combined monthly traded volume of transaction-fee mining exchanges represented $1 4 \\%$ of total cryptocurrency spot traded volume in March 2019 – see Cryptocompare Exchange Review for more detail. 10Wash trading is the same entity (perhaps even the exchange itself) placing buy and a sell orders at the same price and volume, so that almost certainly the two orders will be executed against each other. This increases the volume without moving the price and it can be practiced at no cost (and with little risk) by any trader in zero-fee exchanges. Exchanges offering transaction-fee mining take this a step further – they calculate a trader’s fees and then reward the trader with these ‘fees’ in the form of a (supposedly) stable token set up by the exchange. Of course, until these exchanges are regulated all these questionable trading practices will be as rife as spoofing. ",
+    "bbox": [
+      111,
+      685,
+      887,
+      909
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      222
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Any problems with the individual coin price data will be carried over to the market-wide coin indices that employ them. The CCi30, CRIX and MVDA25 are cap-weighted indices derived from 25–50 large cap coins, typically constructed as: ",
+    "bbox": [
+      112,
+      226,
+      883,
+      284
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/87ce0e864b8cb9720805011ebb8267270132c10526b3f819e0964cf2ef5afdf8.jpg",
+    "text": "$$\nI _ { t } = d _ { t } ^ { - 1 } \\sum _ { i = 0 } ^ { k } p _ { t } ^ { i } q _ { s } ^ { i } ,\n$$",
+    "text_format": "latex",
+    "bbox": [
+      429,
+      285,
+      568,
+      332
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "where: $k$ is the number of coins included; $p _ { t } ^ { i }$ is the price index of coin $i$ at time $t$ , based on (1); $q _ { s } ^ { i }$ is the circulating supply of coin $i$ at time $s \\leq t$ , which is typically the point when the index was last rebalanced; and the normalizing divisor $d _ { t }$ resets when the index composition changes.12 ",
+    "bbox": [
+      112,
+      338,
+      885,
+      398
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In Tables A1 and A2 of the appendices we compare the sample statistics for ordinary daily returns on BTC and ETH close prices from CG, CM, and CC, and also from Bitfinex, Coinbase, Gemini, Kraken and Poloniex for the period 1 April 2016 (1 July 2016 for ETH) – 31 March 2019. We select this period because it includes several different states of the crypto market, so that our results are not dominated by the characteristics of a particular market regime.13 Given the variety of market states in our sample, the descriptive statistics very much depend on the sub-period examined – e.g. we observe extremely high positive returns and high volatility in the 1 April 2017 – 31 March 2018 (middle panel) which is dominated by the Q4 2017 bubble, and much lower volatility and negative returns during the bear market of 2018 (lower panel). When comparing the statistics across different data sources, the main differences are located in the skewness and excess kurtosis, which indicates that some outliers are apparent in some data sources but not in other. ",
+    "bbox": [
+      112,
+      402,
+      885,
+      626
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Unlike other financial assets, cryptocurrency prices can also differ markedly depending on the exchange. These differences are least pronounced in the most liquid market, i.e. BTC/USD, but even these prices can be significantly different across various exchanges. To justify this remark Figure A1 in the appendices exhibits the distribution of end-of-day prices over many exchanges to illustrate the extent to which synchronous prices on BTC/USD may differ. The empirical distribution is derived from 23:00:00 UTC time-stamped prices from the 12 largest exchanges (by BTC trading volume at that time) over the entire year 2018. Most percentage deviations from the Coinbase price are less than 50 basis points but some are up to 4%. Other coins have even more deviant prices, which can be more than 10% depending on the coin and exchange selected.14 ",
+    "bbox": [
+      135,
+      631,
+      883,
+      647
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "11CM first translates any non-USD prices and volumes in (1) into USD via relevant cross-rates, while ignoring the cross-rate volume. This is especially problematic for coin-to-coin cross-rates: if the prices used are all fiat-crypto rates, then the total traded volume is at least indicative of flows between crypto markets and the ‘fiat world’. If cryptoto-crypto cross-rates are used, then e.g. the BTC/ETH currency pair provides an implied BTC/USD price via the ETH/USD rate; the BTC/ETH traded volume is also expressed in USD via the ETH/USD cross-rate. This method erroneously assumes that all trades in the BTC/ETH pair are executed with the purpose of exchanging the coin back to USD. Despite this serious bias, the majority of ranking websites (with the notable exception of Cryptocompare) use many non-USD prices and volumes in (1). The approach adopted by CG and Nomics is to translate the prices via cross-rates, and express all volumes in the corresponding coin. For instance, when calculating a BTC price index, traded volumes of BTC/USD, BTC/EUR, BTC/ETH etc. are all expressed in BTC. This approach does not make assumptions regarding the trading volume, although it still uses non-USD cross-rates. 12The CRIX and MVDA25 indices are constructed as per (2), while the CCi30 index employs a variant of (2) that weights coins by the square root of their market cap. In (2), $k$ is 30 for the CCi30, 50 (currently) for the CRIX, and 25 for the MVDA25. As for $p _ { t } ^ { i }$ , it is constructed as per (1) by all market indices mentioned here. CCi30 uses CoinAPI data; CRIX uses CG price indices; MVDA25 uses CC price indices. $^ { 1 3 }$ The April 2016 – March 2019 period contains the most recent crypto market bubble of Q4 2017, the more reasonable pre-bubble bullish period until Q2 2017, the bubble’s burst in January 2018, and the subsequent bearish period for the rest of 2018. ",
+    "bbox": [
+      111,
+      654,
+      887,
+      906
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      493,
+      945,
+      504,
+      957
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      242
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3 Mistakes in Time Stamps ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      266,
+      395,
+      285
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Crypto exchanges trade on a 24-7 basis so their close prices are usually measured at (or very near to) 23:59:59 UTC.15 However, the BTC/USD daily prices from Coingecko (CG) are timestamped 00:00:00 UTC, and so are the CRIX crypto market index values because they are constructed using CG data.16 This means that there is either a one millisecond difference, which should hardly affect the prices reported at all, or there is a whole day’s difference, depending on the day that the timestamp refers to. However, something very strange seems to have occurred on 30 January 2018 because the CG (and CRIX) prices moved out of synch with other prices since that date – and the problem still persists at the time of writing. Figure 1 illustrates the problem by plotting the CG – CC spreads for BTC and ETH (in blue) and, as a sanity check, the CM – CC spreads (in red) all relative to CC’s prices. ",
+    "bbox": [
+      112,
+      301,
+      885,
+      506
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Because of the volume issue identified above, we do not expect the spreads to be zero. However, after 30 January 2018, the CG – CC spread moved completely out of line, deviating by as much as $2 0 \\%$ . The middle graphs of Figure 1 exhibit the same spreads but the CG prices are lagged by one day relative to the other two prices. This time, the CG spread moves into line after 30 January but is out-of-line before that date. In the lower graphs of Figure 1 we plot the CG – CC and CM – CC spreads after this mistake has been corrected. Both spreads now behave in a similar manner. We conclude that, when historical coin prices are downloaded from CG, prior to 30 January 2018 they can be used as they are; but the researcher needs to lag them starting from 30 January onwards.17 ",
+    "bbox": [
+      112,
+      510,
+      885,
+      672
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Now consider the market indices. In Figure 2 we compare the CRIX – CCi30 spread relative to CCi30 firstly using the CRIX data as is (upper graph), then lagging CRIX by one day (middle graph), and finally using CRIX data as is until 29 January 2018 and a 1-day lag of CRIX values starting from 30 January 2018 (lower graph). Again, the results show that lagging CRIX data after 30 January 2018 is the correct treatment. We again perform a sanity check, this time for crypto market indices. We construct the CC5, a simple price weighted index (similar in construction to ",
+    "bbox": [
+      112,
+      675,
+      885,
+      796
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "14Distributions of price deviations between exchanges for other coins are not reported here but are available on request. $^ { 1 5 }$ Coordinated Universal Time (UTC) shares the same current time with Greenwich Mean Time (GMT), and they do not change for Daylight Saving Time (DST). $^ { 1 6 }$ We source Coingecko BTC/USD prices using its API tool – the data can be accessed at Coingecko’s API. CRIX data are obtained from the CRIX website – see thecrix.de. $^ { 1 7 }$ That is, we delete the 30 January 2018 CG price and lag the remaining 31 January 2018 – 31 December 2018 price series by one day. ",
+    "bbox": [
+      112,
+      808,
+      885,
+      919
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "CG – CC and CM – CC price spreads relative to CC’s daily price for BTC (left-hand graphs) and ETH (right-hand graphs), using CG price data as is (upper graphs), lagged by one day (middle graphs), and finally as is until 29 January 2018 and lagged starting from 30 January 2018 (lower graphs). The sample period is 1 April 2016 (1 July 2016 for ETH) – 31 March 2019. ",
+    "bbox": [
+      112,
+      97,
+      883,
+      151
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/6c156445651fa5c185c09e0a6857c363a28db1ff2eeec80aa258038f7bce03c1.jpg",
+    "image_caption": [
+      "Figure 1: CG – CC Spread for BTC and ETH Prices "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      176,
+      170,
+      815,
+      484
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "the Dow Jones stock index) that contains BTC, ETH, XRP, LTC, and DASH – the top 5 coins in market cap on 1 January 2016, using historical coin price data from CC. We find no excessive variability in the CC5 – CCi30 spread, indicating that the CCi30 data are not at fault. However, it is clear the CRIX data have absorbed the mistake in the CG data as described above.18 As of June 2018 four published papers and other discussion papers employ Coingecko as a data source, and a further eleven papers employ CRIX index data. ",
+    "bbox": [
+      112,
+      500,
+      885,
+      622
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "18It would be good to use ready-made crypto market indices with a more sophisticated construction methodology such as the MVDA25 or the Bletchley 10 index – see www.bletchleyindexes.com. However, this is not possible. The MVDA25 values refer to 17:00:00 UTC, and the Bletchley 10 index does not provide historical data as far back as early 2016. ",
+    "bbox": [
+      112,
+      866,
+      885,
+      921
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      493,
+      945,
+      504,
+      958
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "CRIX – CCi30 spread relative to CCi30, using CRIX daily data as is (upper graph), lagged by one day (middle graph), and as is until 29 January 2018 and lagged starting from 30 January 2018 (lower graph). The sample period is 1 April 2016 – 31 March 2019. ",
+    "bbox": [
+      112,
+      97,
+      885,
+      137
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/6c06e470ede4d1a27ae5ddf83a9d85e32145191583fd889f8cd4597505384b60.jpg",
+    "image_caption": [
+      "Figure 2: CCi30 – CRIX Spread "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      168,
+      161,
+      816,
+      510
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "4 Other Data Issues ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      517,
+      325,
+      536
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In this Section we begin by examining the use of non-synchronous crypto and other financial data, and then we discuss the deviations between traded prices which sometimes behave quite strangely. ",
+    "bbox": [
+      112,
+      554,
+      883,
+      592
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We now examine the use of non-synchronous crypto and other financial data, which can be problematic due to the high volatility of crypto prices. But even when using synchronous traded data, prior to 2018 there were significant price deviations across crypto exchanges; these deviations have become very small since January 2018, with the exceptions of tether-denominated crypto prices which still exhibit significant deviations. ",
+    "bbox": [
+      112,
+      595,
+      885,
+      695
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "If crypto prices are used in multivariate analysis with other types of financial assets it is necessary to access data on an intra-day basis in order to obtain synchronous prices across all assets used. $^ { 1 9 }$ A few hours difference in the time of price measurement could be particularly problematic in crypto markets because of the very high volatility of coin prices. That is, data are used in a correlation or other multivariate analysis where the price of a coin is for instance registered 3 or 4 hours after the close price of a New York-based stock index. Typically the time lag can range from 3 to 18 hours.20 Even in BTC, which is the least volatile of the commonly traded cryptocurrencies, the average intra-day price range over the period 1 January $2 0 1 6 - 3 1$ December 2018 is 5.85% with a positive skew and heavy-tails, as shown in Figure A2 of the appendices; and for ETH the average intra-day range in the same sample period is $1 0 . 5 \\%$ .21 ",
+    "bbox": [
+      112,
+      699,
+      885,
+      840
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "19For instance, the close prices on the New York Stock Exchange (NYSE) are only available Monday through Friday at 16:00 Eastern Time (UTC-05:00 or UTC-04:00 depending on Daylight Saving Time). Another advantage of CC is that it allows high-frequency data to be downloaded. 20For instance, the S&P 500 close time is 16:00 Eastern Time (UTC-05:00 or UTC-04:00 in DST), so crypto prices are reported 3 or 4 hours later; the Euro Stoxx 50 close time is 18:00 Central European Time (UTC+01:00 or ",
+    "bbox": [
+      111,
+      851,
+      885,
+      920
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      490,
+      945,
+      509,
+      958
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      138
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "It is important to use concurrent data for papers studying portfolio diversification and hedging, but also for any other paper analysing crypto and other financial data in combination. Borri and Shakhnov (2018), Karalevicius (2018), Baur and Dimpfl (2019), Borri (2019) and Urquhart and Zhang (2019) acknowledge this issue and treat it accordingly. $^ { 2 2 }$ It is also particularly important to use synchronous data for studies of arbitrage. Some papers on exchange arbitrage are careful to use synchronous high-frequency data. For instance, Lintilhac and Tourin (2017) use 5-hour frequency traded data on BTC-e, Bitstamp and itBit with a sample period of 4 January 2014 to 3 June 2016 to demonstrate profitable arbitrage opportunities after accounting for bid/ask slippage, transactions costs and market impact costs. Similarly, Makarov and Schoar (2018) use tick level trading data from the 15 largest and most liquid exchanges between 1 January 2017 – 28 February 2018, and find large arbitrage opportunities across different exchanges that often persist for several days. Also, when examining cryptocurrency futures and their role in price discovery, synchronous data must be used – see e.g. (Alexander and Heck, 2019; Baur and Dimpfl, 2019; Choi et al., 2019).23 ",
+    "bbox": [
+      112,
+      143,
+      885,
+      409
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Significant price deviations between crypto exchange prices allowed arbitrageurs to extract profits, but since the beginning of 2018 these price deviations have become much smaller. To see this Figure 3 depicts the price spread between the Coinbase BTC price and four other long-established centralised exchanges, always relative to the Coinbase price. The spreads are large and variable until the second quarter of 2018, after which they become almost negligible. $^ { 2 4 }$ However, in the last $^ { 2 1 }$ Of course, those cryptocurrencies that are hardly traded at all have illiquid markets and so their prices do not move much, but we are not interested in those. ",
+    "bbox": [
+      112,
+      412,
+      883,
+      512
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      119,
+      578,
+      883,
+      606
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$^ { 2 2 }$ Borri and Shakhnov (2018) examine the efficiency of bitcoin markets. They compute end-of-day bitcoin prices corresponding to 16:00 UTC and drop observations corresponding to weekends and additional non-business days, to match bitcoin prices with fiat currency exchange rates (obtained from Thompson Reuters) whose daily close occurs at 16:00 UTC; and the same treatment is applied in Borri (2019). Karalevicius (2018) examines whether investor sentiment is a good predictor for bitcoin’s returns. He webscrapes news articles from Coindesk, Cointelegraph and other crypto news websites, and takes care to convert all dates and times to UTC+00:00 in accordance with the price data he collects from Bitstamp so that sentiment analysis is performed on the correct subsample of articles for each day. Baur and Dimpfl (2019) use 15-minute frequency for their bitcoin spot price data, in order to align them exactly on the bitcoin futures trading hours. Urquhart and Zhang (2019) examine bitcoin’s role as a hedge or diversifier against fiat currency exchange rates. Since foreign exchange trades on a 24-hour basis except weekends, and bitcoin trades on a 24-7 basis, they choose to filter out bitcoin prices during periods when the currency markets are closed. ",
+    "bbox": [
+      112,
+      606,
+      883,
+      757
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$^ { 2 3 }$ Other papers use synchronous spot data to study crypto market efficiency: Bariviera (2017), Vidal-Tom´as and Iba˜nez (2018) and Zargar and Kumar (2019) use data from Bitstamp; Pieters and Vivanco (2017) and Sensoy (2019) use data from multiple crypto exchanges, as can be obtained from Bitcoincharts; and Borri and Shakhnov (2018) consider prices from over 100 exchanges listed on Cryptocompare; Brauneis et al. (2018) access the REST API of Bitfinex, Bitstamp and Coinbase, requesting both high-frequency trades and limit order book data. ",
+    "bbox": [
+      112,
+      758,
+      883,
+      827
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$^ { 2 4 }$ All significant deviations of these spreads from zero can be tied with extreme events in the crypto market. For instance, on 28 May 2016 BTC traded at a significant discount on Poloniex just when the enormously-hyped DAO token began trading on Poloniex. On 2 August 2016 BTC the Bitfinex – Coinbase BTC spread spiked because Bitfinex halted trading due to a hack and at the same time BTC prices crashed on most other exchanges. In April 2017 Bitfinex and Poloniex BTC prices decoupled from other exchanges due to issues faced by Bitfinex and Tether with their banking partners. And in the fourth quarter of 2017 Coinbase BTC prices were higher than Bitfinex, quarter of the sample period when the spreads on Bitfinex and Poloniex diverge compared with the spreads on Gemini and Kraken, because the prices on Bitfinex and Poloniex are expressed in tether (USDT) not USD. Tether is a stablecoin and is supposed to be exchangeable 1:1 with USD, but in fact it has been known to deviate significantly, offering quite a lot of arbitrage opportunities. In fact, on 15 January 2015 Bitfinex announced that it accepts USDT deposits and credits them as USD to users’ trading accounts at a 1:1 rate. The tether-dollar parity was effectively ended by Bitfinex on 27 November 2018 when it introduced a USDT/USD cross-rate, and even more so on 21 December 2018 when they introduced margin trading on that pair with up to 3.3x leverage. But until 11 March 2019 when separate BTC/USDT and ETH/USDT pairs were introduced by Bitfinex, BTC and ETH Bitfinex prices were effectively denominated in tether. ",
+    "bbox": [
+      114,
+      828,
+      883,
+      910
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      506,
+      958
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "UTC+02:00 in UTC), so crypto prices are reported 7 or 8 hours later; the Nikkei 225 close time is 15:00 UTC+09:00 (no DST), so crypto prices are reported 18 hours later; the CSI 300 close time is 15:00 UTC $^ +$ 08:00 (no DST), so crypto prices are reported 17 hours later. Crypto markets operate on a 24-7 basis with almost no exceptions, so a common convention in historical price data is to report each day’s ‘close’ price at or very near 23:59:59 UTC. ",
+    "bbox": [
+      112,
+      522,
+      885,
+      578
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/33313f73c40714cb343da34ef9bebd146db52ac8657e27ca235f2be2dbd3c9ac.jpg",
+    "image_caption": [
+      "Figure 3: Bitfinex, Gemini, Kraken and Poloniex BTC Spreads against Coinbase Bitfinex – Coinbase, Gemini – Coinbase, Kraken – Coinbase and Poloniex – Coinbase BTC price spreads, all expressed relative to Coinbase’s BTC price. The data frequency is daily and the sample period is 1 April 2016 – 26 June 2019. BTC Spreads "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      178,
+      132,
+      830,
+      313
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      339,
+      885,
+      544
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In the upper graph of Figure 4 we express the Bitfinex and Poloniex BTC prices in USD using the USDT/USD cross-rate available on Kraken.25 The Poloniex prices (in green) move into line with the rest after adjustment, but the Bitfinex prices (in blue) do not, and even using the Bitfinex USDT/USD price to adjust the Bitfinex BTC price does not bring it back in line with the others. Interestingly, the decoupling of the Bitfinex BTC price (even after tether adjustment) coincides exactly with a significant decline in BTC/USD price levels during the fourth quarter of 2018 as shown in Figure 4. This event occurs very close to the introduction of the USDT/USD pair by Bitfinex on 27 November 2018, denoted by the first dotted line in the upper graph of Figure 4; the second dotted line denotes the introduction of margin trading for the BTC/USDT and ETH/USDT Bitfinex pairs (11 April 2019). The Bitfinex price subsequently converges towards the Coinbase price, making the Bitfinex – Coinbase BTC price spread in the upper graph very small. A second Bitfinex price decoupling occurs in mid-April 2019 (upper graph), and coincides very closely with the legal issues face by Bitfinex. Most alarming of all, the lower graph of Figure 4 depicts an immense increase in the supply of tether by more than 1.5 billion tokens between mid-March and late June 2019. This increase in tether’s supply is accompanied by an impressive surge in BTC/USD prices across all exchanges – see Alexander and Dakos (2019) for more detail, and Griffin and Shams (2018) for empirical evidence of tether’s role in the bitcoin price bubble of 2017. ",
+    "bbox": [
+      112,
+      547,
+      885,
+      856
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Kraken and Poloniex prices, possibly because many of its new users traded through its retail platform. 25We use the Kraken USDT/USD price because it has much higher (real) volume compared with other crypto exchanges and the longest historical period available. ",
+    "bbox": [
+      114,
+      866,
+      885,
+      909
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      882,
+      118
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/86e17cdc50b242e1340ce8a3852c5f8b89ad3c17d76e023b84cd2411de94f55e.jpg",
+    "image_caption": [
+      "Figure 4: BTC Tether-Adjusted Price Spreads, BTC Price Level and USDT Supply Upper graph: Bitfinex – Coinbase, Gemini – Coinbase, Kraken – Coinbase and Poloniex – Coinbase BTC price spreads, all expressed relative to Coinbase’s BTC price. Bitfinex and Poloniex prices are expressed in USD via the Kraken USDT/USD cross-rate. Lower graph: BTC price index from CC. The data frequency is daily, and the sample period is 1 April 2018 – 26 June 2019. Vertical dotted lines denote dates of interest. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      171,
+      205,
+      856,
+      535
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "5 Challenges in Risk Assessment ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      559,
+      444,
+      577
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Here we demonstrate that the choice of data source has an enormous influence on the calibration of statistical volatility models for cryptocurrencies, using BTC and ETH for our empirical results. Numerous papers explore the best specification for generalised autoregressive conditional heteroscedasticity (GARCH) models introduced by Bollerslev (1986) on different types of financial data, see Engle et al. (2008) for a useful survey. Ten recent papers have explored this topic using returns on BTC and other cryptos. Bouoiyour and Selmi (2016) examine several specifications for BTC returns and find that the optimal specification is the component with multiple threshold (CMT)-GARCH. Katsiampa (2017) claims that asymmetric component GARCH fits BTC returns better than many other models. Corbet et al. (2018) use symmetric GARCH and Vidal-Tom´as and Iba˜nez (2018) use a component GARCH, both with un-specified distributions for innovations. By contrast, Bouri et al. (2017) use a symmetric model with innovations that follow a generalised error distribution (GED), and Al-Khazali et al. (2018) attempt several specifications, finding that the optimal model is the exponential GARCH with normally distributed residuals. Dyhrberg (2016) uses a symmetric and an exponential normal GARCH on BTC returns. Similarly, Baur et al. (2018) use a normal exponential GARCH model, and note that using a Student- $t$ distribution does not improve their results. They also use a normal GJR-GARCH and find that estimates violate the parameter constraints for a finite positive steady-state volatility, so the variance process is integrated. $^ { 2 6 }$ ",
+    "bbox": [
+      112,
+      593,
+      885,
+      924
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      490,
+      945,
+      509,
+      958
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      80,
+      843,
+      98
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "All of the above papers calibrate models using maximum likelihood estimation (MLE). However this optimizer lacks robustness: when we generate observations from a GARCH model with fixed parameters and use these observations to re-estimate the same GARCH specification, MLE cannot identify the same parameters. Following Asai (2006), Virbickaite et al. (2015) and Ardia (2008) it is now recognised that Markov chain Monte Carlo (MCMC) is much more robust than MLE for calibrating univariate GARCH data generation processes. Using MCMC, Ardia et al. (2019) motivate the use of Markov switching GARCH models for BTC data, and find that a two-regime asymmetric (GJR) skewed Student- $t$ GARCH model provides the best in-sample fit. Also using MCMC, Caporale and Zekokh (2019) extend these results to ether, ripple and litecoin, using Valueat-Risk and Expected Shortfall backtesting and the model confidence set procedure to select the best model specification. ",
+    "bbox": [
+      112,
+      102,
+      885,
+      325
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Before we put these risk models for cryptocurrencies under the microscope, we ask how important it is to get the right risk model – e.g. perhaps a moving average estimation is enough. Suppose we take a 30-day equally-weighted moving average (EQMA) or a standard RiskMetrics exponentially weighted moving average (EWMA) with smoothing constant 0.94 – would we obtain similar results to those generated by a GARCH model? Let us compare the different model’s in-sample volatility estimates for daily returns on BTC and ETH prices from CC. In Figure 5 we plot the 30-day EQMA, the EWMA with $\\lambda = 0 . 9 4$ and – after much experimentation with several GARCH specifications – the exponential GARCH model of Nelson (1991) with Student- $t$ distributed innovations.27 Bitcoin’s volatility is lower than other cryptos; ether’s volatility is higher, yet it is the second least-volatile cryptocurrency. The spreads in volatility estimates between different methods can be as high as $4 0 0 \\%$ for BTC and $1 0 0 \\%$ for ETH, and they maximize during periods of high volatility. For instance, on 21 November 2018 BTC volatility is $7 3 \\%$ when calculated with an EQMA(30) and $1 3 3 \\%$ when calculated with a single-state Student-t EGARCH. This has an enormous impact on Sharpe ratio calculation that most funds report on a regular basis: PwC reports an average quant crypto hedge fund return of a little more than 10% p.a. in 2018; assuming that a funds return on 21 Novemeber 2018 was 10% p.a. and with current borrowing rates so low, this would translate into an ex-post SR of either 0.14 using the EQMA(30) or 0.07 using the single-state Student-t EGARCH. By the same token, such huge differences in volatility, depending on risk model choice, would have a significant effect on the capital provisions necessary for large institutional investors. In view of these findings we conclude that the choice of risk model is very important indeed – a risk manager should deploy a well-defined GARCH model which should be calibrated using MCMC rather than MLE. ",
+    "bbox": [
+      112,
+      328,
+      885,
+      762
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Now we investigate how our choice of data source affects the GARCH model calibration. For this, we use daily returns on BTC prices obtained from various sources. We find similar results to Baur et al. (2018) for non-switching GARCH specifications, i.e. the estimated variance process is ",
+    "bbox": [
+      112,
+      765,
+      883,
+      824
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "26Also Borri (2019) examines conditional tail-risk in the markets for bitcoin, ether, ripple and litecoin using prices obtained from the Bitfinex and Bitstamp exchanges. Matkovskyy (2019) compares the EUR, USD, and GBP centralized and decentralized BTC crypto exchanges in terms of return volatility and interdependency. 27We were only able to calibrate this model by imposing a reasonable value for the degrees of freedom parameter based on sample statistics moments. ",
+    "bbox": [
+      112,
+      834,
+      883,
+      904
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "We depict the 30-day EQMA, EWMA and Student- $t$ EGARCH in-sample volatility estimates based on the daily returns of BTC (upper graph) and ETH (lower graph) prices from CC. The sample period is 1 April 2018 – 31 March 2019. ",
+    "bbox": [
+      114,
+      97,
+      885,
+      136
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/6ec090986ec56dc156cbcc33bdccebc5341e4a42f1c5e3afc6a142f8628446f5.jpg",
+    "image_caption": [
+      "Figure 5: Cryptocompare BTC and ETH In-sample Volatility "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      171,
+      140,
+      816,
+      502
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "almost always integrated and most models are clearly misspecified.28 Therefore, we explore Markov switching specifications. Following Ardia et al. (2019) we use the two-state Markov switching GJR-GARCH model and estimate its parameters using MCMC.29 We filter the log returns through an AR(1) conditional mean and then apply the two-state Markov switching skewed Student- $t$ GJR-GARCH model: ",
+    "bbox": [
+      112,
+      531,
+      887,
+      633
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "We approximate the unconditional steady-state volatility of each regime as: ",
+    "bbox": [
+      111,
+      690,
+      707,
+      708
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/484b748458b1961e5a532b1c92d309b9daeb07485aaf9726264b0be56a68ae7d.jpg",
+    "text": "$$\nU V _ { i } = \\sqrt { \\frac { 3 6 5 \\omega _ { i } } { 1 - \\alpha _ { i } - 0 . 5 \\gamma _ { i } - \\beta _ { i } } } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      383,
+      723,
+      614,
+      760
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The $\\beta$ parameter controls the persistence of price shocks in the volatility, and volatility may react differently to positive and negative price shocks depending on the values of $\\alpha$ and $\\gamma$ . The degrees ",
+    "bbox": [
+      112,
+      772,
+      887,
+      811
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "8Detailed results are available on request. 29Ardia et al. (2019) take log returns on BTC Bitstamp prices, ranging from 19 August 2011 until 2 March 2018. They find that out of several model specifications the two-state skewed Student- $t$ GJR-GARCH provides the best in-sample fit based on the Deviance Information Criterion (DIC). We can successfully replicate their results using the MSGARCH R package documented in Ardia et al. (2019). We thank Dr. David Ardia and Keven Bluteau for their valuable help in adapting the MSGARCH R package for the leverage effect we need for crypto returns. ",
+    "bbox": [
+      114,
+      827,
+      885,
+      905
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "of freedom $\\eta$ ) and asymmetry $( \\xi )$ parameters for the skewed Student- $t$ distribution are also statedependent. The constant state transition probabilities control the latent state variable $s _ { t }$ ; these are summarised in the transition probability matrix: ",
+    "bbox": [
+      112,
+      79,
+      885,
+      138
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/68ff8d343a64d2c8bb8456d17bfda464a8e2f7c87f01382b349abecfd85c4d46.jpg",
+    "text": "$$\n\\begin{array} { r } { \\mathbf { \\Pi } \\mathbf { { I } } = \\left( { \\begin{array} { l l } { p _ { 1 1 } } & { p _ { 2 1 } } \\\\ { p _ { 1 2 } } & { p _ { 2 2 } } \\end{array} } \\right) , } \\end{array}\n$$",
+    "text_format": "latex",
+    "bbox": [
+      428,
+      155,
+      568,
+      199
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "where each element $p _ { i j } = P \\left( s _ { t } = j | s _ { t - 1 } = i \\right)$ denotes the constant probability of transitioning from state $i$ at time $t - 1$ to state $j$ at time $t$ . ",
+    "bbox": [
+      112,
+      212,
+      885,
+      250
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "To understand the ‘data source effect’ on the GARCH model parameters, we use BTC prices from CG, CM, CC, Bitstamp and Kraken between 1 September 2013 – 31 March 2019.30 We produce the posterior parameter distribution using 10,000 burn-in draws and build a sample of size 2,000 with the next 10,000 draws keeping only every $5 ^ { t h }$ draw, setting our pseudo-random number generator seed to 1 for each data source. Table 2 reports the posterior distribution median and (in parentheses) the $2 5 ^ { t h }$ and $7 5 ^ { t h }$ percentiles for each parameter in the Markov switching skewed Student- $t$ GJR-GARCH. The parameter estimates are highly sensitive to the data source choice. For instance, in state 1 which is the low volatility regime (upper panel of Table 2) the CG $\\omega _ { 1 }$ median falls outside CC’s $( 2 5 ^ { t h } , 7 5 ^ { t h } )$ percentile interval, even though the two medians are quite close; and similarly for $\\gamma _ { 1 }$ and $p _ { 1 1 }$ . Even worse, in state 2 which is the high volatility regime, the median estimate for the leverage parameter $\\gamma _ { 2 }$ does not even maintain the same sign for all sources, and the corresponding $( 2 5 ^ { t h } , 7 5 ^ { t h } )$ percentile intervals indicate a lot of dispersion in the parameter distributions; the estimates of $\\beta$ in state 2 based on the CG and Bitstamp data are both well below the normal values for a GARCH persistence parameter; and the steady-state volatility estimates vary considerably across data sources. In fact all the calibrated parameters differ, in some cases very considerably, across different data sources. ",
+    "bbox": [
+      112,
+      253,
+      885,
+      582
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Given the large discrepancies in parameter estimates across data sources, we now ask whether the optimal model choice also varies when we use different data. We compare the optimal GARCH model specification for BTC returns from CG, CM, CC, Bitstamp and Kraken, as indicated by the Deviance Information Criterion (DIC) and the Bayesian Predictive Information Criterion (IC). Table A3 of the appendices reports the DIC and IC for the following model specifications estimated using MCMC: two-state Markov switching GARCH, GJR-GARCH or EGARCH with innovations distributed according to a (symmetric or skewed) normal or Student- $t$ distribution. For each data source we highlight (in blue) the minimum DIC and IC values which indicate the optimal model choice from those examined. The DIC and IC reported in Table A3 indicate that the optimal models are almost exclusively the two-state Markov switching symmetric GARCH and EGARCH with innovations that follow a skewed Student- $t$ distributions. These results are different compared with Ardia et al. (2019), but we do not employ the same historical period. ",
+    "bbox": [
+      112,
+      587,
+      885,
+      830
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Because the optimal choice of model can be highly sensitive to the sample period, we also examine the symmetric GARCH and EGARCH specifications as defined by Bollerslev (1986) and Nelson (1991) respectively, reporting results in the appendices (and results for other GARCH models are available on request). Specifically, the MCMC parameter medians (and percentiles) of the skewed Student- $t$ symmetric GARCH and EGARCH models are reported in Tables A4 and A5 of the appendices. Again we note significant discrepancies in all parameters across data sources. For instance, the skewed Student- $\\mathrm { t }$ GARCH appears to be the optimal model for CG and Bitstamp according the corresponding DIC and IC values in Table A3. However, when we examine the parameter estimates in Table A4 every parameter median for CG is outside the ( $2 5 ^ { t h }$ , $7 5 ^ { t h }$ ) percentile interval of the same parameter for Bitstamp, except for the distribution parameters $\\eta$ and $\\xi$ , and the state 2 transition probability $p 2 2$ ; and the same holds vice versa. Similarly, the skewed Student-t EGARCH is the optimal model for CC and Kraken data. And yet, when we examine the EGARCH parameter medians and percentile intervals of CC and Kraken displayed in Table A5 the parameter medians of CC are outside the percentiles’ interval of Kraken, and vice versa, for almost all parameters. ",
+    "bbox": [
+      112,
+      835,
+      885,
+      872
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "30We do not use ETH data since they are only available from mid-2015 onwards, and the sample length is not sufficient for a Markov switching model calibration, even with the MCMC method. ",
+    "bbox": [
+      112,
+      883,
+      882,
+      912
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "16 ",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/4f3874c48de3bc63a2f0ee9013b16860aa501ace33db19dcb5278008c9f9cefb.jpg",
+    "table_caption": [
+      "Table 2: Markov Switching GJR-GARCH on Non-Traded and Traded BTC Data Markov switching skewed Student- $t$ GJR-GARCH parameter medians and (in parentheses) the $2 5 ^ { t h }$ and $7 5 ^ { t h }$ percentiles, based on BTC daily returns from CG, CM, CC, Bitstamp and Kraken. The sample period is 1 September 2013 – 31 March 2019. Parameters of interest are highlighted in blue and red. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CG</td><td></td><td>CM</td><td>CC</td><td>Bitstamp</td><td>Kraken</td></tr><tr><td colspan=\"6\">State 1</td></tr><tr><td>W1</td><td>0.145 (0.116, 0.185) 0.147</td><td>0.007 (0.006, 0.007) 0.052</td><td>0.197 (0.166, 4.932) 0.156</td><td>0.036 (0.031, 0.042) 0.070</td><td>0.011 (0.009, 0.014) 0.100</td></tr><tr><td>α1</td><td>(0.126,0.168) -0.067</td><td>(0.046, 0.058) -0.019</td><td>(0.051, 0.181) -0.097</td><td>(0.051, 0.093) -0.006</td><td>(0.085, 0.117) -0.074 (-0.089,-0.061)</td></tr><tr><td>71 β1</td><td>(-0.091,-0.035) 0.865</td><td>(-0.034,-0.005) 0.953 (0.947, 0.958)</td><td>(-0.144,0.246) 0.858</td><td>(-0.033,0.020) 0.922</td><td>0.917 (0.908, 0.926)</td></tr><tr><td>71</td><td>(0.846, 0.878) 2.948 (2.846, 3.093)</td><td>2.396 (2.362, 2.441)</td><td>(0.662, 0.877) 2.873 (2.709, 4.653)</td><td>(0.910, 0.934) 2.832 (2.699, 3.001)</td><td>3.057 (2.950, 3.202)</td></tr><tr><td>S1</td><td>1.013 (0.989, 1.033)</td><td>1.046 (1.026,1.068)</td><td>0.998 (0.902,1.031)</td><td>1.028</td><td>1.100 (1.082, 1.124)</td></tr><tr><td>P11</td><td>0.944 (0.934, 0.952)</td><td>0.957 (0.950, 0.964)</td><td>0.976</td><td>(1.008,1.046) 0.975</td><td>0.862 (0.846, 0.879)</td></tr><tr><td>UV1</td><td>49.6%</td><td>21.5%</td><td>(0.972, 0.980) 45.7%</td><td>(0.970, 0.979) 36.3%</td><td>14.2%</td></tr><tr><td colspan=\"6\">State 2</td></tr><tr><td>W2</td><td>30.442 (27.905, 32.819) 0.003</td><td>2.377 (2.129, 2.645) 0.240</td><td>4.599 (0.168, 5.435) 0.067</td><td>24.312 (20.950, 28.351) 0.231</td><td>1.828 (1.675, 2.004) 0.022</td></tr><tr><td>α2</td><td>(0.003,0.004) 0.297</td><td>(0.222, 0.258) -0.055</td><td>(0.054, 0.185) 0.204</td><td>(0.197, 0.265) 0.311</td><td>(0.019, 0.025) 0.168</td></tr><tr><td>72 β</td><td>(0.230, 0.364) 0.009</td><td>(-0.082, -0.031) 0.767 (0.754, 0.779)</td><td>(-0.144, 0.262) 0.682 (0.657, 0.880)</td><td>(0.185, 0.424) 0.308</td><td>(0.140, 0.202) 0.880 (0.862, 0.896)</td></tr><tr><td>m2</td><td>(0.004, 0.028) 51.933 (29.060,70.020)</td><td>4.172 (3.895, 4.542)</td><td>4.165 (2.684, 4.835)</td><td>(0.275, 0.348) 3.131 (2.860, 3.466)</td><td>65.485 (61.535, 69.464)</td></tr><tr><td>S</td><td>0.710 (0.661, 0.775)</td><td>0.865 (0.837, 0.893)</td><td>0.937 (0.880, 1.022)</td><td>0.854 (0.813, 0.891)</td><td>0.906 (0.851, 0.960)</td></tr><tr><td>P22</td><td>0.772 (0.730, 0.815)</td><td>0.950 (0.944, 0.956)</td><td>0.974 (0.969, 0.979)</td><td>0.951 (0.936, 0.961)</td><td>0.599 (0.569,0.634)</td></tr><tr><td>UV2</td><td>115%</td><td>204%</td><td>106%</td><td>170%</td><td>216%</td></tr></table>",
+    "bbox": [
+      165,
+      140,
+      828,
+      776
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      781,
+      885,
+      905
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      79,
+      885,
+      202
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "6 Summary and Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      226,
+      403,
+      244
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In the light of all our findings and discussions, we critically surveyed the last two and a half years of papers published in finance and economics journals, and some of the more recent SSRN papers. We summarise those papers which use the wrong kind of data without citing any of them explicitly. As explained in Section 1, by ‘wrong’ we mean any of the following: data from questionable sources; non-concurrent time-series data in multivariate analysis; non-traded prices in portfolio optimisation, efficiency studies, trading strategy development or hedging analysis. ",
+    "bbox": [
+      112,
+      260,
+      885,
+      382
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In total, we examined 152 published and SSRN discussion papers. Of these, 38 use data from questionable sources; 38 incorrectly employ non-traded prices; and 36 use non-synchronous data in a multivariate analyses across different asset classes. Approximately half the relevant published papers in our literature search (67 from a total of 124) are published in Economics Letters, Finance Research Letters and Research in International Business and Finance; 39 of these use ‘wrong’ data. Having said this, out of the 152 published and discussion papers in our search, 25 papers do use proper traded prices when examining the topics mentioned above.31 Hopefully by the time this article is published, there will be many more.32 As for data synchroneity, 5 papers in our sample do use concurrent data.33 ",
+    "bbox": [
+      112,
+      385,
+      885,
+      568
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "When examining crypto market efficiency, portfolio optimization, hedging and trading applications it is very important to use traded data from crypto exchanges, not data from coin-ranking sites. But some exchanges do not trade fiat currencies and instead use ‘stablecoins’ such as tether. So their prices need adjustment in order to be comparable with fiat prices. Even then, significant inconsistencies can occur between traded prices on different exchanges. Researchers and traders need to be aware of such inconsistencies both in order to avoid using ‘compromised’ data, and because these cases may be excellent topics for further research. The BTC/USD price premium of Bitfinex and its potential implications form one such case that we discuss in brief. ",
+    "bbox": [
+      112,
+      571,
+      885,
+      734
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "It is also important to use a well-conditioned GARCH model for risk assessment of cryptocurrencies. Following Ardia et al. (2019) we support the use of Student- $t$ Markov-switching GARCH models with two states, at least for BTC returns. However, we find that the choice between a symmetric or asymmetric volatility model very much depends on the data source as well as the sample period, and so do the model parameters themselves. In practice the risk manager must be very careful to calibrate this model on data from the crypto exchange that they are actually trading on. Otherwise, the parameter estimates are likely to be quite incorrect. For instance, if a trader uses CC or Bitstamp prices for investments made on Kraken, they will get very different results. And when a non-traded coin price can be used for risk assessment we recommend using the Cryptocompare data because other coin-ranking sites base their quotes on unreliable volume data. ",
+    "bbox": [
+      114,
+      738,
+      885,
+      776
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "31These are the following: Bariviera (2017), Lintilhac and Tourin (2017), Pieters and Vivanco (2017), Urquhart (2017), Baur et al. (2018), Benedetti (2018), Borri and Shakhnov (2018), Brauneis et al. (2018), Dyhrberg et al. (2018), Griffin and Shams (2018), Koutmos (2018), Makarov and Schoar (2018), Vidal-Tom´as and Iba˜nez (2018), Baig et al. (2019), Baur and Dimpfl (2019), Borri (2019), Borri and Shakhnov (2019), Bouri et al. (2019), Choi et al. (2019), Eross et al. (2019), Hu et al. (2019), Matkovskyy (2019), Mbanga (2019), Sensoy (2019), Urquhart and Zhang (2019), and finally Zargar and Kumar (2019). 32These numbers are valid as of the time of writing, and to the best of our knowledge. $^ { 3 3 }$ These are: Borri and Shakhnov (2018), Borri (2019), Karalevicius (2018), Baur and Dimpfl (2019) and Urquhart and Zhang (2019). ",
+    "bbox": [
+      112,
+      785,
+      885,
+      912
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      80,
+      885,
+      242
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "In finance we sometimes tend to worry very little about the quality of our data; after all, Bloomberg is Bloomberg. However, the choice of data source is of particular importance in cryptocurrency research. We have tried to provide a framework for best data practice which, having surveyed the recent literature, is clearly necessary in this area. There are numerous different sources of freely-downloadable data to choose from but some are clearly better than others and we have given several reasons why. In addition to volume-inflation, which can distort some individual coin data from coin-ranking sites, the Coingecko data contains significant errors which feed into the CRIX market index. We have shown how these errors can be corrected, and that it is necessary to do this before any meaningful empirical analysis can be performed. ",
+    "bbox": [
+      112,
+      247,
+      885,
+      430
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      490,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "References   \nAl-Khazali, O., E. Bouri, and D. Roubaud (2018). The impact of positive and negative macroeconomic news surprises: Gold versus bitcoin. Economics Bulletin 38 (1), 373–382.   \nAlexander, C. and M. Dakos (2019). Bitcoin: welcome to Bitfinex’s second Tether bubble. Medium.   \nAlexander, C. and D. Heck (2019). Price discovery and efficiency in bitcoin markets. SSRN Discussion Paper 3383147.   \nArdia, D. (2008). Financial risk management with bayesian estimation of GARCH models. Springer-Verlag Berlin Heidelberg.   \nArdia, D., K. Bluteau, K. Boudt, L. Catania, and D.-A. Trottier (2019). Markov-Switching GARCH models in R: The MSGARCH package. Journal of Statistical Software. Forthcoming.   \nArdia, D., K. Bluteau, and M. R¨uede (2019). Regime changes in bitcoin garch volatility dynamics. Finance Research Letters 29, 266–271.   \nAsai, M. (2006). Comparison of MCMC methods for estimating GARCH models. Journal of the Japan Statistical Society 36 (2), 199–212.   \nBaig, A., B. Blau, and N. Sabah (2019). Price clustering and sentiment in bitcoin. Finance Research Letters 29, 111–116.   \nBariviera, A. (2017). The inefficiency of bitcoin revisited: A dynamic approach. Economics Letters 161, 1–4.   \nBaur, D. and T. Dimpfl (2019). Price discovery in bitcoin spot or futures? Journal of Futures Markets $\\mathcal { B } \\mathcal { G } ( 7 )$ , 803–817.   \nBaur, D., T. Dimpfl, and K. Kuck (2018). Bitcoin, gold and the US dollar: A replication and extension. Finance Research Letters 25, 103–110.   \nBaur, D., K. Hong, and A. Lee (2018). Bitcoin: Medium of exchange or speculative assets? Journal of International Financial Markets, Institutions and Money 54, 177–189.   \nBenedetti, H. (2018). The economics of digital token cross-listings. SSRN Discussion Paper 3267392.   \nBitwise Asset Management (2019). Presentation to the U.S. Securities and Exchange Commission. Available at: https://bit.ly/2TSN9oi.   \nBollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics 31 (3), 307–327.   \nBorri, N. (2019). Conditional tail-risk in cryptocurrency markets. Journal of Empirical Finance 50, 1–19.   \nBorri, N. and K. Shakhnov (2018). Cryptomarket discounts. SSRN Discussion Paper 3124394.   \nBorri, N. and K. Shakhnov (2019). Regulation spillovers across cryptocurrency markets. SSRN Discussion Paper 3343696.   \nBouoiyour, J. and R. Selmi (2016). Bitcoin: A beginning of a new phase? Economics Bulletin $\\mathcal { B } 6 ( 3 )$ , 1430–1440.   \nBouri, E., L. Gil-Alana, R. Gupta, and D. Roubaud (2019). Modelling long memory volatility in the bitcoin market: Evidence of persistence and structural breaks. International Journal of Finance and Economics 24 (1), 412–426.   \nBouri, E., P. Molnar, G. Azzi, D. Roubaud, and L. Hagfors (2017). On the hedge and safe haven properties of bitcoin: Is it really more than a diversifier? Finance Research Letters 20, 192–198.   \nBrauneis, A., R. Mestel, R. Riordan, and E. Theissen (2018). A high-frequency analysis of bitcoin markets. SSRN Discussion Paper 3249477.   \nCaporale, G. and T. Zekokh (2019). Modelling volatility of cryptocurrencies using markov-switching garch models. Research in International Business and Finance 48, 143–155.   \nCarter, N. (2018). A glimpse into the dark underbelly of cryptocurrency markets. Medium.   \nChoi, J., H. Park, and S. Sohn (2019). Price discovery in bitcoin futures: Evidence from BitMEX. SSRN Discussion Paper 3353583.   \nCorbet, S., B. Lucey, M. Peat, and S. Vigne (2018). Bitcoin futures: What use are they? Economics Letters 172, 23–27.   \nDaian, P., S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach, and A. Juels (2019). Flash Boys 2.0: Frontrunning, transaction reordering, and consensus instability in decentralized exchanges. CoRR abs/1904.05234.   \nDyhrberg, A. (2016). Bitcoin, gold and the dollar - A GARCH volatility analysis. Finance Research Letters 16, 85–92.   \nDyhrberg, A., S. Foley, and J. Svec (2018). How investible is bitcoin? Analyzing the liquidity and transaction costs of bitcoin markets. Economics Letters 171, 140–143.   \nEngle, R., S. Focardi, and F. Fabozzi (2008). ARCH/GARCH models in applied financial econometrics. Handbook of Finance, John Wiley and Sons. Edited by Frank J. Fabozzi.   \nEross, A., F. McGroarty, A. Urquhart, and S. Wolfe (2019). The intraday dynamics of bitcoin. Research in International Business and Finance 49, 71–81.   \nGriffin, J. M. and A. Shams (2018). Is bitcoin really un-tethered? SSRN Discussion Paper 3195066.   \nHu, B., T. McInish, J. Miller, and L. Zeng (2019). Intraday price behavior of cryptocurrencies. Finance Research Letters 28, 337–342.   \nKaralevicius, V. (2018). Using sentiment analysis to predict interday bitcoin price movements. Journal of Risk Finance 19 (1), 56–75.   \nKatsiampa, P. (2017). Volatility estimation for bitcoin: A comparison of GARCH models. Economics Letters 158, 3–6.   \nKoutmos, D. (2018). Liquidity uncertainty and bitcoin’s market microstructure. Economics Letters 172, 97–101.   \nLintilhac, P. and A. Tourin (2017). Model-based pairs trading in the bitcoin markets. Quantitative Finance 17 (5), 703–716.   \nMakarov, I. and A. Schoar (2018, Apr). Trading and arbitrage in cryptocurrency markets. SSRN Discussion Paper 3171204.   \nMatkovskyy, R. (2019). Centralized and decentralized bitcoin markets: Euro vs USD vs GBP. Quarterly Review of Economics and Finance 71, 270–279.   \nMbanga, C. (2019). The day-of-the-week pattern of price clustering in Bitcoin. Applied Economics Letters 26 (10), 807–811.   \nNelson, D. B. (1991). Conditional heteroskedasticity in asset returns: A new approach. Econometrica ${ \\it 5 9 ( 2 ) }$ , 347–370.   \nPieters, G. and S. Vivanco (2017). Financial regulations and price inconsistencies across bitcoin markets. Information Economics and Policy 39, 1–14.   \nSensoy, A. (2019). The inefficiency of bitcoin revisited: A high-frequency analysis with alternative currencies. Finance Research Letters 28, 68–73.   \nTrimborn, S. and W. K. H¨ardle (2018). CRIX an index for cryptocurrencies. Journal of Empirical Finance 49, 107–122.   \nUrquhart, A. (2017). Price clustering in bitcoin. Economics Letters 159, 145–148.   \nUrquhart, A. and H. Zhang (2019). Is bitcoin a hedge or safe haven for currencies? An intraday analysis. International Review of Financial Analysis 63, 49–57.   \nVidal-Tom´as, D. and A. Iba˜nez (2018). Semi-strong efficiency of bitcoin. Finance Research Letters 27, 259–265.   \nVirbickaite, A., M. Ausn, and P. Galeano (2015). Bayesian inference methods for univariate and multivariate GARCH models: A survey. Journal of Economic Surveys ${ \\mathcal { Z } } ^ { g } ( 1 )$ , 76–96.   \nZargar, F. and D. Kumar (2019). Informational inefficiency of bitcoin: A study based on high-frequency data. Research in International Business and Finance 47, 344–353. ",
+    "bbox": [
+      106,
+      66,
+      893,
+      924
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "20 ",
+    "bbox": [
+      488,
+      945,
+      509,
+      958
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      109,
+      78,
+      892,
+      929
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "21 ",
+    "bbox": [
+      488,
+      945,
+      508,
+      958
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      107,
+      71,
+      890,
+      635
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "22 ",
+    "bbox": [
+      488,
+      945,
+      509,
+      958
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Appendices ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      75,
+      307,
+      104
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Supplementary Figures and Tables ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      123,
+      428,
+      141
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "In Figure A1 we compare end-of-day BTC/USD historical prices from Bitbay, Bitfinex, Bitstamp, Cexio, Exmo, Gemini, ItBit, Kraken, Quadrigacx, Quoinex, and Yobit with the BTC/USD price from the Coinbase exchange, and we plot the empirical density of $\\left( p _ { t } ^ { j } - p _ { t } ^ { c } \\right) / p _ { t } ^ { c }$ , where $p _ { t } ^ { j }$ is the end-of-day BTC/USD price from exchange $j$ on day $t$ , and $p _ { t } ^ { c }$ is the BTC/USD price in Coinbase at the same time. All end-of-day (23:00:00 UTC) prices are retrieved from Cryptodatadownload for the period 1 January 2018 to 31 December 2018. The average deviation is 1.18% with a standard deviation of 2.58%, but the distribution exhibits a strong positive skew and heavy tails, with some deviations being as large as 4%. ",
+    "bbox": [
+      112,
+      164,
+      885,
+      327
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/d4197907009fa957635130163adffee0c2d9d6e17a97bb6cf6493d4ac5f38eb3.jpg",
+    "image_caption": [
+      "Figure A1: Percentage deviations of daily BTC exchange prices relative to Coinbase Empirical density of the difference between the BTC/USD end-of-day prices on Bitbay, Bitfinex, Bitstamp, Cexio, Exmo, Gemini, ItBit, Kraken, Quadrigacx, Quoinex, and Yobit, and the BTC/USD end-of-day prices on Coinbase. The differences are expressed relative to Coinbase prices, the data is retrieved from Cryptodatadownload, and the sample period is 1 January 2018 – 31 December 2018. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      186,
+      422,
+      820,
+      578
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Figure A2 depicts the empirical density of the intra-day BTC price range for the period 1 January 2016 to 31 December 2018 period. The high-low range is calculated using Cryptocompare’s BTC/USD index price and is expressed relative to each day’s Low price. ",
+    "bbox": [
+      112,
+      585,
+      883,
+      645
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/77f3a9e1de28bf93ca1acfccff96bd570ed063420173302a78f12e7fa28d2dc3.jpg",
+    "image_caption": [
+      "Figure A2: Intra-day range of Cryptocompare BTC/USD Empirical density of the intra-day range for Cryptocompare’s BTC/USD single index. The range is expressed relative to each day’s Low price, and the sample period is 1 January $2 0 1 6 - 3 1$ December 2018. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      181,
+      710,
+      823,
+      869
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      945,
+      509,
+      958
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/53c70c3f2ef4658da7802db78977ca3122075728debd021f919ed33ca36af7a5.jpg",
+    "table_caption": [
+      "Table A1: Sample Statistics on BTC Non-Traded Price Indices and Traded Prices Sample statistics of the daily returns on BTC prices from CG, CM and CC, and from Bitfinex, Coinbase, Gemini, Kraken and Poloniex. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">BTC Non-Traded</td><td colspan=\"5\">BTC Traded</td></tr><tr><td>CG</td><td>CM</td><td>CC</td><td>Bitfinex</td><td>Coinbase</td><td>Gemini</td><td>Kraken</td><td>Poloniex</td></tr><tr><td colspan=\"9\">1 Apr 2016-31 Mar 2017</td></tr><tr><td>Mean (p.a.)</td><td>113.1%</td><td>110.8%</td><td>112.6%</td><td>111.3%</td><td>113.5%</td><td>113.1%</td><td>113.4%</td><td>113.9%</td></tr><tr><td>Volatility</td><td>58.9%</td><td>56.6%</td><td>58.0%</td><td>55.9%</td><td>58.5%</td><td>58.3%</td><td>60.0%</td><td>59.9%</td></tr><tr><td>Skewness</td><td>-0.74</td><td>-0.73</td><td>-0.84</td><td>-0.58</td><td>-0.50</td><td>-0.84</td><td>-0.79</td><td>-0.88</td></tr><tr><td>Ex.Kurtosis</td><td>6.24</td><td>6.01</td><td>6.62</td><td>5.79</td><td>6.03</td><td>6.11</td><td>6.51</td><td>7.09</td></tr><tr><td colspan=\"9\">1 Apr 2017-31 Mar 2018</td></tr><tr><td>Mean (p.a.)</td><td>241.7%</td><td>241.2%</td><td>240.4%</td><td>243.0%</td><td>238.5%</td><td>239.7%</td><td>238.0%</td><td>242.0%</td></tr><tr><td>Volatility</td><td>105.2%</td><td>104.1%</td><td>104.3%</td><td>107.8%</td><td>103.9%</td><td>104.7%</td><td>102.5%</td><td>106.7%</td></tr><tr><td>Skewness</td><td>0.41</td><td>0.33</td><td>0.28</td><td>0.35</td><td>0.46</td><td>0.42</td><td>0.27</td><td>0.34</td></tr><tr><td>Ex. Kurtosis</td><td>4.57</td><td>2.57</td><td>2.20</td><td>2.06</td><td>2.68</td><td>2.68</td><td>1.97</td><td>2.01</td></tr><tr><td colspan=\"9\">1 Apr 2018-31 Mar 2019</td></tr><tr><td>Mean (p.a.)</td><td>-33.9%</td><td>-33.9%</td><td>-31.9%</td><td>-29.2%</td><td>-31.7%</td><td>-31.4%</td><td>-31.3%</td><td>-31.6%</td></tr><tr><td>Volatility</td><td>61.8%</td><td>61.6%</td><td>63.8%</td><td>65.6%</td><td>64.4%</td><td>64.6%</td><td>64.6%</td><td>64.2%</td></tr><tr><td> Skewness</td><td>-0.15</td><td>-0.13</td><td>-0.16</td><td>-0.07</td><td>-0.19</td><td>-0.17</td><td>-0.18</td><td>-0.18</td></tr><tr><td>Ex.Kurtosis</td><td>2.96</td><td>3.02</td><td>2.90</td><td>3.12</td><td>3.20</td><td>3.13</td><td>3.14</td><td>3.20</td></tr></table>",
+    "bbox": [
+      112,
+      170,
+      885,
+      487
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/ca225ed09579eb49a965cf38cd395c0ca301583e7d012ff70baf370cd63bb1a2.jpg",
+    "table_caption": [
+      "Table A2: Sample Statistics on ETH Non-Traded Price Indices and Traded Prices Sample statistics of the daily returns on ETH/USD prices from CG, CM and CC, and from Bitfinex, Coinbase, Gemini, Kraken and Poloniex. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">ETH Non-Traded</td><td colspan=\"5\">ETH Traded</td></tr><tr><td>CG</td><td>CM</td><td>CC</td><td>Bitfinex</td><td>Coinbase</td><td>Gemini</td><td>Kraken</td><td>Poloniex</td></tr><tr><td colspan=\"9\">1 Jul 2016 －31 Mar 2017</td></tr><tr><td>Mean (p.a.)</td><td>238.8%</td><td>247.8%</td><td>249.8%</td><td>241.7%</td><td>252.1%</td><td>250.1%</td><td>247.9%</td><td>249.5%</td></tr><tr><td>Volatility</td><td>113.4%</td><td>114.1%</td><td>115.3%</td><td>110.0%</td><td>118.1%</td><td>117.9%</td><td>114.6%</td><td>115.9%</td></tr><tr><td>Skewness</td><td>0.97</td><td>1.32</td><td>1.17</td><td>1.49</td><td>1.32</td><td>0.84</td><td>1.15</td><td>1.08</td></tr><tr><td>Ex.Kurtosis</td><td>8.49</td><td>8.12</td><td>6.87</td><td>6.66</td><td>6.70</td><td>5.38</td><td>6.63</td><td>6.69</td></tr><tr><td colspan=\"9\">1 Apr 2017 -31 Mar 2018</td></tr><tr><td>Mean (p.a.)</td><td>290.8%</td><td>293.8%</td><td>292.7%</td><td>294.4%</td><td>291.6%</td><td>298.2%</td><td>289.6%</td><td>293.2%</td></tr><tr><td>Volatility</td><td>130.7%</td><td>133.6%</td><td>132.9%</td><td>133.3%</td><td>132.7%</td><td>136.2%</td><td>130.2%</td><td>132.4%</td></tr><tr><td> Skewness</td><td>0.54</td><td>0.76</td><td>0.66</td><td>0.41</td><td>0.81</td><td>0.79</td><td>0.60</td><td>0.43</td></tr><tr><td>Ex.Kurtosis</td><td>2.06</td><td>2.74</td><td>1.81</td><td>1.24</td><td>2.37</td><td>2.11</td><td>1.41</td><td>1.16</td></tr><tr><td colspan=\"9\">1 Apr 2018 -31 Mar 2019</td></tr><tr><td>Mean (p.a.)</td><td>-56.9%</td><td>-57.5%</td><td>-52.2%</td><td>-51.3%</td><td>-52.7%</td><td>-52.5%</td><td>-51.9%</td><td>-53.9%</td></tr><tr><td>Volatility</td><td>95.5%</td><td>95.0%</td><td>99.2%</td><td>99.0%</td><td>99.5%</td><td>99.6%</td><td>99.7%</td><td>97.9%</td></tr><tr><td> Skewness</td><td>0.05</td><td>-0.04</td><td>-0.02</td><td>0.02</td><td>-0.07</td><td>-0.03</td><td>-0.04</td><td>-0.01</td></tr><tr><td>Ex.Kurtosis</td><td>2.02</td><td>2.08</td><td>1.98</td><td>1.95</td><td>2.05</td><td>2.11</td><td>2.00</td><td>1.99</td></tr></table>",
+    "bbox": [
+      112,
+      593,
+      885,
+      911
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      945,
+      511,
+      958
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Table A3: Optimal GARCH Models – DIC and IC Comparison ",
+    "text_level": 1,
+    "bbox": [
+      282,
+      259,
+      715,
+      281
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/4ffe2a0f487853df6411a86711dcef7fb5340fafe95c09b0eb8612a83fdc20a5.jpg",
+    "table_caption": [
+      "Comparison of DIC (upper metric in each row) and IC (lower metric in each row) for two-state Markov-switching GARCH models . We examine all combinations of GARCH, GJR-GARCH and EGARCH with normal and Student- $t$ (both symmetric and skewed) distributed innovations. We use BTC data from CG , CM , CC , Bitstamp and Kraken, for the sample period 1 September 20 1 3 – 3 1 March 20 1 9 . We highlight (in blue) the optimal (smallest) DIC and IC values for each data source . "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"4\">GARCH</td><td colspan=\"4\">GJR-GARCH</td><td colspan=\"4\">EGARCH</td></tr><tr><td colspan=\"2\">Normal</td><td colspan=\"2\">Student-t</td><td colspan=\"2\">Normal</td><td colspan=\"2\">Student-t</td><td colspan=\"2\">Normal</td><td colspan=\"2\">Student-t</td></tr><tr><td></td><td>Sym.</td><td>Sk.</td><td>Sym.</td><td>Sk.</td><td>Sym.</td><td>Sk.</td><td>Sym.</td><td>Sk.</td><td>Sym.</td><td>Sk.</td><td>Sym.</td><td>Sk.</td></tr><tr><td rowspan=\"3\">CG</td><td>10298.45</td><td>10285.59</td><td>10253.31</td><td>10227.27</td><td>10334.05</td><td>10330.67</td><td>10246.01</td><td>10246.49</td><td>10317.50</td><td>10260.63</td><td>10233.19</td><td>10233.08</td></tr><tr><td>10304.86</td><td>10292.79</td><td>10274.62</td><td>10238.78</td><td>10344.67</td><td>10339.49</td><td>10259.90</td><td>10264.81</td><td>10332.53</td><td>10271.10</td><td>10240.76</td><td>10248.11</td></tr><tr><td>10274.03</td><td>10267.27</td><td>10201.66</td><td>10188.53</td><td>10297.07</td><td>10305.19</td><td>10253.51</td><td>10189.07</td><td>10321.82</td><td>10320.95</td><td>10198.15</td><td>10189.12</td></tr><tr><td>CM</td><td>10280.70</td><td>10273.99</td><td>10215.43</td><td>10200.89</td><td>10303.14</td><td>10314.02</td><td>10263.73</td><td>10198.58</td><td>10337.98</td><td>10329.20</td><td>10205.55</td><td>10199.76</td></tr><tr><td rowspan=\"3\">CC</td><td>10510.80</td><td>10498.39</td><td>10385.62</td><td>10377.72</td><td>10514.47</td><td>10499.12</td><td>10381.61</td><td>10382.14</td><td>10430.68</td><td>10425.66</td><td>10371.59</td><td>10369.67</td></tr><tr><td>10517.30</td><td>10504.90</td><td>10393.36</td><td>10386.59</td><td>10523.79</td><td>10507.59</td><td>10392.58</td><td>10394.86</td><td>10437.89</td><td>10432.08</td><td>10378.40</td><td>10381.09</td></tr><tr><td>10362.92</td><td>10354.06</td><td>10302.68</td><td>10286.02</td><td>10404.15</td><td>10410.56</td><td>10316.93</td><td>10318.08</td><td>10415.23</td><td>10410.00</td><td>10300.69</td><td>10291.61</td></tr><tr><td>Bitstamp</td><td>10369.28</td><td>10360.75</td><td>10320.41</td><td>10298.88</td><td>10412.13</td><td>10418.72</td><td>10331.79</td><td>10330.84</td><td>10428.35</td><td>10424.19</td><td>10308.80</td><td>10302.95</td></tr><tr><td rowspan=\"2\">Kraken</td><td>10518.65</td><td>10516.61</td><td>10524.27</td><td>10486.93</td><td>10532.42</td><td>10532.82</td><td>10462.73</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10524.56</td><td>10523.98</td><td>10582.89</td><td>10523.98</td><td>10539.56</td><td>10541.38</td><td>10470.79</td><td>10459.52 10467.94</td><td>10484.96 10491.50</td><td>10483.45 10490.66</td><td>10449.89 10458.82</td><td>10445.04 10456.94</td></tr></table>",
+    "bbox": [
+      77,
+      372,
+      940,
+      763
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "A3 ",
+    "bbox": [
+      39,
+      486,
+      54,
+      513
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/b8e21f401f7c71b30af35215bc8bb22c7be800c8190c9138b78b69c06de88fde.jpg",
+    "table_caption": [
+      "Table A4: Markov Switching GARCH on Non-Traded and Traded BTC Data Markov switching skewed Student- $t$ GARCH on BTC daily returns from CG, CM, CC, Bitstamp and Kraken. The sample period is 1 September $2 0 1 3 \\textrm { -- } 3 1$ March 2019. The two-state Markov-switching skewed Student- $t$ GARCH model is defined as $\\sigma _ { i t } ^ { 2 } = \\omega _ { i } + \\alpha _ { i } \\varepsilon _ { t - 1 } ^ { 2 } + \\beta _ { i } \\sigma _ { i , t - 1 } ^ { 2 }$ , where $\\varepsilon _ { t } \\sim t _ { \\eta _ { i } , \\xi _ { i } }$ and $i = 1 , 2$ . Again we approximate the steady-state volatility as $\\begin{array} { r } { U V _ { i } = \\sqrt { \\frac { 3 6 5 \\omega _ { i } } { 1 - \\alpha _ { i } - \\beta _ { i } } } } \\end{array}$ . We highlight in blue the values of interest. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">CG</td><td>CM</td><td>CC</td><td>Bitstamp</td><td>Kraken</td></tr><tr><td colspan=\"6\">State 1</td></tr><tr><td>W1</td><td>0.164 (0.121, 0.227)</td><td>0.066 (0.049, 0.092)</td><td>0.174 (0.112, 0.394)</td><td>0.065 (0.050, 0.088)</td><td>0.002 (0.001, 0.004)</td></tr><tr><td>α1</td><td>0.078 (0.065, 0.101)</td><td>0.062 (0.050, 0.074)</td><td>0.076 (0.066,0.100)</td><td>0.055 (0.045, 0.067)</td><td>0.036 (0.027, 0.045)</td></tr><tr><td>β1</td><td>0.909 (0.887, 0.923)</td><td>0.927 (0.913, 0.939)</td><td>0.914 (0.888, 0.926)</td><td>0.930 (0.918, 0.940)</td><td>0.961 (0.949, 0.971)</td></tr><tr><td>n1</td><td>2.450 (2.410, 2.508)</td><td>2.412 (2.379, 2.453)</td><td>2.374 (2.336, 2.486)</td><td>2.455 (2.417, 2.496)</td><td>2.339 (2.297, 2.396)</td></tr><tr><td>1</td><td>1.042 (1.015, 1.065)</td><td>1.051 (1.031,1.073)</td><td>1.027 (0.985, 1.051)</td><td>1.050 (1.028,1.072)</td><td>1.117 (1.092, 1.141)</td></tr><tr><td>P11</td><td>0.966 (0.959, 0.972)</td><td>0.965 (0.958, 0.971)</td><td>0.976 (0.973, 0.979)</td><td>0.958 (0.951, 0.965)</td><td>0.935 (0.920, 0.951)</td></tr><tr><td>UV1</td><td>68.2%</td><td>48.6%</td><td>82.1%</td><td>40.3%</td><td>14.8%</td></tr></table>",
+    "bbox": [
+      197,
+      174,
+      795,
+      455
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/05b7a606dcd780f5a6d16bfd624bcde6fdc1c0ef554e17e6909ea50651c5fbc9.jpg",
+    "table_caption": [
+      "State 2 "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>W2</td><td>3.550 (2.213, 5.457)</td><td>1.674 (1.236, 2.336)</td><td>5.925 (4.401, 7.112)</td><td>1.633 (1.229, 2.152)</td><td>2.086 (1.357, 3.470)</td></tr><tr><td>α2</td><td>0.241 (0.186, 0.296)</td><td>0.161 (0.135, 0.193)</td><td>0.330 (0.249, 0.385)</td><td>0.158 (0.138, 0.186)</td><td>0.182 (0.147, 0.238)</td></tr><tr><td>β</td><td>0.703 (0.621, 0.777)</td><td>0.823 (0.786, 0.854)</td><td>0.588 (0.539,0.657)</td><td>0.829 (0.797, 0.853)</td><td>0.805 (0.745, 0.846)</td></tr><tr><td>m2</td><td>4.275 (3.988, 4.536)</td><td>3.857 (3.689, 4.048)</td><td>3.516 (3.280, 3.699)</td><td>4.143 (3.959, 4.330)</td><td>3.543 (3.319, 3.759)</td></tr><tr><td>S2</td><td>0.856 (0.826, 0.893)</td><td>0.870 (0.845,0.894)</td><td>0.911 (0.880, 0.955)</td><td>0.869 (0.844,0.895)</td><td>0.975 (0.948,0.999)</td></tr><tr><td>P22</td><td>0.959 (0.952, 0.966)</td><td>0.964 (0.959,0.969)</td><td>0.976 (0.972, 0.979)</td><td>0.960 (0.954, 0.965)</td><td>0.943 (0.931, 0.955)</td></tr><tr><td>UV2</td><td>153%</td><td>198%</td><td>163%</td><td>215%</td><td>242%</td></tr></table>",
+    "bbox": [
+      200,
+      479,
+      790,
+      717
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      945,
+      511,
+      958
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/7a36fcd5987eda93e3e13ea9946b7297973354c63cb9422dfddbf4bde542836c.jpg",
+    "table_caption": [
+      "Table A5: Markov Switching EGARCH on Non-Traded and Traded BTC Data Markov switching skewed Student- $t$ EGARCH on BTC daily returns from CG, CM, CC, Bitstamp and Kraken. The sample period is 1 September $2 0 1 3 - 3 1$ March 2019. The two-state Markov-switching skewed Student- $t$ EGARCH model is defined as $\\ln ( \\sigma _ { i t } ^ { 2 } ) = \\omega _ { i } + g ( z _ { t - 1 } ) + \\beta _ { i } \\ln ( \\sigma _ { i , t - 1 } ^ { 2 } )$ , where $g ( z _ { t } ) = \\theta _ { i } z _ { t } + \\gamma _ { i } ( | z _ { t } | - \\mathrm { E } [ | Z _ { t } | ] )$ , $\\boldsymbol { Z } _ { t } \\sim \\ t _ { \\eta _ { i } , \\xi _ { i } }$ and $i = 1 , 2$ . Again we approximate the steady-state volatility as $\\begin{array} { r } { U V _ { i } = \\sqrt { 3 6 5 \\exp ( \\frac { \\omega _ { i } } { 1 - \\beta _ { i } } ) } . } \\end{array}$ . We highlight in blue the values of interest. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"2\">CG</td><td>CM</td><td>CC</td><td>Bitstamp</td><td>Kraken</td></tr><tr><td colspan=\"6\">State 1</td></tr><tr><td>W1</td><td>-0.029 (-0.034,-0.025)</td><td>0.001 (-0.002,0.005)</td><td>0.003 (-0.001,0.006)</td><td>-0.009 (-0.013,-0.006)</td><td>0.000 (-0.001, 0.001)</td></tr><tr><td>71</td><td>0.207 (0.186, 0.232)</td><td>0.376 (0.312, 0.446)</td><td>0.284 (0.239, 0.334)</td><td>0.195 (0.176, 0.215)</td><td>0.119 (0.084, 0.171)</td></tr><tr><td>01</td><td>0.050 (0.036, 0.065)</td><td>0.040 (-0.008, 0.085)</td><td>0.110 (0.069, 0.154)</td><td>0.074 (0.060, 0.089)</td><td>0.101 (0.080, 0.120)</td></tr><tr><td>β1</td><td>0.995 (0.995, 0.996)</td><td>0.995 (0.995, 0.995)</td><td>0.994 (0.993, 0.994)</td><td>0.991 (0.991, 0.992)</td><td>0.996 (0.996, 0.997)</td></tr><tr><td>n1</td><td>2.944 (2.849, 3.050)</td><td>2.100 (2.100, 2.100)</td><td>2.166 (2.160, 2.173)</td><td>2.869 (2.793, 2.978)</td><td>2.305 (2.283, 2.329)</td></tr><tr><td>1</td><td>1.030 (1.012,1.050)</td><td>1.044 (1.027, 1.062)</td><td>1.039 (1.019, 1.062)</td><td>1.031 (1.009, 1.051)</td><td>1.091 (1.072, 1.111)</td></tr><tr><td>P11</td><td>0.878 (0.867, 0.888)</td><td>0.976 (0.974, 0.978)</td><td>0.971 (0.969, 0.973)</td><td>0.895 (0.887, 0.905)</td><td>0.965 (0.963, 0.968)</td></tr><tr><td>UV1</td><td>0.871%</td><td>21.3%</td><td>23.5%</td><td>11.1%</td><td>19.9%</td></tr></table>",
+    "bbox": [
+      171,
+      252,
+      823,
+      566
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_1326258/auto/images/ada00ea202f3c4926b57f79905481229591f787f00a9438a47693d6f05c456ce.jpg",
+    "table_caption": [
+      "State 2 "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>W2</td><td>0.569 (0.472, 0.677)</td><td>0.294 (0.246, 0.365)</td><td>0.420 (0.360, 0.492)</td><td>0.464 (0.366, 0.547)</td><td>1.207 (1.010, 1.502)</td></tr><tr><td>2</td><td>0.373 (0.306, 0.445)</td><td>0.353 (0.300, 0.408)</td><td>0.473 (0.418, 0.531)</td><td>0.321 (0.255, 0.387)</td><td>0.381 (0.301, 0.459)</td></tr><tr><td>02</td><td>-0.045 (-0.083,-0.006)</td><td>0.015 (-0.010, 0.040)</td><td>-0.063 (-0.096, -0.033)</td><td>-0.055 (-0.086,-0.019)</td><td>-0.132 (-0.173, -0.091)</td></tr><tr><td>β2</td><td>0.866 (0.830, 0.891)</td><td>0.919 (0.897, 0.933)</td><td>0.884 (0.865, 0.902)</td><td>0.895 (0.869, 0.918)</td><td>0.652 (0.570, 0.710)</td></tr><tr><td>m2</td><td>9.669 (8.757, 10.665)</td><td>4.434 (4.156, 4.711)</td><td>3.827 (3.690, 3.988)</td><td>14.412 (12.849, 15.971)</td><td>5.720 (5.291, 6.170)</td></tr><tr><td>s2</td><td>0.768 (0.733, 0.804)</td><td>0.837 (0.810, 0.867)</td><td>0.883 (0.855, 0.910)</td><td>0.691 (0.660, 0.727)</td><td>0.994 (0.964, 1.024)</td></tr><tr><td>P22</td><td>0.633 (0.622, 0.645)</td><td>0.967 (0.966, 0.968)</td><td>0.965 (0.964, 0.966)</td><td>0.637 (0.626, 0.649)</td><td>0.942 (0.939, 0.944)</td></tr><tr><td>UV2</td><td>158%</td><td>116%</td><td>118%</td><td>173%</td><td>108%</td></tr></table>",
+    "bbox": [
+      173,
+      588,
+      818,
+      861
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      488,
+      945,
+      511,
+      958
+    ],
+    "page_idx": 27
+  }
+]

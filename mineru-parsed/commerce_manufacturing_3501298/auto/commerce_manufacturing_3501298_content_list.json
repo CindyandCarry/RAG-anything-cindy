@@ -1,0 +1,1120 @@
+[
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle ",
+    "text_level": 1,
+    "bbox": [
+      206,
+      84,
+      793,
+      104
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Dr. Charles A. Liedtke ",
+    "bbox": [
+      406,
+      115,
+      591,
+      130
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Strategic Improvement Systems, caliedtke@aol.com ",
+    "bbox": [
+      284,
+      143,
+      712,
+      160
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract: Standards form the foundation of an efficient and effective work system and enable the creation, capture, and spread of knowledge. A standard is an agreement between the members of a work system. Standardization is the process for creating, implementing, managing, and reviewing a standard and the Standardize-Do-Check-Act (SDCA) cycle is a well-known standardization method. Workers commonly ask two questions when a new standard is introduced: “Do I have to comply?” and “What will happen to me if I don’t comply?” An alternative word for “comply” is “conform.” Therefore, it is important to communicate clear compliance expectations and non-compliance consequences. This paper describes a framework for guiding those communications. Two questions should be answered during the Check step of the SDCA cycle: (1) Did workers comply with the standard? and (2) What was the quality of the results? If the purpose of the Check step is to learn as much as we can and reach consensus on a positive way forward, then the Four Student Model (FSM) promoted by Dr. Noriaki Kano is a valuable framework for structuring the conversation. This paper describes some useful techniques for improving standardization activities and how to use the FSM during the Check step of the SDCA cycle to maximize organizational learning. ",
+    "bbox": [
+      151,
+      193,
+      850,
+      510
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Key Words: Standardization, SDCA, Four Student Model ",
+    "bbox": [
+      151,
+      516,
+      596,
+      531
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Work Systems ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      550,
+      277,
+      567
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1.1 Definition of a Work System ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      579,
+      393,
+      596
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "For the purpose of this paper, a work system is “a clearly-defined physical space where at least one supervisor oversees multiple workers who transform inputs into outputs during operations in order to accomplish organizational objectives.” An organization is a collection of work systems designed to provide products and/or services to customers. There are some basic principles associated with work systems: purpose, performance, leadership, objectives, and resources. Purpose: What is the purpose of the work system? Performance: How will the performance of the work system be judged? Leadership: Who is accountable for the performance of the work system? Objectives: What objectives are the members of the work system trying to accomplish? Drucker (1954) stated: “Objectives are needed in every area where performance and results directly and vitally affect the survival and prosperity of the business.” Resources: What resources (staff, materials, equipment, money, etc.) will be necessary to accomplish the objectives? ",
+    "bbox": [
+      115,
+      607,
+      885,
+      838
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1.2 Work System Examples ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      850,
+      356,
+      866
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "One example of a work system is an assembly area in a manufacturing plant. A team leader oversees several employees who receive parts from multiple suppliers and then assemble them into a 1 product. The product is then delivered to another work system for labeling and packaging. A second example is a medical clinic where patients are provided health care services. Clinic employees register the patient, escort the patient to an exam room, examine the patient, conduct tests, consult with the patient, perform procedures, and discharge the patient. A third example is a government work area where citizen applications are processed. The applications are received, logged, scanned, reviewed for completeness, evaluated, and then sent to another work system for final processing. ",
+    "bbox": [
+      117,
+      878,
+      884,
+      928
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      205,
+      49,
+      793,
+      74
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      86,
+      885,
+      210
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1.3 The Need to be Adaptable ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      222,
+      374,
+      239
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A work system functions within a larger system (environment) and is affected by a unique set of conditions at any point in time. Examples of conditions might include regulations, policies, ambient temperature, relative humidity, machine performance, staffing levels, and manufacturing line speed. Conditions inevitably change, suggesting that work system members must be able to (1) detect the changes and (2) make the necessary adjustments. Work system members must be adaptable and develop the capabilities to effectively and efficiently manage a dynamic work system. ",
+    "bbox": [
+      115,
+      250,
+      885,
+      374
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Standards and Standardization ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      393,
+      421,
+      410
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.1 Definition of a Standard ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      422,
+      357,
+      438
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "A standard, according to Hosotani (1992), is “An agreement established for an object, performance, capability, arrangement, state, action, sequence, method, procedure, responsibility, duty, authority, way of thinking, conception, etc., for the purpose of unification and simplification so that profit or convenience may be obtained with fairness among the people concerned.” One implication of this definition is that a standard is not the thing, but the agreement on the thing. A standard can thus be thought of as a social contract. There are many different types of standards (e.g., Ishikawa (1990); Mizuno (1988); Nakamura (1993)). This paper will focus on those standards created and used by work system members. Work system standards play an important role in the Toyota Production System (e.g., Liker (2004)). One of the most common examples is a standard operating procedure (SOP). The definition above suggests that the standard is not the SOP, but instead the agreement on the SOP. We can expect poor compliance with a SOP if there isn’t agreement. However, strong agreement doesn’t guarantee compliance and perfect compliance doesn’t guarantee high-quality results. It is possible for all work system members to comply with a poor standard. Standardization can be an unnatural activity in that some people might prefer to do their work “their own way.” Since a standard is an agreement, some work system members might have to make concessions and fight their natural tendencies. ",
+    "bbox": [
+      115,
+      449,
+      885,
+      766
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Standards can be more than agreements on checklists or documented procedures. Kaneko (2008) described more advanced standards in the form of visual manuals that consist of five components: Letters [Words], Still Pictures, Animation, Moving Picture [Video], and Narration. Successful applications of visual manuals were shown for a facility cleaning business. ",
+    "bbox": [
+      115,
+      771,
+      884,
+      852
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Ideally, a standard is effective and efficient. Effectiveness might relate to helping meet customer, business, and regulatory requirements. Efficiency might relate to work system productivity and cycle time. The ideal standard minimizes resource usage while achieving high-quality results. ",
+    "bbox": [
+      115,
+      857,
+      884,
+      916
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2.2 Standardization and the SDCA Cycle ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      85,
+      472,
+      103
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Hosotani (1992) defined standardization as “The systematic activities of establishing and utilizing standards.” In the context of this paper, standardization refers to the process by which work system members reach agreement on common job elements. The Standardize-Do-Check-Act (SDCA) cycle is a well-known method for implementing a work system standard (e.g., Ando and Kumar (2013); Kume (2009)). A version of the SDCA cycle is depicted in Figure 1. Imai (1986) described the SDCA (Standardize, Do, Check, Action) cycle as “. . . a refinement of the PDCA Cycle wherein management decides first to establish the standard before performing the regular PDCA function.” The SDCA cycle will now be described. ",
+    "bbox": [
+      115,
+      114,
+      885,
+      280
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/6334fca5cc3f2839982337005ec1327c67163f0f8d23415ccfcf024c98413878.jpg",
+    "image_caption": [
+      "Figure 1. SDCA Cycle "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      247,
+      296,
+      756,
+      576
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Step 0. Ideate: The SDCA cycle starts when a member of the work system creates an idea for a standard. He/she has a predictive theory: “If we standardize X, then these will be the results and this is why.” There is some inherent risk with ideation in that the predictive theory might be wrong. The results might be related to one or more performance categories such as Quality, Cost, Delivery, Safety, and/or Morale (QCDSM). The key to success from a workplace culture standpoint is for work system members to feel comfortable creating and communicating their ideas. ",
+    "bbox": [
+      115,
+      629,
+      885,
+      752
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Step 1. Standardize: The idea is proposed, discussed, and a decision is made whether or not to proceed. If there is agreement, then there is a standard. The 5W1H framework (e.g., Nakamura (1993)) can be used to design the standard and plan the implementation. Visual manuals (Kaneko (2008)) can be created at this point. It has been found to be useful to address multiple levels of “Why?” for the standard. Strive to explain why the standard is good for the customer, for the company, for the plant, for the department, for the section, and for the individual. Work system members commonly ask two questions when there is a new standard: “Do I have to comply (conform)?” and “What will happen to me if I don’t comply?” To satisfactorily address these questions, it should be made clear whether compliance with the new standard is voluntary or mandatory, i.e., clear compliance expectations. It should also be made clear if there will be disciplinary actions taken in the case of non-compliance, i.e., clear non-compliance consequences. Figure 2 shows four possibilities related to compliance expectations and non-compliance consequences. These four situations will now be described. ",
+    "bbox": [
+      115,
+      778,
+      885,
+      902
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      205,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      86,
+      885,
+      210
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/5d690330ce10284ae6971468c4f52bc0f55df69c033fd9c613b50489b3bca202.jpg",
+    "image_caption": [
+      "Figure 2. Expectations and Consequences "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      235,
+      241,
+      754,
+      438
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Voluntary-Minor: Compliance is voluntary and there will be minor disciplinary actions taken in the event of non-compliance. We can generally expect the weakest compliance in this situation. Voluntary-Major: Compliance is voluntary and there will be major disciplinary actions taken in the event of non-compliance. You would generally expect more compliance than the previous situation. Mandatory-Minor: Compliance is mandatory, but there will be minor disciplinary actions taken in the event of non-compliance. You should not be surprised if there is non-compliance in this situation. Mandatory-Major: Compliance is mandatory and there will be major disciplinary actions taken in the event of non-compliance. You can generally expect the strongest compliance in this situation. ",
+    "bbox": [
+      115,
+      492,
+      885,
+      659
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Suppose the leaders of a manufacturing plant decide to introduce a new lockout-tagout (LOTO) policy and process due to several recent workplace injuries. The Plant Manager might communicate the following message related to the new policy and process: “Compliance (conformance) is mandatory and there are two non-compliance consequences: (1) you might be severely injured if you don’t comply with the new policy and process and (2) you will be suspended for three days if you don’t comply.” This represents the “Mandatory-Major” situation. Non-compliance issues are minimal and disciplinary actions are unnecessary if the standardization activities are conducted properly. ",
+    "bbox": [
+      115,
+      686,
+      885,
+      831
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Step 2. Do: The standard is used by work system members—commonly in the form of a small scale test. Careful observations should be made to identify compliance obstacles and unexpected work system conditions. Both tacit and explicit knowledge can be created during the usage of a standard and 4 there are opportunities for knowledge conversion through socialization, externalization, combination, and internalization activities (Nonaka and Takeuchi (1995)). Workers should comply with a standard as long as it makes sense. The standard may become irrelevant or even dangerous because of a change in conditions. Workers must understand the conditions under which compliance with the standard makes sense and this requires education and judgment. For example, consider the red and white, octagonal “STOP” traffic sign in the U.S. Drivers must come to a complete stop at an intersection with a stop sign. However, non-compliance is permissible in the event of a sanctioned parade or emergency vehicle situation (e.g., ambulance, police car, or fire truck). ",
+    "bbox": [
+      115,
+      857,
+      884,
+      927
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      86,
+      885,
+      253
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The leaders of an oil refinery decided to implement a glove policy (workers must wear gloves) throughout the refinery in order to reduce workplace injuries. Much of the work in the Machine Shop required precise manual dexterity in order to produce high-quality work. Some Machine Shop workers chose to violate the glove policy, thereby putting themselves in personal danger, in order to do high-quality work. This represented intentional non-compliance with the standard. Workers intentionally put themselves at risk to do a quality job. The trade-off was “quality” for “safety” in this case. Sometimes workers have what they believe are good reasons for not complying with a standard. ",
+    "bbox": [
+      115,
+      258,
+      885,
+      403
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Step 3. Check: A formal check (review) is conducted once the item related to the standard has been in use for a period of time. Several weaknesses related to the Check step have been found to occur: (1) no formal check is conducted, (2) an informal, cursory check is conducted, (3) only compliance is checked, but not the quality of the results, and (4) no new ideas are solicited from work system members during the check. The Check step should be more than a “go and see what happened” activity. A more in-depth “Study” should be conducted (Deming (1994)). Two items should be investigated: “Did the members of the work system comply with the standard?” and “What were the quality of the results.” It is important to investigate both compliance and results because all work system members could be complying with an ineffective and/or inefficient standard. It will be shown later that it is useful to study compliance over time and the quality of the results over time (dynamic analysis). The intent of the Check step is not to judge people as good or bad, but rather to learn as much as we can and reach consensus on a positive way forward. New knowledge can be created, captured, and spread during the Check step and so it should be integrated into the organization’s knowledge management system. How the FSM can be applied during the Check step will be discussed later. ",
+    "bbox": [
+      115,
+      428,
+      885,
+      724
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Step 4. Act: We take the appropriate action based upon the lessons we learned in the Check step. We might decide to abandon the standard, modify the standard and proceed through the SDCA cycle again, or make the standard permanent and spread it to other parts of the organization. We can expect a standard to change over time. Ishikawa (1990) stated: “A standard that has not been revised, is a standard that is not being used.” Work system members might go through several iterations of the SDCA cycle for a particular standard. ",
+    "bbox": [
+      115,
+      750,
+      887,
+      873
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3. The Four Student Model (FSM) ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      86,
+      426,
+      103
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      115,
+      258,
+      131
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Kano and Sainamthip (2005) described the Four Student Model (FSM) (see also Ando and Kumar (2013)) as an analogy framework to differentiate four hypothetical students based on their class attendance and exam results. A student either “attended class” or “missed class” and either “passed the exam” or “failed the exam.” A version of the FSM is shown in Figure 3. ",
+    "bbox": [
+      115,
+      143,
+      885,
+      224
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/d77314344c23af236de2f7392575f4bd34e03108cecd073fbdf6331467c1f90a.jpg",
+    "image_caption": [
+      "Figure 3. Version of the Four Student Model. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      233,
+      247,
+      752,
+      439
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Student A: Attended class and passed the exam. Not surprising—How can the student improve further? ",
+    "bbox": [
+      114,
+      507,
+      885,
+      524
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Student B: Missed class and passed the exam. Surprising—How did the student do it? ",
+    "bbox": [
+      114,
+      529,
+      788,
+      545
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Student C: Attended class and failed the exam. Somewhat surprising—Why did the student fail? ",
+    "bbox": [
+      114,
+      550,
+      835,
+      567
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Student D: Missed class and failed the exam. Not surprising—Why did the student miss class? ",
+    "bbox": [
+      115,
+      571,
+      821,
+      588
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Knowing which of the four scenarios is the true state is useful for the teacher in determining how to help the student improve performance. ",
+    "bbox": [
+      117,
+      614,
+      884,
+      652
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3.2 Applications of the Four Student Model ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      664,
+      494,
+      682
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Ando and Kumar (2013) described how the FSM can be used during the PDCA cycle in the context of Daily Management activities. The work system members have objectives they are attempting to accomplish and they develop a plan to accomplish them. They can then check to see if they followed their plan (“attended class”) and if they accomplished their objectives (“passed the exam”). Kano and Sainamthip (2005) described how the FSM can be used to improve Policy Management (Hoshin Kanri) activities. A Presidential Annual Policy (PAP) consists of a target plus the process for achieving the target. A periodic review is conducted for each PAP to determine whether the target has been achieved (“passed the exam”) and whether the process for achieving the target has been completed as planned (“attended class”). A modified version of the FSM for Policy Management is depicted in Figure 4 (see Kano and Sainamthip (2005)). A diagnosis will help determine which is the true state for each PAP hopefully leading to consensus on a positive way forward. The analysis will help you assess the level of the policy target and the weaknesses associated with a particular PAP. ",
+    "bbox": [
+      115,
+      693,
+      885,
+      902
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      791,
+      76
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/603d68fc55acac9c5aa915708aaea5f4b6041b92a03ab6be16466252a0fe0c19.jpg",
+    "image_caption": [
+      "Figure 4. Four Student Model for Policy Management. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      235,
+      83,
+      756,
+      275
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      343,
+      884,
+      381
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4. Applying the Four Student Model During the SDCA Cycle ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      399,
+      655,
+      418
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "4.1 Revised Four Student Model for SDCA ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      428,
+      485,
+      445
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The PDCA and SDCA cycles have many similarities. Step $O$ for both involves ideation—either an idea for change in the case of the PDCA cycle or an idea for a standard in the case of the SDCA cycle. We then either “Plan the Change” for PDCA or “Plan the Implementation of a Standard” for SDCA. The FSM can be modified for use during the Check step of the SDCA cycle. This is depicted in Figure 5. The two dimensions are now “Compliance with the Standard” and “Quality of the Results.” There is either “Good Compliance” or “Poor Compliance” with the standard and there are either “Good Results” or “Poor Results.” The dimensions have been simplified for ease of interpretation and use although we can imagine the dimensions having more than two categories. ",
+    "bbox": [
+      115,
+      456,
+      885,
+      624
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/0b4054eb3d99e67979e220c94f0bb81cea7c65cb647817d814db244b643874a1.jpg",
+    "image_caption": [
+      "Figure 5. Modified Four Student Model for SDCA. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      236,
+      661,
+      752,
+      852
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      872,
+      915,
+      882,
+      926
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Suppose there is a work cell in a manufacturing plant and a new SOP is introduced into the work cell. There will be a formal review in thirty days (1) to determine if the workers complied with the SOP and (2) to evaluate the quality of the results. There are four possibilities: ",
+    "bbox": [
+      119,
+      86,
+      882,
+      145
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Case A: Good compliance and good results (attended class and passed exam). This is good news because the quality of the results were good and compliance with the standard was good providing evidence that the standard was effective. Work system members should still identify and document any compliance barriers and unusual operating conditions. They should also determine if anyone has ideas for doing the work safer, better, faster, or cheaper. A root cause analysis might not be necessary although you could perform a prospective causal analysis for predicting the causes of future success. ",
+    "bbox": [
+      117,
+      151,
+      885,
+      274
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Case B: Poor compliance and good results (missed class and passed exam). This is good news overall because the quality of the results were good, but we don’t know if the standard is effective because compliance was poor. Work system members should investigate the causes of poor compliance and determine what was actually done instead of the standard. Whatever the workers did—it worked. Perhaps what was done instead of the standard should be the standard! A root cause analysis could be conducted aimed at determining the causes of non-compliance. ",
+    "bbox": [
+      115,
+      279,
+      885,
+      403
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Case C: Good compliance and poor results (attended class and failed exam). This is bad news because work system members complied with the standard, but the quality of the results were poor. How bad were the results? Where did the standard fail? Should the standard be modified? Were the operating conditions different than what was expected? A root cause analysis could be conducted aimed at determining the causes of poor results. ",
+    "bbox": [
+      115,
+      407,
+      885,
+      508
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Case D: Poor compliance and poor results (missed class and failed exam). This is not good news because the quality of the results were poor and work system members did not comply with the standard. We are not sure if the standard is effective because it wasn’t truly tested. How bad were the results? Why was compliance poor? What were the compliance barriers? What was done instead of the standard? Whatever was done instead of the standard, did not work! A root cause analysis could be conducted aimed at determining the causes of non-compliance and the causes of poor results. ",
+    "bbox": [
+      115,
+      514,
+      885,
+      638
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "4.2 Hypothetical Manufacturing Example ",
+    "text_level": 1,
+    "bbox": [
+      115,
+      649,
+      478,
+      668
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Let’s suppose a worker in the Molding Section of a manufacturing plant suggested new settings for the injection molding machines in order to decrease defects. The members of the Molding Section agreed that the suggested machine settings should be the new standard and so a new procedure with instructions was developed. Compliance with the new procedure and defects per million opportunities (DPMO) was tracked for twenty-four consecutive shifts. Fictitious data is shown in Figure 6. Compliance with the new injection molding procedure increased over the twenty-four shifts eventually attaining $1 0 0 \\%$ . However, there was no detectable improvement (decrease) in the DPMO over the same time period. The predictive theory failed. It is useful to track compliance and the quality of the results over time so that any patterns, trends, or other special causes can be identified. In this situation, there was “Good Compliance” and “Poor Results” which represents Case C in Figure 5. We should investigate where, how, and why the new procedure failed. Were the operating conditions different ",
+    "bbox": [
+      115,
+      678,
+      885,
+      909
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/8c554d042df2f4de96cb47add7fca20a2f0835ed97fc569abcaabfbb0857ee16.jpg",
+    "image_caption": [
+      "Figure 6. Compliance Percentage and DPMO. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      164,
+      93,
+      806,
+      394
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "than what we expected? We could conduct a root cause analysis aimed determining the causes of poor results. We could also ask Molding Section members if they have any ideas for how to improve the standard. It is possible for there to be surprises. It might be the case that the new procedure affected other performance categories in a positive way such as improved safety, improved productivity, reduced cost, or improved morale. These would be considered incidental benefits. ",
+    "bbox": [
+      115,
+      450,
+      885,
+      552
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "4.3 Hypothetical Hospital Example ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      564,
+      408,
+      581
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The use of work system standards by clinicians in U.S. hospitals has become common as they attempt to improve the quality and consistency of clinical outcomes and to improve patient safety. Examples include hand washing protocols, standard surgical procedures, standard medication administration practices, and care bundles used for specific situations such as patients presenting with acute myocardial infarction. ",
+    "bbox": [
+      115,
+      593,
+      884,
+      695
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Some patients in the Intensive Care Unit (ICU) of hospitals are ventilated. This can be dangerous for patients if they acquire ventilator-associated pneumonia (VAP) which is an airway infection potentially causing death. The Institute for Healthcare Improvement (IHI) in the U.S. has drawn attention to VAP for the past several years as part of the 5 Million Lives Campaign. There is an IHI Ventilator Bundle that is recommended to prevent VAP (IHI (2014)): Elevation of the Head of the Bed; Daily “Sedation Vacations” and Assessment of Readiness to Extubate; Peptic Ulcer Disease Prophylaxis; Deep Venous Thrombosis Prophylaxis; and Daily Oral Care with Chlorhexidine. If the members of an ICU agreed on the care bundle, then we would have a standard. Numerous studies have been conducted on the efficacy of VAP care bundles (e.g., Pogorzelska et al. (2011)). ",
+    "bbox": [
+      115,
+      700,
+      885,
+      888
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Suppose that a member of an ICU recommends the use of the IHI Ventilator Bundle. The predictive theory is that, “If we use the IHI Ventilator Bundle on our ventilated patients, then we will dramatically reduce or eliminate VAP because the research has shown this to be effective.” There would need to be extensive implementation planning for the bundle and widespread communication and education. ICU leaders should make clear whether use of the bundle is voluntary or mandatory and whether there will be any disciplinary actions taken in the event of non-compliance (see Figure 2). Let’s suppose a data collection plan was created to track monthly the “Percentage of eligible ventilated patients who received all five components of the bundle” and the “VAP Rate.” Suppose further that a major Check step review was conducted after two years and the compliance percentages and the VAP Rate were those shown in Figure 7. It is clear that the bundle compliance percentage ",
+    "bbox": [
+      137,
+      891,
+      885,
+      909
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      872,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      206,
+      49,
+      793,
+      74
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      86,
+      885,
+      274
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/ccc9b28fb1c8a469599278fe9f042706d1f416aaef415ada00e413a9443ce91b.jpg",
+    "image_caption": [
+      "Figure 7. Compliance Percentage and VAP Rate. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      159,
+      303,
+      808,
+      609
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "increased over time and the VAP Rate decreased over time. We would investigate whether something else was happening over the two-year time period that could have affected the VAP Rate. However, we would probably conclude that there does appear to be strong evidence to suggest the bundle was effective. Note the benefit of tracking both compliance and the quality of the results over time. In this way, we are conducting a dynamic analysis of the phenomenon of interest. It would be a mistake to check only compliance because we wouldn’t be able to tell if the care bundle (stan $d a r d = a \\xi$ reement) was effective. They might now consider standardizing fully and also try to identify additional ways of increasing patient comfort, improving patient safety, and reducing costs—all while maintaining the excellent clinical outcomes that they have achieved. We have “Good Compliance” and “Good Results” at the end whereas we started with “Poor Compliance” and “Poor Results” in the beginning. The FSM in this situation could help clinicians diagnose the true situation; structure the conversation during the Check step; focus root cause analysis; and maximize organizational learning. ",
+    "bbox": [
+      115,
+      662,
+      885,
+      916
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      867,
+      916,
+      882,
+      926
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      793,
+      76
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4.4 Hypothetical Government Example ",
+    "text_level": 1,
+    "bbox": [
+      119,
+      86,
+      443,
+      103
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Let’s suppose there are government employees in a service center who process citizen applications to determine the citizen’s eligibility status for government programs. Applications are received, logged, scanned, reviewed for completeness, evaluated, and then sent to another work system for final processing. If an application is judged to be incomplete, then workers call the citizen to gather the missing information. Suppose that many of the calls were unsuccessful because citizens weren’t home prompting one employee to suggest they make the calls from $5 { : } 0 0 \\ \\mathrm { p . m }$ . to $8 { : } 0 0 \\ \\mathrm { p . m }$ . instead of the current time window of $8 { : } 0 0 \\ \\mathrm { a . m }$ . to ${ 5 { : 0 0 } \\mathrm { p . m } }$ . Let’s assume the new time window standard was tested for twenty shifts. Figure 8 depicts the performance of the new time window compared with the old. ",
+    "bbox": [
+      115,
+      115,
+      885,
+      281
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3501298/auto/images/6cc86faefb654fbc4924782494999a691081e70a22543fc253ee94bda47c8f10.jpg",
+    "image_caption": [
+      "Figure 8. Compliance Percentage and P Chart for Successful Calls. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      179,
+      297,
+      811,
+      595
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "It is clear from the P Chart (statistical control chart) that the proportion of calls that were successful in reaching a citizen improved noticeably after the new time window standard was utilized. This situation represents Case A in Figure 5 in that there was “Good Compliance” and “Good Results.” ",
+    "bbox": [
+      115,
+      650,
+      885,
+      709
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5. Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      728,
+      252,
+      745
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We have known that the FSM is a valuable diagnostic tool when used during the Check step of the PDCA cycle in both Daily Management and Policy Management contexts. This paper describes how a modified version of the FSM can also be a valuable diagnostic tool when used during the Check step of the SDCA cycle. Standardization begins with ideation, i.e., when a work system member has an idea for a new standard or the modification of an existing standard. If there is agreement, then a standard exists and it can be tested. It is important to communicate clearly to work system members (1) why the standard will be useful, (2) the compliance expectations, and (3) the non-compliance consequences. The Check step of the SDCA cycle should be conducted after the standard has been tested and two items should be checked: “Did people comply with the standard?” and “What were the quality of the results?” The modified FSM helps structure the check conversation enabling work system members to learn as much as they can and reach consensus on a positive way forward. If the Check step is done well, then valuable knowledge will be created to guide future actions. ",
+    "bbox": [
+      115,
+      757,
+      885,
+      902
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      867,
+      916,
+      880,
+      926
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      205,
+      49,
+      791,
+      76
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      115,
+      85,
+      885,
+      189
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgements ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      208,
+      287,
+      224
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The author would like to thank Dr. Noriaki Kano, Dr. Hiroshi Osada, Dr. Yoshinori Iizuka, Yukihiro Ando, and Noriharu Kaneko for sharing their TQM insights with him over the years. The author would also like to thank Laura Liedtke for her invaluable editorial assistance. ",
+    "bbox": [
+      117,
+      236,
+      884,
+      296
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      316,
+      213,
+      331
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Ando, Y. and Kumar, P., (2013), Daily Management the TQM Way: The Key to Success in Tata Steel ( $2 ^ { \\mathrm { n d } }$ ed.), Productivity & Quality Publishing Private Limited, Madras, India.   \nDeming, W. E., (1994), The New Economics: For Industry, Government, Education $2 ^ { \\mathrm { n d } }$ ed.).   \nDrucker, P. F., (1954), The Practice of Management, Harper & Row, New York, NY.   \nHosotani, K., (1992), The QC Problem Solving Approach: Solving Workplace Problems the Japanese Way, 3A Corporation, Tokyo, Japan.   \nImai, M., (1986), Kaizen: The Key to Japan’s Competitive Success, Random House, New York, NY.   \nInstitute for Healthcare Improvement, (2014), Ventilator Bundle Checklist, www.ihi.org.   \nIshikawa, K., (1990), Introduction to Quality Control, 3A Corporation, Tokyo, Japan.   \nKaneko, N., (2008), TQM in CBM by HOSVIQ, Global Quality Futures Workshop, Kohler, WI, 2008.   \nKano, N. and Sainamthip, P., (2005), Managing policy management with Four Student Model and level of policy target, paper presented at the International Conference on Quality, Tokyo, Japan, September, 2005, 1-12.   \nKume, H., (2009), Management by Quality $2 ^ { \\mathrm { n d } }$ ed.), Productivity & Quality Publishing Private Limited, Madras, India.   \nLiker, J. K., (2004), The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer, McGraw-Hill, New York, NY.   \nMizuno, S., (1988), Company-Wide Total Quality Control, Asian Productivity Organization, Tokyo, Japan.   \nNakamura, S., (1993), The New Standardization: Keystone of Continuous Improvement in Manufacturing, Productivity Press, Portland, OR.   \nNonaka, I. and Takeuchi, H., (1995), The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation, Oxford University Press, New York, NY.   \nPogorzelska, M., Stone, P. W., Furuya, E. Y., Perencevich, E. N., Larson, E. L., Goldmann, D. and Dick, A. (2011), Impact of the ventilator bundle on ventilator-associated pneumonia in intensive care unit, International Journal for Quality in Health Care, 23(5), 538-544. ",
+    "bbox": [
+      114,
+      338,
+      885,
+      897
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      865,
+      915,
+      882,
+      926
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Applying the Four Student Model During the SDCA Cycle $^ ©$ 2014 Charles A. Liedtke, Ph.D. Presented at the International Conference on Quality, Tokyo, Japan, October 20, 2014 ",
+    "bbox": [
+      203,
+      49,
+      791,
+      76
+    ],
+    "page_idx": 11
+  }
+]

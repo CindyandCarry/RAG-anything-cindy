@@ -1,0 +1,1756 @@
+[
+  {
+    "type": "text",
+    "text": "2021 ",
+    "text_level": 1,
+    "bbox": [
+      49,
+      280,
+      488,
+      401
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Modern Slavery Statement ",
+    "text_level": 1,
+    "bbox": [
+      53,
+      410,
+      803,
+      460
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "3M Science. Applied to Life.\" ",
+    "bbox": [
+      47,
+      40,
+      380,
+      90
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Updated June 2021 ",
+    "bbox": [
+      57,
+      656,
+      269,
+      678
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Table of contents ",
+    "bbox": [
+      117,
+      92,
+      910,
+      114
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3M Modern Slavery Statement overview 3 ",
+    "bbox": [
+      120,
+      127,
+      908,
+      143
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "M business structure, operations, and supply chains 4 ",
+    "bbox": [
+      137,
+      171,
+      897,
+      188
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Our Vision, Strengths, and Priorities 4   \nOur Values 4   \n3M at a glance 5   \nOur supply chains 5   \n3M supply chains at a glance 6 ",
+    "bbox": [
+      145,
+      200,
+      905,
+      284
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Our values reflected in our policies and standards 7 ",
+    "bbox": [
+      116,
+      310,
+      905,
+      327
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within our operations 7   \nWithin our supply chains 8 ",
+    "bbox": [
+      163,
+      339,
+      897,
+      372
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Modern slavery risk assessment and due diligence management system 8 ",
+    "bbox": [
+      104,
+      398,
+      910,
+      416
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within our operations 8   \nWithin our supply chains 10 ",
+    "bbox": [
+      120,
+      429,
+      919,
+      460
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Modern slavery risk training 12 ",
+    "bbox": [
+      111,
+      484,
+      906,
+      502
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Within our operations 12   \nWithin our supply chains 12 ",
+    "bbox": [
+      117,
+      515,
+      905,
+      547
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Our ongoing commitment 13 ",
+    "bbox": [
+      112,
+      574,
+      906,
+      592
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      112,
+      934,
+      933,
+      957
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      120,
+      945,
+      929,
+      963
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      284,
+      963
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Updated June 2021 2021 Modern Slavery Statement 3M Corporate Headquarters ",
+    "bbox": [
+      114,
+      21,
+      813,
+      71
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "3M Modern Slavery Statement overview ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      93,
+      550,
+      114
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This statement describes 3M’s and its subsidiaries’ actions on modern slavery and human trafficking in our business and supply chains for fiscal year 2020. This statement is published in accordance with the provisions of the United Kingdom (UK) Modern Slavery Act 2015, Australian Modern Slavery Act 2018 (Cth), and California Transparency in Supply Chain Acts. ",
+    "bbox": [
+      116,
+      126,
+      897,
+      191
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": " 3M United Kingdom PLC (UK)  Scott Health & Safety Limited (UK)  SGX WM Limited (UK), Collectively 3M UK; and 3M Australia Pty Limited\u0007 ",
+    "bbox": [
+      145,
+      202,
+      529,
+      267
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This statement was produced in consultation with our subsidiaries to identify and assess modern slavery risks that may exist. We regularly exchange meaningful dialogue and progress through involvement from the following departments and Board briefings: ",
+    "bbox": [
+      117,
+      281,
+      887,
+      332
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": " Enterprise Operations   \n Ethics & Compliance   \n Corporate Affairs   \n Human Resources   \n Legal Strategic Sourcing and Packaging Solutions ",
+    "bbox": [
+      145,
+      343,
+      498,
+      444
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This Statement for 3M Company, 3M UK and 3M Australia Pty Limited was approved in June of 2021 by the parent entity of each of these subsidiaries. ",
+    "bbox": [
+      116,
+      459,
+      885,
+      492
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/070ac67982bf132a48b84f36200069d8a6ae3e933b5516f6a5751aef641d07eb.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      116,
+      542,
+      895,
+      672
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In addition to this statement, further information on 3M and our actions to prevent modern slavery and human trafficking in our business and supply chains can be found at: ",
+    "bbox": [
+      116,
+      719,
+      870,
+      752
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3M Annual Report, Form 10-K   \n3M Annual Sustainability Report   \n3M Ethics and Compliance   \n3M Supplier Direct ",
+    "bbox": [
+      116,
+      763,
+      357,
+      825
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "© 2021 3M. All rights reserved. ",
+    "bbox": [
+      117,
+      949,
+      284,
+      960
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      892,
+      935,
+      903,
+      946
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      112,
+      17,
+      995,
+      75
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3M business structure, operations, and supply chains ",
+    "text_level": 1,
+    "bbox": [
+      111,
+      90,
+      684,
+      112
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "At 3M, 96,100 employees are dedicated to applying science in collaborative ways to improve lives daily. For over 110 years, we have been dedicated to science and exploration, taking on global challenges and developing solutions for our customers. Our Value Model is the blueprint for how we create unique and differentiated value for our customers, shareholders, and our stakeholders. Leveraged globally, our Value Model includes four elements: 3M’s Vision, Strengths, Priorities, and Values. ",
+    "bbox": [
+      114,
+      123,
+      890,
+      207
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our Vision, Strengths, and Priorities ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      217,
+      416,
+      234
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3M’s Vision drives everything we do. ",
+    "bbox": [
+      117,
+      246,
+      388,
+      262
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our strengths are the foundation of 3M and make us stronger than the sum or our parts. Our priorities are how we grow. They position us for long-term growth and success and represent how we are constantly evolving to build on our foundation. ",
+    "bbox": [
+      114,
+      268,
+      905,
+      315
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our Values ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      324,
+      210,
+      340
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our Values — diversity, equity, and inclusion; sustainability; and our 3M Code of Conduct — bind us together as 3M employees and are shared around the globe. They are collective ideals that demonstrate how all employees should act to drive growth, development, reputation, and impact with every action. Our company’s Values correspond to expectations from our customers, investors, and our employees. ",
+    "bbox": [
+      114,
+      352,
+      906,
+      419
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/ec02ba86465842bc41e9ad7e33e46e876500a7b4882fa07a359b96737072ee29.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      429,
+      901,
+      702
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3M’s four business groups bring together common or related 3M technologies, enhancing the development of innovative products and services and providing for efficient sharing of business resources. We have operations in over 70 countries, bringing together a combination of our 51 unique Technology Platforms to sell over 55,000 products in nearly every country. ",
+    "bbox": [
+      114,
+      709,
+      900,
+      776
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For additional information, select your location to access our applied science innovations and products at 3M.com/select-location. ",
+    "bbox": [
+      114,
+      786,
+      893,
+      819
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      950,
+      284,
+      963
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      948
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      111,
+      20,
+      929,
+      71
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3M at a glance ",
+    "bbox": [
+      119,
+      90,
+      245,
+      107
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/0eb2a442be617f92604ab136421725c558ba81ff8eef9b0e717c2d23f8177d4f.jpg",
+    "image_caption": [
+      "Global capabilities "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      117,
+      887,
+      397
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/a2c27e0955aeed1359a93660d40a6c5b5c1290be2b678c61bbc3dc31a28bf452.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      143,
+      465,
+      906,
+      736
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Our supply chains ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      757,
+      282,
+      776
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3M works with broad, complex supply chains, consisting of over 72,300 suppliers in over 324 subcategories in 113 countries around the world. We procure from large multinational companies like our own, and from small and medium-sized businesses. Our material suppliers can have suppliers of their own. 3M is typically three to six tiers away from the original source of the components of our purchased materials, which emphasizes the importance of our suppliers having due diligence programs in place to also monitor supply chain risks. ",
+    "bbox": [
+      114,
+      787,
+      898,
+      887
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      284,
+      963
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      805,
+      70
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "At 3M, we set a high bar for our company regarding environmental and social governance, and we expect the same from our suppliers. 3M follows the Organization for Economic Co-operation and Development Due Diligence framework for all our responsible sourcing activities. The 3M Supplier Responsibility Code is based on 3M’s corporate values for sustainable and responsible operations and aligns with the 10 Principles of the United Nations Global Compact, of which 3M is a participant. ",
+    "bbox": [
+      114,
+      89,
+      898,
+      172
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "3M supply chains at a glance ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      184,
+      359,
+      202
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Supplier locations ",
+    "bbox": [
+      116,
+      213,
+      241,
+      227
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/5e0afa8c383111ffd66fb90e2b75767659aa9a1f0db5176f3da2b35392d56f19.jpg",
+    "image_caption": [
+      "Supplier spend by region Percentage of global total "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      239,
+      874,
+      530
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3274043/auto/images/1142086fdac506657ac177b62e7c8d220088d0f4873fbbb8469a313ed14d98a8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      599,
+      622,
+      845
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      950,
+      284,
+      963
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      864,
+      71
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Our Values reflected in our policies and standards ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      90,
+      647,
+      112
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Modern slavery, as an umbrella term, encompasses several human rights issues including forced labor, bonded labor, child labor, human trafficking, and slavery-like practices. We have a robust stance against these practices, as set forth in our labor, employment, and business conduct policies and the 3M Supplier Responsibility Code. These policies reflect our commitment to acting ethically and with integrity in all our business relationships and to implementing effective systems and controls, all with the aim of preventing these practices in our organization and in our supply chains. ",
+    "bbox": [
+      116,
+      123,
+      893,
+      223
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Within our operations ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      234,
+      316,
+      252
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3M’s Human Rights Policy applies to all 3M employees, contingent workers, candidates for hire at 3M, anyone doing business with or on our behalf, and others acting on 3M’s behalf. ",
+    "bbox": [
+      116,
+      265,
+      875,
+      296
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Within our own business, 3M’s approach to managing and respecting human rights is derived from the 3M Code of Conduct, which recognizes the right of 3M workers to have a respectful workplace. 3M continues to implement our human rights program through our global policies, management system, assessments, audits, training, and ultimately, our metrics tracking. ",
+    "bbox": [
+      114,
+      308,
+      901,
+      375
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Acting with unwavering integrity and transparency is core to who we are. Every decision must be guided by the 3M Code of Conduct. We have one Code of Conduct that applies to our 96,100 employees in over 70 countries. Our Code of Conduct summarizes 3M’s compliance principles and raises awareness about how to do business the right way, at all times and at every site. 3M’s Code of Conduct clearly states the commitment for all 3M employees to act with integrity and comply with all applicable laws and regulations in our business activities. This extends to laws regarding slavery or human trafficking in the countries in which we do business. Because we want 3M’s values to be clear to all with whom we do business, 3M publishes its Code in 25 languages on the Internet. 3M’s Code and underlying policies also require 3M employees to select and retain suppliers, contractors, outsourced manufacturers, and service providers who comply with all applicable laws and regulations and align with the 3M values in the areas of labor and human rights, the environment, health and safety (EHS), and ethics. ",
+    "bbox": [
+      114,
+      385,
+      903,
+      568
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Child labor and minimum hiring age ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      580,
+      415,
+      597
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3M is committed to doing our part to help abolish child labor. This commitment is evident in our Human Rights Policy. Although the permissible hiring age for employees may vary based on the laws of different countries, 3M has adopted global expectations regarding the hiring of minors. Even if local law permits it, 3M will not hire any employee nor engage a contingent worker (an individual provided by a third-party staffing agency to perform temporary work) below the age of 16 for any job. If the applicable laws impose a higher minimum age requirement than 16, 3M follows the stricter standard in compliance with the law. ",
+    "bbox": [
+      116,
+      606,
+      897,
+      702
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Forced and compulsory labor ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      712,
+      362,
+      729
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "3M complies with all applicable laws and employment regulations and does not engage or participate in forced labor. We have those same expectations for all suppliers doing business with us. This commitment is evident in our Human Rights Policy and Supplier Responsibility Code. We prohibit imposition of financial burden (withholding wages, imposing fees) on workers, recruiters, or suppliers. ",
+    "bbox": [
+      116,
+      739,
+      900,
+      801
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Human trafficking ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      811,
+      269,
+      828
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Our approach to human trafficking is very simple: We do not tolerate it. ",
+    "bbox": [
+      117,
+      838,
+      640,
+      854
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Our Human Rights Policy details our prohibition against human trafficking. We are committed to using effective systems and controls to prevent human trafficking from taking place anywhere within our business or supply chains. ",
+    "bbox": [
+      116,
+      863,
+      869,
+      910
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      282,
+      963
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      893,
+      938,
+      903,
+      948
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      116,
+      21,
+      854,
+      71
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "These prohibitions apply to 3M and its subsidiaries as well as to our federal contracts and subcontracts for either commercial or non-commercial items. ",
+    "bbox": [
+      119,
+      89,
+      901,
+      121
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Within our supply chains ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      131,
+      344,
+      150
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The 3M Supplier Responsibility Code outlines 3M’s basic expectations for suppliers and their subcontractors in the areas of management systems, labor, EHS, and ethics. The 3M Supplier Responsibility Code is available in 15 languages and applies to the selection and retention of all 3M suppliers globally. Under this Code, 3M suppliers are expected to comply with all local country labor and human resource laws. The Code prohibits suppliers from using forced, bonded (including debt bondage) or indentured labor, involuntary or exploitative prison labor, trafficked or slave labor. This includes transporting, harboring, recruiting, transferring, or receiving persons by means of threat, force, coercion, abduction or fraud for labor or services. The Code does not prohibit unreasonable restrictions on workers’ freedom of movement in the facility or unreasonable restrictions on entering or exiting company-provided facilities. In addition to full compliance with all applicable labor and human resource laws, we also expect our suppliers to be committed to upholding the human rights of workers and treating them with dignity and respect, as understood by the international community. This expectation applies to all workers, including temporary, migrant, student, contract and direct employees, as well as any other type of worker. ",
+    "bbox": [
+      114,
+      161,
+      898,
+      378
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Labor section of our Supplier Responsibility Code includes baseline requirements in the areas of: ",
+    "bbox": [
+      114,
+      388,
+      857,
+      405
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": " Freely chosen employment   \n Young workers   \n Working hours   \n Wages and benefits   \n Humane treatment   \n Non-discrimination   \n Freedom of association ",
+    "bbox": [
+      147,
+      416,
+      380,
+      535
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Modern slavery risk assessment and due diligence management system ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      546,
+      875,
+      568
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Our assessment of human rights aligns with our Code of Conduct and policies and includes these points of review: safe and healthy workplace, respectful workplace, workplace security, work hours and wages, freedom of association, child labor, forced labor, human trafficking, and recruitment fees to obtain employment. Evaluations are integrated into other assessment and management processes and are based on material issues regardless of where they are identified within the value chain. 3M’s Due Diligence Management System for identifying and addressing the risks of modern slavery include: ",
+    "bbox": [
+      114,
+      579,
+      898,
+      679
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Strong policies and management systems, including executive management engagement   \n Identifying and assessing risks   \n Designing and implementing a strategy to respond to identified risks Continuous assessment and audits Reporting on due-diligence activities ",
+    "bbox": [
+      143,
+      690,
+      831,
+      775
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Within our operations ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      786,
+      316,
+      804
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Within 3M, our approach to managing and respecting human rights, including modern slavery, aligns with the 3M Code of Conduct, which recognizes the right of employees to have a respectful workplace. The 3M Business Conduct Committee is comprised of several senior executives and is chaired by 3M’s Senior Vice President, Chief Ethics & Compliance Officer. This committee oversees 3M’s compliance efforts to assure that 3M has an effective and world-class compliance program — one that is agile and anticipates changes in the external landscape and internal business strategy. ",
+    "bbox": [
+      114,
+      815,
+      895,
+      910
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      950,
+      284,
+      963
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      903,
+      71
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The Business Conduct Committee annually, or as needed, updates the Audit Committee of the 3M Board of Directors and 3M’s executive-level Corporate Operating Committee. Additionally, similar committees exist at country, region, and area levels to operationalize and prioritize compliance activities. ",
+    "bbox": [
+      116,
+      89,
+      892,
+      137
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "As stated in the Code of Conduct Global Handbook, which is available in 25 languages, all 3M employees are held to the same high standards. If the Code of Conduct sets a higher standard than the law, we are expected to follow the Code of Conduct and do business the 3M Way. We are all leaders when it comes to ethics and integrity, and we must meet these important commitments: ",
+    "bbox": [
+      116,
+      143,
+      901,
+      207
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Know and follow the guidance set forth in our Code of Conduct   \nFoster a positive, inclusive work environment and a strong culture of ethics   \nComplete compliance courses and certifications on time   \nReport suspected violations of the law or our Code of Conduct unless prohibited to do so by local   \nlaw   \nDo not engage in workplace retaliation   \nReport any known or suspected retaliation   \nCooperate with investigations ",
+    "bbox": [
+      142,
+      213,
+      897,
+      340
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3M employees, including all supervisors, managers, and other leaders, are responsible for knowing and following the ethical, legal, and policy requirements that apply to their jobs and for reporting any suspected violations of law or the Code of Conduct. Executives and managers are accountable for creating an inclusive workplace environment that encourages asking questions and raising concerns. ",
+    "bbox": [
+      114,
+      348,
+      901,
+      410
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Upholding 3M’s Code of Conduct and values is the responsibility of everyone acting on 3M’s behalf. We encourage our employees to ask questions and report concerns to management, 3M’s Ethics & Compliance Department, 3M legal counsel, 3MEthics.com, their assigned human resources manager, 3M Corporate Audit Department, or the Audit Committee of the Board of Directors. Our strong ethical culture requires and empowers employees to make the right choices every day. 3M makes it clear that speaking up is the right thing to do. We know our employees care about the company and want to do the right thing. ",
+    "bbox": [
+      114,
+      417,
+      900,
+      512
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3MEthics.com is a 24-hour confidential and anonymous (where permitted by local law) helpline and online reporting system. It is managed by a third-party vendor and is available to 3M employees and others internally and externally. The system does not trace phone calls or use caller identification, nor does it generate or maintain internal connection logs containing internet protocol addresses. Web-based reports are made through a secure internet portal that does not trace or show user screen names. ",
+    "bbox": [
+      114,
+      518,
+      900,
+      595
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Ethics & Compliance Department has the responsibility to review every business conduct concern that is reported. After review, the department determines which reports require an internal investigation. If an investigation is needed, an appropriate investigation resource is assigned. For concerns that are substantiated, disciplinary or other appropriate remedial or responsive actions may be taken. Discipline comes in a range of forms consistent with similar past violations, from warnings to suspensions to termination. Disciplinary actions may impact one or more persons associated with a single substantiated violation. Additional information on the 3M global allegations and disciplinary investigations and finding can be found on 3M’s external Ethics & Compliance website, Report a Concern, or Investigation and Findings. ",
+    "bbox": [
+      114,
+      603,
+      897,
+      743
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3M offers a comprehensive online compliance training program to all employees worldwide, and this program includes awareness training of 3M policies related to human rights, including modern slavery and human trafficking. The program’s training modules are assigned to employees based on their roles and areas of responsibility within the company. For example, global employees in 3M’s Strategic Sourcing, Supply Chain, and Legal organizations receive a course titled Introduction to Eliminating Forced Labor, Slavery, and Human Trafficking from Global Supply Chain. Online courses are offered in 22 languages. ",
+    "bbox": [
+      114,
+      751,
+      898,
+      852
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Completion of 3M’s Code of Conduct and Ethical Decision-Making course is compulsory for most new employees and is required for all relevant employees on a two-year cycle. This course includes content on 3M’s Respectful Workplace Principle, 3M’s Global Human Rights Policy, and 3M’s commitment to human rights. This course also provides awareness to employees about 3M's expectation for reporting all suspected violations of law or 3M Code and the different channels available for raising such concerns. ",
+    "bbox": [
+      114,
+      861,
+      900,
+      911
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      950,
+      284,
+      963
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      893,
+      938,
+      905,
+      948
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      866,
+      70
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      117,
+      90,
+      870,
+      122
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Within our supply chains ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      135,
+      344,
+      152
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Our 3M Supplier Responsibility Code sets forth our approach to managing and assuring human rights, including modern slavery within our supply chains. The Code sets the foundational expectations of suppliers in the areas of Labor, EHS, Ethics and Management Systems. Modern Slavery and human trafficking are key elements of our labor expectations and due diligence. ",
+    "bbox": [
+      116,
+      164,
+      867,
+      229
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To combat the risk of slavery and human trafficking, we take steps to identify those areas of our business where there is a risk of slavery and human trafficking taking place. As part of a global process, 3M consults key external informational resources to identify where there could be a risk of slavery and human trafficking. ",
+    "bbox": [
+      114,
+      241,
+      905,
+      306
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3M communicates its human rights and labor expectations to suppliers through its use of contractual provisions and other binding legal obligations, links to 3M’s website and in direct business meetings. 3M includes a clause in our purchased goods contracts and our general purchase order terms governing our relationships with suppliers, which as a means of self-certification by suppliers, states that suppliers will not provide products or services to 3M that use labor resulting from mental or physical coercion, physical punishment, slavery, human trafficking, or other oppressive labor conditions. 3M expects its suppliers to have similar policies and practices that align with the 3M Supplier Responsibility Code, including due diligence with their suppliers. Human trafficking and forced labor-related provisions are also included in 3M’s U.S. government contract flow-down requirements for suppliers. ",
+    "bbox": [
+      114,
+      318,
+      893,
+      468
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3M’s contracts and purchase order templates contain provisions to which suppliers agree, as a form of self-certification, that they will comply with all applicable local laws and regulations and adopt policies consistent with 3M’s Supplier Responsibility Code, which include specific prohibitions against forced labor and other forms of coercive conduct, including labor that is a result of mental or physical coercion, physical punishment, slavery, or other oppressive conditions. The Supplier Responsibility Code also prohibits suppliers and their employees from engaging in any form of human trafficking. Additional information can be found at 3M Supplier Direct. ",
+    "bbox": [
+      114,
+      478,
+      905,
+      595
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "3M has implemented a supplier risk evaluation process to assess existing, prioritized suppliers that could be at risk for non-conformance with our Supplier Responsibility Code, including the human rights elements. The risk factors used in this process include geographic risk, commodity/category risk, business risk, type of operations, and annual 3M purchases. We conduct this internal supplier risk evaluation process on an annual basis. New suppliers in higher risk regions and categories are qualified using the same criteria 3M uses for existing supplier assessments, which include their working conditions and employment practices, such as forced labor and human trafficking. Generally, 3M’s global resources conduct announced on-site audits of our suppliers. Suppliers who do not pass this assessment do not qualify to supply 3M. We also expect our suppliers to periodically assess themselves and their suppliers for conformance to our expectations. ",
+    "bbox": [
+      114,
+      606,
+      901,
+      772
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Our general supplier performance verification process begins with a supplier completing a self-assessment questionnaire. The completed self-assessment questionnaire helps 3M understand supplier programs and determine whether they conform to 3M expectations. An on-site assessment may be conducted by 3M or a third party to assess the supplier’s level of conformance with 3M’s expectations. If deficiencies are identified, they will be addressed through a Supplier Responsibility Code Corrective Action Preventive Action process. Follow-up on the process may include announced or unannounced assessments. ",
+    "bbox": [
+      114,
+      784,
+      903,
+      885
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      284,
+      962
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      885,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      107,
+      18,
+      957,
+      74
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "If the assessment identifies gaps or findings, and if a supplier is not able or willing to resolve them, the process will escalate to a corporate Supplier Corrective Action Request that would involve engagement from 3M teams in sourcing, area manufacturing, supply chain, and/or business personnel. This assures appropriate resolution and conformance with 3M’s requirements. If a supplier is unwilling to work with 3M on the identified gaps or is unable to close the issues within a reasonable timeframe, alternative actions are determined with a cross-functional business team to elevate and resolve the situation. ",
+    "bbox": [
+      114,
+      89,
+      901,
+      184
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The Supplier Responsibility Code outlines supplier expectations relating to grievance mechanisms. Anyone who has a concern involving 3M can use the 3MEthics.com site as an alternative way to report a concern. The concern can be reported anonymously if desired. ",
+    "bbox": [
+      116,
+      193,
+      901,
+      239
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In the past 12 years, we have conducted over 7,400 self-assessments or on-site audits of suppliers in prioritized countries. Along the way, our assessment process has become more evolved and more comprehensive. In 2020, 3M completed more than 468 assessments in 35 countries, which included the comprehensive Responsible Business Alliance framework, which covered every region of the world. ",
+    "bbox": [
+      116,
+      250,
+      897,
+      315
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The self-assessments and on-site audits of suppliers have revealed that most suppliers are meeting 3M’s expectations. Those requiring improvement are to provide information on what they will do to correct the identified gaps and prevent reoccurrence of the issue. Suppliers with corrective action must pass a 3M requalification assessment after completing the necessary steps to retain 3M business. Most suppliers work very quickly to address any 3M findings. Those suppliers unwilling or unable to take the necessary corrective action in a timely manner may be subject to termination by 3M. 3M has disqualified new suppliers by proactively conducting Supplier Responsibility Code assessments to conformance with 3M’s expectations. ",
+    "bbox": [
+      114,
+      327,
+      898,
+      460
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In addition to the global Supplier Responsibility Code expectations for all suppliers, certain areas warrant additional and specific formal expectations to drive more sustainable, responsible practices. This includes our use of certain minerals with the potential to be sourced from conflict-affected and high-risk areas, our use of timber-based products and other plant materials (pulp and paper), and all new suppliers in the higher-risk countries, such as in Asia Pacific, Latin America, or parts of Europe, Middle East, and Africa. ",
+    "bbox": [
+      114,
+      470,
+      897,
+      554
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3M’s supplier assessment and auditing program is implemented by 3M’s Strategic Sourcing and Packaging Solutions organization, with oversight from the strategic sourcing leadership as well as the 3M Supply Chain Executive Committee. This committee consists of executive leaders from 3M Supply Chain, Strategic Sourcing, Human Resources, Ethics and Compliance, Legal, EHS and Sustainability. We also have a robust governance framework that guides our sustainability and EHS activities, with primary Board-level oversight by the 3M Board Science, Technology & Sustainability Committee, which our Board established in late 2019. ",
+    "bbox": [
+      114,
+      564,
+      905,
+      681
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Government contracting ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      694,
+      344,
+      712
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "3M is committed to being a responsible company with unwavering integrity in all dealings with local, state/provincial and national governments and with their prime contractors and subcontractors around the world. ",
+    "bbox": [
+      116,
+      723,
+      900,
+      772
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Before entering into any government contract or any agreement related to a government customer, 3M employees must consult 3M’s Government Contract Compliance Department or their assigned legal counsel. ",
+    "bbox": [
+      116,
+      784,
+      883,
+      832
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Human trafficking and forced labor-related provisions are also included in 3M’s U.S. government contract flow-down requirements for suppliers. In the United States, the government has adopted a regulation (Federal Acquisitions Regulation 52.222-50) prohibiting human trafficking, including slavery, servitude, forced and compulsory labor and coercion to induce a commercial sex act or to procure the same — all of which result in the deprivation of a person’s liberty by another in order to exploit them for personal or commercial gain. 3M has implemented processes to assure compliance with the U.S. Federal Acquisitions Regulation, including a Human Trafficking Prevention Standard. ",
+    "bbox": [
+      114,
+      843,
+      898,
+      910
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      282,
+      963
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      885,
+      938,
+      903,
+      949
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      869,
+      71
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      89,
+      895,
+      140
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "For more information, see the Doing Business with Government Agencies and Contractors Principle. ",
+    "bbox": [
+      117,
+      150,
+      856,
+      166
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Modern slavery risk training ",
+    "text_level": 1,
+    "bbox": [
+      116,
+      178,
+      416,
+      199
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "We provide training globally to assure 3M employees comply with the law, 3M’s Code of Conduct, supporting policies, standards, and procedures, including human rights. ",
+    "bbox": [
+      114,
+      210,
+      846,
+      243
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Within our operations ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      255,
+      316,
+      272
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In addition to offering online training, the Ethics & Compliance Department — in collaboration with 3M Legal Affairs, local compliance partners, finance and human resources — provides frequent, tailored, in-person training opportunities to businesses, subsidiaries, staff groups and third parties. Some of this training occurs as part of an annual schedule, as requested, or when deemed appropriate. ",
+    "bbox": [
+      114,
+      284,
+      877,
+      351
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Each manager and supervisor must assure that those who report to them complete mandatory compliance training and Code of Conduct certification. ",
+    "bbox": [
+      116,
+      362,
+      895,
+      393
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Employees are assigned courses based on their job function, country location, production/non-production status, and supervisor/non-supervisor and management-level status. Email notifications are sent to the employee's or their supervisor’s 3M email address informing them of their course requirements and their timeline for completion. The new employee courses must be completed within 60 days of assignment. ",
+    "bbox": [
+      114,
+      405,
+      898,
+      472
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "If an employee does not have a 3M email address in the Human Resource system, it is the responsibility of their supervisor (or designated trainer) to inform them of their course requirements. The email notifications include a course announcement and up to three reminders. ",
+    "bbox": [
+      114,
+      482,
+      900,
+      529
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "An annual training plan is established each year based on an assessment of internal and external factors to prioritize topics and timing of deployment. Online courses are offered in 22 languages. ",
+    "bbox": [
+      114,
+      536,
+      895,
+      568
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Training for 3M employees on the Supplier Responsibility Code processes and tools includes a self-check exercise and final quiz to understand the effectiveness of the training. Refresher training is provided when there have been significant changes to the Supplier Responsibility Code, processes or tools. ",
+    "bbox": [
+      116,
+      575,
+      897,
+      622
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Within our supply chains ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      631,
+      344,
+      648
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "At 3M, we recognize the choices we make for our material and service providers must also reflect our values. We want our suppliers to share our commitment to maintaining compliant, responsible, safe and sustainable operations and practices. In addition to full compliance with all applicable labor and human resource laws, we expect our suppliers to be committed to upholding the human rights of workers and to treating them with dignity and respect as understood by the global community. ",
+    "bbox": [
+      116,
+      660,
+      892,
+      738
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "This applies to all workers, including temporary, migrant, student, contingent and direct employees. These expectations are laid out in the 3M Supplier Responsibility Code and support our Science for Circular goal to drive supply chain sustainability through targeted raw material traceability and supplier performance assurance. ",
+    "bbox": [
+      114,
+      744,
+      900,
+      806
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Supplier Responsibility Code training and information for suppliers reside on the 3M Supplier Direct website. Supplier Responsibility Code information is sent to suppliers prior to conducting an assessment to assure awareness of expectations — which are also addressed during supplier status review meetings. ",
+    "bbox": [
+      114,
+      814,
+      900,
+      862
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Online courses are available on our 3M Business Partner Compliance Awareness training site, which include: Global Anti-bribery and Compliance Training for Intermediaries and Third-Party Anti-Bribery Certification. ",
+    "bbox": [
+      116,
+      869,
+      862,
+      917
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      950,
+      284,
+      963
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      885,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      874,
+      73
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In 2020, the Supplier Responsibility Code Steering Team provided refresher training for hundreds of internal supplier assessors and sourcing professionals globally to assure a detailed understanding of 3M’s Supplier Responsibility Code expectations, processes and supporting tools. As part of that effort, employees received access to online training materials that covered each of the elements of the Supplier Responsibility Code, including labor and human rights, EHS ethics and management systems requirements. ",
+    "bbox": [
+      114,
+      89,
+      900,
+      172
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3M’s business partners website also provided training materials for suppliers to expand their knowledge on topics such as global bribery and corruption awareness; eliminating forced labor, slavery and human trafficking from the global supply chain; and preventing corruption and mitigating compliance risk for distributors and business partners. ",
+    "bbox": [
+      114,
+      184,
+      905,
+      250
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We are constantly managing changes in the supply markets, through opportunities to achieve value and where necessary, to mitigate risk and secure supply. 2020 brought many challenges. It took a huge effort to make sure essential supplies were provided to 3M to support production of critical products used to help fight COVID-19. Unfortunately, the pandemic also increased the risk of modern slavery practices among vulnerable workers across supply chains. The global responsible sourcing team took additional actions in 2020 to determine if 3M was at risk and will continue these efforts in 2021 by focusing on our assessment and training programs to assure ethical production and responsible trade. ",
+    "bbox": [
+      114,
+      261,
+      892,
+      369
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We focus our efforts on salient issues in categories where human rights and environmental risks are the greatest. More broadly, we conduct robust risk prioritization through our Supplier Responsibility Code assessment process, to determine the suppliers we will engage, which also includes policy and contract conformance. ",
+    "bbox": [
+      114,
+      377,
+      882,
+      439
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Our ongoing commitment ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      449,
+      393,
+      469
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "3M is committed to measuring and continuously improving the effectiveness of our due diligence program regarding modern slavery and human trafficking by continuing to: ",
+    "bbox": [
+      119,
+      481,
+      900,
+      513
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Identify ways to improve employee and supplier awareness of 3M’s commitment to respect huma   \nrights and efforts to prevent modern slavery and human trafficking within our supply chain   \nStaying abreast of information on global risks of slavery and human trafficking   \nFocusing our assessment programs on internal and external operations with the highest risk of   \npotential human rights violations   \nEnhancing our due diligence management system, expanding the use of third-party resources to   \nhelp identify and address salient human rights issues within our sphere of influence and staying   \naligned with internationally accepted frameworks like the United Nations Guiding Principles   \nStrengthening contracts with suppliers, and other forms of supplier self-certification, so that   \nsuppliers will not provide products or services to 3M that use labor resulting from mental or   \nphysical coercion, physical punishment, slavery, human trafficking or other oppressive labor   \nconditions, including implementation of policies and due diligence practices to proliferate   \nexpectations throughout the supply chain ",
+    "bbox": [
+      143,
+      525,
+      890,
+      742
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In 2021 and beyond, we are looking at ways to recognize business opportunities that help the company grow while addressing societal issues. We cut across industries and interests to collaborate with suppliers, customers, and communities by working together to build a more resilient world. We have a unique opportunity to apply our passion and collaboration abilities to help the world prosper. This includes collaborating to continuously improve our due-diligence management system and to identify and address salient human rights issues within our spheres of influence. ",
+    "bbox": [
+      114,
+      753,
+      900,
+      847
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "$\\circledcirc$ 2021 3M. All rights reserved. ",
+    "bbox": [
+      116,
+      952,
+      284,
+      962
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      885,
+      938,
+      905,
+      949
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "2021 Modern Slavery Statement Updated June 20213M Corporate Headquarters ",
+    "bbox": [
+      114,
+      20,
+      883,
+      71
+    ],
+    "page_idx": 12
+  }
+]

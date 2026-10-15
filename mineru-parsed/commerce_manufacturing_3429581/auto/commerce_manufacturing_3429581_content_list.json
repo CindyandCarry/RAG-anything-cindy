@@ -1,0 +1,1881 @@
+[
+  {
+    "type": "text",
+    "text": "Information Accessed or Information Available? The Impact on Consumer Preferences Inferred at a Durable Product Ecommerce Website☆ ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      174,
+      805,
+      245
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Imran S. Currim a,1 & Ofer Mintz b,⁎,1 & S. Siddarth c,1 ",
+    "bbox": [
+      262,
+      262,
+      747,
+      283
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "a Paul Merage School of Business, University of California, Irvine, CA 92697, USA b E. J. Ourso College of Business, Louisiana State University, Baton Rouge, LA 70803, USA c Marshall School of Business, University of Southern California, Los Angeles, CA 90089, USA ",
+    "bbox": [
+      248,
+      295,
+      766,
+      331
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      389,
+      127,
+      402
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Most previous choice modeling research infers preferences by assuming that consumers consider all the information available at the point-ofpurchase. Because e-commerce sites increasingly incorporate tracking technologies that can monitor consumer behavior on their site, our research studies how incorporating the information accessed by consumers into a choice model impacts model performance and inferred preferences. We use data from an electronic goods manufacturer that monitored the attribute information accessed by 582 shoppers while they made Customize and Buy decisions at the firm's website. We find that incorporating the information accessed by consumers into the choice model provides more valid estimates of attribute preferences and better fitting choice models than models based on information available. Because firms can easily obtain this type of information as a by-product of their online operations, we propose that managers who monitor information acquisition and apply the information accessed model will have a useful methodology to gain a better understanding of consumer preferences. ",
+    "bbox": [
+      70,
+      417,
+      947,
+      527
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "$©$ 2014 Direct Marketing Educational Foundation, Inc., dba Marketing EDGE. ",
+    "bbox": [
+      70,
+      528,
+      549,
+      540
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords: Multi-attribute models; Consumer choice; Revealed preferences; Electronic commerc ",
+    "bbox": [
+      77,
+      556,
+      586,
+      567
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Introduction ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      617,
+      161,
+      631
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Imagine that the manager of the Kindle product line at Amazon wants to gain a better understanding of customer preferences with a view of making better product design, pricing, advertising, and targeting decisions. She is aware that there are hundreds of shoppers from all over the world at the Amazon website at any point of time considering various Kindle configurations presented in the form of a comparison chart with information on a variety of attributes such as price, connectivity, content, display, and battery life, as shown in Fig. 1. She has the ability to follow the clickstream of potential shoppers up to the point that they make a purchase decision, and wants to use the observed choices to obtain insights about consumer preferences for different attributes and alternatives. ",
+    "bbox": [
+      70,
+      648,
+      492,
+      751
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      617,
+      944,
+      706
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "An obvious way of achieving this objective is via a choice model that incorporates all the attribute information available in the comparison chart at the point-of-purchase as is common in the choice modeling literature. However, extensive laboratory research has shown that consumers typically do not access all information at the point-of-purchase due to search costs, information overload, prior knowledge, or heuristic-based shopping. Therefore, with 7 different Kindle configurations and 11 different attributes, she expects that shoppers may not pay attention to all of the available attribute data for all alternatives and wonders whether and how much the choice model's performance and diagnostics would improve if it incorporated the specific cells that a shopper actually looked at. ",
+    "bbox": [
+      522,
+      709,
+      946,
+      902
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "☆ The authors thank Internet Technology Group, Inc. (ITGi) for providing data; Randy Bucklin, Rico Bumbaca, Tim Gilbride, Jooseop Lim, and Ken Wilbur for their helpful comments; and the Dean's Office of the Paul Merage School of Business (SF10682) for the financial support. ⁎ Corresponding author at: 2117 Business Education Complex, Louisiana State University, Baton Rouge, LA 70803. $E$ -mail addresses: iscurrim@uci.edu (I.S. Currim), omintz@lsu.edu (O. Mintz), siddarth@usc.edu (S. Siddarth). 1 The authors contributed equally to this article and are listed in alphabetical order. ",
+    "bbox": [
+      68,
+      776,
+      494,
+      902
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Available online at www.sciencedirect.com ScienceDirect ",
+    "bbox": [
+      255,
+      63,
+      541,
+      100
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "ELSEVIER ",
+    "bbox": [
+      70,
+      59,
+      161,
+      137
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "http://dx.doi.org/10.1016/j.intmar.2014.09.003 1094-9968 $/ ©$ 2014 Direct Marketing Educational Foundation, Inc., dba Marketing EDGE. ",
+    "bbox": [
+      68,
+      925,
+      557,
+      949
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "JOURNAL OF INTERACTIVE MARKETING www.elsevier.com/locate/intmar ",
+    "bbox": [
+      635,
+      58,
+      944,
+      148
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "CrossMark ",
+    "bbox": [
+      850,
+      176,
+      941,
+      204
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of Interactive Marketing 29 (2015) 11 – 25 ",
+    "bbox": [
+      260,
+      126,
+      534,
+      137
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/2ea7c8d38e1b43eb94054d5805acf8d8b9ffef2689773b98adc0a150955377a5.jpg",
+    "image_caption": [
+      "Fig. 1. Comparison chart. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      88,
+      865,
+      901
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      59,
+      680,
+      69
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      53,
+      59,
+      68,
+      68
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Because the choice model parameters are key to providing insights into how different features impact consumer choices and are the basis for managerial decisions, this central research question is especially important for online retailers of durable products who could easily collect this information as a by-product of their regular operations using approaches similar to ours. ",
+    "bbox": [
+      70,
+      92,
+      494,
+      196
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To accomplish our objective, we employ data from an electronic goods manufacturer who monitored the attribute information accessed by shoppers while they made Customize and Buy decisions at the firm's website. We develop and estimate choice models that incorporate the observed choice set and attribute levels shoppers actually examine to investigate whether they provide more valid attribute preferences and improve model fits over those achieved based on a model calibrated using all the information available to consumers. The potential improvement from employing information accessed, i.e., the specific cells of the comparison matrix the consumer looked at, over employing information available, i.e., all the cells of the comparison matrix on the website, on choice model diagnostic and predictive abilities can be tested via two types of models. The first assumes that both sets of information, accessed and available, are exogenous to final choice, while the second assumes information accessed as endogenous. We begin by formulating and empirically testing models of the first type that model the final choice. Subsequently, in the additional analysis section, we discuss the results from estimating models of the second type, which also incorporate a customer's cell clicking behavior in addition to the final choice. ",
+    "bbox": [
+      70,
+      199,
+      494,
+      542
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "This work makes the following theoretical, methodological, substantive, and managerial contributions. Theoretically, we bridge two important literatures. The first is psychology-based consumer information processing theory (e.g., Bettman 1979; Dhar and Nowlis 2004; Payne 1976; Payne, Bettman, and Johnson 1993), which describes how product attribute information is accessed during the choice process, but does not use it to predict consumers' choice decisions or to infer consumer preferences. The second is utility-based choice theory (e.g., Lancaster 1966; Ratchford 1975) which infers consumer preferences for product attributes, or response to the marketing mix, using choice data. However, because researchers in this stream of research are not privy to the actual information accessed by shoppers, the resulting models are typically estimated based on all the product information that is available to consumers. The bridge between the two literatures is accomplished by employing the actual information accessed by shoppers and not all information available, to infer consumer preferences and predict choices. Methodologically, we propose a set of new models based on only the information accessed by shoppers. Substantively, we compare and demonstrate the value of employing only the information accessed by shoppers in the choice model, over employing all information available, which has not been accomplished heretofore. Taken together, we offer a practical modeling methodology for managers based on incorporating information actually accessed by shoppers into choice models. ",
+    "bbox": [
+      70,
+      546,
+      492,
+      949
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Managerially, shoppers at manufacturer (e.g., Apple), retailer (e.g., Amazon), or intermediary (e.g., CNET) websites are often provided product comparison charts such as Fig. 1 or with tools that enable them to make attribute-by-attribute comparisons of products that they are interested in. It would be relatively easy for a firm that already provides its shoppers with the ability to do side-by-side comparisons to conduct a natural field experiment with a sample of shoppers over a limited time period to capture data on information accessed. This could be accomplished, as we demonstrate, by presenting the sample of shoppers with a product–attribute matrix in which the values in the cells are hidden and shoppers are required to click on cells to reveal the values. Alternatively, this could be accomplished by employing other technologies readily available like clickstream monitoring, eye-tracking, or mouse-tracking. Our results suggest that it would benefit firms to gather such data to provide a better basis for product design, pricing, advertising, and targeting decisions because it provides better diagnostics about consumer preferences and choices. ",
+    "bbox": [
+      522,
+      92,
+      946,
+      377
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Background ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      393,
+      610,
+      408
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Normative theory suggests that consumers access all information relevant to their decision and make trade-offs to optimize their choice. However, a fundamental problem with inferring preferences based on normative choice models is that limited cognitive resources drive consumers to not access all information available and instead employ heuristics to simplify decision making (Simon 1956). For example, many lab-based studies on information processing research have described how information load and prior knowledge can lead consumers to not access all the information available (Jacoby, Chestnut, and Fisher 1978; Lurie 2004; Malhotra, Jain, and Lagakos 1982). In contrast, constructive choice theory suggests that consumers make choices based on a trade-off between minimizing cognitive effort and maximizing accuracy (Bettman, Luce, and Payne 1998; Payne, Bettman, and Johnson 1993). Thus, consumers will access information until their perceived uncertainty for choice is sufficiently reduced to make a decision (Jacoby et al. 1994; Moorthy, Ratchford, and Talukdar 1997). ",
+    "bbox": [
+      522,
+      423,
+      946,
+      708
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Based on a hybrid of normative and constructive choice theories, the current choice model literature, particularly the consider-then-choose models using scanner panel data (e.g., Andrews and Srinivasan 1995; Musalem et al. 2010; Siddarth, Bucklin, and Morrison 1995; Wu and Rangaswamy 2003) and models that estimate screening rules based on data gathered from choice-based conjoint (CBC) experiments (e.g., Gilbride and Allenby 2004), attempt to predict consumer choices and preferences. The former set of studies show that accounting for consumer consideration sets can improve choice model predictions, while the latter set of studies show that imputing cut-off levels for different attributes depending upon the choice rule being modeled (e.g., conjunctive, disjunctive) improves diagnostics about parameter estimates. However, both sets of studies rely on imputed choice sets and assume that consumers consider all information presented. ",
+    "bbox": [
+      522,
+      711,
+      946,
+      950
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      58,
+      695,
+      69
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "On the other hand, our methodology tracks the alternatives and attributes actually accessed by consumers and directly incorporates the alternative and attribute restrictions into the choice model. Not surprisingly, consistent with constructive choice theory, and consider-then-choose and screening rule models, we find that only $51 \\%$ of shoppers in our retail setting access information on all alternatives, only $4 8 \\%$ of shoppers access information on all attributes, and only $9 \\%$ of shoppers access all alternative–attribute information. ",
+    "bbox": [
+      53,
+      92,
+      477,
+      225
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Another important feature of previous lab-based screening rules and information processing research is that the choice alternatives presented to consumers are derived from an experimental design, which ensures that the chosen levels minimize attribute correlation across alternatives and respondents. In contrast, our sample of shoppers saw actual products in a real online retail setting in which multiple (sometimes even all) choice alternatives shared the same level of an attribute. This important characteristic of “real-world” comparison data at retail websites means that the resulting X-matrix may not vary much across shoppers or alternatives, with potential identification problems that can result in parameter estimates with incorrect signs and counter-intuitive diagnostics about attribute preferences. In these settings, we expect that using the actual information accessed by consumers in a choice model can potentially avoid identification problems because it generates variance in the X-matrix across shoppers. We therefore develop an approach to collect data on information accessed by consumers and incorporate this information in a model that reflects their choice-set and attribute restrictions. ",
+    "bbox": [
+      53,
+      228,
+      477,
+      511
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Data ",
+    "text_level": 1,
+    "bbox": [
+      53,
+      532,
+      87,
+      546
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our data consist of the product–attribute information accessed by 582 shoppers who visited a well-known electronic manufacturer/retailer's website to shop for a popular durable product category, similar to but different from a tablet. Access to the data for publication purposes was provided under the condition that the identity of the manufacturer/retailer and the product category remain confidential. The Decision Board (DB) (Mintz et al. 1997) was installed on the firm's website to collect the product–attribute information accessed by shoppers who visited the website on a particular weekend. The 582 shoppers that navigated to the DB product–attribute comparison chart web page were able to observe three actual products or choice alternatives and 11 attribute descriptors but not the specific attribute values in each cell, which were kept hidden. Shoppers were told that they could observe the features or attribute values in a cell by clicking on it, as is typical in behavioral information processing studies, before transitioning to their Customize and Buy decision, which was also located on the same webpage.2 ",
+    "bbox": [
+      53,
+      561,
+      477,
+      832
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "This data collection procedure with alterations to a real website enabled us to obtain revealed preferences from actual shoppers who were unaware that they were part of a consumer behavior study.3 The requirement for customers to click on individual cells to access attribute values is similar to many popular websites like Facebook, Expedia, and CNET that require users to click on cells or links to access (more) information about attributes or alternatives. It is also similar to clickstream, eye-tracking, and mouse-tracking market research techniques that many websites employ to study customer behavior. ",
+    "bbox": [
+      505,
+      92,
+      929,
+      240
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "A mockup of the matrix, as seen by a consumer during an intermediate stage of purchase, using the Amazon Kindle setting as an example, is shown in Fig. 2. All 582 shoppers were presented with the same matrix of alternatives, a decision made by the manufacturer/retailer. Each shopper in our dataset accessed more than one cell in the product–attribute matrix. A Customize and Buy command tab was prominently displayed at the bottom of each column or alternative similar to the Choose tab in Fig. 2. The DB kept track of the product–attribute cells accessed by each shopper and whether the shopper clicked on the Customize and Buy tab. As is common in many Internet-based retail settings, no other information, such as consumer demographics or prior shopper knowledge, was captured.4 ",
+    "bbox": [
+      505,
+      243,
+      929,
+      437
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Information Available ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      455,
+      653,
+      469
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "The matrix of information presented to shoppers appears in Panel A of Table 1. We provide ordinal rankings for each attribute based on its level for each alternative and show the attribute level for alternative. For attributes A1–A9 and A11, higher values indicate preferred attribute levels; while attributes 10a and 10b, which were observed together when a cell in row 10 was accessed, describe physical aspects of the product (e.g., height and weight) for which it is a priori difficult to judge whether larger or smaller values are more desirable. $42 \\%$ of shoppers purchased alternative 1, $5 \\%$ purchased alternative 2, $5 \\%$ purchased alternative 3, and $4 8 \\%$ did not purchase. Notice that alternative 1 is the lowest priced alternative while alternatives 2 and 3 have the same higher price. This may partially explain why alternative 1 has a greater share of purchases, but it is important to note that it does not dominate the other two alternatives completely since it has inferior levels of attribute A11 (relative to alternative 2) and attributes A5 and A6 (relative to alternative 3). ",
+    "bbox": [
+      505,
+      485,
+      929,
+      740
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "2 Once a consumer clicks on an attribute to view the attribute he/she does not have to go back to view the original product-attribute matrix to view a different attribute, they are just viewing the same product-attribute matrix with opened (i.e., all the previous cells they have opened) and unopened cells. Consequently, similar to previous laboratory based studies using Information Display Boards, the consumer does not need to remember/recall the attribute for the particular alternative, making the task simple and straightforward. ",
+    "bbox": [
+      52,
+      862,
+      477,
+      949
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      59,
+      678,
+      69
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      67,
+      68
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 Previous experimental laboratory research using IDB computerized decision process tracers show that subjects display similar information processing, choices, and eye movements to subjects that are not using IDB computerized decision process tracers to make a decision (Johnson, Meyer, and Ghose 1989; Johnson, Payne, and Bettman 1988). ",
+    "bbox": [
+      504,
+      774,
+      929,
+      836
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "4 To the extent that consumers knew some of the attribute levels based on prior visits that are not recorded in our data, it makes our record of the information accessed less accurate and works against our expectations that information accessed will improve the choice model performance. However, because we find that a model based on the recorded information accessed generated the best diagnostics on attribute preferences and estimation and validation sample fits, it implies that relatively little data about the information accessed was missing. Of course, keeping track of the information accessed on prior visits would only strengthen the empirical results. ",
+    "bbox": [
+      505,
+      837,
+      929,
+      949
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/e01069ee40d3f6cdb0506c5e6362562e03c29ded7b862c350cdcf38bab33aab1.jpg",
+    "image_caption": [
+      "Fig. 2. Mock-up of the matrix presented to shoppers by the Decision Board Platform using Amazon Kindle as an example. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      139,
+      85,
+      857,
+      655
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "One interesting feature of the data is that the levels for five of the attributes (A2, A3, A4, A7, and A9) are exactly the same across all alternatives and, further, two of the three alternatives also have the same level for five other attributes (price, A1, A6, A8, and A11). Thus, our real world purchase setting not only has an X-matrix that is the same for all shoppers but also has multiple attributes with levels that are the same across alternatives. These features make tracking of the information accessed by a consumer critical to achieve variance in the X-matrix across alternatives, attributes, and consumers and for identifying model parameters correctly. ",
+    "bbox": [
+      70,
+      709,
+      492,
+      860
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "access information on all 11 attributes, the rest do not. Of those who choose to customize and buy, $59 \\%$ access information on all attributes, while of those who choose not to customize and buy, $44 \\%$ access information on all attributes. This indicates that consistent with the behavioral information processing and information overload literatures, a large percentage of shoppers $(4 8 \\% )$ do not access information on all attributes and that this observation is largely true for those who decide to customize and buy $(4 1 \\% )$ as well as those who decide to not customize and buy $( 5 6 \\% )$ . ",
+    "bbox": [
+      522,
+      709,
+      946,
+      858
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Attributes Accessed ",
+    "bbox": [
+      70,
+      876,
+      201,
+      889
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The percentage of shoppers accessing attribute information is presented in Panel B of Table 1. Shoppers access an average of 8.4 attributes out of 11. Notice that only $52 \\%$ of shoppers ",
+    "bbox": [
+      68,
+      906,
+      492,
+      949
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Alternatives Accessed ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      876,
+      668,
+      889
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "An alternative was considered to be accessed by a consumer if at least one attribute level cell for that alternative was clicked on during the shopping trip. Panel C reports the percentage of shoppers who accessed information on each choice alternative. Shoppers access an average of 2.1 alternatives. $51 \\%$ of shoppers access information on all three alternatives, $8 \\%$ on two alternatives, and $41 \\%$ on only one alternative. Of those who choose to customize and buy, $47 \\%$ access information on all three alternatives, while of those who choose to not customize and buy, $5 5 \\%$ access information on all three alternatives. Overall, once again, consistent with the behavioral information processing and information overload literatures, a large percentage of shoppers $( 4 9 \\% )$ did not access information on all alternatives, with minor differences among those who decided to customize and buy $( 5 3 \\% )$ versus those who did not $( 4 5 \\% )$ . ",
+    "bbox": [
+      521,
+      906,
+      946,
+      950
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      59,
+      695,
+      69
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      52,
+      92,
+      477,
+      136
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      505,
+      92,
+      927,
+      136
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/30f478d3b6e2b99e5f9033422a828f1f50da9fec49cd0f707b058fedb1d5bb80.jpg",
+    "table_caption": [
+      "Table 1 Matrix of information presented to shoppers and descriptive statistics of information accessed by shoppers. "
+    ],
+    "table_footnote": [
+      "Prices and alternative (model) names were available to shoppers without clicking a cell; Attributes 10a and 10b were accessed by clicking the same cell; level 1 indicates lowest values and level 3 indicates highest values for the attributes, for example, level 1 for price indicates a lower price, level 1 for attribute 10a indicates a shorter alternative, and level 1 for attribute 10b indicates a lighter alternative. For the remaining attributes, lower levels indicate less value. "
+    ],
+    "table_body": "<table><tr><td colspan=\"7\">Panel A.Matrix of information presented to shoppers</td></tr><tr><td>Attribute</td><td>Row</td><td>Continuous or discrete</td><td>Range</td><td>Alternative 1 (Level)</td><td>Alternative 2 (Level)</td><td>Alternative 3 (Level)</td></tr><tr><td>Price</td><td>N/A</td><td>Continuous</td><td>$699.99-$849.99</td><td>1</td><td>2</td><td>2</td></tr><tr><td>A1</td><td>1</td><td>Continuous</td><td>1.3-1.5</td><td>2</td><td>1</td><td>1</td></tr><tr><td>A2</td><td>2</td><td>Discrete</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A3</td><td>3</td><td>Discrete</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A4</td><td>4</td><td>Continuous</td><td>40</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A5</td><td>5</td><td>Continuous</td><td>14.1-15.4</td><td>2</td><td>1</td><td>3</td></tr><tr><td>A6</td><td>6</td><td>Discrete</td><td>1or 2</td><td>1</td><td>1</td><td>2</td></tr><tr><td>A7</td><td>7</td><td>Discrete</td><td>1</td><td>1</td><td></td><td>1</td></tr><tr><td>A8</td><td>8</td><td>Discrete</td><td>1or 2</td><td>2</td><td>1</td><td>2</td></tr><tr><td>A9</td><td>9</td><td>Discrete</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A10a</td><td>10</td><td>Continuous</td><td>1-1.4</td><td>1</td><td>2</td><td>3</td></tr><tr><td>A10b</td><td></td><td>Continuous</td><td>5.29-6</td><td>2</td><td>1</td><td>3</td></tr><tr><td>A11</td><td>11</td><td>Discrete</td><td>1or2</td><td>1</td><td>2</td><td>1</td></tr></table>",
+    "bbox": [
+      50,
+      177,
+      931,
+      393
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/c5a97342321b8d5bf1a0bfca54e0d5ffd2ae0ee627d1569135d5b6200b2e5f0a.jpg",
+    "table_caption": [
+      "Panel B. Percent of consumers accessing attribute information "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Number of attributes accessed</td><td>Number of shoppers</td><td>%</td><td>Customize and buy</td><td>%</td><td>Do not customize and buy</td><td>%</td></tr><tr><td>1</td><td>30</td><td>5%</td><td>8</td><td>3%</td><td>22</td><td>8%</td></tr><tr><td>2</td><td>27</td><td>5%</td><td>7</td><td>2%</td><td>20</td><td>7%</td></tr><tr><td>3</td><td>38</td><td>7%</td><td>21</td><td>7%</td><td>17</td><td>6%</td></tr><tr><td>4</td><td>23</td><td>4%</td><td>9</td><td>3%</td><td>14</td><td>5%</td></tr><tr><td>5</td><td>25</td><td>4%</td><td>10</td><td>3%</td><td>15</td><td>5%</td></tr><tr><td>6</td><td>27</td><td>5%</td><td>7</td><td>2%</td><td>20</td><td>7%</td></tr><tr><td>7</td><td>18</td><td>3%</td><td>9</td><td>3%</td><td>9</td><td>3%</td></tr><tr><td>8</td><td>23</td><td>4%</td><td>11</td><td>4%</td><td>12</td><td>4%</td></tr><tr><td>9</td><td>29</td><td>5%</td><td>14</td><td>5%</td><td>15</td><td>5%</td></tr><tr><td>10</td><td>39</td><td>7%</td><td>27</td><td>9%</td><td>12</td><td>4%</td></tr><tr><td>11</td><td>303</td><td>52%</td><td>178</td><td>59%</td><td>125</td><td>44%</td></tr></table>",
+    "bbox": [
+      48,
+      470,
+      934,
+      631
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/2feefbeaf3d588398827b772239689c1652c75560aae926817d06fb787fbb30d.jpg",
+    "table_caption": [
+      "Panel C. Percent of consumers accessing information for each alternative "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Number of alternatives accessed</td><td>Number of shoppers</td><td>%</td><td>Customize and buy</td><td>%</td><td>Do not customize and buy</td><td>%</td></tr><tr><td>1</td><td>241</td><td>41%</td><td>139</td><td>46%</td><td>102</td><td>36%</td></tr><tr><td>2</td><td>47</td><td>8%</td><td>22</td><td>7%</td><td>25</td><td>9%</td></tr><tr><td>3</td><td>294</td><td>51%</td><td>140</td><td>47%</td><td>154</td><td>55%</td></tr></table>",
+    "bbox": [
+      50,
+      670,
+      932,
+      732
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/f6cd5a0a0605b60f5134be0273e9f5e0bf6af9c677b917a7ec30221443569b44.jpg",
+    "table_caption": [
+      "Panel D. Percentage of shoppers accessing information in different cells "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Attribute</td><td>Alternative 1</td><td>Alternative 2</td><td>Alternative 3</td><td>Overall</td></tr><tr><td>A1</td><td>86%</td><td>39%</td><td>37%</td><td>93%</td></tr><tr><td>A2</td><td>79%</td><td>29%</td><td>26%</td><td>86%</td></tr><tr><td>A3</td><td>78%</td><td>31%</td><td>29%</td><td>86%</td></tr><tr><td>A4</td><td>73%</td><td>28%</td><td>25%</td><td>79%</td></tr><tr><td>A5</td><td>70%</td><td>26%</td><td>24%</td><td>76%</td></tr><tr><td>A6</td><td>68%</td><td>28%</td><td>25%</td><td>73%</td></tr><tr><td>A7</td><td>66%</td><td>22%</td><td>20%</td><td>71%</td></tr><tr><td>A8</td><td>62%</td><td>22%</td><td>20%</td><td>67%</td></tr><tr><td>A9</td><td>63%</td><td>22%</td><td>20%</td><td>68%</td></tr><tr><td>A10</td><td>56%</td><td>19%</td><td>17%</td><td>60%</td></tr><tr><td>A11</td><td>70%</td><td>32%</td><td>30%</td><td>75%</td></tr><tr><td>Overall</td><td>95%</td><td>59%</td><td>55%</td><td>9%</td></tr></table>",
+    "bbox": [
+      48,
+      769,
+      931,
+      948
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      58,
+      678,
+      69
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      68,
+      68
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/59eb9c33cda8e7ee72308ebde1bf75a1023ea28be2f39d74378be44d3bc3aab5.jpg",
+    "table_caption": [
+      "Table 1 (continued) "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"7\">Panel E. Percent of consumers accessing total amount of information</td></tr><tr><td>Number of cells accessed</td><td>Number of shoppers</td><td>%</td><td>Customize and buy</td><td>%</td><td>Do not customize and buy</td><td>%</td></tr><tr><td>&lt;5</td><td>97</td><td>17%</td><td>36</td><td>12%</td><td>61</td><td>22%</td></tr><tr><td>6-10</td><td>103</td><td>18%</td><td>49</td><td>16%</td><td>54</td><td>19%</td></tr><tr><td>11-15</td><td>233</td><td>40%</td><td>137</td><td>46%</td><td>96</td><td>34%</td></tr><tr><td>16-20</td><td>36</td><td>6%</td><td>15</td><td>5%</td><td>21</td><td>7%</td></tr><tr><td>21-25</td><td>33</td><td>6%</td><td>21</td><td>7%</td><td>12</td><td>4%</td></tr><tr><td>26-30</td><td>21</td><td>4%</td><td>14</td><td>5%</td><td>7</td><td>2%</td></tr><tr><td>&gt;30</td><td>59</td><td>10%</td><td>29</td><td>10%</td><td>30</td><td>11%</td></tr><tr><td>Total</td><td>582</td><td>一</td><td>301</td><td>52%</td><td>281</td><td>48%</td></tr></table>",
+    "bbox": [
+      67,
+      104,
+      951,
+      248
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/bcc360c1acf4191af8eed0b48410d2f84846a598f4650272449f4562ceea7f42.jpg",
+    "table_caption": [
+      "Panel F. Attribute information accessed on an alternative and purchase of the alternative "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Attribute/alternative</td><td>Accessed/not accessed</td><td>Purchased alternative 1</td><td>Purchased alternative 2</td><td>Purchased alternative 3</td></tr><tr><td rowspan=\"2\">A1</td><td>Accessed</td><td>40%</td><td>4%</td><td>5%</td></tr><tr><td>Not accessed</td><td>2%</td><td>1%</td><td>0%</td></tr><tr><td rowspan=\"2\">A2</td><td>Accessed</td><td>37%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>4%</td><td>2%</td><td>1%</td></tr><tr><td rowspan=\"2\">A3</td><td>Accessed</td><td>38%</td><td>4%</td><td>5%</td></tr><tr><td>Not accessed</td><td>3%</td><td>1%</td><td>1%</td></tr><tr><td rowspan=\"2\">A4</td><td>Accessed</td><td>35%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>7%</td><td>2%</td><td>1%</td></tr><tr><td rowspan=\"2\">A5</td><td>Accessed</td><td>34%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>7%</td><td>2%</td><td>1%</td></tr><tr><td rowspan=\"2\">A6</td><td>Accessed</td><td>34%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>8%</td><td>2%</td><td>1%</td></tr><tr><td rowspan=\"2\">A7</td><td>Accessed</td><td>34%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>8%</td><td>2%</td><td>2%</td></tr><tr><td rowspan=\"2\">A8</td><td>Accessed</td><td>31%</td><td>3%</td><td>4%</td></tr><tr><td>Not accessed</td><td>10%</td><td>2%</td><td>2%</td></tr><tr><td rowspan=\"2\">A9</td><td>Accessed</td><td>33%</td><td>3%</td><td>3%</td></tr><tr><td>Not accessed</td><td>9%</td><td>2%</td><td>2%</td></tr><tr><td rowspan=\"2\">A10</td><td>Accessed</td><td>30%</td><td>3%</td><td>3%</td></tr><tr><td>Not accessed</td><td>12%</td><td>2%</td><td>3%</td></tr><tr><td rowspan=\"2\">A11</td><td>Accessed</td><td>34%</td><td>4%</td><td>4%</td></tr><tr><td>Not accessed</td><td>7%</td><td>1%</td><td>2%</td></tr></table>",
+    "bbox": [
+      65,
+      284,
+      951,
+      587
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      616,
+      494,
+      704
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Alternatives and Attribute Levels Accessed ",
+    "text_level": 1,
+    "bbox": [
+      72,
+      723,
+      359,
+      737
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The percentage of shoppers accessing information in different cells is presented in Panel D of Table 1. Of our sample of shoppers, only $9 \\%$ access all information cells. Further, while $9 5 \\%$ of shoppers access some information on alternative 1, the low-priced alternative, a large percentage of shoppers, between $5 5 \\%$ and $59 \\%$ access some information on alternatives 2 and 3, implying that the amount of information accessed varies substantially across alternatives. ",
+    "bbox": [
+      70,
+      754,
+      494,
+      872
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Total Information Accessed ",
+    "text_level": 1,
+    "bbox": [
+      72,
+      891,
+      257,
+      904
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The percentage of consumers who access different amounts of information is presented in Panel E. The total amount of information that can be accessed is 33 cells (3 alternatives $\\times \\ 1 1$ attributes). Shoppers access an average of 13.4 cells out of 33; with $7 5 \\%$ of shoppers accessing 15 or fewer cells, or less than half of the available information. This level of access is about the same for those who chose to customize and buy $74 \\%$ access 15 or fewer cells) and for those who did not $7 5 \\%$ access 15 or fewer cells). ",
+    "bbox": [
+      70,
+      921,
+      494,
+      949
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      616,
+      944,
+      721
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Relationship Between Information Accessed and Purchase ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      740,
+      915,
+      754
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In Panel F, we show that the percentage of shoppers purchasing a particular alternative is found to be much higher if shoppers access any attribute of the alternative relative to if they do not access the attribute of the alternative. For example, of the shoppers who access attribute A1 of alternative 1, $40 \\%$ purchase the alternative while $2 \\%$ do not. This is true of 32 of the 33 paired comparisons in Panel F, indicating that accessed information is associated with purchasing the alternative and not merely with just getting noticed. ",
+    "bbox": [
+      522,
+      770,
+      946,
+      905
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "These statistics lead to three conclusions. First, contrary to the practice of using all data presented or available to the consumer to estimate current consumer preference and choice models, almost half of the shoppers do not access information on all attributes and this observation is true for those who decide to customize and buy as well as those who decide to not customize and buy. While such a result is entirely expected from the constructive choice theory and information processing-based points of view, what is new here is that the subset of attribute information accessed by a shopper has not heretofore been observed and used to calibrate a choice model. Second, almost half of the shoppers do not access information on all alternatives and this observation is true for those who decide to customize and buy as well as those who do not, a pattern that is entirely expected based on the constructive choice theory and information overload literatures (e.g., Lurie 2004; Malhotra, Jain, and Lagakos 1982). What is new about our work is that we actually observe the subset of alternatives about which product–attribute information is accessed by a shopper and employ this information to calibrate a choice model. ",
+    "bbox": [
+      522,
+      906,
+      944,
+      949
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      59,
+      695,
+      69
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "17 ",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      90,
+      477,
+      331
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Third, only $9 \\%$ of shoppers are found to access all the feature information available. In addition, almost $7 5 \\%$ access less than half of all the feature information available and this observation is found to be true for those who customize and buy as well as those who choose not to customize and buy. Again, while such a result is entirely expected from constructive choice theory, information processing, and information overload literatures, what is new here is that the feature information accessed by the shopper has not heretofore been observed and used to calibrate a choice model. Consequently, it is likely that models based on information accessed will perform better than models based on information available. ",
+    "bbox": [
+      53,
+      332,
+      477,
+      513
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Models ",
+    "text_level": 1,
+    "bbox": [
+      53,
+      544,
+      105,
+      557
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We propose and estimate several multi-attribute choice models based on the literature progressively ranging from information available to information accessed in the comparison chart. For example, if a shopper clicked on and looked at all cells in the comparison chart there would be no difference between the information available in the comparison chart and the information accessed, since all available information was accessed. However, if a shopper only clicked on some cells of the comparison chart then the two information sets would be different. In this case, the subset of information accessed may be more relevant to the purchase decision and revealed preferences. Consequently, a choice model based on the information accessed may provide a better fit and generate better diagnostics about attribute preferences, similar to the way in which choice models that incorporate consideration sets improve on models that assume the consumer considers all alternatives. ",
+    "bbox": [
+      53,
+      575,
+      477,
+      829
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We begin by specifying the utility function for each consumer and product alternative and specify a general equation to relate the utilities to the choice probability based on the information accessed by each consumer. Subsequently, we specify alternative benchmark models that progressively account for different levels of information available or acquired by the consumer and are representative of the most common choice models estimated in the literature. ",
+    "bbox": [
+      53,
+      831,
+      477,
+      949
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Let $i$ $( i = 1 , \\ \\mathrm { N } )$ index consumers, $j ~ ( j = 1 , ~ \\mathrm { J } + 1 )$ index choice alternatives, $k$ $\\mathrm { ~  ~ { ~ \\bar { ~ } { ~ \\psi ~ } ~ } ~ } ( k = 1 , \\mathrm { ~ K ~ } )$ represent product attributes, and l $( l = 1 , \\mathrm { L } _ { \\mathrm { k } } )$ index levels within each attribute. There are J products, and the $\\mathrm { ~ J ~ } + \\mathrm { ~ 1 ~ }$ th alternative represents the no-buy option. The deterministic part of consumer i's utility for product $j$ can be written as: ",
+    "bbox": [
+      505,
+      90,
+      929,
+      181
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/54f3458281edf9d702c9b093740ec111c325149d5a847173e3267cc568cdf0ce.jpg",
+    "text": "$$\nU _ { i j } = \\sum _ { k } \\beta _ { k } X _ { j k } * \\delta _ { i j k } .\n$$",
+    "text_format": "latex",
+    "bbox": [
+      504,
+      190,
+      662,
+      223
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "$X _ { j k }$ is the value of attribute $k$ for product $j , \\beta _ { k }$ is the preference parameters, and $\\delta _ { i j k }$ takes on different values depending upon the estimated model. The deterministic part of the utility of the no-buy option is set to zero. Assuming that the deterministic utilities are augmented by an additive random component, $\\epsilon _ { i j } ,$ which is independent, identical, extreme value Type 1 distributed, the probability that consumer $i$ chooses product $j$ is given by: ",
+    "bbox": [
+      505,
+      228,
+      929,
+      332
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "equation",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/96bc1fde5e0ac4db3965a9a79584494d0cc205298b434a66b4e4224501df9f45.jpg",
+    "text": "$$\n\\mathrm { P r o b } ( i j ) = \\frac { \\lambda _ { i j } * \\exp \\left( U _ { i j } \\right) } { \\sum \\lambda _ { i j } * \\left[ \\exp \\left( U _ { i j } \\right) \\right] }\n$$",
+    "text_format": "latex",
+    "bbox": [
+      504,
+      343,
+      721,
+      385
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "where $\\lambda i j = 1$ if product $j$ is in the choice set of consumer $i , 0$ otherwise, which, like $\\delta _ { i j k } ,$ is defined based upon the estimated model. Note, the $\\lambda i j$ indicator term in the denominator is outside the $\\exp ( U _ { i j } )$ expression so if product j is not included in the choice set, its utility is zero nor does it contribute to the term in the denominator. Further, because λij for the no-buy option takes the value 1 by definition, the denominator will always include the value 1, which corresponds to the exponentiated value of its zero utility. ",
+    "bbox": [
+      505,
+      392,
+      929,
+      528
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "As is common in durable product categories, we only have one observation per shopper; consequently, we are unable to allow for heterogeneity in the parameter estimates at the individual level using a Bayesian model or at the segment level using a latent class or finite mixture model. However, our approach does address the heterogeneity problem in the following way. The estimated coefficients in our proposed model can be interpreted as effects on choice conditional on accessing information on that attribute/alternative. If the information is not accessed the coefficient becomes zero. Given that respondents are unlikely to access information that they are not interested in, access becomes predictive of choice. Access separates those interested in the attribute/alternative combination from those who are not, which is a way in which consumers are heterogeneous. We estimate two versions of the proposed model. ",
+    "bbox": [
+      505,
+      530,
+      929,
+      752
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "M1A: Information Acquisition Model ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      770,
+      757,
+      784
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In this model, $\\delta _ { i j k } = 1$ if consumer $i$ accessed the kth attribute for any product $j$ , and is 0 otherwise. Also, $\\lambda _ { i j } = 1$ only if at least one attribute of alternative $j$ was accessed, and 0 otherwise.5 Therefore this model incorporates all of the information actually accessed by consumer $i$ . If a particular attribute is not accessed by the consumer, its value does not enter the utility function of that product because $\\delta _ { i j k } = 0$ consistent with the fact that the consumer is uninterested in its value. Furthermore, if a consumer does not access any attribute information about a particular alternative, then $\\lambda _ { i j } = 0$ and the alternative drops out of the denominator of the logit expression, consistent with the fact that the consumer is uninterested in the alternative. The rationale for setting attribute and alternative values that are not accessed to zero is based on previous theory that consumers focus on only a subset of information as the basis for decision making (see Bettman, Luce, and Payne 1998), research on information use in stated choice experiments (Hensher 2006) and findings about how consumers use cut-offs in discrete choice models from conjoint experiments (Gilbride, Allenby, and Brazell 2006). ",
+    "bbox": [
+      505,
+      800,
+      929,
+      890
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5 Note that in our empirical application, $\\lambda _ { i j } = 1$ , only if the consumer accessed an attribute level other than price, because the price of each choice alternative was visible to all shoppers and did not require any searching on their part. For the same reason, $\\delta _ { i j k } = 1$ for the price attribute of each choice alternative. ",
+    "bbox": [
+      504,
+      899,
+      929,
+      950
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      58,
+      678,
+      69
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      68,
+      68
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/5e184823f4fc3f2efa494b7654520b4b62b0878a359f7cc91cbdb123df8f2926.jpg",
+    "table_caption": [
+      "Table 2 Model fit results. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Model</td><td>M1A: information acquisition</td><td>M1B: nested information acquisition</td><td>BM1: all information available (MNL)</td><td>BM2: attribute acquisition</td><td>BM3: alternative acquisition</td></tr><tr><td>Estimation sample log likelihood</td><td>-375.385</td><td>-363.156</td><td>-452.536</td><td>-435.253</td><td>-413.225</td></tr><tr><td>BIC</td><td>-414.905</td><td>-402.676</td><td>-492.056</td><td>-474.773</td><td>-452.745</td></tr><tr><td>Validation sample log likelihood</td><td>-126.704</td><td>-123.752</td><td>-146.277</td><td>-144.953</td><td>-132.910</td></tr></table>",
+    "bbox": [
+      67,
+      116,
+      949,
+      194
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      213,
+      492,
+      422
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "M1B: Nested Information Acquisition Model ",
+    "text_level": 1,
+    "bbox": [
+      72,
+      438,
+      371,
+      452
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "This model is a nested logit version of model M1A. Thus, instead of modeling the no-buy decision as an additional alternative in the choice model, the buy and no-buy options appear together at a higher level of the choice hierarchy and the three choice alternatives are nested together under the buy option at a lower level. Thus, this model explicitly allows the correlation between the no-buy alternative and the three choice options in the buy nest to be different from the correlation between these items within the nest. While the rest of the model specification is the same as in Model 1A, an additional intercept and an inclusive value term, captured by the log of the denominator of the choice probability expression in Equation 2, are included as additional explanatory variables in the buy/no-buy decision. ",
+    "bbox": [
+      70,
+      469,
+      492,
+      617
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      213,
+      944,
+      255
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "We now present a set of alternative benchmark models that are based on the information available or presented to the consumer rather than on the information accessed by the consumer. Nested versions of the proposed benchmark models are not presented because they did not improve the estimation and validation sample fits or parameter estimates relative to their non-nested counterparts. ",
+    "bbox": [
+      522,
+      258,
+      946,
+      361
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Benchmark Models ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      393,
+      652,
+      406
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "BM1: All Information Available Model (MNL) ",
+    "text_level": 1,
+    "bbox": [
+      524,
+      423,
+      835,
+      437
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In this model, $\\delta _ { i j k l } = 1$ in Equation 1 for all attribute levels, all products, and all consumers and $\\lambda _ { i j } = 1$ in Equation 2 for all alternatives and consumers. Thus, this model completely ignores the information accessed by the consumer by assuming that all alternatives are in a consumer's choice set and that alternative utility depends on all attribute levels, resulting in a standard MNL model based on all information available. The ubiquity of this model in marketing leads us to present and estimate it, even though we recognize that the invariant X-matrix problem and the fact that multiple attributes have similar levels across alternatives will make it impossible to identify its parameters. ",
+    "bbox": [
+      522,
+      438,
+      946,
+      617
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/ae5ea3d084a7a3e431ee0826aeeb24f454e16d93bbbe2abd6bbd272e53af74f8.jpg",
+    "table_caption": [
+      "Table 3 Estimation sample results. "
+    ],
+    "table_footnote": [
+      "Notes. ⁎ p b .10. ⁎⁎ p b .05. ⁎⁎⁎ p b .01. "
+    ],
+    "table_body": "<table><tr><td>Variable</td><td>M1A:information acquisition</td><td>M1B:nested information acquisition</td><td>BM1:all information available (MNL)</td><td>BM2:attribute acquisition</td><td>BM3:alternative acquisition</td></tr><tr><td>Category value</td><td></td><td>.230 ***</td><td></td><td></td><td></td></tr><tr><td>Intercept</td><td>-4.148 **</td><td>1.033</td><td>-.015***</td><td>-6.420 ***</td><td>-.014 ***</td></tr><tr><td>Price</td><td>-.009 ***</td><td>-.012 ***</td><td>-.013 ***</td><td>-.011 ***</td><td>-.010 ***</td></tr><tr><td>A1</td><td>.625 **</td><td>.626</td><td>.003</td><td>.253</td><td>-.001</td></tr><tr><td>A2</td><td>-.095</td><td>-1.077</td><td>-.005 ***</td><td>.339</td><td>-.006 ***</td></tr><tr><td>A3</td><td>1.036 **</td><td>1.686 **</td><td>-.005 ***</td><td>1.012 **</td><td>一.006 ***</td></tr><tr><td>A4</td><td>-.020 **</td><td>-.014</td><td>.209 ***</td><td>-.022 **</td><td>.145 ***</td></tr><tr><td>A5</td><td>.009</td><td>.003</td><td>.058</td><td>.005</td><td>.066</td></tr><tr><td>A6</td><td>.398</td><td>.998 *</td><td>-.033</td><td>.189</td><td>-.005</td></tr><tr><td>A7</td><td>.459</td><td>.850</td><td>-.005 ***</td><td>.375</td><td>-.006 ***</td></tr><tr><td>A8</td><td>-.246</td><td>-.263</td><td>-.002</td><td>-.123</td><td>.017</td></tr><tr><td>A9</td><td>.439</td><td>1.117 *</td><td>-.005 ***</td><td>.211</td><td>一.006 ***</td></tr><tr><td>A10a</td><td>.613</td><td>-.568</td><td>-.015</td><td>-2.028</td><td>-.009</td></tr><tr><td>A10b</td><td>- .060</td><td>.251</td><td>.005</td><td>.470 *</td><td>.016</td></tr><tr><td>A11</td><td>.209</td><td>1.103 **</td><td>-.002</td><td>.046</td><td>-.026</td></tr></table>",
+    "bbox": [
+      67,
+      669,
+      951,
+      897
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      59,
+      695,
+      69
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "19 ",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "BM2: Attribute Acquisition Model (Attribute Set Model) ",
+    "text_level": 1,
+    "bbox": [
+      55,
+      92,
+      430,
+      105
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In this model, $\\delta _ { i j k } = 1$ if consumer $i$ accessed the kth attribute for product $j$ and is 0 otherwise. Thus, the utility function only includes price (which is observed for all alternatives) and those terms in which information about an attribute was actually accessed. However, $\\lambda _ { i j } = 1$ for all alternatives $j ,$ i.e., all alternatives are assumed to be in the choice set. Consequently, this model partially accounts for the attribute level information accessed by the consumer by including the correct terms in the utility function but ignoring the contents of the choice set. Since shoppers access different attributes, unlike BM1, the X-matrix will vary across shoppers. ",
+    "bbox": [
+      53,
+      107,
+      475,
+      271
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "BM3: Alternative Acquisition Model (Choice Set Model) ",
+    "text_level": 1,
+    "bbox": [
+      504,
+      92,
+      885,
+      105
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "In this model, $\\delta _ { i j k } = 1$ for all alternatives, but $\\lambda _ { i j } = 1$ only if at least one attribute level of alternative $j$ (other than price) was accessed and 0 otherwise. Thus, the utility function does not take into account the specific attribute information accessed by a consumer, but does force an alternative to drop out of the denominator in the choice probability expression if none of its attribute information is accessed. In other words, in this model an alternative is included in the choice set only when a consumer accessed at least one cell of non-price information. Since shoppers access different alternatives, unlike BM1, the X-matrix will vary across shoppers. ",
+    "bbox": [
+      505,
+      107,
+      929,
+      271
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/4e69c097d530453a2d8f64763679ad8d52431e2c48e703f496b80cacc6e1ad59.jpg",
+    "table_caption": [
+      "Table 4 Parameter estimates for models M1A, BM2 and BM3 based on a priori split of the original sample. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td colspan=\"6\">Panel A. Segmentation based on alternatives accessed</td></tr><tr><td>Model/variable</td><td colspan=\"2\">M1A: information acquisition</td><td colspan=\"2\">BM2: attribute acquisition</td><td colspan=\"2\">BM3:alternative acquisition 1 alternative 2 or 3 alternatives</td></tr><tr><td>Segment</td><td>1 alternative accessed</td><td>2 or 3 alternatives accessed</td><td>1 alternative accessed</td><td>2 or 3 alternatives accessed</td><td>accessed</td><td>accessed</td></tr><tr><td>Intercept</td><td>.823</td><td>.124</td><td>-7.628 **</td><td>-5.221***</td><td>.073 ***</td><td>-.014 ***</td></tr><tr><td>Price</td><td>.029</td><td>-.010 ***</td><td>-.015 ***</td><td>-.010 ***</td><td>.082 ***</td><td>-.010 ***</td></tr><tr><td>A1</td><td>.024</td><td>.733 **</td><td>1.021</td><td>.197</td><td>-.212 ***</td><td>.000</td></tr><tr><td>A2</td><td>-.369</td><td>.025</td><td>-.883</td><td>.649</td><td>-.093 ***</td><td>-.006 ***</td></tr><tr><td>A3</td><td>1.141</td><td>.898*</td><td>1.944 *</td><td>.953</td><td>-.093 ***</td><td>-.006 ***</td></tr><tr><td>A4</td><td>-.034</td><td>-.017</td><td>-.036</td><td>-.023 *</td><td>-3.324***</td><td>.146 ***</td></tr><tr><td>A5</td><td>.030</td><td>-.009</td><td>.119 *</td><td>-.025</td><td>3.723 ***</td><td>.056</td></tr><tr><td>A6</td><td>1.271</td><td>.455</td><td>-.336</td><td>.223</td><td>4.002 ***</td><td>-.013</td></tr><tr><td>A7</td><td>1.396 *</td><td>.196</td><td>1.836 **</td><td>.114</td><td>-.093 ***</td><td>-.006 ***</td></tr><tr><td>A8</td><td>-.687</td><td>-.101</td><td>-.810*</td><td>.025</td><td>3.532 ***</td><td>.009</td></tr><tr><td>A9</td><td>.785</td><td>.291</td><td>.891</td><td>.073</td><td>-.093 ***</td><td>-.006 ***</td></tr><tr><td>A10a</td><td>-13.692</td><td>.961</td><td>-1.122</td><td>-.990</td><td>.804 ***</td><td>-.011</td></tr><tr><td>A10b</td><td>2.531</td><td>-.182</td><td>.341</td><td>.253</td><td>2.361 ***</td><td>.011</td></tr><tr><td>A11</td><td>.223</td><td>.351</td><td>-.748</td><td>.137</td><td>-3.801***</td><td>-.018</td></tr><tr><td>Estimation Sample Log Likelihood</td><td>-355.080</td><td></td><td>-419.990</td><td></td><td>-388.160</td><td></td></tr><tr><td>BIC</td><td>-434.119</td><td></td><td>-499.029</td><td></td><td>-467.199</td><td></td></tr><tr><td>Validation sample log likelihood</td><td>-140.760</td><td></td><td>-145.160</td><td></td><td>-210.600</td><td></td></tr></table>",
+    "bbox": [
+      48,
+      354,
+      934,
+      640
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/commerce_manufacturing_3429581/auto/images/da1dee1f58e0d1d40f4e05f5abf7847ef785adfc75979492e9c3c59502791891.jpg",
+    "table_caption": [
+      "Panel B. Segmentation based on attributes accessed "
+    ],
+    "table_footnote": [
+      "Notes. $\\ast _ { \\mathrm { ~ p ~ } } < . 1 0$ $\\ast \\ast \\mathrm { p } < . 0 5$ $\\ast \\ast \\ast \\mathrm { ~ p ~ < ~ } . 0 1$ "
+    ],
+    "table_body": "<table><tr><td>Model/variable</td><td colspan=\"2\">M1A: information acquisition</td><td colspan=\"2\">BM2:attribute acquisition</td><td colspan=\"2\">BM3:alternative acquisition</td></tr><tr><td>Segment</td><td>&lt;9 attributes accessed</td><td>≥9 attributes accessed</td><td>&lt;9 attributes accessed</td><td>≥9 attributes accessed</td><td>&lt;9 attributes accessed</td><td>≥9 attributes accessed</td></tr><tr><td>Intercept</td><td>-4.083**</td><td>-.452</td><td>-7.221 ***</td><td>23.164 ***</td><td>-.013 ***</td><td>-.014 ***</td></tr><tr><td>Price</td><td>-.008 ***</td><td>-.007</td><td>-.013 ***</td><td>.009 *</td><td>-.009 ***</td><td>-.010 ***</td></tr><tr><td>A1</td><td>.437</td><td>.569</td><td>-.021</td><td>12.632 ***</td><td>-.003</td><td>.000</td></tr><tr><td>A2</td><td>.300</td><td>-1.223 *</td><td>.726</td><td>-1.032</td><td>-.007 ***</td><td>-.006 ***</td></tr><tr><td>A3</td><td>.868*</td><td>2.603 **</td><td>1.031 **</td><td>14.583 ***</td><td>-.007 ***</td><td>-.006 ***</td></tr><tr><td>A4</td><td>-.028 **</td><td>-.009</td><td>-.030 **</td><td>.038</td><td>.102</td><td>.156 ***</td></tr><tr><td>A5</td><td>.021</td><td>.018</td><td>.016</td><td>-1.082</td><td>.100</td><td>.055</td></tr><tr><td>A6</td><td>.355</td><td>.485</td><td>.152</td><td>-.096</td><td>.036</td><td>-.017</td></tr><tr><td>A7</td><td>1.064 **</td><td>-.185</td><td>.645</td><td>-1.428</td><td>-.007 ***</td><td>-.006 ***</td></tr><tr><td>A8</td><td>-.940 **</td><td>.266</td><td>-.719 **</td><td>.655</td><td>.052</td><td>.006</td></tr><tr><td>A9</td><td>-.020</td><td>.908</td><td>-.048</td><td>-.211</td><td>-.007***</td><td>-.006 ***</td></tr><tr><td>A10a</td><td>6.344</td><td>-.753</td><td>.785</td><td>-1.955</td><td>-.001</td><td>-.012</td></tr><tr><td>A10b</td><td>-1.181</td><td>.159</td><td>-.124</td><td>.420</td><td>.039</td><td>.009</td></tr><tr><td>A11</td><td>.202</td><td>.468</td><td>.124</td><td>-.929</td><td>-.064</td><td>-.014</td></tr><tr><td>Estimation sample log likelihood</td><td>-365.480</td><td></td><td>-423.640</td><td></td><td>-401.080</td><td></td></tr><tr><td>BIC</td><td>-444.519</td><td></td><td>-502.679</td><td></td><td>-480.119</td><td></td></tr><tr><td>Validation sample log likelihood</td><td>-126.350</td><td></td><td>-162.180</td><td></td><td>-134.720</td><td></td></tr><tr><td colspan=\"7\">Panel C.Segmentation based on cells accessed</td></tr><tr><td>Model/variable</td><td colspan=\"2\">M1A: information acquisition</td><td colspan=\"2\">BM2: attribute acquisition</td><td colspan=\"2\">BM3:alternative acquisition</td></tr><tr><td>Segment</td><td>&lt;12 cells accessed</td><td>≥12 cells accessed</td><td>&lt;12 cells accessed</td><td>≥12 cells accessed</td><td>&lt;12 cells accessed</td><td>≥12 cells accessed</td></tr><tr><td>Intercept</td><td>-3.311 1.007 ***</td><td>-1.344</td><td>-7.749 *** -.013 ***</td><td>10.453 ***</td><td>-.013 ***</td><td>-.014 ***</td></tr><tr><td>Price</td><td></td><td>-.010 **</td><td></td><td>1.009 *</td><td>-.009 *** -.002</td><td>-.010 ***</td></tr><tr><td>A1</td><td>.407</td><td>.801</td><td>.269</td><td>-.629</td><td></td><td>.000</td></tr><tr><td>A2</td><td>-.039</td><td>-.421</td><td>.398</td><td>.080</td><td>-.007***</td><td>-.006 ***</td></tr><tr><td>A3</td><td>1.218 ***</td><td>1.580</td><td>.943 *</td><td>15.307***</td><td>-.007***</td><td>-.006 ***</td></tr><tr><td>A4</td><td>-.026 **</td><td>.019</td><td>-.028 **</td><td>.017</td><td>.125 **</td><td>.147 ***</td></tr><tr><td>A5</td><td>.042</td><td>.001</td><td>.031</td><td>.041</td><td>.091</td><td>.043</td></tr><tr><td>A6</td><td>-.108</td><td>1.240 ***</td><td>-.048</td><td>.326</td><td>.022</td><td>-.023</td></tr><tr><td>A7</td><td>1.193 **</td><td>.065</td><td>.932 *</td><td>-.578</td><td>-.007***</td><td>-.006 ***</td></tr><tr><td>A8</td><td>-.587**</td><td>-.071</td><td>-.450</td><td>.473</td><td>.041</td><td>-.001</td></tr><tr><td>A9</td><td>.864</td><td>-.308</td><td>.813</td><td>-.937</td><td>-.007***</td><td>-.006 ***</td></tr><tr><td>A10a</td><td>5.880*</td><td>-2.084</td><td>-2.493</td><td>-2.927</td><td>-.004</td><td>-.013</td></tr><tr><td>A10b A11</td><td>-.990 *</td><td>.414</td><td>.608</td><td>.563</td><td>.032</td><td>.003</td></tr><tr><td></td><td>-.193</td><td>1.145 ***</td><td>-.420</td><td>.856*</td><td>-.051</td><td>-.008</td></tr><tr><td>Estimation sample log likelihood</td><td>-353.530</td><td>-418.530</td><td>-410.550</td><td></td><td></td><td></td></tr><tr><td>BIC</td><td>-432.569</td><td>-497.569</td><td>-489.589</td><td></td><td></td><td></td></tr><tr><td>Validation sample log likelihood</td><td>-132.840</td><td>-161.250</td><td>-134.300</td><td></td><td></td><td></td></tr></table>",
+    "bbox": [
+      48,
+      678,
+      939,
+      948
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      59,
+      678,
+      69
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      68,
+      68
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "",
+    "table_caption": [
+      ""
+    ],
+    "table_footnote": [
+      ""
+    ],
+    "bbox": [
+      67,
+      104,
+      952,
+      393
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Results ",
+    "text_level": 1,
+    "bbox": [
+      70,
+      469,
+      122,
+      482
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We randomly assigned the 582 consumers into estimation and validation samples containing 437 $( 7 5 \\% )$ and 145 $( 2 5 \\% )$ consumers. We coded the various attribute levels in our dataset as follows. First, for the continuous attributes, i.e., price, A1, A4 (which has the same value for all alternatives), A5, A10a, and A10b, we simply use the corresponding numerical values for each product and 0 for the no-buy alternative. Second, for each of the two-level categorical attributes, A6, A8, and A11, we employ a specification in which its lower level is coded as 1, its higher level is coded as 2, and an uninspected attribute is coded as 0. Thus, this coding scheme permits us to distinguish between the absence of an attribute (when not accessed) and its two values when present, which the typical dummy variable coding with two levels could not accomplish. For example, suppose A6 referred to the web attribute in Fig. 2. Then in our specification, the values would be 0 when the web attribute was not accessed, 1 for the experimental browser, and 2 for the Amazon Silk cloud-accelerated browser. We did not use $- 1 / 1$ effect coding because it implicitly assumes that the lower level of an attribute (the − 1) is below the value when the attribute is absent or was not seen. Third, for the remaining categorical attributes, A2, A3, A7, and A9, for which all alternatives have identical levels, we used a dummy variable that is set to 1 for each choice alternative and 0 when the attribute level was not accessed. As an example, if A2 referred to the Connectivity attribute in Fig. 2, then $\\mathrm { A } 2 = 1$ when this attribute was accessed for an alternative, 0 otherwise. ",
+    "bbox": [
+      70,
+      500,
+      494,
+      889
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We assess model performance based on (i) statistical fit and (ii) the validity of the parameter estimates. In Table 2 we present the fitted log-likelihood from each model for the estimation sample. The estimated parameters for each model were used to calculate the log-likelihood in the validation samples, which are also reported. Models that only use the information accessed by the shopper (M1A and M1B) are found to provide better estimation and validation sample fits than models that rely on all information available to the shopper (BM2 and BM3). The nested specification results in a better fit for M1B over M1A for the estimation (Chi-square $= 2 4 . 4 6 $ , $\\mathbf { p } < . 0 1 )$ and validation samples (Chi-square $= 5 . 9 0$ , $\\mathrm { p } < . 0 5$ ). ",
+    "bbox": [
+      68,
+      891,
+      492,
+      950
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      467,
+      946,
+      588
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "In Table 3 we present the parameter estimates of the estimated models. Notice that many of the parameter estimates from the information available model (BM1 or MNL) have incorrect signs reflecting the expected identification problems. Because higher levels of these attributes are expected to yield higher levels of utility, the negative parameter estimates for attributes A2, A3, A7, and A9 are counter-intuitive. Thus, as expected, the all information available model (BM1 or MNL) is unable to correctly identify the impact of these attribute levels. Second, the coefficients for attributes A2, A3, A7, and A9 have counter-intuitive negative signs in the alternative acquisition model (BM3), and the coefficient of attribute A4 has a counter-intuitive negative sign in the attribute acquisition model (BM2), while coefficients for all the attributes in the nested information accessed model (M1B) yield correct signs. Note that the values of attributes A2, A3, A4, A7 and A9 in our real-world empirical data do not vary across alternatives; however, A3 is statistically significant in M1B because data on A3 can be accessed for one option but not others and this model explicitly accounts for the information accessed. ",
+    "bbox": [
+      522,
+      590,
+      946,
+      889
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We also investigated whether incorporating parameter heterogeneity in the benchmark models BM2 and BM3 would improve model fit and resolve the problem of counter-intuitive signs observed in the corresponding aggregate version reported in Table 3. Because we only have one observation per consumer, typical in infrequently purchased product categories, and no demographic information, we allow for heterogeneity using an a priori segmentation approach (e.g., Currim 1981) based on information access patterns. Specifically, we used three segmentation schemes based on the number of (a) alternatives accessed, (b) attributes accessed, and (c) cells accessed. For each of the three segmentation schemes we defined two segments and chose cut-off points to ensure a reasonable sample size in the estimation and validation sub-samples. Specifically, the estimation (validation) samples are (a) 175 (67) shoppers accessed information on only 1 alternative and 262 (78) accessed information on 2 or 3 alternatives; (b) 284 (87) shoppers accessed 8 or fewer attributes and 153 (58) accessed 9 or more attributes; and (c) 261 (95) shoppers accessed 11 or fewer cells and 176 (50) accessed 12 or more cells. ",
+    "bbox": [
+      522,
+      891,
+      944,
+      950
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      59,
+      695,
+      69
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      59,
+      944,
+      68
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      92,
+      477,
+      330
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The fit statistics and parameter estimates for these models are presented in Table 4. However, incorporating segment level heterogeneity in the information access model (M1A) and the benchmark models (BM2 and BM3) did not improve the estimation and validation sample fits nor resolve the problem of the counter-intuitive sign observed in the corresponding homogenous version reported in Table 3. Therefore, we conclude that incorporating heterogeneity in the parameter estimates using these a-priori approaches does not improve the validation sample fits or resolve the issue of incorrectly signed parameter estimates observed in the aggregate versions of the baseline models. Only M1B which incorporates all alternative and attribute information accessed by shoppers has all correctly signed parameter estimates and the best validation sample fits.6 ",
+    "bbox": [
+      53,
+      334,
+      477,
+      542
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In summary, because the information accessed models incorporate the cells of the comparison matrix actually opened by a consumer, they can overcome estimation issues such as an X-matrix that does not vary across shoppers and attribute values that are invariant across all alternatives. In contrast, the benchmark models that rely on all information available or incorporate only certain aspects of information accessed in their estimation, have identification problems and/or counterintuitive signs. Thus, our empirical analysis shows that employing the information accessed, with and without a priori segmentation, improves validation sample based forecasts of consumers' choices and provides more valid estimates of consumers' attribute preferences over employing information available. ",
+    "bbox": [
+      53,
+      544,
+      477,
+      738
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Additional Models ",
+    "text_level": 1,
+    "bbox": [
+      53,
+      757,
+      178,
+      771
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To establish robustness of our findings and to account for specific aspects of our data setting, we estimate two other models that we term (i) inferred attributes and (ii) endogenous information accessed. ",
+    "bbox": [
+      53,
+      788,
+      475,
+      846
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Inferred Attributes ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      92,
+      631,
+      105
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In this model we set the value of an attribute that is not accessed to be the maximum (minimum) value of the attribute in the data matrix. The theoretical rationale is that consumers may have inferred the value of an attribute even if they did not access information on it, either because the consumer believes that the values of all attributes in the row are similar or because once they click on an attribute they infer the remaining attribute values in the row. Consequently, $\\delta _ { i j k } = 1$ for all $i , j$ , and $k ,$ but the value of $X _ { j k }$ is set to the minimum (maximum) $( X _ { j k } )$ if the attribute level was actually not accessed and $\\lambda _ { i j } = 1$ . For attributes that only have a single value, that specific value is used. In other words, this model assumes that all alternatives and attributes are accessed, but the value of each particular attribute level is either its actual value if accessed or the maximum (minimum) value if not accessed. Thus, this model controls for the amount of information accessed per alternative and reduces the penalty for attributes that are not accessed. ",
+    "bbox": [
+      505,
+      108,
+      929,
+      361
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The fit and parameter estimates for the Inferred Attributes model are also found to be worse than M1B.7 A potential explanation for why there is no impact of modeling the attribute as zero versus a positive value in the Inferred Attributes model is as follows. Attributes A2, A3, A4, A7, and A9 do not vary across the products and, consequently, whether we assume the value is 0 or the maximum (or minimum) for information not accessed (incidentally the amount of information not accessed is high, see Table 1 Panels B–E), the values for all alternatives on these five remain the same. In addition, many shoppers purchase the lower priced alternative (alternative 1), because they are price sensitive, i.e., they are less concerned about higher priced alternatives (alternatives 2 and 3) and their attribute levels other than price. If such attribute levels are not accessed for higher priced alternatives (see Table 1 Panels D and F) whether one assumes a value of 0 or the maximum (or minimum) value for the higher priced alternatives it does not matter because the higher priced alternative is not chosen. Additionally, these results further support the idea that tracking the information accessed is critically important to getting useful parameter estimates. ",
+    "bbox": [
+      505,
+      364,
+      929,
+      678
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Endogenous Information Access ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      703,
+      724,
+      716
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "It is possible that consumers access more cells of alternatives for which they have a greater preference making cell clicks depend upon the previously uncovered information about an alternative. In other words, the attribute values that enter the choice model also depend upon preference and not modeling consumer information access jointly with the final choice decision can create an endogeneity problem that can bias the parameter estimates. ",
+    "bbox": [
+      507,
+      717,
+      929,
+      837
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "To explore this possibility, we extended model M1B to take into account a person's entire clicking history in addition to the final choice decision. Let $n$ represent the total number of cells opened by the consumer at a particular point in the process, $j$ and $k$ represent the column and row for an unopened cell $\\mathrm { C } _ { j k } ,$ and let $O _ { j k } ^ { n }$ be the propensity to open this cell. The utility in Equation 1, $U _ { j k } ^ { n } ,$ is re-specified to be updated upon every click, resulting in a dynamic choice probability $P r o b ( i j ) ^ { n }$ . ",
+    "bbox": [
+      505,
+      838,
+      927,
+      897
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "7 In addition, we tested a model wherein the value of attributes not accessed was set to the average value of the attribute. The resulting log-likelihood of the model, while better than the benchmark models, was inferior to M1A and M1B. ",
+    "bbox": [
+      504,
+      912,
+      929,
+      949
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "6 We performed a simulation to test whether M1B is able to recover the underlying choice parameters. Specifically, we used a known vector of utility weight parameters $( \\beta _ { k } )$ to simulate a single choice for every consumer in the sample based on the actual search pattern used by that consumer. We then estimated the corresponding model on this set of simulated choice data, and repeated the data generation and estimation process 200 times to confirm that we were able to recover the $\\beta _ { k }$ that had generated the choices. ",
+    "bbox": [
+      53,
+      862,
+      477,
+      949
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      59,
+      678,
+      69
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      67,
+      68
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      70,
+      92,
+      492,
+      151
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Cell opening endogeneity is captured by making the opening propensity of an unopened cell $\\mathrm { C } _ { j k }$ a function of the dynamic choice probability $P r o b ( i j ) ^ { n }$ for that alternative, following the previous behavioral literature on alternative-based processing, and the cumulative number of cells opened in that row until that point, $n u m _ { k } ^ { n }$ , following the previous behavioral literature on attribute-based processing (e.g., see Bettman, Luce, and Payne 1998). In this way, the explicit link between cell opening and product preference or alternative-based processing is captured by the first term while the analogous effect in the horizontal direction or attribute-based processing is captured by the second term. Adding an iid extreme value Type 1 Gumbel error term to each propensity yields a multinomial logit expression for the probability of opening a cell that has not yet been opened. ",
+    "bbox": [
+      70,
+      153,
+      494,
+      375
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "By way of example, consider a person who has opened ten cells $( n = 1 0 )$ ) at a particular point. The uncovered attribute levels yield updated utilities and probabilities for each of the alternative ${ P r o b ( i j ) } ^ { 1 0 }$ while the number of cells opened in each row $k$ is available in $n u m _ { k } ^ { 1 0 }$ . These two values define the cell opening propensities for each one of the 23 remaining cells, $\\bar { O } _ { j k } ^ { 1 0 }$ and, in turn, the corresponding cell-opening probabilities. The parameters of the cell opening model are jointly estimated with the preference parameters of the choice model yielding the endogenous version of M1B.8 ",
+    "bbox": [
+      70,
+      378,
+      494,
+      527
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The parameter values for the coefficients of $P r o b ( i j ) ^ { n }$ and numkn were positive and statistically significant, indicating that consumers are more likely to open cells for products that they like and in rows that they have already opened. Interestingly, the coefficients of the endogenous model, which also incorporates the information accessed by the consumer, also had the right signs underscoring our basic finding that modeling information accessed is better than simply modeling information available. We used the preference coefficients from M1B (endogenous) to calculate the choice likelihood in the calibration and holdout samples but found them to be inferior to those from M1B (exogenous). In summary, M1B (exogenous) based on information accessed by consumers is found to outperform three benchmark models based on the current literature and two additional models based on inferred attributes and endogenous information accessed. ",
+    "bbox": [
+      70,
+      530,
+      494,
+      767
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "A potential explanation for why the original model M1B (exogenous information accessed) does better than M1B (endogenous information accessed) is as follows. The endogenous model needs to fulfill two tasks, (i) predict product choices and (ii) fit the cell opening model. In contrast, the parameters of the exogenous model need only accomplish the sole goal of producing a product choice model with the best estimation sample fit. Because two tasks are more difficult to accomplish than one, consequently, M1B (exogenous information accessed) results in better estimation and validation sample fits than M1B (endogenous information accessed). ",
+    "bbox": [
+      70,
+      771,
+      492,
+      875
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      522,
+      92,
+      944,
+      151
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Discussion ",
+    "text_level": 1,
+    "bbox": [
+      522,
+      167,
+      596,
+      180
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Consumers typically do not access all information at the point-of-purchase due to search costs, information overload, prior knowledge, or heuristic shopping (Bettman, Luce, and Payne 1998; Diehl and Zauberman 2005; Jacoby, Chestnut, and Fisher 1978). Even though previous information processing research has for over forty years recorded the information accessed by consumers in lab settings, this data has not been employed in choice models to infer consumer preferences or predict consumer choices. In contrast, the choice-based conjoint and consider-then choose models in marketing, also for over forty years, have employed the information available on all attributes and alternatives to estimate the parameters of a multi-attribute choice model, while ignoring the information accessed by consumers. ",
+    "bbox": [
+      522,
+      197,
+      946,
+      406
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "We combine important elements of these established research streams by (a) collecting the information consumers' access in an online durable product retail setting and (b) investigating whether incorporating information accessed in such a setting provides more valid diagnostics about attribute preferences and improves model estimation and validation sample fits over those achieved based on information available. We accomplish this by focusing on consumers' choices and what information is accessed, and by making small changes to a manufacturer/retailer's website to obtain information on product-attributes accessed and revealed preferences that are often only obtained through laboratory experiments. ",
+    "bbox": [
+      522,
+      409,
+      946,
+      587
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Our database recorded what attribute information was accessed by 582 shoppers at the point-of-purchase of an electronic manufacturer/retailer's website and found that $4 8 \\%$ of shoppers did not access information on all attributes, $4 9 \\%$ did not access information on all alternatives, and only $9 \\%$ of consumers accessed all feature information available. Most importantly we show that monitoring, recording, and employing the information accessed by the shopper can improve validation sample based forecasts of consumers' choices and provide more valid estimates of consumers' attribute preferences. ",
+    "bbox": [
+      522,
+      590,
+      946,
+      738
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Our research provides a practical model based methodology for managers. It demonstrates the potential for managers to incorporate these relatively inexpensive and straightforward efforts that utilize the authentic shopping behavior of a sample of customers on their retail websites to improve the diagnostics about attribute preferences and predictive accuracy of their marketing models. We show in our data analysis that employing choice models with information available instead of information accessed would lead to harmful recommendations for product design and advertising decisions for attributes A2, A3, A7, and A9, which potentially would decrease product sales. Hence, incorporating information accessed is a first step in focusing on what people are actually doing at the point-of-purchase on the web, subsequent to which diagnostics about attribute preference from choice models utilizing this information should be employed to improve product design, pricing, advertising, and targeting decisions. For example, Mozilla recently tracked which buttons consumers clicked most often on their Firefox toolbar browser to help redesign their Firefox web browser, Microsoft Bing used eye-tracking to analyze the percentage of consumers who look at information beyond the 5th search result in an effort to overhaul their search results display, and The New York Times employed mouse-tracking to investigate consumers viewing patterns on their webpage to assist in their redesign of their webpage. ",
+    "bbox": [
+      522,
+      741,
+      946,
+      949
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "8 We also tested several different specifications for the cell opening model using, different combinations of $n u m _ { k }$ , $\\left( n u m _ { k } \\right) ^ { 2 }$ , Prob(ij) n , $( P r o b ( i j ) ^ { n } ) ^ { 2 }$ , $\\log [ P r o b ( i j ) ^ { n } ]$ , and $( \\log [ P r o b ( i j ) ^ { n } ] ) ^ { 2 }$ . ",
+    "bbox": [
+      68,
+      912,
+      494,
+      950
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      59,
+      695,
+      69
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      92,
+      477,
+      240
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In addition, managers can use information accessed by shoppers to enhance their follow-up communications with shoppers who did not purchase. For example, if managers collect information on which products and attributes were accessed by non-buyers, this information could be employed in follow-up communications by focusing non-buyers on certain alternatives and attributes they accessed and hence demonstrated an interest in. A request to get the non-buyer to just reconsider their decision, or combining the request with an incentive to buy, e.g., a temporary price promotion, could result in a decision to buy, especially for those non-buyers who considered the lowest price alternative on at least one visit to the manufacturer/retailer website. ",
+    "bbox": [
+      53,
+      243,
+      475,
+      437
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The managerial and methodological implications of our findings can also be extended to offline brick and mortar stores. In traditional stores such as Best Buy, often not all information on the product is available on the shelf talker and not all brands and models in a particular category will contain information on the same attributes so that the kind of assessments implied in current choice-based conjoint and consider-then-choose models could be difficult for consumers to accomplish. The consumers may also find all the information too burdensome to process and may sample information selectively and not access all the information on attributes and alternatives as assumed in current state-of-the art choice models. In addition, if the same X-matrix of alternatives and attributes is available to all consumers and if attribute levels are the same across brands and models, standard multinomial logit choice models may produce non-identifiable or counter-intuitive parameter estimates. Thus, our work offers a method for managers to obtain diagnostics and parameter estimates based on the information consumers actually accessed at the point-of-purchase to help overcome such difficulties. ",
+    "bbox": [
+      53,
+      438,
+      477,
+      738
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "A limitation of our research is that in our shopping setting the electronic manufacturer/retailer required that we present three specific existing products to shoppers only for a short 50-hour time period. In other words, we could not employ hypothetical products or show shoppers different sets of existing products to make choices from as is commonly done in CBC studies. Consequently, we are unable to study preferences for new attribute levels or study heterogeneity across consumers on attribute preferences as is possible in CBC studies. ",
+    "bbox": [
+      53,
+      740,
+      477,
+      889
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "However, we are able to observe the information on attributes and products actually accessed by the shopper at the point-of-purchase before making a Customize and Buy decision, and as a result, are able to investigate the relevance of information accessed, relative to information available at the point-of-purchase, in improving inferences from choice models. One direction for future research is to investigate whether data collected using actual products at the point-of-purchase, as we do in this paper, can be combined with data collected using hypothetical product profiles in CBC studies to improve the scope and performance of consumer models. This could allow us to harness the advantage of capturing information accessed in point-of-purchase settings with the advantages of traditional CBC studies. ",
+    "bbox": [
+      53,
+      891,
+      477,
+      949
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      505,
+      92,
+      929,
+      240
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In addition, while randomizing the sequence in which attributes are presented is impossible in a field study (relative to a controlled lab study), any non-random presentation of attributes is common across models and will not benefit one model over another. Another direction for future research is to further enhance the endogeneity model by making the cell opening probability an explicit function of the dynamic search process and incorporating the decision to stop searching into the model. We hope such future research will build on our efforts. ",
+    "bbox": [
+      505,
+      243,
+      929,
+      392
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      505,
+      419,
+      583,
+      432
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Andrews, Rick L. and T.C. Srinivasan (1995), “Studying Consideration Effects in Empirical Choice Models Using Scanner Panel Data,” Journal of Marketing Research, 32, 1, 30–41.   \nBettman, James R. (1979), An Information Processing Theory of Consumer Choice. Reading, Massachusetts: Addison-Wesley Publishing Company. , Mary Frances Luce, and John W. Payne (1998), “Constructive Consumer Choice Processes,” Journal of Consumer Research, 25, 3, 187–217.   \nCurrim, Imran S. (1981), “Using Segmentation Approaches for Better Prediction and Understanding from Consumer Mode Choice Models,” Journal of Marketing Research, 18, 3, 301–9.   \nDhar, Ravi and Stephen M. Nowlis (2004), “To Buy or Not to Buy: Response Mode Effects on Consumer Choice,” Journal of Marketing Research, 41, 4, 423–32.   \nDiehl, Kristin and Gal Zauberman (2005), “Searching Ordered Sets: Evaluations from Sequences Under Search,” Journal of Consumer Research, 31, 4, 824–32.   \nGilbride, Timothy J. and Greg M. Allenby (2004), “A Choice Model with Conjunctive, Disjunctive, and Compensatory Screening Rules,” Marketing Science, 23, 3, 391–406. , and Jeff D. Brazell (2006), “Models for Heterogeneous Variable Selection,” Journal of Marketing Research, 43, 3, 420–30.   \nHensher, David A. (2006), “How Do Respondents Process Stated Choice Experiments? Attribute Consideration Under Varying Information Load,” Journal of Applied Econometrics, 21, 6, 861–78.   \nJacoby, Jacob, Robert W. Chestnut, and William A. Fisher (1978), “A Behavioral Process Approach to Information Acquisition in Nondurable Purchasing,” Journal of Marketing Research, 15, 4, 532–44. , , James J. Jaccard, Imran Currim, Alfred Kuss, Asim Ansari, and Tracy Troutman (1994), “Tracing the Impact of Item-by-item Information Accessing on Uncertainty Reduction,” Journal of Consumer Research, 21, 2, 291–303.   \nJohnson, Eric J., John W. Payne, and James R. Bettman (1988), “Information Displays and Preference Reversals,” Organizational Behavior & Human Decision Processes, 42, 1, 1. , Robert J. Meyer, and Sanjoy Ghose (1989), “When Choice Models Fail: Compensatory Models in Negatively Correlated Environments,” Journal of Marketing Research, 26, 3, 255–70.   \nLancaster, Kelvin J. (1966), “A New Approach to Consumer Theory,” Journal of Political Economy, 74, 2, 132–57.   \nLurie, Nicholas H. (2004), “Decision Making in Information-rich Environments: The Role of Information Structure,” Journal of Consumer Research, 30, 4, 473–86.   \nMalhotra, Naresh K., Arun K. Jain, and Stephen W. Lagakos (1982), “The Information Overload Controversy: An Alternative Viewpoint,” Journal of Marketing, 46, 2, 27–37.   \nMintz, Alex, Nehemia Geva, Steven B. Redd, and Amy Carnes (1997), “The Effect of Dynamic and Static Choice Sets on Political Decision Making: An Analysis Using the Decision Board Platform,” American Political Science Review, 91, 3, 553–66.   \nMoorthy, Sridhar, Brian T. Ratchford, and Debabrata Talukdar (1997), “Consumer Information Search Revisited: Theory and Empirical Analysis,” Journal of Consumer Research, 23, 4, 263–77.   \nMusalem, Andrés, Marcelo Olivares, Eric T. Bradlow, Christian Terwiesch, and Daniel Corsten (2010), “Structural Estimation of the Effect of Out-of-stocks,” Management Science, 56, 7, 1180–97.   \nPayne, John W. (1976), “Task Complexity and Contingent Processing in Decision Making: An Information Search and Protocol Analysis,” Organizational Behavior & Human Performance, 16, 2, 366–87. , James R. Bettman, and Eric J. Johnson (1993), The Adaptive Decision Maker. Cambridge, UK: Cambridge University Press.   \nRatchford, Brian T. (1975), “The New Economic Theory of Consumer Behavior: An Interpretive Essay,” Journal of Consumer Research, 2, 2, 65–75.   \nSiddarth, S., Randolph E. Bucklin, and Donald G. Morrison (1995), “Making the Cut: Modeling and Analyzing Choice Set Restriction in Scanner Panel Data,” Journal of Marketing Research, 32, 3, 255–66.   \nSimon, Herbert A. (1956), “Rational Choice and the Structure of the Environment,” Psychological Review, 63, 2, 129–38.   \nWu, Jianan and Arvind Rangaswamy (2003), “A Fuzzy Set Model of Search and Consideration with an Application to an Online Market,” Marketing Science, 22, 3, 411–34. ",
+    "bbox": [
+      504,
+      446,
+      931,
+      949
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      302,
+      58,
+      678,
+      69
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      53,
+      59,
+      67,
+      68
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      68,
+      90,
+      495,
+      291
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      521,
+      90,
+      946,
+      291
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "I.S. Currim et al. / Journal of Interactive Marketing 29 (2014) 11–25 ",
+    "bbox": [
+      319,
+      58,
+      695,
+      69
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      931,
+      59,
+      946,
+      68
+    ],
+    "page_idx": 14
+  }
+]

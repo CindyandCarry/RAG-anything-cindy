@@ -1,0 +1,1160 @@
+[
+  {
+    "type": "text",
+    "text": "HAL archives-ouvertes.fr ",
+    "bbox": [
+      416,
+      48,
+      630,
+      136
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Patterns in Privacy - A Pattern-Based Approach for Assessments ",
+    "text_level": 1,
+    "bbox": [
+      149,
+      262,
+      900,
+      311
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Jörn Kahrmann, Ina Schiering ",
+    "bbox": [
+      368,
+      318,
+      684,
+      337
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "To cite this version: ",
+    "text_level": 1,
+    "bbox": [
+      139,
+      395,
+      378,
+      414
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Jörn Kahrmann, Ina Schiering. Patterns in Privacy - A Pattern-Based Approach for Assessments. Jan Camenisch; Simone Fischer-Hübner; Marit Hansen. Privacy and Identity Management for the Future Internet in the Age of Globalisation: 9th IFIP WG 9.2, 9.5, 9.6/11.7, 11.4, 11.6/SIG 9.2.2, International Summer School, Patras, Greece, September 7–12, 2014, AICT-457, Springer, pp.153-166, 2015, IFIP Advances in Information and Communication Technology (TUTORIAL), 978-3-319-18620- 7. ff10.1007/978-3-319-18621-4_11ff. ffhal-01431571ff ",
+    "bbox": [
+      129,
+      428,
+      942,
+      524
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL Id: hal-01431571 ",
+    "text_level": 1,
+    "bbox": [
+      364,
+      671,
+      631,
+      690
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "https://hal.inria.fr/hal-01431571 ",
+    "bbox": [
+      302,
+      697,
+      694,
+      718
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Submitted on 11 Jan 2017 ",
+    "bbox": [
+      393,
+      727,
+      606,
+      741
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. ",
+    "bbox": [
+      92,
+      802,
+      492,
+      898
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. ",
+    "bbox": [
+      507,
+      802,
+      907,
+      897
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      457,
+      900,
+      541,
+      931
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Distributed under a Creative Commons Attribution| 4.0 International License ",
+    "bbox": [
+      142,
+      934,
+      840,
+      948
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "? ",
+    "bbox": [
+      117,
+      399,
+      132,
+      412
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Patterns in Privacy - A Pattern-Based Approach for Assessments ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      140,
+      785,
+      184
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "J¨orn Kahrmann1 and Ina Schiering2 joern.kahrmann@ostfalia.de 2 i.schiering@ostfalia.de ",
+    "bbox": [
+      372,
+      212,
+      630,
+      228
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      393,
+      239,
+      607,
+      267
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Abstract. The concept of patterns was first developed in the context of architecture and is now widely used in different fields such as software design or workflow design. In the last years the idea of patterns is also used to incorporate privacy in the life-cycle of Information Technology (IT) services. Concerning privacy and security, patterns are mainly used in the design phase of IT services in the form of design patterns. In this paper we propose a pattern-based approach to assess the compliance with privacy regulations continuously during the operation phase of an IT service. The central idea of patterns in this area is to provide an abstract representation of typical automated processing procedures for the processing of personal data. Since these patterns represent abstracted versions of workflows, we use as an illustration diagrams with a notation derived from Business Process Management Notation (BPMN). The aim of the approach presented here is to increase the transparency of assessments for all participants and to allow an easy adjustment of existing assessment results when changes occur. ",
+    "bbox": [
+      264,
+      306,
+      738,
+      526
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Keywords: assessment, BPMN, compliance, IT service, pattern, privacy ",
+    "bbox": [
+      264,
+      541,
+      736,
+      569
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "1 Introduction ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      594,
+      374,
+      613
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Patterns are an important concept in computer science which is widely used especially in the design phase of the software development life-cycle. Beside the very generic design patterns of e.g. Gamma et al. [1], there are also approaches for design patterns in the area of security, privacy, and patterns for workflows. These approaches are described in Section 3. ",
+    "bbox": [
+      220,
+      628,
+      784,
+      703
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In the approach presented here, a concept of patterns is proposed that facilitate assessments concerning the compliance with privacy regulations during the operations phase of IT services. In this context patterns represent abstract versions of workflows with hints concerning typical weaknesses encountered in practice. The potential weaknesses can be used as hints during the interviews of an assessment. Hence processes in organisations that are supported by IT services can be assessed continuously for potential weaknesses. The concept of patterns for assessment is presented in Section 4. Since the concept of patterns presented here is more related to the concept of workflow patterns, the definition of patterns used as a basis in this paper is the definition used also by van der Aalst et al. [2] in the context of workflow patterns. They based their considerations on the definition proposed by Riehle et. al. [3] “A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” ",
+    "bbox": [
+      218,
+      705,
+      784,
+      839
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      220,
+      146,
+      784,
+      205
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The approach of pattern-based assessments was developed in the project “Datenschutz-Cloud”. The concept of patterns as described above is used as a basis for tool-based assessments with a focus on small and medium sized companies (SMEs). The general architecture is presented in Section 5 followed by a description of assessments that are based on the tools developed during the project in Section 6. The technical solution is described in more detail in [4]. Here the focus is on the underlying concept of patterns for assessment. ",
+    "bbox": [
+      220,
+      208,
+      784,
+      313
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Since the project has to adhere to German Data Protection Law [5], we have derived our patterns mainly from the German Federal Data Protection Act (BDSG) and other national laws. Still the patterns are not limited to a German scope since data protection law in European Member States is harmonized via the European Data Protection Directive 95/46/EC [6]. In the near future a General Data Protection Regulation (GDPR) [7], currently under discussion, will have direct effect on data protection in the Member States. This may lead to some refinements of our patterns, but the changes in the European data protection framework won’t require major changes in our approach. ",
+    "bbox": [
+      218,
+      313,
+      784,
+      449
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The aim of the use of pattern as a basis for assessment is to provide transparency in interviews and to support experienced data protection officials in the sense of the BDSG [5] by an effective representation of the central elements of data privacy assessments. The motivation is to provide a compromise between a common thread for the interviews of the assessments and sufficient depth for experienced professionals. The structure, which is based on visualisations of workflows accompanied by a description and hints concerning potential weaknesses, instead of a large amount of questions, also allows adapting the results of the assessment in the case of changes efficiently. This approach is supported by a lightweight tool-set. An overview of existing assessment methodologies and tool support in this area is presented in Section 2. ",
+    "bbox": [
+      218,
+      450,
+      785,
+      614
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "2 Background for Assessments concerning Privacy ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      638,
+      715,
+      656
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The focus of the approach described here is checking for legal compliance concerning privacy in SMEs by assessments. The basis of the investigation is compliance with the German Data Protection Law. In the following we provide an overview of assessments and tools which are present in this context. ",
+    "bbox": [
+      218,
+      672,
+      784,
+      733
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "According to the German Data Protection Law [5] “personal data shall mean any information about the personal or material circumstances of an identified or identifiable natural person (data subject).” Typical examples are name, address, telephone number, and information about bank accounts. Concerning SMEs typical personal data is data concerning customers that are natural persons or data about employees. ",
+    "bbox": [
+      220,
+      734,
+      784,
+      824
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "General principles of German Data Protection Law according to Bizer [8] are ",
+    "bbox": [
+      238,
+      824,
+      784,
+      839
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "– Lawfulness of data collection, processing and use of personal data   \n– Consent of the data subject   \n$-$ Limitation of the purpose Necessity concerning the defined purpose and the retention period   \n– Transparency of data processing for the data subject   \n– Data Security   \n– Control of compliance by data protection officials and supervisory authoritie ",
+    "bbox": [
+      227,
+      146,
+      776,
+      251
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Concerning data security in the Annex to Section 9 of the BDSG, requirements are stated for access control, disclosure control, input control, job control, availability control and separate processing of data collected for different purposes. ",
+    "bbox": [
+      218,
+      262,
+      785,
+      323
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "According to §4d, $\\ S$ 4e BDSG automated processing procedures for personal data must be documented. This is typically realised in the form of a directory of automated processing procedures. Examples of automated processing procedures are payroll accounting, customer relationship management, application procedure, and time reporting of employees. ",
+    "bbox": [
+      218,
+      324,
+      784,
+      398
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In §4f BDSG it is stated that private bodies are obliged to appoint a data protection official if at least 10 employees are carrying out the automatic processing of personal data. The data protection official of the company provides access to the directory of automated processing procedures. To create and update this directory, typically assessments are used to assess the compliance of automated processing procedures with privacy regulations, document weaknesses and give advice concerning measurements which should be applied. ",
+    "bbox": [
+      218,
+      400,
+      784,
+      503
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Assessments employed for this aim are focussed on checking for the compliance of processes and supporting IT services in the operation phase, i.e. after the initial roll-out or after changes. Examples are the privacy module of IT Grundschutz of the Federal Office for Information Security (BSI) [9] or a variant targeted for SMEs called ISIS12 [10]. For these assessments verinice $^ 3$ can be used as a tool to manage questionnaires. Beside this there exist other tools like 2B Secure $^ 4$ or $p r i v a c y G U A R D ^ { 5 }$ which are mainly based on questionnaires. With a focus on cloud services there exists also the tool $C A R i S M A$ [11] that is based on the risk model of the IT Grundschutz catalogues and uses ontologies to derive questionnaires from legal regulations. ",
+    "bbox": [
+      218,
+      505,
+      784,
+      655
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "All these assessments and tools intend to give a complete and detailed guideline how to check for weaknesses concerning data privacy and security. That is very important for skill training and to build up experience. But experts in the field tend to derive from their experience a very personal style to conduct interviews. That is a normal development, but it makes it difficult to work in teams with a comparable approach for assessments. Here the intention is to provide an assessment methodology based on patterns that supports experienced data protection officials in the assessment process and proposes a general structure for interviews. ",
+    "bbox": [
+      218,
+      656,
+      784,
+      790
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "3 http://www.verinice.org/ 4 http://www.2b-advice.com/ 5 http://www.privacyguard.de/ ",
+    "bbox": [
+      220,
+      797,
+      444,
+      839
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Another important aspect for data protection officials is to keep track of changes concerning workflows and technologies efficiently. When the initial analysis was based on a large questionnaire it is a complex task to update these initial answers continuously, since a change might have various implications. The model proposed here addresses the adaptation to changes by modelling the status in the form of a graph. In a connected model it is easier to identify implications of changes. ",
+    "bbox": [
+      218,
+      146,
+      785,
+      252
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The concept of Privacy Impact Assessments (PIAs), mentioned as Data Protection Impact Assessment in §33 GDPR, has a different focus. A PIA is integrated in the risk management process of projects or the development process of a product. But beside a PIA there are other means needed to check for compliance during the operation phase as referred to in §33 GDPR. The CORAS approach [12], [13] also addresses risk management. It is based on Unified Modelling Language (UML) models, where risks are modelled individually based on the concrete service and its environment. This approach allows also for easy adjustment of models. Whereas the focus of CORAS is modelling of individual risks, the focus of the approach presented in this paper is on checking for compliance. Instead of modelling individual situations, abstract standard models for workflows with typical weaknesses are used in the form of patterns as a basis for all assessments. ",
+    "bbox": [
+      218,
+      253,
+      784,
+      449
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "3 Existing Pattern Concepts ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      476,
+      508,
+      492
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The idea of patterns was first proposed by Alexander et al. [14] who investigated the use of design patterns in architecture. Gamma et al. transferred these ideas to software engineering [1]. According to Buschmann et al.[15] a design pattern “provides a scheme for refining the subsystems or components of a software system, or the relationships between them. It describes a commonly recurring structure of communicating components that solves a general design problem within a particular context”. In software design, patterns are formulated in the form of Unified Modelling Language (UML) diagrams as an illustration augmented with a documentation consisting of the name, the addressed problem, the solution and consequences. UML diagrams are well understood and lead therefore to transparency and ease of use of patterns. These design patterns are widely used and accepted as guidelines for good software architecture. The patterns are organised typically in the form of a hierarchical structure. ",
+    "bbox": [
+      218,
+      511,
+      784,
+      707
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A similar approach is followed by van der Aalst et al. [2] for workflow patterns which are design patterns in the area of workflow design6. There petri nets are used as a visualisation accompanied by a documentation with a similar structure as for software design patterns. In a recent approach for design patterns for social applications by Bramilla et al. [16] BPMN is used as a visualisation of social interactions. All these approaches for design patterns organise the patterns in the form of a catalogue which constitutes a hierarchical structure for patterns. ",
+    "bbox": [
+      220,
+      708,
+      784,
+      813
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "6 http://www.workflowpatterns.com/ ",
+    "bbox": [
+      222,
+      825,
+      482,
+      839
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There are several approaches to transfer the idea of patterns to the field of security and privacy. There are approaches proposed by Hafiz [17] to formulate Privacy Enhancing Technologies (PETs) in the form of patterns as part of a pattern language for security [18]. Since patterns as “oblivious transfer” and “random wait” are difficult to visualise, patterns in this field consist of a thorough description. The patterns are organised in the form of a hierarchical pattern language, which is an acyclic graph where abstract patterns lead to more concrete patterns. For an overview how privacy design patterns are integrated in the software development life-cycle and incorporated in a system of design strategies see Hoepman [19]. ",
+    "bbox": [
+      217,
+      146,
+      785,
+      296
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Another approach by Doty and Gupta describes good practices for concrete aspects in the form of privacy patterns7. In [20] in addition risks caused by the wrong application of patterns are investigated. ",
+    "bbox": [
+      217,
+      299,
+      787,
+      343
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "4 Patterns for Assessments ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      369,
+      495,
+      386
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/63c622498ca356fdef6b6b1c3ff9218c6c38240b02bd0b67109b96a13679f2c6.jpg",
+    "image_caption": [
+      "Fig. 1. Time reporting "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      230,
+      433,
+      779,
+      705
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "The definition for patterns, used also in van der Aalst et al. [2], by Riehle et. al. [3] “a pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts”, is used for the approach of assessment patterns presented here. As a visualisation for abstracted workflows for automated processing operation, a notation based on Business Process Management Notation (BPMN) [21] is adapted. ",
+    "bbox": [
+      218,
+      768,
+      785,
+      813
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "7 http://privacypatterns.org/ ",
+    "bbox": [
+      220,
+      825,
+      444,
+      840
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      784,
+      191
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The patterns for assessment represent abstracted versions of typical workflows, used for automated processing procedures concerning the processing of personal data in the sense of the German Data Protection Law [5]. Instead of modelling individual workflows in organisations, these abstract patterns should be usable in a broad range of situations. ",
+    "bbox": [
+      218,
+      195,
+      785,
+      270
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "BPMN diagrams of abstract workflows are augmented by information about weaknesses with respect to the activities. Possible weaknesses are denoted in the form of an ellipse that is connected via a dotted line to an activity. Weaknesses can occur at several activities, and several possible weaknesses can be connected to one activity. A description is added to workflows and specific weaknesses. For a proof of concept of the tool-set, automated processing operations of SMEs are used. A typical example is e.g. time reporting of employees performed by an IT service or by a paper based approach (Figure 1). ",
+    "bbox": [
+      217,
+      273,
+      785,
+      395
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Another example for an automated processing operation in the sense of BDSG is that companies are obliged to report about the health of employees in the form of a so called health rate (Figure 2). In both examples of patterns there are typical weaknesses proposed, as role based access control is not sufficient, and the transmission path is not sufficiently secured. Concerning the health rate it is important to ensure the anonymity of employees. ",
+    "bbox": [
+      218,
+      397,
+      785,
+      488
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/cb8d734f4518fcd421d539680fa8827f815e79f9574aa901eda36abf39bab52c.jpg",
+    "image_caption": [
+      "Fig. 2. Health rate "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      225,
+      523,
+      779,
+      669
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In addition to the automated processing operations, based on the Annex to Section 9 of the BDSG also requirements concerning data security have to be checked during the assessment. There typically a list of aspects have to be ensured. Since these aspects as e.g. access control for buildings or special areas in a building are often not connected to automated processing operations for personal data, a visualisation derived from BPMN diagrams is used with a central activity denoting the area surrounded by several possible weaknesses. ",
+    "bbox": [
+      218,
+      733,
+      785,
+      839
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/cd37b988c70a1f41bcb1f87496f3cfada679d0b9db4a186a1eb47020d906976b.jpg",
+    "image_caption": [
+      "Fig. 3. Access control "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      287,
+      147,
+      714,
+      290
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "These patterns constitute a knowledge pool that can be used for assessment. Patterns are organised in the form of a patterns pool. This is a collection of patterns with a hierarchical structure based on the idea that patterns should facilitate the interviews in assessments. Hence they are ordered by the roles of interview partners and the automated processing procedures they illustrate. Since this collection is not intended to be complete, but to be augmented whenever there are important new variants of processes and IT services, it is called a pool and there is a backend service that allows to add patterns, weaknesses and measurements to this pattern pool. ",
+    "bbox": [
+      218,
+      353,
+      785,
+      489
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "This pattern pool is integrated in a mobile client as a basis for assessments where weaknesses of specific organisations can be marked and annotated in the representation of the patterns which are used. ",
+    "bbox": [
+      220,
+      491,
+      784,
+      535
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "After the assessment the result is transferred to a backend service that facilitates the investigation of the assessment result based on the analysis of former assessments and allows the assignment of measurements to the specific weaknesses encountered during the assessment. ",
+    "bbox": [
+      218,
+      536,
+      784,
+      595
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "5 Architecture ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      622,
+      374,
+      640
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The tool-set that supports the use of the patterns presented above consists of a mobile client for assessments, a web client for the management of the pattern pool and a web client for associating measurements to weaknesses in the graph resulting from the interviews of the assessment. The web clients together with the pattern pool are called the backend of the tool-set in contrast to the frontend which is the mobile client that supports the interviews of the assessment. ",
+    "bbox": [
+      218,
+      657,
+      785,
+      747
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "The communication between backend and frontend is realised in the form of JavaScript Object Notation (JSON) data structures. The visualisations of patterns are stored and transferred as Scalable Vector Graphics (SVG). The mobile client is an HTML5 client that creates the representation of the assessment dynamically from the JSON data structures representing the pattern pool and if applicable combined with the results of the last assessment. ",
+    "bbox": [
+      218,
+      750,
+      785,
+      839
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/4bbedf2ccf572a609a6b840408ce2b1da54173f88f9f09c41bebf25c1d36e4f1.jpg",
+    "image_caption": [
+      "Fig. 4. System overview "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      295,
+      147,
+      720,
+      486
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The result of the interviews is a data structure consisting of the applicable patterns and the identified weaknesses as nodes. If a weakness is present in a patterns, there is an edge connecting the pattern and the weakness. Hence in the case of common weaknesses like inadequate role based access control it is transparent if the weakness occurs only in special cases or if a general concept is lacking. ",
+    "bbox": [
+      218,
+      547,
+      785,
+      638
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "6 Tool-Based Assessments ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      664,
+      485,
+      681
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "In the following the components of the architecture described above are detailed based on the use cases concerning the pattern pool, the mobile client and the investigation after the interview. ",
+    "bbox": [
+      218,
+      696,
+      785,
+      742
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "6.1 Modelling Patterns in the Pattern Pool ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      767,
+      588,
+      782
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Weaknesses, measurements and workflows based on automated processing operations can be documented in the pattern pool using a web client in the backend of the IT service. Additional documentation for every element can be added. ",
+    "bbox": [
+      218,
+      795,
+      784,
+      839
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "First, all needed weaknesses and measurements are added to the pattern pool and connections to possible measurements are connected to weaknesses. Via the pattern editor (see Figure 5) patterns can be created. Beside the BPMN elements only weaknesses which are already documented in the pattern pool can be used in patterns. ",
+    "bbox": [
+      218,
+      146,
+      785,
+      222
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/085fd9ee009cd9d6da7db2c155698355d73fdf5a9784650ba06b551882b7037e.jpg",
+    "image_caption": [
+      "Fig. 5. Editor for pattern pool "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      222,
+      248,
+      774,
+      492
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "For each workflow it is documented further which automated processing procedure, e.g. time reporting, payroll accounting, is represented and what is the role of the intended interview partner concerning this procedure, e.g. management, IT, human resources. These two categories induce a hierarchical structure on the pattern pool. Categories can be added as needed. ",
+    "bbox": [
+      218,
+      550,
+      785,
+      626
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "6.2 Interviews in Assessment Based on Patterns ",
+    "text_level": 1,
+    "bbox": [
+      217,
+      648,
+      627,
+      662
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "To perform an assessment, the actual pattern pool and (if already existent) in addition the result of the last assessment are transferred to a mobile device. The representation of the pattern pool on the mobile device is used as the common thread for all interviews. ",
+    "bbox": [
+      220,
+      674,
+      785,
+      733
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "After selecting the role of the interview partner, a list of automated processing procedures which are in the responsibility of the role, is presented. If applicable also aspects of data security are included. After choosing an automated processing procedure, a specific pattern can be selected from a list of variants based on the process in the organisation. Since SMEs typically use standard applications and employ relatively simple processes, the list of abstract variants of automated processing procedure according to the experience of the data protection officials in the project stays relatively short and an appropriate abstraction for reuse is possible. ",
+    "bbox": [
+      218,
+      734,
+      785,
+      839
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/80e8d53a47cf7cdaf18e8e4890a913837174966bf0c96d72619fd71b11722f41.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      222,
+      280,
+      758,
+      452
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/d567dec7c3db2f2fb2ad706a526b01dcc71f4e665c85a1fc613c2d3c8421c4da.jpg",
+    "image_caption": [
+      "Fig. 6. Client "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      225,
+      547,
+      738,
+      722
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      217,
+      779,
+      785,
+      808
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Then the pattern as shown in Figure 6 can be used as a transparent basis for the discussion about possible weaknesses. Occurring weaknesses can be selected in connection with the corresponding activity and are highlighted. Additional notes can be introduced for the pattern in general and each identified weakness. ",
+    "bbox": [
+      218,
+      810,
+      785,
+      839
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Ostfalia human resources time registration electronic ",
+    "bbox": [
+      217,
+      145,
+      750,
+      176
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Info ",
+    "bbox": [
+      691,
+      185,
+      736,
+      204
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      784,
+      176
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The mobile client allows an overview which areas are already covered and where weaknesses occurred by marking areas red resp. green. ",
+    "bbox": [
+      218,
+      178,
+      785,
+      207
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "6.3 Associating Measurements to Weaknesses in the Backend ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      228,
+      735,
+      244
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The result of the assessment consists of the patterns, which describe the processes in the company or considered aspects of data security. In addition occurring weaknesses connected to patterns and activities in the pattern with supplementary notes are integrated. Because a weakness that occurs in several patterns is represented by the same element of the pattern pool, the result is a graph where patterns are connected by common weaknesses. ",
+    "bbox": [
+      218,
+      253,
+      785,
+      343
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/legal_7691267/auto/images/43f7c59c30dab792a73fe13e25e61893296f84d2bd87b52b9e0255dc6bb76523.jpg",
+    "image_caption": [
+      "Fig. 7. Overview of results of an assessment with added measurements "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      241,
+      371,
+      738,
+      628
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "This enables the data protection official to get an overview concerning the compliance with privacy regulations. Using a web client in the backend of the tool-set, measurements can be associated to weaknesses from a list of suggestions. The result of the assessment, including the associated measurements, the socalled structure graph, is presented in Figure 7. ",
+    "bbox": [
+      218,
+      689,
+      785,
+      763
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "After the assessment is finished the intention is to generate experience based knowledge from this result without revealing the organisation and specific information about the situation. For this purpose small sub-graphs, so-called analysis graphs, consisting of a weakness with connected patterns and measurements are extracted and stored in a pool of analysis graphs. This knowledge can be used in the analysis phase of assessments. Suggestions for measurements addressing weaknesses in a specific situation are ranked based on a similarity measurement for analysis graphs. This concept has to be evaluated further, when there is an appropriate number of assessments finalised, such that the pool of analysis graphs is sufficiently large. ",
+    "bbox": [
+      218,
+      765,
+      785,
+      839
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      218,
+      146,
+      785,
+      222
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "6.4 Performing Updates of Assessments ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      244,
+      557,
+      260
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Assessments concerning compliance with legal regulations for privacy need to be updated continuously because of changes in processes, IT infrastructure or other changes. For assessments that are based on questionnaires this is an intricate task, since it must be identified on which questions changes have an effect. In the presented approach based on assessment patterns, a connected graph structure of the former status is already present. This result of the last assessment can be used as a base line along with the actual version of the pattern pool on the mobile client for the update. ",
+    "bbox": [
+      218,
+      268,
+      785,
+      390
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Based on this information, changes or extensions can be identified with the interview partners and described in the mobile client with reference to the last status. Also for the association of measurements to weaknesses in the backend, the former choices can be used as a reference. ",
+    "bbox": [
+      218,
+      391,
+      784,
+      449
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "6.5 Discussion of the Approach ",
+    "text_level": 1,
+    "bbox": [
+      220,
+      473,
+      488,
+      488
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The approach of a pattern based assessment in the area of compliance with legal regulations with a focus on SMEs is promising after the assessments performed so far. The tool-set is used by the data protection officials of the project partners. They perform assessments of external organisations with the help of the tool-set presented here already since several months. Based on assessments that need to be performed, the pattern pool is created on demand. At the moment most patterns that are needed in typical SME assessments are already modelled in the pattern pool. But mainly patterns for Business to Business (B2B) scenarios were created. Therefore the consideration of the rights of the data subject, as needed in Business to Customer (B2C) scenarios, is not modelled until now to the full extent. ",
+    "bbox": [
+      218,
+      498,
+      784,
+      662
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "To keep the concept of patterns simple, the case that potentially a measurement can lead to additional weaknesses is not modelled in the tool-set. Hints concerning these situations documented in the description of patterns. When such a situation occurs, the weakness has to be added to the assessment result. ",
+    "bbox": [
+      220,
+      665,
+      784,
+      724
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "7 Conclusion ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      747,
+      357,
+      763
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The proposed concept of patterns for assessment is already used in a prototype of the described tool-set for assessments at SMEs, by a project partner. There also the current pattern pool was developed based on the experience of data protection officials. In the future, the pattern concept, which seems very promising, has to be evaluated further. Beside that, the concept of analysis graphs has to be investigated after an appropriate amount of assessments is performed. ",
+    "bbox": [
+      220,
+      780,
+      784,
+      839
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      217,
+      146,
+      785,
+      176
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "It is an interesting question to what extent the concept of patterns for assessment can be generalised to other fields or larger organisations. There a corporate pattern pool might be needed to model the specifics of the organisation. The question there is to what extent the benefits that are present in the case of SMEs as transparency and a common thread in interviews can be kept while the effort for the modelling of patterns is still reasonable. ",
+    "bbox": [
+      218,
+      178,
+      785,
+      267
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Acknowledgement: This work was supported by the Federal Ministry for Economic Affairs and Energy through the Central Innovation Programme for SMEs (ZIM) (grants KF3081801KM2, KF2842903KM2). ",
+    "bbox": [
+      218,
+      285,
+      784,
+      330
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      218,
+      349,
+      321,
+      367
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "1. Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. Design patterns: elements of reusable object-oriented software. Pearson Education, 1994.   \n2. W.M.P. van der Aalst, A.H.M. ter Hofstede, B. Kiepuszewski, and A.P. Barros. Workflow patterns. Distributed and Parallel Databases, 14(1):5–51, 2003.   \n3. Dirk Riehle and Heinz Z¨ullighoven. Understanding and using patterns in software development. TAPOS, 2(1):3–13, 1996.   \n4. Matthias Rodeck, Caroline Voigt, Arndt Schn¨utgen, Ina Schiering, and Ren´e Decker. Toolgest¨utzte Assessments zu Datenschutz und Datensicherheit in kleinen und mittelst¨andischen Unternehmen,. In GI-Jahrestagung, pages 575–586, 2014.   \n5. Federal Data Protection Act in the version promulgated on 14 January 2003 (Federal Law Gazette I p. 66), as most recently amended by Article 1 of the Act of 14 August 2009 (Federal Law Gazette I p. 2814). http://www.gesetze-im-internet. de/englisch_bdsg/englisch_bdsg.html.   \n6. Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. http://eur-lex.europa.eu/LexUriServ/ LexUriServ.do?uri=CELEX:31995L0046:EN:HTML.   \n7. Proposal for a Regulation of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX: 52012PC0011&from=EN.   \n8. Johann Bizer. Sieben Goldene Regeln des Datenschutzes. Datenschutz und Datensicherheit-DuD, 31(5):350–356, 2007.   \n9. Federal Office for Information Security (BSI). BSI-Standards 100-1 100-2 100-3 100-4, 2008. http://www.bsi.bund.de/EN/Publications/BSIStandards/ BSIStandards_node.html.   \n10. Michael Gruber. Isis12 - Informationssicherheit f¨ur mittelst¨andische Unternehmen. In D-A-C-H Security 2013, N¨urnberg, pages 275 – 282. syssec, 2013.   \n11. Thorsten Humberg, Christian Wessel, Daniel Poggenpohl, Sven Wenzel, Thomas Ruhroth, and Jan J¨urjens. Ontology-based analysis of compliance and regulatory requirements of business processes. In Proceedings of the 3rd International Conference on Cloud Computing and Services Science (Closer 2013), pages 553–561. SciTePress, 2013.   \n12. Siv Hilde Houmb, Folker Den Braber, M Soldal Lund, and Ketil Stølen. Towards a UML profile for model-based risk assessment. In Critical systems development with UML-Proceedings of the UML02 workshop, pages 79–91, 2002.   \n13. Mass Soldal Lund, Bjørnar Solhaug, and Ketil Stølen. Model-driven risk analysis: the CORAS approach. Springer, 2010.   \n14. Christopher Alexander, Sara Ishikawa, and Murray Silverstein. A pattern language: Towns, buildings, construction (center for environmental structure series). 1977.   \n15. Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal, Peter Sommerlad, and Michael Stal. Pattern-oriented software architecture, volume 1: A system of patterns, 1996.   \n16. Marco Brambilla, Piero Fraternali, and Carmen Vaca. BPMN and design patterns for engineering social BPM solutions. In Business Process Management Workshops, pages 219–230. Springer, 2012.   \n17. Munawar Hafiz. A pattern language for developing privacy enhancing technologies. Software: Practice and Experience, 43(7):769–787, 2013.   \n18. Munawar Hafiz, Paul Adamczyk, and Ralph E Johnson. Growing a pattern language (for security). In Proceedings of the ACM international symposium on New ideas, new paradigms, and reflections on programming and software, pages 139–158. ACM, 2012.   \n19. Jaap-Henk Hoepman. Privacy design strategies. In ICT Systems Security and Privacy Protection, pages 446–459. Springer, 2014.   \n20. Nick Doty and Mohit Gupta. Privacy design patterns and anti-patterns patterns misapplied and unintended consequences. http://citeseerx.ist.psu.edu/ viewdoc/summary?doi=10.1.1.385.6907.   \n21. Business Process Model and Notation (BPMN). Version 2.0. Object Management Group specification, 2011. ",
+    "bbox": [
+      223,
+      376,
+      787,
+      840
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      217,
+      147,
+      787,
+      508
+    ],
+    "page_idx": 14
+  }
+]

@@ -1,0 +1,2598 @@
+[
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      93,
+      795,
+      185
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/ca621e2f3b3ada6828c25c9f31475de998bb5f25b155e8e4378dd57b6e34f8c5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      0,
+      301,
+      1000,
+      763
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "United Nations New York, 2019 ",
+    "bbox": [
+      111,
+      845,
+      227,
+      952
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "text_level": 1,
+    "bbox": [
+      114,
+      94,
+      812,
+      183
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Summary ",
+    "text_level": 1,
+    "bbox": [
+      779,
+      291,
+      885,
+      311
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The global growth outlook has weakened amid unresolved trade tensions and elevated international policy uncertainty. Across both developed and developing countries, growth projections for 2019 have been downgraded. Alongside a slowdown in international trade, business sentiments have deteriorated, casting a cloud on investment prospects. In response to softening economic activity and subdued inflationary pressures, major central banks have eased their monetary policy stances. ",
+    "bbox": [
+      129,
+      310,
+      727,
+      422
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "While part of the growth slowdown reflects temporary factors, downside risks remain high. Prolonged trade disputes could have significant spillovers, including through weaker investment and the disruption of production networks. Recent monetary policy shifts have reduced short-term financial pressures, but may further fuel debt accumulation, increasing medium-term risks to financial stability. These persistent macroeconomic risks are compounded by greater frequency and intensity of natural disasters, reflecting the rising effects of climate change. ",
+    "bbox": [
+      130,
+      425,
+      727,
+      555
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In the face of these multifaceted challenges, tackling the current growth slowdown and placing the world economy on a robust path towards the 2030 Agenda for Sustainable Development require more comprehensive and welltargeted policy responses. This should include a combination of monetary, fiscal and development-oriented measures. A coordinated, multilateral approach to global climate policy, including a price on carbon, is an important element of this policy mix. Increasing use of internal $\\mathsf { C O } _ { 2 }$ prices by the private sector indicates some willingness by firms to adapt to expected policy changes. The deterioration in growth prospects of many countries that are already lagging behind poses additional challenges for sustainable development, especially the goal to universally eradicate poverty by 2030. Future progress on poverty reduction will, to a significant extent, depend on the effective management of ongoing urbanization, particularly in Africa and South Asia. ",
+    "bbox": [
+      129,
+      558,
+      727,
+      801
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The present document updates World Economic Situation and Prospects 2019 (United Nations publication, Sales No. E.19.II.C.1), released in January 2019. ",
+    "bbox": [
+      191,
+      892,
+      725,
+      917
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "i ",
+    "bbox": [
+      905,
+      47,
+      915,
+      58
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      155,
+      892,
+      163,
+      901
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Contents ",
+    "text_level": 1,
+    "bbox": [
+      117,
+      98,
+      261,
+      125
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Summary...... ",
+    "text_level": 1,
+    "bbox": [
+      189,
+      150,
+      913,
+      164
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "I. Global macroeconomic trends. ",
+    "text_level": 1,
+    "bbox": [
+      112,
+      172,
+      851,
+      189
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A. Global overview.. ....... 1 ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      200,
+      901,
+      215
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Short-term outlook for the global economy has weakened... ........................................................................ 1   \nSlowdown in world trade activity weighing on global growth... ............................................................................. 4   \nVolatility in global commodity prices persists ..... ................................................................. 4   \nExternal headwinds to growth compounded by domestic factors... ............................................................ 5   \nRenewed weakness in investment may dampen medium-term outlook........ ..................................................... 6   \nGrowth prospects of LDCs have weakened... ....................................................... 6   \nB. Macroeconomic policies and financial markets .. ..................................................... 7   \nMonetary policy stances are shifting... ..................................................................... 7   \nFinancial market conditions have eased, but stability risks remain........... ..................................... 8   \nFiscal policy space is constrained in many countries... ................................. 8   \nC. Risks to the outlook... ............................ 9   \nFurther trade restrictions would hamper global growth.. ................................. 9   \nHigh indebtedness is a key source of vulnerability... .......................... 10   \nClimate risks pose an ever-increasing threat to the global economy .. 10   \nRising number of refugees creates macroeconomic challenges . 11 ",
+    "bbox": [
+      111,
+      207,
+      911,
+      467
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "II. Medium-term sustainable development challenges. 11 ",
+    "text_level": 1,
+    "bbox": [
+      111,
+      472,
+      911,
+      488
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A. Internalising the cost of GHG emissions...... 11   \nCarbon pricing is a key element in addressing climate change . 11   \nEmissions trading systems and carbon taxes are the most common initiatives .. 12   \nMany companies already use internal carbon pricing... 13   \nCarbon pricing would redefine the notion of economic wealth and liabilities .. 14   \nCarbon leakage highlights the need for a multilateral approach .. 14   \nB. Poverty trends, urban-rural divide and sustainable urbanization.. 14   \nWorsening macroeconomic outlook dims prospects for poverty eradication... 14   \nRural-urban poverty gaps are slowly narrowing.. 16   \nSustainable urbanization is vital for future poverty reduction .. 17 ",
+    "bbox": [
+      109,
+      500,
+      915,
+      665
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "III. Economic outlook by regions . .......。 18 ",
+    "text_level": 1,
+    "bbox": [
+      109,
+      672,
+      915,
+      689
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "A. Developed economies .... 18   \nB. Economies in transition.. 20   \nC. Developing countries........ 20   \nAfrica 20   \nAsia 21   \nLatin America and the Caribbean.... 23 ",
+    "bbox": [
+      114,
+      700,
+      910,
+      801
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "iii ",
+    "bbox": [
+      900,
+      47,
+      915,
+      58
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Growth of world output, 2017–2020.. 3 ",
+    "bbox": [
+      205,
+      116,
+      885,
+      132
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "I GDP growth forecasts and revisions for 2019.. 2   \nII Average annual GDP per capita growth by region..... 4   \nIII Contribution to global merchandise import volume growth by region .. ..... 5   \nIV Annual growth of gross fixed capital formation in selected emerging economies... 6   \nV Productivity trends in selected emerging economies.... .........·. 7   \nVI Monetary policy shifts...... 8   \nVII Developing regions’ exports to selected major economies... .... 10   \nVIII Carbon prices, 2019..... .................................. 13   \nIX Geographic composition of poverty increase between 2014 and 2018 .. ........ 15   \nX Rural and urban poverty headcount at national poverty lines, 2012–2014 average .... 16   \nXI Extreme poverty headcount rates and projected changes in urbanization   \n(latest available data) .... ..... 17   \nXII Projected real GDP growth in Africa in 2019, by subregion ... 21   \nXIII Global semiconductor billings vs. East Asia’s exports......... ...... 23 ",
+    "bbox": [
+      158,
+      159,
+      882,
+      390
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Table ",
+    "bbox": [
+      86,
+      97,
+      130,
+      111
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Figures ",
+    "bbox": [
+      86,
+      140,
+      147,
+      156
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "I. Global macroeconomic trends ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      95,
+      549,
+      117
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "A. Global overview ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      136,
+      377,
+      154
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Short-term outlook for the global economy has weakened ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      162,
+      612,
+      180
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The global economy is experiencing a broad-based growth slowdown, reinforcing projections in the World Economic Situation and Prospects (WESP) 2019 that the current growth cycle has peaked. In tandem with slowing industrial production, international trade activity has visibly weakened, reflecting in part unresolved trade disputes between the United States of America and China. Economic sentiment and business confidence indicators have also deteriorated, amid persistently high uncertainty in the international policy environment. In many developed and developing countries, the moderation in gross domestic product (GDP) growth has been more pronounced than expected, as some risks to economic activity materialized. Slowing economic activity and low inflationary pressures have prompted shifts in the monetary policy stances of major central banks. While looser monetary conditions have contributed to some stabilization in global financial markets and capital flows, the world economy continues to face considerable downside risks arising from persistent trade tensions, the build-up of financial imbalances, and intensifying climate change. Against this backdrop, world gross product growth is now expected to moderate from 3.0 per cent in 2018 to 2.7 per cent in 2019 and 2.9 per cent in 2020, reflecting a downward revision from WESP 2019 forecasts released in January (see figure I and table I). ",
+    "bbox": [
+      116,
+      195,
+      728,
+      513
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Amid elevated downside risks, many countries today have limited macroeconomic policy space to mitigate the effects of an adverse shock. The increasingly challenging economic environment is casting a shadow over the prospects for achieving the sustainable development goals (SDGs). GDP per capita growth is expected to remain weak in large parts of Africa, Western Asia, and Latin America and the Caribbean, complicating poverty reduction efforts in these regions (see figure II). In addition, many developing countries continue to face increasing risks from climate change, threatening their economic prospects. These challenges highlight the urgent need to strengthen multilateralism and address existing gaps in development financing.1 ",
+    "bbox": [
+      116,
+      517,
+      728,
+      684
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "1 Financing for Sustainable Development Report 2019 (United Nations publication, Sales No. E.19.I.7). ",
+    "bbox": [
+      153,
+      852,
+      687,
+      864
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Figure I ",
+    "bbox": [
+      86,
+      97,
+      140,
+      109
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "GDP growth forecasts and revisions for 20192, 3 ",
+    "text_level": 1,
+    "bbox": [
+      88,
+      112,
+      418,
+      127
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "A. GDP growth forecasts for 2019 ",
+    "bbox": [
+      88,
+      131,
+      320,
+      145
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/8de94586685b92232ee5b93ae6ca7c2d83e756259452e940608ae483b456ac68.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      86,
+      148,
+      882,
+      439
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "B. Revisions to GDP growth forecasts for 2019 compared to WESP 2019 ",
+    "text_level": 1,
+    "bbox": [
+      86,
+      465,
+      563,
+      479
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/ef7c39713abe26d37ba94ca3ac8832a483f347655d526fd04c90b621e5beedd6.jpg",
+    "image_caption": [
+      "Source: UN/DESA. Note: \\*Less than $\\pm 0 . 2$ percentage points. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      86,
+      487,
+      869,
+      775
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      271,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2 ",
+    "bbox": [
+      86,
+      39,
+      96,
+      49
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "2 The designations employed and the presentation of material on these maps do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon by the parties. Final boundary between the Republic of Sudan and the Republic of South Sudan has not yet been determined. A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas). 3 The maps represent countries and/or territories or parts thereof for which data is available and/or analysed in World Economic Situation and Prospects 2019. The shaded areas therefore do not necessarily overlap entirely with the delimitation of their frontiers or boundaries. ",
+    "bbox": [
+      122,
+      827,
+      887,
+      933
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/fbe9e86dcd02b4337f1cc66c6ee15051e015dbad67ee53db61569059288148d2.jpg",
+    "table_caption": [
+      "Table I Growth of world output, 2017–2020 "
+    ],
+    "table_footnote": [
+      "Source: UN/DESA. a Partly estimated. b UN/DESA forecasts. c Fiscal year basis. d Includes goods and services. "
+    ],
+    "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4> Annual percentage change</td><td rowspan=1 colspan=2>ChangefromWESP 2019 January forecast</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2017</td><td rowspan=1 colspan=1>2018</td><td rowspan=1 colspan=1>2019b</td><td rowspan=1 colspan=1>2020b</td><td rowspan=1 colspan=1>2019</td><td rowspan=1 colspan=1>2020</td></tr><tr><td rowspan=1 colspan=1>World</td><td rowspan=1 colspan=1>3.1</td><td rowspan=1 colspan=1>3.0</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>2.9</td><td rowspan=1 colspan=1>-0.3</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>Developed economies</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>2.2</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>-0.3</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>United States of America</td><td rowspan=1 colspan=1>2.2</td><td rowspan=1 colspan=1>2.9</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>2.1</td><td rowspan=1 colspan=1>-0.2</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>Japan</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>0.8</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>-0.6</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>European Union</td><td rowspan=1 colspan=1>2.4</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>1.5</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>-0.5</td><td rowspan=1 colspan=1>-0.3</td></tr><tr><td rowspan=1 colspan=1>EU-15</td><td rowspan=1 colspan=1>2.2</td><td rowspan=1 colspan=1>1.7</td><td rowspan=1 colspan=1>1.3</td><td rowspan=1 colspan=1>1.6</td><td rowspan=1 colspan=1>-0.5</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>EU-13</td><td rowspan=1 colspan=1>4.7</td><td rowspan=1 colspan=1>4.3</td><td rowspan=1 colspan=1>3.6</td><td rowspan=1 colspan=1>3.4</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>Euro area</td><td rowspan=1 colspan=1>2.4</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>1.4</td><td rowspan=1 colspan=1>1.6</td><td rowspan=1 colspan=1>-0.5</td><td rowspan=1 colspan=1>-0.3</td></tr><tr><td rowspan=1 colspan=1>Other developed countries</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>2.1</td><td rowspan=1 colspan=1>2.2</td><td rowspan=1 colspan=1>-0.2</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>Economies in transition</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>-0.3</td></tr><tr><td rowspan=1 colspan=1> South-Eastern Europe</td><td rowspan=1 colspan=1>2.4</td><td rowspan=1 colspan=1>3.9</td><td rowspan=1 colspan=1>3.4</td><td rowspan=1 colspan=1>3.2</td><td rowspan=1 colspan=1>-0.3</td><td rowspan=1 colspan=1>-0.5</td></tr><tr><td rowspan=2 colspan=1>Commonwealth ofIndependent States and Georgia</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>-0.1</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>Russian Federation</td><td rowspan=1 colspan=1>1.6</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>1.4</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>Developing economies</td><td rowspan=1 colspan=1>4.4</td><td rowspan=1 colspan=1>4.3</td><td rowspan=1 colspan=1>4.1</td><td rowspan=1 colspan=1>4.5</td><td rowspan=1 colspan=1>-0.2</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>Africa</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>3.2</td><td rowspan=1 colspan=1>3.7</td><td rowspan=1 colspan=1>-0.2</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>North Africa</td><td rowspan=1 colspan=1>3.2</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>3.1</td><td rowspan=1 colspan=1>4.2</td><td rowspan=1 colspan=1>-0.3</td><td rowspan=1 colspan=1>0.7</td></tr><tr><td rowspan=1 colspan=1>East Africa</td><td rowspan=1 colspan=1>5.9</td><td rowspan=1 colspan=1>6.1</td><td rowspan=1 colspan=1>6.4</td><td rowspan=1 colspan=1>6.5</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1> Central Africa</td><td rowspan=1 colspan=1>0.1</td><td rowspan=1 colspan=1>1.3</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>0.2</td><td rowspan=1 colspan=1>-1.1</td></tr><tr><td rowspan=1 colspan=1>West Africa</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>3.2</td><td rowspan=1 colspan=1>3.5</td><td rowspan=1 colspan=1>3.6</td><td rowspan=1 colspan=1>0.1</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>Southern Africa</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>1.4</td><td rowspan=1 colspan=1>2.1</td><td rowspan=1 colspan=1>-0.7</td><td rowspan=1 colspan=1>-0.5</td></tr><tr><td rowspan=1 colspan=1>East and South Asia</td><td rowspan=1 colspan=1>6.1</td><td rowspan=1 colspan=1>5.8</td><td rowspan=1 colspan=1>5.4</td><td rowspan=1 colspan=1>5.6</td><td rowspan=1 colspan=1>-0.1</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>East Asia</td><td rowspan=1 colspan=1>6.0</td><td rowspan=1 colspan=1>5.8</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>-0.1</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>China</td><td rowspan=1 colspan=1>6.8</td><td rowspan=1 colspan=1>6.6</td><td rowspan=1 colspan=1>6.3</td><td rowspan=1 colspan=1>6.2</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>South Asia</td><td rowspan=1 colspan=1>6.3</td><td rowspan=1 colspan=1>5.7</td><td rowspan=1 colspan=1>5.0</td><td rowspan=1 colspan=1>5.8</td><td rowspan=1 colspan=1>-0.4</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>India</td><td rowspan=1 colspan=1>7.1</td><td rowspan=1 colspan=1>7.2</td><td rowspan=1 colspan=1>7.0</td><td rowspan=1 colspan=1>7.1</td><td rowspan=1 colspan=1>-0.6</td><td rowspan=1 colspan=1>-0.4</td></tr><tr><td rowspan=1 colspan=1>Western Asia</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>1.7</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>-0.7</td><td rowspan=1 colspan=1>-0.8</td></tr><tr><td rowspan=1 colspan=1>Latin America and the Caribbean</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>-0.6</td><td rowspan=1 colspan=1>-0.3</td></tr><tr><td rowspan=1 colspan=1>South America</td><td rowspan=1 colspan=1>0.6</td><td rowspan=1 colspan=1>0.3</td><td rowspan=1 colspan=1>0.7</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>-0.7</td><td rowspan=1 colspan=1>-0.3</td></tr><tr><td rowspan=1 colspan=1>Brazil</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>1.7</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>-0.4</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>Mexico and Central America</td><td rowspan=1 colspan=1>2.4</td><td rowspan=1 colspan=1>2.3</td><td rowspan=1 colspan=1>2.0</td><td rowspan=1 colspan=1>2.1</td><td rowspan=1 colspan=1>-0.5</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=1 colspan=1>Caribbean</td><td rowspan=1 colspan=1>0.0</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>1.9</td><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>-0.1</td><td rowspan=1 colspan=1>0.5</td></tr><tr><td rowspan=1 colspan=1> Least developed countries</td><td rowspan=1 colspan=1>4.2</td><td rowspan=1 colspan=1>4.8</td><td rowspan=1 colspan=1>4.6</td><td rowspan=1 colspan=1>5.8</td><td rowspan=1 colspan=1>-0.5</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>Memorandum items:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>World traded</td><td rowspan=1 colspan=1>5.3</td><td rowspan=1 colspan=1>3.6</td><td rowspan=1 colspan=1>2.7</td><td rowspan=1 colspan=1>3.4</td><td rowspan=1 colspan=1>-1.0</td><td rowspan=1 colspan=1>-0.5</td></tr><tr><td rowspan=2 colspan=1>World output growth withpurchasing power parity-basedweights</td><td rowspan=2 colspan=1>3.7</td><td rowspan=2 colspan=1>3.6</td><td rowspan=2 colspan=1>3.3</td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=1>-0.3</td><td rowspan=2 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>3.6</td></tr></table>",
+    "bbox": [
+      114,
+      127,
+      910,
+      828
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "3 ",
+    "bbox": [
+      903,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/5be23159a8ae8cb0b11cabfe11d9cfa8af1748265a341c9c21e642f061f5e6c7.jpg",
+    "image_caption": [
+      "Figure II Average annual GDP per capita growth by region "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      266,
+      130,
+      883,
+      473
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Slowdown in world trade activity weighing on global growth ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      493,
+      789,
+      511
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The weaker growth outlook across most regions is attributable to a confluence of external and domestic factors. On the external front, persistent trade tensions and higher tariffs have weighed on the trade performance of many developed and developing countries. Rising barriers to trade have not only directly impacted global trade flows, but have also increased uncertainty, affecting business and consumer confidence. ",
+    "bbox": [
+      272,
+      518,
+      883,
+      602
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "As a result, global merchandise trade volume growth has slowed more sharply than expected, particularly in late 2018 and early 2019 (see figure III). Data from the United States Census Bureau showed that bilateral merchandise trade between the United States and China has declined by more than 15 per cent since September 2018, when the second round of tariffs came into effect. This has also impacted global value chains in East Asia and other trading partners. ",
+    "bbox": [
+      272,
+      603,
+      883,
+      703
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Volatility in global commodity prices persists ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      723,
+      673,
+      741
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Elevated trade-related headwinds have been compounded by continued volatility in global commodity prices. Oil prices have recovered from the recent lows in December 2018, with the Brent spot price reaching $\\$ 75$ per barrel in April 2019. The assumptions underlying the economic forecasts in this report are for Brent spot prices to average $\\$ 65.5$ in 2019 and $\\$ 65$ in 2020. However, these assumptions are subject to high uncertainty. With global oil demand expected to decelerate and United States crude oil production growing, an effective extension of the OPEC-led production agreement is a key determinant of crude oil prices in 2019. Significant supply disruptions and a spike in oil prices due to geopolitical ",
+    "bbox": [
+      272,
+      748,
+      883,
+      882
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "4 ",
+    "bbox": [
+      86,
+      39,
+      96,
+      47
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA. Note: 2018 figures are estimates; 2019–2020 figures are projections. ",
+    "bbox": [
+      91,
+      372,
+      246,
+      424
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/aad31bc5f7eacd3803bab71fe58890f554bbf45f51d24032375c6d5fbb6d1fa0.jpg",
+    "image_caption": [
+      "Figure III Contribution to global merchandise import volume growth by region "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      111,
+      128,
+      728,
+      421
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA, based on data from CPB Netherlands Bureau of Economic Policy Analysis. ",
+    "bbox": [
+      753,
+      297,
+      903,
+      344
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Note: Regional groupings are not strictly comparable with those used in WESP, but illustrate regional tendencies. ",
+    "bbox": [
+      753,
+      348,
+      908,
+      396
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "factors remain possible, given the situation in the Islamic Republic of Iran, Libya and the Bolivarian Republic of Venezuela. Among other commodities, agricultural commodity prices are generally expected to remain weak in the near term. However, localized spikes of food prices in parts of Western Asia and Africa due to weather-related shocks and conflicts cannot be ruled out. ",
+    "bbox": [
+      116,
+      436,
+      728,
+      520
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "External headwinds to growth compounded by domestic factors ",
+    "text_level": 1,
+    "bbox": [
+      192,
+      541,
+      655,
+      558
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Growth projections for 2019 have been revised downward in all major developed economies. In the United States, the growth momentum is projected to moderate as headwinds from trade policy are compounded by the waning effects of fiscal stimulus. In Europe, while the effects of auto production disruptions are expected to dissipate, economic activity will be dampened by weaker confidence, softer external demand and prolonged uncertainty surrounding Brexit developments. In Japan, weak external demand has weighed on investment in the manufacturing sector, while household consumption remains sluggish. ",
+    "bbox": [
+      116,
+      565,
+      727,
+      681
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The growth outlook for many developing economies has also weakened. Southern Africa, Western Asia and Latin America and the Caribbean have seen particularly large downward revisions for growth in 2019. The weaker prospects for Southern Africa are attributable to the devastation caused by cyclone Idai, coupled with a subdued outlook for South Africa’s economy, which is severely hampered by power shortages. In Western Asia, growth in Saudi Arabia is projected to slow amid oil production cuts, while Turkey will only gradually emerge from recession, following a sharp contraction in domestic demand in the second half of 2018. The downward revision of the outlook for Latin America and the Caribbean reflects weaker-than-expected activity in the region’s largest economies—Argentina, Brazil and Mexico—and a further severe contraction in the Bolivarian Republic of Venezuela. In contrast, growth prospects remain favourable in other developing regions, most notably East Africa and East Asia. In China, recent policy stimulus measures will largely offset the adverse effects from trade tensions. Despite downward revisions, growth in India remains strong amid robust domestic demand. ",
+    "bbox": [
+      116,
+      684,
+      727,
+      882
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "5 ",
+    "bbox": [
+      903,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      272,
+      94,
+      885,
+      128
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Renewed weakness in investment may dampen medium-term outlook ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      150,
+      854,
+      167
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In the second half of 2018, gross fixed capital formation growth moderated, including in several large developing and transition countries (see figure IV). The prolonged period of high uncertainty in the global policy environment has hampered business sentiments and weighed on capital spending, particularly in trade-oriented sectors. A sharper and more protracted downturn in international trade activity could significantly impact the medium-term growth outlook of trade-dependent economies. ",
+    "bbox": [
+      272,
+      176,
+      885,
+      281
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/8fe4b0ecd0a3381bfa82a4473095e18cf1f5846558c53ef627a8be59ae3d5a47.jpg",
+    "image_caption": [
+      "Source: UN/DESA, based on CEIC and national authorities. ",
+      "Figure IV Annual growth of gross fixed capital formation in selected emerging economies "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      334,
+      883,
+      621
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "In many developing countries, investor confidence has also been adversely affected by elevated domestic policy uncertainties, amid persistent structural challenges. In several large economies, such as Brazil, Mexico and South Africa, the inability to achieve a sustained revival in investment could weigh on already weak long-term productivity growth (see figure V), further impeding their sustainable development prospects. ",
+    "bbox": [
+      271,
+      643,
+      885,
+      731
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Growth prospects of LDCs have weakened ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      751,
+      651,
+      768
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Economic projections for the least developed countries (LDCs) have also been downgraded from WESP 2019. After expanding by 4.8 per cent in 2018, GDP growth is projected to decline slightly to 4.6 per cent in 2019, before improving to 5.8 per cent in 2020. Thus, SDG 8.1 (at least 7 per cent annual GDP growth in the LDCs) remains distant. In the near term, living conditions in countries such as Afghanistan, Angola, Burundi, Haiti and Lesotho are expected to improve only slightly. In addition, cyclone Idai has caused ",
+    "bbox": [
+      272,
+      777,
+      883,
+      882
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "6 ",
+    "bbox": [
+      84,
+      39,
+      96,
+      49
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/d60a65f95f9aaeff404cc1d254c71abd5f647408fcf1378cd9d385f3cbd85fb5.jpg",
+    "image_caption": [
+      "Figure V Productivity trends in selected emerging economies "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      127,
+      733,
+      415
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA, based on the Conference Board Total Economy Database™ (Adjusted version), November 2018. ",
+    "bbox": [
+      753,
+      333,
+      893,
+      393
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "a humanitarian crisis in Mozambique, a country that already faces extremely difficult economic conditions, amid a prolonged debt crisis and political instability. Against this backdrop, there are concerns over the capacity to manage mounting public health and food security challenges, and to mobilize financial resources for reconstruction. ",
+    "bbox": [
+      116,
+      438,
+      728,
+      507
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "B. Macroeconomic policies and financial markets ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      531,
+      638,
+      551
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Monetary policy stances are shifting ",
+    "text_level": 1,
+    "bbox": [
+      196,
+      564,
+      455,
+      580
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The slowdown in global economic activity has triggered a shift towards easier monetary policy stances across many developed and developing economies (see figure VI). This shift is taking place in an environment of subdued global inflation, amid weakening demand and a moderate outlook for global commodity prices. Among the developed economies, headline inflation generally remains below central bank targets. Across the developing regions, including Africa and Latin America, inflationary pressures have also eased, in part reflecting more stable exchange rates and improved agricultural production. ",
+    "bbox": [
+      116,
+      594,
+      728,
+      717
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "In March, the United States Federal Reserve (Fed) lowered its expectations from two rate hikes to none in 2019, while maintaining the target range for the federal funds rate at $2 . 2 5 { - } 2 . 5 0 $ per cent. The Fed will also begin to slow the pace of its balance sheet normalization. In efforts to boost credit growth, the European Central Bank (ECB) recently launched a new series of targeted longer-term refinancing operations and delayed any increase in interest rates until at least 2020. Meanwhile, the People’s Bank of China further lowered the reserve requirement ratios for banks in early 2019 to improve domestic liquidity conditions. Given increased uncertainty over growth prospects, a few large developing economies, including Egypt, India and Nigeria, have also reduced their key policy rates. ",
+    "bbox": [
+      116,
+      718,
+      728,
+      891
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "7 ",
+    "bbox": [
+      903,
+      39,
+      913,
+      47
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/77ba0e8e0b93c6acaa531fec398cc7c74023fc89bfb9499a77e904bd81364a73.jpg",
+    "image_caption": [
+      "Figure VI Monetary policy shifts ",
+      "Source: UN/DESA, based on Central Bank News. Note: As of 25 April 2019. Sample covers 95 central banks. ",
+      "Financial market conditions have eased, but stability risks remain "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      269,
+      128,
+      883,
+      416
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Recent monetary policy shifts have helped stabilize global financial conditions and pushed up asset prices. After significant financial pressures in the second half of 2018, capital flows to emerging economies recovered in early 2019, with a modest increase projected for the rest of the year. However, financial markets remain prone to abrupt shifts in investor sentiments and risk assessments. Furthermore, emerging economies continue to face the challenge of translating capital inflows into productive domestic investments. ",
+    "bbox": [
+      272,
+      459,
+      883,
+      559
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The easing of monetary policy may have reduced some short-term risks, but is unlikely to significantly boost domestic demand in countries with highly leveraged household and corporate sectors. Moreover, high policy uncertainty, particularly surrounding unresolved trade disputes and the Brexit process, may also limit the effectiveness of monetary policy. For many economies, a more protracted period of monetary accommodation could exacerbate financial imbalances, thus raising medium-term risks to financial stability. ",
+    "bbox": [
+      272,
+      560,
+      883,
+      676
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Fiscal policy space is constrained in many countries ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      698,
+      718,
+      714
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "As monetary policy space remains limited, more countries worldwide are adopting easier fiscal policy stances to bolster growth. For many economies, however, their ability to introduce large-scale fiscal stimulus measures is limited, given persistent fiscal deficits and elevated public debt levels. For commodity-dependent economies, fiscal space remains constrained as commodity prices are still well below levels seen before 2014. ",
+    "bbox": [
+      272,
+      723,
+      883,
+      805
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The extended period of low global interest rates fuelled increasing borrowing by governments. Many countries have seen a significant rise in interest burdens, undermining governments’ capacities to utilise fiscal policy to pursue development objectives. In 2018, interest payments alone exceeded 20 per cent of government revenue in several countries in Africa, Latin America and South Asia. These countries are also particularly vulnerable to shifts in financial conditions, via a rise in borrowing costs, currency depreciations, or commodity price shocks. Of particular concern is the rising number of low-income countries that are either already facing difficulties in servicing their debt or are at a high risk of debt distress.4 ",
+    "bbox": [
+      272,
+      806,
+      883,
+      873
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "8 ",
+    "bbox": [
+      84,
+      39,
+      96,
+      49
+    ],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      94,
+      727,
+      178
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Given increasing downside risks to growth and limited fiscal resources, policymakers in many countries face the challenge of simultaneously supporting short-term economic activity and preserving fiscal sustainability. In this environment, there is a risk that policymakers would delay structural reform measures necessary to address sustainable development challenges, including eradicating poverty, tackling rising inequality, and enhancing climate change resilience. For most countries, there is a need to improve the efficiency of fiscal spending, channelling expenditure towards measures that will promote more inclusive and sustainable growth prospects. In addition, measures to improve fiscal management are also important to strengthen public finances and preserve confidence. These measures include improving the allocation of expenditure, expanding the tax base, and ensuring that public borrowing is channelled towards productive investment. ",
+    "bbox": [
+      116,
+      180,
+      727,
+      363
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "C. Risks to the outlook ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      387,
+      408,
+      406
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The baseline scenario rests on the assumption that current economic and financial conditions will not deteriorate further. However, with major downside risks prevailing, there is a significant possibility of a sharper slowdown or more prolonged weakness in the global economy that could impact development progress. ",
+    "bbox": [
+      116,
+      417,
+      727,
+      484
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Further trade restrictions would hamper global growth ",
+    "text_level": 1,
+    "bbox": [
+      192,
+      505,
+      588,
+      522
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "A further escalation of trade disputes among the world’s largest economies poses a significant risk for both short and medium-term global growth prospects. Alongside unresolved trade tensions with China, the United States recently signalled its intention to impose additional tariffs on the European Union, primarily targeted at the aircraft and food industries. This is in addition to the imposition of steel and aluminium tariffs that are already in place. The impact of a spiral of additional tariffs and retaliations would not only dampen growth of these large economies, but also have severe spillover effects on the developing economies, particularly those with high export exposure to the impacted economies (see figure VII). ",
+    "bbox": [
+      116,
+      531,
+      727,
+      681
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "In addition to rising global trade tensions, the effectiveness of the present rulesbased multilateral trading system is under threat. The WTO’s dispute settlement process may become constrained by Member States’ failure to fill the vacancies of the Appellate Body, which makes the final binding decisions on appeal cases. As of 1 April 2019, only three body members remain, the minimum number for a quorum to review a case. Since two serving members’ terms end on 10 December, failure to secure new appointments to the Appellate Body would leave the WTO without an appeal function by the end of 2019. Paralysis in the Appellate Body would critically weaken the rules-based multilateral trading system, at a time when the number of active trade disputes has risen significantly. ",
+    "bbox": [
+      116,
+      683,
+      727,
+      833
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "4 International Monetary Fund (2018). Macroeconomic developments and prospects in low-income developing countries. IMF Policy Paper. ",
+    "bbox": [
+      151,
+      852,
+      725,
+      876
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "9 ",
+    "bbox": [
+      903,
+      39,
+      913,
+      47
+    ],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/3af2de3128d8e071c530bf0fdde64631a0b11d18e17b794a9f28f68babde7952.jpg",
+    "image_caption": [
+      "Figure VII Developing regions’ exports to selected major economies "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      269,
+      123,
+      887,
+      468
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA, based on IMF Direction of   \nTrade Statistics, CEIC, IMF   \nWorld Economic Outlook Database April 2019. ",
+    "bbox": [
+      111,
+      333,
+      246,
+      393
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "High indebtedness is a key source of vulnerability ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      486,
+      704,
+      502
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Recent shifts towards more accommodative policies may have lifted investors’ sentiment in the short term. However, the impact on asset prices and risk-taking behaviour could increase financial risks in the medium term. Prolonged loose financial and lending conditions—including lower expectations over the federal funds rate in the medium term—will fuel search-for-yield behaviour, contributing to a further build-up of debt. ",
+    "bbox": [
+      272,
+      511,
+      883,
+      593
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The high level of indebtedness has become a prominent feature of the global economy. The global stock of debt is nearly one-third higher than in 2008 and more than three times the global GDP.5 Elevated levels of debt are not only a financial risk in themselves, but also a source of vulnerability in case of an economic downturn. If the slowdown in the global economy becomes more acute, firms and households may struggle to roll over debt, triggering a disorderly deleveraging process, large corrections in asset prices and spikes in risk aversion. In this context, a particular risk stems from the recent upsurge of leveraged loans in the corporate sector in some developed countries. The global leveraged loan market has grown to about $\\$ 1.3$ trillion, more than double its size a decade ago. In the United States, it now exceeds the size of the high-yield corporate bond market. Rising investor demand, coupled with firms’ willingness to take on more debt, has led to a deterioration in underwriting standards and credit quality of these loans. ",
+    "bbox": [
+      272,
+      594,
+      883,
+      791
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Climate risks pose an ever-increasing threat to the global economy ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      813,
+      828,
+      829
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "In 2018, the average global temperature was the fourth highest since 1880. The 20 warmest years on record have occurred in the past 22 years amid continuously rising $\\mathrm { C O } _ { 2 }$ levels. ",
+    "bbox": [
+      271,
+      838,
+      882,
+      871
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "5 United Nations Conference on Trade and Development (2018). Financing for development: Debt and debt sustainability and interrelated systemic issues. TD/B/EFD/2/2. ",
+    "bbox": [
+      305,
+      888,
+      882,
+      914
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "10 ",
+    "bbox": [
+      88,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "The degree of warming during the past five years has been remarkable, both on land and in the ocean. The last five years now hold the record for the hottest period since modern measurements started. The year 2019 might prove to be warmer still, given forecasted El Niño conditions. In 2019, the level of $\\mathrm { C O } _ { 2 }$ in the atmosphere is projected to witness one of the largest-ever increases in 62 years of measurements.6 A large proportion will remain in the atmosphere for thousands of years. ",
+    "bbox": [
+      116,
+      94,
+      727,
+      193
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The Atlantic hurricane season this year is predicted to be slightly below average, but the impacts of long-term global warming are increasingly present. Last year’s season was the third in a series of above-average seasons, causing damages of about $\\$ 51$ billion.7 There were also devastating floods in India and a major typhoon in the Philippines. The 2018 wildfire season included California’s largest and deadliest wildfire yet and an extremely rare event when wildfires broke out north of the Arctic Circle in Scandinavia. These and other severe costly events made 2018 the fourth-costliest year in terms of insured losses since 1980. Three insurance and reinsurance firms (Aon, Munich Re and Swiss Re) estimate the economic cost of natural disasters in 2018 at $\\$ 155-225$ billion, with only $\\$ 79-90$ billion insured. ",
+    "bbox": [
+      116,
+      194,
+      727,
+      357
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Rising number of refugees creates macroeconomic challenges ",
+    "text_level": 1,
+    "bbox": [
+      192,
+      377,
+      637,
+      395
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The number of conflict-related forcefully displaced persons, including refugees and internally displaced people, is estimated to have continued to rise in 2018. According to the United Nations High Commissioner for Refugees, the number of refugees under its mandate exceeded 20 million in June 2018, while the conflict-related internally displaced population stood at 39.7 million.8 Existing political instabilities and social tensions could lead to a further increase in forcefully displaced people in 2019. Even where high-intensity armed violence has ceased, low-intensity conflict may prevent the forcefully displaced population from returning home. ",
+    "bbox": [
+      116,
+      402,
+      727,
+      535
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "About 95 per cent of conflict-related forcefully displaced persons are hosted in developing countries, pressuring fiscal balances. Despite financial support from the international community, many host countries divert substantial financial resources from already-strained budgets to support forcefully displaced residents. This may impinge on other social provisions as well as on the policy space available to react to external shocks. ",
+    "bbox": [
+      117,
+      535,
+      727,
+      616
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "II. Medium-term sustainable development challenges ",
+    "text_level": 1,
+    "bbox": [
+      192,
+      645,
+      651,
+      689
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "A. Internalising the cost of GHG emissions ",
+    "bbox": [
+      194,
+      704,
+      578,
+      723
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Carbon pricing is a key element in addressing climate change ",
+    "bbox": [
+      194,
+      731,
+      633,
+      747
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "In light of the evident acceleration of climate change, a swift and radical transition away from fossil fuels is needed. This will require a fundamental change in economic decision making and private consumption behaviour. To accelerate this process, governments have several policy options. These include increasing subsidies for clean energy and carbon removal technology, eliminating fossil fuel subsidies, regulating the sources of carbon emissions, implementing stringent energy-efficiency standards, and campaigning to change public opinion and behaviour towards conservation of energy and carbon-rich land cover. However, many believe that these policy options will fall short unless they are supported by carbon pricing. ",
+    "bbox": [
+      117,
+      761,
+      728,
+      827
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "6 Met Office (2019). Faster ${ \\mathsf { C O } } _ { 2 }$ rise expected in 2019, 25 January 2019. 7 Munich Re (2018). Series of typhoons in Japan and two direct hits in the USA – Summary of the 2018 tropical cyclone season. 5 December 2018. 8 United Nations High Commissioner for Refugees (2018). Mid-Year Trends 2018. ",
+    "bbox": [
+      153,
+      843,
+      727,
+      902
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "11 ",
+    "bbox": [
+      897,
+      39,
+      911,
+      49
+    ],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      272,
+      94,
+      882,
+      180
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The objective behind carbon pricing is to fix a fundamental flaw in the economic system. Economic decisions that cause the emission of greenhouse gases (GHGs) create a host of negative effects on the environment. But with no monetary cost accruing to the emitters of GHGs, decisions on the production and consumption of goods and services are based on an artificially low cost of using fossil fuels, compared to a full-cost assessment that is inclusive of these environmental externalities. This means that certain consequences of economic decisions accrue as a negative externality to society at large, but do not feature in the private decision-making by producers and consumers. This understatement of costs has dramatic consequences: certain goods and services are produced and consumed at a quantity that is greater than the environmentally sustainable level. In other words, individual decisions made under the existing incomplete set of price and cost signals lead to high environmental costs to society. ",
+    "bbox": [
+      272,
+      181,
+      883,
+      383
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Carbon pricing makes producers and consumers internalize into their economic decisions what has so far been off-loaded as a negative externality onto society. Creating a market for GHG emissions would essentially establish GHGs as a commodity, whose price has then to be factored into economic decisions. This would shift economic incentives, for example by requiring the calculation of new, adjusted costs along the extraction and consumption chain of fossil fuel-based products. ",
+    "bbox": [
+      272,
+      386,
+      883,
+      488
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Emissions trading systems and carbon taxes are the most common initiatives ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      508,
+      759,
+      545
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "The most common carbon pricing initiatives are emissions trading systems (ETS), where emitters can trade government-issued emission allowances to cover their emission levels, and carbon taxes, which are fees on the carbon content of fossil fuels. Results-based climate financing programs (payments for verified reductions in GHG emissions) and internal carbon pricing (calculation by firms of the cost of using or investing in GHGs) are other initiatives. ",
+    "bbox": [
+      272,
+      554,
+      883,
+      655
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Choosing between different pricing schemes necessarily depends on national priorities, circumstances and political context. Ideas vary widely regarding the best scheme, what targets to set, or how to use collected revenues. Hybrid approaches to carbon pricing, with elements of both an ETS and carbon tax, or complementary use of both systems at the same time, are increasingly frequent. As of May 2018, 45 countries and 25 subnational jurisdictions (cities, states and regions) have carbon pricing initiatives, and more are planned. Prices per ton of $\\mathrm { C O } _ { 2 }$ equivalent currently vary among initiatives between less than $\\$ 1$ and $\\$ 139$ (see figure VIII). Approximately $\\$ 33$ billion were collected as carbon pricing revenues by governments in 2017.9 ",
+    "bbox": [
+      272,
+      657,
+      883,
+      809
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "9 World Bank (2018). State and Trends of Carbon Pricing 2018, Washington, D.C. ",
+    "bbox": [
+      310,
+      862,
+      745,
+      875
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "12 ",
+    "bbox": [
+      88,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/6333fb19ea02c7b8034d2a68e675340dfdb16e3f1989d214a66a944fc2f98fc5.jpg",
+    "image_caption": [
+      "Figure VIII ",
+      "Source: UN/DESA, based on World Bank, Carbon Pricing Dashboard. Note: Nominal prices on 01 February 2019. Prices are not necessarily comparable because of methodical differences and other factors. ETS - emissions trading system; CPF - carbon price floor; RGGI - Regional Greenhouse Gas Initiative; CaT - Cap-and-Trade, CCIR - Carbon Competitiveness Incentive Regulation; \\* Newfoundland and Labrador. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      109,
+      908,
+      540
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Many companies already use internal carbon pricing ",
+    "text_level": 1,
+    "bbox": [
+      192,
+      627,
+      573,
+      645
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In the absence of more widespread market-based carbon pricing, many companies already use a theoretical price on carbon, a “shadow price”, as a risk-assessment tool to evaluate investments and guide business strategy in anticipation of future carbon constraints. Some, including several large international companies, collect a carbon fee from their own business units (e.g., manufacturing division) or activities (e.g., business travel) and direct the revenue to products or projects that help the company meet its climate goals. The cost of complying with regulations is also an implicit internal carbon cost for firms. In 2017, over 1,300 companies, including more than 100 Fortune Global 500 companies, were using some form of internal carbon price to inform their decision-making or were planning to do so in the next two years. This increasing use of internal carbon prices by the private sector provides the opportunity to tackle climate change challenges jointly through public-private cooperation. The Financial Stability Board’s Task Force on Climate-related Financial Disclosures recommendations and UN Global Compact’s Business Leadership ",
+    "bbox": [
+      114,
+      655,
+      728,
+      882
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "13 ",
+    "bbox": [
+      897,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Criteria on Carbon Pricing initiative encourage investors and businesses to disclose their internal carbon prices. ",
+    "bbox": [
+      272,
+      95,
+      882,
+      128
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Carbon pricing would redefine the notion of economic wealth and liabilities ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      148,
+      792,
+      184
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Carbon pricing stands to have a domino effect on corporate behaviour, investor diligence regarding climate change risk and identifying potential stranded assets. It can also support broader outcomes beyond emissions mitigation, such as stimulating low-carbon innovation or tackling other environmental issues such as air pollution. More broadly, creating a market for GHG emissions and establishing it as a commodity would lead to a re-assessment of carbon liabilities, carbon wealth and fossil fuel-based projects. It would also incentivize positive externalities by putting a tangible value on preserving and creating carbon storage capacity, for example, by protecting and expanding forests. This alone could create an entirely new economic paradigm as the economic value of forests, wetlands and other territories rich in carbon capturing potential becomes clearer and rises, helping to preserve and foment carbon sinks. In sum, pricing carbon monetizes emissions and can help shift investments to low-carbon options. It also builds awareness, aligns incentives and promotes greater public buy-in for a country’s sustainability goals. Moreover, by evaluating investments through the lens of a carbon price, governments and companies can avoid investing in assets that would have to be retired early and registered as a loss on balance sheets. ",
+    "bbox": [
+      272,
+      194,
+      882,
+      460
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Carbon leakage highlights the need for a multilateral approach ",
+    "text_level": 1,
+    "bbox": [
+      349,
+      481,
+      805,
+      498
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "To date, carbon pricing tools have been introduced on a very limited and fragmented basis. As initiatives advance along ad hoc, country-by-country or even firm-level approaches, there is a risk of carbon leakage, in the form of the relocation of carbon intensive industries to jurisdictions with more lax regulation, potentially even increasing global emission levels. This “carbon leakage” argument underpins the special treatment (higher share of free allowances) under the European Union (EU) ETS for industrial installations that are considered highly exposed to such risks. ",
+    "bbox": [
+      272,
+      506,
+      882,
+      622
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The potential for carbon leakage highlights the risks of fragmented policy frameworks and the need for a concerted, multilateral approach to carbon pricing. Unified principles and standards would also facilitate aligning carbon pricing with other major policy areas such as trade and international finance. However, absent a global solution, accelerating regional and subregional carbon pricing mechanisms constitutes a second-best alternative given the urgency of the challenge at hand. ",
+    "bbox": [
+      272,
+      625,
+      882,
+      723
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "B. Poverty trends, urban-rural divide and sustainable urbanization ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      747,
+      725,
+      786
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Worsening macroeconomic outlook dims prospects for poverty eradication ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      799,
+      803,
+      834
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Heightened international policy uncertainty and weaker global growth have reinforced concerns that Sustainable Development Goal 1—the universal eradication of extreme poverty by 2030—is becoming increasingly out of reach. Recent empirical evidence shows that many countries have experienced significant setbacks in their fight against poverty over the past few years (see figure IX). This includes several sub-Saharan African economies where poverty levels are already among the highest in the world. In the Democratic Republic of the Congo, Mozambique and Nigeria, for example, the total number of people in extreme poverty—defined as living on less than $\\$ 1.90$ per day—has risen notably since 2014. In Latin America and the Caribbean, the rate of extreme poverty, while still fairly low, edged up between 2014 and 2017 amid deteriorating economic conditions in Argentina, Brazil and the Bolivarian Republic of Venezuela.10 ",
+    "bbox": [
+      274,
+      849,
+      882,
+      881
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      88,
+      39,
+      102,
+      47
+    ],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      114,
+      94,
+      727,
+      242
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/cfc933e4db016a42cfa63e6b8aa3031c23155d2e2197f571963132f6c5fe8cc3.jpg",
+    "image_caption": [
+      "Figure IX Geographic composition of poverty increase between 2014 and 2018 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      117,
+      300,
+      699,
+      609
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "The picture is even more concerning at higher international poverty lines. Global progress in reducing extreme poverty since the 1990s has not been fully matched by declines in the number of people living on less than $\\$ 3.20$ per day or $\\$ 50$ per day.11 This is particularly the case for South Asia and sub-Saharan Africa, which together account for almost 90 per cent of the world’s poor today. It is estimated that in both regions more than four out of five people still live below the $\\$ 5.50$ per day threshold. Hence, while extreme poverty rates have fallen, the bulk of people still face a high level of deprivation. ",
+    "bbox": [
+      116,
+      640,
+      727,
+      756
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA estimates, based on World Bank data. ",
+    "bbox": [
+      753,
+      488,
+      905,
+      512
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Note: The figure only shows data for countries in which the number of poor is estimated to have increased from 2014 to 2018. The total increase in these countries is estimated at around 30-40 million people. ",
+    "bbox": [
+      753,
+      515,
+      905,
+      611
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "10 Economic Commission for Latin America and the Caribbean (2018). Social Panorama of Latin America 2018. (LC/PUB.2019/3-P), Santiago, 2019. 11 World Bank (2018). Poverty and Shared Prosperity: Piecing Together the Poverty Puzzle. Washington, DC: World Bank. ",
+    "bbox": [
+      155,
+      827,
+      727,
+      881
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "15 ",
+    "bbox": [
+      897,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Rural-urban poverty gaps are slowly narrowing ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      97,
+      692,
+      113
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "The vast majority of the poor today still live in rural areas.12 According to recent estimates, the rural poor account for almost 80 per cent of the poor worldwide. In almost all countries, rural poverty rates are still much higher than urban poverty rates (see figure X), although the gap has been gradually narrowing in recent decades amid ongoing urbanization. In a sample of 24 countries, the average rural-urban poverty gap declined by about 5 percentage points between $2 0 0 2 / 0 4$ and 2012/14—from 22 percentage points to 17 percentage points. There are stark regional differences. In South Asia and sub-Saharan Africa, poverty is still overwhelmingly concentrated in rural areas. By contrast, in Latin America and the Caribbean, and East Asia and the Pacific, urban poor now account for more than one third of the total. ",
+    "bbox": [
+      272,
+      122,
+      883,
+      295
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/c9b2a3bb489f1d08ab06ff6ee6966528d13d6dfd2c06fbe1f3ba46af4e360d1e.jpg",
+    "image_caption": [
+      "Figure X Rural and urban poverty headcount at national poverty lines, 2012–2014 average ",
+      "Source: UN/DESA estimates, based on World Bank data. Note: Observations below the 45-degree line represent countries where the rural poverty rate exceeds the urban poverty rate. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      274,
+      372,
+      882,
+      827
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "12 General Assembly Resolution 73/244 of 20 December 2018, Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development. ",
+    "bbox": [
+      310,
+      856,
+      882,
+      881
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "16 ",
+    "bbox": [
+      88,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Rural-urban disparities are even more pronounced when moving beyond purely monetary poverty, as many services are concentrated in cities. Multidimensional poverty measures, which also include measures related to education, access to infrastructure, health and household security, indicate that close to 85 per cent of all poor worldwide live in rural areas.13 ",
+    "bbox": [
+      117,
+      95,
+      725,
+      180
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Sustainable urbanization is vital for future poverty reduction ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      202,
+      629,
+      219
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "How successfully countries address poverty eradication over the coming decades will still depend critically on policies that address rural poverty, such as boosting agricultural productivity, building resilient infrastructure, and strengthening education and health services. Progress in poverty reduction will, however, also be determined by countries’ capacity to manage the ongoing urbanization process and harness its potential for sustainable development. The vital role of urbanization in development has been widely recognized. Spence et al. (2009) state that “we know of no countries that either achieved high incomes or rapid growth without substantial urbanization”.14 Almost all countries that managed to largely eradicate poverty are 40 per cent or more urbanized. While current levels of urbanization in Africa and South Asia are much lower than in the rest of the world, these ",
+    "bbox": [
+      116,
+      228,
+      727,
+      400
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/5e6717cdc1ba011f6c8d5f53c06af476e5825bc425e5b49695179225b97c969e.jpg",
+    "image_caption": [
+      "Figure XI Extreme poverty headcount rates and projected changes in urbanization (latest available data) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      472,
+      728,
+      819
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA estimates, based on World Bank Data; United Nations Population Division, 2018 Revision of World Urbanization Prospects. Note: The extreme poverty headcount rate is based on the USD 1.90 (2011 PPP) poverty line. ",
+    "bbox": [
+      753,
+      616,
+      911,
+      724
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "13 UNDP (2018). Global Multidimensional Poverty Index. 14 M.Spence, P. Clarke Annez, and R. M. Buckley (2009). Urbanization and Growth, Commission on Growth and Development. ",
+    "bbox": [
+      155,
+      838,
+      725,
+      881
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "17 ",
+    "bbox": [
+      897,
+      39,
+      913,
+      47
+    ],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "regions are projected to see the most rapid urbanization going forward.15 Figure XI shows the projected increase in the urbanization rate for the period 2015–2035 for ten countries with high levels of extreme poverty. ",
+    "bbox": [
+      274,
+      95,
+      882,
+      145
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Urbanization offers the potential for significant economic benefits in the form of gains from agglomeration, economies of scale, better infrastructure access and knowledge spillovers. Urban productivity levels not only tend to be higher than rural productivity levels, but may also increase faster, providing workers with higher wages. If managed well, urbanization can lift economic growth, help job creation and reduce poverty. ",
+    "bbox": [
+      272,
+      146,
+      882,
+      226
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "But these gains from urbanization are not guaranteed. Large-scale migration from rural areas into cities only boosts productivity growth when there is enough demand for labour in industrial or higher value-added service sectors. In this context, the low levels of industrialization of many sub-Saharan African countries—and in some cases even premature deindustrialization—are a major concern.16 Given a dearth of formal employment opportunities, urban migrants tend to be absorbed in informal low paid jobs. In addition, the expansion of infrastructure is often not keeping pace with the needs of rapidly growing urban populations, resulting in traffic congestion, housing shortages and proliferation of slums. ",
+    "bbox": [
+      272,
+      228,
+      883,
+      373
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Rapid urbanization, coupled with the changing nature of poverty, entails significant policy challenges. Improved urban planning and better policy coordination between authorities at the national and local level are key for sustainable urbanization. Prioritizing efforts to expand decent housing helps to raise living standards, while also promoting economic development. With risks from climate change and natural disasters rising, strengthening urban resilience is also indispensable. In this regard, the expansion of public transportation infrastructure is important to alleviate congestion and reduce emissions, while also providing the urban poor with access to higher paid employment opportunities within their cities. ",
+    "bbox": [
+      272,
+      375,
+      883,
+      522
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "III. Economic outlook by regions ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      550,
+      694,
+      571
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "A. Developed economies ",
+    "text_level": 1,
+    "bbox": [
+      352,
+      588,
+      586,
+      606
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Economic sentiment indicators in the United States deteriorated in early 2019, as tangible impacts from tariff hikes and trade tensions materialized, and consumer confidence was buffeted by the longest federal government shutdown in history. The Congressional Budget Office estimates that the 5-week shutdown, which impacted 800,000 federal employees, reduced the level of GDP in the first quarter of 2019 by 0.2 per cent, although much of this will be recovered later in the year. ",
+    "bbox": [
+      272,
+      613,
+      883,
+      710
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "The United States’ GDP is projected to grow by 2.3 per cent in 2019—down from 2.9 per cent in 2018 and a projection of 2.5 per cent in the WESP 2019—as the effects of fiscal stimulus measures wane and export growth is hampered by ongoing trade disputes. In 2020, GDP growth in the United States is expected to moderate further to 2.1 per cent. ",
+    "bbox": [
+      272,
+      710,
+      883,
+      792
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "15 Revision of World Urbanization Prospects 2018 (United Nations publication, available from population.un.org/wup). 16 D. Rodrik (2015). Premature Deindustrialization, John F. Kennedy School of Government, Harvard University. ",
+    "bbox": [
+      310,
+      813,
+      883,
+      867
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "18 ",
+    "bbox": [
+      88,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "In Canada, GDP is forecast to grow by 1.8 per cent in 2019 and 2.0 per cent in 2020. Oil production cuts in Alberta, the impact of higher interest rates on the housing and automobile sectors, and tariffs on the exports of steel and aluminium to the United States all restrained activity in the first months of 2019. ",
+    "bbox": [
+      117,
+      95,
+      725,
+      160
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "The slowdown in economic growth, coupled with muted inflationary pressures, has prompted both the Federal Reserve and Bank of Canada to put interest rate rises on hold. Nonetheless, headline unemployment rates in North America hover close to the lowest rates recorded in the last 40–50 years. ",
+    "bbox": [
+      117,
+      161,
+      725,
+      226
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Japan’s growth forecast for 2019 has been revised down from 1.4 per cent to 0.8 per cent. The revision reflects weakening external demand. On a year-on-year basis, exports declined in the first months of 2019, notably to China. This has significantly hampered intentions for capacity-enhancing investments in the manufacturing sector. Amid stubbornly weak wage growth, private consumption is expected to remain sluggish. To cope with growing labour shortages, Japan recently relaxed its highly restrictive immigration policies. ",
+    "bbox": [
+      116,
+      227,
+      725,
+      342
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "The forecasts for Australia and New Zealand are also revised down slightly. Australia’s economy slowed in the fourth quarter of 2018 due to a sharp decline in private investment. Despite fiscal stimulus measures, a further slowdown is expected in line with the stagnating housing sector. New Zealand also faces decelerating domestic and external demand. The Reserve Bank of New Zealand has hinted at monetary easing in 2019. Both Australia and New Zealand are expected to be influenced by weaker demand from their major trading partners, particularly China and EU countries. ",
+    "bbox": [
+      117,
+      342,
+      725,
+      457
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "The EU is projected to expand by 1.5 per cent in 2019 and 1.8 per cent in 2020. This constitutes a downward revision compared to the previous forecast, as the trade-related downside risks attached to the last baseline forecast have started to materialize. By contrast, private consumption remains relatively robust. Solid labour market conditions underpin upward wage pressure, which together with subdued inflation rates supports household purchasing power and private consumption spending. In addition, the ECB has postponed any withdrawal of its accommodative policy stance, which has supported investment and the construction sector in various countries. The risks to the baseline outlook remain unchanged in nature, although their magnitude has shifted. The trade picture is already having a tangible negative impact on economic performance, with risks of a further deterioration in global trade conditions. The ECB’s challenge of how to eventually exit its accommodative policy stance has become even more pronounced, while the euro area continues to face the unresolved problem of how to achieve and maintain a common fiscal policy stance in the absence of a more institutionalized policy framework. Finally, the postponement of the United Kingdom’s exit from the EU without clarification as to the way forward has increased the risk of a disorderly separation. This could have severe negative consequences in the form of a disruption or even breakdown in trade flows to and from the United Kingdom. ",
+    "bbox": [
+      116,
+      457,
+      725,
+      752
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Those members of the EU that have joined since 2004 (EU-13) are expected to sustain growth rates above the EU average. However, the rate of expansion is expected to moderate in 2019, reflecting labour shortages, rising inflation and tighter monetary conditions in some countries. The excessive concentration of the industrial sector in Central Europe on the automotive industry poses significant risks, while the space for countercyclical policy measures remains limited. ",
+    "bbox": [
+      117,
+      752,
+      725,
+      851
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "19 ",
+    "bbox": [
+      897,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "B. Economies in transition ",
+    "text_level": 1,
+    "bbox": [
+      357,
+      94,
+      598,
+      113
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "For the economies of the Commonwealth of Independent States (CIS), external conditions, including demand from major economies and prices of non-oil commodities, are less supportive in 2019. Growth is expected to moderate, especially as fiscal policies are largely growth-neutral and several countries have tightened monetary policy. The aggregate GDP of the CIS and Georgia is expected to increase by 1.9 per cent in 2019 and 2.3 per cent in 2020. GDP growth in the Russian Federation has been estimated at 2.3 per cent for 2018, exceeding forecasts. A similarly strong performance in 2019 is unlikely. The recent VAT rate hike added to inflationary pressures, curbing consumer spending and impeding monetary easing. The economy is hampered by insufficient business lending and weak investment. With geopolitical tensions continuing, further sanctions could undermine business activity. The implementation of the social and economic development programs should nevertheless modestly add to growth. Among other CIS energy-exporters, Azerbaijan is expected to benefit from higher natural gas output in 2019, while fiscal spending should support the expansion in Kazakhstan. ",
+    "bbox": [
+      272,
+      125,
+      882,
+      353
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Among the CIS energy-importers, growth is projected to weaken in Ukraine. The country is confronted with lower steel prices, potential downscaling of the Russian natural gas transit and massive external debt repayments looming in 2019–2020. Belarus may see higher oil import costs from 2019 onwards, restraining economic activity. The strong expansion recorded in 2018 in several smaller CIS economies may not be sustained. However, growth in Central Asia should exceed the CIS average, and the implementation of the “Belt and Road Initiative” should facilitate infrastructure upgrade and market access. ",
+    "bbox": [
+      274,
+      354,
+      882,
+      484
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "In South-Eastern Europe, the aggregate GDP is expected to expand by 3.4 per cent in 2019 and 3.2 per cent in 2020, supported by investment, in particular in the energy sector, and exports. However, recent incidences of political instability pose risks to the region. ",
+    "bbox": [
+      274,
+      486,
+      882,
+      551
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "C. Developing countries Africa ",
+    "text_level": 1,
+    "bbox": [
+      351,
+      558,
+      580,
+      599
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "The economic outlook for Africa remains challenging. While growth is estimated to pick up, the region faces difficulties in embarking on a robust and sustained growth trajectory, amid a global slowdown, tepid commodity prices and protracted fragilities in many commodity exporters. Aggregate GDP growth is projected at 3.2 per cent in 2019 (see figure XII) and 3.7 per cent in 2020, after an estimated expansion of only 2.7 per cent in 2018. Inflation prospects are improving, due to strong agricultural and food production and stable exchange rates in most economies. But growth rates are insufficient to absorb a fast-growing labour force. The creation of decent jobs, especially for youth, represents a key challenge to build a more inclusive development path and to make further progress in poverty reduction across the continent. The risks to the outlook are tilted to the downside. They include weather-related shocks, political uncertainty and security concerns on the domestic front; and lower-than-expected commodity prices and an escalation of trade tensions on the external one. The recent upsurge in external sovereign bond issuances has also raised debt sustainability concerns in several economies. ",
+    "bbox": [
+      272,
+      613,
+      882,
+      842
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "In North Africa, general sentiment has weakened in tandem with European economies, the subregion’s largest trading partner. In addition, political instability and civil unrest are constraining economic activity in Algeria, Sudan and Tunisia. Yet, growth is vigorous in Egypt, supported by stable balance-of-payment conditions. East Africa remains the fastest-growing subregion, and the short-term outlook is positive. Robust growth in Ethiopia, Kenya and the United Republic of Tanzania is underpinned by strong domestic demand and public investments in infrastructure. West Africa’s economic bloc is expected to continue to expand at a relatively fast pace, mainly due to buoyant domestic demand in countries such as Côte d’Ivoire, Ghana and Senegal. Nigeria’s economy is also slowly recovering, owing to stronger household consumption and fixed investment, gradually rising oil prices and production, and reduced policy uncertainty. In Central Africa, the recovery remains feeble, amid unstable political, social and security conditions. Yet, reforms to improve the business environment, governance and the financial sector should contribute to a gradual pick-up in non-oil sectors, for example in the Central African Republic and Cameroon. Likewise, growth in Southern Africa remains below potential. While South Africa’s outlook remains fragile due to energy constraints and weak business confidence, Angola is slowly recovering from a protracted downturn. Cyclone Idai, one of the worst weather-related disasters ever in the Southern Hemisphere, has caused a major humanitarian crisis, with visible economic impacts in Mozambique as well as in Malawi and Zimbabwe. ",
+    "bbox": [
+      274,
+      843,
+      882,
+      876
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "20 ",
+    "bbox": [
+      86,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 25
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/2e709bf785707801a47a404af51142f4818970a65d528e1ec763fa471eefe4ce.jpg",
+    "image_caption": [
+      "Figure XII Projected real GDP growth in Africa in 2019, by subregion "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      114,
+      127,
+      727,
+      443
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      116,
+      464,
+      727,
+      758
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Asia ",
+    "text_level": 1,
+    "bbox": [
+      194,
+      781,
+      227,
+      796
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Despite elevated external headwinds, the short-term growth outlook in East Asia remains robust. Domestic demand is expected to remain resilient, supported by accommodative policies in most economies. However, the region’s export performance will soften, in tandem with ongoing trade tensions, a more moderate expansion of global demand and a weakening of the global electronics cycle (see figure XIII). Against this backdrop, regional GDP growth is projected to moderate from 5.8 per cent in 2018 to 5.5 per cent in both 2019 and 2020. ",
+    "bbox": [
+      117,
+      805,
+      725,
+      871
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      897,
+      39,
+      911,
+      49
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA estimates. ",
+    "bbox": [
+      753,
+      405,
+      901,
+      416
+    ],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      274,
+      95,
+      882,
+      143
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Growth in China is projected to moderate gradually from 6.6 per cent in 2018 to 6.3 per cent in 2019 and 6.2 per cent in 2020. Recent monetary and fiscal stimulus measures are expected to bolster domestic demand, partially offsetting the adverse impact of trade tariffs on overall growth. Nevertheless, these measures could also exacerbate domestic financial imbalances, raising the risk of a disorderly deleveraging process in the future. ",
+    "bbox": [
+      274,
+      146,
+      882,
+      242
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "For most other economies in the region, domestic demand will continue to drive growth, amid a slowdown in the external sector. Private consumption will be supported by healthy job creation, rising incomes, and moderate inflationary pressures. In Indonesia, the Republic of Korea and Malaysia, the expansion of social welfare programmes will provide additional impetus to consumer spending. Growth in many countries, including the Philippines and Thailand, will also be supported by public investment, amid the continued implementation of large infrastructure projects. ",
+    "bbox": [
+      272,
+      244,
+      882,
+      358
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Downside risks to East Asia’s growth outlook remain elevated. A renewed intensification of trade frictions could severely disrupt the region’s extensive production networks, and prompt businesses to delay investment decisions, thus hampering mediumterm productivity growth. On the domestic front, financial sector vulnerabilities, in particular high corporate and household debt, continue to pose a risk in several countries. ",
+    "bbox": [
+      274,
+      359,
+      882,
+      440
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "South Asia remains on a strong growth path, even as forecasts have been revised downward. Following an expansion of 5.7 per cent in 2018, GDP growth is estimated at 5.0 per cent in 2019 and 5.8 per cent in 2020. Across the region, output continues ",
+    "bbox": [
+      274,
+      441,
+      882,
+      489
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Source: UN/DESA, based on World Semiconductor Trade Statistics, CEIC, IMF Direction of Trade Statistics. ",
+    "bbox": [
+      93,
+      746,
+      246,
+      792
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/finance_7501084/auto/images/8e2bc0f41a973d2ccacc44f6e7f6ce15eb040d1f20e6b3256121f5adb72edc04.jpg",
+    "image_caption": [
+      "Figure XIII Global semiconductor billings vs. East Asia’s exports "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      549,
+      885,
+      882
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Note: Growth figures calculated based on threemonth moving average, nominal dollar levels. ",
+    "bbox": [
+      102,
+      796,
+      246,
+      844
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "22 ",
+    "bbox": [
+      86,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "to be constrained by infrastructure bottlenecks. The Indian economy, which generates two-thirds of the regional output, expanded by 7.2 per cent in 2018. Strong domestic consumption and investment will continue to support growth, which is projected at 7.0 per cent in 2019 and 7.1 per cent in 2020. The economy of Bangladesh is forecast to grow by 7.1 per cent in 2019 and 2020. By contrast, growth in Pakistan is expected to slow from 5.4 per cent in 2018 to about 4 per cent in 2019 and 2020 amid fiscal, inflationary and domestic demand challenges. In the Islamic Republic of Iran, the 0.8 per cent GDP contraction in 2018—largely reflecting external political factors—is expected to be followed by a further 2.0 per cent decline in 2019. ",
+    "bbox": [
+      117,
+      94,
+      725,
+      242
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "In Bangladesh, the slowdown in the EU brings risks to the outlook. The EU accounts for around two-thirds of total exports, with a quarter of exports concentrated in the slowing economies of Germany and the United Kingdom. India’s exports remain more robust, as around half of exports are destined for faster-growing Asian markets. Geopolitical risks continue to confront Afghanistan and the Islamic Republic of Iran. ",
+    "bbox": [
+      117,
+      243,
+      725,
+      325
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Western Asia’s growth forecast for 2019 has been revised down from 2.4 per cent to 1.7 per cent, reflecting forecast downgrades for Saudi Arabia and Turkey. In Saudi Arabia, oil sector output is lower, as the country has complied with new OPEC-led crude oil production cuts. In Turkey, a sharp decline in industrial production, following the steep depreciation of the Turkish lira in August 2018, indicates that the export sector will only slowly benefit from improved price competitiveness. ",
+    "bbox": [
+      117,
+      325,
+      725,
+      424
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Despite a recovery in oil prices during the first quarter of 2019, domestic demand growth remained sluggish in the region’s major oil exporters. Weak domestic demand has dampened inflationary pressures, with Qatar, Saudi Arabia and the United Arab Emirates facing deflation. The subdued outlook for Jordan and Lebanon remains unchanged, as both countries struggle to reduce public debt. Particularly in Lebanon, the growing level of public debt is increasingly exerting pressure on the banking system. The Iraqi economy is forecast to recover steadily as the domestic demand expansion continues. Additional refinery facilities, which were damaged by armed conflict in 2014, have resumed operations, improving the availability of fuel products. Syria’s economy is supported by reconstruction activities. However, economic sanctions have stoked inflationary pressures. While in Yemen the humanitarian crisis continues, the economy is forecast to grow on the back of expanding oil and gas production. The Israeli economy’s robust growth is forecast to continue despite weaker external demand from Europe. ",
+    "bbox": [
+      117,
+      425,
+      725,
+      637
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Latin America and the Caribbean ",
+    "text_level": 1,
+    "bbox": [
+      196,
+      657,
+      433,
+      674
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Amid slowing external demand, ongoing global policy uncertainty and country-specific factors, the economic recovery in Latin America and the Caribbean has lost momentum. Economic activity in late 2018 and early 2019 has been weaker than expected, particularly in some of the region’s largest countries. This has prompted a downward revision of the short-term growth outlook. Regional GDP is projected to expand by 1.1 per cent in 2019, following estimated growth of 0.9 per cent in 2018. Growth is forecast to accelerate to 2.0 per cent in 2020 as economic conditions in Argentina and Brazil improve gradually. ",
+    "bbox": [
+      117,
+      683,
+      725,
+      797
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "The risks to the outlook remain tilted to the downside. Sharper-than-expected slowdowns in the region’s main trading partners—United States, China and the EU—or renewed financial volatility could further weaken the recovery. In several of the region’s economies, ongoing political uncertainty clouds the prospects for investment and growth. In view of significant downside risks, limited inflationary pressures and constrained fiscal space, most central banks are likely to maintain accommodative monetary policies to support growth. ",
+    "bbox": [
+      117,
+      797,
+      727,
+      880
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      392,
+      37,
+      725,
+      50
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "23 ",
+    "bbox": [
+      897,
+      39,
+      913,
+      49
+    ],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      274,
+      95,
+      882,
+      128
+    ],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "The region continues to be marked by stark differences in growth prospects across countries. Annual GDP is expected to contract in 2019 in the Bolivarian Republic of Venezuela and Nicaragua in the wake of socio-political crises, as well as in Argentina, which has entered a large-scale financial assistance programme with the IMF. The shortterm outlook for Brazil and Mexico is weaker than previously expected. In both countries, growth is projected to remain below 2 per cent in 2019. In Brazil, difficulties in implementing much-needed fiscal reform—particularly of the pension system—have negatively affected business confidence and investment, while rising unemployment weighs on household consumption. In Mexico, growth is expected to further moderate in 2019, partly because of policy uncertainty and slowing demand from the United States. The Northern Countries of Central America—El Salvador, Guatemala and Honduras—are expected to see subdued growth in the range of 2.0 to 3.5 per cent. On the other hand, growth prospects remain favourable in several other economies, most notably Bolivia, the Dominican Republic, Panama and Peru. In these countries, strong domestic demand, including increased infrastructure spending, will support activity. In the Caribbean, the expected onset of commercial oil production in Guyana will likely boost regional growth in 2020. ",
+    "bbox": [
+      272,
+      130,
+      882,
+      406
+    ],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "For further information, see bit.ly/wespmidyear or contact ",
+    "bbox": [
+      269,
+      650,
+      666,
+      694
+    ],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "Dawn Holland   \nChief, Global Economic Monitoring Branch   \nEconomic Analysis and Policy Division   \nDepartment of Economic and Social Affairs (DESA)   \nSecretariat Building, Room: S-2534   \nUnited Nations, NY 10017   \nTel:+1 917-367-4942   \nE-mail: hollandd@un.org ",
+    "bbox": [
+      271,
+      703,
+      684,
+      856
+    ],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "World Economic Situation and Prospects as of mid-2019 ",
+    "bbox": [
+      272,
+      37,
+      604,
+      50
+    ],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "24 ",
+    "bbox": [
+      86,
+      39,
+      102,
+      49
+    ],
+    "page_idx": 29
+  }
+]

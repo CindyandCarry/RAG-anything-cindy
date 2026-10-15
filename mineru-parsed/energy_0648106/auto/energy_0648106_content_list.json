@@ -1,0 +1,538 @@
+[
+  {
+    "type": "text",
+    "text": "Research on Source Maintenance Key Technology of the Smart Substation ",
+    "text_level": 1,
+    "bbox": [
+      146,
+      179,
+      778,
+      240
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Wei Liang1, Nan Wang2, Zheng Wang1, Tao Liu1, Yunfei Mu3 ",
+    "bbox": [
+      142,
+      261,
+      638,
+      278
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1 State Grid Tianjin Electric Power Research Institute, Tianjin, China   \n2 State Grid Tianjin Economic Research Institute, Tianjin, China   \n3 Key Laboratory of Smart Grid of Ministry of Education, Tianjin University, Tianjin, China   \nEmail: losowei@163.com ",
+    "bbox": [
+      144,
+      285,
+      746,
+      345
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Received November 2013 ",
+    "bbox": [
+      144,
+      361,
+      321,
+      375
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Abstract ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      420,
+      223,
+      436
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "The source maintenance technology of the smart substation offers the base for the models, data and graphs sharing between the substation and the dispatch center. This paper researches on the conversion technology between SCD model in IEC 61850 Ed. 2 and the CIM model in IEC 61970. The substation provides SVG and SCD documents to the dispatch center, which includes primary equipment information and the network topology. The dispatch center’s automation system completes the conversion between the two models. This paper researches on the smart remote technology, which uses IEC 61850 as communication protocol. It can filter and restructure communication data based on the needs of different dispatch center. At the same time, it can provide quality control of communication link, to ensure that the important data be sent in real time. ",
+    "bbox": [
+      144,
+      444,
+      905,
+      575
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Keywords ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      591,
+      238,
+      607
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "IEC 61850; IEC 61970; Model Conversion; SCD; CIM; Smart Remote; Source Maintenance ",
+    "bbox": [
+      146,
+      615,
+      818,
+      629
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "1. Introduction ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      676,
+      284,
+      693
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Source maintenance technology is an important part of smart substation advanced applications. It requests that the substation provides a variety of self-described configuration parameters as the data source of the dispatch center. We can use the unified configuration tool to generate the standard configuration files including substation wiring diagrams, network topology and other parameters and data model when we are maintaining in the substation. The dispatch centers don’t have to rebuild the data model; they can receive the standard configuration files automatically, and import them into their own system database. The sharing of graphs, data and models are implemented by model information mapping technique [1]. ",
+    "bbox": [
+      144,
+      701,
+      905,
+      804
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Source Maintenance Technology can provide forceful guarantee for data consistency at dispatch centers, ensure the data model consistency between the substation terminal side and dispatch centers, eliminate the potential risks caused by the data model inconsistencies, and improve the system reliability. Smart substation source maintenance technology includes unified modeling of full station data which meets IEC61850 standard; model mapping between the SCD files based on IEC61850 standard and the CIM files based on IEC61970 standard [2]; smart remote technology which uses IEC61850 standard protocol as the communication protocol between smart substation and dispatch center [3]. This paper studies the above key technologies. Specific program is shown in Figure 1. ",
+    "bbox": [
+      144,
+      805,
+      905,
+      893
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "福 ScientificResearch",
+    "bbox": [
+      794,
+      69,
+      902,
+      100
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Journal of Power and Energy Engineering, 2014, 2, 239-243 Published Online April 2014 in SciRes. http://www.scirp.org/journal/jpee http://dx.doi.org/10.4236/jpee.2014.24034 ",
+    "bbox": [
+      92,
+      70,
+      544,
+      110
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "How to cite this paper: Liang, W., Wang, N., Wang, Z., Liu, T. And Mu, Y.F. (2014) Research on Source Maintenance Key Technology of the Smart Substation. Journal of Power and Energy Engineering, 2, 239-243. http://dx.doi.org/10.4236/jpee.2014.24034 ",
+    "bbox": [
+      144,
+      905,
+      905,
+      946
+    ],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      139,
+      105,
+      905,
+      134
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "2. Model Mapping between IEC61850 and IEC61970 ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      147,
+      621,
+      164
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Currently, IEC61850 Ed.2 standard has been upgraded to the electric power enterprise automation system communication architecture standard, which supports the coordination of the IEC61970 CIM in the dispatch centers, and realizes the functions that master dispatch terminal can access to field device information seamlessly [4]. Both the SCD model and the CIM model use the object-oriented technology to build the data model, and the XML as their own description language, so the SCD model and CIM model have many similarities. By establishing the mapping relationship between the two models, we can convert the SCD model to CIM model, which mainly includes device containers, conductive device, topological relations, and measurement model [5], as shown in Table 1. ",
+    "bbox": [
+      142,
+      172,
+      907,
+      290
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The conductive devices in SCD model are relatively general, only including the attributes of devices. On the other side, the devices in CIM/E model are defined as classified. As a result, the conductive devices in SCD model and the specific devices class can map by the attributes [6]. As shown in Table 2, some of the devices type have no mapping devices in CIM/E, for example, the lightning arrester and the cathead. For those devices, we don’t establish mapping relationship. ",
+    "bbox": [
+      142,
+      290,
+      907,
+      365
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0648106/auto/images/10506983f9a8d687313387de0a00e99adc7aad548fd4d7b36af9f4357147465d.jpg",
+    "image_caption": [
+      "Figure 1. Source maintenance framework map. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      371,
+      381,
+      682,
+      599
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_0648106/auto/images/c146d11e984f846877ddc69e7943b82d12d0c31db528699c7cb926d0a0688e25.jpg",
+    "table_caption": [
+      "Table 1. Mapping of SCD and CIM Model. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Mapping Type</td><td>SCD Model</td><td>CIM Model</td></tr><tr><td rowspan=\"3\">device containers</td><td>Substation</td><td>Sub Control Area</td></tr><tr><td>Voltage Level</td><td>Base Voltage</td></tr><tr><td>Bay</td><td>AC Line Segment,Energy Consumer,Busbar Section</td></tr><tr><td rowspan=\"3\">conductive device</td><td rowspan=\"3\">Conducting Equipment</td><td>Power-Transformer</td></tr><tr><td>Breaker</td></tr><tr><td>Disconnecter</td></tr><tr><td rowspan=\"2\">topological relations</td><td>Terminal</td><td>AC Line Segment</td></tr><tr><td>Connectivity Node</td><td>I_node</td></tr><tr><td rowspan=\"2\">measurement model</td><td></td><td>J_node</td></tr><tr><td>L node ：</td><td>Discrete Analog</td></tr></table>",
+    "bbox": [
+      146,
+      654,
+      905,
+      889
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "240 ",
+    "bbox": [
+      472,
+      928,
+      526,
+      967
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "W. Liang et al. ",
+    "bbox": [
+      92,
+      70,
+      184,
+      81
+    ],
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "mineru-parsed/energy_0648106/auto/images/33be16c99be85f480dfa0a5915790dfcde39885c0bf6c2d9a87cf06d030680f6.jpg",
+    "table_caption": [
+      "Table 2. Conductive devices mapping relationship. "
+    ],
+    "table_footnote": [],
+    "table_body": "<table><tr><td>Conductive devices type</td><td>CIM Model</td></tr><tr><td>CBR</td><td>Breaker</td></tr><tr><td>DIS</td><td>Disconnecter</td></tr><tr><td>LIN</td><td>AC Line Segment DC Line Segment</td></tr><tr><td>·</td><td></td></tr></table>",
+    "bbox": [
+      305,
+      122,
+      690,
+      240
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "3. Intelligent Remote Technology Meeting the IEC Protocol ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      251,
+      684,
+      269
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Currently, the communication between the smart substation and the dispatch center still use traditional IEC60870-5-101 or 104 protocols. The system need to transform the IEC61850 to the 101/104 protocol so that the communication complete successfully [7]. Because the traditional protocol does not support the object-oriented modeling methods, the system must transform the IEC61850 object to certain information points, leading to extremely complex configuration tasks of forwarding information, which greatly increases the workload of the system and results in many errors, for example, unable to achieve seamless interconnection, as shown in Figure 2. ",
+    "bbox": [
+      142,
+      275,
+      905,
+      379
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To solve the problems, it is necessary to develop a new generation of smart remote device, which use IEC61850 as communication protocol. It can make sure the consistent between the communication model and the substation data model, avoid series of project implementation and maintenance issues, such as model conversion, secondary configuration and transmission test. The smart remote device solves the following two technical difficulties, as shown in Figure 3. ",
+    "bbox": [
+      142,
+      381,
+      905,
+      454
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Firstly, for the dispatch system, the IEC61850 describes the substation data model over detailed. The SCD file contains full data of various voltage levels. But the dispatch center of different levels concerns various contents. For example, the junior dispatch center cares about $1 1 0 \\mathrm { k V }$ voltage level, while the senior dispatch center cares about $2 2 0 \\mathrm { k V }$ or $5 0 0 \\mathrm { k V }$ voltage level. It is obviously unrealistic if the substations upload the whole SCD file to every different level of dispatch center, and ask them to pick out the data they need from the massive data. ",
+    "bbox": [
+      142,
+      455,
+      907,
+      528
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Secondly, different from 101/104 protocol, the iec61850 protocol don’t control the priority of data, which means that the data isn’t divided into junior and senior level data, and rapid transmission of important data cannot be guaranteed. For example, when a large number of telemetry data is sent to the dispatch center cyclically, meanwhile, the switcher operates and the information must be sent to the dispatch center. It is likely the data can’t be delivered on dispatch center immediately because the communication bandwidth is limited. Therefore, in order to achieve the communication sharing based on IEC61850, the remote device must be smarter. It is not only the communication gateway device forwarding message transparently, but also the server filtering and restructuring data. It gathers, filters and groups the IED’s data, to form a new dataset such as $5 0 0 \\mathrm { k V }$ dataset, 220 kV dataset, etc. and send to the dispatch centers, depending on the information content required for the different dispatch center. Considering the problem that the iec61850 don’t have priority control, it is proposed to revise the current mechanisms of MMS services, to interrupt the data being transmitted and insert the higher- priority data in this paper. Additionally, we may reinforce communication channel’s quality controlling or use another channel to transmit the important data such as the switcher operation information, to ensure that the important data be sent in real time. ",
+    "bbox": [
+      142,
+      530,
+      907,
+      736
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "4. Conclusions ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      750,
+      278,
+      766
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Currently, source maintenance functions still remain in the preliminary stage, and there is no practical engineering solution. This paper researched on the source maintenance key technology of the smart substation, proposed practical techniques method. The substation provides SVG and SCD documents to the dispatch center, which includes Primary equipment information and the network topology. The dispatch center’s automation system completes the conversion between the two models. The dispatch center and substation communicate through the smart remote device, which based on IEC61850 protocol. The dispatch center’s automatic system does not need to model the data, and the data modeling work is done at the substation side. By doing this, the workload of the dispatch center is reduced substantially. Furthermore, the need of manual configuration of substation sending data and dispatch center receiving data does not exist. The technical staff doesn’t need to experiment a lot of test to verify the correctness of the configuration and the system’s reliability is improved. ",
+    "bbox": [
+      142,
+      773,
+      907,
+      893
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      472,
+      928,
+      524,
+      967
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "W. Liang et al. ",
+    "bbox": [
+      813,
+      70,
+      904,
+      81
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      946,
+      1,
+      961,
+      89
+    ],
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0648106/auto/images/fe876a6e2b85c443a97ac8b5a6b74b2177a140799542e1406c5a3c8665bb6a61.jpg",
+    "image_caption": [
+      "Figure 2. IEC61850 to 101/104. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      406,
+      105,
+      647,
+      294
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "mineru-parsed/energy_0648106/auto/images/563c7937b07fb40e04b15da5ad1db8f43c07d11dec42dfbcf4d61ea86605e423.jpg",
+    "image_caption": [
+      "Figure 3. New approach to exchange real-time data. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      405,
+      329,
+      647,
+      518
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      139,
+      568,
+      904,
+      597
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "With the continuous development of network communication technology, the Source maintenance functions will be more extensive and practical, the data sharing technology and application integration will be further developed, which is useful for the advanced function’s progress, such as real-time automatic control of the grid, smart regulation, on-line analysis and decision, etc. ",
+    "bbox": [
+      142,
+      599,
+      905,
+      658
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "References ",
+    "text_level": 1,
+    "bbox": [
+      144,
+      672,
+      248,
+      686
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "[1] (2012) Research on Model Conversion Technology of Source Servicing in Unified Information Platform of Smart Substation. Power Transmission and Distribution Technology, 33, Phase I.   \n[2] (2004) IEC 61850-6 Ed. 2: 2004 (E) Communication Networks and Systems for Power Utility Automation-Part 6: Configuration Description Language for Communication in Electrical Substations Related to IEDs.   \n[3] Becker, D. (2010) Harmonizing the International Electro-Echnical Commission Common Information Model (CIM) and 61850. Electric Power Research Institute (EPRI-USA).   \n[4] Kostic, P.O. (2006) Unified Information Models in Support of Location Transparency for Future Utility Applications. System Sciences, 11, 242a.   \n[5] Rodri, S.R. (2010) Ontology Matching Approach to the Harmonization of CIM and IEC 61850 Standards. Smart Grid Communication, 10, 55-60.   \n[6] Mike, D. and Guus, S. (2005) OWL Web Ontology Language Reference.   \n[7] (2002) Draft IEC61970: Energy Management System Application Program Interface (EMS-API)—Part 1:Guidelines and General Requirements, Revision 7.   \n[8] Karus, S. and Dumas, M. (2011) Designing Maintainable XML Transformation. Software Maintenance and Reengineering, 15, 137-145.   \n[9] Tan, W.S. (2001) Seamless Telecontrol Communication Architecture. Power System Technology, 25, 7-10.   \n[10] Christoph, B. (2007) Status Update on IEC 61850-Current Activities of IEC TC57,WG10. International Conference on Advanced Power System Automation and Protection, Korea, 24-27 April 2007.   \n[11] Sun, J.P., Sheng, W.X. and Wang, S.A. (2003) Study on the New Substation Automation Network Communication System. Proceedings of the CSEE, 23, 16-19.   \n[12] Zhu, Y.L., Huang, M. and Di, J. (2005) The Study on WAN-Based Telecontrol System for Power Systems. Proceedings of the CSEE, 25, 119-124.   \n[13] Brodt, W., Dinges, R., Schinnel, G., et al. (2002) Application of IEC 61850 for Modeling of Control Center View of a Substation and for the Communication between Substation and Control Centers. Report to the IEC TC57 SPAG.   \n[14] Preiss, O. and Kostic, T. (2006) Unified Information Models in Support of Location Transparency for Future Utility Applications. Proceedings of the 39th Hawaii International Conference on System Sciences (HICSS’6), Hawaii. http://dx.doi.org/10.1109/HICSS.2006.517   \n[15] Yi, Y.H., Cao, Y.J., et al. (2007) An IEC 61850 Universal Gateway Based on Metadata Modeling. IEEE PES General Meeting, Tampa.   \n[16] (2004) IEC61850-8-1 Communication Networks and Systems in Substations. Part 8-1: Specific Communication Service Mapping (SCSM)-Mappings to MMS(ISO 9506-1 and ISO 9506-2) and to ISO/IEC 8802-3.   \n[17] (2004) IEC61850-5 Communication Networks and Systems in Substations. Part 5: Communication Requirements for Functions and Device Models. ",
+    "bbox": [
+      141,
+      695,
+      907,
+      889
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      472,
+      928,
+      524,
+      967
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "W. Liang et al. ",
+    "bbox": [
+      92,
+      70,
+      184,
+      81
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      40,
+      0,
+      55,
+      91
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      141,
+      102,
+      907,
+      402
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "243 ",
+    "bbox": [
+      472,
+      928,
+      526,
+      967
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "W. Liang et al. ",
+    "bbox": [
+      813,
+      70,
+      904,
+      81
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      946,
+      1,
+      961,
+      89
+    ],
+    "page_idx": 4
+  }
+]
